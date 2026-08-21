@@ -1,0 +1,574 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>竹食圖 — 新竹市 × 竹北 餐廳地圖</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@500;700;900&family=Noto+Sans+TC:wght@400;500;700&family=Zhi+Mang+Xing&display=swap');
+
+  :root{
+    --ink:#1b1a17;
+    --paper:#f2ede1;
+    --paper2:#e9e1cf;
+    --seal:#a7332a;
+    --gold:#b8863b;
+    --jade:#3c5a4b;
+    --line:#c9bfa4;
+    --white:#fffdf8;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  body{
+    background:var(--paper);
+    color:var(--ink);
+    font-family:'Noto Sans TC', sans-serif;
+    background-image:
+      radial-gradient(circle at 20% 10%, rgba(184,134,59,0.06), transparent 40%),
+      radial-gradient(circle at 90% 80%, rgba(167,51,42,0.05), transparent 45%);
+  }
+  ::selection{ background:var(--seal); color:var(--white); }
+  img{ display:block; }
+
+  header{
+    position:relative;
+    padding:56px 6vw 40px;
+    overflow:hidden;
+    border-bottom:3px solid var(--ink);
+  }
+  header::before{
+    content:"";
+    position:absolute; inset:0;
+    background-image: repeating-linear-gradient(45deg, rgba(27,26,23,0.025) 0 2px, transparent 2px 14px);
+    pointer-events:none;
+  }
+  .eyebrow{
+    font-family:'Zhi Mang Xing', cursive;
+    font-size:22px;
+    color:var(--seal);
+    letter-spacing:2px;
+    margin-bottom:6px;
+  }
+  h1{
+    font-family:'Noto Serif TC', serif;
+    font-weight:900;
+    font-size:clamp(38px,6.5vw,76px);
+    line-height:1.02;
+    letter-spacing:1px;
+  }
+  h1 .accent{ color:var(--seal); }
+  .subhead{
+    margin-top:16px;
+    max-width:560px;
+    font-size:15.5px;
+    line-height:1.85;
+    color:#4a463d;
+  }
+  .stamp{
+    position:absolute;
+    top:52px; right:6vw;
+    width:92px; height:92px;
+    border:3px solid var(--seal);
+    border-radius:6px;
+    display:flex; align-items:center; justify-content:center;
+    transform:rotate(6deg);
+    color:var(--seal);
+    font-family:'Noto Serif TC',serif;
+    font-weight:900;
+    font-size:14px;
+    line-height:1.3;
+    text-align:center;
+    opacity:0.9;
+  }
+  @media (max-width:720px){ .stamp{ display:none; } }
+
+  .controls{
+    position:sticky; top:0; z-index:30;
+    background:rgba(242,237,225,0.95);
+    backdrop-filter:blur(6px);
+    border-bottom:1px solid var(--line);
+    padding:16px 6vw;
+  }
+  .search-row{
+    display:flex; gap:12px; flex-wrap:wrap; align-items:center; margin-bottom:12px;
+  }
+  .search-box{ flex:1 1 220px; position:relative; }
+  .search-box input{
+    width:100%;
+    padding:12px 16px 12px 40px;
+    border:2px solid var(--ink);
+    border-radius:999px;
+    background:var(--white);
+    font-family:'Noto Sans TC',sans-serif;
+    font-size:14.5px;
+    outline:none;
+    transition:box-shadow .2s ease;
+  }
+  .search-box input:focus{ box-shadow:0 0 0 3px rgba(167,51,42,0.18); }
+  .search-box svg{ position:absolute; left:14px; top:50%; transform:translateY(-50%); opacity:.55; }
+
+  .area-toggle{ display:flex; border:2px solid var(--ink); border-radius:999px; overflow:hidden; flex:0 0 auto; }
+  .area-toggle button{
+    padding:11px 18px; border:none; background:var(--white);
+    font-family:'Noto Sans TC',sans-serif; font-weight:700; font-size:13.5px;
+    cursor:pointer; color:var(--ink); transition:background .2s, color .2s;
+  }
+  .area-toggle button + button{ border-left:2px solid var(--ink); }
+  .area-toggle button.active{ background:var(--ink); color:var(--paper); }
+
+  .hours-toggle{
+    display:flex; align-items:center; gap:8px;
+    padding:10px 16px;
+    border:2px solid var(--jade);
+    border-radius:999px;
+    background:var(--white);
+    cursor:pointer;
+    font-size:13.5px;
+    font-weight:700;
+    color:var(--jade);
+    flex:0 0 auto;
+    user-select:none;
+  }
+  .hours-toggle.active{ background:var(--jade); color:var(--white); }
+  .hours-toggle .indicator{ width:8px; height:8px; border-radius:50%; background:#8a8474; }
+  .hours-toggle.active .indicator{ background:#8ee0a8; box-shadow:0 0 6px #8ee0a8; }
+
+  .time-select-row{
+    display:none;
+    gap:10px; align-items:center; flex-wrap:wrap;
+    margin-bottom:12px;
+    font-size:13px; color:#5a5548;
+  }
+  .time-select-row.visible{ display:flex; }
+  .time-select-row select{
+    padding:8px 10px; border:1.5px solid var(--line); border-radius:8px;
+    background:var(--white); font-family:'Noto Sans TC',sans-serif; font-size:13px;
+  }
+
+  .cat-row{
+    display:flex; gap:9px; flex-wrap:nowrap; overflow-x:auto;
+    padding-bottom:4px; scrollbar-width:thin;
+    -webkit-overflow-scrolling:touch;
+  }
+  .cat-row::-webkit-scrollbar{ height:5px; }
+  .cat-row::-webkit-scrollbar-thumb{ background:var(--line); border-radius:99px; }
+  .cat-row .chip{ flex:0 0 auto; }
+  .chip{
+    padding:7px 15px; border:1.5px solid var(--line); border-radius:999px;
+    background:var(--white); font-size:13px; font-weight:500; cursor:pointer;
+    display:flex; align-items:center; gap:6px; color:#5a5548;
+    transition:all .18s ease; white-space:nowrap;
+  }
+  .chip .dot{ width:7px; height:7px; border-radius:50%; background:currentColor; opacity:.6;}
+  .chip:hover{ border-color:var(--ink); color:var(--ink); }
+  .chip.active{ background:var(--ink); border-color:var(--ink); color:var(--paper); }
+  .chip.active .dot{ background:var(--gold); opacity:1;}
+
+  .result-count{ margin-top:10px; font-size:12.5px; color:#7a7568; font-style:italic; }
+
+  main{ padding:40px 6vw 100px; }
+  .grid{ display:grid; grid-template-columns:repeat(auto-fill, minmax(300px,1fr)); gap:26px; }
+  .card{
+    background:var(--white); border:1.5px solid var(--ink); border-radius:4px;
+    overflow:hidden; display:flex; flex-direction:column; position:relative;
+    transition:transform .22s ease, box-shadow .22s ease;
+  }
+  .card:hover{ transform:translateY(-5px); box-shadow:8px 10px 0 rgba(27,26,23,0.9); }
+
+  .card-photo{
+    position:relative; width:100%; height:150px; overflow:hidden;
+    border-bottom:1.5px solid var(--ink);
+    display:flex; align-items:center; justify-content:center;
+  }
+  .card-photo svg{ width:100%; height:100%; }
+  .card-photo img{ width:100%; height:100%; object-fit:cover; }
+  .card-photo-fallback{ width:100%; height:100%; }
+  .card-photo-fallback svg{ width:100%; height:100%; display:block; }
+  .card-photo .cat-label{
+    position:absolute; bottom:8px; left:12px;
+    font-family:'Noto Serif TC',serif; font-weight:700; font-size:13px;
+    color:rgba(255,255,255,0.92); text-shadow:0 1px 3px rgba(0,0,0,0.4);
+  }
+  .card-open-badge{
+    position:absolute; top:10px; left:10px;
+    font-size:11px; font-weight:700; padding:4px 10px; border-radius:999px;
+    display:flex; align-items:center; gap:5px;
+  }
+  .card-open-badge.open{ background:#e4f4e8; color:#2c6b41; }
+  .card-open-badge.closed{ background:#f6e3e1; color:#a7332a; }
+  .card-open-badge .dot{ width:6px; height:6px; border-radius:50%; background:currentColor; }
+
+  .card-top{ padding:16px 18px 12px; border-bottom:1px dashed var(--line); position:relative; }
+  .card-cat{
+    position:absolute; top:14px; right:16px; font-size:10.5px; font-weight:700; letter-spacing:.5px;
+    padding:4px 10px; border-radius:999px; background:var(--paper2); color:var(--ink);
+  }
+  .card-name{
+    font-family:'Noto Serif TC', serif; font-weight:700; font-size:19px; line-height:1.35;
+    padding-right:60px; margin-bottom:6px;
+  }
+  .card-area{
+    display:inline-block; font-size:11.5px; font-weight:700; color:var(--jade);
+    border:1px solid var(--jade); border-radius:999px; padding:2px 9px; margin-bottom:8px;
+  }
+  .card-rating{ display:flex; align-items:center; gap:6px; font-size:13px; color:#59544a; }
+  .card-rating .stars{ color:var(--gold); font-weight:700; }
+
+  .card-body{ padding:14px 18px 16px; flex:1; display:flex; flex-direction:column; gap:10px; }
+  .card-hours{ font-size:12.5px; color:#4c473d; display:flex; align-items:baseline; gap:6px; }
+  .card-hours b{ color:var(--ink); font-weight:700; }
+  .card-parking{
+    font-size:12px; line-height:1.6; color:#4c473d;
+    display:flex; gap:6px; align-items:flex-start;
+    background:var(--paper); border:1px dashed var(--line); border-radius:6px; padding:8px 10px;
+  }
+  .card-parking .icon{ flex:0 0 auto; margin-top:1px; }
+  .card-tags{ display:flex; flex-wrap:wrap; gap:6px; margin-top:auto; }
+  .card-tags span{
+    font-size:10.5px; padding:3px 8px; border-radius:4px;
+    background:var(--paper); border:1px solid var(--line); color:#6b6656;
+  }
+  .card-foot{
+    display:flex; justify-content:space-between; align-items:center;
+    padding:12px 18px; border-top:1.5px solid var(--ink); background:var(--paper2); font-size:12px;
+  }
+  .card-foot .price{ font-weight:700; color:var(--seal); letter-spacing:1px; }
+  .card-foot .links{ display:flex; gap:12px; }
+  .card-foot a{
+    color:var(--ink); text-decoration:none; font-weight:700;
+    display:flex; align-items:center; gap:4px; border-bottom:1.5px solid var(--ink);
+  }
+
+  .empty-state{ text-align:center; padding:80px 20px; color:#8a8474; }
+  .empty-state .kanji{
+    font-family:'Zhi Mang Xing', cursive; font-size:56px; color:var(--seal); margin-bottom:10px; display:block;
+  }
+
+  footer{
+    padding:32px 6vw 46px; border-top:3px solid var(--ink);
+    display:flex; justify-content:space-between; flex-wrap:wrap; gap:10px;
+    font-size:12px; color:#7a7568;
+  }
+  footer a{ color:#7a7568; }
+
+  @media (max-width:520px){
+    header{ padding:44px 5vw 32px; }
+    .controls, main, footer{ padding-left:5vw; padding-right:5vw; }
+    .card-name{ font-size:18px; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="eyebrow">竹塹食單 · 開吃地圖</div>
+  <h1>竹食圖<span class="accent">。</span></h1>
+  <p class="subhead">從護城河邊的老字號到竹北高鐵旁的新派餐酒，收錄新竹市與竹北的口袋名單。可篩選是否現正營業、依分類挑選，並標註附近停車資訊。相片與評分來自 Google Maps。</p>
+  <div class="stamp">竹北<br>新竹<br>食記</div>
+</header>
+
+<div class="controls">
+  <div class="search-row">
+    <div class="search-box">
+      <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+      <input id="searchInput" type="text" placeholder="搜尋店名、菜系或關鍵字…">
+    </div>
+    <div class="area-toggle" id="areaToggle">
+      <button data-area="all" class="active">全部區域</button>
+      <button data-area="新竹市">新竹市</button>
+      <button data-area="竹北">竹北</button>
+    </div>
+    <div class="hours-toggle" id="hoursToggle">
+      <span class="indicator"></span>
+      <span id="hoursToggleLabel">只看現在營業中</span>
+    </div>
+  </div>
+  <div class="time-select-row" id="timeSelectRow">
+    指定時間查詢：
+    <select id="daySelect"></select>
+    <select id="timeSelect"></select>
+    <button id="clearTimeBtn" style="border:none;background:none;text-decoration:underline;cursor:pointer;color:var(--seal);font-size:13px;">清除，改用現在時間</button>
+  </div>
+  <div class="cat-row" id="catRow"></div>
+  <div class="result-count" id="resultCount"></div>
+</div>
+
+<main>
+  <div class="grid" id="grid"></div>
+  <div class="empty-state" id="emptyState" style="display:none;">
+    <span class="kanji">無</span>
+    找不到符合條件的餐廳，試試調整篩選條件
+  </div>
+</main>
+
+<footer>
+  <span>竹食圖 · 餐廳資訊與相片由 Google Maps 提供，僅供參考，實際請以店家公告為準</span>
+  <span>新竹市 × 竹北市 · 2026</span>
+</footer>
+
+<script>
+const HOURS = {"福氣廚房－新竹世界店":[[],[[1050,1440]],[[1050,1440]],[[1050,1440]],[[1050,1440]],[[690,840],[1050,1440]],[[690,840],[1050,1200]]],"常宿料理廚房":[[[690,840],[1050,1260]],[[690,840],[1050,1260]],[],[[690,840],[1050,1260]],[[690,840],[1050,1260]],[[690,840],[1050,1260]],[[690,840],[1050,1260]]],"HoChu Yuan 好厝院":[[],[],[[690,830],[1050,1250]],[[690,830],[1050,1250]],[[690,830],[1050,1250]],[[660,830],[1020,1250]],[[660,830],[1020,1230]]],"新橋弄堂":[[],[[690,840],[1050,1260]],[[690,840],[1050,1260]],[[690,840],[1050,1260]],[[690,840],[1050,1260]],[[690,870],[1050,1290]],[[690,870],[1050,1290]]],"Daily Ping 平日":[[],[[570,1080]],[[570,1260]],[[570,1260]],[[570,1260]],[[570,1260]],[[570,1080]]],"Casa Bistro":[[],[[690,840],[1080,1260]],[[690,840],[1080,1260]],[[690,840],[1080,1260]],[[690,840],[1080,1260]],[[690,840],[1080,1260]],[[690,840],[1080,1260]]],"饌憶餐坊－新竹市":[[[720,810]],[],[],[[720,810],[1050,1230]],[[720,810],[1050,1230]],[[690,810],[1050,1230]],[[690,810],[1050,1230]]],"TABLE JOE 喏桌子廚房":[[],[[660,1260]],[[660,1260]],[[660,1260]],[[660,1260]],[[600,1260]],[[600,1260]]],"Next Stop+":[[[690,870],[1020,1230]],[[690,870],[1020,1230]],[],[[690,870],[1020,1230]],[[690,870],[1020,1230]],[[690,870],[1020,1230]],[[690,870],[1020,1230]]],"和平小館":[[[660,840],[1020,1260]],[[660,840],[1020,1260]],[[660,840],[1020,1260]],[[660,840],[1020,1260]],[[660,840],[1020,1260]],[[660,840],[1020,1260]],[[660,840],[1020,1260]]],"陸本木燒肉":[[[1020,1440]],[[1020,1440]],[[1020,1440]],[[1020,1440]],[[1020,1440]],[[600,840],[1020,1440]],[[600,840],[1020,1440]]],"虎留香 特色麵食館":[[[660,1260]],[[660,1260]],[[660,1260]],[[660,1260]],[[660,1290]],[[660,1290]],[[660,1260]]],"和牛淚－竹北光明店":[[[660,1560]],[[660,1560]],[[660,1560]],[[660,1560]],[[660,1560]],[[660,1560]],[[660,1560]]],"泰銷魂 竹北嘉政店":[[[660,840],[1050,1260]],[[660,840],[1050,1260]],[[660,840],[1050,1260]],[[660,840],[1050,1260]],[[660,840],[1050,1260]],[[660,840],[1050,1260]],[[660,840],[1050,1260]]],"裏月．晴酒しゃぶしゃぶ":[[[900,1320]],[[900,1320]],[[900,1320]],[[900,1320]],[[900,1320]],[[660,900],[1020,1320]],[[660,900],[1020,1320]]],"客家本色 竹北店":[[],[[660,840],[1020,1290]],[[660,840],[1020,1290]],[[660,840],[1020,1290]],[[660,840],[1020,1290]],[[660,840],[1020,1290]],[[660,840],[1020,1290]]],"DIDcoffee":[[[600,1080]],[[600,1080]],[[600,1080]],[[600,1080]],[[600,1080]],[[600,1080]],[[600,1080]]],"有田咖啡 Youtian Cafe":[[[660,1140]],[[660,1140]],[[660,1140]],[[660,1140]],[[660,1140]],[[660,1140]],[[660,1140]]],"Blue Balloon Cafe":[[[660,1110]],[[660,1110]],[[660,1110]],[[660,1110]],[[660,1110]],[[660,1110]],[]],"kafeD 新竹大遠百店":[[[660,1290]],[[660,1290]],[[660,1290]],[[660,1290]],[[660,1320]],[[660,1320]],[[660,1290]]],"Ni Café 妮咖啡 竹北店":[[[540,1080]],[[540,1080]],[[540,1080]],[[540,1080]],[[540,1080]],[[540,1080]],[[540,1080]]]};
+
+const DAY_NAMES = ["週一","週二","週三","週四","週五","週六","週日"];
+
+function fmtHM(min){
+  const h = Math.floor((min%1440)/60);
+  const m = min%60;
+  const ampm = h<12 ? "上午" : "下午";
+  let h12 = h%12; if(h12===0) h12=12;
+  return `${ampm}${h12}:${String(m).padStart(2,'0')}`;
+}
+
+const CAT_VISUAL = {
+  "日式料理":{ch:"鮨",bg:"#3c5a4b"},
+  "合菜/創意料理":{ch:"饌",bg:"#a7332a"},
+  "台式合菜":{ch:"台",bg:"#b8863b"},
+  "江浙料理":{ch:"滬",bg:"#5a4636"},
+  "早午餐":{ch:"晨",bg:"#c98a4b"},
+  "義式料理":{ch:"義",bg:"#6b7a4f"},
+  "美式早午餐":{ch:"美",bg:"#a05c3f"},
+  "港式料理":{ch:"港",bg:"#8a3b3b"},
+  "日式燒肉":{ch:"燒",bg:"#3c5a4b"},
+  "麵食/小吃":{ch:"麵",bg:"#7a5230"},
+  "燒肉/鍋物":{ch:"肉",bg:"#7a2f2a"},
+  "泰式料理":{ch:"泰",bg:"#4a7a5a"},
+  "日式涮涮鍋":{ch:"鍋",bg:"#2f4d5e"},
+  "客家料理":{ch:"客",bg:"#8a5a2a"},
+  "咖啡/甜點":{ch:"茶",bg:"#5a4030"},
+  "咖啡/簡餐":{ch:"茶",bg:"#5a4030"},
+  "咖啡/下午茶":{ch:"茶",bg:"#5a4030"},
+  "咖啡/早午餐":{ch:"茶",bg:"#5a4030"}
+};
+
+function catVisualSvg(cat){
+  const v = CAT_VISUAL[cat] || {ch:"食", bg:"#3c3530"};
+  return `<svg viewBox="0 0 400 300" preserveAspectRatio="xMidYMid slice" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="g-${encodeURIComponent(cat)}" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="${v.bg}"/>
+        <stop offset="100%" stop-color="${v.bg}" stop-opacity="0.72"/>
+      </linearGradient>
+      <pattern id="p-${encodeURIComponent(cat)}" width="16" height="16" patternTransform="rotate(45)" patternUnits="userSpaceOnUse">
+        <line x1="0" y1="0" x2="0" y2="16" stroke="rgba(255,255,255,0.06)" stroke-width="8"/>
+      </pattern>
+    </defs>
+    <rect width="400" height="300" fill="url(#g-${encodeURIComponent(cat)})"/>
+    <rect width="400" height="300" fill="url(#p-${encodeURIComponent(cat)})"/>
+    <circle cx="200" cy="130" r="72" fill="none" stroke="rgba(255,255,255,0.35)" stroke-width="2"/>
+    <text x="200" y="160" text-anchor="middle" font-family="'Noto Serif TC', serif" font-weight="900" font-size="96" fill="rgba(255,255,255,0.95)">${v.ch}</text>
+  </svg>`;
+}
+
+function hoursSummary(name){
+  const week = HOURS[name];
+  if(!week) return "營業時間請洽店家";
+  const today = (new Date().getDay()+6)%7;
+  const ranges = week[today];
+  if(!ranges || ranges.length===0) return `${DAY_NAMES[today]}公休`;
+  return `${DAY_NAMES[today]} ` + ranges.map(r=>`${fmtHM(r[0])}–${fmtHM(r[1])}`).join('、');
+}
+
+function isOpenAt(name, dayIdx, minutes){
+  const week = HOURS[name];
+  if(!week) return null;
+  const check = (d, absMin) => {
+    const ranges = week[((d%7)+7)%7];
+    return ranges.some(r => absMin >= (d*1440+r[0]) && absMin < (d*1440+r[1]));
+  };
+  const abs = dayIdx*1440 + minutes;
+  if(check(dayIdx, abs)) return true;
+  if(check(dayIdx-1, abs)) return true;
+  if(check(dayIdx+7, abs+10080)) return true;
+  return false;
+}
+
+const restaurants = [
+  {name:"福氣廚房－新竹世界店", area:"新竹市", cat:"日式料理", price:"$$", rating:4.5, desc:"日式無菜單料理，玉子燒與明太子飯糰評價高，晚市為主，建議先訂位。", tags:["晚餐","約會","無菜單"], phone:"03-533-5899", parking:"鄰近店面無專屬停車場，建議路邊停車或機車格", photo:"https://lh3.googleusercontent.com/place-photos/AG9NLjBZe6mXRzxmilVrF9IfpCZjQeIPiyaEPcPiFoFrrWRRt0cIv3S8_noUG0kmF12Vd7ha5m5qz1K7E7_G_xhKlABxy5meECW0Ny0GgH0ikZ_qLnT05UvqPOM2GOY09ztsN2mlF9ChSEis3ei9Ag=s800-w800-h600", credit:"福氣廚房－新竹世界店", mapsUrl:"https://maps.google.com/?cid=18113044318230042633"},
+  {name:"常宿料理廚房", area:"新竹市", cat:"合菜/創意料理", price:"$$", rating:4.6, desc:"無菜單套餐，隨季節更換菜色，南瓜咖哩排骨、洛神紅糟肉都是招牌，一位約350元起。", tags:["無菜單","聚餐","需訂位"], phone:"03-531-1926", parking:"巷弄內店面，停車不易，建議騎車前往", photo:"https://lh3.googleusercontent.com/place-photos/AG9NLjD0wxeN-qz4X1DKaRT3m56wddhOUcAUdtZq3ZYHvvnrVUjO9-Okw0ZhnocIw4XyZN83XUZ2ZZDKRSeDVE5NChMlweHv6sbKAYu-E_7DwDp7MKvc_6YPf3VvVOgz3Cnx4oAN7OYKNpMc4knzyQ=s800-w800-h600", credit:"常宿料理廚房", mapsUrl:"https://maps.google.com/?cid=12600949555236933148"},
+  {name:"HoChu Yuan 好厝院", area:"新竹市", cat:"台式合菜", price:"$$", rating:4.5, desc:"環境乾淨明亮，適合家庭聚餐，招牌冰淇淋甜點必點，假日建議先訂位。", tags:["親子友善","有停車場","聚餐"], phone:"03-531-3816", parking:"對面設有免費停車場（顧客評論提及）", photo:"https://lh3.googleusercontent.com/place-photos/AG9NLjCtsu9raHL6yC4bhcb3y6-6uZu35K8elxTP0FaFqB_5oLgvSJiA7bT_UeWQv3UUHfxXNCYBGYlD9wjczGxvFIIZlO-NUe0cfas4imuto49CQ_nDTCPp0Wv1n3GHTLsPVE55yqS5UpbzF-U1XQ=s800-w800-h600", credit:"向田邦子", mapsUrl:"https://maps.google.com/?cid=6657255582678765160"},
+  {name:"新橋弄堂", area:"新竹市", cat:"江浙料理", price:"$$", rating:4.1, desc:"新竹市區少見的江浙菜，小籠包與臭豆腐拼盤是必點，鄰近護城河，環境優雅。", tags:["宴客","小籠包","河岸景觀"], phone:"03-525-5958", parking:"鄰近護城河畔，路邊停車格較少，假日建議提早前往", photo:"https://lh3.googleusercontent.com/place-photos/AG9NLjCjebsAZmqj7xb9KOZvcShyiEp1P3o_bxXVyG6Rq8MSUpozzpyHt059m7jQYD2M7yQXI1LkD4pXfR8YTNLO7CyGxO8ddXwe0VxiRix5DDE2kJ-yCA7uNnZ4eUKk9Vy04z5gjE_wugQF2gJqQA=s800-w800-h600", credit:"Ben Ben", mapsUrl:"https://maps.google.com/?cid=4638323165923815633"},
+  {name:"Daily Ping 平日", area:"新竹市", cat:"早午餐", price:"$$", rating:4.4, desc:"寬敞明亮的現代風格早午餐店，松露義大利麵、酪梨蝦仁三明治人氣品項，附插座與Wi-Fi。", tags:["早午餐","可久坐","甜點"], phone:"03-533-8820", parking:"店外設有少量停車位", photo:"https://lh3.googleusercontent.com/place-photos/AG9NLjC0j4KTQH9A3YpHcOTdOZNPhGyRlbGv-2ZQodbEWWZ3CJ-LrSLtL7MxmGrxkPEEtBAV_18oY-W-ktY45LujKyqQUFF2CpIDGDVDg7rv6T2HDKTppRn1An-YK1aQnqA9_mQLJwm5WBiID2e4Sg=s800-w800-h600", credit:"Daily Ping 平日", mapsUrl:"https://maps.google.com/?cid=17433641377900456435"},
+  {name:"Casa Bistro", area:"新竹市", cat:"義式料理", price:"$$", rating:4.7, desc:"一人主廚經營的小型義式小酒館，義大利麵評價極高，氣氛溫馨。", tags:["約會","義大利麵","小店"], phone:"0908-527-686", parking:"巷弄內小店，建議騎機車或步行前往", photo:"https://lh3.googleusercontent.com/place-photos/AG9NLjC7eHZktZrSWJ7TSqRzClbvXV0RE7E1OoyVb8IkNs-hNWw5Sp8APG2h0_uJUtZZhDgrwsVpM8zR5rF2v44T259v1iImMFJ4DaUBdExt2YmAuA3HzZTdTgkqOJE-kWQSXz59UGoA4SFssRx6bg=s800-w800-h600", credit:"浦木裕", mapsUrl:"https://maps.google.com/?cid=8876776153199512413"},
+  {name:"饌憶餐坊－新竹市", area:"新竹市", cat:"台式合菜", price:"$$", rating:4.5, desc:"母女經營的家常合菜餐廳，隨季節調整菜單，金沙豆腐、金沙蝦球是熱門菜色。", tags:["家庭經營","季節菜單","巷弄美食"], phone:"03-535-6798", parking:"住宅區巷內，路邊停車空間有限", photo:"https://lh3.googleusercontent.com/place-photos/AG9NLjCq38m8T4D4ds61pthsumcsKNQ-c5Xqx2_H3rVJjbTMCeGPdx4aMNtMpo7Jv5cmafs4Ng_YWoSIRQTP5lncNr_wQHV3MClqr6DvXf5FPY-t7EIj-YzLCSkboI8h72zHrTquKYmD8MATUGj5ceU=s800-w771-h511", credit:"饌憶餐坊-新竹市", mapsUrl:"https://maps.google.com/?cid=11808597651253692682"},
+  {name:"TABLE JOE 喏桌子廚房", area:"新竹市", cat:"美式早午餐", price:"$$", rating:4.2, desc:"老字號翻新後重新開幕，漢堡、牛排早午餐與燉飯是主力，鄰近大遠百。", tags:["早午餐","漢堡","改裝新開"], phone:"03-535-6070", parking:"鄰近大遠百，可利用大遠百地下停車場，假日車位較滿", photo:"https://lh3.googleusercontent.com/place-photos/AG9NLjD4p2wv90MRSRrBAvMX28SRlFiN6UkkTqVmcr0EPpz1kBwDcPKKwH4IM_8dCDEl1S5g0G2kQIvc7v0cgqzPz9cfHf2gLxpaEmEvmgTAibhbzvygYcm42GVP0btzu0_V9h5ChkY-NJrkHBNm=s800-w800-h600", credit:"TABLE JOE 喏桌子廚房", mapsUrl:"https://maps.google.com/?cid=17858759997508137750"},
+  {name:"Next Stop+", area:"竹北", cat:"港式料理", price:"$$", rating:4.7, desc:"港式風格餐廳，菜色搭配蔬菜均衡，環境可愛適合家庭聚會。", tags:["港式","聚餐","文心路"], phone:"0908-280-781", parking:"文心路上，周邊有路邊停車格", photo:"https://lh3.googleusercontent.com/place-photos/AG9NLjBgOScuMDbBzjXcoJso98LqgLsN1LbS7l_OcktPOcgVdfhvIYeMViHrlvSoqzx5CT9Sq4zK-KUcfCKql7-y3bVA2BJtJTP74yGT9eN-Jwk7Q-rnTa5ldPD-j5aKHWOSwRC41lAXgj4ZvW0NtIMWqqz-=s800-w800-h600", credit:"Next Stop+", mapsUrl:"https://maps.google.com/?cid=5264556787440937536"},
+  {name:"和平小館", area:"竹北", cat:"台式合菜", price:"$$", rating:4.8, desc:"竹北在地評價極高的家常合菜餐廳，光明五街上人氣長紅。", tags:["在地人氣","合菜","高評分"], phone:"03-657-1118", parking:"光明五街上，附近有收費停車場", photo:"https://lh3.googleusercontent.com/place-photos/AG9NLjD4j-sgVR6oJDFBsCc5-mkxa8FLC7eY374WoWXAZ42kR7xEI_RlvfIB-m-lGG1z4fiOnXFllBdjXAdM6XxChGrMmWA48YlsZYGfd4obl9JMpQRxDfYOzBOsEfGA6F9QJLzYHx7KJ_tWuAKAf0inNJUtAw=s800-w800-h600", credit:"Mimi Wang", mapsUrl:"https://maps.google.com/?cid=3160086435097620649"},
+  {name:"陸本木燒肉", area:"竹北", cat:"日式燒肉", price:"$$$", rating:4.9, desc:"竹北人氣燒肉店，服務細緻、食材新鮮，牛舌評價尤其突出，晚市營業至凌晨。", tags:["燒肉","聚餐","晚餐限定"], phone:"03-658-1151", parking:"鄰近巷弄可路邊停車，尖峰時段車位較少", photo:"https://lh3.googleusercontent.com/place-photos/AG9NLjB8l6-GRXAIzlnXyIu1xcDdYQk5AAdZpdXZljvvbFen_AfJnOhKHR_C4brByvcZMCDRV1Dq2XYSTMMGKm4Qen2OAxna_XeEmlHowBl86hLmHHv27PP-SBZdg347Ja1ZpWuj8JQ9YUQKJpWO8lPH1jL3yQ=s800-w800-h600", credit:"Alan Hsu", mapsUrl:"https://maps.google.com/?cid=3821016281154730268"},
+  {name:"虎留香 特色麵食館", area:"竹北", cat:"麵食/小吃", price:"$$", rating:4.8, desc:"遠百商圈內的螺螄粉、酸菜魚專門店，外帶內用皆評價佳，辣度可自行調整。", tags:["螺螄粉","川味","遠百商圈"], phone:"0937-590-836", parking:"位於大遠百商圈內，可利用大遠百停車場", photo:"https://lh3.googleusercontent.com/place-photos/AG9NLjAkyiQYUQIyECrqGiiGDjeZoDpvyMWmfw_3E2vQRn6Ialkg6cUJei0MR13P0uifSPStslCUKMJJv4loeFxfl2coAFzSCZIwoutRtkd3WfWeRJXe4tb1Rv1azsmmQmpRq2q8caHncqG3B_cC3FlCvgXxbw=s800-w800-h600", credit:"虎留香 特色麵食館", mapsUrl:"https://maps.google.com/?cid=14518163764069863637"},
+  {name:"和牛淚－竹北光明店", area:"竹北", cat:"燒肉/鍋物", price:"$$", rating:5.0, desc:"竹北評分極高的和牛料理，全天候營業至凌晨兩點，適合聚餐與宵夜。", tags:["和牛","宵夜","深夜營業"], phone:"03-558-8812", parking:"光明一路上，以路邊停車為主", photo:"https://lh3.googleusercontent.com/place-photos/AG9NLjDlTl-xTXZHqmR8e8AO55Hcx6a8ZzJ5uxjUrQbiWDpDj-LwtASxIulMpnw9sqomm7l1VwE59QLzQMovw8cBIIkvTgK5rRb1Ytnp9C1vVbw7xot11rUkE3TLybb1dIaikagi59KUyMDOf_eun6lsKpa3=s800-w800-h600", credit:"Corrine", mapsUrl:"https://maps.google.com/?cid=17664299683672714624"},
+  {name:"泰銷魂 竹北嘉政店", area:"竹北", cat:"泰式料理", price:"$$", rating:4.7, desc:"道地泰式風味，手工冰淇淋是隱藏亮點，老闆親切，建議提前透過Line訂位。", tags:["泰式","親子友善","手工冰淇淋"], phone:"03-668-5258", parking:"住宅區內，建議機車前往或路邊停車", photo:"https://lh3.googleusercontent.com/place-photos/AG9NLjA5So5bjzUdY_b4-sA7o_mNj3GX9-NbSYI7I5JXrWAPC3svPB1DZ1MMuePcUvzBM0LnUaB439QlWtgFE4lhk-CAkWAh6UH9uU5z_mlOlDVHT6nmIAHVMezX76PT-0HN5jub_MKNMcziwG3N5uFQ7MLX_A=s800-w800-h600", credit:"LuJin Arsene", mapsUrl:"https://maps.google.com/?cid=11640600461165721310"},
+  {name:"裏月．晴酒しゃぶしゃぶ", area:"竹北", cat:"日式涮涮鍋", price:"$$$$", rating:4.8, desc:"高質感日式涮涮鍋，食材與湯頭講究，服務細緻，適合特殊節日聚餐。", tags:["高單價","涮涮鍋","慶生"], phone:"03-553-0222", parking:"鄰近有路邊停車格，建議提早抵達找車位", photo:"https://lh3.googleusercontent.com/place-photos/AG9NLjDPqi_5ipac6X13rlgxlU2A_MNy88YKvCvlnMsc-SN8RFtKH9-tVWy_pKVxPyqw3hCgezXfK3t3WmsaPiNyY8_DrvajuuscTQnlXvh8dY6ljvF0915_Isn-tRF7cC2q74CXZm6mg4A4kQmrZQ=s800-w800-h600", credit:"裏月．晴酒しゃぶしゃぶ", mapsUrl:"https://maps.google.com/?cid=11296985091072383241"},
+  {name:"客家本色 竹北店", area:"竹北", cat:"客家料理", price:"$$", rating:4.1, desc:"竹北在地客家菜，爌肉飯與麵食評價不錯，環境舒適、價格合理。", tags:["客家菜","平價","家常"], phone:"03-657-2252", parking:"光明一路上，店外有少量停車空間", photo:"https://lh3.googleusercontent.com/place-photos/AG9NLjC60LEAoxG40UhKOB_lx9T1tyuO8_qS_XSBtObgzkT-t2UlcrOmOMtqVcV7rG6a1GovH8uVtJvoqhh2n1amcgfNpaZPqAQr3mHPSFFJb1AQacKzymKv2R_RYPsmtqUIoeolS1tXv2PtstfpTlA8nrSbGA=s800-w800-h600", credit:"蘇筍庭", mapsUrl:"https://maps.google.com/?cid=2483658779615663911"},
+  {name:"DIDcoffee", area:"竹北", cat:"咖啡/甜點", price:"$$", rating:4.3, desc:"咖啡與手作甜點兼具設計感的複合式空間，二樓附設小畫廊，建議先線上訂位。", tags:["咖啡","甜點","打卡"], phone:"03-550-1861", parking:"周邊以路邊停車為主，尖峰時段較難找位", photo:"https://lh3.googleusercontent.com/place-photos/AG9NLjCAIYB5nuuYSrznisCRqYug_ugCDIEpBwyjl1nrnHkK5k3SpIfDLuhPHmLs0Ishp6RamXaGNREvEimiJEkxTe77hkon8Q05enpOc05S3G9b5YzkyykvhINH2xUgZrGGjF2DYoNd72-4udljeA=s800-w800-h600", credit:"日遲DIDcoffee", mapsUrl:"https://maps.google.com/?cid=7818685857784511721"},
+  {name:"有田咖啡 Youtian Cafe", area:"竹北", cat:"咖啡/簡餐", price:"$$", rating:4.6, desc:"隱身高鐵站旁稻田間的秘境咖啡館，假日限量三款套餐，紅酒燉牛肉評價高。", tags:["田園景觀","隱藏版","限量供應"], phone:"0965-258-076", parking:"店旁田間有免費停車空間", photo:"https://lh3.googleusercontent.com/place-photos/AG9NLjCAgvopC-E8VKOYqZOQHQbyeN9CFacYxw4aVmrYu8C19EX805BNIqWiy3omzHWR3jm07lqEsWQ7YTsQQIZdmcDNlRxM3QS9J0qDEPdo6L1Tq4xXM_aBSpW7y2YYl1Zvo8U19arOQEOgAW8fdHr-XRu6sA=s800-w800-h600", credit:"張筍雲", mapsUrl:"https://maps.google.com/?cid=10760698176215369187"},
+  {name:"Blue Balloon Cafe", area:"竹北", cat:"咖啡/下午茶", price:"$$", rating:4.9, desc:"高人氣夢幻風格咖啡館，下午茶套餐與花藝裝潢是招牌，座位有限建議先訂位。", tags:["下午茶","打卡","約會"], phone:"03-555-2907", parking:"光明五街周邊，路邊停車較搶手", photo:"https://lh3.googleusercontent.com/place-photos/AG9NLjDP1DFbRimYm1GprrMdvjo79HKGqUNKq3ASARwYtSYgD_1T5vzCmkoq3jnJj8a2dyBoBPsj7o6Mirg_uQjcEcit3kJ76XvmoOMdj9yX3aqUuwFzzw9f79gw4ADwOaaXNrMFPJY49fuMJP4amA=s800-w800-h600", credit:"藍氣球咖啡", mapsUrl:"https://maps.google.com/?cid=14103390157941212077"},
+  {name:"kafeD 新竹大遠百店", area:"竹北", cat:"咖啡/甜點", price:"$$", rating:4.8, desc:"大遠百商場內的精品咖啡與蛋糕專門店，季節限定口味評價高。", tags:["百貨商場","蛋糕","精品咖啡"], phone:"03-532-2336", parking:"位於大遠百內，可直接使用百貨停車場", photo:"https://lh3.googleusercontent.com/place-photos/AG9NLjD-Dhc6MpJV4QPbTZ92Wh0eIKdzy0q4M9capU8_bsfo-zkPEhny7E3U4-tK1jpt4KRNugKZujd5BwZ1zagEZC67N8iy4AKbHp109_jMm0ZMwQNa7-J5Ra6jdsG5fq_lqs6pJa8Bf00xBOvVj6-Tr21Rmw=s800-w800-h600", credit:"kafeD 竹北遠百店", mapsUrl:"https://maps.google.com/?cid=16226626681456338499"},
+  {name:"Ni Café 妮咖啡 竹北店", area:"竹北", cat:"咖啡/早午餐", price:"$$", rating:4.5, desc:"環境明亮舒適，light meal與甜點選擇多，靠窗座位皆有插座與良好採光。", tags:["早午餐","咖啡","可辦公"], phone:"0989-688-980", parking:"勝利五路上，周邊有路邊停車格", photo:"https://lh3.googleusercontent.com/place-photos/AG9NLjAH0ksMDLCq6p_Sr4B7RK6JhxxOmw2kAvVNDIOt2aHqPhWuhERvKWr3Pvdn3GGMks2hHlaNj-rlhp0rkDCz60GcEJB9PB01Bmte_Q8yyirCsYm5vTtS4RTKRCBZSSCv0H9t3arXsTBtIyX9OJM=s800-w800-h600", credit:"張藝鏲", mapsUrl:"https://maps.google.com/?cid=13001142403186106390"}
+];
+
+const grid = document.getElementById('grid');
+const catRow = document.getElementById('catRow');
+const areaToggle = document.getElementById('areaToggle');
+const searchInput = document.getElementById('searchInput');
+const resultCount = document.getElementById('resultCount');
+const emptyState = document.getElementById('emptyState');
+const hoursToggle = document.getElementById('hoursToggle');
+const hoursToggleLabel = document.getElementById('hoursToggleLabel');
+const timeSelectRow = document.getElementById('timeSelectRow');
+const daySelect = document.getElementById('daySelect');
+const timeSelect = document.getElementById('timeSelect');
+const clearTimeBtn = document.getElementById('clearTimeBtn');
+
+let state = { area:'all', cat:'all', q:'', onlyOpen:false, customDay:null, customTime:null };
+
+const categories = ['全部分類', ...Array.from(new Set(restaurants.map(r=>r.cat)))];
+
+function buildChips(){
+  catRow.innerHTML = '';
+  categories.forEach(c=>{
+    const btn = document.createElement('button');
+    btn.className = 'chip' + (c==='全部分類' ? ' active' : '');
+    btn.dataset.cat = c==='全部分類' ? 'all' : c;
+    btn.innerHTML = `<span class="dot"></span>${c}`;
+    btn.addEventListener('click', ()=>{
+      state.cat = btn.dataset.cat;
+      document.querySelectorAll('.chip').forEach(x=>x.classList.remove('active'));
+      btn.classList.add('active');
+      render();
+    });
+    catRow.appendChild(btn);
+  });
+}
+
+function buildTimeSelectors(){
+  DAY_NAMES.forEach((d,i)=>{
+    const opt = document.createElement('option');
+    opt.value = i; opt.textContent = d;
+    daySelect.appendChild(opt);
+  });
+  for(let h=0; h<24; h++){
+    for(let m=0; m<60; m+=30){
+      const opt = document.createElement('option');
+      const val = h*60+m;
+      opt.value = val;
+      opt.textContent = fmtHM(val);
+      timeSelect.appendChild(opt);
+    }
+  }
+  const now = new Date();
+  daySelect.value = (now.getDay()+6)%7;
+  const nowMin = now.getHours()*60+now.getMinutes();
+  timeSelect.value = Math.round(nowMin/30)*30 % 1440;
+}
+
+areaToggle.querySelectorAll('button').forEach(btn=>{
+  btn.addEventListener('click', ()=>{
+    state.area = btn.dataset.area;
+    areaToggle.querySelectorAll('button').forEach(x=>x.classList.remove('active'));
+    btn.classList.add('active');
+    render();
+  });
+});
+
+hoursToggle.addEventListener('click', ()=>{
+  state.onlyOpen = !state.onlyOpen;
+  hoursToggle.classList.toggle('active', state.onlyOpen);
+  timeSelectRow.classList.toggle('visible', state.onlyOpen);
+  updateHoursLabel();
+  render();
+});
+
+daySelect.addEventListener('change', ()=>{ state.customDay = parseInt(daySelect.value); render(); updateHoursLabel(); });
+timeSelect.addEventListener('change', ()=>{ state.customTime = parseInt(timeSelect.value); render(); updateHoursLabel(); });
+clearTimeBtn.addEventListener('click', ()=>{
+  state.customDay = null; state.customTime = null;
+  const now = new Date();
+  daySelect.value = (now.getDay()+6)%7;
+  timeSelect.value = Math.round((now.getHours()*60+now.getMinutes())/30)*30 % 1440;
+  updateHoursLabel();
+  render();
+});
+
+function updateHoursLabel(){
+  if(!state.onlyOpen){ hoursToggleLabel.textContent = "只看現在營業中"; return; }
+  if(state.customDay===null && state.customTime===null){
+    hoursToggleLabel.textContent = "只看現在營業中";
+  } else {
+    hoursToggleLabel.textContent = `只看營業中（${DAY_NAMES[state.customDay]} ${fmtHM(state.customTime)}）`;
+  }
+}
+
+searchInput.addEventListener('input', e=>{
+  state.q = e.target.value.trim().toLowerCase();
+  render();
+});
+
+function currentCheckPoint(){
+  if(state.customDay!==null && state.customTime!==null){
+    return {day: state.customDay, minutes: state.customTime};
+  }
+  const now = new Date();
+  return {day:(now.getDay()+6)%7, minutes: now.getHours()*60+now.getMinutes()};
+}
+
+function render(){
+  const cp = currentCheckPoint();
+  const filtered = restaurants.filter(r=>{
+    const areaOk = state.area==='all' || r.area===state.area;
+    const catOk = state.cat==='all' || r.cat===state.cat;
+    const qOk = !state.q || (r.name+r.cat+r.desc+r.tags.join(' ')).toLowerCase().includes(state.q);
+    const openOk = !state.onlyOpen || isOpenAt(r.name, cp.day, cp.minutes)===true;
+    return areaOk && catOk && qOk && openOk;
+  });
+
+  resultCount.textContent = `共找到 ${filtered.length} 間餐廳`;
+  grid.innerHTML = '';
+
+  if(filtered.length===0){
+    emptyState.style.display = 'block';
+    return;
+  }
+  emptyState.style.display = 'none';
+
+  filtered.forEach(r=>{
+    const openNow = isOpenAt(r.name, cp.day, cp.minutes);
+    const badgeClass = openNow ? 'open' : 'closed';
+    const badgeText = openNow ? '營業中' : '目前休息';
+    const card = document.createElement('div');
+    card.className = 'card';
+    card.innerHTML = `
+      <div class="card-photo">
+        <img src="${r.photo}" alt="${r.name}" loading="lazy" referrerpolicy="no-referrer" onerror="this.replaceWith(Object.assign(document.createElement('div'),{className:'card-photo-fallback',innerHTML:catVisualSvg('${r.cat}')}))">
+        <span class="card-open-badge ${badgeClass}"><span class="dot"></span>${badgeText}</span>
+        <span class="cat-label">${r.cat}</span>
+      </div>
+      <div class="card-top">
+        <div class="card-cat">${r.cat}</div>
+        <div class="card-name">${r.name}</div>
+        <div class="card-area">${r.area}</div>
+        <div class="card-rating"><span class="stars">★ ${r.rating.toFixed(1)}</span></div>
+      </div>
+      <div class="card-body">
+        <div class="card-hours"><b>營業：</b>${hoursSummary(r.name)}</div>
+        <div class="card-desc" style="font-size:13px;line-height:1.7;color:#4c473d;">${r.desc}</div>
+        <div class="card-parking"><span class="icon">🅿️</span><span>${r.parking}</span></div>
+        <div class="card-tags">${r.tags.map(t=>`<span>${t}</span>`).join('')}</div>
+      </div>
+      <div class="card-foot">
+        <span class="price">${r.price}</span>
+        <div class="links">
+          <a href="tel:${r.phone.replace(/-/g,'')}">📞 致電</a>
+          <a href="${r.mapsUrl}" target="_blank" rel="noopener">📍 Google 地圖</a>
+        </div>
+      </div>
+    `;
+    grid.appendChild(card);
+  });
+}
+
+buildChips();
+buildTimeSelectors();
+render();
+</script>
+
+</body>
+</html>
