@@ -144,24 +144,26 @@
     background:var(--white); font-family:'Noto Sans TC',sans-serif; font-size:13px;
   }
 
-  .cat-row{
-    display:flex; gap:9px; flex-wrap:nowrap; overflow-x:auto;
-    padding-bottom:4px; scrollbar-width:thin;
-    -webkit-overflow-scrolling:touch;
+  .cat-select-wrap{
+    position:relative; flex:0 0 auto;
+    display:flex; align-items:center;
   }
-  .cat-row::-webkit-scrollbar{ height:5px; }
-  .cat-row::-webkit-scrollbar-thumb{ background:var(--line); border-radius:99px; }
-  .cat-row .chip{ flex:0 0 auto; }
-  .chip{
-    padding:7px 15px; border:1.5px solid var(--line); border-radius:999px;
-    background:var(--white); font-size:13px; font-weight:500; cursor:pointer;
-    display:flex; align-items:center; gap:6px; color:#5a5548;
-    transition:all .18s ease; white-space:nowrap;
+  .cat-select-wrap::after{
+    content:"";
+    position:absolute; right:16px; top:50%; width:8px; height:8px;
+    border-right:2px solid var(--ink); border-bottom:2px solid var(--ink);
+    transform:translateY(-65%) rotate(45deg);
+    pointer-events:none;
   }
-  .chip .dot{ width:7px; height:7px; border-radius:50%; background:currentColor; opacity:.6;}
-  .chip:hover{ border-color:var(--ink); color:var(--ink); }
-  .chip.active{ background:var(--ink); border-color:var(--ink); color:var(--paper); }
-  .chip.active .dot{ background:var(--gold); opacity:1;}
+  .cat-select{
+    appearance:none; -webkit-appearance:none;
+    padding:11px 38px 11px 18px;
+    border:2px solid var(--ink); border-radius:999px;
+    background:var(--white); color:var(--ink);
+    font-family:'Noto Sans TC',sans-serif; font-weight:700; font-size:13.5px;
+    cursor:pointer; max-width:46vw;
+  }
+  .cat-select:focus{ outline:none; box-shadow:0 0 0 3px rgba(184,134,59,0.25); }
 
   .result-count{ margin-top:10px; font-size:12.5px; color:#7a7568; font-style:italic; }
 
@@ -281,6 +283,9 @@
       <span class="indicator"></span>
       <span id="hoursToggleLabel">只看現在營業中</span>
     </div>
+    <div class="cat-select-wrap">
+      <select class="cat-select" id="catSelect" aria-label="依分類篩選"></select>
+    </div>
   </div>
   <div class="time-select-row" id="timeSelectRow">
     指定時間查詢：
@@ -288,7 +293,6 @@
     <select id="timeSelect"></select>
     <button id="clearTimeBtn" style="border:none;background:none;text-decoration:underline;cursor:pointer;color:var(--seal);font-size:13px;">清除，改用現在時間</button>
   </div>
-  <div class="cat-row" id="catRow"></div>
   <div class="result-count" id="resultCount"></div>
 </div>
 
@@ -406,7 +410,7 @@ const restaurants = [
 ];
 
 const grid = document.getElementById('grid');
-const catRow = document.getElementById('catRow');
+const catSelect = document.getElementById('catSelect');
 const areaToggle = document.getElementById('areaToggle');
 const searchInput = document.getElementById('searchInput');
 const resultCount = document.getElementById('resultCount');
@@ -422,20 +426,17 @@ let state = { area:'all', cat:'all', q:'', onlyOpen:false, customDay:null, custo
 
 const categories = ['全部分類', ...Array.from(new Set(restaurants.map(r=>r.cat)))];
 
-function buildChips(){
-  catRow.innerHTML = '';
+function buildCatSelect(){
+  catSelect.innerHTML = '';
   categories.forEach(c=>{
-    const btn = document.createElement('button');
-    btn.className = 'chip' + (c==='全部分類' ? ' active' : '');
-    btn.dataset.cat = c==='全部分類' ? 'all' : c;
-    btn.innerHTML = `<span class="dot"></span>${c}`;
-    btn.addEventListener('click', ()=>{
-      state.cat = btn.dataset.cat;
-      document.querySelectorAll('.chip').forEach(x=>x.classList.remove('active'));
-      btn.classList.add('active');
-      render();
-    });
-    catRow.appendChild(btn);
+    const opt = document.createElement('option');
+    opt.value = c==='全部分類' ? 'all' : c;
+    opt.textContent = c;
+    catSelect.appendChild(opt);
+  });
+  catSelect.addEventListener('change', ()=>{
+    state.cat = catSelect.value;
+    render();
   });
 }
 
@@ -565,7 +566,7 @@ function render(){
   });
 }
 
-buildChips();
+buildCatSelect();
 buildTimeSelectors();
 render();
 </script>
