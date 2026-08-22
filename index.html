@@ -98,25 +98,28 @@
     box-shadow:0 1px 0 rgba(255,255,255,0.6) inset, 0 8px 20px rgba(27,26,23,0.04);
     padding:14px var(--safe-r) 14px var(--safe-l);
   }
-  .search-row{ margin-bottom:12px; }
-  .search-box{ position:relative; }
-  .search-box input{
-    width:100%;
-    height:44px;
-    padding:0 16px 0 42px;
-    border:1px solid rgba(255,255,255,0.6);
-    border-radius:14px;
-    background:rgba(255,255,255,0.4);
-    backdrop-filter:blur(16px) saturate(1.4);
-    -webkit-backdrop-filter:blur(16px) saturate(1.4);
-    box-shadow:var(--shadow-sm);
-    font-size:16px;
-    outline:none;
-    transition:background .2s ease, box-shadow .2s ease;
+  .search-box{
+    position:relative; display:flex; align-items:center;
+    height:38px; border-radius:999px; flex:0 0 auto;
+    border:1px solid rgba(255,255,255,0.5);
+    background:rgba(255,255,255,0.32);
+    backdrop-filter:blur(14px) saturate(1.4); -webkit-backdrop-filter:blur(14px) saturate(1.4);
+    width:38px; overflow:hidden;
+    transition:width .25s cubic-bezier(.4,0,.2,1), background .2s ease, box-shadow .2s ease;
   }
+  .search-box.expanded{ width:min(260px, 62vw); background:rgba(255,255,255,0.75); box-shadow:0 0 0 3px rgba(181,69,58,0.16), var(--shadow-sm); }
+  .search-icon-btn{
+    width:38px; height:38px; flex:0 0 auto; border:none; background:transparent; padding:0;
+    display:flex; align-items:center; justify-content:center; cursor:pointer; color:#5a5548;
+  }
+  .search-box input{
+    border:none; background:transparent; outline:none;
+    height:36px; width:0; min-width:0; padding:0; opacity:0;
+    font-size:16px; flex:1 1 auto;
+    transition:opacity .18s ease, width .25s ease, padding .25s ease;
+  }
+  .search-box.expanded input{ width:100%; opacity:1; padding:0 14px 0 0; }
   .search-box input::placeholder{ color:#8a8474; }
-  .search-box input:focus{ background:rgba(255,255,255,0.75); box-shadow:0 0 0 3px rgba(181,69,58,0.16), var(--shadow-sm); }
-  .search-box svg{ position:absolute; left:14px; top:50%; transform:translateY(-50%); opacity:.5; pointer-events:none; }
 
   .filter-row{
     display:flex; gap:9px; align-items:center; flex-wrap:wrap;
@@ -380,13 +383,13 @@
 </header>
 
 <div class="controls">
-  <div class="search-row">
-    <div class="search-box">
-      <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+  <div class="filter-row">
+    <div class="search-box" id="searchBox">
+      <button class="search-icon-btn" id="searchIconBtn" type="button" aria-label="搜尋">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+      </button>
       <input id="searchInput" type="text" placeholder="搜尋店名、菜系或關鍵字…">
     </div>
-  </div>
-  <div class="filter-row">
     <div class="area-toggle" id="areaToggle">
       <button data-area="all" class="active">全部區域</button>
       <button data-area="新竹市">新竹市</button>
@@ -1125,6 +1128,33 @@ function updateHoursLabel(){
 searchInput.addEventListener('input', e=>{
   state.q = e.target.value.trim().toLowerCase();
   render();
+});
+
+const searchBox = document.getElementById('searchBox');
+const searchIconBtn = document.getElementById('searchIconBtn');
+searchIconBtn.addEventListener('click', ()=>{
+  if(searchBox.classList.contains('expanded')){
+    if(searchInput.value.trim()===''){
+      searchBox.classList.remove('expanded');
+    }else{
+      searchInput.focus();
+    }
+  }else{
+    searchBox.classList.add('expanded');
+    setTimeout(()=>searchInput.focus(), 80);
+  }
+});
+searchInput.addEventListener('blur', ()=>{
+  if(searchInput.value.trim()==='') searchBox.classList.remove('expanded');
+});
+searchInput.addEventListener('keydown', e=>{
+  if(e.key === 'Escape'){
+    searchInput.value = '';
+    state.q = '';
+    render();
+    searchBox.classList.remove('expanded');
+    searchInput.blur();
+  }
 });
 
 function currentCheckPoint(){
