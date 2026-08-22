@@ -153,6 +153,39 @@
   }
   .fav-toggle.active .count{ background:rgba(255,255,255,0.25); color:var(--white); }
 
+  .share-btn{
+    padding:10px 16px; border:2px solid var(--ink); border-radius:999px;
+    background:var(--white); cursor:pointer; font-size:13.5px; font-weight:700;
+    color:var(--ink); flex:0 0 auto; font-family:'Noto Sans TC',sans-serif;
+  }
+  .share-btn:hover{ background:var(--ink); color:var(--paper); }
+
+  .shared-banner{
+    margin:0 6vw; margin-top:-1px;
+    background:var(--jade); color:var(--white);
+    padding:14px 18px; border-radius:0 0 10px 10px;
+    display:flex; align-items:center; justify-content:space-between; gap:14px; flex-wrap:wrap;
+    font-size:13.5px; font-weight:500;
+  }
+  .shared-banner-actions{ display:flex; gap:10px; flex:0 0 auto; }
+  .shared-banner-actions button{
+    padding:7px 14px; border-radius:999px; border:1.5px solid var(--white);
+    background:transparent; color:var(--white); font-weight:700; font-size:12.5px; cursor:pointer;
+    font-family:'Noto Sans TC',sans-serif;
+  }
+  .shared-banner-actions button:hover{ background:rgba(255,255,255,0.18); }
+  #sharedAdoptBtn{ background:var(--white); color:var(--jade); }
+  #sharedAdoptBtn:hover{ background:rgba(255,255,255,0.85); }
+
+  .toast{
+    position:fixed; left:50%; bottom:28px; transform:translateX(-50%) translateY(20px);
+    background:var(--ink); color:var(--paper); padding:11px 20px; border-radius:999px;
+    font-size:13px; font-weight:700; opacity:0; pointer-events:none;
+    transition:opacity .25s ease, transform .25s ease; z-index:50;
+    box-shadow:0 8px 24px rgba(0,0,0,0.25);
+  }
+  .toast.show{ opacity:1; transform:translateX(-50%) translateY(0); }
+
   .time-select-row{
     display:none;
     gap:10px; align-items:center; flex-wrap:wrap;
@@ -327,11 +360,20 @@
       <span>♥ 我的口袋名單</span>
       <span class="count" id="favCount">0</span>
     </div>
+    <button class="share-btn" id="shareBtn" type="button" title="分享我的口袋名單">🔗 分享</button>
     <div class="cat-select-wrap">
       <select class="cat-select" id="catSelect" aria-label="依分類篩選"></select>
     </div>
     <div class="cat-select-wrap">
       <select class="cat-select" id="priceSelect" aria-label="依價位篩選"></select>
+    </div>
+    <div class="cat-select-wrap">
+      <select class="cat-select" id="sortSelect" aria-label="排序方式">
+        <option value="default">預設排序</option>
+        <option value="rating_desc">評分：高到低</option>
+        <option value="price_asc">價位：低到高</option>
+        <option value="price_desc">價位：高到低</option>
+      </select>
     </div>
   </div>
   <div class="time-select-row" id="timeSelectRow">
@@ -342,6 +384,16 @@
   </div>
   <div class="result-count" id="resultCount"></div>
 </div>
+
+<div class="shared-banner" id="sharedBanner" style="display:none;">
+  <span id="sharedBannerText"></span>
+  <div class="shared-banner-actions">
+    <button id="sharedAdoptBtn" type="button">加入我的口袋名單</button>
+    <button id="sharedDismissBtn" type="button">關閉</button>
+  </div>
+</div>
+
+<div class="toast" id="toast"></div>
 
 <main>
   <div class="grid" id="grid"></div>
@@ -766,8 +818,15 @@ const timeSelect = document.getElementById('timeSelect');
 const clearTimeBtn = document.getElementById('clearTimeBtn');
 const favToggle = document.getElementById('favToggle');
 const favCount = document.getElementById('favCount');
+const shareBtn = document.getElementById('shareBtn');
+const sortSelect = document.getElementById('sortSelect');
+const sharedBanner = document.getElementById('sharedBanner');
+const sharedBannerText = document.getElementById('sharedBannerText');
+const sharedAdoptBtn = document.getElementById('sharedAdoptBtn');
+const sharedDismissBtn = document.getElementById('sharedDismissBtn');
+const toast = document.getElementById('toast');
 
-let state = { area:'all', cat:'all', price:'all', q:'', onlyOpen:false, onlyFav:false, customDay:null, customTime:null };
+let state = { area:'all', cat:'all', price:'all', q:'', onlyOpen:false, onlyFav:false, sort:'default', viewingShared:false, customDay:null, customTime:null };
 
 // 口袋名單／我的最愛：存在瀏覽器 localStorage，不用登入，只有這台裝置這個瀏覽器看得到
 const FAV_KEY = 'zhushitu_favorites';
@@ -788,6 +847,62 @@ function toggleFavorite(name){
 function updateFavCount(){
   favCount.textContent = favorites.size;
 }
+
+function showToast(msg){
+  toast.textContent = msg;
+  toast.classList.add('show');
+  clearTimeout(showToast._t);
+  showToast._t = setTimeout(()=> toast.classList.remove('show'), 2600);
+}
+
+// 分享口袋名單：把目前收藏的店名編碼進網址的 ?fav= 參數，複製連結給別人
+shareBtn.addEventListener('click', async ()=>{
+  if(favorites.size === 0){
+    showToast('口袋名單是空的，先收藏幾家店再分享吧');
+    return;
+  }
+  const encoded = encodeURIComponent(JSON.stringify([...favorites]));
+  const url = `${location.origin}${location.pathname}?fav=${encoded}`;
+  try{
+    await navigator.clipboard.writeText(url);
+    showToast(`已複製分享連結（${favorites.size} 家店）`);
+  }catch(e){
+    window.prompt('複製這個連結分享給朋友：', url);
+  }
+});
+
+let sharedFavorites = new Set();
+function initSharedList(){
+  const params = new URLSearchParams(location.search);
+  const raw = params.get('fav');
+  if(!raw) return;
+  let names;
+  try{ names = JSON.parse(decodeURIComponent(raw)); }
+  catch(e){ return; }
+  if(!Array.isArray(names) || names.length === 0) return;
+  const validNames = names.filter(n => restaurants.some(r => r.name === n));
+  if(validNames.length === 0) return;
+  sharedFavorites = new Set(validNames);
+  state.viewingShared = true;
+  sharedBannerText.textContent = `🎁 有人跟你分享了 ${sharedFavorites.size} 家口袋名單，目前只顯示這份清單`;
+  sharedBanner.style.display = 'flex';
+}
+sharedAdoptBtn.addEventListener('click', ()=>{
+  sharedFavorites.forEach(n => favorites.add(n));
+  saveFavorites(favorites);
+  updateFavCount();
+  sharedBanner.style.display = 'none';
+  state.viewingShared = false;
+  history.replaceState(null, '', location.pathname);
+  showToast('已加入我的口袋名單');
+  render();
+});
+sharedDismissBtn.addEventListener('click', ()=>{
+  sharedBanner.style.display = 'none';
+  state.viewingShared = false;
+  history.replaceState(null, '', location.pathname);
+  render();
+});
 
 const ALL_CATEGORIES = Array.from(new Set(restaurants.flatMap(r=>r.cat))).sort((a,b)=>a.localeCompare(b,'zh-Hant'));
 const ALL_PRICES = ['$','$$','$$$','$$$$'].filter(p=>restaurants.some(r=>r.price===p));
@@ -904,6 +1019,11 @@ favToggle.addEventListener('click', ()=>{
   render();
 });
 
+sortSelect.addEventListener('change', ()=>{
+  state.sort = sortSelect.value;
+  render();
+});
+
 daySelect.addEventListener('change', ()=>{ state.customDay = parseInt(daySelect.value); render(); updateHoursLabel(); });
 timeSelect.addEventListener('change', ()=>{ state.customTime = parseInt(timeSelect.value); render(); updateHoursLabel(); });
 clearTimeBtn.addEventListener('click', ()=>{
@@ -957,8 +1077,14 @@ function render(){
     const qOk = !state.q || (r.name+r.cat.join(' ')+r.desc+r.tags.join(' ')).toLowerCase().includes(state.q);
     const openOk = !state.onlyOpen || r.cat.includes('夜市') || isOpenAt(r.name, cp.day, cp.minutes)===true;
     const favOk = !state.onlyFav || favorites.has(r.name);
-    return areaOk && catOk && priceOk && qOk && openOk && favOk;
+    const sharedOk = !state.viewingShared || sharedFavorites.has(r.name);
+    return areaOk && catOk && priceOk && qOk && openOk && favOk && sharedOk;
   });
+
+  const PRICE_RANK = {'$':1,'$$':2,'$$$':3,'$$$$':4};
+  if(state.sort==='rating_desc') filtered.sort((a,b)=> b.rating - a.rating);
+  else if(state.sort==='price_asc') filtered.sort((a,b)=> PRICE_RANK[a.price] - PRICE_RANK[b.price]);
+  else if(state.sort==='price_desc') filtered.sort((a,b)=> PRICE_RANK[b.price] - PRICE_RANK[a.price]);
 
   resultCount.textContent = `共找到 ${filtered.length} 間餐廳`;
   grid.innerHTML = '';
@@ -1021,6 +1147,7 @@ function render(){
 
 buildTimeSelectors();
 updateFavCount();
+initSharedList();
 render();
 </script>
 
