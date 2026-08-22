@@ -293,13 +293,7 @@
       <select class="cat-select" id="catSelect" aria-label="依分類篩選"></select>
     </div>
     <div class="cat-select-wrap">
-      <select class="cat-select" id="priceSelect" aria-label="依價位篩選">
-        <option value="all">全部價位</option>
-        <option value="$">$ 平價（銅板美食）</option>
-        <option value="$$">$$ 中價位</option>
-        <option value="$$$">$$$ 中高價位</option>
-        <option value="$$$$">$$$$ 高價位</option>
-      </select>
+      <select class="cat-select" id="priceSelect" aria-label="依價位篩選"></select>
     </div>
   </div>
   <div class="time-select-row" id="timeSelectRow">
@@ -502,26 +496,70 @@ const clearTimeBtn = document.getElementById('clearTimeBtn');
 
 let state = { area:'all', cat:'all', price:'all', q:'', onlyOpen:false, customDay:null, customTime:null };
 
+const ALL_CATEGORIES = Array.from(new Set(restaurants.map(r=>r.cat))).sort((a,b)=>a.localeCompare(b,'zh-Hant'));
+const ALL_PRICES = ['$','$$','$$$','$$$$'].filter(p=>restaurants.some(r=>r.price===p));
+const PRICE_LABELS = {'$':'$ 平價（銅板美食）','$$':'$$ 中價位','$$$':'$$$ 中高價位','$$$$':'$$$$ 高價位'};
+
+// Does restaurant r pass every active structural filter except the one named in `exclude`?
+// Used to figure out which dropdown options would still yield results.
+function matchesStructural(r, cp, exclude){
+  const areaOk = state.area==='all' || r.area===state.area;
+  const catOk = exclude==='cat' || state.cat==='all' || r.cat===state.cat;
+  const priceOk = exclude==='price' || state.price==='all' || r.price===state.price;
+  const openOk = !state.onlyOpen || isOpenAt(r.name, cp.day, cp.minutes)===true;
+  return areaOk && catOk && priceOk && openOk;
+}
+
+function availableSet(cp, exclude, key){
+  const set = new Set();
+  restaurants.forEach(r=>{ if(matchesStructural(r, cp, exclude)) set.add(r[key]); });
+  return set;
+}
+
+// Rebuild the category/price dropdowns so only combinations with at least one
+// matching restaurant are selectable — never lets the user pick a dead-end combo.
+function syncSelects(cp){
+  const availCats = availableSet(cp, 'cat', 'cat');
+  const availPrices = availableSet(cp, 'price', 'price');
+
+  if(state.cat!=='all' && !availCats.has(state.cat)) state.cat = 'all';
+  if(state.price!=='all' && !availPrices.has(state.price)) state.price = 'all';
+
+  catSelect.innerHTML = '';
+  const catAllOpt = document.createElement('option');
+  catAllOpt.value='all'; catAllOpt.textContent='全部分類';
+  catSelect.appendChild(catAllOpt);
+  ALL_CATEGORIES.forEach(c=>{
+    const opt = document.createElement('option');
+    opt.value = c;
+    opt.disabled = !availCats.has(c);
+    opt.textContent = c + (availCats.has(c) ? '' : '（此條件下無結果）');
+    catSelect.appendChild(opt);
+  });
+  catSelect.value = state.cat;
+
+  priceSelect.innerHTML = '';
+  const priceAllOpt = document.createElement('option');
+  priceAllOpt.value='all'; priceAllOpt.textContent='全部價位';
+  priceSelect.appendChild(priceAllOpt);
+  ALL_PRICES.forEach(p=>{
+    const opt = document.createElement('option');
+    opt.value = p;
+    opt.disabled = !availPrices.has(p);
+    opt.textContent = PRICE_LABELS[p] + (availPrices.has(p) ? '' : '（此條件下無結果）');
+    priceSelect.appendChild(opt);
+  });
+  priceSelect.value = state.price;
+}
+
+catSelect.addEventListener('change', ()=>{
+  state.cat = catSelect.value;
+  render();
+});
 priceSelect.addEventListener('change', ()=>{
   state.price = priceSelect.value;
   render();
 });
-
-const categories = ['全部分類', ...Array.from(new Set(restaurants.map(r=>r.cat)))];
-
-function buildCatSelect(){
-  catSelect.innerHTML = '';
-  categories.forEach(c=>{
-    const opt = document.createElement('option');
-    opt.value = c==='全部分類' ? 'all' : c;
-    opt.textContent = c;
-    catSelect.appendChild(opt);
-  });
-  catSelect.addEventListener('change', ()=>{
-    state.cat = catSelect.value;
-    render();
-  });
-}
 
 function buildTimeSelectors(){
   DAY_NAMES.forEach((d,i)=>{
@@ -606,6 +644,7 @@ function parkingBadge(r){
 
 function render(){
   const cp = currentCheckPoint();
+  syncSelects(cp);
   const filtered = restaurants.filter(r=>{
     const areaOk = state.area==='all' || r.area===state.area;
     const catOk = state.cat==='all' || r.cat===state.cat;
@@ -661,7 +700,6 @@ function render(){
   });
 }
 
-buildCatSelect();
 buildTimeSelectors();
 render();
 </script>
