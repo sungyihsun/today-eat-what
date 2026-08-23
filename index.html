@@ -148,6 +148,11 @@
     background:rgba(60,55,48,0.05); border-color:rgba(60,55,48,0.08);
     color:#b3ada0; cursor:not-allowed; font-weight:500;
   }
+  .area-toggle.collapsed button:not(.active){ display:none; }
+  .area-toggle.collapsed button.active{ padding-right:12px; }
+  .area-toggle.collapsed button.active::after{
+    content:"▾"; margin-left:6px; font-size:10px; opacity:.7;
+  }
 
   .hours-icon-btn, .fav-toggle{
     display:flex; align-items:center; gap:7px;
@@ -250,7 +255,13 @@
   }
   .cat-select:focus{ outline:none; box-shadow:0 0 0 3px rgba(217,134,31,0.25); }
 
-  .result-count{ margin-top:12px; font-size:12.5px; color:#8a8474; }
+  .result-row{ display:flex; align-items:center; justify-content:space-between; gap:10px; margin-top:12px; flex-wrap:wrap; }
+  .result-count{ font-size:12.5px; color:#8a8474; }
+  .sort-select-wrap{ flex:0 0 auto; }
+  .sort-select-wrap .cat-select{
+    height:32px; padding:0 28px 0 12px; font-size:12.5px; font-weight:600;
+    background:rgba(255,255,255,0.2); border-color:rgba(255,255,255,0.4);
+  }
 
   /* Horizontal chip-scroll strip on phones — classic iOS filter-bar pattern */
   @media (max-width:720px){
@@ -458,7 +469,18 @@
     <select id="timeSelect"></select>
     <button id="clearTimeBtn" style="border:none;background:none;text-decoration:underline;cursor:pointer;color:var(--seal);font-size:13px;">清除，改用現在時間</button>
   </div>
-  <div class="result-count" id="resultCount"></div>
+  <div class="result-row">
+    <div class="result-count" id="resultCount"></div>
+    <div class="cat-select-wrap sort-select-wrap">
+      <select class="cat-select" id="sortSelect" aria-label="排序方式">
+        <option value="default">預設排序</option>
+        <option value="rating_desc">評分：高到低</option>
+        <option value="price_asc">價位：低到高</option>
+        <option value="price_desc">價位：高到低</option>
+        <option value="distance">距離：近到遠</option>
+      </select>
+    </div>
+  </div>
 </div>
 
 <div class="shared-banner" id="sharedBanner" style="display:none;">
@@ -885,6 +907,7 @@ const subCatSelectWrap = document.getElementById('subCatSelectWrap');
 const areaToggle = document.getElementById('areaToggle');
 const searchInput = document.getElementById('searchInput');
 const resultCount = document.getElementById('resultCount');
+const sortSelect = document.getElementById('sortSelect');
 const emptyState = document.getElementById('emptyState');
 const emptyStateText = document.getElementById('emptyStateText');
 const hoursToggle = document.getElementById('hoursToggle');
@@ -1107,11 +1130,19 @@ function buildTimeSelectors(){
   timeSelect.value = Math.round(nowMin/30)*30 % 1440;
 }
 
+// Once a specific city is picked the whole strip collapses down to just that
+// pill, to stop the six future-city placeholders from eating screen space.
+// Tapping the collapsed pill re-expands the strip so a different city can be picked.
 areaToggle.querySelectorAll('button').forEach(btn=>{
   btn.addEventListener('click', ()=>{
+    if(areaToggle.classList.contains('collapsed') && btn.classList.contains('active')){
+      areaToggle.classList.remove('collapsed');
+      return;
+    }
     state.area = btn.dataset.area;
     areaToggle.querySelectorAll('button').forEach(x=>x.classList.remove('active'));
     btn.classList.add('active');
+    areaToggle.classList.toggle('collapsed', state.area !== 'all');
     render();
   });
 });
@@ -1143,6 +1174,34 @@ function haversineKm(lat1, lng1, lat2, lng2){
 function fmtDistance(km){
   return km < 1 ? `${Math.round(km*1000)} 公尺` : `${km.toFixed(1)} 公里`;
 }
+
+sortSelect.addEventListener('change', ()=>{
+  const val = sortSelect.value;
+  if(val === 'distance' && !userLocation){
+    if(!navigator.geolocation){
+      showToast('這個瀏覽器不支援定位功能');
+      sortSelect.value = state.sort;
+      return;
+    }
+    showToast('正在取得你的位置…');
+    navigator.geolocation.getCurrentPosition(
+      pos => {
+        userLocation = { lat: pos.coords.latitude, lng: pos.coords.longitude };
+        state.sort = 'distance';
+        showToast('已定位，依距離排序中');
+        render();
+      },
+      err => {
+        showToast('無法取得位置，請確認已允許瀏覽器定位權限');
+        sortSelect.value = state.sort;
+      },
+      { timeout: 10000 }
+    );
+    return;
+  }
+  state.sort = val;
+  render();
+});
 
 daySelect.addEventListener('change', ()=>{ state.customDay = parseInt(daySelect.value); render(); updateHoursLabel(); });
 timeSelect.addEventListener('change', ()=>{ state.customTime = parseInt(timeSelect.value); render(); updateHoursLabel(); });
@@ -1228,7 +1287,11 @@ function render(){
     return areaOk && catOk && subCatOk && qOk && openOk && favOk && sharedOk;
   });
 
-  if(state.sort==='distance' && userLocation) filtered.sort((a,b)=>
+  const PRICE_RANK = {'$':1,'$$':2,'$$$':3,'$$$$':4};
+  if(state.sort==='rating_desc') filtered.sort((a,b)=> b.rating - a.rating);
+  else if(state.sort==='price_asc') filtered.sort((a,b)=> PRICE_RANK[a.price] - PRICE_RANK[b.price]);
+  else if(state.sort==='price_desc') filtered.sort((a,b)=> PRICE_RANK[b.price] - PRICE_RANK[a.price]);
+  else if(state.sort==='distance' && userLocation) filtered.sort((a,b)=>
     haversineKm(userLocation.lat, userLocation.lng, a.lat, a.lng) - haversineKm(userLocation.lat, userLocation.lng, b.lat, b.lng));
 
   resultCount.textContent = `共找到 ${filtered.length} 間餐廳`;
