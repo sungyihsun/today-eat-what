@@ -145,7 +145,6 @@
   }
   .area-toggle button.active{ background:rgba(255,255,255,0.85); color:var(--ink); box-shadow:var(--shadow-sm); font-weight:700; }
   .area-toggle button.area-back{ background:transparent; border-style:dashed; color:#8a8474; font-weight:500; }
-  .area-toggle button.area-done{ background:var(--jade); color:var(--white); border-color:var(--jade); font-weight:700; }
   .area-toggle button.area-future{
     background:rgba(60,55,48,0.05); border-color:rgba(60,55,48,0.08);
     color:#b3ada0; cursor:not-allowed; font-weight:500;
@@ -444,7 +443,12 @@
     <button class="share-btn" id="shareBtn" type="button" title="分享我的口袋名單">🔗 分享</button>
   </div>
   <div class="filter-row filter-row-2">
-    <div class="area-toggle" id="catToggle"></div>
+    <div class="cat-select-wrap">
+      <select class="cat-select" id="catSelect" aria-label="依分類篩選"></select>
+    </div>
+    <div class="cat-select-wrap" id="subCatSelectWrap" style="display:none;">
+      <select class="cat-select" id="subCatSelect" aria-label="依細分類篩選"></select>
+    </div>
     <button class="hours-icon-btn" id="hoursToggle" type="button" aria-label="依時間篩選" title="依時間篩選">
       <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 3"/></svg>
       <span id="hoursToggleLabel">時間</span>
@@ -888,7 +892,9 @@ const restaurants = [
 ];
 
 const grid = document.getElementById('grid');
-const catToggle = document.getElementById('catToggle');
+const catSelect = document.getElementById('catSelect');
+const subCatSelect = document.getElementById('subCatSelect');
+const subCatSelectWrap = document.getElementById('subCatSelectWrap');
 const areaToggle = document.getElementById('areaToggle');
 const searchInput = document.getElementById('searchInput');
 const resultCount = document.getElementById('resultCount');
@@ -910,7 +916,7 @@ const sharedAdoptBtn = document.getElementById('sharedAdoptBtn');
 const sharedDismissBtn = document.getElementById('sharedDismissBtn');
 const toast = document.getElementById('toast');
 
-let state = { areas:[], cats:[], q:'', onlyOpen:false, onlyFav:false, sort:'default', viewingShared:false, customDay:null, customTime:null };
+let state = { area:'all', cat:'all', subCat:'all', q:'', onlyOpen:false, onlyFav:false, sort:'default', viewingShared:false, customDay:null, customTime:null };
 
 // 口袋名單／我的最愛：存在瀏覽器 localStorage，不用登入，只有這台裝置這個瀏覽器看得到
 const FAV_KEY = 'zhushitu_favorites';
@@ -988,10 +994,9 @@ sharedDismissBtn.addEventListener('click', ()=>{
   render();
 });
 
-// Coarse cuisine/type buckets shown in the filter list. Each restaurant keeps its
+// Coarse cuisine/type buckets shown in the filter dropdown. Each restaurant keeps its
 // full detailed cat[] (still shown on the card itself) — this mapping just groups those
-// detailed strings under short labels so the picker stays a short, scannable list.
-// Category filtering is multi-select (OR semantics): pick 日式 + 韓式 to see either.
+// detailed strings under short labels so the dropdown stays a short, scannable list.
 const CAT_GROUPS = {
   '台式': ['台式/客家合菜'],
   '義式': ['義式料理'],
@@ -1002,6 +1007,10 @@ const CAT_GROUPS = {
   '小吃': ['麵食/小吃'],
   '吃到飽': ['吃到飽'],
   '夜市': ['夜市'],
+};
+// A second cascading tier: once a top-level category is picked, the sub-select
+// only lists these types that actually apply to restaurants within that pick.
+const SUB_CAT_GROUPS = {
   '火鍋': ['火鍋/鍋物'],
   '燒烤': ['燒烤'],
   '牛排': ['牛排'],
@@ -1012,32 +1021,84 @@ const CAT_GROUPS = {
   '酒吧': ['酒吧/Bar'],
   '素食': ['素食/蔬食'],
 };
-const ALL_CATEGORIES = Object.keys(CAT_GROUPS).filter(label =>
-  CAT_GROUPS[label].some(c => restaurants.some(r => r.cat.includes(c)))
-);
+const ALL_CAT_GROUPS = Object.assign({}, CAT_GROUPS, SUB_CAT_GROUPS);
+function hasAnyMatch(label){
+  return ALL_CAT_GROUPS[label].some(c => restaurants.some(r => r.cat.includes(c)));
+}
+const PRIMARY_CATEGORIES = Object.keys(CAT_GROUPS).filter(hasAnyMatch);
+const SUB_CATEGORIES = Object.keys(SUB_CAT_GROUPS).filter(hasAnyMatch);
 function catGroupMatches(r, label){
-  return CAT_GROUPS[label].some(c => r.cat.includes(c));
+  return ALL_CAT_GROUPS[label].some(c => r.cat.includes(c));
 }
 
 // A restaurant can belong to several categories at once (e.g. a hotpot buffet
 // is both "火鍋/鍋物" and "吃到飽") — r.cat is always an array.
 // Does restaurant r pass every active structural filter except the one named in `exclude`?
-// Used to figure out which chips would still yield results (dimmed if not).
+// Used to figure out which dropdown options would still yield results.
 function matchesStructural(r, cp, exclude){
-  const areaOk = exclude==='area' || state.areas.length===0 || state.areas.includes(r.area);
-  const catOk = exclude==='cat' || state.cats.length===0 || state.cats.some(l=>catGroupMatches(r, l));
+  const areaOk = state.area==='all' || r.area===state.area;
+  const catOk = exclude==='cat' || state.cat==='all' || catGroupMatches(r, state.cat);
+  const subCatOk = exclude==='subCat' || state.subCat==='all' || catGroupMatches(r, state.subCat);
   const openOk = !state.onlyOpen || r.cat.includes('夜市') || isOpenAt(r.name, cp.day, cp.minutes)===true;
-  return areaOk && catOk && openOk;
+  return areaOk && catOk && subCatOk && openOk;
 }
 
-function availableGroups(cp, exclude, labels, matchFn){
+function availableGroups(cp, exclude, labels){
   const set = new Set();
   restaurants.forEach(r=>{
     if(!matchesStructural(r, cp, exclude)) return;
-    labels.forEach(label=>{ if(matchFn(r, label)) set.add(label); });
+    labels.forEach(label=>{ if(catGroupMatches(r, label)) set.add(label); });
   });
   return set;
 }
+
+// Rebuild the category dropdowns so only options with at least one matching
+// restaurant are selectable — never lets the user pick a dead-end combo.
+// The sub-category select only appears once a top-level category is chosen,
+// and only lists sub-types that actually occur within that top-level pick.
+function syncSelects(cp){
+  const availCats = availableGroups(cp, 'cat', PRIMARY_CATEGORIES);
+  if(state.cat!=='all' && !availCats.has(state.cat)) state.cat = 'all';
+
+  catSelect.innerHTML = '';
+  const catAllOpt = document.createElement('option');
+  catAllOpt.value='all'; catAllOpt.textContent='全部分類';
+  catSelect.appendChild(catAllOpt);
+  const makeOpt = (c, avail) => {
+    const opt = document.createElement('option');
+    opt.value = c;
+    opt.disabled = !avail.has(c);
+    opt.textContent = c + (avail.has(c) ? '' : '（此條件下無結果）');
+    return opt;
+  };
+  PRIMARY_CATEGORIES.forEach(c=> catSelect.appendChild(makeOpt(c, availCats)));
+  catSelect.value = state.cat;
+
+  const availSubCats = state.cat==='all' ? new Set() : availableGroups(cp, 'subCat', SUB_CATEGORIES);
+  if(state.subCat!=='all' && !availSubCats.has(state.subCat)) state.subCat = 'all';
+
+  if(availSubCats.size === 0){
+    subCatSelectWrap.style.display = 'none';
+  } else {
+    subCatSelectWrap.style.display = '';
+    subCatSelect.innerHTML = '';
+    const subAllOpt = document.createElement('option');
+    subAllOpt.value='all'; subAllOpt.textContent='全部細分類';
+    subCatSelect.appendChild(subAllOpt);
+    SUB_CATEGORIES.filter(c=>availSubCats.has(c)).forEach(c=> subCatSelect.appendChild(makeOpt(c, availSubCats)));
+    subCatSelect.value = state.subCat;
+  }
+}
+
+catSelect.addEventListener('change', ()=>{
+  state.cat = catSelect.value;
+  state.subCat = 'all';
+  render();
+});
+subCatSelect.addEventListener('change', ()=>{
+  state.subCat = subCatSelect.value;
+  render();
+});
 
 function buildTimeSelectors(){
   DAY_NAMES.forEach((d,i)=>{
@@ -1079,12 +1140,6 @@ const AREA_REGIONS = {
     {area:'高雄', label:'高雄', enabled:false},
   ],
 };
-function areaSummaryLabel(){
-  if(state.areas.length===0) return '全部區域';
-  const labels = state.areas.map(a => (Object.values(AREA_REGIONS).flat().find(c=>c.area===a) || {}).label || a);
-  return labels.length > 1 ? labels.join('、') : labels[0];
-}
-
 let areaUiExpanded = false; // whether the region/city picker is open (UI-only, not a filter)
 let areaUiRegion = null;    // which region's city list is showing while expanded
 
@@ -1093,10 +1148,12 @@ function renderAreaToggle(){
   areaToggle.classList.remove('collapsed');
 
   if(!areaUiExpanded){
-    // Collapsed: a single pill summarizing the current selection (可能不只一個地區).
+    // Collapsed: a single pill showing whatever's currently selected
+    // (全部區域 included — picking anything, even 全部區域, collapses the strip).
+    const cityInfo = Object.values(AREA_REGIONS).flat().find(c=>c.area===state.area);
     const btn = document.createElement('button');
     btn.className = 'active';
-    btn.textContent = areaSummaryLabel();
+    btn.textContent = state.area==='all' ? '全部區域' : (cityInfo ? cityInfo.label : state.area);
     btn.addEventListener('click', ()=>{
       areaUiExpanded = true;
       areaUiRegion = null;
@@ -1108,7 +1165,7 @@ function renderAreaToggle(){
   }
 
   if(areaUiRegion){
-    // Level 1: multi-select cities within the chosen region
+    // Level 1: cities within the chosen region, with a way back to the region list
     const backBtn = document.createElement('button');
     backBtn.className = 'area-back';
     backBtn.textContent = '‹ ' + areaUiRegion;
@@ -1119,40 +1176,31 @@ function renderAreaToggle(){
     areaToggle.appendChild(backBtn);
     AREA_REGIONS[areaUiRegion].forEach(c=>{
       const btn = document.createElement('button');
-      const isOn = state.areas.includes(c.area);
-      btn.textContent = (isOn ? '✓ ' : '') + c.label;
+      btn.textContent = c.label;
       if(!c.enabled){
         btn.className = 'area-future';
         btn.disabled = true;
         btn.title = '即將推出';
       } else {
-        btn.className = isOn ? 'active' : '';
         btn.addEventListener('click', ()=>{
-          state.areas = isOn ? state.areas.filter(a=>a!==c.area) : [...state.areas, c.area];
+          state.area = c.area;
+          areaUiExpanded = false;
+          areaUiRegion = null;
           renderAreaToggle();
           render();
         });
       }
       areaToggle.appendChild(btn);
     });
-    const doneBtn = document.createElement('button');
-    doneBtn.className = 'area-done';
-    doneBtn.textContent = '完成 ✓';
-    doneBtn.addEventListener('click', ()=>{
-      areaUiExpanded = false;
-      areaUiRegion = null;
-      renderAreaToggle();
-    });
-    areaToggle.appendChild(doneBtn);
     return;
   }
 
-  // Level 0: 全部區域 (clears selection) + region picker
+  // Level 0: 全部區域 + region picker
   const allBtn = document.createElement('button');
-  allBtn.className = state.areas.length===0 ? 'active' : '';
+  allBtn.className = state.area==='all' ? 'active' : '';
   allBtn.textContent = '全部區域';
   allBtn.addEventListener('click', ()=>{
-    state.areas = [];
+    state.area = 'all';
     areaUiExpanded = false;
     areaUiRegion = null;
     renderAreaToggle();
@@ -1170,70 +1218,6 @@ function renderAreaToggle(){
   });
 }
 renderAreaToggle();
-
-function catSummaryLabel(){
-  if(state.cats.length===0) return '全部分類';
-  return state.cats.length > 1 ? state.cats.join('、') : state.cats[0];
-}
-
-let catUiExpanded = false;
-
-function renderCatToggle(cp){
-  catToggle.innerHTML = '';
-  catToggle.classList.remove('collapsed');
-
-  if(!catUiExpanded){
-    const btn = document.createElement('button');
-    btn.className = 'active';
-    btn.textContent = catSummaryLabel();
-    btn.addEventListener('click', ()=>{
-      catUiExpanded = true;
-      renderCatToggle(cp);
-    });
-    catToggle.appendChild(btn);
-    catToggle.classList.add('collapsed');
-    return;
-  }
-
-  const availCats = availableGroups(cp, 'cat', ALL_CATEGORIES, catGroupMatches);
-  const allBtn = document.createElement('button');
-  allBtn.className = state.cats.length===0 ? 'active' : '';
-  allBtn.textContent = '全部分類';
-  allBtn.addEventListener('click', ()=>{
-    state.cats = [];
-    catUiExpanded = false;
-    renderCatToggle(cp);
-    render();
-  });
-  catToggle.appendChild(allBtn);
-  ALL_CATEGORIES.forEach(label=>{
-    const btn = document.createElement('button');
-    const isOn = state.cats.includes(label);
-    const hasResults = isOn || availCats.has(label);
-    btn.textContent = (isOn ? '✓ ' : '') + label;
-    if(!hasResults){
-      btn.className = 'area-future';
-      btn.disabled = true;
-      btn.title = '此條件下無結果';
-    } else {
-      btn.className = isOn ? 'active' : '';
-      btn.addEventListener('click', ()=>{
-        state.cats = isOn ? state.cats.filter(c=>c!==label) : [...state.cats, label];
-        renderCatToggle(cp);
-        render();
-      });
-    }
-    catToggle.appendChild(btn);
-  });
-  const doneBtn = document.createElement('button');
-  doneBtn.className = 'area-done';
-  doneBtn.textContent = '完成 ✓';
-  doneBtn.addEventListener('click', ()=>{
-    catUiExpanded = false;
-    renderCatToggle(cp);
-  });
-  catToggle.appendChild(doneBtn);
-}
 
 hoursToggle.addEventListener('click', ()=>{
   state.onlyOpen = !state.onlyOpen;
@@ -1363,16 +1347,16 @@ function parkingBadge(r){
 
 function render(){
   const cp = currentCheckPoint();
-  renderAreaToggle();
-  renderCatToggle(cp);
+  syncSelects(cp);
   const filtered = restaurants.filter(r=>{
-    const areaOk = state.areas.length===0 || state.areas.includes(r.area);
-    const catOk = state.cats.length===0 || state.cats.some(l=>catGroupMatches(r, l));
+    const areaOk = state.area==='all' || r.area===state.area;
+    const catOk = state.cat==='all' || catGroupMatches(r, state.cat);
+    const subCatOk = state.subCat==='all' || catGroupMatches(r, state.subCat);
     const qOk = !state.q || (r.name+r.cat.join(' ')+r.desc+r.tags.join(' ')).toLowerCase().includes(state.q);
     const openOk = !state.onlyOpen || r.cat.includes('夜市') || isOpenAt(r.name, cp.day, cp.minutes)===true;
     const favOk = !state.onlyFav || favorites.has(r.name);
     const sharedOk = !state.viewingShared || sharedFavorites.has(r.name);
-    return areaOk && catOk && qOk && openOk && favOk && sharedOk;
+    return areaOk && catOk && subCatOk && qOk && openOk && favOk && sharedOk;
   });
 
   const PRICE_RANK = {'$':1,'$$':2,'$$$':3,'$$$$':4};
