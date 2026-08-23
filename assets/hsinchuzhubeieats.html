@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-<title>竹食圖 — 新竹市 × 竹北 餐廳地圖</title>
+<title>今天吃什麼 — 新竹市 × 竹北市 餐廳地圖</title>
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@500;700;900&family=Noto+Sans+TC:wght@400;500;700&display=swap');
 
@@ -128,19 +128,26 @@
     margin-top:9px;
   }
 
-  /* iOS-style segmented control, frosted glass track */
+  /* Horizontally scrollable chip strip of area/city buttons, frosted glass */
   .area-toggle{
-    display:flex; background:rgba(255,255,255,0.28); border-radius:12px;
-    padding:3px; flex:0 0 auto; gap:2px;
-    backdrop-filter:blur(14px) saturate(1.4); -webkit-backdrop-filter:blur(14px) saturate(1.4);
-    border:1px solid rgba(255,255,255,0.5);
+    display:flex; gap:6px; align-items:center; flex:0 0 auto; max-width:100%;
+    overflow-x:auto; scrollbar-width:none; -webkit-overflow-scrolling:touch;
   }
+  .area-toggle::-webkit-scrollbar{ display:none; }
   .area-toggle button{
-    padding:8px 16px; height:38px; border:none; border-radius:9px; background:transparent;
+    flex:0 0 auto;
+    padding:8px 15px; height:38px; border-radius:999px;
+    border:1px solid rgba(255,255,255,0.5);
+    background:rgba(255,255,255,0.28);
+    backdrop-filter:blur(14px) saturate(1.4); -webkit-backdrop-filter:blur(14px) saturate(1.4);
     font-weight:600; font-size:13.5px;
     cursor:pointer; color:#5a5548; transition:background .2s ease, color .2s ease, box-shadow .2s ease;
   }
   .area-toggle button.active{ background:rgba(255,255,255,0.85); color:var(--ink); box-shadow:var(--shadow-sm); font-weight:700; }
+  .area-toggle button.area-future{
+    background:rgba(60,55,48,0.05); border-color:rgba(60,55,48,0.08);
+    color:#b3ada0; cursor:not-allowed; font-weight:500;
+  }
 
   .hours-toggle, .fav-toggle{
     display:flex; align-items:center; gap:7px;
@@ -395,10 +402,10 @@
 <body>
 
 <header>
-  <div class="eyebrow">竹塹食單 · 開吃地圖</div>
-  <h1>竹食圖<span class="accent">。</span></h1>
-  <p class="subhead">從護城河邊的老字號到竹北高鐵旁的新派餐酒，收錄新竹市與竹北的火鍋、燒烤、吃到飽、在地夜市與口袋名單。可篩選價位、是否現正營業、依分類挑選，並標註附近停車資訊。相片、評分與營業時間皆來自 Google Maps。</p>
-  <div class="stamp">竹北<br>新竹<br>食記</div>
+  <div class="eyebrow">選擇困難救星</div>
+  <h1>今天吃什麼<span class="accent">。</span></h1>
+  <p class="subhead">從護城河邊的老字號到竹北高鐵旁的新派餐酒，收錄新竹市與竹北市的火鍋、燒烤、吃到飽、在地夜市與口袋名單，之後也會擴大到六都。可依分類挑選、篩選是否現正營業，並標註附近停車資訊。相片、評分與營業時間皆來自 Google Maps。</p>
+  <div class="stamp">今天<br>吃<br>什麼</div>
 </header>
 
 <div class="controls">
@@ -412,11 +419,17 @@
     <div class="area-toggle" id="areaToggle">
       <button data-area="all" class="active">全部區域</button>
       <button data-area="新竹市">新竹市</button>
-      <button data-area="竹北">竹北</button>
+      <button data-area="竹北">竹北市</button>
+      <button class="area-future" disabled title="即將推出">台北</button>
+      <button class="area-future" disabled title="即將推出">新北</button>
+      <button class="area-future" disabled title="即將推出">桃園</button>
+      <button class="area-future" disabled title="即將推出">台中</button>
+      <button class="area-future" disabled title="即將推出">台南</button>
+      <button class="area-future" disabled title="即將推出">高雄</button>
     </div>
     <div class="hours-toggle" id="hoursToggle">
       <span class="indicator"></span>
-      <span id="hoursToggleLabel">只看現在營業中</span>
+      <span id="hoursToggleLabel">營業中</span>
     </div>
     <div class="fav-toggle" id="favToggle">
       <span>♥ 我的口袋名單</span>
@@ -427,18 +440,6 @@
   <div class="filter-row filter-row-2">
     <div class="cat-select-wrap">
       <select class="cat-select" id="catSelect" aria-label="依分類篩選"></select>
-    </div>
-    <div class="cat-select-wrap">
-      <select class="cat-select" id="priceSelect" aria-label="依價位篩選"></select>
-    </div>
-    <div class="cat-select-wrap">
-      <select class="cat-select" id="sortSelect" aria-label="排序方式">
-        <option value="default">預設排序</option>
-        <option value="rating_desc">評分：高到低</option>
-        <option value="price_asc">價位：低到高</option>
-        <option value="price_desc">價位：高到低</option>
-        <option value="distance">距離：近到遠</option>
-      </select>
     </div>
   </div>
   <div class="time-select-row" id="timeSelectRow">
@@ -469,7 +470,7 @@
 </main>
 
 <footer>
-  <span>竹食圖 · 餐廳資訊與相片由 Google Maps 提供，僅供參考，實際請以店家公告為準</span>
+  <span>今天吃什麼 · 餐廳資訊與相片由 Google Maps 提供，僅供參考，實際請以店家公告為準</span>
   <span>新竹市 × 竹北市 · 2026</span>
 </footer>
 
@@ -869,7 +870,6 @@ const restaurants = [
 
 const grid = document.getElementById('grid');
 const catSelect = document.getElementById('catSelect');
-const priceSelect = document.getElementById('priceSelect');
 const areaToggle = document.getElementById('areaToggle');
 const searchInput = document.getElementById('searchInput');
 const resultCount = document.getElementById('resultCount');
@@ -884,14 +884,13 @@ const clearTimeBtn = document.getElementById('clearTimeBtn');
 const favToggle = document.getElementById('favToggle');
 const favCount = document.getElementById('favCount');
 const shareBtn = document.getElementById('shareBtn');
-const sortSelect = document.getElementById('sortSelect');
 const sharedBanner = document.getElementById('sharedBanner');
 const sharedBannerText = document.getElementById('sharedBannerText');
 const sharedAdoptBtn = document.getElementById('sharedAdoptBtn');
 const sharedDismissBtn = document.getElementById('sharedDismissBtn');
 const toast = document.getElementById('toast');
 
-let state = { area:'all', cat:'all', price:'all', q:'', onlyOpen:false, onlyFav:false, sort:'default', viewingShared:false, customDay:null, customTime:null };
+let state = { area:'all', cat:'all', q:'', onlyOpen:false, onlyFav:false, sort:'default', viewingShared:false, customDay:null, customTime:null };
 
 // 口袋名單／我的最愛：存在瀏覽器 localStorage，不用登入，只有這台裝置這個瀏覽器看得到
 const FAV_KEY = 'zhushitu_favorites';
@@ -969,9 +968,35 @@ sharedDismissBtn.addEventListener('click', ()=>{
   render();
 });
 
-const ALL_CATEGORIES = Array.from(new Set(restaurants.flatMap(r=>r.cat))).sort((a,b)=>a.localeCompare(b,'zh-Hant'));
-const ALL_PRICES = ['$','$$','$$$','$$$$'].filter(p=>restaurants.some(r=>r.price===p));
-const PRICE_LABELS = {'$':'$ 平價（銅板美食）','$$':'$$ 中價位','$$$':'$$$ 中高價位','$$$$':'$$$$ 高價位'};
+// Coarse cuisine/type buckets shown in the filter dropdown. Each restaurant keeps its
+// full detailed cat[] (still shown on the card itself) — this mapping just groups those
+// detailed strings under short labels so the dropdown stays a short, scannable list.
+const CAT_GROUPS = {
+  '台式': ['台式/客家合菜'],
+  '義式': ['義式料理'],
+  '日式': ['日式料理'],
+  '韓式': ['韓式料理'],
+  '泰式': ['泰式料理'],
+  '港式': ['港式料理'],
+  '火鍋': ['火鍋/鍋物'],
+  '燒烤': ['燒烤'],
+  '牛排': ['牛排'],
+  '熱炒/居酒屋': ['熱炒/居酒屋'],
+  '咖啡/甜點': ['咖啡廳', '甜點/烘焙'],
+  '早餐/早午餐': ['早餐店', '早午餐'],
+  '炸雞/鹹酥雞': ['炸雞/鹹酥雞'],
+  '酒吧': ['酒吧/Bar'],
+  '素食': ['素食/蔬食'],
+  '麵食/小吃': ['麵食/小吃'],
+  '吃到飽': ['吃到飽'],
+  '夜市': ['夜市'],
+};
+const ALL_CATEGORIES = Object.keys(CAT_GROUPS).filter(label =>
+  CAT_GROUPS[label].some(c => restaurants.some(r => r.cat.includes(c)))
+);
+function catGroupMatches(r, label){
+  return CAT_GROUPS[label].some(c => r.cat.includes(c));
+}
 
 // A restaurant can belong to several categories at once (e.g. a hotpot buffet
 // is both "火鍋/鍋物" and "吃到飽") — r.cat is always an array.
@@ -979,30 +1004,26 @@ const PRICE_LABELS = {'$':'$ 平價（銅板美食）','$$':'$$ 中價位','$$$'
 // Used to figure out which dropdown options would still yield results.
 function matchesStructural(r, cp, exclude){
   const areaOk = state.area==='all' || r.area===state.area;
-  const catOk = exclude==='cat' || state.cat==='all' || r.cat.includes(state.cat);
-  const priceOk = exclude==='price' || state.price==='all' || r.price===state.price;
+  const catOk = exclude==='cat' || state.cat==='all' || catGroupMatches(r, state.cat);
   const openOk = !state.onlyOpen || r.cat.includes('夜市') || isOpenAt(r.name, cp.day, cp.minutes)===true;
-  return areaOk && catOk && priceOk && openOk;
+  return areaOk && catOk && openOk;
 }
 
-function availableSet(cp, exclude, key){
+function availableCatGroups(cp){
   const set = new Set();
   restaurants.forEach(r=>{
-    if(!matchesStructural(r, cp, exclude)) return;
-    if(key==='cat') r.cat.forEach(c=>set.add(c));
-    else set.add(r[key]);
+    if(!matchesStructural(r, cp, 'cat')) return;
+    ALL_CATEGORIES.forEach(label=>{ if(catGroupMatches(r, label)) set.add(label); });
   });
   return set;
 }
 
-// Rebuild the category/price dropdowns so only combinations with at least one
-// matching restaurant are selectable — never lets the user pick a dead-end combo.
+// Rebuild the category dropdown so only options with at least one matching
+// restaurant are selectable — never lets the user pick a dead-end combo.
 function syncSelects(cp){
-  const availCats = availableSet(cp, 'cat', 'cat');
-  const availPrices = availableSet(cp, 'price', 'price');
+  const availCats = availableCatGroups(cp);
 
   if(state.cat!=='all' && !availCats.has(state.cat)) state.cat = 'all';
-  if(state.price!=='all' && !availPrices.has(state.price)) state.price = 'all';
 
   catSelect.innerHTML = '';
   const catAllOpt = document.createElement('option');
@@ -1016,27 +1037,10 @@ function syncSelects(cp){
     catSelect.appendChild(opt);
   });
   catSelect.value = state.cat;
-
-  priceSelect.innerHTML = '';
-  const priceAllOpt = document.createElement('option');
-  priceAllOpt.value='all'; priceAllOpt.textContent='全部價位';
-  priceSelect.appendChild(priceAllOpt);
-  ALL_PRICES.forEach(p=>{
-    const opt = document.createElement('option');
-    opt.value = p;
-    opt.disabled = !availPrices.has(p);
-    opt.textContent = PRICE_LABELS[p] + (availPrices.has(p) ? '' : '（此條件下無結果）');
-    priceSelect.appendChild(opt);
-  });
-  priceSelect.value = state.price;
 }
 
 catSelect.addEventListener('change', ()=>{
   state.cat = catSelect.value;
-  render();
-});
-priceSelect.addEventListener('change', ()=>{
-  state.price = priceSelect.value;
   render();
 });
 
@@ -1098,34 +1102,6 @@ function fmtDistance(km){
   return km < 1 ? `${Math.round(km*1000)} 公尺` : `${km.toFixed(1)} 公里`;
 }
 
-sortSelect.addEventListener('change', ()=>{
-  const val = sortSelect.value;
-  if(val === 'distance' && !userLocation){
-    if(!navigator.geolocation){
-      showToast('這個瀏覽器不支援定位功能');
-      sortSelect.value = state.sort;
-      return;
-    }
-    showToast('正在取得你的位置…');
-    navigator.geolocation.getCurrentPosition(
-      pos => {
-        userLocation = { lat: pos.coords.latitude, lng: pos.coords.longitude };
-        state.sort = 'distance';
-        showToast('已定位，依距離排序中');
-        render();
-      },
-      err => {
-        showToast('無法取得位置，請確認已允許瀏覽器定位權限');
-        sortSelect.value = state.sort;
-      },
-      { timeout: 10000 }
-    );
-    return;
-  }
-  state.sort = val;
-  render();
-});
-
 daySelect.addEventListener('change', ()=>{ state.customDay = parseInt(daySelect.value); render(); updateHoursLabel(); });
 timeSelect.addEventListener('change', ()=>{ state.customTime = parseInt(timeSelect.value); render(); updateHoursLabel(); });
 clearTimeBtn.addEventListener('click', ()=>{
@@ -1138,11 +1114,11 @@ clearTimeBtn.addEventListener('click', ()=>{
 });
 
 function updateHoursLabel(){
-  if(!state.onlyOpen){ hoursToggleLabel.textContent = "只看現在營業中"; return; }
+  if(!state.onlyOpen){ hoursToggleLabel.textContent = "營業中"; return; }
   if(state.customDay===null && state.customTime===null){
-    hoursToggleLabel.textContent = "只看現在營業中";
+    hoursToggleLabel.textContent = "營業中";
   } else {
-    hoursToggleLabel.textContent = `只看營業中（${DAY_NAMES[state.customDay]} ${fmtHM(state.customTime)}）`;
+    hoursToggleLabel.textContent = `營業中（${DAY_NAMES[state.customDay]} ${fmtHM(state.customTime)}）`;
   }
 }
 
@@ -1201,20 +1177,15 @@ function render(){
   syncSelects(cp);
   const filtered = restaurants.filter(r=>{
     const areaOk = state.area==='all' || r.area===state.area;
-    const catOk = state.cat==='all' || r.cat.includes(state.cat);
-    const priceOk = state.price==='all' || r.price===state.price;
+    const catOk = state.cat==='all' || catGroupMatches(r, state.cat);
     const qOk = !state.q || (r.name+r.cat.join(' ')+r.desc+r.tags.join(' ')).toLowerCase().includes(state.q);
     const openOk = !state.onlyOpen || r.cat.includes('夜市') || isOpenAt(r.name, cp.day, cp.minutes)===true;
     const favOk = !state.onlyFav || favorites.has(r.name);
     const sharedOk = !state.viewingShared || sharedFavorites.has(r.name);
-    return areaOk && catOk && priceOk && qOk && openOk && favOk && sharedOk;
+    return areaOk && catOk && qOk && openOk && favOk && sharedOk;
   });
 
-  const PRICE_RANK = {'$':1,'$$':2,'$$$':3,'$$$$':4};
-  if(state.sort==='rating_desc') filtered.sort((a,b)=> b.rating - a.rating);
-  else if(state.sort==='price_asc') filtered.sort((a,b)=> PRICE_RANK[a.price] - PRICE_RANK[b.price]);
-  else if(state.sort==='price_desc') filtered.sort((a,b)=> PRICE_RANK[b.price] - PRICE_RANK[a.price]);
-  else if(state.sort==='distance' && userLocation) filtered.sort((a,b)=>
+  if(state.sort==='distance' && userLocation) filtered.sort((a,b)=>
     haversineKm(userLocation.lat, userLocation.lng, a.lat, a.lng) - haversineKm(userLocation.lat, userLocation.lng, b.lat, b.lng));
 
   resultCount.textContent = `共找到 ${filtered.length} 間餐廳`;
