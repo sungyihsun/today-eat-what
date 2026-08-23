@@ -981,9 +981,23 @@ const CAT_GROUPS = {
   '吃到飽': ['吃到飽'],
   '夜市': ['夜市'],
 };
+// Everything else lives one tier down, under an "其他分類" optgroup in the dropdown.
+const CAT_GROUPS_OTHER = {
+  '火鍋': ['火鍋/鍋物'],
+  '燒烤': ['燒烤'],
+  '牛排': ['牛排'],
+  '熱炒/居酒屋': ['熱炒/居酒屋'],
+  '咖啡/甜點': ['咖啡廳', '甜點/烘焙'],
+  '早餐/早午餐': ['早餐店', '早午餐'],
+  '炸雞/鹹酥雞': ['炸雞/鹹酥雞'],
+  '酒吧': ['酒吧/Bar'],
+  '素食': ['素食/蔬食'],
+};
+Object.assign(CAT_GROUPS, CAT_GROUPS_OTHER);
 const ALL_CATEGORIES = Object.keys(CAT_GROUPS).filter(label =>
   CAT_GROUPS[label].some(c => restaurants.some(r => r.cat.includes(c)))
 );
+const OTHER_CATEGORIES = Object.keys(CAT_GROUPS_OTHER).filter(label => ALL_CATEGORIES.includes(label));
 function catGroupMatches(r, label){
   return CAT_GROUPS[label].some(c => r.cat.includes(c));
 }
@@ -1019,13 +1033,23 @@ function syncSelects(cp){
   const catAllOpt = document.createElement('option');
   catAllOpt.value='all'; catAllOpt.textContent='全部分類';
   catSelect.appendChild(catAllOpt);
-  ALL_CATEGORIES.forEach(c=>{
+
+  const makeOpt = c => {
     const opt = document.createElement('option');
     opt.value = c;
     opt.disabled = !availCats.has(c);
     opt.textContent = c + (availCats.has(c) ? '' : '（此條件下無結果）');
-    catSelect.appendChild(opt);
+    return opt;
+  };
+  ALL_CATEGORIES.filter(c => !OTHER_CATEGORIES.includes(c)).forEach(c=>{
+    catSelect.appendChild(makeOpt(c));
   });
+  if(OTHER_CATEGORIES.length){
+    const otherGroup = document.createElement('optgroup');
+    otherGroup.label = '其他分類';
+    OTHER_CATEGORIES.forEach(c=> otherGroup.appendChild(makeOpt(c)));
+    catSelect.appendChild(otherGroup);
+  }
   catSelect.value = state.cat;
 }
 
