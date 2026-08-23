@@ -436,6 +436,9 @@
     <div class="cat-select-wrap">
       <select class="cat-select" id="catSelect" aria-label="依分類篩選"></select>
     </div>
+    <div class="cat-select-wrap" id="subCatSelectWrap" style="display:none;">
+      <select class="cat-select" id="subCatSelect" aria-label="依細分類篩選"></select>
+    </div>
     <button class="hours-icon-btn" id="hoursToggle" type="button" aria-label="依時間篩選" title="依時間篩選">
       <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 3"/></svg>
       <span id="hoursToggleLabel">時間</span>
@@ -869,6 +872,8 @@ const restaurants = [
 
 const grid = document.getElementById('grid');
 const catSelect = document.getElementById('catSelect');
+const subCatSelect = document.getElementById('subCatSelect');
+const subCatSelectWrap = document.getElementById('subCatSelectWrap');
 const areaToggle = document.getElementById('areaToggle');
 const searchInput = document.getElementById('searchInput');
 const resultCount = document.getElementById('resultCount');
@@ -889,7 +894,7 @@ const sharedAdoptBtn = document.getElementById('sharedAdoptBtn');
 const sharedDismissBtn = document.getElementById('sharedDismissBtn');
 const toast = document.getElementById('toast');
 
-let state = { area:'all', cat:'all', q:'', onlyOpen:false, onlyFav:false, sort:'default', viewingShared:false, customDay:null, customTime:null };
+let state = { area:'all', cat:'all', subCat:'all', q:'', onlyOpen:false, onlyFav:false, sort:'default', viewingShared:false, customDay:null, customTime:null };
 
 // 口袋名單／我的最愛：存在瀏覽器 localStorage，不用登入，只有這台裝置這個瀏覽器看得到
 const FAV_KEY = 'zhushitu_favorites';
@@ -981,8 +986,9 @@ const CAT_GROUPS = {
   '吃到飽': ['吃到飽'],
   '夜市': ['夜市'],
 };
-// Everything else lives one tier down, under an "其他分類" optgroup in the dropdown.
-const CAT_GROUPS_OTHER = {
+// A second cascading tier: once a top-level category is picked, the sub-select
+// only lists these types that actually apply to restaurants within that pick.
+const SUB_CAT_GROUPS = {
   '火鍋': ['火鍋/鍋物'],
   '燒烤': ['燒烤'],
   '牛排': ['牛排'],
@@ -993,13 +999,14 @@ const CAT_GROUPS_OTHER = {
   '酒吧': ['酒吧/Bar'],
   '素食': ['素食/蔬食'],
 };
-Object.assign(CAT_GROUPS, CAT_GROUPS_OTHER);
-const ALL_CATEGORIES = Object.keys(CAT_GROUPS).filter(label =>
-  CAT_GROUPS[label].some(c => restaurants.some(r => r.cat.includes(c)))
-);
-const OTHER_CATEGORIES = Object.keys(CAT_GROUPS_OTHER).filter(label => ALL_CATEGORIES.includes(label));
+const ALL_CAT_GROUPS = Object.assign({}, CAT_GROUPS, SUB_CAT_GROUPS);
+function hasAnyMatch(label){
+  return ALL_CAT_GROUPS[label].some(c => restaurants.some(r => r.cat.includes(c)));
+}
+const PRIMARY_CATEGORIES = Object.keys(CAT_GROUPS).filter(hasAnyMatch);
+const SUB_CATEGORIES = Object.keys(SUB_CAT_GROUPS).filter(hasAnyMatch);
 function catGroupMatches(r, label){
-  return CAT_GROUPS[label].some(c => r.cat.includes(c));
+  return ALL_CAT_GROUPS[label].some(c => r.cat.includes(c));
 }
 
 // A restaurant can belong to several categories at once (e.g. a hotpot buffet
@@ -1009,52 +1016,65 @@ function catGroupMatches(r, label){
 function matchesStructural(r, cp, exclude){
   const areaOk = state.area==='all' || r.area===state.area;
   const catOk = exclude==='cat' || state.cat==='all' || catGroupMatches(r, state.cat);
+  const subCatOk = exclude==='subCat' || state.subCat==='all' || catGroupMatches(r, state.subCat);
   const openOk = !state.onlyOpen || r.cat.includes('夜市') || isOpenAt(r.name, cp.day, cp.minutes)===true;
-  return areaOk && catOk && openOk;
+  return areaOk && catOk && subCatOk && openOk;
 }
 
-function availableCatGroups(cp){
+function availableGroups(cp, exclude, labels){
   const set = new Set();
   restaurants.forEach(r=>{
-    if(!matchesStructural(r, cp, 'cat')) return;
-    ALL_CATEGORIES.forEach(label=>{ if(catGroupMatches(r, label)) set.add(label); });
+    if(!matchesStructural(r, cp, exclude)) return;
+    labels.forEach(label=>{ if(catGroupMatches(r, label)) set.add(label); });
   });
   return set;
 }
 
-// Rebuild the category dropdown so only options with at least one matching
+// Rebuild the category dropdowns so only options with at least one matching
 // restaurant are selectable — never lets the user pick a dead-end combo.
+// The sub-category select only appears once a top-level category is chosen,
+// and only lists sub-types that actually occur within that top-level pick.
 function syncSelects(cp){
-  const availCats = availableCatGroups(cp);
-
+  const availCats = availableGroups(cp, 'cat', PRIMARY_CATEGORIES);
   if(state.cat!=='all' && !availCats.has(state.cat)) state.cat = 'all';
 
   catSelect.innerHTML = '';
   const catAllOpt = document.createElement('option');
   catAllOpt.value='all'; catAllOpt.textContent='全部分類';
   catSelect.appendChild(catAllOpt);
-
-  const makeOpt = c => {
+  const makeOpt = (c, avail) => {
     const opt = document.createElement('option');
     opt.value = c;
-    opt.disabled = !availCats.has(c);
-    opt.textContent = c + (availCats.has(c) ? '' : '（此條件下無結果）');
+    opt.disabled = !avail.has(c);
+    opt.textContent = c + (avail.has(c) ? '' : '（此條件下無結果）');
     return opt;
   };
-  ALL_CATEGORIES.filter(c => !OTHER_CATEGORIES.includes(c)).forEach(c=>{
-    catSelect.appendChild(makeOpt(c));
-  });
-  if(OTHER_CATEGORIES.length){
-    const otherGroup = document.createElement('optgroup');
-    otherGroup.label = '其他分類';
-    OTHER_CATEGORIES.forEach(c=> otherGroup.appendChild(makeOpt(c)));
-    catSelect.appendChild(otherGroup);
-  }
+  PRIMARY_CATEGORIES.forEach(c=> catSelect.appendChild(makeOpt(c, availCats)));
   catSelect.value = state.cat;
+
+  const availSubCats = state.cat==='all' ? new Set() : availableGroups(cp, 'subCat', SUB_CATEGORIES);
+  if(state.subCat!=='all' && !availSubCats.has(state.subCat)) state.subCat = 'all';
+
+  if(availSubCats.size === 0){
+    subCatSelectWrap.style.display = 'none';
+  } else {
+    subCatSelectWrap.style.display = '';
+    subCatSelect.innerHTML = '';
+    const subAllOpt = document.createElement('option');
+    subAllOpt.value='all'; subAllOpt.textContent='全部細分類';
+    subCatSelect.appendChild(subAllOpt);
+    SUB_CATEGORIES.filter(c=>availSubCats.has(c)).forEach(c=> subCatSelect.appendChild(makeOpt(c, availSubCats)));
+    subCatSelect.value = state.subCat;
+  }
 }
 
 catSelect.addEventListener('change', ()=>{
   state.cat = catSelect.value;
+  state.subCat = 'all';
+  render();
+});
+subCatSelect.addEventListener('change', ()=>{
+  state.subCat = subCatSelect.value;
   render();
 });
 
@@ -1192,11 +1212,12 @@ function render(){
   const filtered = restaurants.filter(r=>{
     const areaOk = state.area==='all' || r.area===state.area;
     const catOk = state.cat==='all' || catGroupMatches(r, state.cat);
+    const subCatOk = state.subCat==='all' || catGroupMatches(r, state.subCat);
     const qOk = !state.q || (r.name+r.cat.join(' ')+r.desc+r.tags.join(' ')).toLowerCase().includes(state.q);
     const openOk = !state.onlyOpen || r.cat.includes('夜市') || isOpenAt(r.name, cp.day, cp.minutes)===true;
     const favOk = !state.onlyFav || favorites.has(r.name);
     const sharedOk = !state.viewingShared || sharedFavorites.has(r.name);
-    return areaOk && catOk && qOk && openOk && favOk && sharedOk;
+    return areaOk && catOk && subCatOk && qOk && openOk && favOk && sharedOk;
   });
 
   if(state.sort==='distance' && userLocation) filtered.sort((a,b)=>
