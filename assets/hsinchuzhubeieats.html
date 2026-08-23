@@ -144,6 +144,7 @@
     cursor:pointer; color:#5a5548; transition:background .2s ease, color .2s ease, box-shadow .2s ease;
   }
   .area-toggle button.active{ background:rgba(255,255,255,0.85); color:var(--ink); box-shadow:var(--shadow-sm); font-weight:700; }
+  .area-toggle button.area-back{ background:transparent; border-style:dashed; color:#8a8474; font-weight:500; }
   .area-toggle button.area-future{
     background:rgba(60,55,48,0.05); border-color:rgba(60,55,48,0.08);
     color:#b3ada0; cursor:not-allowed; font-weight:500;
@@ -434,17 +435,7 @@
       </button>
       <input id="searchInput" type="text" placeholder="搜尋店名、菜系或關鍵字…">
     </div>
-    <div class="area-toggle" id="areaToggle">
-      <button data-area="all" class="active">全部區域</button>
-      <button data-area="新竹市">新竹市</button>
-      <button data-area="竹北">竹北市</button>
-      <button class="area-future" disabled title="即將推出">台北</button>
-      <button class="area-future" disabled title="即將推出">新北</button>
-      <button class="area-future" disabled title="即將推出">桃園</button>
-      <button class="area-future" disabled title="即將推出">台中</button>
-      <button class="area-future" disabled title="即將推出">台南</button>
-      <button class="area-future" disabled title="即將推出">高雄</button>
-    </div>
+    <div class="area-toggle" id="areaToggle"></div>
     <div class="fav-toggle" id="favToggle">
       <span>♥ 我的口袋名單</span>
       <span class="count" id="favCount">0</span>
@@ -1130,22 +1121,103 @@ function buildTimeSelectors(){
   timeSelect.value = Math.round(nowMin/30)*30 % 1440;
 }
 
-// Once a specific city is picked the whole strip collapses down to just that
-// pill, to stop the six future-city placeholders from eating screen space.
-// Tapping the collapsed pill re-expands the strip so a different city can be picked.
-areaToggle.querySelectorAll('button').forEach(btn=>{
-  btn.addEventListener('click', ()=>{
-    if(areaToggle.classList.contains('collapsed') && btn.classList.contains('active')){
-      areaToggle.classList.remove('collapsed');
-      return;
-    }
-    state.area = btn.dataset.area;
-    areaToggle.querySelectorAll('button').forEach(x=>x.classList.remove('active'));
-    btn.classList.add('active');
-    areaToggle.classList.toggle('collapsed', state.area !== 'all');
+// Area picker is a three-level drill-down: region (北/中/南) -> city within
+// that region -> a collapsed single pill once something's picked. Tapping the
+// collapsed pill (or 全部區域) always drops back to the top region list.
+const AREA_REGIONS = {
+  '北部': [
+    {area:'新竹市', label:'新竹市', enabled:true},
+    {area:'竹北', label:'竹北市', enabled:true},
+    {area:'台北', label:'台北', enabled:false},
+    {area:'新北', label:'新北', enabled:false},
+    {area:'桃園', label:'桃園', enabled:false},
+  ],
+  '中部': [
+    {area:'台中', label:'台中', enabled:false},
+  ],
+  '南部': [
+    {area:'台南', label:'台南', enabled:false},
+    {area:'高雄', label:'高雄', enabled:false},
+  ],
+};
+let areaUiExpanded = false; // whether the region/city picker is open (UI-only, not a filter)
+let areaUiRegion = null;    // which region's city list is showing while expanded
+
+function renderAreaToggle(){
+  areaToggle.innerHTML = '';
+  areaToggle.classList.remove('collapsed');
+
+  if(!areaUiExpanded){
+    // Collapsed: a single pill showing whatever's currently selected
+    // (全部區域 included — picking anything, even 全部區域, collapses the strip).
+    const cityInfo = Object.values(AREA_REGIONS).flat().find(c=>c.area===state.area);
+    const btn = document.createElement('button');
+    btn.className = 'active';
+    btn.textContent = state.area==='all' ? '全部區域' : (cityInfo ? cityInfo.label : state.area);
+    btn.addEventListener('click', ()=>{
+      areaUiExpanded = true;
+      areaUiRegion = null;
+      renderAreaToggle();
+    });
+    areaToggle.appendChild(btn);
+    areaToggle.classList.add('collapsed');
+    return;
+  }
+
+  if(areaUiRegion){
+    // Level 1: cities within the chosen region, with a way back to the region list
+    const backBtn = document.createElement('button');
+    backBtn.className = 'area-back';
+    backBtn.textContent = '‹ ' + areaUiRegion;
+    backBtn.addEventListener('click', ()=>{
+      areaUiRegion = null;
+      renderAreaToggle();
+    });
+    areaToggle.appendChild(backBtn);
+    AREA_REGIONS[areaUiRegion].forEach(c=>{
+      const btn = document.createElement('button');
+      btn.textContent = c.label;
+      if(!c.enabled){
+        btn.className = 'area-future';
+        btn.disabled = true;
+        btn.title = '即將推出';
+      } else {
+        btn.addEventListener('click', ()=>{
+          state.area = c.area;
+          areaUiExpanded = false;
+          areaUiRegion = null;
+          renderAreaToggle();
+          render();
+        });
+      }
+      areaToggle.appendChild(btn);
+    });
+    return;
+  }
+
+  // Level 0: 全部區域 + region picker
+  const allBtn = document.createElement('button');
+  allBtn.className = state.area==='all' ? 'active' : '';
+  allBtn.textContent = '全部區域';
+  allBtn.addEventListener('click', ()=>{
+    state.area = 'all';
+    areaUiExpanded = false;
+    areaUiRegion = null;
+    renderAreaToggle();
     render();
   });
-});
+  areaToggle.appendChild(allBtn);
+  Object.keys(AREA_REGIONS).forEach(region=>{
+    const btn = document.createElement('button');
+    btn.textContent = region;
+    btn.addEventListener('click', ()=>{
+      areaUiRegion = region;
+      renderAreaToggle();
+    });
+    areaToggle.appendChild(btn);
+  });
+}
+renderAreaToggle();
 
 hoursToggle.addEventListener('click', ()=>{
   state.onlyOpen = !state.onlyOpen;
