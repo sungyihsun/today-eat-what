@@ -149,7 +149,7 @@
     color:#b3ada0; cursor:not-allowed; font-weight:500;
   }
 
-  .hours-toggle, .fav-toggle{
+  .hours-icon-btn, .fav-toggle{
     display:flex; align-items:center; gap:7px;
     height:38px; padding:0 15px;
     border:1px solid rgba(255,255,255,0.5);
@@ -164,9 +164,8 @@
     user-select:none;
     transition:background .2s ease, color .2s ease;
   }
-  .hours-toggle.active{ background:rgba(60,90,75,0.88); color:var(--white); }
-  .hours-toggle .indicator{ width:7px; height:7px; border-radius:50%; background:#9a9282; }
-  .hours-toggle.active .indicator{ background:#a6f0bd; box-shadow:0 0 6px #a6f0bd; }
+  .hours-icon-btn.active{ background:rgba(60,90,75,0.88); color:var(--white); }
+  .hours-icon-btn svg{ flex:0 0 auto; display:block; }
 
   .fav-toggle{ background:rgba(181,69,58,0.12); color:var(--seal); }
   .fav-toggle.active{ background:rgba(181,69,58,0.88); color:var(--white); }
@@ -427,10 +426,6 @@
       <button class="area-future" disabled title="即將推出">台南</button>
       <button class="area-future" disabled title="即將推出">高雄</button>
     </div>
-    <div class="hours-toggle" id="hoursToggle">
-      <span class="indicator"></span>
-      <span id="hoursToggleLabel">營業中</span>
-    </div>
     <div class="fav-toggle" id="favToggle">
       <span>♥ 我的口袋名單</span>
       <span class="count" id="favCount">0</span>
@@ -441,6 +436,10 @@
     <div class="cat-select-wrap">
       <select class="cat-select" id="catSelect" aria-label="依分類篩選"></select>
     </div>
+    <button class="hours-icon-btn" id="hoursToggle" type="button" aria-label="依時間篩選" title="依時間篩選">
+      <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 3"/></svg>
+      <span id="hoursToggleLabel">時間</span>
+    </button>
   </div>
   <div class="time-select-row" id="timeSelectRow">
     指定時間查詢：
@@ -1114,11 +1113,11 @@ clearTimeBtn.addEventListener('click', ()=>{
 });
 
 function updateHoursLabel(){
-  if(!state.onlyOpen){ hoursToggleLabel.textContent = "營業中"; return; }
+  if(!state.onlyOpen){ hoursToggleLabel.textContent = "時間"; return; }
   if(state.customDay===null && state.customTime===null){
-    hoursToggleLabel.textContent = "營業中";
+    hoursToggleLabel.textContent = "時間";
   } else {
-    hoursToggleLabel.textContent = `營業中（${DAY_NAMES[state.customDay]} ${fmtHM(state.customTime)}）`;
+    hoursToggleLabel.textContent = `${DAY_NAMES[state.customDay]} ${fmtHM(state.customTime)}`;
   }
 }
 
