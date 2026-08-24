@@ -222,16 +222,27 @@
 
   .time-select-row{
     display:none;
-    gap:10px; align-items:center; flex-wrap:wrap;
+    flex-direction:column; gap:10px;
     margin-top:12px;
     font-size:13px; color:#5a5548;
   }
   .time-select-row.visible{ display:flex; }
+  .time-custom-row{ display:flex; gap:10px; align-items:center; flex-wrap:wrap; }
   .time-select-row select{
     height:38px; padding:0 10px; border:1px solid rgba(255,255,255,0.5); border-radius:10px;
     background:rgba(255,255,255,0.35); backdrop-filter:blur(12px); -webkit-backdrop-filter:blur(12px);
     font-size:14px;
   }
+  .meal-presets{ display:flex; gap:7px; flex-wrap:wrap; }
+  .meal-presets button{
+    height:34px; padding:0 14px; border-radius:999px;
+    border:1px solid rgba(255,255,255,0.5);
+    background:rgba(255,255,255,0.32);
+    backdrop-filter:blur(12px) saturate(1.4); -webkit-backdrop-filter:blur(12px) saturate(1.4);
+    font-weight:600; font-size:13px; color:#5a5548; cursor:pointer;
+    transition:background .2s ease, color .2s ease;
+  }
+  .meal-presets button.active{ background:rgba(60,90,75,0.88); color:var(--white); border-color:transparent; }
 
   .cat-select-wrap{
     position:relative; flex:0 0 auto;
@@ -455,10 +466,14 @@
     </button>
   </div>
   <div class="time-select-row" id="timeSelectRow">
-    指定時間查詢：
-    <select id="daySelect"></select>
-    <select id="timeSelect"></select>
-    <button id="clearTimeBtn" style="border:none;background:none;text-decoration:underline;cursor:pointer;color:var(--seal);font-size:13px;">清除，改用現在時間</button>
+    <div class="meal-presets" id="mealPresets"></div>
+    <div class="time-custom-row">
+      指定時間查詢：
+      <select id="daySelect"></select>
+      <select id="timeSelect"></select>
+      <span id="rangeLabel" style="display:none;font-weight:600;color:var(--ink);"></span>
+      <button id="clearTimeBtn" style="border:none;background:none;text-decoration:underline;cursor:pointer;color:var(--seal);font-size:13px;">清除，改用現在時間</button>
+    </div>
   </div>
   <div class="result-row">
     <div class="result-count" id="resultCount"></div>
@@ -572,6 +587,22 @@ function isOpenAt(name, dayIdx, minutes){
   if(check(dayIdx, abs)) return true;
   if(check(dayIdx-1, abs)) return true;
   if(check(dayIdx+7, abs+10080)) return true;
+  return false;
+}
+
+// Is the restaurant open at any point during [startMin,endMin) on dayIdx — used
+// for meal-period presets (早餐/中午/晚餐…) rather than a single point in time.
+function isOpenDuring(name, dayIdx, startMin, endMin){
+  const week = HOURS[name];
+  if(!week) return null;
+  const overlaps = (d, absS, absE) => {
+    const ranges = week[((d%7)+7)%7];
+    return ranges.some(r => (d*1440+r[0]) < absE && (d*1440+r[1]) > absS);
+  };
+  const absS = dayIdx*1440 + startMin, absE = dayIdx*1440 + endMin;
+  if(overlaps(dayIdx, absS, absE)) return true;
+  if(overlaps(dayIdx-1, absS, absE)) return true;
+  if(overlaps(dayIdx+7, absS+10080, absE+10080)) return true;
   return false;
 }
 
@@ -907,6 +938,8 @@ const timeSelectRow = document.getElementById('timeSelectRow');
 const daySelect = document.getElementById('daySelect');
 const timeSelect = document.getElementById('timeSelect');
 const clearTimeBtn = document.getElementById('clearTimeBtn');
+const mealPresets = document.getElementById('mealPresets');
+const rangeLabel = document.getElementById('rangeLabel');
 const favToggle = document.getElementById('favToggle');
 const favCount = document.getElementById('favCount');
 const shareBtn = document.getElementById('shareBtn');
@@ -916,7 +949,7 @@ const sharedAdoptBtn = document.getElementById('sharedAdoptBtn');
 const sharedDismissBtn = document.getElementById('sharedDismissBtn');
 const toast = document.getElementById('toast');
 
-let state = { area:'all', cat:'all', subCat:'all', q:'', onlyOpen:false, onlyFav:false, sort:'default', viewingShared:false, customDay:null, customTime:null };
+let state = { area:'all', cat:'all', subCat:'all', q:'', onlyOpen:false, onlyFav:false, sort:'default', viewingShared:false, customDay:null, customTime:null, rangeStart:null, rangeEnd:null };
 
 // 口袋名單／我的最愛：存在瀏覽器 localStorage，不用登入，只有這台裝置這個瀏覽器看得到
 const FAV_KEY = 'zhushitu_favorites';
@@ -1035,11 +1068,20 @@ function catGroupMatches(r, label){
 // is both "火鍋/鍋物" and "吃到飽") — r.cat is always an array.
 // Does restaurant r pass every active structural filter except the one named in `exclude`?
 // Used to figure out which dropdown options would still yield results.
+// When a meal-period preset (早餐/中午/晚餐…) is active, "open" means "open at
+// any point during that window" rather than at one exact instant.
+function isOpenForFilter(r, cp){
+  if(r.cat.includes('夜市')) return true;
+  return state.rangeStart!==null
+    ? isOpenDuring(r.name, cp.day, state.rangeStart, state.rangeEnd)===true
+    : isOpenAt(r.name, cp.day, cp.minutes)===true;
+}
+
 function matchesStructural(r, cp, exclude){
   const areaOk = state.area==='all' || r.area===state.area;
   const catOk = exclude==='cat' || state.cat==='all' || catGroupMatches(r, state.cat);
   const subCatOk = exclude==='subCat' || state.subCat==='all' || catGroupMatches(r, state.subCat);
-  const openOk = !state.onlyOpen || r.cat.includes('夜市') || isOpenAt(r.name, cp.day, cp.minutes)===true;
+  const openOk = !state.onlyOpen || isOpenForFilter(r, cp);
   return areaOk && catOk && subCatOk && openOk;
 }
 
@@ -1227,6 +1269,49 @@ hoursToggle.addEventListener('click', ()=>{
   render();
 });
 
+// Quick meal-period shortcuts: 早餐/中午/下午茶/晚餐/晚餐（晚）/宵夜 — each is a time
+// *window* rather than one instant, so a restaurant matches if it's open at any
+// point during that window (see isOpenDuring).
+const MEAL_PRESETS = [
+  {label:'早餐', start:360, end:630},
+  {label:'中午', start:660, end:840},
+  {label:'下午茶', start:840, end:1020},
+  {label:'晚餐', start:1020, end:1200},
+  {label:'晚餐（晚）', start:1200, end:1320},
+  {label:'宵夜', start:1320, end:1560},
+];
+function renderMealPresets(){
+  mealPresets.innerHTML = '';
+  MEAL_PRESETS.forEach(p=>{
+    const btn = document.createElement('button');
+    btn.type = 'button';
+    btn.textContent = p.label;
+    const isActive = state.rangeStart===p.start && state.rangeEnd===p.end;
+    btn.classList.toggle('active', isActive);
+    btn.addEventListener('click', ()=>{
+      if(isActive){
+        // tap the active preset again to go back to "now" (point-in-time)
+        state.rangeStart = null; state.rangeEnd = null;
+      } else {
+        state.rangeStart = p.start; state.rangeEnd = p.end;
+        state.customTime = null;
+      }
+      state.onlyOpen = true;
+      hoursToggle.classList.add('active');
+      timeSelectRow.classList.add('visible');
+      renderMealPresets();
+      updateHoursLabel();
+      render();
+    });
+    mealPresets.appendChild(btn);
+  });
+  const inRangeMode = state.rangeStart !== null;
+  timeSelect.style.display = inRangeMode ? 'none' : '';
+  rangeLabel.style.display = inRangeMode ? '' : 'none';
+  if(inRangeMode) rangeLabel.textContent = `${fmtHM(state.rangeStart)}–${fmtHM(state.rangeEnd % 1440)}`;
+}
+renderMealPresets();
+
 favToggle.addEventListener('click', ()=>{
   state.onlyFav = !state.onlyFav;
   favToggle.classList.toggle('active', state.onlyFav);
@@ -1275,19 +1360,37 @@ sortSelect.addEventListener('change', ()=>{
   render();
 });
 
-daySelect.addEventListener('change', ()=>{ state.customDay = parseInt(daySelect.value); render(); updateHoursLabel(); });
-timeSelect.addEventListener('change', ()=>{ state.customTime = parseInt(timeSelect.value); render(); updateHoursLabel(); });
+daySelect.addEventListener('change', ()=>{
+  state.customDay = parseInt(daySelect.value);
+  renderMealPresets();
+  render();
+  updateHoursLabel();
+});
+timeSelect.addEventListener('change', ()=>{
+  state.customTime = parseInt(timeSelect.value);
+  state.rangeStart = null; state.rangeEnd = null;
+  renderMealPresets();
+  render();
+  updateHoursLabel();
+});
 clearTimeBtn.addEventListener('click', ()=>{
   state.customDay = null; state.customTime = null;
+  state.rangeStart = null; state.rangeEnd = null;
   const now = new Date();
   daySelect.value = (now.getDay()+6)%7;
   timeSelect.value = Math.round((now.getHours()*60+now.getMinutes())/30)*30 % 1440;
+  renderMealPresets();
   updateHoursLabel();
   render();
 });
 
 function updateHoursLabel(){
   if(!state.onlyOpen){ hoursToggleLabel.textContent = "時間"; return; }
+  if(state.rangeStart!==null){
+    const preset = MEAL_PRESETS.find(p=>p.start===state.rangeStart && p.end===state.rangeEnd);
+    hoursToggleLabel.textContent = preset ? preset.label : "時間";
+    return;
+  }
   if(state.customDay===null && state.customTime===null){
     hoursToggleLabel.textContent = "時間";
   } else {
@@ -1328,6 +1431,10 @@ searchInput.addEventListener('keydown', e=>{
 });
 
 function currentCheckPoint(){
+  if(state.rangeStart!==null){
+    const day = state.customDay!==null ? state.customDay : (new Date().getDay()+6)%7;
+    return {day, minutes: state.rangeStart};
+  }
   if(state.customDay!==null && state.customTime!==null){
     return {day: state.customDay, minutes: state.customTime};
   }
@@ -1353,7 +1460,7 @@ function render(){
     const catOk = state.cat==='all' || catGroupMatches(r, state.cat);
     const subCatOk = state.subCat==='all' || catGroupMatches(r, state.subCat);
     const qOk = !state.q || (r.name+r.cat.join(' ')+r.desc+r.tags.join(' ')).toLowerCase().includes(state.q);
-    const openOk = !state.onlyOpen || r.cat.includes('夜市') || isOpenAt(r.name, cp.day, cp.minutes)===true;
+    const openOk = !state.onlyOpen || isOpenForFilter(r, cp);
     const favOk = !state.onlyFav || favorites.has(r.name);
     const sharedOk = !state.viewingShared || sharedFavorites.has(r.name);
     return areaOk && catOk && subCatOk && qOk && openOk && favOk && sharedOk;
