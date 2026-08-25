@@ -220,6 +220,69 @@
   }
   .toast.show{ opacity:1; transform:translateX(-50%) translateY(0) scale(1); }
 
+  /* "幫我選" — a small rule-based guided picker, no external AI/API involved */
+  .picker-fab{
+    position:fixed; right:max(20px, env(safe-area-inset-right));
+    bottom:max(20px, env(safe-area-inset-bottom)); z-index:60;
+    width:56px; height:56px; border-radius:50%; border:none;
+    background:linear-gradient(155deg, var(--seal), #8f342b);
+    color:var(--white); display:flex; align-items:center; justify-content:center;
+    box-shadow:var(--shadow-lg); cursor:pointer;
+    transition:transform .2s cubic-bezier(.34,1.3,.64,1);
+  }
+  .picker-fab:hover{ transform:scale(1.06); }
+  .picker-fab:active{ transform:scale(0.94); }
+  .picker-fab.hide{ display:none; }
+
+  .picker-panel{
+    position:fixed; right:max(20px, env(safe-area-inset-right));
+    bottom:max(88px, calc(env(safe-area-inset-bottom) + 88px));
+    z-index:60; width:min(360px, calc(100vw - 40px)); max-height:min(560px, 72vh);
+    background:rgba(250,247,241,0.92); backdrop-filter:blur(24px) saturate(1.6); -webkit-backdrop-filter:blur(24px) saturate(1.6);
+    border:1px solid rgba(255,255,255,0.6); border-radius:20px;
+    box-shadow:var(--shadow-lg); display:none; flex-direction:column; overflow:hidden;
+    transform-origin:bottom right;
+  }
+  .picker-panel.open{ display:flex; animation:pickerIn .22s cubic-bezier(.34,1.3,.64,1); }
+  @keyframes pickerIn{ from{ opacity:0; transform:scale(0.9) translateY(10px); } to{ opacity:1; transform:scale(1) translateY(0); } }
+  .picker-header{
+    display:flex; align-items:center; justify-content:space-between;
+    padding:14px 16px; font-family:'Noto Serif TC',serif; font-weight:700; font-size:15px;
+    border-bottom:1px solid var(--line); flex:0 0 auto;
+  }
+  .picker-header button{ border:none; background:none; cursor:pointer; font-size:16px; color:#8a8474; padding:4px; }
+  .picker-body{ padding:14px 16px; overflow-y:auto; flex:1 1 auto; min-height:0; display:flex; flex-direction:column; gap:10px; }
+  .picker-body > *{ flex-shrink:0; }
+  .picker-msg{
+    align-self:flex-start; background:var(--paper2); color:var(--ink);
+    padding:9px 13px; border-radius:14px 14px 14px 4px; font-size:13.5px; line-height:1.6; max-width:88%;
+  }
+  .picker-choices{ display:flex; flex-wrap:wrap; gap:7px; }
+  .picker-choices button{
+    padding:8px 14px; border-radius:999px; border:1px solid var(--line);
+    background:var(--white); color:var(--ink); font-size:13px; font-weight:600; cursor:pointer;
+    transition:background .15s ease, color .15s ease, border-color .15s ease;
+  }
+  .picker-choices button:hover{ background:var(--jade); color:var(--white); border-color:var(--jade); }
+  .picker-answer{
+    align-self:flex-end; background:var(--jade); color:var(--white);
+    padding:9px 13px; border-radius:14px 14px 4px 14px; font-size:13.5px; font-weight:600; max-width:88%;
+  }
+  .picker-result-card{
+    border:1px solid var(--line); border-radius:14px; overflow:hidden; background:var(--white);
+  }
+  .picker-result-card img{ width:100%; height:120px; object-fit:cover; display:block; }
+  .picker-result-body{ padding:12px 14px; display:flex; flex-direction:column; gap:6px; }
+  .picker-result-name{ font-family:'Noto Serif TC',serif; font-weight:700; font-size:15px; }
+  .picker-result-meta{ font-size:12.5px; color:#6b6656; }
+  .picker-result-actions{ display:flex; gap:8px; margin-top:4px; }
+  .picker-result-actions button, .picker-result-actions a{
+    flex:1; text-align:center; padding:8px 0; border-radius:10px; border:1px solid var(--line);
+    background:var(--paper); color:var(--ink); font-size:12.5px; font-weight:700; cursor:pointer;
+    text-decoration:none; display:block;
+  }
+  .picker-result-actions .primary{ background:var(--seal); color:var(--white); border-color:var(--seal); }
+
   .time-select-row{
     display:none;
     flex-direction:column; gap:10px;
@@ -498,6 +561,18 @@
 </div>
 
 <div class="toast" id="toast"></div>
+
+<button class="picker-fab" id="pickerFab" type="button" aria-label="幫我選餐廳">
+  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M8 3v18M16 3v6a4 4 0 0 1-4 4M16 3v18"/></svg>
+</button>
+
+<div class="picker-panel" id="pickerPanel">
+  <div class="picker-header">
+    <span>今天吃什麼？</span>
+    <button id="pickerCloseBtn" type="button" aria-label="關閉">✕</button>
+  </div>
+  <div class="picker-body" id="pickerBody"></div>
+</div>
 
 <main>
   <div class="grid" id="grid"></div>
@@ -1589,6 +1664,153 @@ function render(){
     grid.appendChild(card);
   });
 }
+
+// ── "幫我選" 快速引導小工具 ─────────────────────────────────────────
+// Purely rule-based (no external AI / API key involved): asks a few quick
+// questions with tappable choices, then randomly picks one matching restaurant.
+const pickerFab = document.getElementById('pickerFab');
+const pickerPanel = document.getElementById('pickerPanel');
+const pickerCloseBtn = document.getElementById('pickerCloseBtn');
+const pickerBody = document.getElementById('pickerBody');
+
+const PICKER_AREA_OPTIONS = [
+  {label:'全部區域', value:'all'},
+  {label:'新竹市', value:'新竹市'},
+  {label:'竹北市', value:'竹北'},
+  {label:'桃園', value:'桃園'},
+];
+const PICKER_CAT_OPTIONS = [
+  {label:'都可以', value:'all'},
+  ...Object.keys(CAT_GROUPS).map(c=>({label:c, value:c})),
+];
+const PICKER_PRICE_OPTIONS = [
+  {label:'都可以', value:'all'},
+  {label:'$ 平價', value:'$'},
+  {label:'$$ 中價位', value:'$$'},
+  {label:'$$$ 中高價位', value:'$$$'},
+  {label:'$$$$ 高價位', value:'$$$$'},
+];
+const PICKER_OPEN_OPTIONS = [
+  {label:'只要現在營業中', value:true},
+  {label:'不限', value:false},
+];
+
+let pickerAnswers = {};
+
+function pickerAddMessage(text){
+  const el = document.createElement('div');
+  el.className = 'picker-msg';
+  el.textContent = text;
+  pickerBody.appendChild(el);
+  pickerBody.scrollTop = pickerBody.scrollHeight;
+}
+function pickerAddAnswer(text){
+  const el = document.createElement('div');
+  el.className = 'picker-answer';
+  el.textContent = text;
+  pickerBody.appendChild(el);
+  pickerBody.scrollTop = pickerBody.scrollHeight;
+}
+function pickerAddChoices(options, onPick){
+  const row = document.createElement('div');
+  row.className = 'picker-choices';
+  options.forEach(opt=>{
+    const btn = document.createElement('button');
+    btn.type = 'button';
+    btn.textContent = opt.label;
+    btn.addEventListener('click', ()=>{
+      row.querySelectorAll('button').forEach(b=>b.disabled = true);
+      row.style.opacity = '0.5';
+      pickerAddAnswer(opt.label);
+      onPick(opt.value);
+    });
+    row.appendChild(btn);
+  });
+  pickerBody.appendChild(row);
+  pickerBody.scrollTop = pickerBody.scrollHeight;
+}
+
+function pickerStart(){
+  pickerBody.innerHTML = '';
+  pickerAnswers = {};
+  pickerAddMessage('嗨！幾個小問題幫你決定今天吃什麼 🍽️');
+  pickerAskArea();
+}
+function pickerAskArea(){
+  pickerAddMessage('想吃哪個區域？');
+  pickerAddChoices(PICKER_AREA_OPTIONS, v=>{ pickerAnswers.area = v; pickerAskCat(); });
+}
+function pickerAskCat(){
+  pickerAddMessage('想吃什麼類型？');
+  pickerAddChoices(PICKER_CAT_OPTIONS, v=>{ pickerAnswers.cat = v; pickerAskPrice(); });
+}
+function pickerAskPrice(){
+  pickerAddMessage('預算大概多少？');
+  pickerAddChoices(PICKER_PRICE_OPTIONS, v=>{ pickerAnswers.price = v; pickerAskOpen(); });
+}
+function pickerAskOpen(){
+  pickerAddMessage('要現在營業中的嗎？');
+  pickerAddChoices(PICKER_OPEN_OPTIONS, v=>{ pickerAnswers.onlyOpen = v; pickerShowResult(); });
+}
+
+function pickerMatches(){
+  const cp = currentCheckPoint();
+  return restaurants.filter(r=>{
+    const areaOk = pickerAnswers.area==='all' || r.area===pickerAnswers.area;
+    const catOk = pickerAnswers.cat==='all' || catGroupMatches(r, pickerAnswers.cat);
+    const priceOk = pickerAnswers.price==='all' || r.price===pickerAnswers.price;
+    const openOk = !pickerAnswers.onlyOpen || isOpenForFilter(r, cp);
+    return areaOk && catOk && priceOk && openOk;
+  });
+}
+
+function pickerShowResult(){
+  const matches = pickerMatches();
+  if(matches.length === 0){
+    pickerAddMessage('這個條件下找不到符合的餐廳，要不要放寬一點？');
+    pickerAddChoices([{label:'🔁 重新開始', value:null}], ()=> pickerStart());
+    return;
+  }
+  const pick = matches[Math.floor(Math.random() * matches.length)];
+  pickerRenderResultCard(pick, matches);
+}
+
+function pickerRenderResultCard(r, matches){
+  pickerAddMessage(`幫你抽到這家！（這個條件下共 ${matches.length} 間符合）`);
+  const photos = (r.photos && r.photos.length) ? r.photos : (r.photo ? [r.photo] : []);
+  const card = document.createElement('div');
+  card.className = 'picker-result-card';
+  card.innerHTML = `
+    ${photos.length ? `<img src="${photos[0]}" alt="${r.name}" referrerpolicy="no-referrer" loading="lazy">` : ''}
+    <div class="picker-result-body">
+      <div class="picker-result-name">${r.name}</div>
+      <div class="picker-result-meta">★ ${r.rating.toFixed(1)} · ${r.price} · ${r.area}</div>
+      <div class="picker-result-meta">${r.desc}</div>
+      <div class="picker-result-actions">
+        <button type="button" id="pickerRedrawBtn">🔄 換一家</button>
+        <a href="${r.mapsUrl}" target="_blank" rel="noopener">📍 地圖</a>
+        <button type="button" class="primary" id="pickerRestartBtn">🔁 重新開始</button>
+      </div>
+    </div>
+  `;
+  pickerBody.appendChild(card);
+  requestAnimationFrame(()=>{ pickerBody.scrollTop = pickerBody.scrollHeight; });
+  card.querySelector('#pickerRedrawBtn').addEventListener('click', ()=>{
+    card.remove();
+    pickerShowResult();
+  });
+  card.querySelector('#pickerRestartBtn').addEventListener('click', ()=> pickerStart());
+}
+
+pickerFab.addEventListener('click', ()=>{
+  pickerPanel.classList.add('open');
+  pickerFab.classList.add('hide');
+  if(!pickerBody.children.length) pickerStart();
+});
+pickerCloseBtn.addEventListener('click', ()=>{
+  pickerPanel.classList.remove('open');
+  pickerFab.classList.remove('hide');
+});
 
 buildTimeSelectors();
 updateFavCount();
