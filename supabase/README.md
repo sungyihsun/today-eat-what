@@ -12,6 +12,19 @@ folder prepare the free Supabase backend without requiring a server runtime.
 5. Add `config.js` to the site before the application script when frontend
    Supabase integration is enabled.
 
+## Enable Google login
+
+1. In Supabase, open **Authentication → Providers → Google** and enable it.
+2. Create a Google OAuth Client ID in Google Cloud Console.
+3. Set the Google Authorized redirect URI to:
+   `https://dypxjgbpmczecfnxhuzq.supabase.co/auth/v1/callback`
+4. In Supabase **Authentication → URL Configuration**, set the Site URL to:
+   `https://sungyihsun.github.io/today-eat-what/`
+5. Add the QAS URL to the allowed redirect URLs if Supabase asks for it.
+
+The QAS login button uses Google OAuth and returns to the GitHub Pages site. The
+Google client secret stays in Supabase and is never placed in frontend code.
+
 ## Import the existing restaurants
 
 The generated [`restaurants-import.csv`](./restaurants-import.csv) contains the

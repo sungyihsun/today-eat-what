@@ -521,7 +521,7 @@
       <span class="count" id="favCount">0</span>
     </div>
     <button class="share-btn" id="shareBtn" type="button" title="分享我的口袋名單">🔗 分享</button>
-    <button class="auth-btn" id="authBtn" type="button">登入同步收藏</button>
+    <button class="auth-btn" id="authBtn" type="button">使用 Google 登入</button>
   </div>
   <div class="filter-row filter-row-2">
     <div class="cat-select-wrap">
@@ -1183,22 +1183,20 @@ function supabaseHeaders(){
   };
 }
 function updateAuthUi(){
-  authBtn.textContent = authSession?.user?.email ? `登出 ${authSession.user.email}` : '登入同步收藏';
-  authBtn.title = authSession ? '登出 Supabase' : '使用 Email 登入，同步收藏';
+  authBtn.textContent = authSession?.user?.email ? `登出 ${authSession.user.email}` : '使用 Google 登入';
+  authBtn.title = authSession ? '登出 Supabase' : '使用 Google 登入，同步收藏';
 }
-async function authenticate(mode, email, password){
-  const endpoint = mode === 'signup'
-    ? `${supabaseConfig.url}/auth/v1/signup`
-    : `${supabaseConfig.url}/auth/v1/token?grant_type=password`;
-  const response = await fetch(endpoint, {
-    method:'POST',
-    headers:{apikey:supabaseConfig.anonKey, 'Content-Type':'application/json'},
-    body:JSON.stringify({email,password}),
+async function finishGoogleLogin(){
+  const hash = new URLSearchParams(location.hash.slice(1));
+  const accessToken = hash.get('access_token');
+  if(!accessToken) return;
+  const response = await fetch(`${supabaseConfig.url}/auth/v1/user`, {
+    headers:{apikey:supabaseConfig.anonKey, Authorization:`Bearer ${accessToken}`},
   });
-  if(!response.ok) throw new Error((await response.json()).msg || `登入失敗 (${response.status})`);
-  authSession = await response.json();
-  if(!authSession.access_token) throw new Error('註冊成功，請先到信箱確認帳號，再登入');
+  if(!response.ok) throw new Error(`Google 登入失敗 (${response.status})`);
+  authSession = {access_token:accessToken, user:await response.json()};
   localStorage.setItem(AUTH_KEY, JSON.stringify(authSession));
+  history.replaceState(null, '', location.pathname + location.search);
   updateAuthUi();
 }
 async function loadRemoteFavorites(){
@@ -1222,8 +1220,9 @@ async function syncFavorite(name, isFavorite){
 }
 async function initAuth(){
   if(!supabaseConfig?.url || !supabaseConfig?.anonKey) return;
+  await finishGoogleLogin();
   const raw = localStorage.getItem(AUTH_KEY);
-  if(raw){ try{ authSession = JSON.parse(raw); }catch(error){ localStorage.removeItem(AUTH_KEY); } }
+  if(!authSession && raw){ try{ authSession = JSON.parse(raw); }catch(error){ localStorage.removeItem(AUTH_KEY); } }
   updateAuthUi();
   if(authSession?.access_token){
     try{ await loadRemoteFavorites(); }catch(error){ localStorage.removeItem(AUTH_KEY); authSession=null; updateAuthUi(); showToast('登入狀態已失效，請重新登入'); }
@@ -1236,13 +1235,9 @@ authBtn.addEventListener('click', async ()=>{
     authSession=null; localStorage.removeItem(AUTH_KEY); updateAuthUi(); showToast('已登出');
     return;
   }
-  const email = window.prompt('請輸入 Email：');
-  if(!email) return;
-  const password = window.prompt('請輸入密碼（至少 6 碼）：');
-  if(!password) return;
-  const mode = window.confirm('已有帳號請按「確定」登入；新帳號請按「取消」註冊。') ? 'login' : 'signup';
-  try{ await authenticate(mode,email,password); await loadRemoteFavorites(); render(); showToast('登入成功，收藏已同步'); }
-  catch(error){ showToast(error.message); }
+  const redirectTo = `${location.origin}${location.pathname}`;
+  const authUrl = `${supabaseConfig.url}/auth/v1/authorize?provider=google&redirect_to=${encodeURIComponent(redirectTo)}`;
+  location.assign(authUrl);
 });
 function loadFavorites(){
   try{ return new Set(JSON.parse(localStorage.getItem(FAV_KEY) || '[]')); }
