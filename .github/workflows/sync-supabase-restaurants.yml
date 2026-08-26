@@ -1,0 +1,26 @@
+name: Sync restaurants to Supabase
+
+# Runs scripts/import-restaurants.mjs (upsert on the restaurants.name unique
+# key, safe to re-run) whenever supabase/restaurants-import.csv changes on
+# this branch, or on demand. The service role key never leaves GitHub's
+# encrypted secret store — it's injected only into this runner's environment.
+on:
+  push:
+    branches: [gh-pages-qas]
+    paths:
+      - 'supabase/restaurants-import.csv'
+  workflow_dispatch: {}
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Import restaurants into Supabase
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: node scripts/import-restaurants.mjs
