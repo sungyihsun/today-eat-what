@@ -52,7 +52,8 @@ function postgresArray(value) {
     .slice(1, -1)
     .split(',')
     .filter(Boolean)
-    .map(item => item.replaceAll('\\"', '"').replaceAll('\\\\', '\\'));
+    .map(item => item.replaceAll('\\"', '"').replaceAll('\\\\', '\\'))
+    .map(item => item.replace(/^"|"$/g, ''));
 }
 
 const columns = [
