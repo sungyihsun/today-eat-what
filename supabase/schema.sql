@@ -41,24 +41,14 @@ drop policy if exists "Users can read their own favorites" on public.favorites;
 drop policy if exists "Users can add their own favorites" on public.favorites;
 drop policy if exists "Users can remove their own favorites" on public.favorites;
 
+-- restaurants is read-only for everyone (anon + logged-in visitors). There is
+-- no insert/update/delete policy for the "authenticated" role on purpose:
+-- letting any Google-login visitor write or wipe the table would be a data
+-- integrity hole. Writes only happen from trusted offline scripts
+-- (scripts/import-restaurants.mjs) using the service_role key, which bypasses
+-- RLS entirely by Supabase's own design and needs no policy here.
 create policy "Restaurants are publicly readable"
   on public.restaurants for select
-  using (true);
-
-create policy "Authenticated users can add restaurants"
-  on public.restaurants for insert
-  to authenticated
-  with check (true);
-
-create policy "Authenticated users can edit restaurants"
-  on public.restaurants for update
-  to authenticated
-  using (true)
-  with check (true);
-
-create policy "Authenticated users can remove restaurants"
-  on public.restaurants for delete
-  to authenticated
   using (true);
 
 create policy "Users can read their own favorites"
