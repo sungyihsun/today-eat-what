@@ -188,6 +188,12 @@
     color:var(--ink); flex:0 0 auto; transition:background .2s ease;
   }
   .share-btn:hover{ background:rgba(255,255,255,0.55); }
+  .auth-btn{
+    height:38px; padding:0 15px; border:1px solid rgba(255,255,255,0.5); border-radius:999px;
+    background:rgba(60,90,75,0.12); color:var(--jade); cursor:pointer;
+    font-size:13.5px; font-weight:600; flex:0 0 auto;
+  }
+  .auth-btn:hover{ background:rgba(60,90,75,0.22); }
 
   .shared-banner{
     margin:0 var(--safe-r) 0 var(--safe-l);
@@ -515,6 +521,7 @@
       <span class="count" id="favCount">0</span>
     </div>
     <button class="share-btn" id="shareBtn" type="button" title="分享我的口袋名單">🔗 分享</button>
+    <button class="auth-btn" id="authBtn" type="button">登入同步收藏</button>
   </div>
   <div class="filter-row filter-row-2">
     <div class="cat-select-wrap">
@@ -1122,6 +1129,7 @@ const sharedBannerText = document.getElementById('sharedBannerText');
 const sharedAdoptBtn = document.getElementById('sharedAdoptBtn');
 const sharedDismissBtn = document.getElementById('sharedDismissBtn');
 const toast = document.getElementById('toast');
+const authBtn = document.getElementById('authBtn');
 
 let state = { area:'all', cat:'all', subCat:'all', q:'', onlyOpen:false, onlyFav:false, sort:'default', viewingShared:false, customDay:null, customTime:null, rangeStart:null, rangeEnd:null };
 
@@ -1142,6 +1150,7 @@ async function loadRestaurantsFromSupabase(){
   if(!Array.isArray(rows) || rows.length === 0) throw new Error('Supabase restaurants table is empty');
 
   restaurants = rows.map(row=>({
+    id: row.id,
     name: row.name,
     area: row.area,
     lat: row.lat,
@@ -1162,6 +1171,79 @@ async function loadRestaurantsFromSupabase(){
 
 // 口袋名單／我的最愛：存在瀏覽器 localStorage，不用登入，只有這台裝置這個瀏覽器看得到
 const FAV_KEY = 'zhushitu_favorites';
+const AUTH_KEY = 'today_eat_what_session';
+let authSession = null;
+const supabaseConfig = window.SUPABASE_CONFIG;
+
+function supabaseHeaders(){
+  return {
+    apikey: supabaseConfig.anonKey,
+    Authorization: `Bearer ${authSession?.access_token || supabaseConfig.anonKey}`,
+    'Content-Type': 'application/json',
+  };
+}
+function updateAuthUi(){
+  authBtn.textContent = authSession?.user?.email ? `登出 ${authSession.user.email}` : '登入同步收藏';
+  authBtn.title = authSession ? '登出 Supabase' : '使用 Email 登入，同步收藏';
+}
+async function authenticate(mode, email, password){
+  const endpoint = mode === 'signup'
+    ? `${supabaseConfig.url}/auth/v1/signup`
+    : `${supabaseConfig.url}/auth/v1/token?grant_type=password`;
+  const response = await fetch(endpoint, {
+    method:'POST',
+    headers:{apikey:supabaseConfig.anonKey, 'Content-Type':'application/json'},
+    body:JSON.stringify({email,password}),
+  });
+  if(!response.ok) throw new Error((await response.json()).msg || `登入失敗 (${response.status})`);
+  authSession = await response.json();
+  if(!authSession.access_token) throw new Error('註冊成功，請先到信箱確認帳號，再登入');
+  localStorage.setItem(AUTH_KEY, JSON.stringify(authSession));
+  updateAuthUi();
+}
+async function loadRemoteFavorites(){
+  const response = await fetch(`${supabaseConfig.url}/rest/v1/favorites?select=restaurant_id`, {headers:supabaseHeaders()});
+  if(!response.ok) throw new Error(`收藏同步失敗 (${response.status})`);
+  const ids = new Set((await response.json()).map(row=>row.restaurant_id));
+  restaurants.forEach(r=>{ if(ids.has(r.id)) favorites.add(r.name); });
+  saveFavorites(favorites);
+}
+async function syncFavorite(name, isFavorite){
+  if(!authSession) return;
+  const restaurant = restaurants.find(r=>r.name===name);
+  if(!restaurant?.id) throw new Error('找不到餐廳資料編號');
+  const endpoint = `${supabaseConfig.url}/rest/v1/favorites`;
+  const response = await fetch(isFavorite ? endpoint : `${endpoint}?restaurant_id=eq.${restaurant.id}&user_id=eq.${authSession.user.id}`, {
+    method:isFavorite ? 'POST' : 'DELETE',
+    headers:{...supabaseHeaders(), Prefer:'resolution=merge-duplicates,return=minimal'},
+    body:isFavorite ? JSON.stringify({user_id:authSession.user.id,restaurant_id:restaurant.id}) : undefined,
+  });
+  if(!response.ok) throw new Error(`收藏同步失敗 (${response.status})`);
+}
+async function initAuth(){
+  if(!supabaseConfig?.url || !supabaseConfig?.anonKey) return;
+  const raw = localStorage.getItem(AUTH_KEY);
+  if(raw){ try{ authSession = JSON.parse(raw); }catch(error){ localStorage.removeItem(AUTH_KEY); } }
+  updateAuthUi();
+  if(authSession?.access_token){
+    try{ await loadRemoteFavorites(); }catch(error){ localStorage.removeItem(AUTH_KEY); authSession=null; updateAuthUi(); showToast('登入狀態已失效，請重新登入'); }
+  }
+}
+authBtn.addEventListener('click', async ()=>{
+  if(authSession){
+    const response = await fetch(`${supabaseConfig.url}/auth/v1/logout`, {method:'POST',headers:supabaseHeaders()});
+    if(!response.ok) throw new Error(`登出失敗 (${response.status})`);
+    authSession=null; localStorage.removeItem(AUTH_KEY); updateAuthUi(); showToast('已登出');
+    return;
+  }
+  const email = window.prompt('請輸入 Email：');
+  if(!email) return;
+  const password = window.prompt('請輸入密碼（至少 6 碼）：');
+  if(!password) return;
+  const mode = window.confirm('已有帳號請按「確定」登入；新帳號請按「取消」註冊。') ? 'login' : 'signup';
+  try{ await authenticate(mode,email,password); await loadRemoteFavorites(); render(); showToast('登入成功，收藏已同步'); }
+  catch(error){ showToast(error.message); }
+});
 function loadFavorites(){
   try{ return new Set(JSON.parse(localStorage.getItem(FAV_KEY) || '[]')); }
   catch(e){ return new Set(); }
@@ -1175,6 +1257,7 @@ function toggleFavorite(name){
   if(favorites.has(name)) favorites.delete(name); else favorites.add(name);
   saveFavorites(favorites);
   updateFavCount();
+  syncFavorite(name, favorites.has(name)).catch(error=>showToast(error.message));
 }
 function updateFavCount(){
   favCount.textContent = favorites.size;
@@ -1921,6 +2004,7 @@ pickerCloseBtn.addEventListener('click', ()=>{
   updateFavCount();
   try{
     await loadRestaurantsFromSupabase();
+    await initAuth();
   }catch(error){
     console.warn(error);
     showToast('資料庫暫時無法連線，已使用離線餐廳資料');
