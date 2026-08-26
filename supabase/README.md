@@ -22,6 +22,18 @@ map the columns to their matching fields. Keep the `id`, `created_at`, and
 columns use PostgreSQL array syntax; `hours` contains JSON objects. Import them
 into their corresponding array/`jsonb` columns.
 
+You can also run [`scripts/import-restaurants.mjs`](../scripts/import-restaurants.mjs)
+from the project root. It uses the service role key only on your local machine:
+
+```bash
+export SUPABASE_URL='https://YOUR_PROJECT.supabase.co'
+export SUPABASE_SERVICE_ROLE_KEY='YOUR_SERVICE_ROLE_KEY'
+node scripts/import-restaurants.mjs
+```
+
+Never commit the service role key or put it in `config.js`; it bypasses RLS and
+must only be used by trusted scripts.
+
 `config.js` is intentionally ignored by Git so project credentials are not
 committed. The anon key is safe for browser use only when the RLS policies in
 `schema.sql` remain enabled. Never use a `service_role` key in the frontend.
