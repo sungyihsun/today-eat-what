@@ -38,6 +38,8 @@ must only be used by trusted scripts.
 committed. The anon key is safe for browser use only when the RLS policies in
 `schema.sql` remain enabled. Never use a `service_role` key in the frontend.
 
-The `restaurants` table is publicly readable. The `favorites` table is private
-to authenticated users, allowing favorites to sync across devices after login
-is added to the frontend.
+The `restaurants` table is publicly readable and writable by authenticated
+users. The `favorites` table is private to authenticated users, allowing
+favorites to sync across devices after login is added to the frontend. The
+service role remains the only option for trusted scripts that import data
+without a user session.

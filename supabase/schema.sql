@@ -33,8 +33,32 @@ create table if not exists public.favorites (
 alter table public.restaurants enable row level security;
 alter table public.favorites enable row level security;
 
+drop policy if exists "Restaurants are publicly readable" on public.restaurants;
+drop policy if exists "Authenticated users can add restaurants" on public.restaurants;
+drop policy if exists "Authenticated users can edit restaurants" on public.restaurants;
+drop policy if exists "Authenticated users can remove restaurants" on public.restaurants;
+drop policy if exists "Users can read their own favorites" on public.favorites;
+drop policy if exists "Users can add their own favorites" on public.favorites;
+drop policy if exists "Users can remove their own favorites" on public.favorites;
+
 create policy "Restaurants are publicly readable"
   on public.restaurants for select
+  using (true);
+
+create policy "Authenticated users can add restaurants"
+  on public.restaurants for insert
+  to authenticated
+  with check (true);
+
+create policy "Authenticated users can edit restaurants"
+  on public.restaurants for update
+  to authenticated
+  using (true)
+  with check (true);
+
+create policy "Authenticated users can remove restaurants"
+  on public.restaurants for delete
+  to authenticated
   using (true);
 
 create policy "Users can read their own favorites"
