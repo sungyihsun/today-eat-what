@@ -161,16 +161,18 @@
     height:38px; padding:0 15px;
     border:1px solid rgba(255,255,255,0.5);
     border-radius:999px;
-    background:rgba(60,90,75,0.12);
     backdrop-filter:blur(14px) saturate(1.4); -webkit-backdrop-filter:blur(14px) saturate(1.4);
     cursor:pointer;
     font-size:13.5px;
     font-weight:600;
-    color:var(--jade);
     flex:0 0 auto;
     user-select:none;
     transition:background .2s ease, color .2s ease;
   }
+  .fav-toggle{ background:rgba(60,90,75,0.12); color:var(--jade); }
+  /* Idle 灰色，跟其他未選取的篩選 chip 一致，暗示「還沒篩選、可以點」；
+     .active 時變回跟其他篩選 chip 選取時一樣的深綠色，一眼就能看出差異。 */
+  .hours-icon-btn{ background:rgba(255,255,255,0.28); color:#5a5548; }
   .hours-icon-btn.active{ background:rgba(60,90,75,0.88); color:var(--white); }
   .hours-icon-btn svg{ flex:0 0 auto; display:block; }
 
