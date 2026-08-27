@@ -1118,7 +1118,8 @@ const embeddedRestaurants = [
   {name:"叁比捌手作健康餐 中央店", area:"新竹市", lat:24.808646700000004, lng:120.9739571, cat:["健康餐"], price:"$", rating:4.4, desc:"新竹市高評價健康餐，Google評分4.4分、累積438則評論。", tags:["健康餐","新竹市","高評價"], phone:"0971-808-938", parkingTier:"unknown", photos:["https://lh3.googleusercontent.com/place-photos/AG9NLjAxKwlfpD3KEGhDrFxAJSOvP1xcBBd_j9oJu-7eVgpkZCzts9Xge9m3OqYGaAIc_Sleflc3bzx_sCEsKtFOFWXClhYsnfcF3rb71blpQ0aVVgmwV1ncE1wdTq2rsVB7BM11yXDqgOP0mw_GyekjFkDHHw=s4800-w800-h800","https://lh3.googleusercontent.com/place-photos/AG9NLjD7EM2RCoDk-a-hSvODgLz8ffIuVDZ61Q_XDLjDCB2WVFuYyHi41hXVtQIHRBrnRCXxRv4SncJum49RXMhuK5_4YixlzI9gKu7l1FpSXx38qAmwEw6_aWemwwqrdmu-fDX13G-ID9R7x5MWiLQ=s4800-w800-h800","https://lh3.googleusercontent.com/place-photos/AG9NLjAkfdgT886ukCif-xrECi3378WnSntrvyGLJ_di62g26jMhVLOT5x2sWMl5ygOVqS4_B5FSWJbUaOkh8UeAN_R9Rz1GFJkl1PwNsFXO_4bIqT_eyrFx6LDYqOp9MiI_l_8gqF-w5YuP3DSGIrHGGTONmg=s4800-w800-h800"], mapsUrl:"https://maps.google.com/?cid=5554832943555440911&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"}
 ];
 
-let restaurants = embeddedRestaurants;
+const INITIAL_RESTAURANT_COUNT = 12;
+let restaurants = embeddedRestaurants.slice(0, INITIAL_RESTAURANT_COUNT);
 
 const grid = document.getElementById('grid');
 const catToggle = document.getElementById('catToggle');
@@ -1154,7 +1155,7 @@ async function loadRestaurantsFromSupabase(){
   const config = window.SUPABASE_CONFIG;
   if(!config?.url || !config?.anonKey) return;
 
-  const endpoint = `${config.url.replace(/\/+$/, '')}/rest/v1/restaurants?select=*&order=id`;
+  const endpoint = `${config.url.replace(/\/+$/, '')}/rest/v1/restaurants?select=id,name,area,lat,lng,categories,price,rating,description,tags,phone,parking_tier,parking_sub,photos,maps_url,hours&order=id`;
   const response = await fetch(endpoint, {
     headers: {
       apikey: config.anonKey,
@@ -2080,11 +2081,17 @@ pickerCloseBtn.addEventListener('click', ()=>{
 (async function initializeApp(){
   buildTimeSelectors();
   updateFavCount();
+  render();
   try{
-    await loadRestaurantsFromSupabase();
-    await initAuth();
+    if(window.SUPABASE_CONFIG?.url && window.SUPABASE_CONFIG?.anonKey){
+      await loadRestaurantsFromSupabase();
+      await initAuth();
+    }else{
+      restaurants = embeddedRestaurants;
+    }
   }catch(error){
     console.warn(error);
+    restaurants = embeddedRestaurants;
     showToast('資料庫暫時無法連線，已使用離線餐廳資料');
   }
   initSharedList();
