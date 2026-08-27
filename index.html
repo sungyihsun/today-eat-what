@@ -1154,7 +1154,7 @@ async function loadRestaurantsFromSupabase(){
   const config = window.SUPABASE_CONFIG;
   if(!config?.url || !config?.anonKey) return;
 
-  const endpoint = `${config.url.replace(/\/+$/, '')}/rest/v1/restaurants?select=*&order=id`;
+  const endpoint = `${config.url.replace(/\/+$/, '')}/rest/v1/restaurants?select=id,name,area,lat,lng,categories,price,rating,description,tags,phone,parking_tier,parking_sub,photos,maps_url,hours&order=id`;
   const response = await fetch(endpoint, {
     headers: {
       apikey: config.anonKey,
@@ -2080,6 +2080,8 @@ pickerCloseBtn.addEventListener('click', ()=>{
 (async function initializeApp(){
   buildTimeSelectors();
   updateFavCount();
+  initSharedList();
+  render();
   try{
     await loadRestaurantsFromSupabase();
     await initAuth();
@@ -2087,7 +2089,6 @@ pickerCloseBtn.addEventListener('click', ()=>{
     console.warn(error);
     showToast('資料庫暫時無法連線，已使用離線餐廳資料');
   }
-  initSharedList();
   render();
 })();
 </script>
