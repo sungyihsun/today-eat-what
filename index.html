@@ -1760,11 +1760,14 @@ function updateHoursLabel(){
   if(!state.onlyOpen){ hoursToggleLabel.textContent = "時間"; return; }
   if(state.rangeStart!==null){
     const preset = MEAL_PRESETS.find(p=>p.start===state.rangeStart && p.end===state.rangeEnd);
-    hoursToggleLabel.textContent = preset ? preset.label : "時間";
+    hoursToggleLabel.textContent = preset ? preset.label : "營業中";
     return;
   }
   if(state.customDay===null && state.customTime===null){
-    hoursToggleLabel.textContent = "時間";
+    // Filter is on but no specific preset/custom time chosen yet — it's
+    // implicitly filtering by "open right now", so say that instead of
+    // leaving the label stuck on the unfiltered "時間" text.
+    hoursToggleLabel.textContent = "營業中";
   } else {
     hoursToggleLabel.textContent = `${DAY_NAMES[state.customDay]} ${fmtHM(state.customTime)}`;
   }
