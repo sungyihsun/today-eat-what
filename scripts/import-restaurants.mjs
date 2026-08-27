@@ -90,7 +90,11 @@ const records = rows.map(row => {
   };
 });
 
-const endpoint = `${supabaseUrl}/rest/v1/restaurants`;
+// on_conflict=name tells PostgREST to upsert against the "name" unique
+// constraint. Without it, "resolution=merge-duplicates" only knows how to
+// dedupe against the primary key (id), which is never set on insert here —
+// so every row just does a plain insert and 409s the moment "name" repeats.
+const endpoint = `${supabaseUrl}/rest/v1/restaurants?on_conflict=name`;
 for (let offset = 0; offset < records.length; offset += 100) {
   const batch = records.slice(offset, offset + 100);
   const response = await fetch(endpoint, {
@@ -109,7 +113,7 @@ for (let offset = 0; offset < records.length; offset += 100) {
   console.log(`Imported ${offset + batch.length}/${records.length}`);
 }
 
-const countResponse = await fetch(`${endpoint}?select=id`, {
+const countResponse = await fetch(`${supabaseUrl}/rest/v1/restaurants?select=id`, {
   headers: {
     apikey: serviceRoleKey,
     Authorization: `Bearer ${serviceRoleKey}`,
