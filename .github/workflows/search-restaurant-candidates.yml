@@ -27,6 +27,36 @@ jobs:
           test -n "$GOOGLE_PLACES_API_KEY"
           python3 .claude/skills/add-restaurant/scripts/search_candidates.py
 
+      - name: Select and fetch five restaurants per area
+        env:
+          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+          ADD_RESTAURANT_CANDIDATES_PATH: ${{ runner.temp }}/candidates.json
+          ADD_RESTAURANT_FINAL_LIST_PATH: ${{ runner.temp }}/final_list.json
+          ADD_RESTAURANT_DETAILS_PATH: ${{ runner.temp }}/details.json
+        run: |
+          python3 - <<'PY'
+          import json, re
+          candidates = json.load(open("${{ runner.temp }}/candidates.json"))
+          html = open("index.html", encoding="utf-8").read()
+          existing_cids = set(re.findall(r"cid=(\d+)", html))
+          existing_names = set(re.findall(r'\{name:"((?:[^"\\]|\\.)*)"', html))
+          selected = {}
+          for area in ("新竹市", "竹北"):
+              choices = []
+              for cid, place in candidates.items():
+                  if place["area_label"] != area:
+                      continue
+                  if cid in existing_cids or place["name"] in existing_names:
+                      continue
+                  choices.append((place["rating"], place["userRatingCount"], place["name"]))
+              selected[area] = [name for _, _, name in sorted(choices, reverse=True)[:5]]
+              if len(selected[area]) != 5:
+                  raise SystemExit(f"Expected five new restaurants for {area}, got {len(selected[area])}")
+          json.dump(selected, open("${{ runner.temp }}/final_list.json", "w"), ensure_ascii=False, indent=2)
+          print(json.dumps(selected, ensure_ascii=False))
+          PY
+          python3 .claude/skills/add-restaurant/scripts/fetch_details.py
+
       - name: Upload candidate list
         uses: actions/upload-artifact@v4
         with:
@@ -44,6 +74,9 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add candidate-results/latest.json
+          cp "${{ runner.temp }}/final_list.json" candidate-results/final-list.json
+          cp "${{ runner.temp }}/details.json" candidate-results/details.json
+          git add candidate-results/final-list.json candidate-results/details.json
           git diff --cached --quiet && exit 0
           git commit -m "Publish restaurant search candidates"
           git push

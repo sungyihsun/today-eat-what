@@ -15,15 +15,20 @@ EDIT PER TASK before running:
 
 Usage: python3 fetch_details.py
 """
-import json, urllib.request, urllib.error, time
+import json, os, urllib.request, urllib.error, time
 
-SB = "<YOUR_SCRATCHPAD_DIR>"  # EDIT
+SB = os.environ.get("ADD_RESTAURANT_SCRATCHPAD", "<YOUR_SCRATCHPAD_DIR>")
 KEY_PATH = f"{SB}/gmaps_key.txt"
-CANDIDATES_PATH = f"{SB}/candidates.json"
-FINAL_LIST_PATH = f"{SB}/final_list.json"
-OUT_PATH = f"{SB}/details.json"
+CANDIDATES_PATH = os.environ.get("ADD_RESTAURANT_CANDIDATES_PATH", f"{SB}/candidates.json")
+FINAL_LIST_PATH = os.environ.get("ADD_RESTAURANT_FINAL_LIST_PATH", f"{SB}/final_list.json")
+OUT_PATH = os.environ.get("ADD_RESTAURANT_DETAILS_PATH", f"{SB}/details.json")
 
-KEY = open(KEY_PATH).read().strip()
+KEY = os.environ.get("GOOGLE_PLACES_API_KEY", "").strip()
+if not KEY and SB != "<YOUR_SCRATCHPAD_DIR>":
+    with open(KEY_PATH, encoding="utf-8") as key_file:
+        KEY = key_file.read().strip()
+if not KEY:
+    raise SystemExit("Missing GOOGLE_PLACES_API_KEY or local scratchpad key file")
 
 candidates = json.load(open(CANDIDATES_PATH))
 final_names_by_area = json.load(open(FINAL_LIST_PATH))
