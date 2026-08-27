@@ -32,8 +32,8 @@ AREAS = {
 
 # EDIT: area label -> list of query strings to try for that area
 QUERIES = {
-    "新竹市": ["健康餐 新竹市", "輕食 新竹市"],
-    "竹北": ["健康餐 竹北", "輕食 竹北"],
+    "中壢": ["火鍋 中壢", "鍋物 中壢"],
+    "青埔": ["火鍋 青埔", "鍋物 青埔"],
 }
 
 KEY = os.environ.get("GOOGLE_PLACES_API_KEY", "").strip()

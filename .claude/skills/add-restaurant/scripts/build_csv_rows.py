@@ -21,7 +21,7 @@ SB = "<YOUR_SCRATCHPAD_DIR>"  # EDIT
 DETAILS_PATH = f"{SB}/details.json"
 CSV_PATH = "supabase/restaurants-import.csv"  # EDIT if running from a different cwd
 
-CATS = ['健康餐']  # EDIT: keep in sync with build_entries.py
+CATS = ['火鍋/鍋物']  # EDIT: keep in sync with build_entries.py
 
 PRICE_MAP = {
     "PRICE_LEVEL_INEXPENSIVE": "$", "PRICE_LEVEL_MODERATE": "$$",
@@ -33,6 +33,10 @@ NAME_OVERRIDE = {
 }
 TAGS_OVERRIDE = {
     # keep identical to build_entries.py's TAGS_OVERRIDE
+}
+AREA_MAP = {
+    # keep identical to build_entries.py's AREA_MAP
+    "中壢": "桃園", "青埔": "桃園",
 }
 
 
@@ -68,7 +72,7 @@ for raw_name, d in details.items():
     tags = TAGS_OVERRIDE.get(raw_name, [CATS[0], area_label, "高評價"])
     phone = (d.get('nationalPhoneNumber') or '').replace(' ', '-')
     entries.append({
-        'name': name, 'area': area_label, 'lat': loc.get('latitude'), 'lng': loc.get('longitude'),
+        'name': name, 'area': AREA_MAP.get(area_label, area_label), 'lat': loc.get('latitude'), 'lng': loc.get('longitude'),
         'categories': list(CATS), 'price': price, 'rating': rating, 'description': desc, 'tags': tags,
         'phone': phone, 'parking_tier': tier, 'parking_sub': sub or '',
         'photos': d.get('_photo_urls', []), 'maps_url': d.get('googleMapsUri', ''),

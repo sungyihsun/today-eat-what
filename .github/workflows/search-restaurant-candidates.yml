@@ -27,7 +27,7 @@ jobs:
           test -n "$GOOGLE_PLACES_API_KEY"
           python3 .claude/skills/add-restaurant/scripts/search_candidates.py
 
-      - name: Select and fetch five restaurants per area
+      - name: Select and fetch five restaurants total (中壢+青埔 combined -> 桃園)
         env:
           GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
           ADD_RESTAURANT_CANDIDATES_PATH: ${{ runner.temp }}/candidates.json
@@ -40,18 +40,23 @@ jobs:
           html = open("index.html", encoding="utf-8").read()
           existing_cids = set(re.findall(r"cid=(\d+)", html))
           existing_names = set(re.findall(r'\{name:"((?:[^"\\]|\\.)*)"', html))
+          # 中壢/青埔 are search sub-areas within 桃園; the site itself uses a
+          # single umbrella area:"桃園" for all of Taoyuan, so pick 5 total
+          # across both rather than 5 per sub-area.
+          search_areas = ("中壢", "青埔")
+          choices = []
+          for cid, place in candidates.items():
+              if place["area_label"] not in search_areas:
+                  continue
+              if cid in existing_cids or place["name"] in existing_names:
+                  continue
+              choices.append((place["rating"], place["userRatingCount"], place["name"], place["area_label"]))
+          picked = sorted(choices, reverse=True)[:5]
           selected = {}
-          for area in ("新竹市", "竹北"):
-              choices = []
-              for cid, place in candidates.items():
-                  if place["area_label"] != area:
-                      continue
-                  if cid in existing_cids or place["name"] in existing_names:
-                      continue
-                  choices.append((place["rating"], place["userRatingCount"], place["name"]))
-              selected[area] = [name for _, _, name in sorted(choices, reverse=True)[:5]]
-              if len(selected[area]) != 5:
-                  raise SystemExit(f"Expected five new restaurants for {area}, got {len(selected[area])}")
+          for _, _, name, area_label in picked:
+              selected.setdefault(area_label, []).append(name)
+          if sum(len(v) for v in selected.values()) != 5:
+              raise SystemExit(f"Expected five new restaurants total, got {sum(len(v) for v in selected.values())}")
           json.dump(selected, open("${{ runner.temp }}/final_list.json", "w"), ensure_ascii=False, indent=2)
           print(json.dumps(selected, ensure_ascii=False))
           PY

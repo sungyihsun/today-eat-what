@@ -11,6 +11,12 @@ EDIT PER TASK before running:
     Google name has marketing junk ("｜訂位電話...", multi-branch spam, etc.)
   - TAGS_OVERRIDE: raw Google name -> custom tags array, for entries that
     deserve more specific tags than the generic [category, area, "高評價"]
+  - AREA_MAP: search area_label -> the site's actual `area` field value.
+    These usually match (新竹市 -> 新竹市, 竹北 -> 竹北), but for Taoyuan the
+    site uses a single umbrella area:"桃園" for every sub-district (中壢,
+    青埔, etc.) rather than a separate area per district — map any Taoyuan
+    search label to "桃園" here rather than leaving the raw district name in
+    the `area` field, or the area filter chip won't group them correctly.
   - INDEX_HTML_PATH: path to the site's index.html (for collision checking)
 
 Run this AFTER fetch_details.py. If it raises "NAME COLLISION" or
@@ -28,7 +34,7 @@ INDEX_HTML_PATH = "index.html"  # EDIT if running from a different cwd
 HOURS_OUT = f"{SB}/hours_append.txt"
 RESTAURANTS_OUT = f"{SB}/restaurants_append.txt"
 
-CATS = ['健康餐']  # EDIT: detailed cat string(s) for this batch
+CATS = ['火鍋/鍋物']  # EDIT: detailed cat string(s) for this batch
 
 PRICE_MAP = {
     "PRICE_LEVEL_INEXPENSIVE": "$", "PRICE_LEVEL_MODERATE": "$$",
@@ -40,6 +46,10 @@ NAME_OVERRIDE = {
 }
 TAGS_OVERRIDE = {
     # "raw Google name": ["custom", "tags", "here"],
+}
+AREA_MAP = {
+    "中壢": "桃園", "青埔": "桃園",
+    # add other search-label -> site-area mappings here as needed
 }
 
 
@@ -75,7 +85,7 @@ for raw_name, d in details.items():
     tags = TAGS_OVERRIDE.get(raw_name, [CATS[0], area_label, "高評價"])
     phone = (d.get('nationalPhoneNumber') or '').replace(' ', '-')
     entries.append({
-        'name': name, 'area': area_label, 'lat': loc.get('latitude'), 'lng': loc.get('longitude'),
+        'name': name, 'area': AREA_MAP.get(area_label, area_label), 'lat': loc.get('latitude'), 'lng': loc.get('longitude'),
         'cat': list(CATS), 'price': price, 'rating': rating, 'desc': desc, 'tags': tags,
         'phone': phone, 'parkingTier': tier, 'parkingSub': sub,
         'photos': d.get('_photo_urls', []), 'mapsUrl': d.get('googleMapsUri', ''),
