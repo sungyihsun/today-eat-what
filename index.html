@@ -531,7 +531,7 @@
     </div>
     <button class="hours-icon-btn" id="hoursToggle" type="button" aria-label="依時間篩選" title="依時間篩選">
       <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 3"/></svg>
-      <span id="hoursToggleLabel">時間</span>
+      <span id="hoursToggleLabel">營業中</span>
     </button>
   </div>
   <div class="time-select-row" id="timeSelectRow">
@@ -1757,7 +1757,7 @@ clearTimeBtn.addEventListener('click', ()=>{
 });
 
 function updateHoursLabel(){
-  if(!state.onlyOpen){ hoursToggleLabel.textContent = "時間"; return; }
+  if(!state.onlyOpen){ hoursToggleLabel.textContent = "營業中"; return; }
   if(state.rangeStart!==null){
     const preset = MEAL_PRESETS.find(p=>p.start===state.rangeStart && p.end===state.rangeEnd);
     hoursToggleLabel.textContent = preset ? preset.label : "營業中";
@@ -1765,8 +1765,8 @@ function updateHoursLabel(){
   }
   if(state.customDay===null && state.customTime===null){
     // Filter is on but no specific preset/custom time chosen yet — it's
-    // implicitly filtering by "open right now", so say that instead of
-    // leaving the label stuck on the unfiltered "時間" text.
+    // implicitly filtering by "open right now", so the label stays the
+    // same as idle ("營業中"); the active pill styling shows it's engaged.
     hoursToggleLabel.textContent = "營業中";
   } else {
     hoursToggleLabel.textContent = `${DAY_NAMES[state.customDay]} ${fmtHM(state.customTime)}`;
