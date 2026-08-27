@@ -8,7 +8,7 @@ name: Sync restaurants to Supabase
 # encrypted secret store — it's injected only into this runner's environment.
 on:
   push:
-    branches: [gh-pages-qas]
+    branches: [QAS]
   workflow_dispatch: {}
 
 jobs:
