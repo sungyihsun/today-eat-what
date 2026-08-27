@@ -23,10 +23,12 @@ Before touching anything, confirm:
   the current `CAT_GROUPS` / `SUB_CAT_GROUPS` block in `index.html` (search for
   `const CAT_GROUPS`) before assuming a category exists or picking a label.
 
-## 1. Get the API key, scoped and disposable
+## 1. Configure the API key
 
-Ask the user to paste their Google Places API key if not already provided this
-session. Treat it like any other secret:
+The normal path uses the GitHub Actions secret
+`GOOGLE_PLACES_API_KEY`. Do not ask the user to paste it into chat or write it
+into the repository. The workflow injects it only into the Actions runner.
+For an explicitly local run, use a scratchpad file instead:
 
 ```bash
 SB=<your scratchpad dir>
@@ -34,11 +36,28 @@ mkdir -p "$SB"
 echo -n "<key>" > "$SB/gmaps_key.txt"
 ```
 
-Never write the key into any file inside the repo, never put it in a commit
-message. Delete `$SB/gmaps_key.txt` with `rm -f` the moment you're done fetching
-data — not at the end of the whole task, right after the last API call.
+Never write the key into any file inside the repo or commit message. Delete
+`$SB/gmaps_key.txt` immediately after the last local API call.
 
-## 2. Search candidates via Text Search
+## 2. Run the automated candidate workflow
+
+Push the skill/workflow changes or a task commit to `DEV`. The
+`.github/workflows/search-restaurant-candidates.yml` workflow automatically:
+
+1. Reads `GOOGLE_PLACES_API_KEY` from GitHub Secrets.
+2. Searches Google Places for the configured areas and queries.
+3. Removes candidates whose CID or exact name already exists in `index.html`.
+4. Selects the requested number per area (currently five for 新竹市 and five
+   for 竹北) and fetches full details, including hours, phone, parking, and
+   photos.
+5. Publishes `candidate-results/latest.json`, `final-list.json`, and
+   `details.json` on `DEV`, and also uploads the candidate artifact.
+
+The workflow ignores pushes containing only `candidate-results/**`, preventing
+its own publication commit from triggering another search. It can also be
+started with `workflow_dispatch` when a manual rerun is needed.
+
+## 3. Search candidates via Text Search
 
 Use the Places API (New) `searchText` endpoint, biased to the target area's
 lat/lng with `locationBias.circle`, `languageCode: "zh-TW"`. Run a few query
@@ -56,7 +75,7 @@ Reference implementation: `scripts/search_candidates.py` in this skill directory
 — adapt the query list and area coordinates per task, don't rewrite it from
 scratch each time.
 
-## 3. Pick the final list, then dedupe against the site itself
+## 4. Review the generated list, then dedupe against the site itself
 
 Eyeball the candidates and pick the requested count per area, biasing toward:
 - Higher rating + higher review count (both matter — a 5.0 with 12 reviews is
@@ -68,8 +87,9 @@ Eyeball the candidates and pick the requested count per area, biasing toward:
   make sure at least a few final picks are actually that dish, not just
   generically in the category
 
-Before fetching full details, **cross-check every candidate's `cid` and exact
-name against the site's existing data** — this project has repeatedly hit name
+The workflow performs the initial CID/name exclusion. Before accepting the
+generated `final-list.json`, still **cross-check every candidate's `cid` and
+exact name against the site's existing data** — this project has repeatedly hit name
 collisions where a candidate is already in the database under a different
 category:
 
@@ -86,7 +106,7 @@ print('検collision check ready:', len(existing_names), 'names,', len(existing_c
 If a pick collides, swap in the next-best candidate rather than skipping the
 area short — the user is expecting an exact count per area.
 
-## 4. Fetch full details (photos, hours, phone, parking)
+## 5. Fetch full details (photos, hours, phone, parking)
 
 For each final pick, call Place Details with field mask:
 `id,displayName,formattedAddress,rating,userRatingCount,priceLevel,nationalPhoneNumber,regularOpeningHours,parkingOptions,photos,primaryType,types,googleMapsUri,location`.
@@ -104,7 +124,7 @@ endMinute]` pairs. **Google's day index is Sunday=0** — convert with
 crosses midnight needs its end minute pushed past 1440 rather than wrapping to
 a small number (see `periods_to_hours` in `scripts/fetch_details.py`).
 
-## 5. Categorize using detailed cat strings, not UI labels
+## 6. Categorize using detailed cat strings, not UI labels
 
 The site's category filter (`CAT_GROUPS` / `SUB_CAT_GROUPS` in `index.html`) is
 a *grouping* layer: each UI chip label (e.g. `'健康餐'`, `'越式'`) maps to one
@@ -112,13 +132,13 @@ or more **detailed cat strings** that actually live on each restaurant's `cat`
 array (e.g. `'健康餐'`, `'越式料理'`). When you add restaurants for an existing
 category, use the exact detailed string(s) already in `CAT_GROUPS` for that
 label — check the mapping before writing entries. When adding a *new* category
-that doesn't exist yet, you'll also need to add it to `CAT_GROUPS` (see step 8).
+that doesn't exist yet, you'll also need to add it to `CAT_GROUPS` (see step 9).
 
 A restaurant can carry multiple cat strings if it genuinely spans categories
 (e.g. a buffet hotpot place is `["火鍋/鍋物", "吃到飽"]`) — don't force
 single-category tagging if the place doesn't fit that.
 
-## 6. Build the JS entries and splice into `index.html`
+## 7. Build the JS entries and splice into `index.html`
 
 Generate entries in this exact shape (see `scripts/build_entries.py` for the
 full generator, including price-level mapping, parking-tier detection, and the
@@ -144,7 +164,7 @@ needed, or `node --check` will fail with a cryptic `Unexpected token '{'` at
 the first line of your new data — this has happened almost every time this
 skill's workflow has run.
 
-## 7. THE STEP THAT'S EASY TO FORGET: update `supabase/restaurants-import.csv`
+## 8. THE STEP THAT'S EASY TO FORGET: update `supabase/restaurants-import.csv`
 
 **This is the single most important step in this skill, and it has caused a
 real, user-reported bug when skipped.** The QAS and PRD sites don't read
@@ -180,7 +200,7 @@ by parsing the whole file with the *actual* parser
 (`scripts/import-restaurants.mjs`'s `parseCsv`, or copy its logic into a quick
 Node check) to confirm column counts match on every row before committing.
 
-## 8. If this is a new category: update `CAT_GROUPS`
+## 9. If this is a new category: update `CAT_GROUPS`
 
 Add the new label to `CAT_GROUPS` in `index.html`, mapping to the detailed cat
 string(s) you used in step 5. Ask the user (or infer from context) where in
@@ -194,7 +214,7 @@ placeholder shown before a photo loads) so new-category cards don't fall back
 to the generic "食" icon. Pick a background color visually distinct from
 existing entries.
 
-## 9. Validate before deploying — every time, no exceptions
+## 10. Validate before deploying — every time, no exceptions
 
 ```bash
 python3 -c "
@@ -225,7 +245,7 @@ Supabase sync or deployed sites directly from here. Verify locally with the
 static file, trust the GitHub Actions run result for the Supabase side (step
 10), and ask the user to eyeball the deployed QAS site.
 
-## 10. Deploy: DEV → QAS (auto-syncs Supabase) → wait for user → PRD
+## 11. Deploy: DEV → QAS (auto-syncs Supabase) → wait for user → PRD
 
 ```bash
 git add index.html supabase/restaurants-import.csv
@@ -268,7 +288,7 @@ confirm it looks right on the live QAS site before you (or they) promote to
 PRD. When they confirm, the promotion is the same fast-forward pattern:
 `git checkout PRD && git pull && git merge QAS --ff-only && git push`.
 
-## 11. Clean up
+## 12. Clean up
 
 Delete the API key file if you haven't already (`rm -f`). Leave scratch data
 files (candidate JSON, details JSON, CSV/JS append fragments) in the
