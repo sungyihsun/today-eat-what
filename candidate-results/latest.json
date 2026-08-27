@@ -480,8 +480,8 @@
    "vegetarian_restaurant",
    "japanese_restaurant",
    "food_store",
-   "food",
    "store",
+   "food",
    "point_of_interest",
    "establishment"
   ],
@@ -605,8 +605,8 @@
   },
   "types": [
    "food_store",
-   "food",
    "store",
+   "food",
    "point_of_interest",
    "establishment"
   ],
@@ -627,9 +627,9 @@
   "types": [
    "cafe",
    "food_store",
+   "store",
    "restaurant",
    "food",
-   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -650,9 +650,9 @@
   "types": [
    "italian_restaurant",
    "food_store",
+   "store",
    "restaurant",
    "food",
-   "store",
    "point_of_interest",
    "establishment"
   ],
