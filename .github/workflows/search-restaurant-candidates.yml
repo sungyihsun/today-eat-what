@@ -3,6 +3,8 @@ name: Search restaurant candidates
 on:
   push:
     branches: [DEV]
+    paths-ignore:
+      - candidate-results/**
   workflow_dispatch:
 
 permissions:
@@ -32,3 +34,16 @@ jobs:
           path: ${{ runner.temp }}/candidates.json
           if-no-files-found: error
           retention-days: 3
+
+      - name: Publish candidate list to DEV
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p candidate-results
+          cp "${{ runner.temp }}/candidates.json" candidate-results/latest.json
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add candidate-results/latest.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Publish restaurant search candidates"
+          git push
