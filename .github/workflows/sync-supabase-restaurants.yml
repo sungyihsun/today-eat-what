@@ -1,14 +1,14 @@
 name: Sync restaurants to Supabase
 
 # Runs scripts/import-restaurants.mjs (upsert on the restaurants.name unique
-# key, safe to re-run) whenever supabase/restaurants-import.csv changes on
-# this branch, or on demand. The service role key never leaves GitHub's
+# key, safe to re-run) on every push to this branch, or on demand. No path
+# filter on purpose — Claude's sandbox can't reach supabase.co to verify a
+# run in advance, so every push just re-syncs; the script is a no-op cost
+# when the CSV hasn't changed. The service role key never leaves GitHub's
 # encrypted secret store — it's injected only into this runner's environment.
 on:
   push:
     branches: [gh-pages-qas]
-    paths:
-      - 'supabase/restaurants-import.csv'
   workflow_dispatch: {}
 
 jobs:
