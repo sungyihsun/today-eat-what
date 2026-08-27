@@ -294,27 +294,6 @@
   ],
   "area_label": "中壢"
  },
- "14526097140492094369": {
-  "place_id": "ChIJ1fSYSgcjaDQRoUvZ_2IQl8k",
-  "name": "鍋泰暖。泰式南洋火鍋-桃園中壢店",
-  "address": "320台灣桃園市中壢區普仁里中山東路一段323號",
-  "rating": 4.9,
-  "userRatingCount": 1832,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=14526097140492094369&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.955159599999998,
-   "longitude": 121.23617909999999
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "中壢"
- },
  "10007537857397163626": {
   "place_id": "ChIJdfrYKHAjaDQRaoZuuqjq4Yo",
   "name": "糧倉1號店頂級麻辣鴛鴦鍋 中壢店",
@@ -326,6 +305,27 @@
   "location": {
    "latitude": 24.9600094,
    "longitude": 121.2221711
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "中壢"
+ },
+ "14526097140492094369": {
+  "place_id": "ChIJ1fSYSgcjaDQRoUvZ_2IQl8k",
+  "name": "鍋泰暖。泰式南洋火鍋-桃園中壢店",
+  "address": "320台灣桃園市中壢區普仁里中山東路一段323號",
+  "rating": 4.9,
+  "userRatingCount": 1832,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=14526097140492094369&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.955159599999998,
+   "longitude": 121.23617909999999
   },
   "types": [
    "hot_pot_restaurant",
@@ -399,17 +399,17 @@
   ],
   "area_label": "中壢"
  },
- "17730408579231379451": {
-  "place_id": "ChIJm3VUtDEiaDQR---fv6kQD_Y",
-  "name": "藏王 極上鍋物 - 中壢店",
-  "address": "320台灣桃園市中壢區水尾里環北路365號",
-  "rating": 4.6,
-  "userRatingCount": 4439,
-  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=17730408579231379451&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "513630091286146272": {
+  "place_id": "ChIJMRntSVsjaDQR4OwPwdjHIAc",
+  "name": "億品鍋-中壢環中旗艦店",
+  "address": "32096台灣桃園市中壢區環中東路二段382號",
+  "rating": 4.5,
+  "userRatingCount": 1869,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=513630091286146272&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.966037399999998,
-   "longitude": 121.22523609999998
+   "latitude": 24.94745,
+   "longitude": 121.2338312
   },
   "types": [
    "hot_pot_restaurant",
@@ -583,6 +583,27 @@
   },
   "types": [
    "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "中壢"
+ },
+ "17730408579231379451": {
+  "place_id": "ChIJm3VUtDEiaDQR---fv6kQD_Y",
+  "name": "藏王 極上鍋物 - 中壢店",
+  "address": "320台灣桃園市中壢區水尾里環北路365號",
+  "rating": 4.6,
+  "userRatingCount": 4439,
+  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=17730408579231379451&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.966037399999998,
+   "longitude": 121.22523609999998
+  },
+  "types": [
+   "hot_pot_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -822,27 +843,6 @@
   ],
   "area_label": "青埔"
  },
- "12304733701693385758": {
-  "place_id": "ChIJhbSDd3IhaDQRHiw2wRsyw6o",
-  "name": "東東石頭火鍋",
-  "address": "337台灣桃園市大園區青山里新生路四段121號",
-  "rating": 4.6,
-  "userRatingCount": 499,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=12304733701693385758&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 25.0065001,
-   "longitude": 121.21351539999999
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "青埔"
- },
  "14471951678238547032": {
   "place_id": "ChIJ9QZhrW4faDQRWNwGLGCz1sg",
   "name": "樸食鍋物",
@@ -854,6 +854,27 @@
   "location": {
    "latitude": 25.022963299999997,
    "longitude": 121.21700930000002
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "青埔"
+ },
+ "12304733701693385758": {
+  "place_id": "ChIJhbSDd3IhaDQRHiw2wRsyw6o",
+  "name": "東東石頭火鍋",
+  "address": "337台灣桃園市大園區青山里新生路四段121號",
+  "rating": 4.6,
+  "userRatingCount": 499,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=12304733701693385758&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 25.0065001,
+   "longitude": 121.21351539999999
   },
   "types": [
    "hot_pot_restaurant",
