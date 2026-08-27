@@ -278,9 +278,9 @@
   },
   "types": [
    "health_food_store",
-   "health",
    "food_store",
    "store",
+   "health",
    "restaurant",
    "food",
    "point_of_interest",
@@ -346,9 +346,9 @@
    "health_food_store",
    "meal_delivery",
    "food_delivery",
-   "health",
    "food_store",
    "store",
+   "health",
    "restaurant",
    "food",
    "point_of_interest",
@@ -480,8 +480,8 @@
    "vegetarian_restaurant",
    "japanese_restaurant",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -605,8 +605,8 @@
   },
   "types": [
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -627,9 +627,9 @@
   "types": [
    "cafe",
    "food_store",
-   "store",
    "restaurant",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -650,9 +650,9 @@
   "types": [
    "italian_restaurant",
    "food_store",
-   "store",
    "restaurant",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -713,8 +713,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "竹北"
@@ -754,8 +754,8 @@
   "types": [
    "meal_takeaway",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "竹北"
@@ -796,8 +796,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "竹北"
@@ -1001,8 +1001,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "竹北"
@@ -1083,31 +1083,31 @@
    "longitude": 121.0268591
   },
   "types": [
-   "salad_shop",
    "mediterranean_restaurant",
+   "salad_shop",
    "brunch_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "竹北"
  },
- "12108144635098791199": {
-  "place_id": "ChIJc4jxzFo3aDQRH30d2GTFCKg",
-  "name": "樂心料理 竹北縣政店",
-  "address": "302台灣新竹縣竹北市斗崙里縣政三街130號",
-  "rating": 4,
-  "userRatingCount": 268,
+ "13792514911453316773": {
+  "place_id": "ChIJo4V0MzM3aDQRpQZ0cDzbaL8",
+  "name": "Uncle Tacos 墨西哥健康餐/竹北美食/異國美食",
+  "address": "302台灣新竹縣竹北市仁和街63號旁巷子內第一棟25號攤位",
+  "rating": 4.8,
+  "userRatingCount": 455,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=12108144635098791199&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=13792514911453316773&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.8243117,
-   "longitude": 121.0139748
+   "latitude": 24.837772299999997,
+   "longitude": 121.0109164
   },
   "types": [
-   "meal_delivery",
-   "food_delivery",
+   "taco_restaurant",
+   "snack_bar",
    "meal_takeaway",
    "restaurant",
    "food",
@@ -1130,8 +1130,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "竹北"
@@ -1154,8 +1154,8 @@
    "italian_restaurant",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "竹北"
@@ -1174,8 +1174,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "竹北"
@@ -1195,8 +1195,8 @@
   "types": [
    "brunch_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "竹北"
@@ -1216,13 +1216,13 @@
   "types": [
    "restaurant",
    "taiwanese_restaurant",
-   "chinese_restaurant",
    "dessert_shop",
+   "chinese_restaurant",
    "confectionery",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "竹北"
@@ -1241,8 +1241,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "竹北"
@@ -1261,8 +1261,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "竹北"
@@ -1281,8 +1281,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "竹北"
@@ -1304,8 +1304,8 @@
    "brunch_restaurant",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "竹北"
@@ -1330,8 +1330,8 @@
    "food_store",
    "store",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "竹北"
@@ -1351,8 +1351,8 @@
   "types": [
    "american_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "竹北"
@@ -1374,8 +1374,8 @@
    "food_store",
    "store",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "竹北"
@@ -1394,8 +1394,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "竹北"
@@ -1415,8 +1415,8 @@
   "types": [
    "brunch_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "竹北"
@@ -1436,8 +1436,8 @@
   "types": [
    "taiwanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "竹北"
