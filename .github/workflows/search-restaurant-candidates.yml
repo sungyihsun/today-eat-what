@@ -1,6 +1,8 @@
 name: Search restaurant candidates
 
 on:
+  push:
+    branches: [DEV]
   workflow_dispatch:
 
 permissions:
