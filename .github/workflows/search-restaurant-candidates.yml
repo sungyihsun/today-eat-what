@@ -1,0 +1,32 @@
+name: Search restaurant candidates
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out DEV
+        uses: actions/checkout@v4
+        with:
+          ref: DEV
+
+      - name: Search Google Places candidates
+        env:
+          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+          ADD_RESTAURANT_CANDIDATES_PATH: ${{ runner.temp }}/candidates.json
+        run: |
+          test -n "$GOOGLE_PLACES_API_KEY"
+          python3 .claude/skills/add-restaurant/scripts/search_candidates.py
+
+      - name: Upload candidate list
+        uses: actions/upload-artifact@v4
+        with:
+          name: restaurant-candidates-${{ github.run_number }}
+          path: ${{ runner.temp }}/candidates.json
+          if-no-files-found: error
+          retention-days: 3

@@ -3,7 +3,7 @@
 Template: search Google Places (New) Text Search for restaurant candidates.
 
 EDIT PER TASK before running:
-  - KEY_PATH: where you saved the API key
+  - GOOGLE_PLACES_API_KEY: API key from the environment (or KEY_PATH for local use)
   - AREAS: {label: (lat, lng)} for each area the user asked for
   - QUERIES: {label: [query strings]} — 3-5 phrasings per area works well;
     one query alone tends to miss real candidates
@@ -13,11 +13,11 @@ EDIT PER TASK before running:
 
 Usage: python3 search_candidates.py
 """
-import json, urllib.request, urllib.error, time, re
+import json, os, urllib.request, urllib.error, time, re
 
-SB = "<YOUR_SCRATCHPAD_DIR>"  # EDIT: absolute path to your scratchpad
+SB = os.environ.get("ADD_RESTAURANT_SCRATCHPAD", "<YOUR_SCRATCHPAD_DIR>")
 KEY_PATH = f"{SB}/gmaps_key.txt"
-OUT_PATH = f"{SB}/candidates.json"
+OUT_PATH = os.environ.get("ADD_RESTAURANT_CANDIDATES_PATH", f"{SB}/candidates.json")
 
 MIN_RATING = 4.0
 MIN_REVIEWS = 15
@@ -36,7 +36,12 @@ QUERIES = {
     "竹北": ["健康餐 竹北", "輕食 竹北"],
 }
 
-KEY = open(KEY_PATH).read().strip()
+KEY = os.environ.get("GOOGLE_PLACES_API_KEY", "").strip()
+if not KEY and SB != "<YOUR_SCRATCHPAD_DIR>":
+    with open(KEY_PATH, encoding="utf-8") as key_file:
+        KEY = key_file.read().strip()
+if not KEY:
+    raise SystemExit("Missing GOOGLE_PLACES_API_KEY or local scratchpad key file")
 
 def search_text(query, lat, lng, radius=8000.0):
     url = "https://places.googleapis.com/v1/places:searchText"
