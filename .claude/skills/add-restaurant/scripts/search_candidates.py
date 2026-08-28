@@ -36,6 +36,21 @@ QUERIES = {
     "青埔": ["火鍋 青埔", "鍋物 青埔"],
 }
 
+# area_label -> substring(s) that MUST appear in a candidate's real
+# formattedAddress for it to be kept under that label. locationBias only
+# biases results toward a point — it does NOT guarantee the place is
+# actually inside that area, so a candidate whose own address disagrees
+# gets dropped here instead of silently inheriting the wrong `area`.
+# (This is the check that was missing when 艾薇越式河粉 got tagged
+# area:"竹北" despite its address being in 新竹市 — see SKILL.md.)
+# EDIT if AREAS gains a label not covered here.
+AREA_KEYWORDS = {
+    "新竹市": ["新竹市"],
+    "竹北": ["竹北市"],
+    "中壢": ["桃園市"],
+    "青埔": ["桃園市"],
+}
+
 KEY = os.environ.get("GOOGLE_PLACES_API_KEY", "").strip()
 if not KEY and SB != "<YOUR_SCRATCHPAD_DIR>":
     with open(KEY_PATH, encoding="utf-8") as key_file:
@@ -76,6 +91,12 @@ for area_label, queries in QUERIES.items():
             rating = p.get('rating', 0)
             count = p.get('userRatingCount', 0)
             if rating < MIN_RATING or count < MIN_REVIEWS:
+                continue
+            address = p.get('formattedAddress', '')
+            keywords = AREA_KEYWORDS.get(area_label)
+            if keywords and not any(k in address for k in keywords):
+                print(f"  DROPPED (address doesn't match {area_label}): "
+                      f"{p.get('displayName', {}).get('text', '')} | {address}", flush=True)
                 continue
             all_results[cid] = {
                 'place_id': p.get('id'),

@@ -1,0 +1,28 @@
+name: Audit restaurant area labels
+
+on:
+  push:
+    branches: [DEV]
+    paths:
+      - scripts/audit-area-labels.py
+      - .github/workflows/audit-area-labels.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out DEV
+        uses: actions/checkout@v4
+        with:
+          ref: DEV
+
+      - name: Audit area labels against real Google Places addresses
+        env:
+          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+        run: |
+          test -n "$GOOGLE_PLACES_API_KEY"
+          python3 scripts/audit-area-labels.py

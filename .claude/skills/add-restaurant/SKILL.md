@@ -75,6 +75,20 @@ Reference implementation: `scripts/search_candidates.py` in this skill directory
 — adapt the query list and area coordinates per task, don't rewrite it from
 scratch each time.
 
+**A `locationBias` center does not guarantee the result is actually inside
+that area** — Text Search can (and did, for real) return a place whose true
+address is in a neighboring city/district just because it happened to be
+close to the search center. This caused a real bug: 艾薇越式河粉 was tagged
+`area:"竹北"` from a 竹北-centered search even though its real address is
+新竹市. `search_candidates.py` now cross-checks every candidate's
+`formattedAddress` against an `AREA_KEYWORDS` map (e.g. `"竹北"` requires
+`"竹北市"` in the address) and drops anything that disagrees — you'll see
+`DROPPED (address doesn't match ...)` lines in its output. `fetch_details.py`
+re-asserts the same rule against the authoritative Place Details response as
+a second gate. If you add a new area label to `AREAS`/`QUERIES`, add a
+matching entry to `AREA_KEYWORDS` in **both** scripts, or the check silently
+no-ops for that label.
+
 ## 4. Review the generated list, then dedupe against the site itself
 
 Eyeball the candidates and pick the requested count per area, biasing toward:
@@ -294,6 +308,22 @@ Delete the API key file if you haven't already (`rm -f`). Leave scratch data
 files (candidate JSON, details JSON, CSV/JS append fragments) in the
 scratchpad — they're useful if the user asks for a correction to this batch
 later, and the scratchpad isn't part of the repo anyway.
+
+## Auditing existing data for the same class of bug
+
+`scripts/audit-area-labels.py` (repo root, not in this skill dir — it's a
+maintenance tool, not part of the add-flow) re-checks *already-published*
+restaurants: for each entry in `index.html` it re-searches Google Places by
+name near its stored lat/lng, confirms it found the same place by matching
+the `cid` in `mapsUrl`, then applies the same `AREA_KEYWORDS` rule against the
+place's real address. Run it via
+`.github/workflows/audit-area-labels.yml` (push to `DEV` touching either
+file, since this account's GitHub App can't call `workflow_dispatch`) and
+read the job log — it prints one `OK` / `MISMATCH` / `UNVERIFIED` line per
+restaurant and a summary at the end. Fix any `MISMATCH` the same way the
+艾薇越式河粉 bug was fixed: correct `area`/`desc`/`tags` in both
+`index.html` and `supabase/restaurants-import.csv`, then deploy through the
+normal DEV → QAS pipeline.
 
 ## Reporting back to the user
 

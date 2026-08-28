@@ -23,6 +23,18 @@ CANDIDATES_PATH = os.environ.get("ADD_RESTAURANT_CANDIDATES_PATH", f"{SB}/candid
 FINAL_LIST_PATH = os.environ.get("ADD_RESTAURANT_FINAL_LIST_PATH", f"{SB}/final_list.json")
 OUT_PATH = os.environ.get("ADD_RESTAURANT_DETAILS_PATH", f"{SB}/details.json")
 
+# area_label -> substring(s) that MUST appear in the real formattedAddress.
+# Belt-and-suspenders re-check of the same rule search_candidates.py applies
+# — this one runs against the authoritative Place Details response (not just
+# the Text Search snippet), right before a restaurant is allowed into
+# details.json. Keep in sync with search_candidates.py's AREA_KEYWORDS.
+AREA_KEYWORDS = {
+    "新竹市": ["新竹市"],
+    "竹北": ["竹北市"],
+    "中壢": ["桃園市"],
+    "青埔": ["桃園市"],
+}
+
 KEY = os.environ.get("GOOGLE_PLACES_API_KEY", "").strip()
 if not KEY and SB != "<YOUR_SCRATCHPAD_DIR>":
     with open(KEY_PATH, encoding="utf-8") as key_file:
@@ -113,6 +125,15 @@ for name in wanted:
         print('ERROR', name, e)
         missing.append(name)
         continue
+    area_label = rec['area_label']
+    keywords = AREA_KEYWORDS.get(area_label)
+    address = d.get('formattedAddress', '')
+    if keywords and not any(k in address for k in keywords):
+        raise SystemExit(
+            f"AREA MISMATCH: {name!r} is tagged area_label={area_label!r} but its real "
+            f"address is {address!r}. Drop it and pick a replacement candidate, or if the "
+            f"area really is correct (e.g. a boundary case), add an explicit override rather "
+            f"than skipping this check.")
     photos = d.get('photos', [])[:3]
     photo_urls = []
     for ph in photos:
