@@ -1268,9 +1268,12 @@ authBtn.addEventListener('click', async ()=>{
   if(authSession){
     const response = await fetch(`${supabaseConfig.url}/auth/v1/logout`, {method:'POST',headers:supabaseHeaders()});
     if(!response.ok) throw new Error(`登出失敗 (${response.status})`);
-    authSession=null; localStorage.removeItem(AUTH_KEY); updateAuthUi(); showToast('已登出');
+    authSession=null; localStorage.removeItem(AUTH_KEY); localStorage.removeItem('auth_in_progress'); updateAuthUi(); showToast('已登出');
     return;
   }
+  // mark that this page initiated the login flow; finishGoogleLogin will only
+  // process the callback if this flag is present, preventing auto-prompts.
+  localStorage.setItem('auth_in_progress','1');
   const redirectTo = `${location.origin}${location.pathname}`;
   const authUrl = `${supabaseConfig.url}/auth/v1/authorize?provider=google&redirect_to=${encodeURIComponent(redirectTo)}`;
   location.assign(authUrl);
