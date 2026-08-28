@@ -1220,15 +1220,18 @@ function updateAuthUi(){
   authBtn.title = authSession ? '登出 Supabase' : '使用 Google 登入，同步收藏';
 }
 async function finishGoogleLogin(){
+  // Only process the OAuth callback if we initiated the login flow from this page.
+  if(!localStorage.getItem('auth_in_progress')) return;
   const hash = new URLSearchParams(location.hash.slice(1));
   const accessToken = hash.get('access_token');
-  if(!accessToken) return;
+  if(!accessToken){ localStorage.removeItem('auth_in_progress'); return; }
   const response = await fetch(`${supabaseConfig.url}/auth/v1/user`, {
-    headers:{apikey:supabaseConfig.anonKey, Authorization:`Bearer ${accessToken}`},
+    headers:{apikey:supabaseConfig.anonKey, Authorization:`******  `}
   });
   if(!response.ok) throw new Error(`Google 登入失敗 (${response.status})`);
   authSession = {access_token:accessToken, user:await response.json()};
   localStorage.setItem(AUTH_KEY, JSON.stringify(authSession));
+  localStorage.removeItem('auth_in_progress');
   history.replaceState(null, '', location.pathname + location.search);
   updateAuthUi();
 }
