@@ -30,7 +30,10 @@ INDEX_HTML_PATH = "index.html"
 AREA_KEYWORDS = {
     "新竹市": ["新竹市"],
     "竹北": ["竹北市"],
-    "桃園": ["桃園市"],
+    # Google sometimes returns 桃園/大園/中壢 in simplified-Chinese form
+    # (桃园/大园/中坜) even with languageCode=zh-TW — accept both so a
+    # character-set quirk doesn't get reported as an area mismatch.
+    "桃園": ["桃園市", "桃园市"],
 }
 
 

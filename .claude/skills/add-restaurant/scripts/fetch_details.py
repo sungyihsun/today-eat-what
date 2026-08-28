@@ -31,8 +31,11 @@ OUT_PATH = os.environ.get("ADD_RESTAURANT_DETAILS_PATH", f"{SB}/details.json")
 AREA_KEYWORDS = {
     "新竹市": ["新竹市"],
     "竹北": ["竹北市"],
-    "中壢": ["桃園市"],
-    "青埔": ["桃園市"],
+    # Google sometimes returns 桃園/大園/中壢 in simplified-Chinese form
+    # (桃园/大园/中坜) even with languageCode=zh-TW — accept both so a
+    # character-set quirk doesn't get flagged as an area mismatch.
+    "中壢": ["桃園市", "桃园市"],
+    "青埔": ["桃園市", "桃园市"],
 }
 
 KEY = os.environ.get("GOOGLE_PLACES_API_KEY", "").strip()
