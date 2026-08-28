@@ -370,6 +370,13 @@
 
   main{ padding:32px var(--safe-r) 100px var(--safe-l); }
   .grid{ display:grid; grid-template-columns:repeat(auto-fill, minmax(280px,1fr)); gap:20px; }
+  .load-more-wrap{ text-align:center; margin-top:28px; }
+  .load-more-btn{
+    font-family:inherit; font-size:14px; font-weight:600; cursor:pointer;
+    padding:12px 28px; border-radius:var(--pill-radius); border:1px solid var(--line);
+    background:var(--white); color:var(--jade); box-shadow:var(--shadow-sm);
+  }
+  .load-more-btn:hover{ background:var(--jade); color:var(--white); border-color:var(--jade); }
   .card{
     background:rgba(255,253,250,0.78); border:1px solid rgba(255,255,255,0.6); border-radius:var(--card-radius);
     backdrop-filter:blur(18px) saturate(1.5); -webkit-backdrop-filter:blur(18px) saturate(1.5);
@@ -584,6 +591,9 @@
 
 <main>
   <div class="grid" id="grid"></div>
+  <div class="load-more-wrap" id="loadMoreWrap" style="display:none;">
+    <button type="button" class="load-more-btn" id="loadMoreBtn"></button>
+  </div>
   <div class="empty-state" id="emptyState" style="display:none;">
     <span class="kanji">無</span>
     <span id="emptyStateText">找不到符合條件的餐廳，試試調整篩選條件</span>
@@ -1146,6 +1156,12 @@ const resultCount = document.getElementById('resultCount');
 const sortSelect = document.getElementById('sortSelect');
 const emptyState = document.getElementById('emptyState');
 const emptyStateText = document.getElementById('emptyStateText');
+const loadMoreWrap = document.getElementById('loadMoreWrap');
+const loadMoreBtn = document.getElementById('loadMoreBtn');
+loadMoreBtn.addEventListener('click', ()=>{
+  visibleCount += PAGE_SIZE;
+  render();
+});
 const hoursToggle = document.getElementById('hoursToggle');
 const hoursToggleLabel = document.getElementById('hoursToggleLabel');
 const timeSelectRow = document.getElementById('timeSelectRow');
@@ -1165,6 +1181,14 @@ const toast = document.getElementById('toast');
 const authBtn = document.getElementById('authBtn');
 
 let state = { area:'all', cats:[], subCat:'all', q:'', onlyOpen:false, onlyFav:false, sort:'default', viewingShared:false, customDay:null, customTime:null, rangeStart:null, rangeEnd:null };
+// Rendering every matched restaurant's cards (and their photo carousels) at
+// once could put 400+ cards / 1000+ <img> in the DOM in one pass, which is a
+// real cause of mobile Safari tab crashes ("A Problem Repeatedly Occurred")
+// on long lists — page the results instead, growing visibleCount only when
+// the user asks for more.
+const PAGE_SIZE = 30;
+let visibleCount = PAGE_SIZE;
+let lastFilterKey = '';
 
 async function loadRestaurantsFromSupabase(){
   const config = window.SUPABASE_CONFIG;
@@ -1876,6 +1900,9 @@ function render(){
   else if(state.sort==='distance' && userLocation) filtered.sort((a,b)=>
     haversineKm(userLocation.lat, userLocation.lng, a.lat, a.lng) - haversineKm(userLocation.lat, userLocation.lng, b.lat, b.lng));
 
+  const filterKey = JSON.stringify([state.area, state.cats, state.subCat, state.q, state.onlyOpen, state.onlyFav, state.sort, state.viewingShared, state.customDay, state.customTime, state.rangeStart, state.rangeEnd]);
+  if(filterKey !== lastFilterKey){ visibleCount = PAGE_SIZE; lastFilterKey = filterKey; }
+
   resultCount.textContent = `共找到 ${filtered.length} 間餐廳`;
   grid.innerHTML = '';
 
@@ -1884,11 +1911,13 @@ function render(){
     emptyStateText.textContent = state.onlyFav
       ? '口袋名單還是空的，點卡片右上角的 ♥ 收藏喜歡的店家吧'
       : '找不到符合條件的餐廳，試試調整篩選條件';
+    loadMoreWrap.style.display = 'none';
     return;
   }
   emptyState.style.display = 'none';
 
-  filtered.forEach(r=>{
+  const visible = filtered.slice(0, visibleCount);
+  visible.forEach(r=>{
     const isMarket = r.cat.includes('夜市');
     const openNow = isOpenAt(r.name, cp.day, cp.minutes);
     const badgeClass = isMarket ? 'market' : (openNow ? 'open' : 'closed');
@@ -1955,6 +1984,13 @@ function render(){
     }
     grid.appendChild(card);
   });
+
+  if(filtered.length > visible.length){
+    loadMoreWrap.style.display = 'block';
+    loadMoreBtn.textContent = `顯示更多（還有 ${filtered.length - visible.length} 間）`;
+  } else {
+    loadMoreWrap.style.display = 'none';
+  }
 }
 
 // ── "幫我選" 快速引導小工具 ─────────────────────────────────────────
