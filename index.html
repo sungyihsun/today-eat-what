@@ -380,10 +380,12 @@
 
   /* 旅遊版：星宇航空風格的黑金配色，跟站內其他區域（米黃/赭紅/墨綠）拉開，帶出「出國」「精品航空」的質感 */
   .trip-toggle-btn{
+    display:flex; align-items:center; gap:7px;
     height:38px; padding:0 15px; border:1px solid rgba(22,20,15,0.4); border-radius:999px;
     background:rgba(22,20,15,0.05); color:#201d16; cursor:pointer;
     font-size:13.5px; font-weight:600; flex:0 0 auto; transition:background .2s ease;
   }
+  .trip-toggle-btn svg{ flex:0 0 auto; }
   .trip-toggle-btn:hover{ background:rgba(184,144,47,0.18); }
   .trip-toggle-btn.active{ background:#16140f; color:#c9a227; border-color:#16140f; }
 
@@ -557,7 +559,10 @@
     </div>
     <button class="share-btn" id="shareBtn" type="button" title="分享我的口袋名單">🔗 分享</button>
     <button class="auth-btn" id="authBtn" type="button">使用 Google 登入</button>
-    <button class="trip-toggle-btn" id="tripToggleBtn" type="button">✈️ 旅遊版</button>
+    <button class="trip-toggle-btn" id="tripToggleBtn" type="button">
+      <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M21 16v-2l-8-5V3.5c0-.83-.67-1.5-1.5-1.5S10 2.67 10 3.5V9l-8 5v2l8-2.5V19l-2.5 1.5V22l4-1 4 1v-1.5L14 19v-5.5l7 2.5z"/></svg>
+      <span id="tripToggleLabel">旅遊版</span>
+    </button>
   </div>
   <div class="filter-row filter-row-2">
     <div class="area-toggle" id="catToggle"></div>
@@ -1217,6 +1222,7 @@ const sharedDismissBtn = document.getElementById('sharedDismissBtn');
 const toast = document.getElementById('toast');
 const authBtn = document.getElementById('authBtn');
 const tripToggleBtn = document.getElementById('tripToggleBtn');
+const tripToggleLabel = document.getElementById('tripToggleLabel');
 const tripPicker = document.getElementById('tripPicker');
 const tripCountryRow = document.getElementById('tripCountryRow');
 const tripCityWrap = document.getElementById('tripCityWrap');
@@ -2304,7 +2310,7 @@ function enterBusanMode(){
   areaUiRegion = null;
   siteMode = 'busan';
   document.body.classList.add('busan-mode');
-  tripToggleBtn.textContent = '🏠 回在地版';
+  tripToggleLabel.textContent = '回在地版';
   tripToggleBtn.classList.add('active');
   tripPicker.style.display = 'none';
   recomputeCategoryLists();
@@ -2320,7 +2326,7 @@ function exitBusanMode(){
   areaUiRegion = null;
   siteMode = 'local';
   document.body.classList.remove('busan-mode');
-  tripToggleBtn.textContent = '✈️ 旅遊版';
+  tripToggleLabel.textContent = '旅遊版';
   tripToggleBtn.classList.remove('active');
   recomputeCategoryLists();
   renderAreaToggle();
