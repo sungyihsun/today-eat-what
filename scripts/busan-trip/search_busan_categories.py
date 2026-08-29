@@ -9,8 +9,11 @@ the city, not stops along one 5-day route.
 
 Usage (CI): GOOGLE_PLACES_API_KEY=... python3 scripts/busan-trip/search_busan_categories.py
 
-Re-run note: first run's search/fetch succeeded but its publish step lost a
-git-push race with another workflow; this trivial edit re-triggers it.
+Re-run note: the first two runs' search/fetch succeeded but their publish
+step kept losing a git-push race against search-busan-restaurants.yml,
+which had an overly broad `scripts/busan-trip/**` path trigger that matched
+every push to this file too — fixed to scope that workflow to its own two
+files. This edit re-triggers a clean run now that the collision is gone.
 """
 import json, os, urllib.request, urllib.error, time, re
 

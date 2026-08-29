@@ -4,7 +4,8 @@ on:
   push:
     branches: [DEV]
     paths:
-      - scripts/busan-trip/**
+      - scripts/busan-trip/search_busan_restaurants.py
+      - scripts/busan-trip/fetch_details_busan.py
       - .github/workflows/search-busan-restaurants.yml
   workflow_dispatch:
 
