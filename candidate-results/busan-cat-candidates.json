@@ -1,2925 +1,1222 @@
 {
- "咖啡廳::7863775959726957053": {
-  "place_id": "ChIJGfd3tHrraDUR_SHIQJK-IW0",
-  "name": "MODERN TABLE",
-  "address": "45-9 Jungang-daero 680beon-gil, Busanjin District, Busan, 南韓",
-  "rating": 4.5,
-  "userRatingCount": 282,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=7863775959726957053&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.153893,
-   "longitude": 129.0616361
-  },
-  "types": [
-   "cafe",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "cid": "7863775959726957053",
-  "cat_label": "咖啡廳",
-  "near_hub": "西面"
- },
- "咖啡廳::17185343496841096912": {
-  "place_id": "ChIJEc5mm2_raDUR0G5IyNuafu4",
-  "name": "Brooks",
-  "address": "南韓 Busan, Busanjin District, Seojeon-ro 10beon-gil, 28 오기빌딩 1F",
-  "rating": 4.5,
-  "userRatingCount": 256,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=17185343496841096912&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1567207,
-   "longitude": 129.05995249999998
-  },
-  "types": [
-   "cafe",
-   "coffee_shop",
-   "point_of_interest",
-   "food_store",
-   "store",
-   "food",
-   "establishment"
-  ],
-  "cid": "17185343496841096912",
-  "cat_label": "咖啡廳",
-  "near_hub": "西面"
- },
- "咖啡廳::17881754744041672482": {
-  "place_id": "ChIJARV7jp_raDURIo9CtzLBKPg",
-  "name": "Upper Yeast Bakery",
-  "address": "南韓 Busan, Busanjin District, Seojeon-ro 46beon-gil, 62-14 2층",
+ "服飾::14104129698882074386": {
+  "place_id": "ChIJTc-PzrXraDUREjfn9zvvu8M",
+  "name": "KO&CLO 코앤클로 부산",
+  "address": "南韓 Busan, Busanjin District, Bujeon-dong, 169 2번지 1층",
   "rating": 5,
-  "userRatingCount": 549,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=17881754744041672482&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "userRatingCount": 274,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=14104129698882074386&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 35.155039099999996,
-   "longitude": 129.064153
+   "latitude": 35.1552846,
+   "longitude": 129.0618223
   },
   "types": [
-   "cafe",
-   "coffee_shop",
-   "bakery",
-   "dessert_shop",
-   "confectionery",
-   "point_of_interest",
-   "food_store",
+   "clothing_store",
    "store",
-   "food",
-   "establishment"
-  ],
-  "cid": "17881754744041672482",
-  "cat_label": "咖啡廳",
-  "near_hub": "西面"
- },
- "咖啡廳::4694304110580595349": {
-  "place_id": "ChIJL06E5LWNaDURlfrPkreEJUE",
-  "name": "水月鏡花",
-  "address": "南韓 Busan, Haeundae, Songjeongjungang-ro 6beon-gil, 188 4층",
-  "rating": 4.7,
-  "userRatingCount": 1020,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=4694304110580595349&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1761003,
-   "longitude": 129.1965876
-  },
-  "types": [
-   "cafe",
    "point_of_interest",
-   "food",
    "establishment"
   ],
-  "cid": "4694304110580595349",
-  "cat_label": "咖啡廳",
+  "cid": "14104129698882074386",
+  "cat_label": "服飾",
   "near_hub": "西面"
  },
- "咖啡廳::17245446825409649958": {
-  "place_id": "ChIJQbagpjjtaDURJh1udYQiVO8",
-  "name": "게스후 카페181 Guess Who Cafe181",
-  "address": "南韓 Busan, Suyeong-gu, Gwanganhaebyeon-ro, 181 15층",
-  "rating": 4.9,
-  "userRatingCount": 143,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=17245446825409649958&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "服飾::567023509785803099": {
+  "place_id": "ChIJjy7aIQDraDURW_kTwOB43gc",
+  "name": "PEOFUL 부산지점",
+  "address": "南韓 Busan, Busanjin District, Seojeon-ro 10beon-gil, 61 1 층",
+  "rating": 5,
+  "userRatingCount": 584,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=567023509785803099&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 35.1507323,
-   "longitude": 129.1159064
+   "latitude": 35.1551938,
+   "longitude": 129.06001469999998
   },
   "types": [
-   "cafe",
+   "clothing_store",
+   "womens_clothing_store",
+   "jewelry_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "567023509785803099",
+  "cat_label": "服飾",
+  "near_hub": "西面"
+ },
+ "服飾::16393623889335740992": {
+  "place_id": "ChIJAa0-47LraDURQOo2-RHageM",
+  "name": "서면 남녀공학",
+  "address": "南韓 Busan, Busanjin District, Jungang-daero 702beon-gil, 43 1층 남녀공학",
+  "rating": 4.9,
+  "userRatingCount": 244,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=16393623889335740992&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1556508,
+   "longitude": 129.0616302
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "16393623889335740992",
+  "cat_label": "服飾",
+  "near_hub": "西面"
+ },
+ "服飾::9124731878290191285": {
+  "place_id": "ChIJeTvBZwTraDURtXMrZEyPoX4",
+  "name": "이블래 서면점(부산)",
+  "address": "南韓 Busan, 번 1층 38 이블래 KR 부산광역시 부산진구 중앙대로 680번가길",
+  "rating": 5,
+  "userRatingCount": 487,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=9124731878290191285&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1550551,
+   "longitude": 129.060902
+  },
+  "types": [
+   "clothing_store",
+   "shopping_mall",
+   "womens_clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "9124731878290191285",
+  "cat_label": "服飾",
+  "near_hub": "西面"
+ },
+ "服飾::3285424098242679761": {
+  "place_id": "ChIJS2MRDG_raDUR0VNDeM8rmC0",
+  "name": "西面地下街",
+  "address": "지하 717 Jungang-daero, Busanjin District, Busan, 南韓",
+  "rating": 4.1,
+  "userRatingCount": 2930,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=3285424098242679761&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1562986,
+   "longitude": 129.059155
+  },
+  "types": [
+   "shopping_mall",
    "tourist_attraction",
-   "coffee_shop",
-   "bakery",
-   "dessert_shop",
-   "confectionery",
    "point_of_interest",
-   "food_store",
-   "store",
-   "food",
    "establishment"
   ],
-  "cid": "17245446825409649958",
-  "cat_label": "咖啡廳",
+  "cid": "3285424098242679761",
+  "cat_label": "服飾",
   "near_hub": "西面"
  },
- "咖啡廳::16340661783726643687": {
-  "place_id": "ChIJ99AaREaNaDUR59nT1VCxxeI",
-  "name": "Oldmug",
-  "address": "122 Songjeonggudeokpo-gil, Haeundae, Busan, 南韓",
-  "rating": 4.5,
-  "userRatingCount": 559,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=16340661783726643687&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1703499,
-   "longitude": 129.197057
-  },
-  "types": [
-   "coffee_shop",
-   "cafe",
-   "point_of_interest",
-   "food_store",
-   "store",
-   "food",
-   "establishment"
-  ],
-  "cid": "16340661783726643687",
-  "cat_label": "咖啡廳",
-  "near_hub": "西面"
- },
- "咖啡廳::1701183800226964404": {
-  "place_id": "ChIJYVTJIK6NaDURtGMtLqfRmxc",
-  "name": "오크레페해운대",
-  "address": "南韓 Busan, Haeundae, Gunam-ro, 21 301동 112호",
+ "服飾::6027123905158672073": {
+  "place_id": "ChIJH6yTYQDraDURyW4_OEKlpFM",
+  "name": "워너비 서면 (WANNABE)",
+  "address": "63 1F Dongcheon-ro, Busanjin District, Busan, 南韓",
   "rating": 4.9,
-  "userRatingCount": 291,
+  "userRatingCount": 181,
   "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=1701183800226964404&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=6027123905158672073&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 35.1628177,
-   "longitude": 129.1609018
+   "latitude": 35.154318499999995,
+   "longitude": 129.0621093
   },
   "types": [
-   "ice_cream_shop",
-   "brunch_restaurant",
-   "coffee_shop",
-   "cafe",
-   "dessert_shop",
-   "confectionery",
-   "restaurant",
-   "point_of_interest",
-   "food_store",
+   "clothing_store",
    "store",
-   "food",
-   "establishment"
-  ],
-  "cid": "1701183800226964404",
-  "cat_label": "咖啡廳",
-  "near_hub": "西面"
- },
- "咖啡廳::13463393972549992624": {
-  "place_id": "ChIJt33mq8LtaDURsED6ZHyV17o",
-  "name": "ZM-ILLENNIAL",
-  "address": "135 Jinnam-ro, Nam-gu, Busan, 南韓",
-  "rating": 4.7,
-  "userRatingCount": 2580,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=13463393972549992624&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.138874699999995,
-   "longitude": 129.08017189999998
-  },
-  "types": [
-   "cafe",
    "point_of_interest",
-   "food",
    "establishment"
   ],
-  "cid": "13463393972549992624",
-  "cat_label": "咖啡廳",
+  "cid": "6027123905158672073",
+  "cat_label": "服飾",
   "near_hub": "西面"
  },
- "咖啡廳::10480815574548104347": {
-  "place_id": "ChIJl6tilzbraDURm0RSPTxWc5E",
-  "name": "힙피",
-  "address": "12 Dongseong-ro 25beon-gil, Busanjin District, Busan, 南韓",
+ "服飾::11797460371564476242": {
+  "place_id": "ChIJ0YV6L8jraDURUjfZyrP_uKM",
+  "name": "Nonno",
+  "address": "20 Seojeon-ro 10beon-gil, Busanjin District, Busan, 南韓",
   "rating": 5,
-  "userRatingCount": 196,
+  "userRatingCount": 15,
   "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=10480815574548104347&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=11797460371564476242&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 35.152806399999996,
-   "longitude": 129.0678394
+   "latitude": 35.1569564,
+   "longitude": 129.0603194
   },
   "types": [
-   "dessert_shop",
-   "coffee_shop",
-   "cafe",
-   "dog_cafe",
-   "bakery",
-   "confectionery",
-   "point_of_interest",
-   "food_store",
+   "clothing_store",
    "store",
-   "food",
+   "point_of_interest",
    "establishment"
   ],
-  "cid": "10480815574548104347",
-  "cat_label": "咖啡廳",
+  "cid": "11797460371564476242",
+  "cat_label": "服飾",
   "near_hub": "西面"
  },
- "咖啡廳::5132975769687778077": {
-  "place_id": "ChIJ2-FqxArpaDURHWPtUET-O0c",
-  "name": "Blackup Coffee, Seomyeon",
-  "address": "41 Seojeon-ro 10beon-gil, Busanjin District, Busan, 南韓",
-  "rating": 4.5,
-  "userRatingCount": 891,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=5132975769687778077&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "服飾::12353244271634548097": {
+  "place_id": "ChIJA3NJ7c_raDURgQVo-jaKb6s",
+  "name": "LUFT & Luft Mansion",
+  "address": "56 Seojeon-ro 46beon-gil, Busanjin District, Busan, 南韓",
+  "rating": 5,
+  "userRatingCount": 340,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=12353244271634548097&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 35.156058,
-   "longitude": 129.0600014
+   "latitude": 35.1551538,
+   "longitude": 129.0647362
   },
   "types": [
-   "cafe",
+   "clothing_store",
+   "store",
    "point_of_interest",
-   "food",
    "establishment"
   ],
-  "cid": "5132975769687778077",
-  "cat_label": "咖啡廳",
+  "cid": "12353244271634548097",
+  "cat_label": "服飾",
   "near_hub": "西面"
  },
- "咖啡廳::16601262593631371924": {
-  "place_id": "ChIJwYjuMLzraDURlMJgJF-IY-Y",
-  "name": "pikend",
-  "address": "188 Jeonpo-daero, Busanjin District, Busan, 南韓",
-  "rating": 4.8,
-  "userRatingCount": 53,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=16601262593631371924&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1534069,
-   "longitude": 129.0655558
-  },
-  "types": [
-   "cafe",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "cid": "16601262593631371924",
-  "cat_label": "咖啡廳",
-  "near_hub": "西面"
- },
- "咖啡廳::14718902020480498765": {
-  "place_id": "ChIJgc9zvWXraDURTfyETmcLRMw",
-  "name": "서면 카페 넉아웃 빌리지 | Cafe Knockout village",
-  "address": "91-4 Dongcheon-ro, Busanjin District, Busan, 南韓",
+ "服飾::18091390358447979542": {
+  "place_id": "ChIJDz2rlfPraDURFvw3wK2HEfs",
+  "name": "삼정타워",
+  "address": "672 Jungang-daero, Busanjin District, Busan, 南韓",
   "rating": 4.3,
-  "userRatingCount": 205,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=14718902020480498765&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.157026099999996,
-   "longitude": 129.0619303
-  },
-  "types": [
-   "cafe",
-   "dessert_shop",
-   "confectionery",
-   "point_of_interest",
-   "food_store",
-   "store",
-   "food",
-   "establishment"
-  ],
-  "cid": "14718902020480498765",
-  "cat_label": "咖啡廳",
-  "near_hub": "西面"
- },
- "咖啡廳::4691903668387055681": {
-  "place_id": "ChIJi2EWJ57raDURQQiQEof9HEE",
-  "name": "OFF COURSE Bakery Cafe",
-  "address": "30 Jeonpo-daero 199beon-gil, Busanjin District, Busan, 南韓",
-  "rating": 4.4,
-  "userRatingCount": 200,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=4691903668387055681&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1546154,
-   "longitude": 129.0635475
-  },
-  "types": [
-   "cafe",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "cid": "4691903668387055681",
-  "cat_label": "咖啡廳",
-  "near_hub": "西面"
- },
- "咖啡廳::10248197901568735697": {
-  "place_id": "ChIJB_YSeMzraDUR0XnotrHpOI4",
-  "name": "Hytte Roastery",
-  "address": "南韓 Busan, Busanjin District, Dongseong-ro, 59 2층",
-  "rating": 4.7,
-  "userRatingCount": 104,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=10248197901568735697&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.155767,
-   "longitude": 129.0682232
-  },
-  "types": [
-   "coffee_shop",
-   "cafe",
-   "point_of_interest",
-   "food_store",
-   "store",
-   "food",
-   "establishment"
-  ],
-  "cid": "10248197901568735697",
-  "cat_label": "咖啡廳",
-  "near_hub": "西面"
- },
- "咖啡廳::526113373270088756": {
-  "place_id": "ChIJyRw-tN-NaDURNJxYVVMhTQc",
-  "name": "청사포바다라면카페",
-  "address": "南韓 Busan, Haeundae, Cheongsapo-ro, 125-1 4층",
-  "rating": 4.9,
-  "userRatingCount": 116,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=526113373270088756&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.160902199999995,
-   "longitude": 129.19266
-  },
-  "types": [
-   "restaurant",
-   "ramen_restaurant",
-   "coffee_shop",
-   "cafe",
-   "japanese_restaurant",
-   "point_of_interest",
-   "food_store",
-   "store",
-   "food",
-   "establishment"
-  ],
-  "cid": "526113373270088756",
-  "cat_label": "咖啡廳",
-  "near_hub": "西面"
- },
- "咖啡廳::443447037312902458": {
-  "place_id": "ChIJswHVbwDtaDUROiW8H7twJwY",
-  "name": "workingholiday busan",
-  "address": "南韓 Busan, Suyeong-gu, Gwanganhaebyeon-ro, 235 3층",
-  "rating": 4.9,
-  "userRatingCount": 2997,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=443447037312902458&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1547583,
-   "longitude": 129.1197477
-  },
-  "types": [
-   "cafe",
-   "brunch_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "cid": "443447037312902458",
-  "cat_label": "咖啡廳",
-  "near_hub": "西面"
- },
- "咖啡廳::13530560405426864635": {
-  "place_id": "ChIJK_tgjLDraDUR-wFvMQA1xrs",
-  "name": "雪夜覓 釜山西面",
-  "address": "南韓 Busan, Busanjin District, Seojeon-ro, 25 1층",
-  "rating": 4.9,
-  "userRatingCount": 1678,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=13530560405426864635&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.157941,
-   "longitude": 129.0626363
-  },
-  "types": [
-   "korean_barbecue_restaurant",
-   "korean_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "cid": "13530560405426864635",
-  "cat_label": "咖啡廳",
-  "near_hub": "西面"
- },
- "咖啡廳::10818076078431221807": {
-  "place_id": "ChIJq_CHXgDraDURLzgLcOCGIZY",
-  "name": "이바바커피",
-  "address": "南韓 Busan, Busanjin District, 전포제1동 693-2",
-  "rating": 5,
-  "userRatingCount": 91,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=10818076078431221807&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1538871,
-   "longitude": 129.0635063
-  },
-  "types": [
-   "coffee_shop",
-   "cafe",
-   "point_of_interest",
-   "food_store",
-   "store",
-   "food",
-   "establishment"
-  ],
-  "cid": "10818076078431221807",
-  "cat_label": "咖啡廳",
-  "near_hub": "西面"
- },
- "咖啡廳::12484041442681486110": {
-  "place_id": "ChIJ7ZVCRXXpaDURHvtIgIw5QK0",
-  "name": "Regular House",
-  "address": "22 Junggu-ro 40beon-gil, Jung-gu, Busan, 南韓",
-  "rating": 4.6,
-  "userRatingCount": 200,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=12484041442681486110&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.101345200000004,
-   "longitude": 129.0301173
-  },
-  "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "12484041442681486110",
-  "cat_label": "咖啡廳",
-  "near_hub": "南浦洞"
- },
- "咖啡廳::6755792386096257341": {
-  "place_id": "ChIJwwNSY7npaDURPVmOpWFlwV0",
-  "name": "광복동12시",
-  "address": "20-14 Gwangbok-ro 67beon-gil, Jung-gu, Busan, 南韓",
-  "rating": 4.9,
-  "userRatingCount": 135,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=6755792386096257341&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.099488699999995,
-   "longitude": 129.03208569999998
-  },
-  "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "6755792386096257341",
-  "cat_label": "咖啡廳",
-  "near_hub": "南浦洞"
- },
- "咖啡廳::7015734832631845659": {
-  "place_id": "ChIJb4INmAXpaDURGxNbyajlXGE",
-  "name": "Cafe LaValse SKY CAFE&BAR",
-  "address": "南韓 Busan, Yeongdo-gu, Bongnaenaru-ro, 82 라발스호텔 28층",
-  "rating": 4.5,
-  "userRatingCount": 400,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=7015734832631845659&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.0945488,
-   "longitude": 129.0391881
-  },
-  "types": [
-   "cafe",
-   "coffee_shop",
-   "liquor_store",
-   "food_store",
-   "food",
-   "store",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "7015734832631845659",
-  "cat_label": "咖啡廳",
-  "near_hub": "南浦洞"
- },
- "咖啡廳::11556233682091469242": {
-  "place_id": "ChIJCaF6iBrpaDURuml3ak79X6A",
-  "name": "Good ol’ days- Hotel, Cafe, Shop",
-  "address": "5 Jungang-daero 41beon-gil, Jung-gu, Busan, 南韓",
-  "rating": 4.7,
-  "userRatingCount": 222,
+  "userRatingCount": 2663,
   "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=11556233682091469242&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=18091390358447979542&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 35.1011124,
-   "longitude": 129.035885
+   "latitude": 35.1530115,
+   "longitude": 129.05960579999999
   },
   "types": [
-   "cafe",
-   "food",
+   "shopping_mall",
    "point_of_interest",
    "establishment"
   ],
-  "cid": "11556233682091469242",
-  "cat_label": "咖啡廳",
-  "near_hub": "南浦洞"
+  "cid": "18091390358447979542",
+  "cat_label": "服飾",
+  "near_hub": "西面"
  },
- "咖啡廳::14840743894126018719": {
-  "place_id": "ChIJ66_mCQDpaDURn8DtK_Hp9M0",
-  "name": "Footbath Cafe View",
-  "address": "152 Huinnyeoul-gil, Yeongdo-gu, Busan, 南韓",
-  "rating": 4.8,
-  "userRatingCount": 564,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=14840743894126018719&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "服飾::10043315747758766416": {
+  "place_id": "ChIJj0wJo2_raDURUHk_-HUGYYs",
+  "name": "ALPHA ROMEO (알파로미오)",
+  "address": "南韓 Busan, Busanjin District, 부전제1동 573-1",
+  "rating": 5,
+  "userRatingCount": 17,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=10043315747758766416&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 35.076588099999995,
-   "longitude": 129.0471526
+   "latitude": 35.156911099999995,
+   "longitude": 129.0591334
   },
   "types": [
-   "cafe",
-   "food",
+   "clothing_store",
+   "store",
    "point_of_interest",
    "establishment"
   ],
-  "cid": "14840743894126018719",
-  "cat_label": "咖啡廳",
+  "cid": "10043315747758766416",
+  "cat_label": "服飾",
+  "near_hub": "西面"
+ },
+ "服飾::8796699005345176760": {
+  "place_id": "ChIJdy62a2XraDURuJyhcSMnFHo",
+  "name": "The Street of Youth",
+  "address": "동 Jungang-daero 702beon-gil, 부전2 Busanjin District, Busan, 南韓",
+  "rating": 4.4,
+  "userRatingCount": 150,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=8796699005345176760&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1554358,
+   "longitude": 129.0612696
+  },
+  "types": [
+   "tourist_attraction",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "8796699005345176760",
+  "cat_label": "服飾",
+  "near_hub": "西面"
+ },
+ "服飾::17578868822348237571": {
+  "place_id": "ChIJix8ZnTPtaDURA4tBnQ6w9PM",
+  "name": "Millac The Market",
+  "address": "56 Millaksubyeon-ro 17beon-gil, Suyeong-gu, Busan, 南韓",
+  "rating": 4.2,
+  "userRatingCount": 1265,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=17578868822348237571&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1541919,
+   "longitude": 129.1270348
+  },
+  "types": [
+   "shopping_mall",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "17578868822348237571",
+  "cat_label": "服飾",
+  "near_hub": "西面"
+ },
+ "服飾::17945368158654360574": {
+  "place_id": "ChIJ21pR1aHpaDUR_usy_ELBCvk",
+  "name": "富平罐頭市場",
+  "address": "39 Bupyeong 1-gil, Jung-gu, Busan, 南韓",
+  "rating": 4.1,
+  "userRatingCount": 19650,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=17945368158654360574&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.101853999999996,
+   "longitude": 129.0258719
+  },
+  "types": [
+   "tourist_attraction",
+   "market",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "17945368158654360574",
+  "cat_label": "服飾",
   "near_hub": "南浦洞"
  },
- "咖啡廳::5898966456666171445": {
-  "place_id": "ChIJp9zefwrpaDURNSiI_7xW3VE",
-  "name": "심심푸리 만화카페",
-  "address": "南韓 Busan, 남포동5가 12-1번지 2층 201호 중구 부산광역시 KR",
-  "rating": 4.7,
-  "userRatingCount": 41,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=5898966456666171445&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "服飾::7124853226027617201": {
+  "place_id": "ChIJeY_SAjXpaDURsQssjkKQ4GI",
+  "name": "光復路時尚街",
+  "address": "2-6 Nampo-dong 5(o)-ga, Jung-gu, Busan, 南韓",
+  "rating": 4.3,
+  "userRatingCount": 1896,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=7124853226027617201&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.099312499999996,
+   "longitude": 129.03143749999998
+  },
+  "types": [
+   "tourist_attraction",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "7124853226027617201",
+  "cat_label": "服飾",
+  "near_hub": "南浦洞"
+ },
+ "服飾::17197654907016001008": {
+  "place_id": "ChIJb4ybzqDpaDUR8DVxVgVYqu4",
+  "name": "南浦地下商街",
+  "address": "南韓 Busan, 부산광역시 중구 남포동6가 1",
+  "rating": 4,
+  "userRatingCount": 1082,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=17197654907016001008&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.0981969,
+   "longitude": 129.03062889999998
+  },
+  "types": [
+   "shopping_mall",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "17197654907016001008",
+  "cat_label": "服飾",
+  "near_hub": "南浦洞"
+ },
+ "服飾::5501384131824879814": {
+  "place_id": "ChIJBY2rnKDpaDURxohkZrjXWEw",
+  "name": "Topten",
+  "address": "37 BIFF gwangjang-ro, Jung-gu, Busan, 南韓",
+  "rating": 4.3,
+  "userRatingCount": 147,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=5501384131824879814&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
    "latitude": 35.09861300000001,
    "longitude": 129.0294863
   },
   "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "5898966456666171445",
-  "cat_label": "咖啡廳",
-  "near_hub": "南浦洞"
- },
- "咖啡廳::13637209774356552776": {
-  "place_id": "ChIJmYrjAdXpaDURSNwBaAkaQb0",
-  "name": "Coffee Bubu",
-  "address": "南韓 Busan, Jung-gu, Gwangbokjungang-ro, 35-1 1층",
-  "rating": 4.7,
-  "userRatingCount": 262,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=13637209774356552776&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.10257850000001,
-   "longitude": 129.030735
-  },
-  "types": [
-   "cafe",
-   "coffee_shop",
-   "food_store",
-   "restaurant",
-   "food",
+   "clothing_store",
    "store",
    "point_of_interest",
    "establishment"
   ],
-  "cid": "13637209774356552776",
-  "cat_label": "咖啡廳",
+  "cid": "5501384131824879814",
+  "cat_label": "服飾",
   "near_hub": "南浦洞"
  },
- "咖啡廳::6508555606465114885": {
-  "place_id": "ChIJBeS1SgDpaDURBfM6HNcIU1o",
-  "name": "Lisboa Cafeteria Busan",
-  "address": "南韓 Busan, Yeongdo-gu, Jeoryeong-ro, 198 F1, F2",
-  "rating": 4.8,
-  "userRatingCount": 346,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=6508555606465114885&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "服飾::15195917500170792500": {
+  "place_id": "ChIJ0XDeV3XpaDURNG7SeXS-4tI",
+  "name": "Vintage Museum",
+  "address": "26 Gwangbok-ro 39beon-gil, 광복동 Jung-gu, Busan, 南韓",
+  "rating": 4.2,
+  "userRatingCount": 20,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=15195917500170792500&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 35.0796766,
-   "longitude": 129.0439591
+   "latitude": 35.1014954,
+   "longitude": 129.0294073
   },
   "types": [
-   "coffee_shop",
-   "liquor_store",
-   "cafe",
-   "wine_bar",
-   "dog_cafe",
-   "food_store",
-   "food",
-   "bar",
-   "store",
+   "shopping_mall",
    "point_of_interest",
    "establishment"
   ],
-  "cid": "6508555606465114885",
-  "cat_label": "咖啡廳",
+  "cid": "15195917500170792500",
+  "cat_label": "服飾",
   "near_hub": "南浦洞"
  },
- "咖啡廳::8285356690835353077": {
-  "place_id": "ChIJP0Hor0zpaDUR9a2lOgOA-3I",
-  "name": "DUF Coffee",
-  "address": "195 Gamnae 1-ro, Saha-gu, Busan, 南韓",
+ "服飾::8825654126186845137": {
+  "place_id": "ChIJzbVGQzGNaDUR0dPT3aoFe3o",
+  "name": "LUFT MANSION",
+  "address": "南韓 Busan, Haeundae, Udong 1-ro 38beonga-gil, 1 2층 201호",
   "rating": 5,
-  "userRatingCount": 1783,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=8285356690835353077&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "userRatingCount": 931,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=8825654126186845137&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 35.0962779,
-   "longitude": 129.009235
+   "latitude": 35.1650936,
+   "longitude": 129.1580595
   },
   "types": [
-   "coffee_shop",
-   "cafe",
-   "food_store",
-   "food",
+   "clothing_store",
    "store",
    "point_of_interest",
    "establishment"
   ],
-  "cid": "8285356690835353077",
-  "cat_label": "咖啡廳",
-  "near_hub": "南浦洞"
- },
- "咖啡廳::3154929783870861437": {
-  "place_id": "ChIJHy8lSrPpaDURfTDsQuyPyCs",
-  "name": "노티스 1950 NOTICE 1950",
-  "address": "135 Daegyo-ro, Jung-gu, Busan, 南韓",
-  "rating": 4.3,
-  "userRatingCount": 419,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=3154929783870861437&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.102197499999996,
-   "longitude": 129.0373893
-  },
-  "types": [
-   "cafe",
-   "dessert_shop",
-   "confectionery",
-   "food_store",
-   "food",
-   "store",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "3154929783870861437",
-  "cat_label": "咖啡廳",
-  "near_hub": "南浦洞"
- },
- "咖啡廳::14816305015327685353": {
-  "place_id": "ChIJoXMqfArpaDUR6fpxSukWns0",
-  "name": "Mr.Healing -Massage chair café lounge",
-  "address": "南韓 Busan, Jung-gu, Gudeok-ro, 54-1 지하 2 층",
-  "rating": 4.7,
-  "userRatingCount": 73,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=14816305015327685353&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.0983776,
-   "longitude": 129.0297158
-  },
-  "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "14816305015327685353",
-  "cat_label": "咖啡廳",
-  "near_hub": "南浦洞"
- },
- "咖啡廳::13737939393746394024": {
-  "place_id": "ChIJ_6NQRWTpaDURqFsZhhf3pr4",
-  "name": "Momos Yeongdo Roastery & Coffee bar",
-  "address": "160 Bongnaenaru-ro, Yeongdo-gu, Busan, 南韓",
-  "rating": 4.5,
-  "userRatingCount": 1010,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=13737939393746394024&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.0961199,
-   "longitude": 129.042549
-  },
-  "types": [
-   "coffee_shop",
-   "coffee_roastery",
-   "cafe",
-   "food_store",
-   "food",
-   "store",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "13737939393746394024",
-  "cat_label": "咖啡廳",
-  "near_hub": "南浦洞"
- },
- "咖啡廳::14595528469793759190": {
-  "place_id": "ChIJjY3OgMXpaDUR1l8oF9C7jco",
-  "name": "Cộng Cà Phê",
-  "address": "南韓 Busan, Jung-gu, Gwangbok-ro, 35 1 2, 3층",
-  "rating": 4.6,
-  "userRatingCount": 42,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=14595528469793759190&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.0994308,
-   "longitude": 129.0290627
-  },
-  "types": [
-   "coffee_shop",
-   "cafe",
-   "food_store",
-   "food",
-   "store",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "14595528469793759190",
-  "cat_label": "咖啡廳",
-  "near_hub": "南浦洞"
- },
- "咖啡廳::6503115624593725267": {
-  "place_id": "ChIJ83dkDduNaDURU5czoTS1P1o",
-  "name": "포션 카페",
-  "address": "南韓 Busan, Haeundae, Udong 1-ro 20beon-gil, 7 2층 포션",
-  "rating": 5,
-  "userRatingCount": 128,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=6503115624593725267&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.16390380000001,
-   "longitude": 129.1571119
-  },
-  "types": [
-   "brunch_restaurant",
-   "western_restaurant",
-   "bistro",
-   "cafe",
-   "bar",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "6503115624593725267",
-  "cat_label": "咖啡廳",
+  "cid": "8825654126186845137",
+  "cat_label": "服飾",
   "near_hub": "海雲台"
  },
- "咖啡廳::5706579734076957198": {
-  "place_id": "ChIJofoWUQCNaDURDqIZjAjYMU8",
-  "name": "Raw & Sweet",
-  "address": "南韓 Busan, Haeundae, Udong 1-ro 20beon-gil, 19 1층",
-  "rating": 5,
-  "userRatingCount": 346,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=5706579734076957198&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1642353,
-   "longitude": 129.15767580000002
-  },
-  "types": [
-   "cafe",
-   "coffee_roastery",
-   "coffee_shop",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "5706579734076957198",
-  "cat_label": "咖啡廳",
-  "near_hub": "海雲台"
- },
- "咖啡廳::6206163982601116997": {
-  "place_id": "ChIJ6ZqZbF2NaDURRV3DsEK5IFY",
-  "name": "兔子咖啡",
-  "address": "南韓 Busan, Haeundae, Dalmaji-gil 62beon-gil, 5-57 1 층",
-  "rating": 4.9,
-  "userRatingCount": 84,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=6206163982601116997&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.158556,
-   "longitude": 129.17294950000002
-  },
-  "types": [
-   "coffee_shop",
-   "cafe",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "6206163982601116997",
-  "cat_label": "咖啡廳",
-  "near_hub": "海雲台"
- },
- "咖啡廳::18312486246467451664": {
-  "place_id": "ChIJmVcT316NaDUREDvrqjcFI_4",
-  "name": "CASA BUSANO Haeundae",
-  "address": "南韓 Busan, Haeundae, Gunam-ro, 17 1 1F",
+ "服飾::13177237174606554407": {
+  "place_id": "ChIJY4GaI2yTaDURJ-V-8WTz3rY",
+  "name": "lululemon Busan Shinsegae Centum City",
+  "address": "南韓 Busan, Haeundae, 1 Shinsegae Centum City Mall F 15, Centum 4-ro",
   "rating": 4.4,
-  "userRatingCount": 191,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=18312486246467451664&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "userRatingCount": 15668,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=13177237174606554407&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 35.1624635,
-   "longitude": 129.1601466
+   "latitude": 35.1699456,
+   "longitude": 129.1288413
   },
   "types": [
-   "coffee_shop",
-   "cafe",
-   "food_store",
+   "sportswear_store",
+   "womens_clothing_store",
+   "sporting_goods_store",
+   "clothing_store",
    "store",
-   "food",
    "point_of_interest",
    "establishment"
   ],
-  "cid": "18312486246467451664",
-  "cat_label": "咖啡廳",
+  "cid": "13177237174606554407",
+  "cat_label": "服飾",
   "near_hub": "海雲台"
  },
- "咖啡廳::14035574344195203147": {
-  "place_id": "ChIJV7ehbFCNaDURS2BXnIBgyMI",
-  "name": "Raw & Sweet Haeundae",
-  "address": "南韓 Busan, Haeundae, Udong 1-ro 38beonga-gil, 1 1층",
-  "rating": 4.8,
-  "userRatingCount": 234,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=14035574344195203147&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1651124,
-   "longitude": 129.1580704
-  },
-  "types": [
-   "coffee_shop",
-   "coffee_roastery",
-   "cafe",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "14035574344195203147",
-  "cat_label": "咖啡廳",
-  "near_hub": "海雲台"
- },
- "咖啡廳::17052678982301728156": {
-  "place_id": "ChIJ2e9KQqONaDURnD3deC9Jp-w",
-  "name": "카페 모루",
-  "address": "南韓 Busan, Haeundae, Udong 1-ro, 19 2층",
+ "服飾::16024863220522089031": {
+  "place_id": "ChIJhyH1auWTaDURR_pwGTLAY94",
+  "name": "포터리 신세계 센텀",
+  "address": "南韓 Busan, Haeundae, Centum nam-daero, 35 신세계 백화점 지하 2층",
   "rating": 5,
+  "userRatingCount": 652,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=16024863220522089031&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.168703199999996,
+   "longitude": 129.1297466
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "16024863220522089031",
+  "cat_label": "服飾",
+  "near_hub": "海雲台"
+ },
+ "服飾::1163663321508751817": {
+  "place_id": "ChIJORLzmiOMaDURySmuJKApJhA",
+  "name": "Lotte Premium Outlets 東釜山店",
+  "address": "147 Gijanghaean-ro, Gijang, Busan, 南韓",
+  "rating": 4.2,
+  "userRatingCount": 10914,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=1163663321508751817&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.191652399999995,
+   "longitude": 129.21372879999998
+  },
+  "types": [
+   "shopping_mall",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "1163663321508751817",
+  "cat_label": "服飾",
+  "near_hub": "海雲台"
+ },
+ "服飾::6914363843172469145": {
+  "place_id": "ChIJifuqAg2NaDURmYkZEEjB9F8",
+  "name": "(주)코오롱FNC부문해운대세이브프라자",
+  "address": "1478-2 Jwa-dong, Haeundae, Busan, 南韓",
+  "rating": 4,
+  "userRatingCount": 362,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=6914363843172469145&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.168196699999996,
+   "longitude": 129.1771324
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "6914363843172469145",
+  "cat_label": "服飾",
+  "near_hub": "海雲台"
+ },
+ "服飾::15325707961488114995": {
+  "place_id": "ChIJ155pjhrtaDURMwXgHzHar9Q",
+  "name": "대연혁신지구복합상가",
+  "address": "345 Suyeong-ro, Nam-gu, Busan, 南韓",
+  "rating": 4.2,
   "userRatingCount": 57,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=17052678982301728156&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1633934,
-   "longitude": 129.1560753
-  },
-  "types": [
-   "brunch_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "17052678982301728156",
-  "cat_label": "咖啡廳",
-  "near_hub": "海雲台"
- },
- "咖啡廳::17133165246320924420": {
-  "place_id": "ChIJFTJuIbyNaDURBNcGIQQ7xe0",
-  "name": "Cafe Haeundae 1994",
-  "address": "南韓 Busan, Haeundae, Haeun-daero, 620 카페해운대1994 122호",
-  "rating": 4.4,
-  "userRatingCount": 160,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=17133165246320924420&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1632284,
-   "longitude": 129.1584158
-  },
-  "types": [
-   "cafe",
-   "brunch_restaurant",
-   "breakfast_restaurant",
-   "coffee_roastery",
-   "dessert_restaurant",
-   "bakery",
-   "coffee_shop",
-   "food_store",
-   "store",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "17133165246320924420",
-  "cat_label": "咖啡廳",
-  "near_hub": "海雲台"
- },
- "咖啡廳::14478813289140604757": {
-  "place_id": "ChIJgQAEQV6NaDURVU9udPkT78g",
-  "name": "워킹홀리데이 해운대",
-  "address": "南韓 Busan, Haeundae, Haeundaehaebyeon-ro, 277, 다옴빌딩, 5층",
-  "rating": 4.8,
-  "userRatingCount": 512,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=14478813289140604757&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1599125,
-   "longitude": 129.161721
-  },
-  "types": [
-   "brunch_restaurant",
-   "bakery",
-   "cafe",
-   "food_store",
-   "store",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "14478813289140604757",
-  "cat_label": "咖啡廳",
-  "near_hub": "海雲台"
- },
- "咖啡廳::11259990840289309714": {
-  "place_id": "ChIJsdcb_JmTaDURErSY4QKGQ5w",
-  "name": "cafe voisin",
-  "address": "30 Millakbondong-ro 27beon-gil, Suyeong-gu, Busan, 南韓",
-  "rating": 5,
-  "userRatingCount": 344,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=11259990840289309714&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1587945,
-   "longitude": 129.1270259
-  },
-  "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "11259990840289309714",
-  "cat_label": "咖啡廳",
-  "near_hub": "海雲台"
- },
- "咖啡廳::6853949512835414041": {
-  "place_id": "ChIJKwcQ9j-NaDURGTgEpcQeHl8",
-  "name": "엣지993",
-  "address": "78 Dalmaji-gil 62beon-gil, Haeundae, Busan, 南韓",
-  "rating": 4.3,
-  "userRatingCount": 790,
   "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=6853949512835414041&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=15325707961488114995&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 35.1564176,
-   "longitude": 129.1752149
+   "latitude": 35.1399599,
+   "longitude": 129.10363569999998
   },
   "types": [
-   "coffee_shop",
-   "cafe",
-   "food_store",
-   "store",
-   "food",
+   "shopping_mall",
    "point_of_interest",
    "establishment"
   ],
-  "cid": "6853949512835414041",
-  "cat_label": "咖啡廳",
-  "near_hub": "海雲台"
- },
- "咖啡廳::7626888485287753113": {
-  "place_id": "ChIJFd_EXe-NaDURmfUXG6sm2Gk",
-  "name": "Dongbaek 104 Rooftop Café",
-  "address": "18-19 Dalmaji-gil 104beon-gil, Haeundae, Busan, 南韓",
-  "rating": 4.7,
-  "userRatingCount": 150,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=7626888485287753113&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1577084,
-   "longitude": 129.1736666
-  },
-  "types": [
-   "coffee_shop",
-   "cafe",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "7626888485287753113",
-  "cat_label": "咖啡廳",
-  "near_hub": "海雲台"
- },
- "咖啡廳::18180939527710388286": {
-  "place_id": "ChIJ4Q1rYnSNaDURPjAJeCysT_w",
-  "name": "TIDE Coffee Roasters",
-  "address": "南韓 Busan, Haeundae, Dalmaji-gil 62beon-gil, 53 2층 타이드",
-  "rating": 4.8,
-  "userRatingCount": 196,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=18180939527710388286&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.157617,
-   "longitude": 129.1729163
-  },
-  "types": [
-   "coffee_shop",
-   "cafe",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "18180939527710388286",
-  "cat_label": "咖啡廳",
-  "near_hub": "海雲台"
- },
- "咖啡廳::1180778108986344681": {
-  "place_id": "ChIJbbpF4x-NaDUR6USwIG_3YhA",
-  "name": "석옥갈비 부산 해운대 맛집 | 돼지고기 | 갈비 | Seokokgalbi Haeundae Korean BBQ Restaurant | Korean bbq | 海雲台のグルメ・レストラン | 海雲臺 烤肉店",
-  "address": "南韓 Busan, Haeundae, Jwadongsunhwan-ro, 499-9 1층",
-  "rating": 4.9,
-  "userRatingCount": 88,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=1180778108986344681&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1651265,
-   "longitude": 129.1685253
-  },
-  "types": [
-   "korean_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "1180778108986344681",
-  "cat_label": "咖啡廳",
-  "near_hub": "海雲台"
- },
- "咖啡廳::2775258843279109005": {
-  "place_id": "ChIJ1wbBDhztaDURjatpyTazgyY",
-  "name": "littleaus",
-  "address": "南韓 Busan, Suyeong-gu, Suyeong-ro 510beon-gil, 42 1층",
-  "rating": 4.8,
-  "userRatingCount": 171,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=2775258843279109005&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.150743299999995,
-   "longitude": 129.1137737
-  },
-  "types": [
-   "cafe",
-   "brunch_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "2775258843279109005",
-  "cat_label": "咖啡廳",
+  "cid": "15325707961488114995",
+  "cat_label": "服飾",
   "near_hub": "廣安里"
  },
- "咖啡廳::959953182465301847": {
-  "place_id": "ChIJoWLN50btaDURV53ZWVVwUg0",
-  "name": "카페 오뜨 Cafe Haute",
-  "address": "209 Gwanganhaebyeon-ro, Suyeong-gu, Busan, 南韓",
-  "rating": 4.3,
-  "userRatingCount": 235,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=959953182465301847&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1527605,
-   "longitude": 129.1176018
-  },
-  "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "959953182465301847",
-  "cat_label": "咖啡廳",
-  "near_hub": "廣安里"
- },
- "咖啡廳::7143589285553840605": {
-  "place_id": "ChIJ2UyBizXtaDUR3SG5WpsgI2M",
-  "name": "Casa Busano Gwangan Branch",
-  "address": "179 Gwanganhaebyeon-ro, Suyeong-gu, Busan, 南韓",
-  "rating": 4.3,
-  "userRatingCount": 318,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=7143589285553840605&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1506006,
-   "longitude": 129.1159502
-  },
-  "types": [
-   "coffee_shop",
-   "cafe",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "7143589285553840605",
-  "cat_label": "咖啡廳",
-  "near_hub": "廣安里"
- },
- "咖啡廳::775716630202185540": {
-  "place_id": "ChIJR1NeWm3taDURRHeQTSrmwwo",
-  "name": "아일드블루",
-  "address": "南韓 Busan, Suyeong-gu, Gwanganhaebyeon-ro, 125 우진빌딩 3층",
+ "服飾::4048051308540114373": {
+  "place_id": "ChIJPa8TdXrraDURxbUWtjeRLTg",
+  "name": "SMC Mall Busan Tamiya Mini4wd",
+  "address": "南韓 Busan, Nam-gu, 수영로 38 지하1층",
   "rating": 4.5,
+  "userRatingCount": 48,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=4048051308540114373&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.136420799999996,
+   "longitude": 129.0718444
+  },
+  "types": [
+   "shopping_mall",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "4048051308540114373",
+  "cat_label": "服飾",
+  "near_hub": "廣安里"
+ },
+ "服飾::2511851090213722374": {
+  "place_id": "ChIJVdt9bvKTaDURBtndGELj2yI",
+  "name": "NC백화점 부산대점",
+  "address": "2 Geumgang-ro, Geumjeong-gu, Busan, 南韓",
+  "rating": 4.1,
+  "userRatingCount": 3140,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=2511851090213722374&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.2322978,
+   "longitude": 129.0842446
+  },
+  "types": [
+   "department_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "2511851090213722374",
+  "cat_label": "服飾",
+  "near_hub": "東萊"
+ },
+ "服飾::541236649649713973": {
+  "place_id": "ChIJIRJtlaWUaDURNTPLgd3bggc",
+  "name": "Homeplus Asiad",
+  "address": "7 Jonghabundongjang-ro, Yeonje-gu, Busan, 南韓",
+  "rating": 4.2,
+  "userRatingCount": 3204,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=541236649649713973&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1913249,
+   "longitude": 129.064287
+  },
+  "types": [
+   "hypermarket",
+   "supermarket",
+   "grocery_store",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "541236649649713973",
+  "cat_label": "服飾",
+  "near_hub": "東萊"
+ },
+ "服飾::16473282997498618954": {
+  "place_id": "ChIJIxWYb3GTaDURSiRjZpvbnOQ",
+  "name": "東萊市場",
+  "address": "14 Dongnaesijang-gil, Dongnae-gu, Busan, 南韓",
+  "rating": 4.2,
+  "userRatingCount": 2517,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=16473282997498618954&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.2038096,
+   "longitude": 129.0859492
+  },
+  "types": [
+   "market",
+   "tourist_attraction",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "16473282997498618954",
+  "cat_label": "服飾",
+  "near_hub": "東萊"
+ },
+ "服飾::4511031570757242425": {
+  "place_id": "ChIJexAMQRvraDUROc6OKVBnmj4",
+  "name": "NOCLAIM",
+  "address": "71 Dongseong-ro, Busanjin District, Busan, 南韓",
+  "rating": 4.6,
+  "userRatingCount": 24,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=4511031570757242425&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.156792599999996,
+   "longitude": 129.0681067
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "4511031570757242425",
+  "cat_label": "服飾",
+  "near_hub": "西面"
+ },
+ "服飾::13766880862177274114": {
+  "place_id": "ChIJt2r9-W_raDURAikzPzTJDb8",
+  "name": "삼보게임랜드",
+  "address": "南韓 Busan, Busanjin District, Seojeon-ro 10beon-gil, 61 1층 쥬디스태화신관",
+  "rating": 4.2,
+  "userRatingCount": 1758,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=13766880862177274114&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1551492,
+   "longitude": 129.0603732
+  },
+  "types": [
+   "video_arcade",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "13766880862177274114",
+  "cat_label": "服飾",
+  "near_hub": "西面"
+ },
+ "服飾::9863130834568039681": {
+  "place_id": "ChIJaWN272fraDURAU2hpzzh4Ig",
+  "name": "釜田市場",
+  "address": "23 Jungang-daero 783beon-gil, Busanjin District, Busan, 南韓",
+  "rating": 4.2,
+  "userRatingCount": 6755,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=9863130834568039681&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.162726899999996,
+   "longitude": 129.0613381
+  },
+  "types": [
+   "market",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "9863130834568039681",
+  "cat_label": "服飾",
+  "near_hub": "西面"
+ },
+ "服飾::5166631765211852909": {
+  "place_id": "ChIJudkrFArpaDURbbCzajeQs0c",
+  "name": "札嘎其市場",
+  "address": "52 Jagalchihaean-ro, Jung-gu, Busan, 南韓",
+  "rating": 4,
+  "userRatingCount": 27251,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=5166631765211852909&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.0966339,
+   "longitude": 129.0307965
+  },
+  "types": [
+   "market",
+   "tourist_attraction",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "5166631765211852909",
+  "cat_label": "服飾",
+  "near_hub": "南浦洞"
+ },
+ "服飾::17353590159296253974": {
+  "place_id": "ChIJfYLMelSTaDURFlCRfk5W1PA",
+  "name": "國際市場",
+  "address": "55 Gukjesijang 2-gil, Jung-gu, Busan, 南韓",
+  "rating": 4.1,
+  "userRatingCount": 13021,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=17353590159296253974&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1013575,
+   "longitude": 129.0281978
+  },
+  "types": [
+   "market",
+   "tourist_attraction",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "17353590159296253974",
+  "cat_label": "服飾",
+  "near_hub": "南浦洞"
+ },
+ "服飾::15380730418694862979": {
+  "place_id": "ChIJ8V4JDX3raDURgzhaQNNUc9U",
+  "name": "Judies Taehwa New Bldg.",
+  "address": "61 Seojeon-ro 10beon-gil, Busanjin District, Busan, 南韓",
+  "rating": 4,
+  "userRatingCount": 200,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=15380730418694862979&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1551372,
+   "longitude": 129.0602149
+  },
+  "types": [
+   "shopping_mall",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "15380730418694862979",
+  "cat_label": "服飾",
+  "near_hub": "西面"
+ },
+ "服飾::11640765867371577839": {
+  "place_id": "ChIJiav_TWXraDUR78EshuFOjKE",
+  "name": "Shopping Street",
+  "address": "-dong, 217-2 부전제2동 부산진구 부산광역시 南韓",
+  "rating": 4.3,
+  "userRatingCount": 42,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=11640765867371577839&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1544819,
+   "longitude": 129.0613168
+  },
+  "types": [
+   "shopping_mall",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "11640765867371577839",
+  "cat_label": "服飾",
+  "near_hub": "西面"
+ },
+ "服飾::12825944178092956859": {
+  "place_id": "ChIJhX4bZ2XraDURu1w4dEbo_rE",
+  "name": "ZARA 서면점",
+  "address": "33 Jungang-daero 702beon-gil, Busanjin District, Busan, 南韓",
+  "rating": 4.2,
+  "userRatingCount": 405,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=12825944178092956859&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1555564,
+   "longitude": 129.0610716
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "12825944178092956859",
+  "cat_label": "服飾",
+  "near_hub": "西面"
+ },
+ "服飾::9708897860460311096": {
+  "place_id": "ChIJX67REG7raDUROHJJBSrvvIY",
+  "name": "樂天免稅店",
+  "address": "772 Gaya-daero, Busanjin District, Busan, 南韓",
+  "rating": 4.1,
+  "userRatingCount": 1330,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=9708897860460311096&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1567319,
+   "longitude": 129.056651
+  },
+  "types": [
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "9708897860460311096",
+  "cat_label": "服飾",
+  "near_hub": "西面"
+ },
+ "服飾::9755277617178528652": {
+  "place_id": "ChIJSSw7slWTaDURjMs-oU61YYc",
+  "name": "新世界百貨公司 Centum City店",
+  "address": "35 Centum nam-daero, Haeundae, Busan, 南韓",
+  "rating": 4.5,
+  "userRatingCount": 2818,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=9755277617178528652&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1689218,
+   "longitude": 129.1296311
+  },
+  "types": [
+   "department_store",
+   "shopping_mall",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "9755277617178528652",
+  "cat_label": "服飾",
+  "near_hub": "西面"
+ },
+ "服飾::3362942211720209808": {
+  "place_id": "ChIJdcHH3-TsaDURkOW_uR-Sqy4",
+  "name": "발란사 BALANSA",
+  "address": "南韓 Busan, Busanjin District, Jeonpo-daero 255beon-gil, 37 1층",
+  "rating": 4.7,
+  "userRatingCount": 23,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=3362942211720209808&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1590698,
+   "longitude": 129.0632802
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "3362942211720209808",
+  "cat_label": "服飾",
+  "near_hub": "西面"
+ },
+ "服飾::3652375420185531860": {
+  "place_id": "ChIJ2R3kH1yNaDUR1NWG8hfYrzI",
+  "name": "KASINA",
+  "address": "44 Seojeon-ro, Busanjin District, Busan, 南韓",
+  "rating": 4.9,
+  "userRatingCount": 157,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=3652375420185531860&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1575754,
+   "longitude": 129.0645468
+  },
+  "types": [
+   "shoe_store",
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "3652375420185531860",
+  "cat_label": "服飾",
+  "near_hub": "西面"
+ },
+ "服飾::3923814020347835539": {
+  "place_id": "ChIJvyrpY6DpaDURk7SH7w8wdDY",
+  "name": "Dingdong",
+  "address": "45-1 Changseon-dong 2(i)-ga, Jung-gu, Busan, 南韓",
+  "rating": 4,
+  "userRatingCount": 240,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=3923814020347835539&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.0992518,
+   "longitude": 129.0284622
+  },
+  "types": [
+   "shopping_mall",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "3923814020347835539",
+  "cat_label": "服飾",
+  "near_hub": "南浦洞"
+ },
+ "服飾::9391791877610784020": {
+  "place_id": "ChIJD7ZB_G7paDURFMVj7fNYVoI",
+  "name": "에잇세컨즈 부산광복점",
+  "address": "南韓 Busan, Jung-gu, 광복로 63-2",
+  "rating": 5,
+  "userRatingCount": 524,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=9391791877610784020&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.09915530000001,
+   "longitude": 129.0321976
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "9391791877610784020",
+  "cat_label": "服飾",
+  "near_hub": "南浦洞"
+ },
+ "服飾::6718535037049923051": {
+  "place_id": "ChIJxycp5AzpaDUR62VgFgUIPV0",
+  "name": "樂天百貨公司 光復店",
+  "address": "2 Jungang-daero, Jung-gu, Busan, 南韓",
+  "rating": 4.3,
+  "userRatingCount": 14030,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=6718535037049923051&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.0981871,
+   "longitude": 129.0366183
+  },
+  "types": [
+   "department_store",
+   "liquor_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "6718535037049923051",
+  "cat_label": "服飾",
+  "near_hub": "南浦洞"
+ },
+ "服飾::1569687696976623698": {
+  "place_id": "ChIJxycp5AzpaDURUriX0qSmyBU",
+  "name": "Lotte mart樂天超市",
+  "address": "2 Jungang-daero, Jung-gu, Busan, 南韓",
+  "rating": 4.3,
+  "userRatingCount": 359,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=1569687696976623698&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.097834899999995,
+   "longitude": 129.0361459
+  },
+  "types": [
+   "cosmetics_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "1569687696976623698",
+  "cat_label": "服飾",
+  "near_hub": "南浦洞"
+ },
+ "服飾::325668656829503852": {
+  "place_id": "ChIJoWdPPo_paDURbBnN_OoBhQQ",
+  "name": "KODAK Cine Shop Busan Gwangbok",
+  "address": "南韓 Busan, Jung-gu, 광복동 58 씨네샵 부산광복",
+  "rating": 5,
+  "userRatingCount": 1106,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=325668656829503852&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.0991366,
+   "longitude": 129.0312535
+  },
+  "types": [
+   "gift_shop",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "325668656829503852",
+  "cat_label": "服飾",
+  "near_hub": "南浦洞"
+ },
+ "服飾::16675437691848048981": {
+  "place_id": "ChIJGUMJ8wrpaDURVUHDADsOa-c",
+  "name": "다이소 남포점",
+  "address": "46 Gudeok-ro, Jung-gu, Busan, 南韓",
+  "rating": 4.2,
+  "userRatingCount": 1072,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=16675437691848048981&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.0984681,
+   "longitude": 129.0309443
+  },
+  "types": [
+   "home_goods_store",
+   "store",
+   "service",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "16675437691848048981",
+  "cat_label": "服飾",
+  "near_hub": "南浦洞"
+ },
+ "服飾::11251414744961425008": {
+  "place_id": "ChIJlYoLGnXpaDURcJ4EFhkOJZw",
+  "name": "RNC",
+  "address": "6-1 Gwangbokjungang-ro, Jung-gu, Busan, 南韓",
+  "rating": 5,
+  "userRatingCount": 12,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=11251414744961425008&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.0998771,
+   "longitude": 129.0312491
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "11251414744961425008",
+  "cat_label": "服飾",
+  "near_hub": "南浦洞"
+ },
+ "服飾::8346693770637214857": {
+  "place_id": "ChIJYZhXssKNaDURiQTM_8Jp1XM",
+  "name": "NC백화점 해운대점",
+  "address": "813 Haeun-daero, Haeundae, Busan, 南韓",
+  "rating": 4.2,
+  "userRatingCount": 423,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=8346693770637214857&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1705843,
+   "longitude": 129.1770927
+  },
+  "types": [
+   "department_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "8346693770637214857",
+  "cat_label": "服飾",
+  "near_hub": "海雲台"
+ },
+ "服飾::16641035060162345247": {
+  "place_id": "ChIJLTJJaACNaDURHznMHzjV8OY",
+  "name": "the orleans store",
+  "address": "南韓 Busan, Haeundae, Udong 1-ro 38beon-gil, １１ 132 호",
+  "rating": 4.6,
+  "userRatingCount": 10,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=16641035060162345247&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1654491,
+   "longitude": 129.1577672
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "16641035060162345247",
+  "cat_label": "服飾",
+  "near_hub": "海雲台"
+ },
+ "服飾::14092088259028965527": {
+  "place_id": "ChIJm4BJyaqNaDURl9jfxpsnkcM",
+  "name": "더한섬하우스 부산점",
+  "address": "19 Jwadong-ro, Haeundae, Busan, 南韓",
+  "rating": 4.8,
+  "userRatingCount": 21,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=14092088259028965527&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1679847,
+   "longitude": 129.16932169999998
+  },
+  "types": [
+   "womens_clothing_store",
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "14092088259028965527",
+  "cat_label": "服飾",
+  "near_hub": "海雲台"
+ },
+ "服飾::12054472076491655420": {
+  "place_id": "ChIJz63sEf-NaDUR_IgmenwWSqc",
+  "name": "부산슈퍼 청사포점",
+  "address": "南韓 Busan, Haeundae, Cheongsapo-ro, 120 2층",
+  "rating": 5,
   "userRatingCount": 55,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=775716630202185540&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=12054472076491655420&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 35.146081099999996,
-   "longitude": 129.114419
+   "latitude": 35.161229,
+   "longitude": 129.191936
   },
   "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "775716630202185540",
-  "cat_label": "咖啡廳",
-  "near_hub": "廣安里"
- },
- "咖啡廳::6951399259393394542": {
-  "place_id": "ChIJP2I1DADtaDURbocO3MtUeGA",
-  "name": "카페롤미",
-  "address": "188 Gwangnam-ro, Suyeong-gu, Busan, 南韓",
-  "rating": 5,
-  "userRatingCount": 93,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=6951399259393394542&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1574689,
-   "longitude": 129.1202653
-  },
-  "types": [
-   "coffee_shop",
-   "cafe",
-   "food_store",
    "store",
-   "food",
    "point_of_interest",
    "establishment"
   ],
-  "cid": "6951399259393394542",
-  "cat_label": "咖啡廳",
-  "near_hub": "廣安里"
+  "cid": "12054472076491655420",
+  "cat_label": "服飾",
+  "near_hub": "海雲台"
  },
- "咖啡廳::11805969805362027436": {
-  "place_id": "ChIJwxlIijHtaDURrFuXvfw616M",
-  "name": "Tea and Books",
-  "address": "南韓 Busan, 티앤북스 광안점 8층 KR 부산광역시 수영구 민락수변로 29 바다마루",
+ "服飾::12050713434358481291": {
+  "place_id": "ChIJEfOMp3TtaDURiwH3aAW8PKc",
+  "name": "Boonhongene",
+  "address": "南韓 Busan, Suyeong-gu, 광안제2동 Gwangan-ro 45beon-gil, 2 지하 1층",
   "rating": 4.6,
-  "userRatingCount": 101,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=11805969805362027436&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "userRatingCount": 20,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=12050713434358481291&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 35.153283,
-   "longitude": 129.124722
+   "latitude": 35.1554298,
+   "longitude": 129.1173682
   },
   "types": [
-   "cafe",
-   "restaurant",
-   "food",
+   "shopping_mall",
+   "gift_shop",
+   "jewelry_store",
+   "store",
    "point_of_interest",
    "establishment"
   ],
-  "cid": "11805969805362027436",
-  "cat_label": "咖啡廳",
+  "cid": "12050713434358481291",
+  "cat_label": "服飾",
   "near_hub": "廣安里"
  },
- "咖啡廳::13840303063435211137": {
-  "place_id": "ChIJx4kvZeTtaDURgXHOn06iEsA",
-  "name": "Cộng Cafe",
-  "address": "60 Gwangan-ro 61beon-gil, Suyeong-gu, Busan, 南韓",
-  "rating": 4.4,
-  "userRatingCount": 80,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=13840303063435211137&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1555159,
-   "longitude": 129.122095
-  },
-  "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "13840303063435211137",
-  "cat_label": "咖啡廳",
-  "near_hub": "廣安里"
- },
- "咖啡廳::6674553854652066475": {
-  "place_id": "ChIJ583Mf47taDURqyrAFF7HoFw",
-  "name": "Ddubucks Gwangan",
-  "address": "南韓 Busan, Suyeong-gu, Gwanganhaebyeon-ro, 239 7층",
-  "rating": 4.3,
-  "userRatingCount": 101,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=6674553854652066475&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1547761,
-   "longitude": 129.1201317
-  },
-  "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "6674553854652066475",
-  "cat_label": "咖啡廳",
-  "near_hub": "廣安里"
- },
- "咖啡廳::6258777120461589514": {
-  "place_id": "ChIJHwANb5TtaDURCox0caGk21Y",
-  "name": "느린마을양조장 부산광안리점",
-  "address": "193-4 Gwangan-dong, Suyeong-gu, Busan, 南韓",
-  "rating": 5,
-  "userRatingCount": 72,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=6258777120461589514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1530938,
-   "longitude": 129.11771339999999
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "6258777120461589514",
-  "cat_label": "咖啡廳",
-  "near_hub": "廣安里"
- },
- "咖啡廳::12579926768512734967": {
-  "place_id": "ChIJreN6qpCTaDUR9xahob7glK4",
-  "name": "Momos Coffee Flagship Store",
-  "address": "20 Osige-ro, Geumjeong-gu, Busan, 南韓",
-  "rating": 4.4,
-  "userRatingCount": 2636,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=12579926768512734967&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.219310799999995,
-   "longitude": 129.0864105
-  },
-  "types": [
-   "coffee_shop",
-   "cafe",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "12579926768512734967",
-  "cat_label": "咖啡廳",
-  "near_hub": "東萊"
- },
- "咖啡廳::6315044394985879825": {
-  "place_id": "ChIJ1T3BskuTaDUREXn0L2uLo1c",
-  "name": "사생활 동래점",
-  "address": "南韓 Busan, KR 부산광역시 동래구 사직동 141-7 A동 2층 사생활",
-  "rating": 4.8,
-  "userRatingCount": 146,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=6315044394985879825&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.201951,
-   "longitude": 129.0740664
-  },
-  "types": [
-   "brunch_restaurant",
-   "western_restaurant",
-   "cafe",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "6315044394985879825",
-  "cat_label": "咖啡廳",
-  "near_hub": "東萊"
- },
- "咖啡廳::4712397615498779646": {
-  "place_id": "ChIJOTqkTGmTaDUR_tsz-KnMZUE",
-  "name": "Lazy Moment Coffee Stand",
-  "address": "南韓 Busan, Dongnae-gu, Oncheoncheon-ro 285beon-gil, 19 세븐일레븐 건물 2층",
-  "rating": 4.8,
-  "userRatingCount": 122,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=4712397615498779646&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.196156699999996,
-   "longitude": 129.08573819999998
-  },
-  "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "4712397615498779646",
-  "cat_label": "咖啡廳",
-  "near_hub": "東萊"
- },
- "咖啡廳::1023562872934504689": {
-  "place_id": "ChIJtazH2OyTaDUR8RiKhgJtNA4",
-  "name": "카페 드 팽 CAFE DE PAIN",
-  "address": "247-7 Geumgang-ro, Geumjeong-gu, Busan, 南韓",
-  "rating": 4.4,
-  "userRatingCount": 382,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=1023562872934504689&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.2302719,
-   "longitude": 129.08418849999998
-  },
-  "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "1023562872934504689",
-  "cat_label": "咖啡廳",
-  "near_hub": "東萊"
- },
- "咖啡廳::17291680995117050332": {
-  "place_id": "ChIJjWLi-bOTaDUR3ClT8z9k-O8",
-  "name": "Eolluggae",
-  "address": "南韓 Busan, Dongnae-gu, Chungnyeol-daero 272beon-gil, 15 2층",
-  "rating": 4.8,
-  "userRatingCount": 41,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=17291680995117050332&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.200063799999995,
-   "longitude": 129.08924149999999
-  },
-  "types": [
-   "coffee_shop",
-   "cafe",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "17291680995117050332",
-  "cat_label": "咖啡廳",
-  "near_hub": "東萊"
- },
- "咖啡廳::8715062519389151901": {
-  "place_id": "ChIJuxIUEj7raDURneKC3y8f8ng",
-  "name": "데이오브위크",
-  "address": "南韓 Busan, Busanjin District, Seojeon-ro 58beon-gil, 38 2층",
-  "rating": 4.9,
-  "userRatingCount": 46,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=8715062519389151901&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1561897,
-   "longitude": 129.0660622
-  },
-  "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "8715062519389151901",
-  "cat_label": "咖啡廳",
-  "near_hub": "西面"
- },
- "咖啡廳::4088502464900339002": {
-  "place_id": "ChIJI2dsHzTraDUROpWxe1RHvTg",
-  "name": "달달한놀이터 전포점",
-  "address": "南韓 Busan, Busanjin District, Seojeon-ro 58beon-gil, 119 1층",
-  "rating": 4.9,
-  "userRatingCount": 63,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=4088502464900339002&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.152463399999995,
-   "longitude": 129.06622439999998
-  },
-  "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "4088502464900339002",
-  "cat_label": "咖啡廳",
-  "near_hub": "西面"
- },
- "咖啡廳::15931768798583120663": {
-  "place_id": "ChIJf3LiKgDraDURF-My608DGd0",
-  "name": "피클스(Pickles)",
-  "address": "南韓 Busan, Busanjin District, Seojeon-ro 46beon-gil, 62-14 1층",
-  "rating": 5,
-  "userRatingCount": 697,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=15931768798583120663&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.15508570000001,
-   "longitude": 129.064142
-  },
-  "types": [
-   "restaurant",
-   "brunch_restaurant",
-   "pizza_restaurant",
-   "italian_restaurant",
-   "american_restaurant",
-   "pub",
-   "coffee_shop",
-   "cafe",
-   "bar",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "15931768798583120663",
-  "cat_label": "咖啡廳",
-  "near_hub": "西面"
- },
- "咖啡廳::1303175292892702598": {
-  "place_id": "ChIJ6xwXJgDraDURhmfvPAbPFRI",
-  "name": "브런치카페 라함 (Brunch Caffe LAHAM)",
-  "address": "71 1f Bujeon-ro, Busanjin District, Busan, 南韓",
-  "rating": 4.7,
-  "userRatingCount": 106,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=1303175292892702598&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.156441699999995,
-   "longitude": 129.0545239
-  },
-  "types": [
-   "cafe",
-   "brunch_restaurant",
-   "wine_bar",
-   "coffee_shop",
-   "bar",
-   "food_store",
-   "store",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "1303175292892702598",
-  "cat_label": "咖啡廳",
-  "near_hub": "西面"
- },
- "咖啡廳::16732111259804799196": {
-  "place_id": "ChIJhbDrkCnraDUR3JD6TopmNOg",
-  "name": "oppodd",
-  "address": "38 Jungang-daero 680beonga-gil, Busanjin District, Busan, 南韓",
+ "服飾::4638271074002413319": {
+  "place_id": "ChIJOz1i1sCSaDURByfimfdyXkA",
+  "name": "Lotte Department Store Centum City",
+  "address": "59 Centum nam-daero, Haeundae, Busan, 南韓",
   "rating": 4.2,
-  "userRatingCount": 160,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=16732111259804799196&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "userRatingCount": 3584,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=4638271074002413319&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 35.1552487,
-   "longitude": 129.06094919999998
+   "latitude": 35.1696232,
+   "longitude": 129.1312184
   },
   "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "16732111259804799196",
-  "cat_label": "咖啡廳",
-  "near_hub": "西面"
- },
- "咖啡廳::4134534062494029999": {
-  "place_id": "ChIJPbYtIGXraDURr5i1-tLQYDk",
-  "name": "Vintage38",
-  "address": "38 Jeonpo-daero 199beon-gil, Jeonpo 1-dong, Busanjin District, Busan, 南韓",
-  "rating": 4.2,
-  "userRatingCount": 987,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=4134534062494029999&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1546479,
-   "longitude": 129.0630927
-  },
-  "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "4134534062494029999",
-  "cat_label": "咖啡廳",
-  "near_hub": "西面"
- },
- "咖啡廳::6545364758779081022": {
-  "place_id": "ChIJhfi2D6LpaDURPjFjvJHO1Vo",
-  "name": "bosudongga",
-  "address": "15 13 Jung-gu, Busan, 南韓",
-  "rating": 5,
-  "userRatingCount": 313,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=6545364758779081022&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.103927999999996,
-   "longitude": 129.0266134
-  },
-  "types": [
-   "coffee_shop",
-   "cafe",
-   "food_store",
+   "department_store",
    "store",
-   "food",
    "point_of_interest",
    "establishment"
   ],
-  "cid": "6545364758779081022",
-  "cat_label": "咖啡廳",
-  "near_hub": "南浦洞"
+  "cid": "4638271074002413319",
+  "cat_label": "服飾",
+  "near_hub": "廣安里"
  },
- "咖啡廳::16887701089637709020": {
-  "place_id": "ChIJqRRPXnPpaDUR3DTViKoqXeo",
-  "name": "Nadam",
-  "address": "南韓 Busan, Jung-gu, 東光洞8-9",
-  "rating": 4.4,
-  "userRatingCount": 139,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=16887701089637709020&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1000055,
-   "longitude": 129.0347991
-  },
-  "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "16887701089637709020",
-  "cat_label": "咖啡廳",
-  "near_hub": "南浦洞"
- },
- "咖啡廳::10394128425152600786": {
-  "place_id": "ChIJJ8Y0mXTpaDUR0toCc7tcP5A",
-  "name": "라임스케일",
-  "address": "南韓 Busan, Jung-gu, Daecheong-ro 126beon-gil, 28 라임스케일 1층",
-  "rating": 4.9,
-  "userRatingCount": 63,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=10394128425152600786&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.100422699999996,
-   "longitude": 129.0343283
-  },
-  "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "10394128425152600786",
-  "cat_label": "咖啡廳",
-  "near_hub": "南浦洞"
- },
- "咖啡廳::7189576350674705104": {
-  "place_id": "ChIJyYIFLQHpaDUR0NqDU5mBxmM",
-  "name": "Sinchangdong Coffee",
-  "address": "南韓 Busan, Jung-gu, Gwangbok-ro 49beon-gil, 15 신창동커피 2층",
-  "rating": 4.3,
-  "userRatingCount": 98,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=7189576350674705104&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.100473099999995,
-   "longitude": 129.0303515
-  },
-  "types": [
-   "coffee_shop",
-   "cafe",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "7189576350674705104",
-  "cat_label": "咖啡廳",
-  "near_hub": "南浦洞"
- },
- "咖啡廳::2742374808715082645": {
-  "place_id": "ChIJ0VadjwrpaDURlTtx2lvfDiY",
-  "name": "Chaedo",
-  "address": "南韓 Busan, Jung-gu, Nampo-gil, 12 2층",
-  "rating": 4.4,
-  "userRatingCount": 187,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=2742374808715082645&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.0988484,
-   "longitude": 129.0300719
-  },
-  "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "2742374808715082645",
-  "cat_label": "咖啡廳",
-  "near_hub": "南浦洞"
- },
- "咖啡廳::9516758352241808513": {
-  "place_id": "ChIJKYQBZBXpaDURgdSapkxREoQ",
-  "name": "Cochonnet",
-  "address": "南韓 Busan, Yeongdo-gu, Cheonghangnam-ro, 1 2층",
-  "rating": 4.7,
-  "userRatingCount": 41,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=9516758352241808513&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.0903061,
-   "longitude": 129.05790439999998
-  },
-  "types": [
-   "brunch_restaurant",
-   "cafe",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "9516758352241808513",
-  "cat_label": "咖啡廳",
-  "near_hub": "南浦洞"
- },
- "咖啡廳::7858629837753885780": {
-  "place_id": "ChIJxRIlrzPpaDURVCSbXDN2D20",
-  "name": "제노아커피 로스터스",
-  "address": "17 Junggu-ro 29beon-gil, Jung-gu, Busan, 南韓",
+ "服飾::11315077983872964323": {
+  "place_id": "ChIJI49kwMaSaDUR41aX-nk7B50",
+  "name": "까르띠에 신세계백화점 센텀시티점",
+  "address": "1F, Shinsegae Centum City Department Store, 35, Centum nam-daero, 해운대구 부산광역시 南韓",
   "rating": 4.5,
-  "userRatingCount": 70,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=7858629837753885780&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1004163,
-   "longitude": 129.0269913
-  },
-  "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "7858629837753885780",
-  "cat_label": "咖啡廳",
-  "near_hub": "南浦洞"
- },
- "咖啡廳::8971148021090188460": {
-  "place_id": "ChIJeQpLIx7paDURrHyHEJjrf3w",
-  "name": "The Coffee Bean",
-  "address": "1 Haegwan-ro, Jung-gu, Busan, 南韓",
-  "rating": 4.3,
-  "userRatingCount": 234,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=8971148021090188460&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.098958599999996,
-   "longitude": 129.0356875
-  },
-  "types": [
-   "coffee_shop",
-   "cafe",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "8971148021090188460",
-  "cat_label": "咖啡廳",
-  "near_hub": "南浦洞"
- },
- "咖啡廳::2747576079320506933": {
-  "place_id": "ChIJiyikMQDpaDURNWJCCeNZISY",
-  "name": "WYND",
-  "address": "72 Chansaemi-gil, Yeongdo-gu, Busan, 南韓",
-  "rating": 4.9,
-  "userRatingCount": 142,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=2747576079320506933&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.0929273,
-   "longitude": 129.053313
-  },
-  "types": [
-   "coffee_shop",
-   "cafe",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "2747576079320506933",
-  "cat_label": "咖啡廳",
-  "near_hub": "南浦洞"
- },
- "咖啡廳::9148270341862508357": {
-  "place_id": "ChIJl2SIm8KNaDURRcf0A2gv9X4",
-  "name": "OSULLOC Tea House Haeundae",
-  "address": "南韓 Busan, Haeundae, Gunam-ro, 36-1 1F-2F",
-  "rating": 4.9,
-  "userRatingCount": 967,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=9148270341862508357&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.16093,
-   "longitude": 129.1608786
-  },
-  "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "9148270341862508357",
-  "cat_label": "咖啡廳",
-  "near_hub": "海雲台"
- },
- "咖啡廳::7656083849477508884": {
-  "place_id": "ChIJqdeSYgCNaDURFE-2irLfP2o",
-  "name": "MES JOIES",
-  "address": "532-8 U-dong, Haeundae, Busan, 南韓",
-  "rating": 4.9,
-  "userRatingCount": 183,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=7656083849477508884&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1644632,
-   "longitude": 129.1581119
-  },
-  "types": [
-   "coffee_shop",
-   "cafe",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "7656083849477508884",
-  "cat_label": "咖啡廳",
-  "near_hub": "海雲台"
- },
- "咖啡廳::13220354223732139087": {
-  "place_id": "ChIJz9H_lPCNaDURT6RjPh8ieLc",
-  "name": "Cafe Hito",
-  "address": "21 Udong 1-ro, Haeundae, Busan, 南韓",
-  "rating": 4.2,
-  "userRatingCount": 154,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=13220354223732139087&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1637087,
-   "longitude": 129.1563009
-  },
-  "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "13220354223732139087",
-  "cat_label": "咖啡廳",
-  "near_hub": "海雲台"
- },
- "咖啡廳::18139095542828638156": {
-  "place_id": "ChIJN97BM8yNaDURzB8siUoDu_s",
-  "name": "Keveren House",
-  "address": "南韓 Busan, Haeundae, Udong 1-ro 38beonga-gil, 14-5 1층",
-  "rating": 4.9,
-  "userRatingCount": 447,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=18139095542828638156&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1645337,
-   "longitude": 129.1580765
-  },
-  "types": [
-   "bakery",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "18139095542828638156",
-  "cat_label": "咖啡廳",
-  "near_hub": "海雲台"
- },
- "咖啡廳::1105729204739570391": {
-  "place_id": "ChIJK0aMuXONaDUR1_pGctpWWA8",
-  "name": "코오리마찌(こおりまち)",
-  "address": "449-3 U-dong, Haeundae, Busan, 南韓",
-  "rating": 4.9,
-  "userRatingCount": 63,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=1105729204739570391&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1662226,
-   "longitude": 129.1583762
-  },
-  "types": [
-   "coffee_shop",
-   "cafe",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "1105729204739570391",
-  "cat_label": "咖啡廳",
-  "near_hub": "海雲台"
- },
- "咖啡廳::16475025603605926172": {
-  "place_id": "ChIJJdhYegCTaDURHJFlgH8Mo-Q",
-  "name": "Standard Bread",
-  "address": "571 Haeun-daero, Haeundae, Busan, 南韓",
-  "rating": 4.7,
-  "userRatingCount": 919,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=16475025603605926172&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.161336999999996,
-   "longitude": 129.1540882
-  },
-  "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "16475025603605926172",
-  "cat_label": "咖啡廳",
-  "near_hub": "海雲台"
- },
- "咖啡廳::603922656267963087": {
-  "place_id": "ChIJO3zIKdXtaDURz4qpxnSQYQg",
-  "name": "Nasubeu",
-  "address": "南韓 Busan, Suyeong-gu, Gwanganhaebyeon-ro, 247 5층",
-  "rating": 5,
-  "userRatingCount": 321,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=603922656267963087&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.155035999999996,
-   "longitude": 129.1208384
-  },
-  "types": [
-   "cafe",
-   "cocktail_bar",
-   "bar",
-   "live_music_venue",
-   "event_venue",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "603922656267963087",
-  "cat_label": "咖啡廳",
-  "near_hub": "廣安里"
- },
- "咖啡廳::14661021614305927621": {
-  "place_id": "ChIJrcwTE57taDURxWEHFXtpdss",
-  "name": "워킹홀리데이 민락점 앤나잇 workingholiday and night brunch cafe dining",
-  "address": "南韓 Busan, Suyeong-gu, Millaksubyeon-ro, 29 바다마루 7층",
-  "rating": 5,
-  "userRatingCount": 573,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=14661021614305927621&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1533932,
-   "longitude": 129.1246328
-  },
-  "types": [
-   "western_restaurant",
-   "brunch_restaurant",
-   "pizza_restaurant",
-   "coffee_shop",
-   "cafe",
-   "food_store",
-   "store",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "14661021614305927621",
-  "cat_label": "咖啡廳",
-  "near_hub": "廣安里"
- },
- "咖啡廳::6168216562131776473": {
-  "place_id": "ChIJiT6MDgDtaDUR2bOLW0jomVU",
-  "name": "Daniels Tribe",
-  "address": "南韓 Busan, Suyeong-gu, Suyeong-ro 554beonga-gil, 8 1 층",
-  "rating": 4.9,
-  "userRatingCount": 317,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=6168216562131776473&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1544525,
-   "longitude": 129.1149754
-  },
-  "types": [
-   "brunch_restaurant",
-   "cafe",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "6168216562131776473",
-  "cat_label": "咖啡廳",
-  "near_hub": "廣安里"
- },
- "咖啡廳::1830515010643409618": {
-  "place_id": "ChIJDQhSV-rtaDUR0rprJbRLZxk",
-  "name": "RicoRica 리코리카",
-  "address": "2F, 183 Gwanganhaebyeon-ro, Suyeong-gu, Busan, 南韓",
-  "rating": 4.8,
-  "userRatingCount": 196,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=1830515010643409618&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.150924599999996,
-   "longitude": 129.11609909999999
-  },
-  "types": [
-   "coffee_shop",
-   "cafe",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "1830515010643409618",
-  "cat_label": "咖啡廳",
-  "near_hub": "廣安里"
- },
- "咖啡廳::3057213869336906938": {
-  "place_id": "ChIJ1Wln-7_taDURukw5_NBnbSo",
-  "name": "Usagi Cafe",
-  "address": "101 Suyeong-ro 588beon-gil, Suyeong-gu, Busan, 南韓",
-  "rating": 4.8,
-  "userRatingCount": 45,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=3057213869336906938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1575534,
-   "longitude": 129.1188522
-  },
-  "types": [
-   "coffee_shop",
-   "cafe",
-   "dessert_shop",
-   "confectionery",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "3057213869336906938",
-  "cat_label": "咖啡廳",
-  "near_hub": "廣安里"
- },
- "咖啡廳::14718834159721796779": {
-  "place_id": "ChIJlVqdFgDtaDURq1QaPq_NQ8w",
-  "name": "mimiracrac",
-  "address": "8 Millak-ro 13beon-gil, Suyeong-gu, Busan, 南韓",
-  "rating": 5,
-  "userRatingCount": 198,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=14718834159721796779&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1564903,
-   "longitude": 129.1221421
-  },
-  "types": [
-   "brunch_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "14718834159721796779",
-  "cat_label": "咖啡廳",
-  "near_hub": "廣安里"
- },
- "咖啡廳::8214740257617210732": {
-  "place_id": "ChIJ82UaXcvtaDURbO1fob2eAHI",
-  "name": "Chaseonchaek",
-  "address": "南韓 Busan, Suyeong-gu, Gwanganhaebyeon-ro, 237 3층 301호",
-  "rating": 4.5,
-  "userRatingCount": 81,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=8214740257617210732&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1547349,
-   "longitude": 129.1199283
-  },
-  "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "8214740257617210732",
-  "cat_label": "咖啡廳",
-  "near_hub": "廣安里"
- },
- "咖啡廳::6565870283803655128": {
-  "place_id": "ChIJP8YBibvtaDUR2PtoUzyoHls",
-  "name": "Duplit Stylish Café in Gwangalli",
-  "address": "南韓 Busan, Suyeong-gu, Gwangnam-ro, 195-6 1층, 2층",
-  "rating": 4.9,
-  "userRatingCount": 116,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=6565870283803655128&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1584612,
-   "longitude": 129.12036
-  },
-  "types": [
-   "brunch_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "6565870283803655128",
-  "cat_label": "咖啡廳",
-  "near_hub": "廣安里"
- },
- "咖啡廳::10816780739163794355": {
-  "place_id": "ChIJOfs4nCOTaDURsyslw8XsHJY",
-  "name": "카페유니 cafeyuni",
-  "address": "67-2 Dongnae-ro, Dongnae-gu, Busan, 南韓",
-  "rating": 4.2,
-  "userRatingCount": 45,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=10816780739163794355&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.2092437,
-   "longitude": 129.0809577
-  },
-  "types": [
-   "cafe",
-   "cafeteria",
-   "coffee_shop",
-   "coffee_roastery",
-   "dessert_shop",
-   "tea_house",
-   "confectionery",
-   "food_store",
-   "store",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "10816780739163794355",
-  "cat_label": "咖啡廳",
-  "near_hub": "東萊"
- },
- "咖啡廳::18415244154124635307": {
-  "place_id": "ChIJfxSown6TaDURqwywcv0WkP8",
-  "name": "모모후",
-  "address": "46 Geumjeong-ro 52beon-gil, Geumjeong-gu, Busan, 南韓",
-  "rating": 4.5,
-  "userRatingCount": 36,
+  "userRatingCount": 10,
   "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=18415244154124635307&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=11315077983872964323&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 35.228763799999996,
-   "longitude": 129.0885984
+   "latitude": 35.168996,
+   "longitude": 129.12970099999998
   },
   "types": [
-   "dessert_shop",
-   "confectionery",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "18415244154124635307",
-  "cat_label": "咖啡廳",
-  "near_hub": "東萊"
- },
- "咖啡廳::9825571913241467386": {
-  "place_id": "ChIJ-Q0IE9KGaDUR-hnQ05hxW4g",
-  "name": "Waveon Coffee",
-  "address": "286 Haemaji-ro, Gijang, Busan, 南韓",
-  "rating": 4.2,
-  "userRatingCount": 6284,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=9825571913241467386&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.3223106,
-   "longitude": 129.2696854
-  },
-  "types": [
-   "coffee_shop",
-   "coffee_roastery",
-   "cafe",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "9825571913241467386",
-  "cat_label": "咖啡廳",
-  "near_hub": "東萊"
- },
- "咖啡廳::14818736960264340340": {
-  "place_id": "ChIJPVxc23qTaDURdAOCmMC6ps0",
-  "name": "Gotaeg",
-  "address": "5 Chungnyeol-daero 179beon-gil, 명륜동 Dongnae-gu, Busan, 南韓",
-  "rating": 4.3,
-  "userRatingCount": 162,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=14818736960264340340&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.20410820000001,
-   "longitude": 129.0794727
-  },
-  "types": [
-   "bar",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "14818736960264340340",
-  "cat_label": "咖啡廳",
-  "near_hub": "東萊"
- },
- "咖啡廳::3831379402344816745": {
-  "place_id": "ChIJn5HZRQDraDURaeCCVETLKzU",
-  "name": "스위디 Sweetie",
-  "address": "南韓 Busan, Busanjin District, Jeonpo-daero 199beon-gil, 40-5 2 층",
-  "rating": 4.9,
-  "userRatingCount": 216,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=3831379402344816745&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1545747,
-   "longitude": 129.0629433
-  },
-  "types": [
-   "cafe",
-   "coffee_shop",
-   "dessert_shop",
-   "confectionery",
-   "food_store",
-   "food",
-   "point_of_interest",
-   "store",
-   "establishment"
-  ],
-  "cid": "3831379402344816745",
-  "cat_label": "咖啡廳",
-  "near_hub": "西面"
- },
- "咖啡廳::10525474885699740077": {
-  "place_id": "ChIJPYL65aTraDURraFtZqT_EZI",
-  "name": "夏洛特咖啡",
-  "address": "313-4 Jeonpo-dong, Busanjin District, Busan, 南韓",
-  "rating": 4.9,
-  "userRatingCount": 34,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=10525474885699740077&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1553013,
-   "longitude": 129.06703020000003
-  },
-  "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "10525474885699740077",
-  "cat_label": "咖啡廳",
-  "near_hub": "西面"
- },
- "咖啡廳::6043234879072783302": {
-  "place_id": "ChIJh2qHk2braDURxktipRri3VM",
-  "name": "연의양과",
-  "address": "南韓 Busan, Busanjin District, Dongcheon-ro, 56 1층",
-  "rating": 4.7,
-  "userRatingCount": 115,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=6043234879072783302&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.153619,
-   "longitude": 129.06273
-  },
-  "types": [
-   "dessert_shop",
-   "confectionery",
-   "food_store",
-   "food",
-   "point_of_interest",
-   "store",
-   "establishment"
-  ],
-  "cid": "6043234879072783302",
-  "cat_label": "咖啡廳",
-  "near_hub": "西面"
- },
- "咖啡廳::1901208735418512256": {
-  "place_id": "ChIJAYyTMvTraDURgHN9lkVzYho",
-  "name": "달조리법 부산전포점",
-  "address": "80 Seojeon-ro 58beon-gil, Busanjin District, Busan, 南韓",
-  "rating": 4.6,
-  "userRatingCount": 106,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=1901208735418512256&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1553372,
-   "longitude": 129.0660776
-  },
-  "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "1901208735418512256",
-  "cat_label": "咖啡廳",
-  "near_hub": "西面"
- },
- "咖啡廳::8210698268319018933": {
-  "place_id": "ChIJZWN3Ns3raDURte8RqZJC8nE",
-  "name": "Dream Maid Cafe (드림 메이드카페)",
-  "address": "46-7 Jungang-daero 692beon-gil, Busanjin District, Busan, 南韓",
-  "rating": 5,
-  "userRatingCount": 86,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=8210698268319018933&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1544072,
-   "longitude": 129.0618335
-  },
-  "types": [
-   "cafe",
-   "dessert_shop",
-   "confectionery",
-   "food_store",
-   "food",
-   "point_of_interest",
-   "store",
-   "establishment"
-  ],
-  "cid": "8210698268319018933",
-  "cat_label": "咖啡廳",
-  "near_hub": "西面"
- },
- "咖啡廳::15566985749617505964": {
-  "place_id": "ChIJy13VECTraDURrPaE1Q8LCdg",
-  "name": "STATE",
-  "address": "28 Dongseong-ro 71beon-gil, Busanjin District, Busan, 南韓",
-  "rating": 4.3,
-  "userRatingCount": 85,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=15566985749617505964&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.156973,
-   "longitude": 129.06675210000003
-  },
-  "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "15566985749617505964",
-  "cat_label": "咖啡廳",
-  "near_hub": "西面"
- },
- "咖啡廳::4322898005677953371": {
-  "place_id": "ChIJOUzYVVHraDURW9GtHNUE_js",
-  "name": "Sole Gelato",
-  "address": "南韓 Busan, Jeonpo-dong, 667-1 1 층 KR 부산광역시 부산진구 서전로 35",
-  "rating": 4.9,
-  "userRatingCount": 75,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=4322898005677953371&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.157895499999995,
-   "longitude": 129.06348340000002
-  },
-  "types": [
-   "ice_cream_shop",
-   "dessert_shop",
-   "confectionery",
-   "food_store",
-   "food",
-   "point_of_interest",
-   "store",
-   "establishment"
-  ],
-  "cid": "4322898005677953371",
-  "cat_label": "咖啡廳",
-  "near_hub": "西面"
- },
- "咖啡廳::11101075268804795406": {
-  "place_id": "ChIJZZfEmhfpaDURDtz7FSTxDpo",
-  "name": "젤라송(gelasong) 부산송도점",
-  "address": "南韓 Busan, Seo-gu, Amnam-dong, Deungdae-ro, 9 송도유림 스카이오션 더퍼스트 301동 102호",
-  "rating": 5,
-  "userRatingCount": 212,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=11101075268804795406&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.0764304,
-   "longitude": 129.0240244
-  },
-  "types": [
-   "cafe",
-   "dessert_shop",
-   "confectionery",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "11101075268804795406",
-  "cat_label": "咖啡廳",
-  "near_hub": "南浦洞"
- },
- "咖啡廳::11315247557805399234": {
-  "place_id": "ChIJl85mddLpaDURwtyY_LPVB50",
-  "name": "연경재 Yeongyeong-Jae",
-  "address": "6 Jungang-daero 29beon-gil, Jung-gu, Busan, 南韓",
-  "rating": 4.5,
-  "userRatingCount": 346,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=11315247557805399234&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.100352199999996,
-   "longitude": 129.03595099999998
-  },
-  "types": [
-   "coffee_shop",
-   "cafe",
-   "dessert_shop",
-   "confectionery",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "11315247557805399234",
-  "cat_label": "咖啡廳",
-  "near_hub": "南浦洞"
- },
- "咖啡廳::9446864919668315098": {
-  "place_id": "ChIJBSb543jpaDUR2tPtwZcBGoM",
-  "name": "까치까치(kkachi kkachi)",
-  "address": "南韓 Busan, Seo-gu, 峨嵋洞231-28",
-  "rating": 4.9,
-  "userRatingCount": 540,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=9446864919668315098&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.0983886,
-   "longitude": 129.0115971
-  },
-  "types": [
-   "brunch_restaurant",
-   "sandwich_shop",
-   "dog_cafe",
-   "vegan_restaurant",
-   "vegetarian_restaurant",
-   "coffee_shop",
-   "cafe",
-   "korean_restaurant",
-   "food_store",
-   "store",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "9446864919668315098",
-  "cat_label": "咖啡廳",
-  "near_hub": "南浦洞"
- },
- "咖啡廳::13625870670302022016": {
-  "place_id": "ChIJN8yJSADpaDURgAnEgi7RGL0",
-  "name": "아브라함커피 남포점",
-  "address": "南韓 Busan, Jung-gu, 광복로 56-18 1층",
-  "rating": 5,
-  "userRatingCount": 84,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=13625870670302022016&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.098909899999995,
-   "longitude": 129.0313234
-  },
-  "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "13625870670302022016",
-  "cat_label": "咖啡廳",
-  "near_hub": "南浦洞"
- },
- "咖啡廳::13234486359357369793": {
-  "place_id": "ChIJ89nO4-PsaDURwa0_ejlXqrc",
-  "name": "Namcheon-ri Pat-bingsu",
-  "address": "28 Suyeong-ro 394beon-gil, Suyeong-gu, Busan, 南韓",
-  "rating": 4.3,
-  "userRatingCount": 1409,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=13234486359357369793&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.140792999999995,
-   "longitude": 129.1088052
-  },
-  "types": [
-   "dessert_shop",
-   "confectionery",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "13234486359357369793",
-  "cat_label": "咖啡廳",
-  "near_hub": "南浦洞"
- },
- "咖啡廳::8533723310836238891": {
-  "place_id": "ChIJn5joC8rpaDURK0rdOSPgbXY",
-  "name": "Anavrin",
-  "address": "19-1 Junggu-ro 44beon-gil, Sinchang-dong 1(il)-ga, Jung-gu, Busan, 南韓",
-  "rating": 4.8,
-  "userRatingCount": 116,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=8533723310836238891&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1019067,
-   "longitude": 129.0299915
-  },
-  "types": [
-   "brunch_restaurant",
-   "sandwich_shop",
-   "cafeteria",
-   "coffee_shop",
-   "cafe",
-   "food_store",
-   "store",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "8533723310836238891",
-  "cat_label": "咖啡廳",
-  "near_hub": "南浦洞"
- },
- "咖啡廳::8505040473414620300": {
-  "place_id": "ChIJCVFf1vSNaDURjNQyuj_5B3Y",
-  "name": "젤라또조이 해운대미포점(Gelato Joy Haeundae)",
-  "address": "南韓 Busan, Haeundae, Dalmaji-gil 62beon-gil, 17 1층",
-  "rating": 4.9,
-  "userRatingCount": 916,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=8505040473414620300&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.159757899999995,
-   "longitude": 129.1705706
-  },
-  "types": [
-   "dessert_shop",
-   "ice_cream_shop",
-   "confectionery",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "8505040473414620300",
-  "cat_label": "咖啡廳",
-  "near_hub": "海雲台"
- },
- "咖啡廳::7340309048198850561": {
-  "place_id": "ChIJWapGVSGNaDURAWh6TzAE3mU",
-  "name": "Atelier SMIDA MIPO",
-  "address": "南韓 Busan, Haeundae, Dalmaji-gil, 62길 38 삼환미포씨랜드 4층",
-  "rating": 5,
-  "userRatingCount": 193,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=7340309048198850561&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.158650699999995,
-   "longitude": 129.1710336
-  },
-  "types": [
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "7340309048198850561",
-  "cat_label": "咖啡廳",
-  "near_hub": "海雲台"
- },
- "咖啡廳::123477763495738520": {
-  "place_id": "ChIJOzeOznKNaDURmLzSJl-utgE",
-  "name": "보노베리 (Bono Berry)",
-  "address": "南韓 Busan, Haeundae, Jungdong 1-ro, 25-2 1층",
-  "rating": 4.7,
-  "userRatingCount": 58,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=123477763495738520&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.162965199999995,
-   "longitude": 129.16253229999998
-  },
-  "types": [
-   "cafe",
-   "cake_shop",
-   "sandwich_shop",
-   "dessert_shop",
-   "bakery",
-   "manufacturer",
-   "confectionery",
-   "food_store",
+   "jewelry_store",
+   "gift_shop",
    "wholesaler",
+   "clothing_store",
    "store",
-   "restaurant",
-   "food",
    "point_of_interest",
    "service",
    "establishment"
   ],
-  "cid": "123477763495738520",
-  "cat_label": "咖啡廳",
-  "near_hub": "海雲台"
+  "cid": "11315077983872964323",
+  "cat_label": "服飾",
+  "near_hub": "廣安里"
  },
- "咖啡廳::10441810326742428717": {
-  "place_id": "ChIJc4O21zTtaDURLex8SSvD6JA",
-  "name": "Café Gelateria",
-  "address": "17-3 Gwanganhaebyeon-ro 344beon-gil, Suyeong-gu, Busan, 南韓",
-  "rating": 4.3,
-  "userRatingCount": 641,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=10441810326742428717&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1551768,
-   "longitude": 129.13084480000003
-  },
-  "types": [
-   "cafe",
-   "ice_cream_shop",
-   "dessert_shop",
-   "bakery",
-   "confectionery",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "10441810326742428717",
-  "cat_label": "咖啡廳",
-  "near_hub": "海雲台"
- },
- "咖啡廳::17253244659380426770": {
-  "place_id": "ChIJU4TwmrGNaDUREphGKZvWb-8",
-  "name": "Honeyba蜂巢冰淇淋",
-  "address": "1394-95 Jung-dong, Haeundae, Busan, 南韓",
-  "rating": 4.6,
-  "userRatingCount": 31,
+ "服飾::17522876897117167460": {
+  "place_id": "ChIJ9Q5OwniTaDURZF-Rn7LDLfM",
+  "name": "Lotte Department Store Dongnae",
+  "address": "1393 Jungang-daero, Dongnae-gu, Busan, 南韓",
+  "rating": 4.2,
+  "userRatingCount": 1044,
   "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=17253244659380426770&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=17522876897117167460&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 35.16153,
-   "longitude": 129.1622183
+   "latitude": 35.2114828,
+   "longitude": 129.0776055
   },
   "types": [
-   "ice_cream_shop",
-   "dessert_shop",
-   "confectionery",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "17253244659380426770",
-  "cat_label": "咖啡廳",
-  "near_hub": "海雲台"
- },
- "咖啡廳::4625979328942270291": {
-  "place_id": "ChIJf8HwlGGNaDURU2fnr7DHMkA",
-  "name": "Eunssom",
-  "address": "南韓 일부 호 Udong 1-ro 38beon-gil, 2 1층 KR 부산광역시 해운대구 부산광역시 해운대구",
-  "rating": 4.9,
-  "userRatingCount": 39,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=4625979328942270291&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1647378,
-   "longitude": 129.1573797
-  },
-  "types": [
-   "dessert_shop",
-   "confectionery",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "4625979328942270291",
-  "cat_label": "咖啡廳",
-  "near_hub": "海雲台"
- },
- "咖啡廳::88940265941414384": {
-  "place_id": "ChIJ3TkHTeftaDUR8LGqXbP6OwE",
-  "name": "Gelato Joy",
-  "address": "南韓 Busan, Gwangan-dong, 152-48 GELATO JOY KR 부산광역시 수영구 광안로 41",
-  "rating": 4.8,
-  "userRatingCount": 549,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=88940265941414384&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1554538,
-   "longitude": 129.1168734
-  },
-  "types": [
-   "dessert_shop",
-   "ice_cream_shop",
-   "confectionery",
-   "food_store",
+   "department_store",
    "store",
    "point_of_interest",
-   "food",
    "establishment"
   ],
-  "cid": "88940265941414384",
-  "cat_label": "咖啡廳",
-  "near_hub": "廣安里"
- },
- "咖啡廳::17465231291560132760": {
-  "place_id": "ChIJiQao4yLtaDURmIB6LVP3YPI",
-  "name": "咖啡廳 Ancien",
-  "address": "南韓 Busan, Suyeong-gu, Gwangnam-ro, 77 1층",
-  "rating": 4.8,
-  "userRatingCount": 52,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=17465231291560132760&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1491827,
-   "longitude": 129.1135313
-  },
-  "types": [
-   "cafe",
-   "coffee_shop",
-   "dessert_shop",
-   "confectionery",
-   "bakery",
-   "food_store",
-   "store",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "cid": "17465231291560132760",
-  "cat_label": "咖啡廳",
-  "near_hub": "廣安里"
- },
- "咖啡廳::10543859108534537738": {
-  "place_id": "ChIJ8wU1NL7taDURCs731f5PU5I",
-  "name": "Black Bear Donut Busan 블랙베어도넛 부산점",
-  "address": "12 Gwanganhaebyeon-ro 255beon-gil, Suyeong-gu, Busan, 南韓",
-  "rating": 5,
-  "userRatingCount": 41,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=10543859108534537738&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.155671,
-   "longitude": 129.121745
-  },
-  "types": [
-   "cafe",
-   "donut_shop",
-   "coffee_shop",
-   "dessert_restaurant",
-   "dessert_shop",
-   "confectionery",
-   "bakery",
-   "restaurant",
-   "food_store",
-   "store",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "cid": "10543859108534537738",
-  "cat_label": "咖啡廳",
-  "near_hub": "廣安里"
- },
- "咖啡廳::11824591114955533397": {
-  "place_id": "ChIJjSbH_jHtaDURVSwqPfhiGaQ",
-  "name": "BCBL coffee roasters",
-  "address": "南韓 Busan, Suyeong-gu, Namcheondong-ro 108beon-gil, 49 상가동 2 층",
-  "rating": 4.9,
-  "userRatingCount": 105,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=11824591114955533397&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1469029,
-   "longitude": 129.11390369999998
-  },
-  "types": [
-   "cafe",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "cid": "11824591114955533397",
-  "cat_label": "咖啡廳",
-  "near_hub": "廣安里"
- },
- "咖啡廳::15140359273022296703": {
-  "place_id": "ChIJ_XOb-2DtaDURfxJJsIpcHdI",
-  "name": "연의양과 광안점",
-  "address": "南韓 Busan, Suyeong-gu, Millak-ro 27beon-gil, 3 1층 102호",
-  "rating": 4.8,
-  "userRatingCount": 118,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=15140359273022296703&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1574301,
-   "longitude": 129.1217163
-  },
-  "types": [
-   "cafe",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "cid": "15140359273022296703",
-  "cat_label": "咖啡廳",
-  "near_hub": "廣安里"
- },
- "咖啡廳::14902226456825812267": {
-  "place_id": "ChIJx8_66yWTaDURK9WH0QFYz84",
-  "name": "Atelier SMIDA Mangmi",
-  "address": "南韓 Busan, Suyeong-gu, Gwajeong-ro 41beon-gil, 20 1층",
-  "rating": 4.6,
-  "userRatingCount": 110,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=14902226456825812267&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1752536,
-   "longitude": 129.1065045
-  },
-  "types": [
-   "dessert_shop",
-   "confectionery",
-   "food_store",
-   "store",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "cid": "14902226456825812267",
-  "cat_label": "咖啡廳",
-  "near_hub": "廣安里"
- },
- "咖啡廳::5223143399759925032": {
-  "place_id": "ChIJKSjdajSTaDURKM-dqT9VfEg",
-  "name": "보노베리 Bono Berry 본점",
-  "address": "67-1 Jangjeononcheoncheon-ro, Geumjeong-gu, Busan, 南韓",
-  "rating": 4.9,
-  "userRatingCount": 40,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=5223143399759925032&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.2310045,
-   "longitude": 129.08880270000003
-  },
-  "types": [
-   "cafe",
-   "cake_shop",
-   "sandwich_shop",
-   "dessert_shop",
-   "bakery",
-   "manufacturer",
-   "confectionery",
-   "food_store",
-   "wholesaler",
-   "store",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "service",
-   "establishment"
-  ],
-  "cid": "5223143399759925032",
-  "cat_label": "咖啡廳",
+  "cid": "17522876897117167460",
+  "cat_label": "服飾",
   "near_hub": "東萊"
  },
- "咖啡廳::16763403650953747198": {
-  "place_id": "ChIJd7laWBqTaDUR_pqV4c2So-g",
-  "name": "르쎄 L'essai",
-  "address": "467-1 Oncheoncheon-ro, Dongnae-gu, Busan, 南韓",
-  "rating": 4.3,
-  "userRatingCount": 351,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=16763403650953747198&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "服飾::6354566993614858233": {
+  "place_id": "ChIJgcg79TGSaDUR-efVQwP1L1g",
+  "name": "(주)칸투칸 부산거제점(폐점)",
+  "address": "南韓 Busan, Yeonje-gu, Beobwon-ro 32beon-gil, 19 칸투칸 빌딩",
+  "rating": 4.1,
+  "userRatingCount": 303,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=6354566993614858233&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 35.1913793,
-   "longitude": 129.10416759999998
+   "latitude": 35.1912922,
+   "longitude": 129.0752908
   },
   "types": [
-   "cafe",
-   "food",
+   "clothing_store",
+   "sportswear_store",
+   "shoe_store",
+   "sporting_goods_store",
+   "store",
    "point_of_interest",
    "establishment"
   ],
-  "cid": "16763403650953747198",
-  "cat_label": "咖啡廳",
+  "cid": "6354566993614858233",
+  "cat_label": "服飾",
   "near_hub": "東萊"
  }
 }
