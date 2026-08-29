@@ -365,11 +365,11 @@
   },
   "types": [
    "sporting_goods_store",
-   "shoe_store",
    "sportswear_store",
    "clothing_store",
-   "store",
+   "shoe_store",
    "point_of_interest",
+   "store",
    "establishment"
   ],
   "cid": "11496623773700298305",
@@ -457,8 +457,8 @@
   "types": [
    "market",
    "wholesaler",
-   "service",
    "point_of_interest",
+   "service",
    "establishment"
   ],
   "cid": "16523336050724868579",
@@ -835,8 +835,8 @@
   "types": [
    "family_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "2887176389619509104",
@@ -889,5 +889,89 @@
   "cid": "9755277617178528652",
   "cat_label": "服飾",
   "near_hub": "南浦洞"
+ },
+ "服飾::13416330030917343745": {
+  "place_id": "ChIJVRucasLraDURAdo7khRhMLo",
+  "name": "서면지하도상가 중앙몰",
+  "address": "777 Gaya-daero, Busanjin District, Busan, 南韓",
+  "rating": 4.3,
+  "userRatingCount": 12,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=13416330030917343745&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1576269,
+   "longitude": 129.0560166
+  },
+  "types": [
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "13416330030917343745",
+  "cat_label": "服飾",
+  "near_hub": "西面"
+ },
+ "服飾::17945368158654360574": {
+  "place_id": "ChIJ21pR1aHpaDUR_usy_ELBCvk",
+  "name": "富平罐頭市場",
+  "address": "39 Bupyeong 1-gil, Jung-gu, Busan, 南韓",
+  "rating": 4.1,
+  "userRatingCount": 19650,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=17945368158654360574&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.101853999999996,
+   "longitude": 129.0258719
+  },
+  "types": [
+   "tourist_attraction",
+   "market",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "17945368158654360574",
+  "cat_label": "服飾",
+  "near_hub": "西面"
+ },
+ "服飾::15162851604351108248": {
+  "place_id": "ChIJ0bzSb6DpaDURmERPqzJFbdI",
+  "name": "국제시장 만물의 거리",
+  "address": "南韓 Busan, 부산 중구 신창동 1~4가",
+  "rating": 4.1,
+  "userRatingCount": 11,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=15162851604351108248&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.0996508,
+   "longitude": 129.0286987
+  },
+  "types": [
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "15162851604351108248",
+  "cat_label": "服飾",
+  "near_hub": "西面"
+ },
+ "服飾::9711611216219976608": {
+  "place_id": "ChIJi48f8HLoaDURoLN9Y_KSxoY",
+  "name": "國際水産物都賣市場",
+  "address": "35 Wonyang-ro, Amnam-dong, Seo-gu, Busan, 南韓",
+  "rating": 4,
+  "userRatingCount": 401,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=9711611216219976608&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.0597759,
+   "longitude": 129.01049749999999
+  },
+  "types": [
+   "market",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "9711611216219976608",
+  "cat_label": "服飾",
+  "near_hub": "西面"
  }
 }
