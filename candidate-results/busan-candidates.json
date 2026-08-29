@@ -227,8 +227,8 @@
    "asian_fusion_restaurant",
    "asian_restaurant",
    "vegan_restaurant",
-   "vegetarian_restaurant",
    "fusion_restaurant",
+   "vegetarian_restaurant",
    "bar",
    "korean_restaurant",
    "food",
@@ -928,8 +928,8 @@
   },
   "types": [
    "cafe",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "田浦"
@@ -951,8 +951,8 @@
    "cafe",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "田浦"
@@ -971,8 +971,8 @@
   },
   "types": [
    "cafe",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "田浦"
@@ -994,8 +994,8 @@
    "cafe",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "田浦"
@@ -1014,8 +1014,8 @@
   },
   "types": [
    "cafe",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "田浦"
@@ -1034,8 +1034,8 @@
   },
   "types": [
    "cafe",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "田浦"
@@ -1057,8 +1057,8 @@
    "cafe",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "田浦"
@@ -1080,8 +1080,8 @@
    "cafe",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "田浦"
@@ -1100,8 +1100,8 @@
   },
   "types": [
    "cafe",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "田浦"
@@ -1121,8 +1121,8 @@
   "types": [
    "brunch_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "田浦"
@@ -1141,8 +1141,8 @@
   },
   "types": [
    "cafe",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "田浦"
@@ -1164,12 +1164,12 @@
    "dog_cafe",
    "coffee_shop",
    "cafe",
-   "bakery",
    "confectionery",
+   "bakery",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "田浦"
@@ -1188,8 +1188,8 @@
   },
   "types": [
    "cafe",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "田浦"
@@ -1664,9 +1664,9 @@
    "dessert_shop",
    "confectionery",
    "food_store",
-   "store",
    "restaurant",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -1769,8 +1769,8 @@
    "coffee_shop",
    "cafe",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -1812,8 +1812,8 @@
    "coffee_shop",
    "cafe",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -1856,8 +1856,8 @@
    "coffee_shop",
    "cafe",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -1877,17 +1877,17 @@
   },
   "types": [
    "brunch_restaurant",
-   "dog_cafe",
-   "sandwich_shop",
    "coffee_shop",
    "cafe",
+   "sandwich_shop",
    "vegan_restaurant",
    "vegetarian_restaurant",
-   "food_store",
+   "dog_cafe",
    "korean_restaurant",
-   "store",
+   "food_store",
    "restaurant",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -1929,8 +1929,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "南浦洞"
@@ -1972,8 +1972,8 @@
    "korean_barbecue_restaurant",
    "korean_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "南浦洞"
@@ -1994,8 +1994,8 @@
    "korean_restaurant",
    "chicken_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "南浦洞"
@@ -2016,8 +2016,8 @@
    "korean_barbecue_restaurant",
    "korean_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "南浦洞"
@@ -2037,8 +2037,8 @@
   "types": [
    "seafood_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "南浦洞"
@@ -2058,11 +2058,11 @@
   "types": [
    "yakiniku_restaurant",
    "korean_barbecue_restaurant",
-   "korean_restaurant",
    "japanese_restaurant",
+   "korean_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "南浦洞"
@@ -2083,8 +2083,8 @@
    "bar",
    "korean_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "南浦洞"
@@ -2103,8 +2103,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "南浦洞"
@@ -2124,8 +2124,8 @@
   "types": [
    "barbecue_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "南浦洞"
@@ -2146,8 +2146,8 @@
    "korean_barbecue_restaurant",
    "korean_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "南浦洞"
@@ -2189,8 +2189,8 @@
   "types": [
    "korean_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "南浦洞"
@@ -2209,13 +2209,13 @@
   },
   "types": [
    "western_restaurant",
-   "burrito_restaurant",
-   "steak_house",
    "wine_bar",
+   "steak_house",
    "bar",
+   "burrito_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "南浦洞"
@@ -2235,8 +2235,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "南浦洞"
@@ -2256,8 +2256,8 @@
   "types": [
    "korean_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "南浦洞"
@@ -2278,8 +2278,8 @@
    "korean_barbecue_restaurant",
    "korean_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "南浦洞"
@@ -2301,8 +2301,8 @@
    "wine_bar",
    "bar",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "南浦洞"
@@ -3050,11 +3050,11 @@
   },
   "types": [
    "restaurant",
-   "ramen_restaurant",
    "coffee_shop",
+   "ramen_restaurant",
    "cafe",
-   "food_store",
    "japanese_restaurant",
+   "food_store",
    "store",
    "food",
    "point_of_interest",
@@ -3283,8 +3283,8 @@
   },
   "types": [
    "cafe",
-   "coffee_roastery",
    "coffee_shop",
+   "coffee_roastery",
    "dessert_shop",
    "confectionery",
    "food_store",
@@ -3673,9 +3673,9 @@
   "types": [
    "restaurant",
    "seafood_restaurant",
-   "japanese_restaurant",
    "bar",
    "korean_restaurant",
+   "japanese_restaurant",
    "food",
    "point_of_interest",
    "establishment"
@@ -3847,14 +3847,14 @@
   "types": [
    "western_restaurant",
    "brunch_restaurant",
-   "coffee_shop",
    "pizza_restaurant",
+   "coffee_shop",
    "cafe",
    "food_store",
-   "store",
    "restaurant",
    "food",
    "point_of_interest",
+   "store",
    "establishment"
   ],
   "area_label": "廣安里"
@@ -3914,9 +3914,9 @@
   "types": [
    "chicken_restaurant",
    "korean_barbecue_restaurant",
+   "barbecue_restaurant",
    "meal_delivery",
    "food_delivery",
-   "barbecue_restaurant",
    "korean_restaurant",
    "restaurant",
    "food",
@@ -3941,12 +3941,12 @@
    "deli",
    "snack_bar",
    "meal_takeaway",
-   "food_store",
-   "store",
    "korean_restaurant",
+   "food_store",
    "restaurant",
    "food",
    "point_of_interest",
+   "store",
    "establishment"
   ],
   "area_label": "廣安里"
@@ -4091,8 +4091,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "民樂會"
@@ -4132,8 +4132,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "民樂會"
@@ -4153,8 +4153,8 @@
   "types": [
    "seafood_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "民樂會"
@@ -4173,8 +4173,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "民樂會"
@@ -4194,8 +4194,8 @@
   "types": [
    "barbecue_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "民樂會"
@@ -4215,8 +4215,8 @@
   "types": [
    "seafood_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "民樂會"
@@ -4236,8 +4236,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "民樂會"
@@ -4276,8 +4276,8 @@
    "korean_barbecue_restaurant",
    "korean_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "民樂會"
@@ -4296,8 +4296,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "民樂會"
@@ -4317,8 +4317,8 @@
   "types": [
    "seafood_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "民樂會"
@@ -4339,8 +4339,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "民樂會"
@@ -4360,8 +4360,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "民樂會"
