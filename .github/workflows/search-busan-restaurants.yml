@@ -1,0 +1,58 @@
+name: Search Busan trip restaurant candidates
+
+on:
+  push:
+    branches: [DEV]
+    paths:
+      - scripts/busan-trip/**
+      - .github/workflows/search-busan-restaurants.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out DEV
+        uses: actions/checkout@v4
+        with:
+          ref: DEV
+
+      - name: Search Google Places candidates near each itinerary stop
+        env:
+          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+        run: |
+          test -n "$GOOGLE_PLACES_API_KEY"
+          python3 scripts/busan-trip/search_busan_restaurants.py
+
+      - name: Select top 2 per stop and fetch details
+        env:
+          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+        run: |
+          python3 - <<'PY'
+          import json
+          candidates = json.load(open("candidate-results/busan-candidates.json"))
+          by_area = {}
+          for cid, place in candidates.items():
+              by_area.setdefault(place["area_label"], []).append(place)
+          selected = {}
+          for area_label, places in by_area.items():
+              ranked = sorted(places, key=lambda p: (p["rating"], p["userRatingCount"]), reverse=True)
+              selected[area_label] = [p["name"] for p in ranked[:2]]
+          json.dump(selected, open("candidate-results/busan-final-list.json", "w"), ensure_ascii=False, indent=2)
+          print(json.dumps(selected, ensure_ascii=False, indent=2))
+          PY
+          python3 scripts/busan-trip/fetch_details_busan.py
+
+      - name: Publish candidate results to DEV
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add candidate-results/busan-candidates.json candidate-results/busan-final-list.json candidate-results/busan-details.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Publish Busan trip restaurant candidates"
+          git push
