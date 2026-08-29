@@ -1265,6 +1265,11 @@ async function loadRestaurantsFromSupabase(){
     mapsUrl: row.maps_url,
   }));
   HOURS = Object.fromEntries(rows.map(row=>[row.name, row.hours || []]));
+  // Reassigns HOURS wholesale from the Supabase rows, which wipes out the
+  // BUSAN_HOURS merge done at parse time (busanRestaurants/BUSAN_HOURS are
+  // deliberately kept out of Supabase) — re-merge so 旅遊版 restaurants keep
+  // their real opening hours instead of falling back to "營業時間請洽店家".
+  Object.assign(HOURS, BUSAN_HOURS);
 }
 
 // 口袋名單／我的最愛：存在瀏覽器 localStorage，不用登入，只有這台裝置這個瀏覽器看得到
