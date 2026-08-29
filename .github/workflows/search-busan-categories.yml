@@ -41,6 +41,23 @@ jobs:
           # how many NEW restaurants each category still needs to reach 10+
           # (existing counts: 燒烤=4, 海鮮=3, others=0)
           TARGET_NEW = {"燒烤": 8, "石鍋拌飯": 12, "人蔘雞湯": 12, "辣炒年糕": 12, "海鮮": 9}
+          # A broad textQuery like "부산 고기집 맛집" returns plenty of highly
+          # rated restaurants near the hub that don't actually serve the
+          # target dish (Google has no place-type granular enough for this).
+          # Require the name or type to actually signal the dish before a
+          # candidate is eligible, instead of trusting rating alone.
+          KEYWORDS = {
+              "燒烤": ["갈비","구이","고기","삼겹","오겹","로스","불고기","barbecue","bbq","烤"],
+              "石鍋拌飯": ["비빔밥","拌飯","bibim"],
+              "人蔘雞湯": ["삼계탕","蔘鷄湯","参鶏湯","samgyetang","백숙"],
+              "辣炒年糕": ["떡볶이","분식","年糕","tteokbokki","ttokbokki","bunsik"],
+              "海鮮": ["회","조개","해물","해산물","낙지","문어","쭈꾸미","sashimi","seafood","대게","전복","물회","水產","水产","생선"],
+          }
+          TYPE_HINT = {
+              "燒烤": ["barbecue_restaurant","korean_barbecue_restaurant"],
+              "海鮮": ["seafood_restaurant"],
+              "辣炒年糕": ["snack_bar"],
+          }
           by_cat = {}
           for key, place in candidates.items():
               by_cat.setdefault(place["cat_label"], []).append(place)
@@ -48,10 +65,17 @@ jobs:
           for cat_label, target in TARGET_NEW.items():
               rows = by_cat.get(cat_label, [])
               rows = [r for r in rows if r["cid"] not in existing_cids and r["name"] not in existing_names]
+              kws = KEYWORDS[cat_label]
+              types_hint = TYPE_HINT.get(cat_label, [])
+              def is_relevant(r):
+                  name_l = r["name"].lower()
+                  types = r.get("types") or []
+                  return any(k.lower() in name_l for k in kws) or any(t in types for t in types_hint)
+              rows = [r for r in rows if is_relevant(r)]
               ranked = sorted(rows, key=lambda p: (p["rating"], p["userRatingCount"]), reverse=True)
               picked = ranked[:target]
               selected[cat_label] = [p["name"] for p in picked]
-              print(cat_label, "picked", len(picked), "of target", target)
+              print(cat_label, "picked", len(picked), "of target", target, "(", len(rows), "topically relevant candidates available )")
           json.dump(selected, open("candidate-results/busan-cat-final-list.json", "w"), ensure_ascii=False, indent=2)
           print(json.dumps(selected, ensure_ascii=False, indent=2))
           PY
