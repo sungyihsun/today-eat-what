@@ -791,27 +791,6 @@
   ],
   "area_label": "西面"
  },
- "15530729432660848017": {
-  "place_id": "ChIJrcEZ36vraDURkS10OCI8iNc",
-  "name": "산반들 돼지국밥 서면 전포카페거리 본점",
-  "address": "南韓 Busan, Busanjin District, Jeonpo-daero 209beon-gil, 43 산반들 1층",
-  "rating": 5,
-  "userRatingCount": 59,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=15530729432660848017&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.155333,
-   "longitude": 129.0627983
-  },
-  "types": [
-   "korean_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西面"
- },
  "14227374007277619128": {
   "place_id": "ChIJYVunTGfraDURuIdonkfJccU",
   "name": "가야포차선지국밥 전포점",
@@ -823,6 +802,27 @@
   "location": {
    "latitude": 35.1609449,
    "longitude": 129.0658087
+  },
+  "types": [
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西面"
+ },
+ "15530729432660848017": {
+  "place_id": "ChIJrcEZ36vraDURkS10OCI8iNc",
+  "name": "산반들 돼지국밥 서면 전포카페거리 본점",
+  "address": "南韓 Busan, Busanjin District, Jeonpo-daero 209beon-gil, 43 산반들 1층",
+  "rating": 5,
+  "userRatingCount": 59,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=15530729432660848017&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.155333,
+   "longitude": 129.0627983
   },
   "types": [
    "korean_restaurant",
@@ -928,8 +928,8 @@
   },
   "types": [
    "cafe",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "田浦"
@@ -950,9 +950,9 @@
    "coffee_shop",
    "cafe",
    "food_store",
+   "food",
    "store",
    "point_of_interest",
-   "food",
    "establishment"
   ],
   "area_label": "田浦"
@@ -971,8 +971,8 @@
   },
   "types": [
    "cafe",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "田浦"
@@ -993,9 +993,9 @@
    "coffee_shop",
    "cafe",
    "food_store",
+   "food",
    "store",
    "point_of_interest",
-   "food",
    "establishment"
   ],
   "area_label": "田浦"
@@ -1014,8 +1014,8 @@
   },
   "types": [
    "cafe",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "田浦"
@@ -1034,8 +1034,8 @@
   },
   "types": [
    "cafe",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "田浦"
@@ -1056,9 +1056,9 @@
    "coffee_shop",
    "cafe",
    "food_store",
+   "food",
    "store",
    "point_of_interest",
-   "food",
    "establishment"
   ],
   "area_label": "田浦"
@@ -1079,9 +1079,9 @@
    "coffee_shop",
    "cafe",
    "food_store",
+   "food",
    "store",
    "point_of_interest",
-   "food",
    "establishment"
   ],
   "area_label": "田浦"
@@ -1100,8 +1100,8 @@
   },
   "types": [
    "cafe",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "田浦"
@@ -1121,8 +1121,8 @@
   "types": [
    "brunch_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "田浦"
@@ -1141,8 +1141,8 @@
   },
   "types": [
    "cafe",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "田浦"
@@ -1161,15 +1161,15 @@
   },
   "types": [
    "dessert_shop",
-   "dog_cafe",
    "coffee_shop",
-   "cafe",
-   "confectionery",
    "bakery",
+   "cafe",
+   "dog_cafe",
+   "confectionery",
    "food_store",
+   "food",
    "store",
    "point_of_interest",
-   "food",
    "establishment"
   ],
   "area_label": "田浦"
@@ -1188,8 +1188,8 @@
   },
   "types": [
    "cafe",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "田浦"
@@ -1664,9 +1664,9 @@
    "dessert_shop",
    "confectionery",
    "food_store",
+   "store",
    "restaurant",
    "food",
-   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -1769,8 +1769,8 @@
    "coffee_shop",
    "cafe",
    "food_store",
-   "food",
    "store",
+   "food",
    "point_of_interest",
    "establishment"
   ],
@@ -1812,8 +1812,8 @@
    "coffee_shop",
    "cafe",
    "food_store",
-   "food",
    "store",
+   "food",
    "point_of_interest",
    "establishment"
   ],
@@ -1856,8 +1856,8 @@
    "coffee_shop",
    "cafe",
    "food_store",
-   "food",
    "store",
+   "food",
    "point_of_interest",
    "establishment"
   ],
@@ -1877,17 +1877,17 @@
   },
   "types": [
    "brunch_restaurant",
-   "coffee_shop",
-   "cafe",
-   "sandwich_shop",
+   "dog_cafe",
    "vegan_restaurant",
    "vegetarian_restaurant",
-   "dog_cafe",
-   "korean_restaurant",
+   "sandwich_shop",
+   "coffee_shop",
+   "cafe",
    "food_store",
+   "store",
+   "korean_restaurant",
    "restaurant",
    "food",
-   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -2209,10 +2209,10 @@
   },
   "types": [
    "western_restaurant",
-   "wine_bar",
    "steak_house",
-   "bar",
+   "wine_bar",
    "burrito_restaurant",
+   "bar",
    "restaurant",
    "food",
    "point_of_interest",
@@ -2511,9 +2511,9 @@
   "types": [
    "brunch_restaurant",
    "cafeteria",
+   "sandwich_shop",
    "coffee_shop",
    "cafe",
-   "sandwich_shop",
    "food_store",
    "store",
    "restaurant",
@@ -2636,7 +2636,7 @@
   "name": "Goban Sikdang",
   "address": "540-6 U-dong, Haeundae, Busan, 南韓",
   "rating": 4.8,
-  "userRatingCount": 781,
+  "userRatingCount": 783,
   "priceLevel": "PRICE_LEVEL_MODERATE",
   "googleMapsUri": "https://maps.google.com/?cid=11974087818250730834&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
@@ -2999,7 +2999,7 @@
   "name": "조개뷰 해운대본점",
   "address": "南韓 Busan, Jung-dong, 520-1 1층 101호 KR 부산광역시 해운대구 청사포로 153",
   "rating": 4.9,
-  "userRatingCount": 2772,
+  "userRatingCount": 2773,
   "priceLevel": "PRICE_LEVEL_MODERATE",
   "googleMapsUri": "https://maps.google.com/?cid=13670694976097506784&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
@@ -3050,11 +3050,11 @@
   },
   "types": [
    "restaurant",
-   "coffee_shop",
    "ramen_restaurant",
+   "coffee_shop",
    "cafe",
-   "japanese_restaurant",
    "food_store",
+   "japanese_restaurant",
    "store",
    "food",
    "point_of_interest",
@@ -3283,8 +3283,8 @@
   },
   "types": [
    "cafe",
-   "coffee_shop",
    "coffee_roastery",
+   "coffee_shop",
    "dessert_shop",
    "confectionery",
    "food_store",
@@ -3674,8 +3674,8 @@
    "restaurant",
    "seafood_restaurant",
    "bar",
-   "korean_restaurant",
    "japanese_restaurant",
+   "korean_restaurant",
    "food",
    "point_of_interest",
    "establishment"
@@ -3851,10 +3851,10 @@
    "coffee_shop",
    "cafe",
    "food_store",
+   "store",
    "restaurant",
    "food",
    "point_of_interest",
-   "store",
    "establishment"
   ],
   "area_label": "廣安里"
@@ -3940,13 +3940,13 @@
   "types": [
    "deli",
    "snack_bar",
-   "meal_takeaway",
-   "korean_restaurant",
    "food_store",
+   "meal_takeaway",
+   "store",
+   "korean_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
-   "store",
    "establishment"
   ],
   "area_label": "廣安里"
