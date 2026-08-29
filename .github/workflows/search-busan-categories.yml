@@ -1,0 +1,69 @@
+name: Search Busan category-expansion candidates
+
+on:
+  push:
+    branches: [DEV]
+    paths:
+      - scripts/busan-trip/search_busan_categories.py
+      - scripts/busan-trip/fetch_details_busan_categories.py
+      - .github/workflows/search-busan-categories.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out DEV
+        uses: actions/checkout@v4
+        with:
+          ref: DEV
+
+      - name: Search Google Places candidates per category
+        env:
+          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+        run: |
+          test -n "$GOOGLE_PLACES_API_KEY"
+          python3 scripts/busan-trip/search_busan_categories.py
+
+      - name: Select top candidates per category and fetch details
+        env:
+          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+        run: |
+          python3 - <<'PY'
+          import json, re
+          candidates = json.load(open("candidate-results/busan-cat-candidates.json"))
+          html = open("index.html", encoding="utf-8").read()
+          existing_cids = set(re.findall(r"cid=(\d+)", html))
+          existing_names = set(re.findall(r'\{name:"((?:[^"\\]|\\.)*)"', html))
+          # how many NEW restaurants each category still needs to reach 10+
+          # (existing counts: 燒烤=4, 海鮮=3, others=0)
+          TARGET_NEW = {"燒烤": 8, "石鍋拌飯": 12, "人蔘雞湯": 12, "辣炒年糕": 12, "海鮮": 9}
+          by_cat = {}
+          for key, place in candidates.items():
+              by_cat.setdefault(place["cat_label"], []).append(place)
+          selected = {}
+          for cat_label, target in TARGET_NEW.items():
+              rows = by_cat.get(cat_label, [])
+              rows = [r for r in rows if r["cid"] not in existing_cids and r["name"] not in existing_names]
+              ranked = sorted(rows, key=lambda p: (p["rating"], p["userRatingCount"]), reverse=True)
+              picked = ranked[:target]
+              selected[cat_label] = [p["name"] for p in picked]
+              print(cat_label, "picked", len(picked), "of target", target)
+          json.dump(selected, open("candidate-results/busan-cat-final-list.json", "w"), ensure_ascii=False, indent=2)
+          print(json.dumps(selected, ensure_ascii=False, indent=2))
+          PY
+          python3 scripts/busan-trip/fetch_details_busan_categories.py
+
+      - name: Publish candidate results to DEV
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add candidate-results/busan-cat-candidates.json candidate-results/busan-cat-final-list.json candidate-results/busan-cat-details.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Publish Busan category-expansion candidates"
+          git push
