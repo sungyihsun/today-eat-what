@@ -139,6 +139,30 @@
   "cat_label": "燒烤",
   "near_hub": "西面"
  },
+ "燒烤::16230755781812132624": {
+  "place_id": "ChIJha3Wp-HraDUREJsHq2M6P-E",
+  "name": "길촌숯불갈비 서면본점",
+  "address": "南韓 Busan, Busanjin District, Dongcheon-ro 107beon-gil, 24 1층",
+  "rating": 5,
+  "userRatingCount": 352,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=16230755781812132624&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.158358299999996,
+   "longitude": 129.0609644
+  },
+  "types": [
+   "korean_barbecue_restaurant",
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "16230755781812132624",
+  "cat_label": "燒烤",
+  "near_hub": "西面"
+ },
  "燒烤::10117246667429363776": {
   "place_id": "ChIJ5RYxBXDraDURQMAhlT2uZ4w",
   "name": "서면고기집 삼겹살전문점 오십사",
@@ -1199,8 +1223,8 @@
    "longitude": 129.1184415
   },
   "types": [
-   "barbecue_restaurant",
    "korean_barbecue_restaurant",
+   "barbecue_restaurant",
    "korean_restaurant",
    "restaurant",
    "food",
@@ -1594,8 +1618,8 @@
    "restaurant",
    "yakiniku_restaurant",
    "korean_barbecue_restaurant",
-   "korean_restaurant",
    "japanese_restaurant",
+   "korean_restaurant",
    "food",
    "point_of_interest",
    "establishment"
@@ -2469,29 +2493,6 @@
   "cat_label": "石鍋拌飯",
   "near_hub": "西面"
  },
- "石鍋拌飯::7928053141731101314": {
-  "place_id": "ChIJT-ad9GTraDURgkpN6VMaBm4",
-  "name": "Gyeotjib",
-  "address": "62-8 Seojeon-ro 46beon-gil, 전포제1동 Busanjin District, Busan, 南韓",
-  "rating": 4.2,
-  "userRatingCount": 53,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=7928053141731101314&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1550436,
-   "longitude": 129.0644597
-  },
-  "types": [
-   "korean_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "7928053141731101314",
-  "cat_label": "石鍋拌飯",
-  "near_hub": "西面"
- },
  "石鍋拌飯::70209059814078904": {
   "place_id": "ChIJCWKqlcCSaDURuHk7lsRu-QA",
   "name": "Woojung's Dolsot Bibimbap",
@@ -2561,6 +2562,29 @@
   "cat_label": "石鍋拌飯",
   "near_hub": "西面"
  },
+ "石鍋拌飯::7928053141731101314": {
+  "place_id": "ChIJT-ad9GTraDURgkpN6VMaBm4",
+  "name": "Gyeotjib",
+  "address": "62-8 Seojeon-ro 46beon-gil, 전포제1동 Busanjin District, Busan, 南韓",
+  "rating": 4.2,
+  "userRatingCount": 53,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=7928053141731101314&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1550436,
+   "longitude": 129.0644597
+  },
+  "types": [
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "7928053141731101314",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "西面"
+ },
  "石鍋拌飯::5638028865469876322": {
   "place_id": "ChIJd13rH-TtaDURYgi7r2FNPk4",
   "name": "bibijae",
@@ -2597,13 +2621,13 @@
   },
   "types": [
    "korean_restaurant",
-   "dessert_shop",
    "cafe",
+   "dessert_shop",
    "confectionery",
    "food_store",
-   "store",
    "restaurant",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -2832,8 +2856,8 @@
   "types": [
    "korean_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "9755309407767772535",
@@ -2855,8 +2879,8 @@
   "types": [
    "korean_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "12740866053344763899",
@@ -2953,29 +2977,6 @@
   "cat_label": "石鍋拌飯",
   "near_hub": "海雲台"
  },
- "石鍋拌飯::3769547463163991290": {
-  "place_id": "ChIJszae7uyTaDUR-lTdIXIfUDQ",
-  "name": "Gyeotjib",
-  "address": "254 Geumgang-ro, Geumjeong-gu, Busan, 南韓",
-  "rating": 4.6,
-  "userRatingCount": 108,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=3769547463163991290&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.2306607,
-   "longitude": 129.0850059
-  },
-  "types": [
-   "korean_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "3769547463163991290",
-  "cat_label": "石鍋拌飯",
-  "near_hub": "海雲台"
- },
  "石鍋拌飯::12460242285377589536": {
   "place_id": "ChIJ6-kqY_rsaDURIJE7Y1es66w",
   "name": "Gyeotjib",
@@ -2991,8 +2992,8 @@
   "types": [
    "korean_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "12460242285377589536",
@@ -3062,6 +3063,1491 @@
    "establishment"
   ],
   "cid": "18145625375819369812",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "東萊"
+ },
+ "石鍋拌飯::13937202982885982779": {
+  "place_id": "ChIJsxMARSXraDUROwJvPUXkasE",
+  "name": "천지를먹다 서면부전본점 (Cheonjireulmeokda / チョンジルモッタ, 天地を食べる)",
+  "address": "南韓 Busan, Busanjin District, Jeonpo-dong, 878-20 천지를먹다 1층",
+  "rating": 4.9,
+  "userRatingCount": 95,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=13937202982885982779&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1610191,
+   "longitude": 129.0629234
+  },
+  "types": [
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "13937202982885982779",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "西面"
+ },
+ "石鍋拌飯::10158961424367665485": {
+  "place_id": "ChIJO1BuRQPraDURTcFUSpfh-4w",
+  "name": "牛長刻 西面本店",
+  "address": "4-1 Dongcheon-ro 95beon-gil, Busanjin District, Busan, 南韓",
+  "rating": 4.9,
+  "userRatingCount": 283,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=10158961424367665485&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1573311,
+   "longitude": 129.0620265
+  },
+  "types": [
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "10158961424367665485",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "西面"
+ },
+ "石鍋拌飯::9359965656297699579": {
+  "place_id": "ChIJQZoYtOXraDUR-_h6VSxH5YE",
+  "name": "향택 부산전포점",
+  "address": "南韓 Busan, Busanjin District, Seojeon-ro, 42-1 1층",
+  "rating": 5,
+  "userRatingCount": 110,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=9359965656297699579&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.157635299999995,
+   "longitude": 129.0644433
+  },
+  "types": [
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "9359965656297699579",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "西面"
+ },
+ "石鍋拌飯::367158063099737634": {
+  "place_id": "ChIJy3rW6mTraDURIvZ6J1BoGAU",
+  "name": "金星會館 釜山西面店 釜山烤肉",
+  "address": "9 Dongcheon-ro 95beon-gil, Busanjin District, Busan, 南韓",
+  "rating": 5,
+  "userRatingCount": 432,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=367158063099737634&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.157142799999995,
+   "longitude": 129.061725
+  },
+  "types": [
+   "korean_barbecue_restaurant",
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "367158063099737634",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "西面"
+ },
+ "石鍋拌飯::3171132724244278711": {
+  "place_id": "ChIJWToAOQXraDURt20yTGkgAiw",
+  "name": "老宅邸 燒肉",
+  "address": "南韓 Busan, Busanjin District, Jeonpo-daero 209beon-gil, 17-6 1층",
+  "rating": 4.9,
+  "userRatingCount": 996,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=3171132724244278711&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1551648,
+   "longitude": 129.06448899999998
+  },
+  "types": [
+   "korean_barbecue_restaurant",
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "3171132724244278711",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "西面"
+ },
+ "石鍋拌飯::7727306963624625793": {
+  "place_id": "ChIJp0JgsmvraDURgYY_Db7oPGs",
+  "name": "육회장 서면직영점",
+  "address": "南韓 Busan, Busanjin District, Jungang-daero 691beonga-gil, 14-5 육회장 서면직영점",
+  "rating": 4.8,
+  "userRatingCount": 33,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=7727306963624625793&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1550347,
+   "longitude": 129.05599859999998
+  },
+  "types": [
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "7727306963624625793",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "西面"
+ },
+ "石鍋拌飯::4507368035083465275": {
+  "place_id": "ChIJAV_gv2TraDURO7IZy1hjjT4",
+  "name": "시온의대로 Sion-ui Daero Korean restaurant | 釜山 グルメ | 韓国料理",
+  "address": "南韓 Busan, Busanjin District, Seojeon-ro 38beon-gil, 82-8 2층",
+  "rating": 4.9,
+  "userRatingCount": 35,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=4507368035083465275&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.154101499999996,
+   "longitude": 129.0634658
+  },
+  "types": [
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "4507368035083465275",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "西面"
+ },
+ "石鍋拌飯::4705049508156979444": {
+  "place_id": "ChIJqaLosN7raDUR9LhSaJmxS0E",
+  "name": "Sojei",
+  "address": "25-4 Jungang-daero 691beonga-gil, Busanjin District, Busan, 南韓",
+  "rating": 4.9,
+  "userRatingCount": 240,
+  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=4705049508156979444&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1554573,
+   "longitude": 129.0552956
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "4705049508156979444",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "西面"
+ },
+ "石鍋拌飯::7022111358918232842": {
+  "place_id": "ChIJhQCMU2nraDURCouOgRONc2E",
+  "name": "Bujebi",
+  "address": "南韓 Busan, Busanjin District, Seojeon-ro 38beon-gil, 43-3 1층",
+  "rating": 4.9,
+  "userRatingCount": 213,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=7022111358918232842&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.155848399999996,
+   "longitude": 129.0641086
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "7022111358918232842",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "西面"
+ },
+ "石鍋拌飯::17129658857681416828": {
+  "place_id": "ChIJO_oksyjraDURfHK5Z_nFuO0",
+  "name": "水剌飯店 西面店",
+  "address": "42-1 Seomyeonmunhwa-ro, Busanjin District, Busan, 南韓",
+  "rating": 5,
+  "userRatingCount": 170,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=17129658857681416828&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1609512,
+   "longitude": 129.0557861
+  },
+  "types": [
+   "chinese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "17129658857681416828",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "西面"
+ },
+ "石鍋拌飯::1481338334105186084": {
+  "place_id": "ChIJKZqiNUDraDURJC-CzF3FjhQ",
+  "name": "Jeongpanseon",
+  "address": "11 Jeonpo-daero 224beon-gil, Busanjin District, Busan, 南韓",
+  "rating": 4.9,
+  "userRatingCount": 142,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=1481338334105186084&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.15662,
+   "longitude": 129.0662198
+  },
+  "types": [
+   "bar",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "1481338334105186084",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "西面"
+ },
+ "石鍋拌飯::14186414599019049380": {
+  "place_id": "ChIJwdjaD5braDURpDHyOupE4MQ",
+  "name": "오성가든",
+  "address": "14-6 Dongcheon-ro 85beon-gil, Bujeon-dong, Busanjin District, Busan, 南韓",
+  "rating": 4.7,
+  "userRatingCount": 98,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=14186414599019049380&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.156577899999995,
+   "longitude": 129.06157
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "14186414599019049380",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "西面"
+ },
+ "石鍋拌飯::11028444287509962552": {
+  "place_id": "ChIJ94qbbgDpaDUROJ839qXnDJk",
+  "name": "Jeonghee LOTTE Gwangbok",
+  "address": "南韓 Busan, Jung-gu, Jungang-daero, 2 롯데백화점 광복점 본관 10F",
+  "rating": 4.8,
+  "userRatingCount": 483,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=11028444287509962552&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.0981871,
+   "longitude": 129.0366183
+  },
+  "types": [
+   "korean_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "cid": "11028444287509962552",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "南浦洞"
+ },
+ "石鍋拌飯::8973995724917575996": {
+  "place_id": "ChIJZ8I2czfpaDURPBGWx5AJinw",
+  "name": "Yugsomun",
+  "address": "南韓 Busan, Jung-gu, Gwangbok-ro 85beon-gil, 15 1 층",
+  "rating": 4.8,
+  "userRatingCount": 94,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=8973995724917575996&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.0996835,
+   "longitude": 129.0346063
+  },
+  "types": [
+   "bar",
+   "korean_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "cid": "8973995724917575996",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "南浦洞"
+ },
+ "石鍋拌飯::4879954612729594274": {
+  "place_id": "ChIJKSAmIQLpaDURosHGe90UuUM",
+  "name": "밥장인 부산중앙점",
+  "address": "南韓 Busan, Jung-gu, Jungang-dong 4(sa)-ga, 53-34 1층",
+  "rating": 5,
+  "userRatingCount": 47,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=4879954612729594274&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1053802,
+   "longitude": 129.0356498
+  },
+  "types": [
+   "korean_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "cid": "4879954612729594274",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "南浦洞"
+ },
+ "石鍋拌飯::3247389038432010011": {
+  "place_id": "ChIJlUSEfFPpaDURG788AyALES0",
+  "name": "야키니쿠 객 Yakiniku Gaek",
+  "address": "17 Gwangbok-ro, Jung-gu, Busan, 南韓",
+  "rating": 4.9,
+  "userRatingCount": 459,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=3247389038432010011&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.0995732,
+   "longitude": 129.0269427
+  },
+  "types": [
+   "korean_barbecue_restaurant",
+   "yakiniku_restaurant",
+   "japanese_restaurant",
+   "korean_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "cid": "3247389038432010011",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "南浦洞"
+ },
+ "石鍋拌飯::3331629671417579216": {
+  "place_id": "ChIJYbuAvaHpaDUR0Ab_z4hTPC4",
+  "name": "Sejong",
+  "address": "45 Junggu-ro 33beon-gil, Jung-gu, Busan, 南韓",
+  "rating": 4.3,
+  "userRatingCount": 417,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=3331629671417579216&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1008932,
+   "longitude": 129.0254896
+  },
+  "types": [
+   "noodle_shop",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "cid": "3331629671417579216",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "南浦洞"
+ },
+ "石鍋拌飯::4133443128971992195": {
+  "place_id": "ChIJ7Q1ZEADpaDURg5ynOaDwXDk",
+  "name": "Dammiok",
+  "address": "82-1 1 Haegwan-ro, Jung-gu, Busan, 南韓",
+  "rating": 4.2,
+  "userRatingCount": 156,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=4133443128971992195&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1062632,
+   "longitude": 129.0355835
+  },
+  "types": [
+   "korean_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "cid": "4133443128971992195",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "南浦洞"
+ },
+ "石鍋拌飯::14246162389179799077": {
+  "place_id": "ChIJneur8J_paDURJZaXqzaJtMU",
+  "name": "아즈매부엌",
+  "address": "25-1 Gwangbok-ro 35beon-gil, Jung-gu, Busan, 南韓",
+  "rating": 5,
+  "userRatingCount": 33,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=14246162389179799077&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1015714,
+   "longitude": 129.02874789999998
+  },
+  "types": [
+   "diner",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "cid": "14246162389179799077",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "南浦洞"
+ },
+ "石鍋拌飯::8123927690370140805": {
+  "place_id": "ChIJy2Tt_KHpaDURhcp4JTH9vXA",
+  "name": "미친막창 (Korean BBQ restaurant / 密亲烤腸 / クレイジーホルモン)",
+  "address": "南韓 Busan, Jung-gu, 광복로 16-2 미친막창(疯狂烤腸 1층",
+  "rating": 4.7,
+  "userRatingCount": 164,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=8123927690370140805&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.099410299999995,
+   "longitude": 129.0269138
+  },
+  "types": [
+   "korean_barbecue_restaurant",
+   "barbecue_restaurant",
+   "korean_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "cid": "8123927690370140805",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "南浦洞"
+ },
+ "石鍋拌飯::14094295905976597194": {
+  "place_id": "ChIJm7_8p6HpaDURyjr6onP_mMM",
+  "name": "烤肉的男子 南浦店",
+  "address": "3-1 Gwangbok-ro 6beon-gil, Jung-gu, Busan, 南韓",
+  "rating": 4.7,
+  "userRatingCount": 475,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=14094295905976597194&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.099216,
+   "longitude": 129.0257862
+  },
+  "types": [
+   "korean_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "cid": "14094295905976597194",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "南浦洞"
+ },
+ "石鍋拌飯::9095305668357545745": {
+  "place_id": "ChIJ5bYRSgCNaDUREV8M_lAEOX4",
+  "name": "조선대가곰탕 해운대미포점",
+  "address": "南韓 Busan, Haeundae, Dalmaji-gil 62beon-gil, 9-1 1층",
+  "rating": 4.9,
+  "userRatingCount": 560,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=9095305668357545745&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.160292399999996,
+   "longitude": 129.1711451
+  },
+  "types": [
+   "korean_restaurant",
+   "breakfast_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "9095305668357545745",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "海雲台"
+ },
+ "石鍋拌飯::5800783066506445673": {
+  "place_id": "ChIJr42X_KGNaDURacM3EneFgFA",
+  "name": "Jinwoorin Haejang",
+  "address": "南韓 Busan, Haeundae, Jungdong 1-ro, 44 1층",
+  "rating": 4.7,
+  "userRatingCount": 368,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=5800783066506445673&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.161889300000006,
+   "longitude": 129.1633981
+  },
+  "types": [
+   "korean_barbecue_restaurant",
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "5800783066506445673",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "海雲台"
+ },
+ "石鍋拌飯::2675860398727765770": {
+  "place_id": "ChIJ5ShFWQCNaDURCh-09tqQIiU",
+  "name": "Gunamroast",
+  "address": "南韓 Busan, Haeundae, U-dong, 번지 1층 540-4 1호 팔레스오피스텔",
+  "rating": 4.9,
+  "userRatingCount": 2512,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=2675860398727765770&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1624974,
+   "longitude": 129.1589156
+  },
+  "types": [
+   "korean_barbecue_restaurant",
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "2675860398727765770",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "海雲台"
+ },
+ "石鍋拌飯::2084026366521743202": {
+  "place_id": "ChIJ6ScUaF-NaDURYpcTT_Dy6xw",
+  "name": "iljojip korean seafood Restaurant",
+  "address": "南韓 Busan, Haeundae, Dalmaji-gil 62beon-gil, 55 2층",
+  "rating": 4.9,
+  "userRatingCount": 57,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=2084026366521743202&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1574448,
+   "longitude": 129.1729277
+  },
+  "types": [
+   "seafood_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "2084026366521743202",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "海雲台"
+ },
+ "石鍋拌飯::17091789182164976991": {
+  "place_id": "ChIJJRnObj2NaDURX8XOerQ7Mu0",
+  "name": "小香牛肋排",
+  "address": "南韓 Busan, Haeundae, Udong 1-ro 20beon-gil, 29 2층",
+  "rating": 4.9,
+  "userRatingCount": 599,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=17091789182164976991&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1645148,
+   "longitude": 129.15809579999998
+  },
+  "types": [
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "17091789182164976991",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "海雲台"
+ },
+ "石鍋拌飯::10029867117233323471": {
+  "place_id": "ChIJIZ6GbACTaDURzz0QqwA_MYs",
+  "name": "부엌간 차이니즈 마린시티점",
+  "address": "51 Marine city 3-ro, Haeundae, Busan, 南韓",
+  "rating": 4.9,
+  "userRatingCount": 509,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=10029867117233323471&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1539041,
+   "longitude": 129.1468557
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "10029867117233323471",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "海雲台"
+ },
+ "石鍋拌飯::14337402450682960169": {
+  "place_id": "ChIJqW8hCACNaDURKdnF6pCv-MY",
+  "name": "Haeundae Eoga Hoetjip (Sashimi Restaurant)",
+  "address": "南韓 Busan, Haeundae, Jungdong 2-ro, 22 1층",
+  "rating": 4.8,
+  "userRatingCount": 72,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=14337402450682960169&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1642942,
+   "longitude": 129.1636436
+  },
+  "types": [
+   "seafood_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "14337402450682960169",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "海雲台"
+ },
+ "石鍋拌飯::15866232649887315931": {
+  "place_id": "ChIJwVLQCgCNaDUR2_c8PIguMNw",
+  "name": "Dondok",
+  "address": "南韓 Busan, Haeundae, Dalmaji-gil 62beon-gil, 55 4층",
+  "rating": 5,
+  "userRatingCount": 166,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=15866232649887315931&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1574448,
+   "longitude": 129.1729277
+  },
+  "types": [
+   "barbecue_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "15866232649887315931",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "海雲台"
+ },
+ "石鍋拌飯::9275789654280918654": {
+  "place_id": "ChIJuSEzSgCNaDURflaomos5uoA",
+  "name": "Taiga Tempura & Matsudo",
+  "address": "49 2F Dalmaji-gil 62beon-gil, Haeundae, Busan, 南韓",
+  "rating": 5,
+  "userRatingCount": 88,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=9275789654280918654&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.157936299999996,
+   "longitude": 129.17269
+  },
+  "types": [
+   "japanese_restaurant",
+   "chicken_restaurant",
+   "tonkatsu_restaurant",
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "9275789654280918654",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "海雲台"
+ },
+ "石鍋拌飯::14505120663618307881": {
+  "place_id": "ChIJp2XSIQDtaDURKcclY2SKTMk",
+  "name": "광안제일분식",
+  "address": "77 Suyeong-ro 540beon-gil, Suyeong-gu, Busan, 南韓",
+  "rating": 4.8,
+  "userRatingCount": 135,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=14505120663618307881&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.153224300000005,
+   "longitude": 129.1163733
+  },
+  "types": [
+   "deli",
+   "snack_bar",
+   "food_store",
+   "meal_takeaway",
+   "store",
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "14505120663618307881",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "廣安里"
+ },
+ "石鍋拌飯::3211767313530085325": {
+  "place_id": "ChIJn-f_NQDtaDURzd8r4Fp9kiw",
+  "name": "용한우 남천점",
+  "address": "52 Namcheondong-ro 9beon-gil, Suyeong-gu, Busan, 南韓",
+  "rating": 5,
+  "userRatingCount": 76,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=3211767313530085325&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.144778599999995,
+   "longitude": 129.11127299999998
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "3211767313530085325",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "廣安里"
+ },
+ "石鍋拌飯::9273590257478906489": {
+  "place_id": "ChIJ3eEMllLtaDURebKNoTRpsoA",
+  "name": "게방식당 부산점",
+  "address": "南韓 Busan, Suyeong-gu, Suyeong-ro 464beon-gil, 20 1층",
+  "rating": 5,
+  "userRatingCount": 36,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=9273590257478906489&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1469477,
+   "longitude": 129.1112602
+  },
+  "types": [
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "9273590257478906489",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "廣安里"
+ },
+ "石鍋拌飯::1230476019841631926": {
+  "place_id": "ChIJ2XY74BLtaDURtgZMs2uHExE",
+  "name": "Sukseongdo Gwangalli",
+  "address": "289 Gwanganhaebyeon-ro, Suyeong-gu, Busan, 南韓",
+  "rating": 4.8,
+  "userRatingCount": 99,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=1230476019841631926&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1564204,
+   "longitude": 129.1251517
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "1230476019841631926",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "廣安里"
+ },
+ "石鍋拌飯::2507928088498275240": {
+  "place_id": "ChIJA1XCrKXtaDURqAMqFU_zzSI",
+  "name": "Gyeongseong Yuk Hoegwan",
+  "address": "南韓 Busan, Suyeong-gu, Millak-ro 14beon-gil, 6 1층",
+  "rating": 4.8,
+  "userRatingCount": 57,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=2507928088498275240&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1567951,
+   "longitude": 129.1227716
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "2507928088498275240",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "廣安里"
+ },
+ "石鍋拌飯::1049376725531588184": {
+  "place_id": "ChIJtSjQHADtaDURWHbfcJIikA4",
+  "name": "Seolidan",
+  "address": "181-16 Millak-dong, Suyeong-gu, Busan, 南韓",
+  "rating": 4.9,
+  "userRatingCount": 91,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=1049376725531588184&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1563886,
+   "longitude": 129.1246841
+  },
+  "types": [
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "1049376725531588184",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "廣安里"
+ },
+ "石鍋拌飯::6983421181172250488": {
+  "place_id": "ChIJ5VMEVADtaDURePe1hJAY6mA",
+  "name": "마초스테이크 부산직영점",
+  "address": "南韓 Busan, Suyeong-gu, Gwangnam-ro, 144 동산오차드힐 105~108호",
+  "rating": 4.9,
+  "userRatingCount": 555,
+  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=6983421181172250488&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1540908,
+   "longitude": 129.11774649999998
+  },
+  "types": [
+   "steak_house",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "6983421181172250488",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "廣安里"
+ },
+ "石鍋拌飯::4532593715628042172": {
+  "place_id": "ChIJfzcxIxWTaDURvGctO_gB5z4",
+  "name": "소담한우한돈",
+  "address": "南韓 Busan, Suyeong-gu, Muhak-ro 10beon-gil, 27 1 층",
+  "rating": 4.8,
+  "userRatingCount": 37,
+  "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=4532593715628042172&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.16058770000001,
+   "longitude": 129.11473569999998
+  },
+  "types": [
+   "korean_barbecue_restaurant",
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "4532593715628042172",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "廣安里"
+ },
+ "石鍋拌飯::7133727677435534663": {
+  "place_id": "ChIJ7-kSQZjtaDURR93qyYYXAGM",
+  "name": "Gwanganmok",
+  "address": "南韓 Busan, Suyeong-gu, Gwangnam-ro, 156 1 층",
+  "rating": 4.7,
+  "userRatingCount": 325,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=7133727677435534663&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1549908,
+   "longitude": 129.1184415
+  },
+  "types": [
+   "korean_barbecue_restaurant",
+   "barbecue_restaurant",
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "7133727677435534663",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "廣安里"
+ },
+ "石鍋拌飯::3243488094710040063": {
+  "place_id": "ChIJVSzN_4jtaDUR_4VmxjwvAy0",
+  "name": "1953형제돼지국밥 광안리",
+  "address": "南韓 Busan, Suyeong-gu, Namcheonbada-ro, 17 1층",
+  "rating": 4.8,
+  "userRatingCount": 109,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=3243488094710040063&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1496169,
+   "longitude": 129.1126085
+  },
+  "types": [
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "3243488094710040063",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "廣安里"
+ },
+ "石鍋拌飯::15743015383176422515": {
+  "place_id": "ChIJjXcyIb7taDURc6S9txRteto",
+  "name": "漢月館",
+  "address": "南韓 Busan, Suyeong-gu, Gwangan-ro 62beon-gil, 10 1층",
+  "rating": 4.7,
+  "userRatingCount": 256,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=15743015383176422515&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.154691199999995,
+   "longitude": 129.1185433
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "15743015383176422515",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "廣安里"
+ },
+ "石鍋拌飯::460704491504889282": {
+  "place_id": "ChIJoSzUO7WTaDURwm2TSkvAZAY",
+  "name": "모시모시 롯데백화점 동래점",
+  "address": "南韓 Busan, Dongnae-gu, Jungang-daero, 1393 8층",
+  "rating": 5,
+  "userRatingCount": 67,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=460704491504889282&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.2118021,
+   "longitude": 129.0774473
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "460704491504889282",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "東萊"
+ },
+ "石鍋拌飯::8750825556274708097": {
+  "place_id": "ChIJf1hEzh-TaDURgf4pxXotcXk",
+  "name": "부산참치상회",
+  "address": "南韓 Busan, Dongnae-gu, Myeongnyun-ro 117beon-gil, 25 1 층",
+  "rating": 4.8,
+  "userRatingCount": 41,
+  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=8750825556274708097&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.2036203,
+   "longitude": 129.0821239
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "8750825556274708097",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "東萊"
+ },
+ "石鍋拌飯::3545534095828942861": {
+  "place_id": "ChIJm8acYfjtaDURDYDroHlENDE",
+  "name": "반전식당",
+  "address": "61-2 Yeonsu-ro, Yeonsan-dong, Yeonje-gu, Busan, 南韓",
+  "rating": 4.9,
+  "userRatingCount": 48,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=3545534095828942861&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.175578099999996,
+   "longitude": 129.0777089
+  },
+  "types": [
+   "bar",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "3545534095828942861",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "東萊"
+ },
+ "石鍋拌飯::8289334239333577496": {
+  "place_id": "ChIJ-aHfvayTaDURGPP1Z5KhCXM",
+  "name": "제주옥탑 부산시청점",
+  "address": "108 Geojecheon-ro, Yeonje-gu, Busan, 南韓",
+  "rating": 4.6,
+  "userRatingCount": 30,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=8289334239333577496&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1835513,
+   "longitude": 129.0743991
+  },
+  "types": [
+   "korean_barbecue_restaurant",
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "8289334239333577496",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "東萊"
+ },
+ "石鍋拌飯::8754726786153288551": {
+  "place_id": "ChIJc6DM8SyTaDURZ5NDoqAJf3k",
+  "name": "Ham-Yang-Ga",
+  "address": "南韓 Busan, Yeonje-gu, 연산제5동 1503-1",
+  "rating": 4.6,
+  "userRatingCount": 31,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=8754726786153288551&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1828369,
+   "longitude": 129.0747311
+  },
+  "types": [
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "8754726786153288551",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "東萊"
+ },
+ "石鍋拌飯::16265513701305674508": {
+  "place_id": "ChIJdUW-O2zraDURDOuSb4i2uuE",
+  "name": "손규미왕김밥 부전동점",
+  "address": "109-1 Bujeon-ro, Busanjin District, Busan, 南韓",
+  "rating": 4.1,
+  "userRatingCount": 50,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=16265513701305674508&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1598928,
+   "longitude": 129.05456379999998
+  },
+  "types": [
+   "snack_bar",
+   "meal_takeaway",
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "16265513701305674508",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "西面"
+ },
+ "石鍋拌飯::7149294957197461769": {
+  "place_id": "ChIJgczeRavraDURCQk_juJlN2M",
+  "name": "Wonhwarang",
+  "address": "21 Jeonpo-daero 246beon-gil, Busanjin District, Busan, 南韓",
+  "rating": 4.8,
+  "userRatingCount": 98,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=7149294957197461769&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1586865,
+   "longitude": 129.0667428
+  },
+  "types": [
+   "bar",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "7149294957197461769",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "西面"
+ },
+ "石鍋拌飯::5253411358868491497": {
+  "place_id": "ChIJq1AgVwDraDUR6cxbEMzd50g",
+  "name": "본죽&비빔밥 부산서면영광도서점",
+  "address": "南韓 Busan, Busanjin District, Seomyeonmunhwa-ro, 9 2층",
+  "rating": 4.2,
+  "userRatingCount": 118,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=5253411358868491497&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1584579,
+   "longitude": 129.0574758
+  },
+  "types": [
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "5253411358868491497",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "西面"
+ },
+ "石鍋拌飯::9123594878137346380": {
+  "place_id": "ChIJobdtYFPraDURTCnz6TOFnX4",
+  "name": "우미남 서면점 WOOMINAM KOREAN BBQ",
+  "address": "34 Bujeon-ro, Busanjin District, Busan, 南韓",
+  "rating": 4.7,
+  "userRatingCount": 43,
+  "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=9123594878137346380&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1533371,
+   "longitude": 129.0566828
+  },
+  "types": [
+   "barbecue_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "9123594878137346380",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "西面"
+ },
+ "石鍋拌飯::4144340782437376152": {
+  "place_id": "ChIJH3QRTpvraDURmCBY5fungzk",
+  "name": "하누소뒷고기 범일점",
+  "address": "南韓 Busan, Dong-gu, Jobang-ro 49beon-gil, 9 1층",
+  "rating": 4.8,
+  "userRatingCount": 111,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=4144340782437376152&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.139934499999995,
+   "longitude": 129.0602613
+  },
+  "types": [
+   "barbecue_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "4144340782437376152",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "西面"
+ },
+ "石鍋拌飯::10436072927185156739": {
+  "place_id": "ChIJSbuUX2XraDURgzrx2ghh1JA",
+  "name": "Hwajeon Guksu",
+  "address": "17-2 Jungang-daero 702beon-gil, Busanjin District, Busan, 南韓",
+  "rating": 4.3,
+  "userRatingCount": 318,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=10436072927185156739&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.155560099999995,
+   "longitude": 129.0602441
+  },
+  "types": [
+   "noodle_shop",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "10436072927185156739",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "西面"
+ },
+ "石鍋拌飯::4840103329247055102": {
+  "place_id": "ChIJTcIvKnDraDUR_sz0f1WAK0M",
+  "name": "하연정순두부 부산본점",
+  "address": "南韓 Busan, Busanjin District, Seomyeon-ro 68beon-gil, 35 2층",
+  "rating": 4.1,
+  "userRatingCount": 111,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=4840103329247055102&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1554473,
+   "longitude": 129.05850859999998
+  },
+  "types": [
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "4840103329247055102",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "西面"
+ },
+ "石鍋拌飯::8697088315469515911": {
+  "place_id": "ChIJu68klmXraDURh8zCZ75Dsng",
+  "name": "소새끼육회와 육사시미",
+  "address": "5 Dongcheon-ro 95beon-gil, Busanjin District, Busan, 南韓",
+  "rating": 4.2,
+  "userRatingCount": 62,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=8697088315469515911&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1572045,
+   "longitude": 129.0619537
+  },
+  "types": [
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "8697088315469515911",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "西面"
+ },
+ "石鍋拌飯::13880626223509281988": {
+  "place_id": "ChIJEyIlEifraDURxBw-8AHkocA",
+  "name": "동방축산 서면점",
+  "address": "60 Jungang-daero 691beon-gil, Busanjin District, Busan, 南韓",
+  "rating": 4.3,
+  "userRatingCount": 138,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=13880626223509281988&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1545886,
+   "longitude": 129.055679
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "13880626223509281988",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "西面"
+ },
+ "石鍋拌飯::13289423793130261643": {
+  "place_id": "ChIJX3B1uQrpaDURi0wni4eEbbg",
+  "name": "鐘閣家",
+  "address": "7 Gwangbok-ro 49beon-gil, Jung-gu, Busan, 南韓",
+  "rating": 4.3,
+  "userRatingCount": 363,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=13289423793130261643&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.099844399999995,
+   "longitude": 129.0305316
+  },
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "13289423793130261643",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "南浦洞"
+ },
+ "石鍋拌飯::11605499535107938986": {
+  "place_id": "ChIJW6phAFCNaDURqtoRr1YED6E",
+  "name": "藍絲帶烤豬肉",
+  "address": "南韓 Busan, Haeundae, Jwadongsunhwan-ro, 395 1 층 105, 106 107, 108호",
+  "rating": 4.9,
+  "userRatingCount": 925,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=11605499535107938986&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.162179,
+   "longitude": 129.17734529999998
+  },
+  "types": [
+   "barbecue_restaurant",
+   "korean_barbecue_restaurant",
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "11605499535107938986",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "海雲台"
+ },
+ "石鍋拌飯::15933240702828167889": {
+  "place_id": "ChIJR2UKvpGNaDUR0ULeVAA-Ht0",
+  "name": "韓式烤肉",
+  "address": "293 Haeundaehaebyeon-ro, Haeundae, Busan, 南韓",
+  "rating": 4.2,
+  "userRatingCount": 173,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=15933240702828167889&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1609404,
+   "longitude": 129.1626322
+  },
+  "types": [
+   "korean_barbecue_restaurant",
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "15933240702828167889",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "海雲台"
+ },
+ "石鍋拌飯::6851378232758409995": {
+  "place_id": "ChIJGT-XdWuNaDURC5to2TP8FF8",
+  "name": "달맞이국수집",
+  "address": "9 Jwadongsunhwan-ro 446beon-gil, Haeundae, Busan, 南韓",
+  "rating": 4.6,
+  "userRatingCount": 116,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=6851378232758409995&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.162003,
+   "longitude": 129.1725286
+  },
+  "types": [
+   "noodle_shop",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "6851378232758409995",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "海雲台"
+ },
+ "石鍋拌飯::4883636000836709039": {
+  "place_id": "ChIJc0WSOSjtaDURr2ouchEpxkM",
+  "name": "부센동 광안리본점",
+  "address": "南韓 Busan, Suyeong-gu, Suyeong-ro 588beon-gil, 7 협성엠파이어2 1층",
+  "rating": 4.4,
+  "userRatingCount": 199,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=4883636000836709039&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1583527,
+   "longitude": 129.11364319999998
+  },
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "4883636000836709039",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "廣安里"
+ },
+ "石鍋拌飯::4230986634105695351": {
+  "place_id": "ChIJCQnTGQDtaDURd6xLT-17tzo",
+  "name": "烤肉的男子 廣安里",
+  "address": "44 Gwangnam-ro, Suyeong-gu, Busan, 南韓",
+  "rating": 4.6,
+  "userRatingCount": 72,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=4230986634105695351&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1465142,
+   "longitude": 129.111888
+  },
+  "types": [
+   "korean_barbecue_restaurant",
+   "barbecue_restaurant",
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "4230986634105695351",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "廣安里"
+ },
+ "石鍋拌飯::4454203345990744962": {
+  "place_id": "ChIJu1xU0cCTaDURgnsiA1iC0D0",
+  "name": "고기굽는남자 연산점",
+  "address": "590-98 Yeonsan-dong, Yeonje-gu, Busan, 南韓",
+  "rating": 4.7,
+  "userRatingCount": 59,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=4454203345990744962&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.187352499999996,
+   "longitude": 129.0851471
+  },
+  "types": [
+   "barbecue_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "4454203345990744962",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "東萊"
+ },
+ "石鍋拌飯::4661358696810262407": {
+  "place_id": "ChIJs0tEcgCTaDURh68Nrgl5sEA",
+  "name": "연산할매국수",
+  "address": "1039 Jungang-daero, Yeonje-gu, Busan, 南韓",
+  "rating": 4.3,
+  "userRatingCount": 235,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=4661358696810262407&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.181415799999996,
+   "longitude": 129.0776567
+  },
+  "types": [
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "4661358696810262407",
+  "cat_label": "石鍋拌飯",
+  "near_hub": "東萊"
+ },
+ "石鍋拌飯::1408610077268617000": {
+  "place_id": "ChIJNQWSewWTaDURKKeh8mZjjBM",
+  "name": "영남식육식당 명품관 안락점",
+  "address": "406 Chungnyeol-daero, Dongnae-gu, Busan, 南韓",
+  "rating": 4.1,
+  "userRatingCount": 633,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=1408610077268617000&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1963788,
+   "longitude": 129.1027212
+  },
+  "types": [
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "1408610077268617000",
   "cat_label": "石鍋拌飯",
   "near_hub": "東萊"
  },
@@ -3987,8 +5473,8 @@
   },
   "types": [
    "snack_bar",
-   "bar",
    "meal_takeaway",
+   "bar",
    "korean_restaurant",
    "restaurant",
    "food",
@@ -4088,8 +5574,8 @@
    "longitude": 129.02597599999999
   },
   "types": [
-   "halal_restaurant",
    "chicken_restaurant",
+   "halal_restaurant",
    "meal_takeaway",
    "restaurant",
    "food",
@@ -4350,8 +5836,8 @@
    "brunch_restaurant",
    "australian_restaurant",
    "coffee_shop",
-   "cafe",
    "dessert_shop",
+   "cafe",
    "confectionery",
    "food_store",
    "store",
@@ -4426,8 +5912,8 @@
   "types": [
    "deli",
    "snack_bar",
-   "food_store",
    "meal_takeaway",
+   "food_store",
    "store",
    "korean_restaurant",
    "restaurant",
@@ -4551,9 +6037,9 @@
   "types": [
    "chicken_restaurant",
    "korean_barbecue_restaurant",
-   "barbecue_restaurant",
    "meal_delivery",
    "food_delivery",
+   "barbecue_restaurant",
    "korean_restaurant",
    "restaurant",
    "food",
@@ -5082,8 +6568,8 @@
   "types": [
    "seafood_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "6512462544367295778",
@@ -5106,8 +6592,8 @@
    "seafood_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "8512570337217654968",
@@ -5129,8 +6615,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "3796359797418809938",
@@ -5152,8 +6638,8 @@
   "types": [
    "seafood_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "867908810615384400",
@@ -5174,8 +6660,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "14125112761721505052",
@@ -5197,8 +6683,8 @@
   "types": [
    "seafood_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "699894792300972959",
@@ -5220,8 +6706,8 @@
   "types": [
    "seafood_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "4281878502708859547",
@@ -5242,8 +6728,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "6710894385280184457",
@@ -5264,11 +6750,11 @@
   },
   "types": [
    "seafood_restaurant",
-   "japanese_restaurant",
    "korean_restaurant",
+   "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "17635791813542083348",
@@ -5290,8 +6776,8 @@
   "types": [
    "seafood_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "7172780174509696641",
@@ -5313,8 +6799,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "12918993305092746982",
@@ -5498,8 +6984,8 @@
    "food_store",
    "restaurant",
    "food",
-   "point_of_interest",
    "store",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "2566149016952137468",
@@ -5544,9 +7030,9 @@
   "types": [
    "restaurant",
    "seafood_restaurant",
-   "korean_restaurant",
-   "japanese_restaurant",
    "bar",
+   "japanese_restaurant",
+   "korean_restaurant",
    "food",
    "point_of_interest",
    "establishment"
@@ -5839,8 +7325,8 @@
   },
   "types": [
    "seafood_restaurant",
-   "korean_restaurant",
    "japanese_restaurant",
+   "korean_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -6259,8 +7745,8 @@
   },
   "types": [
    "seafood_restaurant",
-   "market",
    "korean_restaurant",
+   "market",
    "restaurant",
    "food",
    "point_of_interest",
@@ -6561,8 +8047,8 @@
    "korean_restaurant",
    "tourist_attraction",
    "sushi_restaurant",
-   "bar",
    "japanese_restaurant",
+   "bar",
    "restaurant",
    "food",
    "point_of_interest",
