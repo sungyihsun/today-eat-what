@@ -1,4 +1,50 @@
 {
+ "服飾::16393623889335740992": {
+  "place_id": "ChIJAa0-47LraDURQOo2-RHageM",
+  "name": "서면 남녀공학",
+  "address": "南韓 Busan, Busanjin District, Jungang-daero 702beon-gil, 43 1층 남녀공학",
+  "rating": 4.9,
+  "userRatingCount": 244,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=16393623889335740992&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1556508,
+   "longitude": 129.0616302
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "16393623889335740992",
+  "cat_label": "服飾",
+  "near_hub": "西面"
+ },
+ "服飾::9124731878290191285": {
+  "place_id": "ChIJeTvBZwTraDURtXMrZEyPoX4",
+  "name": "이블래 서면점(부산)",
+  "address": "南韓 Busan, 번 1층 38 이블래 KR 부산광역시 부산진구 중앙대로 680번가길",
+  "rating": 5,
+  "userRatingCount": 487,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=9124731878290191285&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1550551,
+   "longitude": 129.060902
+  },
+  "types": [
+   "clothing_store",
+   "womens_clothing_store",
+   "shopping_mall",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "9124731878290191285",
+  "cat_label": "服飾",
+  "near_hub": "西面"
+ },
  "服飾::14104129698882074386": {
   "place_id": "ChIJTc-PzrXraDUREjfn9zvvu8M",
   "name": "KO&CLO 코앤클로 부산",
@@ -45,52 +91,6 @@
   "cat_label": "服飾",
   "near_hub": "西面"
  },
- "服飾::16393623889335740992": {
-  "place_id": "ChIJAa0-47LraDURQOo2-RHageM",
-  "name": "서면 남녀공학",
-  "address": "南韓 Busan, Busanjin District, Jungang-daero 702beon-gil, 43 1층 남녀공학",
-  "rating": 4.9,
-  "userRatingCount": 244,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=16393623889335740992&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1556508,
-   "longitude": 129.0616302
-  },
-  "types": [
-   "clothing_store",
-   "store",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "16393623889335740992",
-  "cat_label": "服飾",
-  "near_hub": "西面"
- },
- "服飾::9124731878290191285": {
-  "place_id": "ChIJeTvBZwTraDURtXMrZEyPoX4",
-  "name": "이블래 서면점(부산)",
-  "address": "南韓 Busan, 번 1층 38 이블래 KR 부산광역시 부산진구 중앙대로 680번가길",
-  "rating": 5,
-  "userRatingCount": 487,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=9124731878290191285&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1550551,
-   "longitude": 129.060902
-  },
-  "types": [
-   "clothing_store",
-   "shopping_mall",
-   "womens_clothing_store",
-   "store",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "9124731878290191285",
-  "cat_label": "服飾",
-  "near_hub": "西面"
- },
  "服飾::3285424098242679761": {
   "place_id": "ChIJS2MRDG_raDUR0VNDeM8rmC0",
   "name": "西面地下街",
@@ -113,17 +113,17 @@
   "cat_label": "服飾",
   "near_hub": "西面"
  },
- "服飾::6027123905158672073": {
-  "place_id": "ChIJH6yTYQDraDURyW4_OEKlpFM",
-  "name": "워너비 서면 (WANNABE)",
-  "address": "63 1F Dongcheon-ro, Busanjin District, Busan, 南韓",
-  "rating": 4.9,
-  "userRatingCount": 181,
+ "服飾::4511031570757242425": {
+  "place_id": "ChIJexAMQRvraDUROc6OKVBnmj4",
+  "name": "NOCLAIM",
+  "address": "71 Dongseong-ro, Busanjin District, Busan, 南韓",
+  "rating": 4.6,
+  "userRatingCount": 24,
   "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=6027123905158672073&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=4511031570757242425&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 35.154318499999995,
-   "longitude": 129.0621093
+   "latitude": 35.156792599999996,
+   "longitude": 129.0681067
   },
   "types": [
    "clothing_store",
@@ -131,29 +131,7 @@
    "point_of_interest",
    "establishment"
   ],
-  "cid": "6027123905158672073",
-  "cat_label": "服飾",
-  "near_hub": "西面"
- },
- "服飾::11797460371564476242": {
-  "place_id": "ChIJ0YV6L8jraDURUjfZyrP_uKM",
-  "name": "Nonno",
-  "address": "20 Seojeon-ro 10beon-gil, Busanjin District, Busan, 南韓",
-  "rating": 5,
-  "userRatingCount": 15,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=11797460371564476242&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1569564,
-   "longitude": 129.0603194
-  },
-  "types": [
-   "clothing_store",
-   "store",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "11797460371564476242",
+  "cid": "4511031570757242425",
   "cat_label": "服飾",
   "near_hub": "西面"
  },
@@ -200,177 +178,6 @@
   "cat_label": "服飾",
   "near_hub": "西面"
  },
- "服飾::10043315747758766416": {
-  "place_id": "ChIJj0wJo2_raDURUHk_-HUGYYs",
-  "name": "ALPHA ROMEO (알파로미오)",
-  "address": "南韓 Busan, Busanjin District, 부전제1동 573-1",
-  "rating": 5,
-  "userRatingCount": 17,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=10043315747758766416&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.156911099999995,
-   "longitude": 129.0591334
-  },
-  "types": [
-   "clothing_store",
-   "store",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "10043315747758766416",
-  "cat_label": "服飾",
-  "near_hub": "西面"
- },
- "服飾::8796699005345176760": {
-  "place_id": "ChIJdy62a2XraDURuJyhcSMnFHo",
-  "name": "The Street of Youth",
-  "address": "동 Jungang-daero 702beon-gil, 부전2 Busanjin District, Busan, 南韓",
-  "rating": 4.4,
-  "userRatingCount": 150,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=8796699005345176760&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1554358,
-   "longitude": 129.0612696
-  },
-  "types": [
-   "tourist_attraction",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "8796699005345176760",
-  "cat_label": "服飾",
-  "near_hub": "西面"
- },
- "服飾::17578868822348237571": {
-  "place_id": "ChIJix8ZnTPtaDURA4tBnQ6w9PM",
-  "name": "Millac The Market",
-  "address": "56 Millaksubyeon-ro 17beon-gil, Suyeong-gu, Busan, 南韓",
-  "rating": 4.2,
-  "userRatingCount": 1265,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=17578868822348237571&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1541919,
-   "longitude": 129.1270348
-  },
-  "types": [
-   "shopping_mall",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "17578868822348237571",
-  "cat_label": "服飾",
-  "near_hub": "西面"
- },
- "服飾::17945368158654360574": {
-  "place_id": "ChIJ21pR1aHpaDUR_usy_ELBCvk",
-  "name": "富平罐頭市場",
-  "address": "39 Bupyeong 1-gil, Jung-gu, Busan, 南韓",
-  "rating": 4.1,
-  "userRatingCount": 19650,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=17945368158654360574&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.101853999999996,
-   "longitude": 129.0258719
-  },
-  "types": [
-   "tourist_attraction",
-   "market",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "17945368158654360574",
-  "cat_label": "服飾",
-  "near_hub": "南浦洞"
- },
- "服飾::7124853226027617201": {
-  "place_id": "ChIJeY_SAjXpaDURsQssjkKQ4GI",
-  "name": "光復路時尚街",
-  "address": "2-6 Nampo-dong 5(o)-ga, Jung-gu, Busan, 南韓",
-  "rating": 4.3,
-  "userRatingCount": 1896,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=7124853226027617201&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.099312499999996,
-   "longitude": 129.03143749999998
-  },
-  "types": [
-   "tourist_attraction",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "7124853226027617201",
-  "cat_label": "服飾",
-  "near_hub": "南浦洞"
- },
- "服飾::17197654907016001008": {
-  "place_id": "ChIJb4ybzqDpaDUR8DVxVgVYqu4",
-  "name": "南浦地下商街",
-  "address": "南韓 Busan, 부산광역시 중구 남포동6가 1",
-  "rating": 4,
-  "userRatingCount": 1082,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=17197654907016001008&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.0981969,
-   "longitude": 129.03062889999998
-  },
-  "types": [
-   "shopping_mall",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "17197654907016001008",
-  "cat_label": "服飾",
-  "near_hub": "南浦洞"
- },
- "服飾::5501384131824879814": {
-  "place_id": "ChIJBY2rnKDpaDURxohkZrjXWEw",
-  "name": "Topten",
-  "address": "37 BIFF gwangjang-ro, Jung-gu, Busan, 南韓",
-  "rating": 4.3,
-  "userRatingCount": 147,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=5501384131824879814&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.09861300000001,
-   "longitude": 129.0294863
-  },
-  "types": [
-   "clothing_store",
-   "store",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "5501384131824879814",
-  "cat_label": "服飾",
-  "near_hub": "南浦洞"
- },
- "服飾::15195917500170792500": {
-  "place_id": "ChIJ0XDeV3XpaDURNG7SeXS-4tI",
-  "name": "Vintage Museum",
-  "address": "26 Gwangbok-ro 39beon-gil, 광복동 Jung-gu, Busan, 南韓",
-  "rating": 4.2,
-  "userRatingCount": 20,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=15195917500170792500&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1014954,
-   "longitude": 129.0294073
-  },
-  "types": [
-   "shopping_mall",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "15195917500170792500",
-  "cat_label": "服飾",
-  "near_hub": "南浦洞"
- },
  "服飾::8825654126186845137": {
   "place_id": "ChIJzbVGQzGNaDUR0dPT3aoFe3o",
   "name": "LUFT MANSION",
@@ -390,230 +197,6 @@
    "establishment"
   ],
   "cid": "8825654126186845137",
-  "cat_label": "服飾",
-  "near_hub": "海雲台"
- },
- "服飾::13177237174606554407": {
-  "place_id": "ChIJY4GaI2yTaDURJ-V-8WTz3rY",
-  "name": "lululemon Busan Shinsegae Centum City",
-  "address": "南韓 Busan, Haeundae, 1 Shinsegae Centum City Mall F 15, Centum 4-ro",
-  "rating": 4.4,
-  "userRatingCount": 15668,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=13177237174606554407&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1699456,
-   "longitude": 129.1288413
-  },
-  "types": [
-   "sportswear_store",
-   "womens_clothing_store",
-   "sporting_goods_store",
-   "clothing_store",
-   "store",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "13177237174606554407",
-  "cat_label": "服飾",
-  "near_hub": "海雲台"
- },
- "服飾::16024863220522089031": {
-  "place_id": "ChIJhyH1auWTaDURR_pwGTLAY94",
-  "name": "포터리 신세계 센텀",
-  "address": "南韓 Busan, Haeundae, Centum nam-daero, 35 신세계 백화점 지하 2층",
-  "rating": 5,
-  "userRatingCount": 652,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=16024863220522089031&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.168703199999996,
-   "longitude": 129.1297466
-  },
-  "types": [
-   "clothing_store",
-   "store",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "16024863220522089031",
-  "cat_label": "服飾",
-  "near_hub": "海雲台"
- },
- "服飾::1163663321508751817": {
-  "place_id": "ChIJORLzmiOMaDURySmuJKApJhA",
-  "name": "Lotte Premium Outlets 東釜山店",
-  "address": "147 Gijanghaean-ro, Gijang, Busan, 南韓",
-  "rating": 4.2,
-  "userRatingCount": 10914,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=1163663321508751817&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.191652399999995,
-   "longitude": 129.21372879999998
-  },
-  "types": [
-   "shopping_mall",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "1163663321508751817",
-  "cat_label": "服飾",
-  "near_hub": "海雲台"
- },
- "服飾::6914363843172469145": {
-  "place_id": "ChIJifuqAg2NaDURmYkZEEjB9F8",
-  "name": "(주)코오롱FNC부문해운대세이브프라자",
-  "address": "1478-2 Jwa-dong, Haeundae, Busan, 南韓",
-  "rating": 4,
-  "userRatingCount": 362,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=6914363843172469145&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.168196699999996,
-   "longitude": 129.1771324
-  },
-  "types": [
-   "clothing_store",
-   "store",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "6914363843172469145",
-  "cat_label": "服飾",
-  "near_hub": "海雲台"
- },
- "服飾::15325707961488114995": {
-  "place_id": "ChIJ155pjhrtaDURMwXgHzHar9Q",
-  "name": "대연혁신지구복합상가",
-  "address": "345 Suyeong-ro, Nam-gu, Busan, 南韓",
-  "rating": 4.2,
-  "userRatingCount": 57,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=15325707961488114995&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1399599,
-   "longitude": 129.10363569999998
-  },
-  "types": [
-   "shopping_mall",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "15325707961488114995",
-  "cat_label": "服飾",
-  "near_hub": "廣安里"
- },
- "服飾::4048051308540114373": {
-  "place_id": "ChIJPa8TdXrraDURxbUWtjeRLTg",
-  "name": "SMC Mall Busan Tamiya Mini4wd",
-  "address": "南韓 Busan, Nam-gu, 수영로 38 지하1층",
-  "rating": 4.5,
-  "userRatingCount": 48,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=4048051308540114373&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.136420799999996,
-   "longitude": 129.0718444
-  },
-  "types": [
-   "shopping_mall",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "4048051308540114373",
-  "cat_label": "服飾",
-  "near_hub": "廣安里"
- },
- "服飾::2511851090213722374": {
-  "place_id": "ChIJVdt9bvKTaDURBtndGELj2yI",
-  "name": "NC백화점 부산대점",
-  "address": "2 Geumgang-ro, Geumjeong-gu, Busan, 南韓",
-  "rating": 4.1,
-  "userRatingCount": 3140,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=2511851090213722374&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.2322978,
-   "longitude": 129.0842446
-  },
-  "types": [
-   "department_store",
-   "store",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "2511851090213722374",
-  "cat_label": "服飾",
-  "near_hub": "東萊"
- },
- "服飾::541236649649713973": {
-  "place_id": "ChIJIRJtlaWUaDURNTPLgd3bggc",
-  "name": "Homeplus Asiad",
-  "address": "7 Jonghabundongjang-ro, Yeonje-gu, Busan, 南韓",
-  "rating": 4.2,
-  "userRatingCount": 3204,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=541236649649713973&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1913249,
-   "longitude": 129.064287
-  },
-  "types": [
-   "hypermarket",
-   "supermarket",
-   "grocery_store",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "541236649649713973",
-  "cat_label": "服飾",
-  "near_hub": "東萊"
- },
- "服飾::16473282997498618954": {
-  "place_id": "ChIJIxWYb3GTaDURSiRjZpvbnOQ",
-  "name": "東萊市場",
-  "address": "14 Dongnaesijang-gil, Dongnae-gu, Busan, 南韓",
-  "rating": 4.2,
-  "userRatingCount": 2517,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=16473282997498618954&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.2038096,
-   "longitude": 129.0859492
-  },
-  "types": [
-   "market",
-   "tourist_attraction",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "16473282997498618954",
-  "cat_label": "服飾",
-  "near_hub": "東萊"
- },
- "服飾::4511031570757242425": {
-  "place_id": "ChIJexAMQRvraDUROc6OKVBnmj4",
-  "name": "NOCLAIM",
-  "address": "71 Dongseong-ro, Busanjin District, Busan, 南韓",
-  "rating": 4.6,
-  "userRatingCount": 24,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=4511031570757242425&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.156792599999996,
-   "longitude": 129.0681067
-  },
-  "types": [
-   "clothing_store",
-   "store",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "4511031570757242425",
   "cat_label": "服飾",
   "near_hub": "西面"
  },
@@ -659,12 +242,54 @@
   "cat_label": "服飾",
   "near_hub": "西面"
  },
+ "服飾::7124853226027617201": {
+  "place_id": "ChIJeY_SAjXpaDURsQssjkKQ4GI",
+  "name": "光復路時尚街",
+  "address": "2-6 Nampo-dong 5(o)-ga, Jung-gu, Busan, 南韓",
+  "rating": 4.3,
+  "userRatingCount": 1896,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=7124853226027617201&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.099312499999996,
+   "longitude": 129.03143749999998
+  },
+  "types": [
+   "tourist_attraction",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "7124853226027617201",
+  "cat_label": "服飾",
+  "near_hub": "南浦洞"
+ },
+ "服飾::15195917500170792500": {
+  "place_id": "ChIJ0XDeV3XpaDURNG7SeXS-4tI",
+  "name": "Vintage Museum",
+  "address": "26 Gwangbok-ro 39beon-gil, 광복동 Jung-gu, Busan, 南韓",
+  "rating": 4.2,
+  "userRatingCount": 20,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=15195917500170792500&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1014954,
+   "longitude": 129.0294073
+  },
+  "types": [
+   "shopping_mall",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "15195917500170792500",
+  "cat_label": "服飾",
+  "near_hub": "南浦洞"
+ },
  "服飾::5166631765211852909": {
   "place_id": "ChIJudkrFArpaDURbbCzajeQs0c",
   "name": "札嘎其市場",
   "address": "52 Jagalchihaean-ro, Jung-gu, Busan, 南韓",
   "rating": 4,
-  "userRatingCount": 27251,
+  "userRatingCount": 27252,
   "priceLevel": null,
   "googleMapsUri": "https://maps.google.com/?cid=5166631765211852909&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
@@ -672,8 +297,8 @@
    "longitude": 129.0307965
   },
   "types": [
-   "market",
    "tourist_attraction",
+   "market",
    "food",
    "point_of_interest",
    "establishment"
@@ -704,59 +329,17 @@
   "cat_label": "服飾",
   "near_hub": "南浦洞"
  },
- "服飾::15380730418694862979": {
-  "place_id": "ChIJ8V4JDX3raDURgzhaQNNUc9U",
-  "name": "Judies Taehwa New Bldg.",
-  "address": "61 Seojeon-ro 10beon-gil, Busanjin District, Busan, 南韓",
-  "rating": 4,
-  "userRatingCount": 200,
+ "服飾::16641035060162345247": {
+  "place_id": "ChIJLTJJaACNaDURHznMHzjV8OY",
+  "name": "the orleans store",
+  "address": "南韓 Busan, Haeundae, Udong 1-ro 38beon-gil, １１ 132 호",
+  "rating": 4.6,
+  "userRatingCount": 10,
   "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=15380730418694862979&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=16641035060162345247&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 35.1551372,
-   "longitude": 129.0602149
-  },
-  "types": [
-   "shopping_mall",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "15380730418694862979",
-  "cat_label": "服飾",
-  "near_hub": "西面"
- },
- "服飾::11640765867371577839": {
-  "place_id": "ChIJiav_TWXraDUR78EshuFOjKE",
-  "name": "Shopping Street",
-  "address": "-dong, 217-2 부전제2동 부산진구 부산광역시 南韓",
-  "rating": 4.3,
-  "userRatingCount": 42,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=11640765867371577839&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1544819,
-   "longitude": 129.0613168
-  },
-  "types": [
-   "shopping_mall",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "11640765867371577839",
-  "cat_label": "服飾",
-  "near_hub": "西面"
- },
- "服飾::12825944178092956859": {
-  "place_id": "ChIJhX4bZ2XraDURu1w4dEbo_rE",
-  "name": "ZARA 서면점",
-  "address": "33 Jungang-daero 702beon-gil, Busanjin District, Busan, 南韓",
-  "rating": 4.2,
-  "userRatingCount": 405,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=12825944178092956859&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1555564,
-   "longitude": 129.0610716
+   "latitude": 35.1654491,
+   "longitude": 129.1577672
   },
   "types": [
    "clothing_store",
@@ -764,131 +347,68 @@
    "point_of_interest",
    "establishment"
   ],
-  "cid": "12825944178092956859",
+  "cid": "16641035060162345247",
   "cat_label": "服飾",
   "near_hub": "西面"
  },
- "服飾::9708897860460311096": {
-  "place_id": "ChIJX67REG7raDUROHJJBSrvvIY",
-  "name": "樂天免稅店",
-  "address": "772 Gaya-daero, Busanjin District, Busan, 南韓",
+ "服飾::11496623773700298305": {
+  "place_id": "ChIJDyx73vDFaDURQZa3E2k2jJ8",
+  "name": "Nike Factory Store Gimhae",
+  "address": "469 Jangyu-ro, Gimhae, Gyeongsangnam-do, 南韓",
   "rating": 4.1,
-  "userRatingCount": 1330,
+  "userRatingCount": 2346,
   "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=9708897860460311096&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=11496623773700298305&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 35.1567319,
-   "longitude": 129.056651
+   "latitude": 35.1852197,
+   "longitude": 128.8278884
   },
   "types": [
-   "store",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "9708897860460311096",
-  "cat_label": "服飾",
-  "near_hub": "西面"
- },
- "服飾::9755277617178528652": {
-  "place_id": "ChIJSSw7slWTaDURjMs-oU61YYc",
-  "name": "新世界百貨公司 Centum City店",
-  "address": "35 Centum nam-daero, Haeundae, Busan, 南韓",
-  "rating": 4.5,
-  "userRatingCount": 2818,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=9755277617178528652&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1689218,
-   "longitude": 129.1296311
-  },
-  "types": [
-   "department_store",
-   "shopping_mall",
-   "store",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "9755277617178528652",
-  "cat_label": "服飾",
-  "near_hub": "西面"
- },
- "服飾::3362942211720209808": {
-  "place_id": "ChIJdcHH3-TsaDURkOW_uR-Sqy4",
-  "name": "발란사 BALANSA",
-  "address": "南韓 Busan, Busanjin District, Jeonpo-daero 255beon-gil, 37 1층",
-  "rating": 4.7,
-  "userRatingCount": 23,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=3362942211720209808&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1590698,
-   "longitude": 129.0632802
-  },
-  "types": [
-   "clothing_store",
-   "store",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "3362942211720209808",
-  "cat_label": "服飾",
-  "near_hub": "西面"
- },
- "服飾::3652375420185531860": {
-  "place_id": "ChIJ2R3kH1yNaDUR1NWG8hfYrzI",
-  "name": "KASINA",
-  "address": "44 Seojeon-ro, Busanjin District, Busan, 南韓",
-  "rating": 4.9,
-  "userRatingCount": 157,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=3652375420185531860&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1575754,
-   "longitude": 129.0645468
-  },
-  "types": [
+   "sporting_goods_store",
    "shoe_store",
+   "sportswear_store",
    "clothing_store",
    "store",
    "point_of_interest",
    "establishment"
   ],
-  "cid": "3652375420185531860",
+  "cid": "11496623773700298305",
+  "cat_label": "服飾",
+  "near_hub": "南浦洞"
+ },
+ "服飾::11797460371564476242": {
+  "place_id": "ChIJ0YV6L8jraDURUjfZyrP_uKM",
+  "name": "Nonno",
+  "address": "20 Seojeon-ro 10beon-gil, Busanjin District, Busan, 南韓",
+  "rating": 5,
+  "userRatingCount": 15,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=11797460371564476242&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1569564,
+   "longitude": 129.0603194
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "11797460371564476242",
   "cat_label": "服飾",
   "near_hub": "西面"
  },
- "服飾::3923814020347835539": {
-  "place_id": "ChIJvyrpY6DpaDURk7SH7w8wdDY",
-  "name": "Dingdong",
-  "address": "45-1 Changseon-dong 2(i)-ga, Jung-gu, Busan, 南韓",
-  "rating": 4,
-  "userRatingCount": 240,
+ "服飾::10443167429487266387": {
+  "place_id": "ChIJvVH4LaXraDURU4qEZHKV7ZA",
+  "name": "8 seconds Samjung tower",
+  "address": "南韓 Busan, Busanjin District, Jungang-daero, 672 삼정타워 3F",
+  "rating": 4.9,
+  "userRatingCount": 330,
   "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=3923814020347835539&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=10443167429487266387&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 35.0992518,
-   "longitude": 129.0284622
-  },
-  "types": [
-   "shopping_mall",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "3923814020347835539",
-  "cat_label": "服飾",
-  "near_hub": "南浦洞"
- },
- "服飾::9391791877610784020": {
-  "place_id": "ChIJD7ZB_G7paDURFMVj7fNYVoI",
-  "name": "에잇세컨즈 부산광복점",
-  "address": "南韓 Busan, Jung-gu, 광복로 63-2",
-  "rating": 5,
-  "userRatingCount": 524,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=9391791877610784020&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.09915530000001,
-   "longitude": 129.0321976
+   "latitude": 35.1529425,
+   "longitude": 129.0595638
   },
   "types": [
    "clothing_store",
@@ -896,111 +416,109 @@
    "point_of_interest",
    "establishment"
   ],
-  "cid": "9391791877610784020",
+  "cid": "10443167429487266387",
   "cat_label": "服飾",
-  "near_hub": "南浦洞"
+  "near_hub": "西面"
  },
- "服飾::6718535037049923051": {
-  "place_id": "ChIJxycp5AzpaDUR62VgFgUIPV0",
-  "name": "樂天百貨公司 光復店",
-  "address": "2 Jungang-daero, Jung-gu, Busan, 南韓",
-  "rating": 4.3,
-  "userRatingCount": 14030,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=6718535037049923051&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.0981871,
-   "longitude": 129.0366183
-  },
-  "types": [
-   "department_store",
-   "liquor_store",
-   "store",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "6718535037049923051",
-  "cat_label": "服飾",
-  "near_hub": "南浦洞"
- },
- "服飾::1569687696976623698": {
-  "place_id": "ChIJxycp5AzpaDURUriX0qSmyBU",
-  "name": "Lotte mart樂天超市",
-  "address": "2 Jungang-daero, Jung-gu, Busan, 南韓",
-  "rating": 4.3,
-  "userRatingCount": 359,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=1569687696976623698&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.097834899999995,
-   "longitude": 129.0361459
-  },
-  "types": [
-   "cosmetics_store",
-   "store",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "1569687696976623698",
-  "cat_label": "服飾",
-  "near_hub": "南浦洞"
- },
- "服飾::325668656829503852": {
-  "place_id": "ChIJoWdPPo_paDURbBnN_OoBhQQ",
-  "name": "KODAK Cine Shop Busan Gwangbok",
-  "address": "南韓 Busan, Jung-gu, 광복동 58 씨네샵 부산광복",
+ "服飾::10043315747758766416": {
+  "place_id": "ChIJj0wJo2_raDURUHk_-HUGYYs",
+  "name": "ALPHA ROMEO (알파로미오)",
+  "address": "南韓 Busan, Busanjin District, 부전제1동 573-1",
   "rating": 5,
-  "userRatingCount": 1106,
+  "userRatingCount": 17,
   "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=325668656829503852&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=10043315747758766416&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 35.0991366,
-   "longitude": 129.0312535
+   "latitude": 35.156911099999995,
+   "longitude": 129.0591334
   },
   "types": [
-   "gift_shop",
+   "clothing_store",
    "store",
    "point_of_interest",
    "establishment"
   ],
-  "cid": "325668656829503852",
+  "cid": "10043315747758766416",
   "cat_label": "服飾",
-  "near_hub": "南浦洞"
+  "near_hub": "西面"
  },
- "服飾::16675437691848048981": {
-  "place_id": "ChIJGUMJ8wrpaDURVUHDADsOa-c",
-  "name": "다이소 남포점",
-  "address": "46 Gudeok-ro, Jung-gu, Busan, 南韓",
-  "rating": 4.2,
-  "userRatingCount": 1072,
+ "服飾::16523336050724868579": {
+  "place_id": "ChIJQ-sGd5DraDUR45Hc_5euTuU",
+  "name": "釜山鎭市場",
+  "address": "24 Jinsijang-ro, Dong-gu, Busan, 南韓",
+  "rating": 4,
+  "userRatingCount": 2998,
   "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=16675437691848048981&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=16523336050724868579&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 35.0984681,
-   "longitude": 129.0309443
+   "latitude": 35.1364215,
+   "longitude": 129.0587319
   },
   "types": [
-   "home_goods_store",
-   "store",
+   "market",
+   "wholesaler",
    "service",
    "point_of_interest",
    "establishment"
   ],
-  "cid": "16675437691848048981",
+  "cid": "16523336050724868579",
   "cat_label": "服飾",
-  "near_hub": "南浦洞"
+  "near_hub": "西面"
  },
- "服飾::11251414744961425008": {
-  "place_id": "ChIJlYoLGnXpaDURcJ4EFhkOJZw",
-  "name": "RNC",
-  "address": "6-1 Gwangbokjungang-ro, Jung-gu, Busan, 南韓",
-  "rating": 5,
-  "userRatingCount": 12,
+ "服飾::11480637601812021007": {
+  "place_id": "ChIJk5Ff7iPraDURD3__YhJrU58",
+  "name": "부전몰 - 서면지하도상가",
+  "address": "지하 737 Jungang-daero, Busanjin District, Busan, 南韓",
+  "rating": 4,
+  "userRatingCount": 35,
   "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=11251414744961425008&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=11480637601812021007&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 35.0998771,
-   "longitude": 129.0312491
+   "latitude": 35.160553799999995,
+   "longitude": 129.06136189999998
+  },
+  "types": [
+   "shopping_mall",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "11480637601812021007",
+  "cat_label": "服飾",
+  "near_hub": "西面"
+ },
+ "服飾::9553761061724697781": {
+  "place_id": "ChIJAxODCGvraDURtTQPURHHlYQ",
+  "name": "트레이더스 홀세일클럽 서면점",
+  "address": "31 Simingongwon-ro, Busanjin District, Busan, 南韓",
+  "rating": 4.1,
+  "userRatingCount": 7049,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=9553761061724697781&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1639096,
+   "longitude": 129.05259859999998
+  },
+  "types": [
+   "warehouse_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "9553761061724697781",
+  "cat_label": "服飾",
+  "near_hub": "西面"
+ },
+ "服飾::5501384131824879814": {
+  "place_id": "ChIJBY2rnKDpaDURxohkZrjXWEw",
+  "name": "Topten",
+  "address": "37 BIFF gwangjang-ro, Jung-gu, Busan, 南韓",
+  "rating": 4.3,
+  "userRatingCount": 147,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=5501384131824879814&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.09861300000001,
+   "longitude": 129.0294863
   },
   "types": [
    "clothing_store",
@@ -1008,7 +526,49 @@
    "point_of_interest",
    "establishment"
   ],
-  "cid": "11251414744961425008",
+  "cid": "5501384131824879814",
+  "cat_label": "服飾",
+  "near_hub": "南浦洞"
+ },
+ "服飾::13062305352332467900": {
+  "place_id": "ChIJde_IbXPpaDURvN51yYKhRrU",
+  "name": "光復地下商街",
+  "address": "南韓釜山廣域市",
+  "rating": 4.2,
+  "userRatingCount": 361,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=13062305352332467900&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.0988359,
+   "longitude": 129.03611899999999
+  },
+  "types": [
+   "shopping_mall",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "13062305352332467900",
+  "cat_label": "服飾",
+  "near_hub": "南浦洞"
+ },
+ "服飾::17197654907016001008": {
+  "place_id": "ChIJb4ybzqDpaDUR8DVxVgVYqu4",
+  "name": "南浦地下商街",
+  "address": "南韓 Busan, 부산광역시 중구 남포동6가 1",
+  "rating": 4,
+  "userRatingCount": 1082,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=17197654907016001008&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.0981969,
+   "longitude": 129.03062889999998
+  },
+  "types": [
+   "shopping_mall",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "17197654907016001008",
   "cat_label": "服飾",
   "near_hub": "南浦洞"
  },
@@ -1034,17 +594,43 @@
   "cat_label": "服飾",
   "near_hub": "海雲台"
  },
- "服飾::16641035060162345247": {
-  "place_id": "ChIJLTJJaACNaDURHznMHzjV8OY",
-  "name": "the orleans store",
-  "address": "南韓 Busan, Haeundae, Udong 1-ro 38beon-gil, １１ 132 호",
-  "rating": 4.6,
-  "userRatingCount": 10,
+ "服飾::9457497489779406349": {
+  "place_id": "ChIJ-7v-H2-NaDURDTZz5tvHP4M",
+  "name": "emart海雲台店",
+  "address": "511 Jwadongsunhwan-ro, Haeundae, Busan, 南韓",
+  "rating": 4.2,
+  "userRatingCount": 3599,
   "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=16641035060162345247&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=9457497489779406349&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 35.1654491,
-   "longitude": 129.1577672
+   "latitude": 35.1659937,
+   "longitude": 129.1673879
+  },
+  "types": [
+   "hypermarket",
+   "supermarket",
+   "grocery_store",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "9457497489779406349",
+  "cat_label": "服飾",
+  "near_hub": "海雲台"
+ },
+ "服飾::6914363843172469145": {
+  "place_id": "ChIJifuqAg2NaDURmYkZEEjB9F8",
+  "name": "(주)코오롱FNC부문해운대세이브프라자",
+  "address": "1478-2 Jwa-dong, Haeundae, Busan, 南韓",
+  "rating": 4,
+  "userRatingCount": 362,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=6914363843172469145&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.168196699999996,
+   "longitude": 129.1771324
   },
   "types": [
    "clothing_store",
@@ -1052,125 +638,30 @@
    "point_of_interest",
    "establishment"
   ],
-  "cid": "16641035060162345247",
+  "cid": "6914363843172469145",
   "cat_label": "服飾",
   "near_hub": "海雲台"
  },
- "服飾::14092088259028965527": {
-  "place_id": "ChIJm4BJyaqNaDURl9jfxpsnkcM",
-  "name": "더한섬하우스 부산점",
-  "address": "19 Jwadong-ro, Haeundae, Busan, 南韓",
-  "rating": 4.8,
-  "userRatingCount": 21,
+ "服飾::1163663321508751817": {
+  "place_id": "ChIJORLzmiOMaDURySmuJKApJhA",
+  "name": "Lotte Premium Outlets 東釜山店",
+  "address": "147 Gijanghaean-ro, Gijang, Busan, 南韓",
+  "rating": 4.2,
+  "userRatingCount": 10914,
   "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=14092088259028965527&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=1163663321508751817&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 35.1679847,
-   "longitude": 129.16932169999998
-  },
-  "types": [
-   "womens_clothing_store",
-   "clothing_store",
-   "store",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "14092088259028965527",
-  "cat_label": "服飾",
-  "near_hub": "海雲台"
- },
- "服飾::12054472076491655420": {
-  "place_id": "ChIJz63sEf-NaDUR_IgmenwWSqc",
-  "name": "부산슈퍼 청사포점",
-  "address": "南韓 Busan, Haeundae, Cheongsapo-ro, 120 2층",
-  "rating": 5,
-  "userRatingCount": 55,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=12054472076491655420&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.161229,
-   "longitude": 129.191936
-  },
-  "types": [
-   "store",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "12054472076491655420",
-  "cat_label": "服飾",
-  "near_hub": "海雲台"
- },
- "服飾::12050713434358481291": {
-  "place_id": "ChIJEfOMp3TtaDURiwH3aAW8PKc",
-  "name": "Boonhongene",
-  "address": "南韓 Busan, Suyeong-gu, 광안제2동 Gwangan-ro 45beon-gil, 2 지하 1층",
-  "rating": 4.6,
-  "userRatingCount": 20,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=12050713434358481291&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1554298,
-   "longitude": 129.1173682
+   "latitude": 35.191652399999995,
+   "longitude": 129.21372879999998
   },
   "types": [
    "shopping_mall",
-   "gift_shop",
-   "jewelry_store",
-   "store",
    "point_of_interest",
    "establishment"
   ],
-  "cid": "12050713434358481291",
+  "cid": "1163663321508751817",
   "cat_label": "服飾",
-  "near_hub": "廣安里"
- },
- "服飾::4638271074002413319": {
-  "place_id": "ChIJOz1i1sCSaDURByfimfdyXkA",
-  "name": "Lotte Department Store Centum City",
-  "address": "59 Centum nam-daero, Haeundae, Busan, 南韓",
-  "rating": 4.2,
-  "userRatingCount": 3584,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=4638271074002413319&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1696232,
-   "longitude": 129.1312184
-  },
-  "types": [
-   "department_store",
-   "store",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "4638271074002413319",
-  "cat_label": "服飾",
-  "near_hub": "廣安里"
- },
- "服飾::11315077983872964323": {
-  "place_id": "ChIJI49kwMaSaDUR41aX-nk7B50",
-  "name": "까르띠에 신세계백화점 센텀시티점",
-  "address": "1F, Shinsegae Centum City Department Store, 35, Centum nam-daero, 해운대구 부산광역시 南韓",
-  "rating": 4.5,
-  "userRatingCount": 10,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=11315077983872964323&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.168996,
-   "longitude": 129.12970099999998
-  },
-  "types": [
-   "jewelry_store",
-   "gift_shop",
-   "wholesaler",
-   "clothing_store",
-   "store",
-   "point_of_interest",
-   "service",
-   "establishment"
-  ],
-  "cid": "11315077983872964323",
-  "cat_label": "服飾",
-  "near_hub": "廣安里"
+  "near_hub": "海雲台"
  },
  "服飾::17522876897117167460": {
   "place_id": "ChIJ9Q5OwniTaDURZF-Rn7LDLfM",
@@ -1194,29 +685,209 @@
   "cat_label": "服飾",
   "near_hub": "東萊"
  },
- "服飾::6354566993614858233": {
-  "place_id": "ChIJgcg79TGSaDUR-efVQwP1L1g",
-  "name": "(주)칸투칸 부산거제점(폐점)",
-  "address": "南韓 Busan, Yeonje-gu, Beobwon-ro 32beon-gil, 19 칸투칸 빌딩",
-  "rating": 4.1,
-  "userRatingCount": 303,
+ "服飾::443445772944290339": {
+  "place_id": "ChIJnWaEnHqTaDURIzJ-vZRvJwY",
+  "name": "MEGA MART 東萊店",
+  "address": "197 Chungnyeol-daero, Dongnae-gu, Busan, 南韓",
+  "rating": 4,
+  "userRatingCount": 4285,
   "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=6354566993614858233&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=443445772944290339&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 35.1912922,
-   "longitude": 129.0752908
+   "latitude": 35.2045326,
+   "longitude": 129.0812137
   },
   "types": [
-   "clothing_store",
-   "sportswear_store",
-   "shoe_store",
-   "sporting_goods_store",
+   "hypermarket",
+   "supermarket",
+   "grocery_store",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "443445772944290339",
+  "cat_label": "服飾",
+  "near_hub": "東萊"
+ },
+ "服飾::2511851090213722374": {
+  "place_id": "ChIJVdt9bvKTaDURBtndGELj2yI",
+  "name": "NC백화점 부산대점",
+  "address": "2 Geumgang-ro, Geumjeong-gu, Busan, 南韓",
+  "rating": 4.1,
+  "userRatingCount": 3140,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=2511851090213722374&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.2322978,
+   "longitude": 129.0842446
+  },
+  "types": [
+   "department_store",
    "store",
    "point_of_interest",
    "establishment"
   ],
-  "cid": "6354566993614858233",
+  "cid": "2511851090213722374",
   "cat_label": "服飾",
   "near_hub": "東萊"
+ },
+ "服飾::1951191441842563794": {
+  "place_id": "ChIJkcAcIX2TaDUR0urOS0cGFBs",
+  "name": "Fishing Group Manuh",
+  "address": "113 Chungnyeol-daero, Dongnae-gu, Busan, 南韓",
+  "rating": 4.1,
+  "userRatingCount": 327,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=1951191441842563794&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.2066667,
+   "longitude": 129.0733333
+  },
+  "types": [
+   "shopping_mall",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "1951191441842563794",
+  "cat_label": "服飾",
+  "near_hub": "東萊"
+ },
+ "服飾::11640765867371577839": {
+  "place_id": "ChIJiav_TWXraDUR78EshuFOjKE",
+  "name": "Shopping Street",
+  "address": "-dong, 217-2 부전제2동 부산진구 부산광역시 南韓",
+  "rating": 4.3,
+  "userRatingCount": 42,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=11640765867371577839&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1544819,
+   "longitude": 129.0613168
+  },
+  "types": [
+   "shopping_mall",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "11640765867371577839",
+  "cat_label": "服飾",
+  "near_hub": "西面"
+ },
+ "服飾::3362942211720209808": {
+  "place_id": "ChIJdcHH3-TsaDURkOW_uR-Sqy4",
+  "name": "발란사 BALANSA",
+  "address": "南韓 Busan, Busanjin District, Jeonpo-daero 255beon-gil, 37 1층",
+  "rating": 4.7,
+  "userRatingCount": 23,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=3362942211720209808&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1590698,
+   "longitude": 129.0632802
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "3362942211720209808",
+  "cat_label": "服飾",
+  "near_hub": "西面"
+ },
+ "服飾::8919030743954603138": {
+  "place_id": "ChIJ__d4Fm7raDURgrwz4jTDxns",
+  "name": "樂天百貨",
+  "address": "772 Gaya-daero, Busanjin District, Busan, 南韓",
+  "rating": 4.2,
+  "userRatingCount": 11042,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=8919030743954603138&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1564378,
+   "longitude": 129.0556096
+  },
+  "types": [
+   "department_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "8919030743954603138",
+  "cat_label": "服飾",
+  "near_hub": "西面"
+ },
+ "服飾::2887176389619509104": {
+  "place_id": "ChIJPdKmGnXpaDURcGcqI6FPESg",
+  "name": "STONE STREET",
+  "address": "12 Yongdusan-gil, Jung-gu, Busan, 南韓",
+  "rating": 4.4,
+  "userRatingCount": 413,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=2887176389619509104&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1018695,
+   "longitude": 129.031411
+  },
+  "types": [
+   "family_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "2887176389619509104",
+  "cat_label": "服飾",
+  "near_hub": "南浦洞"
+ },
+ "服飾::4057332825856769671": {
+  "place_id": "ChIJl7gND07paDURh365XLWKTjg",
+  "name": "AREA6",
+  "address": "37-3 Taejong-ro 105beon-gil, Yeongdo-gu, Busan, 南韓",
+  "rating": 4.5,
+  "userRatingCount": 20,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=4057332825856769671&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.0930338,
+   "longitude": 129.0430329
+  },
+  "types": [
+   "shopping_mall",
+   "lounge_bar",
+   "night_club",
+   "bar",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "4057332825856769671",
+  "cat_label": "服飾",
+  "near_hub": "南浦洞"
+ },
+ "服飾::9755277617178528652": {
+  "place_id": "ChIJSSw7slWTaDURjMs-oU61YYc",
+  "name": "新世界百貨公司 Centum City店",
+  "address": "35 Centum nam-daero, Haeundae, Busan, 南韓",
+  "rating": 4.5,
+  "userRatingCount": 2819,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=9755277617178528652&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1689218,
+   "longitude": 129.1296311
+  },
+  "types": [
+   "department_store",
+   "shopping_mall",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "9755277617178528652",
+  "cat_label": "服飾",
+  "near_hub": "南浦洞"
  }
 }
