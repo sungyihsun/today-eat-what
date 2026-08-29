@@ -49,7 +49,14 @@ CATEGORY_QUERIES = {
     # asked for 30+ 平價服飾) — 보세/균일가/저렴한 are the Korean terms
     # locals actually search for cheap clothing, vs. 편집샵 (curated
     # boutique) which skews mid-to-high price.
-    "服飾": ["부산 보세 옷가게", "부산 균일가 옷가게", "부산 저렴한 옷가게", "부산 스트릿 보세"],
+    "服飾": [
+        "부산 보세 옷가게", "부산 균일가 옷가게", "부산 저렴한 옷가게", "부산 스트릿 보세",
+        # Named landmarks (underground shopping arcades / markets that are
+        # themselves dense clusters of budget clothing stalls) — searched by
+        # their own name so Text Search reliably returns the exact place.
+        "서면지하상가", "국제시장", "부산진시장", "광복로패션거리",
+        "남포지하상가", "롯데프리미엄아울렛 동부산점",
+    ],
     # "咖啡廳": ["부산 카페 맛집", "부산 감성카페", "부산 디저트 카페"],
     # "燒烤": ["부산 고기집", "부산 소고기 맛집"],
     # "石鍋拌飯": ["부산 돌솥비빔밥 맛집", "부산 비빔밥 맛집", "부산 비빔밥 전문점"],

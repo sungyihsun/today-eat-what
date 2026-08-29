@@ -90,6 +90,27 @@ jobs:
               picked = ranked[:target]
               selected[cat_label] = [p["name"] for p in picked]
               print(cat_label, "picked", len(picked), "of target", target, "(", len(rows), "topically relevant candidates available )")
+          # The keyword/type filter above only recognizes single-brand
+          # clothing_store places — it can't tell that Busan's famous
+          # underground shopping arcades (지하상가) and traditional/wholesale
+          # markets are themselves dense clusters of budget clothing stalls
+          # (the itinerary explicitly calls out 西面地下街 for shopping).
+          # These are hand-picked from this run's raw candidate pool by name
+          # after manually reviewing it — real department stores/outlets
+          # that skew premium were deliberately left out to keep this list
+          # 平價-only, except the outlet mall (outlets are discount by
+          # definition).
+          MARKET_PICKS_SERVICES = [
+              "西面地下街", "光復地下商街", "南浦地下商街", "國際市場",
+              "부전몰 - 서면지하도상가", "光復路時尚街", "釜山鎭市場",
+              "Lotte Premium Outlets 東釜山店",
+          ]
+          by_name_all = {p["name"]: p for p in candidates.values()}
+          if "服飾" in selected:
+              already = set(selected["服飾"])
+              extra = [n for n in MARKET_PICKS_SERVICES if n in by_name_all and n not in already]
+              selected["服飾"] = selected["服飾"] + extra
+              print("服飾 + market/arcade picks:", extra, "(missing from candidates:", [n for n in MARKET_PICKS_SERVICES if n not in by_name_all], ")")
           json.dump(selected, open("candidate-results/busan-cat-final-list.json", "w"), ensure_ascii=False, indent=2)
           print(json.dumps(selected, ensure_ascii=False, indent=2))
           PY
