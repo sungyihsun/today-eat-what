@@ -8,6 +8,9 @@ multiple Busan hub points — since the goal now is category coverage across
 the city, not stops along one 5-day route.
 
 Usage (CI): GOOGLE_PLACES_API_KEY=... python3 scripts/busan-trip/search_busan_categories.py
+
+Re-run note: first run's search/fetch succeeded but its publish step lost a
+git-push race with another workflow; this trivial edit re-triggers it.
 """
 import json, os, urllib.request, urllib.error, time, re
 
