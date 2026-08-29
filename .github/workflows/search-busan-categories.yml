@@ -38,10 +38,10 @@ jobs:
           html = open("index.html", encoding="utf-8").read()
           existing_cids = set(re.findall(r"cid=(\d+)", html))
           existing_names = set(re.findall(r'\{name:"((?:[^"\\]|\\.)*)"', html))
-          # how many NEW restaurants each category still needs to reach 10+.
-          # 燒烤/石鍋拌飯/人蔘雞湯/辣炒年糕/海鮮 already done (12/6/12/12/12);
-          # this run only expands 咖啡廳 (existing count: 3).
-          TARGET_NEW = {"咖啡廳": 10}
+          # how many NEW places each category still needs to reach 10+.
+          # 燒烤/石鍋拌飯/人蔘雞湯/辣炒年糕/海鮮/咖啡廳 already done
+          # (12/6/12/12/12/13); this run only expands 服飾 (existing: 0).
+          TARGET_NEW = {"服飾": 12}
           # A broad textQuery like "부산 고기집 맛집" returns plenty of highly
           # rated restaurants near the hub that don't actually serve the
           # target dish (Google has no place-type granular enough for this).
@@ -54,12 +54,14 @@ jobs:
               "辣炒年糕": ["떡볶이","분식","年糕","tteokbokki","ttokbokki","bunsik"],
               "海鮮": ["회","조개","해물","해산물","낙지","문어","쭈꾸미","sashimi","seafood","대게","전복","물회","水產","水产","생선"],
               "咖啡廳": ["카페","커피","cafe","coffee","브런치","焙煎","로스터리","roastery"],
+              "服飾": ["옷가게","의류","패션","보세","편집샵","셀렉샵","스토어","clothing","fashion","apparel","boutique"],
           }
           TYPE_HINT = {
               "燒烤": ["barbecue_restaurant","korean_barbecue_restaurant"],
               "海鮮": ["seafood_restaurant"],
               "辣炒年糕": ["snack_bar"],
               "咖啡廳": ["cafe","coffee_shop"],
+              "服飾": ["clothing_store","shoe_store","boutique"],
           }
           by_cat = {}
           for key, place in candidates.items():

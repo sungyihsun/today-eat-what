@@ -20,7 +20,9 @@ import json, os, urllib.request, urllib.error, time, re
 OUT_PATH = os.environ.get("BUSAN_CAT_CANDIDATES_PATH", "candidate-results/busan-cat-candidates.json")
 
 MIN_RATING = 4.0
-MIN_REVIEWS = 30
+# Clothing boutiques typically collect far fewer Google reviews than
+# restaurants — lowered from 30 for the 服飾 expansion run.
+MIN_REVIEWS = 10
 
 KEY = os.environ.get("GOOGLE_PLACES_API_KEY", "").strip()
 if not KEY:
@@ -37,12 +39,14 @@ HUBS = {
 }
 
 # detail-cat label -> query strings to try at every hub above.
-# NOTE: 燒烤/石鍋拌飯/人蔘雞湯/辣炒年糕/海鮮 already reached their targets
-# (12/6/12/12/12) in earlier runs — left here for reference but commented
-# out of the active dict so a re-run doesn't needlessly re-search them.
-# Only 咖啡廳 is active for the current expansion (3 -> 10+).
+# NOTE: 燒烤/石鍋拌飯/人蔘雞湯/辣炒年糕/海鮮/咖啡廳 already reached their
+# targets (12/6/12/12/12/13) in earlier runs — left here for reference but
+# commented out of the active dict so a re-run doesn't needlessly re-search
+# them. Only 服飾 is active for the current expansion (0 -> 10+, not
+# restricted to any particular shopping-district style, just highly rated).
 CATEGORY_QUERIES = {
-    "咖啡廳": ["부산 카페 맛집", "부산 감성카페", "부산 디저트 카페"],
+    "服飾": ["부산 옷가게", "부산 편집샵", "부산 보세 옷가게", "부산 패션 스토어"],
+    # "咖啡廳": ["부산 카페 맛집", "부산 감성카페", "부산 디저트 카페"],
     # "燒烤": ["부산 고기집", "부산 소고기 맛집"],
     # "石鍋拌飯": ["부산 돌솥비빔밥 맛집", "부산 비빔밥 맛집", "부산 비빔밥 전문점"],
     # "人蔘雞湯": ["부산 삼계탕 맛집"],
