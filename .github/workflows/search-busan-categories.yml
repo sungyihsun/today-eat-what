@@ -66,4 +66,10 @@ jobs:
           git add candidate-results/busan-cat-candidates.json candidate-results/busan-cat-final-list.json candidate-results/busan-cat-details.json
           git diff --cached --quiet && exit 0
           git commit -m "Publish Busan category-expansion candidates"
-          git push
+          for i in 1 2 3 4 5; do
+            git push && exit 0
+            echo "push rejected, rebasing onto latest DEV and retrying ($i)"
+            git fetch origin DEV
+            git rebase origin/DEV
+          done
+          exit 1
