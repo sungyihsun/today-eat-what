@@ -378,28 +378,29 @@
   }
   .load-more-btn:hover{ background:var(--jade); color:var(--white); border-color:var(--jade); }
 
-  /* 旅遊版：偏海水藍的獨立配色，跟站內其他區域（米黃/赭紅/墨綠）拉開，帶出「出國」的感覺 */
+  /* 旅遊版：星宇航空風格的黑金配色，跟站內其他區域（米黃/赭紅/墨綠）拉開，帶出「出國」「精品航空」的質感 */
   .trip-toggle-btn{
-    height:38px; padding:0 15px; border:1px solid rgba(20,110,150,0.35); border-radius:999px;
-    background:rgba(20,110,150,0.12); color:#0f6e94; cursor:pointer;
+    height:38px; padding:0 15px; border:1px solid rgba(22,20,15,0.4); border-radius:999px;
+    background:rgba(22,20,15,0.05); color:#201d16; cursor:pointer;
     font-size:13.5px; font-weight:600; flex:0 0 auto; transition:background .2s ease;
   }
-  .trip-toggle-btn:hover{ background:rgba(20,110,150,0.22); }
-  .trip-toggle-btn.active{ background:#0f6e94; color:var(--white); border-color:#0f6e94; }
+  .trip-toggle-btn:hover{ background:rgba(184,144,47,0.18); }
+  .trip-toggle-btn.active{ background:#16140f; color:#c9a227; border-color:#16140f; }
 
   .trip-picker{
     margin:0 var(--safe-r) 14px var(--safe-l); display:flex; flex-direction:column; gap:10px;
-    background:linear-gradient(135deg, rgba(15,110,148,0.08), rgba(120,200,225,0.10));
-    border:1px solid rgba(15,110,148,0.16); border-radius:18px; padding:14px 16px;
+    background:linear-gradient(135deg, rgba(22,20,15,0.05), rgba(184,144,47,0.12));
+    border:1px solid rgba(184,144,47,0.4); border-radius:18px; padding:14px 16px;
   }
-  .trip-picker-label{ font-size:12.5px; font-weight:600; color:#1a7896; }
-  .trip-picker .area-toggle button.active{ background:#0f6e94; color:var(--white); border-color:#0f6e94; }
-  .trip-picker .area-toggle button:not(.active):not(.area-future){ border-color:rgba(15,110,148,0.3); color:#1a7896; }
+  .trip-picker-label{ font-size:12.5px; font-weight:600; color:#8a6d23; }
+  .trip-picker .area-toggle button.active{ background:#16140f; color:#c9a227; border-color:#16140f; }
+  .trip-picker .area-toggle button:not(.active):not(.area-future){ border-color:rgba(184,144,47,0.45); color:#201d16; }
 
   /* While browsing 釜山, retint the whole site's accent color (chips, fav
-     toggle, hours toggle, load-more hover — anything using --jade) to sea
-     blue instead of duplicating every rule for a second color scheme. */
-  body.busan-mode{ --jade:#0f6e94; }
+     toggle, hours toggle, load-more hover — anything using --jade) to a
+     champagne gold instead of duplicating every rule for a second color
+     scheme; the black comes from the toggle/picker rules above. */
+  body.busan-mode{ --jade:#a9792a; }
   .card{
     background:rgba(255,253,250,0.78); border:1px solid rgba(255,255,255,0.6); border-radius:var(--card-radius);
     backdrop-filter:blur(18px) saturate(1.5); -webkit-backdrop-filter:blur(18px) saturate(1.5);
