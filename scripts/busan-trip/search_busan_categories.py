@@ -37,12 +37,17 @@ HUBS = {
 }
 
 # detail-cat label -> query strings to try at every hub above.
+# NOTE: 燒烤/石鍋拌飯/人蔘雞湯/辣炒年糕/海鮮 already reached their targets
+# (12/6/12/12/12) in earlier runs — left here for reference but commented
+# out of the active dict so a re-run doesn't needlessly re-search them.
+# Only 咖啡廳 is active for the current expansion (3 -> 10+).
 CATEGORY_QUERIES = {
-    "燒烤": ["부산 고기집", "부산 소고기 맛집"],
-    "石鍋拌飯": ["부산 돌솥비빔밥 맛집", "부산 비빔밥 맛집", "부산 비빔밥 전문점"],
-    "人蔘雞湯": ["부산 삼계탕 맛집"],
-    "辣炒年糕": ["부산 떡볶이 맛집"],
-    "海鮮": ["부산 회 맛집", "부산 해산물 맛집"],
+    "咖啡廳": ["부산 카페 맛집", "부산 감성카페", "부산 디저트 카페"],
+    # "燒烤": ["부산 고기집", "부산 소고기 맛집"],
+    # "石鍋拌飯": ["부산 돌솥비빔밥 맛집", "부산 비빔밥 맛집", "부산 비빔밥 전문점"],
+    # "人蔘雞湯": ["부산 삼계탕 맛집"],
+    # "辣炒年糕": ["부산 떡볶이 맛집"],
+    # "海鮮": ["부산 회 맛집", "부산 해산물 맛집"],
 }
 
 
