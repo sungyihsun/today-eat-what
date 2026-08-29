@@ -63,27 +63,6 @@
   ],
   "area_label": "西面"
  },
- "3586075099909259255": {
-  "place_id": "ChIJe1QMOBvraDUR9__2s01MxDE",
-  "name": "Sinchon Yangpuni, Seomyeon",
-  "address": "27-2 Seojeon-ro 10beon-gil, Busanjin District, Busan, 南韓",
-  "rating": 4.8,
-  "userRatingCount": 899,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=3586075099909259255&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1564367,
-   "longitude": 129.06029279999998
-  },
-  "types": [
-   "korean_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西面"
- },
  "175888403944242738": {
   "place_id": "ChIJPRvWQE3raDURMv40TZLhcAI",
   "name": "濟州間烤肉 西面店",
@@ -126,27 +105,6 @@
   ],
   "area_label": "西面"
  },
- "4660772655444454265": {
-  "place_id": "ChIJFTUej0rraDUReeueSglkrkA",
-  "name": "寶貝飯店",
-  "address": "40 Bujeon-ro 66beon-gil, Busanjin District, Busan, 南韓",
-  "rating": 4.7,
-  "userRatingCount": 312,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=4660772655444454265&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1557306,
-   "longitude": 129.0569241
-  },
-  "types": [
-   "chinese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西面"
- },
  "6548707163682800255": {
   "place_id": "ChIJmxqzZgDraDURf4JeBXiu4Vo",
   "name": "9號韓牛 西面店",
@@ -161,28 +119,6 @@
   },
   "types": [
    "korean_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西面"
- },
- "18108419293796521991": {
-  "place_id": "ChIJIRgYbwDraDURB1iSumcHTvs",
-  "name": "永康街 西面店",
-  "address": "60 Seojeon-ro 9beon-gil, Busanjin District, Busan, 南韓",
-  "rating": 4.9,
-  "userRatingCount": 701,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=18108419293796521991&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.160164099999996,
-   "longitude": 129.0620329
-  },
-  "types": [
-   "taiwanese_restaurant",
-   "asian_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -233,27 +169,20 @@
   ],
   "area_label": "西面"
  },
- "4180733566479068370": {
-  "place_id": "ChIJEXjwpRbraDUR0myJOgfzBDo",
-  "name": "TAE TAE TAE",
-  "address": "22-9 Seojeon-ro 10beon-gil, Busanjin District, Busan, 南韓",
-  "rating": 4.8,
-  "userRatingCount": 754,
+ "16931100450009961345": {
+  "place_id": "ChIJg60fAC7raDURgdNMiyda9-o",
+  "name": "서면금돼지",
+  "address": "南韓 Busan, Busanjin District, Dongcheon-ro 95beon-gil, 11 1층",
+  "rating": 4.9,
+  "userRatingCount": 37,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=4180733566479068370&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=16931100450009961345&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 35.157044,
-   "longitude": 129.05991219999999
+   "latitude": 35.157199,
+   "longitude": 129.06164959999998
   },
   "types": [
    "restaurant",
-   "asian_fusion_restaurant",
-   "asian_restaurant",
-   "vegan_restaurant",
-   "vegetarian_restaurant",
-   "fusion_restaurant",
-   "bar",
-   "korean_restaurant",
    "food",
    "point_of_interest",
    "establishment"
@@ -281,20 +210,27 @@
   ],
   "area_label": "西面"
  },
- "16931100450009961345": {
-  "place_id": "ChIJg60fAC7raDURgdNMiyda9-o",
-  "name": "서면금돼지",
-  "address": "南韓 Busan, Busanjin District, Dongcheon-ro 95beon-gil, 11 1층",
-  "rating": 4.9,
-  "userRatingCount": 37,
+ "4180733566479068370": {
+  "place_id": "ChIJEXjwpRbraDUR0myJOgfzBDo",
+  "name": "TAE TAE TAE",
+  "address": "22-9 Seojeon-ro 10beon-gil, Busanjin District, Busan, 南韓",
+  "rating": 4.8,
+  "userRatingCount": 754,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=16931100450009961345&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=4180733566479068370&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 35.157199,
-   "longitude": 129.06164959999998
+   "latitude": 35.157044,
+   "longitude": 129.05991219999999
   },
   "types": [
    "restaurant",
+   "asian_fusion_restaurant",
+   "asian_restaurant",
+   "vegan_restaurant",
+   "vegetarian_restaurant",
+   "fusion_restaurant",
+   "bar",
+   "korean_restaurant",
    "food",
    "point_of_interest",
    "establishment"
@@ -306,7 +242,7 @@
   "name": "喉嚨 西面直營店",
   "address": "南韓 Busan, Busanjin District, Dongcheon-ro 95beon-gil, 24 1층",
   "rating": 4.9,
-  "userRatingCount": 143,
+  "userRatingCount": 144,
   "priceLevel": "PRICE_LEVEL_MODERATE",
   "googleMapsUri": "https://maps.google.com/?cid=11664155693867197667&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
@@ -336,6 +272,27 @@
   "types": [
    "korean_restaurant",
    "seafood_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西面"
+ },
+ "836565812530757606": {
+  "place_id": "ChIJaf-UJQDraDUR5r8hlywUnAs",
+  "name": "야키니쿠객 서면점(Yakinikugaek seomyeon)",
+  "address": "7 Seojeon-ro 10beon-gil, Busanjin District, Busan, 南韓",
+  "rating": 4.9,
+  "userRatingCount": 796,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=836565812530757606&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1572997,
+   "longitude": 129.0607795
+  },
+  "types": [
+   "barbecue_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -385,20 +342,62 @@
   ],
   "area_label": "西面"
  },
- "836565812530757606": {
-  "place_id": "ChIJaf-UJQDraDUR5r8hlywUnAs",
-  "name": "야키니쿠객 서면점(Yakinikugaek seomyeon)",
-  "address": "7 Seojeon-ro 10beon-gil, Busanjin District, Busan, 南韓",
-  "rating": 4.9,
-  "userRatingCount": 796,
+ "367158063099737634": {
+  "place_id": "ChIJy3rW6mTraDURIvZ6J1BoGAU",
+  "name": "金星會館 釜山西面店 釜山烤肉",
+  "address": "9 Dongcheon-ro 95beon-gil, Busanjin District, Busan, 南韓",
+  "rating": 5,
+  "userRatingCount": 432,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=836565812530757606&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=367158063099737634&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 35.1572997,
-   "longitude": 129.0607795
+   "latitude": 35.157142799999995,
+   "longitude": 129.061725
   },
   "types": [
-   "barbecue_restaurant",
+   "korean_barbecue_restaurant",
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西面"
+ },
+ "3586075099909259255": {
+  "place_id": "ChIJe1QMOBvraDUR9__2s01MxDE",
+  "name": "Sinchon Yangpuni, Seomyeon",
+  "address": "27-2 Seojeon-ro 10beon-gil, Busanjin District, Busan, 南韓",
+  "rating": 4.8,
+  "userRatingCount": 899,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=3586075099909259255&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1564367,
+   "longitude": 129.06029279999998
+  },
+  "types": [
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西面"
+ },
+ "14455168008300596868": {
+  "place_id": "ChIJJ5O8SBbraDURhA5Zf7cSm8g",
+  "name": "Seomyeon Gop",
+  "address": "南韓 Busan, Busanjin District, Gaya-daero 784beon-gil, 7 1층",
+  "rating": 4.8,
+  "userRatingCount": 206,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=14455168008300596868&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.157107499999995,
+   "longitude": 129.0573212
+  },
+  "types": [
    "restaurant",
    "food",
    "point_of_interest",
@@ -500,7 +499,7 @@
   "name": "흑쇠 서면본점 | korean bbq | Beef Restaurant 釜山烤肉 | 釜山美食 | 釜山焼肉 | 釜山グルメ",
   "address": "32-1 Seojeon-ro 10beon-gil, Busanjin District, Busan, 南韓",
   "rating": 4.9,
-  "userRatingCount": 613,
+  "userRatingCount": 615,
   "priceLevel": "PRICE_LEVEL_MODERATE",
   "googleMapsUri": "https://maps.google.com/?cid=15851309978340759574&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
@@ -511,8 +510,8 @@
    "restaurant",
    "yakiniku_restaurant",
    "korean_barbecue_restaurant",
-   "japanese_restaurant",
    "korean_restaurant",
+   "japanese_restaurant",
    "food",
    "point_of_interest",
    "establishment"
@@ -555,28 +554,6 @@
   },
   "types": [
    "barbecue_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西面"
- },
- "367158063099737634": {
-  "place_id": "ChIJy3rW6mTraDURIvZ6J1BoGAU",
-  "name": "金星會館 釜山西面店 釜山烤肉",
-  "address": "9 Dongcheon-ro 95beon-gil, Busanjin District, Busan, 南韓",
-  "rating": 5,
-  "userRatingCount": 432,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=367158063099737634&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.157142799999995,
-   "longitude": 129.061725
-  },
-  "types": [
-   "korean_barbecue_restaurant",
-   "korean_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -668,48 +645,6 @@
   ],
   "area_label": "西面"
  },
- "15906279587623811765": {
-  "place_id": "ChIJ_XPxdgDraDURtTpdhgJ1vtw",
-  "name": "安木 西面店",
-  "address": "10 Seomyeon-ro, Busanjin District, Busan, 南韓",
-  "rating": 4.9,
-  "userRatingCount": 803,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=15906279587623811765&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.151552599999995,
-   "longitude": 129.0580477
-  },
-  "types": [
-   "korean_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西面"
- },
- "15530729432660848017": {
-  "place_id": "ChIJrcEZ36vraDURkS10OCI8iNc",
-  "name": "산반들 돼지국밥 서면 전포카페거리 본점",
-  "address": "南韓 Busan, Busanjin District, Jeonpo-daero 209beon-gil, 43 산반들 1층",
-  "rating": 5,
-  "userRatingCount": 59,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=15530729432660848017&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.155333,
-   "longitude": 129.0627983
-  },
-  "types": [
-   "korean_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西面"
- },
  "17132809369177716703": {
   "place_id": "ChIJ06UOa8jraDUR33dSBln3w-0",
   "name": "소문난돼지국밥",
@@ -773,26 +708,6 @@
   ],
   "area_label": "西面"
  },
- "111364792259192185": {
-  "place_id": "ChIJFW3OoSjraDUReSUYQ7CliwE",
-  "name": "전포순대",
-  "address": "43-10 Jeonpo-daero 255beon-gil, Busanjin District, Busan, 南韓",
-  "rating": 5,
-  "userRatingCount": 84,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=111364792259192185&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.158935899999996,
-   "longitude": 129.0628285
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "田浦"
- },
  "2080788901377868851": {
   "place_id": "ChIJUQoUE3DraDURMwQ0N3ty4Bw",
   "name": "Miryang Sundae Dwaeji-gukbap",
@@ -804,6 +719,27 @@
   "location": {
    "latitude": 35.153742799999996,
    "longitude": 129.0598114
+  },
+  "types": [
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西面"
+ },
+ "15906279587623811765": {
+  "place_id": "ChIJ_XPxdgDraDURtTpdhgJ1vtw",
+  "name": "安木 西面店",
+  "address": "10 Seomyeon-ro, Busanjin District, Busan, 南韓",
+  "rating": 4.9,
+  "userRatingCount": 803,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=15906279587623811765&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.151552599999995,
+   "longitude": 129.0580477
   },
   "types": [
    "korean_restaurant",
@@ -835,27 +771,6 @@
   ],
   "area_label": "西面"
  },
- "3227896668945594450": {
-  "place_id": "ChIJ_afStW7raDURUjgrFOvKyyw",
-  "name": "장수국밥",
-  "address": "8 Saessak-ro 29beon-gil, Busanjin District, Busan, 南韓",
-  "rating": 4.2,
-  "userRatingCount": 159,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=3227896668945594450&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1603577,
-   "longitude": 129.0565833
-  },
-  "types": [
-   "korean_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西面"
- },
  "8554075648941985300": {
   "place_id": "ChIJ1S0NuG_raDURFI4BNXsutnY",
   "name": "朴家慶州餐廳",
@@ -869,6 +784,27 @@
    "longitude": 129.0585102
   },
   "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西面"
+ },
+ "15530729432660848017": {
+  "place_id": "ChIJrcEZ36vraDURkS10OCI8iNc",
+  "name": "산반들 돼지국밥 서면 전포카페거리 본점",
+  "address": "南韓 Busan, Busanjin District, Jeonpo-daero 209beon-gil, 43 산반들 1층",
+  "rating": 5,
+  "userRatingCount": 59,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=15530729432660848017&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.155333,
+   "longitude": 129.0627983
+  },
+  "types": [
+   "korean_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -918,6 +854,47 @@
   ],
   "area_label": "西面"
  },
+ "7727306963624625793": {
+  "place_id": "ChIJp0JgsmvraDURgYY_Db7oPGs",
+  "name": "육회장 서면직영점",
+  "address": "南韓 Busan, Busanjin District, Jungang-daero 691beonga-gil, 14-5 육회장 서면직영점",
+  "rating": 4.8,
+  "userRatingCount": 33,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=7727306963624625793&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1550347,
+   "longitude": 129.05599859999998
+  },
+  "types": [
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西面"
+ },
+ "111364792259192185": {
+  "place_id": "ChIJFW3OoSjraDUReSUYQ7CliwE",
+  "name": "전포순대",
+  "address": "43-10 Jeonpo-daero 255beon-gil, Busanjin District, Busan, 南韓",
+  "rating": 5,
+  "userRatingCount": 84,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=111364792259192185&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.158935899999996,
+   "longitude": 129.0628285
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "田浦"
+ },
  "9967300453178756857": {
   "place_id": "ChIJYeuKwGTraDUR-U5PAfT2Uoo",
   "name": "田浦咖啡街",
@@ -932,116 +909,6 @@
   },
   "types": [
    "tourist_attraction",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "田浦"
- },
- "4088502464900339002": {
-  "place_id": "ChIJI2dsHzTraDUROpWxe1RHvTg",
-  "name": "달달한놀이터 전포점",
-  "address": "南韓 Busan, Busanjin District, Seojeon-ro 58beon-gil, 119 1층",
-  "rating": 4.9,
-  "userRatingCount": 63,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=4088502464900339002&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.152463399999995,
-   "longitude": 129.06622439999998
-  },
-  "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "田浦"
- },
- "6059367364556883533": {
-  "place_id": "ChIJCxhkTHWTaDURTQYCoIMyF1Q",
-  "name": "Feivor Coffee",
-  "address": "南韓 Busan, Busanjin District, Seojeon-ro 68beon-gil, 52 페이버커피 2층",
-  "rating": 4.8,
-  "userRatingCount": 177,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=6059367364556883533&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.155534599999996,
-   "longitude": 129.067162
-  },
-  "types": [
-   "coffee_shop",
-   "cafe",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "田浦"
- },
- "16601262593631371924": {
-  "place_id": "ChIJwYjuMLzraDURlMJgJF-IY-Y",
-  "name": "pikend",
-  "address": "188 Jeonpo-daero, Busanjin District, Busan, 南韓",
-  "rating": 4.8,
-  "userRatingCount": 53,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=16601262593631371924&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1534069,
-   "longitude": 129.0655558
-  },
-  "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "田浦"
- },
- "10480815574548104347": {
-  "place_id": "ChIJl6tilzbraDURm0RSPTxWc5E",
-  "name": "힙피",
-  "address": "12 Dongseong-ro 25beon-gil, Busanjin District, Busan, 南韓",
-  "rating": 5,
-  "userRatingCount": 196,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=10480815574548104347&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.152806399999996,
-   "longitude": 129.0678394
-  },
-  "types": [
-   "dessert_shop",
-   "dog_cafe",
-   "coffee_shop",
-   "cafe",
-   "confectionery",
-   "bakery",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "田浦"
- },
- "12612233532705135831": {
-  "place_id": "ChIJ4bNyaabraDUR19woVZOnB68",
-  "name": "SHEEP COFFEE",
-  "address": "51 Seojeon-ro 47beon-gil, Busanjin District, Busan, 南韓",
-  "rating": 4.5,
-  "userRatingCount": 242,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=12612233532705135831&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1601992,
-   "longitude": 129.0646658
-  },
-  "types": [
-   "cafe",
-   "food",
    "point_of_interest",
    "establishment"
   ],
@@ -1110,52 +977,6 @@
   ],
   "area_label": "田浦"
  },
- "1901208735418512256": {
-  "place_id": "ChIJAYyTMvTraDURgHN9lkVzYho",
-  "name": "달조리법 부산전포점",
-  "address": "80 Seojeon-ro 58beon-gil, Busanjin District, Busan, 南韓",
-  "rating": 4.6,
-  "userRatingCount": 106,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=1901208735418512256&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1553372,
-   "longitude": 129.0660776
-  },
-  "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "田浦"
- },
- "17881754744041672482": {
-  "place_id": "ChIJARV7jp_raDURIo9CtzLBKPg",
-  "name": "Upper Yeast Bakery",
-  "address": "南韓 Busan, Busanjin District, Seojeon-ro 46beon-gil, 62-14 2층",
-  "rating": 5,
-  "userRatingCount": 549,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=17881754744041672482&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.155039099999996,
-   "longitude": 129.064153
-  },
-  "types": [
-   "cafe",
-   "coffee_shop",
-   "dessert_shop",
-   "confectionery",
-   "bakery",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "田浦"
- },
  "10818076078431221807": {
   "place_id": "ChIJq_CHXgDraDURLzgLcOCGIZY",
   "name": "이바바커피",
@@ -1179,23 +1000,40 @@
   ],
   "area_label": "田浦"
  },
- "15315256880058392709": {
-  "place_id": "ChIJt-QYfnTraDURheC8G_24itQ",
-  "name": "폴바셋 부산전포DT점",
-  "address": "248 Jeonpo-daero, Busanjin District, Busan, 南韓",
-  "rating": 4.2,
-  "userRatingCount": 53,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=15315256880058392709&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "4088502464900339002": {
+  "place_id": "ChIJI2dsHzTraDUROpWxe1RHvTg",
+  "name": "달달한놀이터 전포점",
+  "address": "南韓 Busan, Busanjin District, Seojeon-ro 58beon-gil, 119 1층",
+  "rating": 4.9,
+  "userRatingCount": 63,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=4088502464900339002&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 35.1588218,
-   "longitude": 129.0656964
+   "latitude": 35.152463399999995,
+   "longitude": 129.06622439999998
   },
   "types": [
-   "coffee_shop",
    "cafe",
-   "food_store",
-   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "田浦"
+ },
+ "16601262593631371924": {
+  "place_id": "ChIJwYjuMLzraDURlMJgJF-IY-Y",
+  "name": "pikend",
+  "address": "188 Jeonpo-daero, Busanjin District, Busan, 南韓",
+  "rating": 4.8,
+  "userRatingCount": 53,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=16601262593631371924&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1534069,
+   "longitude": 129.0655558
+  },
+  "types": [
+   "cafe",
    "food",
    "point_of_interest",
    "establishment"
@@ -1219,6 +1057,137 @@
    "cafe",
    "food_store",
    "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "田浦"
+ },
+ "6059367364556883533": {
+  "place_id": "ChIJCxhkTHWTaDURTQYCoIMyF1Q",
+  "name": "Feivor Coffee",
+  "address": "南韓 Busan, Busanjin District, Seojeon-ro 68beon-gil, 52 페이버커피 2층",
+  "rating": 4.8,
+  "userRatingCount": 177,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=6059367364556883533&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.155534599999996,
+   "longitude": 129.067162
+  },
+  "types": [
+   "coffee_shop",
+   "cafe",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "田浦"
+ },
+ "12612233532705135831": {
+  "place_id": "ChIJ4bNyaabraDUR19woVZOnB68",
+  "name": "SHEEP COFFEE",
+  "address": "51 Seojeon-ro 47beon-gil, Busanjin District, Busan, 南韓",
+  "rating": 4.5,
+  "userRatingCount": 242,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=12612233532705135831&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1601992,
+   "longitude": 129.0646658
+  },
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "田浦"
+ },
+ "13634807638420274445": {
+  "place_id": "ChIJva1hL5PraDURDb3SjE6ROL0",
+  "name": "Your Type Jeonpo",
+  "address": "南韓 Busan, Busanjin District, Dongseong-ro 15beon-gil, 33 2층",
+  "rating": 4.8,
+  "userRatingCount": 168,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=13634807638420274445&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1517426,
+   "longitude": 129.0665745
+  },
+  "types": [
+   "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "田浦"
+ },
+ "4134534062494029999": {
+  "place_id": "ChIJPbYtIGXraDURr5i1-tLQYDk",
+  "name": "Vintage38",
+  "address": "38 Jeonpo-daero 199beon-gil, Jeonpo 1-dong, Busanjin District, Busan, 南韓",
+  "rating": 4.2,
+  "userRatingCount": 987,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=4134534062494029999&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1546479,
+   "longitude": 129.0630927
+  },
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "田浦"
+ },
+ "10480815574548104347": {
+  "place_id": "ChIJl6tilzbraDURm0RSPTxWc5E",
+  "name": "힙피",
+  "address": "12 Dongseong-ro 25beon-gil, Busanjin District, Busan, 南韓",
+  "rating": 5,
+  "userRatingCount": 196,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=10480815574548104347&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.152806399999996,
+   "longitude": 129.0678394
+  },
+  "types": [
+   "dessert_shop",
+   "dog_cafe",
+   "coffee_shop",
+   "cafe",
+   "bakery",
+   "confectionery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "田浦"
+ },
+ "8319943711614183340": {
+  "place_id": "ChIJA8hu6mPraDURrCcCirlgdnM",
+  "name": "Treasures Busan Jeonpo",
+  "address": "28 Jeonpo-daero 216beon-gil, Busanjin District, Busan, 南韓",
+  "rating": 4.6,
+  "userRatingCount": 41,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=8319943711614183340&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1556749,
+   "longitude": 129.0670918
+  },
+  "types": [
+   "cafe",
    "food",
    "point_of_interest",
    "establishment"
@@ -1349,25 +1318,6 @@
   ],
   "area_label": "田浦"
  },
- "7149294957197461769": {
-  "place_id": "ChIJgczeRavraDURCQk_juJlN2M",
-  "name": "Wonhwarang",
-  "address": "21 Jeonpo-daero 246beon-gil, Busanjin District, Busan, 南韓",
-  "rating": 4.8,
-  "userRatingCount": 98,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=7149294957197461769&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1586865,
-   "longitude": 129.0667428
-  },
-  "types": [
-   "bar",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "田浦"
- },
  "12261799917707535216": {
   "place_id": "ChIJx9GdJjDraDURcCPfMQ-qKqo",
   "name": "초삼구이 전포본점",
@@ -1383,6 +1333,25 @@
   "types": [
    "restaurant",
    "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "田浦"
+ },
+ "7149294957197461769": {
+  "place_id": "ChIJgczeRavraDURCQk_juJlN2M",
+  "name": "Wonhwarang",
+  "address": "21 Jeonpo-daero 246beon-gil, Busanjin District, Busan, 南韓",
+  "rating": 4.8,
+  "userRatingCount": 98,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=7149294957197461769&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1586865,
+   "longitude": 129.0667428
+  },
+  "types": [
+   "bar",
    "point_of_interest",
    "establishment"
   ],
@@ -1596,25 +1565,20 @@
   ],
   "area_label": "田浦"
  },
- "5843709638183560443": {
-  "place_id": "ChIJC1E4lOPraDUR-yR1YvQGGVE",
-  "name": "FREE WILL PIZZA",
-  "address": "南韓 Busan, Busanjin District, Jeonpo-daero 224beon-gil, 26 1 층",
-  "rating": 4.8,
-  "userRatingCount": 91,
+ "9572245900523673554": {
+  "place_id": "ChIJiZMf_AvraDUR0hdnO-5y14Q",
+  "name": "갓포사잇쿠마",
+  "address": "南韓 Busan, Busanjin District, Dongseong-ro 71beon-gil, 31 1층",
+  "rating": 5,
+  "userRatingCount": 37,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=5843709638183560443&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=9572245900523673554&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 35.1564616,
-   "longitude": 129.066933
+   "latitude": 35.1568045,
+   "longitude": 129.0665855
   },
   "types": [
-   "pizza_restaurant",
-   "italian_restaurant",
-   "pub",
    "bar",
-   "restaurant",
-   "food",
    "point_of_interest",
    "establishment"
   ],
@@ -1682,26 +1646,6 @@
   ],
   "area_label": "甘川洞"
  },
- "10068767069509060268": {
-  "place_id": "ChIJ12bb8rXpaDURrAY9mE1yu4s",
-  "name": "덮스&스시",
-  "address": "南韓 Busan, Saha-gu, Gamcheon-dong, 13-14번지 2층",
-  "rating": 4.8,
-  "userRatingCount": 33,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=10068767069509060268&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.0937771,
-   "longitude": 129.0090783
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "甘川洞"
- },
  "2034634646036018665": {
   "place_id": "ChIJh_ECG_bpaDUR6fWtPG55PBw",
   "name": "Bibibim",
@@ -1716,8 +1660,8 @@
   },
   "types": [
    "korean_restaurant",
-   "dessert_shop",
    "cafe",
+   "dessert_shop",
    "confectionery",
    "food_store",
    "store",
@@ -1742,6 +1686,26 @@
   },
   "types": [
    "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "甘川洞"
+ },
+ "10068767069509060268": {
+  "place_id": "ChIJ12bb8rXpaDURrAY9mE1yu4s",
+  "name": "덮스&스시",
+  "address": "南韓 Busan, Saha-gu, Gamcheon-dong, 13-14번지 2층",
+  "rating": 4.8,
+  "userRatingCount": 33,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=10068767069509060268&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.0937771,
+   "longitude": 129.0090783
+  },
+  "types": [
    "restaurant",
    "food",
    "point_of_interest",
@@ -1812,6 +1776,123 @@
   ],
   "area_label": "甘川洞"
  },
+ "10376172672944516906": {
+  "place_id": "ChIJCZiG6bfpaDURKi_5GhKS_48",
+  "name": "감내골향기",
+  "address": "南韓 Busan, Saha-gu, Gamcheon-dong, 번지 1층 2-125",
+  "rating": 4.3,
+  "userRatingCount": 30,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=10376172672944516906&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.098190699999996,
+   "longitude": 129.0094943
+  },
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "甘川洞"
+ },
+ "8285356690835353077": {
+  "place_id": "ChIJP0Hor0zpaDUR9a2lOgOA-3I",
+  "name": "DUF Coffee",
+  "address": "195 Gamnae 1-ro, Saha-gu, Busan, 南韓",
+  "rating": 5,
+  "userRatingCount": 1783,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=8285356690835353077&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.0962779,
+   "longitude": 129.009235
+  },
+  "types": [
+   "coffee_shop",
+   "cafe",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "甘川洞"
+ },
+ "1282117673847686113": {
+  "place_id": "ChIJA61qzcnpaDUR4QPxPTv_yhE",
+  "name": "The Plate",
+  "address": "113 Gamnae 2-ro, Saha-gu, Busan, 南韓",
+  "rating": 4.1,
+  "userRatingCount": 94,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=1282117673847686113&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.097497499999996,
+   "longitude": 129.00777100000002
+  },
+  "types": [
+   "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "甘川洞"
+ },
+ "6984422573747659219": {
+  "place_id": "ChIJl6PvEo7paDUR0-FyZVOn7WA",
+  "name": "法魯咖啡FARO COFFEE",
+  "address": "133 Gamnae 2-ro, Saha-gu, Busan, 南韓",
+  "rating": 4.4,
+  "userRatingCount": 72,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=6984422573747659219&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.098057,
+   "longitude": 129.00855819999998
+  },
+  "types": [
+   "coffee_shop",
+   "cafe",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "甘川洞"
+ },
+ "9446864919668315098": {
+  "place_id": "ChIJBSb543jpaDUR2tPtwZcBGoM",
+  "name": "까치까치(kkachi kkachi)",
+  "address": "南韓 Busan, Seo-gu, 峨嵋洞231-28",
+  "rating": 4.9,
+  "userRatingCount": 540,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=9446864919668315098&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.0983886,
+   "longitude": 129.0115971
+  },
+  "types": [
+   "brunch_restaurant",
+   "dog_cafe",
+   "sandwich_shop",
+   "coffee_shop",
+   "cafe",
+   "vegan_restaurant",
+   "vegetarian_restaurant",
+   "food_store",
+   "korean_restaurant",
+   "store",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "甘川洞"
+ },
  "3993351374101855108": {
   "place_id": "ChIJ1Q6qpgjpaDURhLuoxOo7azc",
   "name": "Dosym",
@@ -1834,67 +1915,6 @@
   ],
   "area_label": "甘川洞"
  },
- "5613280263082197646": {
-  "place_id": "ChIJCRJHMzToaDURjsK5qahg5k0",
-  "name": "설장군감자탕",
-  "address": "南韓 Busan, Saha-gu, 감천제1동 463-12",
-  "rating": 4.1,
-  "userRatingCount": 214,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=5613280263082197646&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.087404,
-   "longitude": 129.0058642
-  },
-  "types": [
-   "korean_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "甘川洞"
- },
- "10376172672944516906": {
-  "place_id": "ChIJCZiG6bfpaDURKi_5GhKS_48",
-  "name": "감내골향기",
-  "address": "南韓 Busan, Saha-gu, Gamcheon-dong, 번지 1층 2-125",
-  "rating": 4.3,
-  "userRatingCount": 30,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=10376172672944516906&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.098190699999996,
-   "longitude": 129.0094943
-  },
-  "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "甘川洞"
- },
- "11208614466978538784": {
-  "place_id": "ChIJjQxbiDboaDURIGWP0Hj_jJs",
-  "name": "명예해물잡탕",
-  "address": "Wonnyang-ro, 감천제1동 사하구 부산광역시 南韓",
-  "rating": 4.2,
-  "userRatingCount": 69,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=11208614466978538784&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.0859425,
-   "longitude": 129.0057966
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "甘川洞"
- },
  "7271563682552362361": {
   "place_id": "ChIJL6wCPKHpaDUReTUqlKTI6WQ",
   "name": "喉嚨 南浦店",
@@ -1909,8 +1929,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "南浦洞"
@@ -1952,8 +1972,8 @@
    "korean_barbecue_restaurant",
    "korean_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "南浦洞"
@@ -1974,8 +1994,8 @@
    "korean_restaurant",
    "chicken_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "南浦洞"
@@ -1996,8 +2016,8 @@
    "korean_barbecue_restaurant",
    "korean_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "南浦洞"
@@ -2017,31 +2037,8 @@
   "types": [
    "seafood_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "南浦洞"
- },
- "18221837351642379746": {
-  "place_id": "ChIJb7ruFj3paDUR4rWWI4f44Pw",
-  "name": "Taurus Steakhouse",
-  "address": "44 Gwangbok-ro, Jung-gu, Busan, 南韓",
-  "rating": 4.9,
-  "userRatingCount": 58,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=18221837351642379746&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.0991785,
-   "longitude": 129.0298158
-  },
-  "types": [
-   "steak_house",
-   "wine_bar",
-   "bar",
-   "restaurant",
    "food",
-   "point_of_interest",
    "establishment"
   ],
   "area_label": "南浦洞"
@@ -2059,13 +2056,13 @@
    "longitude": 129.0269427
   },
   "types": [
-   "korean_barbecue_restaurant",
    "yakiniku_restaurant",
+   "korean_barbecue_restaurant",
    "korean_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "南浦洞"
@@ -2086,30 +2083,8 @@
    "bar",
    "korean_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "南浦洞"
- },
- "3086702820032435160": {
-  "place_id": "ChIJ9TSbVgvpaDUR2NM6W9wr1io",
-  "name": "Nampojip",
-  "address": "4 Gwangbok-ro 85beon-gil, Jung-gu, Busan, 南韓",
-  "rating": 4.4,
-  "userRatingCount": 72,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=3086702820032435160&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.098782899999996,
-   "longitude": 129.0344086
-  },
-  "types": [
-   "korean_barbecue_restaurant",
-   "korean_restaurant",
-   "restaurant",
    "food",
-   "point_of_interest",
    "establishment"
   ],
   "area_label": "南浦洞"
@@ -2128,8 +2103,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "南浦洞"
@@ -2149,8 +2124,8 @@
   "types": [
    "barbecue_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "南浦洞"
@@ -2171,8 +2146,8 @@
    "korean_barbecue_restaurant",
    "korean_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "南浦洞"
@@ -2199,47 +2174,6 @@
   ],
   "area_label": "南浦洞"
  },
- "17342496693155614615": {
-  "place_id": "ChIJcUKwrgvpaDURl0_todvsrPA",
-  "name": "Juya seafood",
-  "address": "65-1 Jagalchihaean-ro, Nampo-dong 4(sa)-ga, Jung-gu, Busan, 南韓",
-  "rating": 4.7,
-  "userRatingCount": 113,
-  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=17342496693155614615&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.0971988,
-   "longitude": 129.03242000000003
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "南浦洞"
- },
- "15173821275348643873": {
-  "place_id": "ChIJFbFo0wDpaDURIbBrOg4-lNI",
-  "name": "三益食堂",
-  "address": "20 Nampo-gil, Jung-gu, Busan, 南韓",
-  "rating": 4.6,
-  "userRatingCount": 138,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=15173821275348643873&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.098727,
-   "longitude": 129.03091899999998
-  },
-  "types": [
-   "korean_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "南浦洞"
- },
  "5257230726657623346": {
   "place_id": "ChIJ5yxVG6HpaDURMkWy7H1v9Ug",
   "name": "南浦洞裏面的房子",
@@ -2255,8 +2189,8 @@
   "types": [
    "korean_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "南浦洞"
@@ -2276,32 +2210,99 @@
   "types": [
    "western_restaurant",
    "burrito_restaurant",
-   "wine_bar",
    "steak_house",
+   "wine_bar",
    "bar",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "南浦洞"
  },
- "16139220823496256290": {
-  "place_id": "ChIJ1TL42WrpaDURIusUaNQH-t8",
-  "name": "노나무라",
-  "address": "57-1 Bupyeong 1-gil, Jung-gu, Busan, 南韓",
+ "10528906415308283413": {
+  "place_id": "ChIJM6Jkf6DpaDURFR7IpZkwHpI",
+  "name": "Kapposin",
+  "address": "南韓釜山廣域市",
+  "rating": 4.5,
+  "userRatingCount": 80,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=10528906415308283413&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.0988565,
+   "longitude": 129.02936649999998
+  },
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "南浦洞"
+ },
+ "6220992016880916184": {
+  "place_id": "ChIJc6jwTKDpaDUR2Fa6dEdnVVY",
+  "name": "미술공방",
+  "address": "南韓 Busan, Jung-gu, Bupyeong-dong 1(il)-ga, 30-46번지 1층",
+  "rating": 4.8,
+  "userRatingCount": 40,
+  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=6220992016880916184&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.100369,
+   "longitude": 129.0269221
+  },
+  "types": [
+   "korean_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "南浦洞"
+ },
+ "3086702820032435160": {
+  "place_id": "ChIJ9TSbVgvpaDUR2NM6W9wr1io",
+  "name": "Nampojip",
+  "address": "4 Gwangbok-ro 85beon-gil, Jung-gu, Busan, 南韓",
+  "rating": 4.4,
+  "userRatingCount": 72,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=3086702820032435160&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.098782899999996,
+   "longitude": 129.0344086
+  },
+  "types": [
+   "korean_barbecue_restaurant",
+   "korean_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "南浦洞"
+ },
+ "18221837351642379746": {
+  "place_id": "ChIJb7ruFj3paDUR4rWWI4f44Pw",
+  "name": "Taurus Steakhouse",
+  "address": "44 Gwangbok-ro, Jung-gu, Busan, 南韓",
   "rating": 4.9,
   "userRatingCount": 58,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=16139220823496256290&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=18221837351642379746&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 35.1020932,
-   "longitude": 129.0257938
+   "latitude": 35.0991785,
+   "longitude": 129.0298158
   },
   "types": [
+   "steak_house",
+   "wine_bar",
+   "bar",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "南浦洞"
@@ -2311,7 +2312,7 @@
   "name": "Nuri Gamja Tang",
   "address": "南韓 Busan, Jung-gu, Nampo-dong 5(o)-ga, 10-2 1충",
   "rating": 4.9,
-  "userRatingCount": 202,
+  "userRatingCount": 201,
   "priceLevel": "PRICE_LEVEL_MODERATE",
   "googleMapsUri": "https://maps.google.com/?cid=4702162031581538304&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
@@ -2351,21 +2352,21 @@
   ],
   "area_label": "南浦洞"
  },
- "17353590159296253974": {
-  "place_id": "ChIJfYLMelSTaDURFlCRfk5W1PA",
-  "name": "國際市場",
-  "address": "55 Gukjesijang 2-gil, Jung-gu, Busan, 南韓",
-  "rating": 4.1,
-  "userRatingCount": 13021,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=17353590159296253974&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "16139220823496256290": {
+  "place_id": "ChIJ1TL42WrpaDURIusUaNQH-t8",
+  "name": "노나무라",
+  "address": "57-1 Bupyeong 1-gil, Jung-gu, Busan, 南韓",
+  "rating": 4.9,
+  "userRatingCount": 58,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=16139220823496256290&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 35.1013575,
-   "longitude": 129.0281978
+   "latitude": 35.1020932,
+   "longitude": 129.0257938
   },
   "types": [
-   "market",
-   "tourist_attraction",
+   "restaurant",
+   "food",
    "point_of_interest",
    "establishment"
   ],
@@ -2391,22 +2392,21 @@
   ],
   "area_label": "南浦洞"
  },
- "15931664272626342565": {
-  "place_id": "ChIJ5-Zae5_paDURpdqsEj-kGN0",
-  "name": "養汕家",
-  "address": "30 Junggu-ro 47beon-gil, Jung-gu, Busan, 南韓",
-  "rating": 4.3,
-  "userRatingCount": 485,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=15931664272626342565&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "17353590159296253974": {
+  "place_id": "ChIJfYLMelSTaDURFlCRfk5W1PA",
+  "name": "國際市場",
+  "address": "55 Gukjesijang 2-gil, Jung-gu, Busan, 南韓",
+  "rating": 4.1,
+  "userRatingCount": 13021,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=17353590159296253974&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 35.1023001,
-   "longitude": 129.0263316
+   "latitude": 35.1013575,
+   "longitude": 129.0281978
   },
   "types": [
-   "korean_restaurant",
-   "restaurant",
-   "food",
+   "market",
+   "tourist_attraction",
    "point_of_interest",
    "establishment"
   ],
@@ -2423,27 +2423,6 @@
   "location": {
    "latitude": 35.10086580000001,
    "longitude": 129.02600809999998
-  },
-  "types": [
-   "korean_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "南浦洞"
- },
- "9755309407767772535": {
-  "place_id": "ChIJw0iGpQrpaDURdz0GdDjSYYc",
-  "name": "大屋",
-  "address": "19 Junggu-ro 24beon-gil, Jung-gu, Busan, 南韓",
-  "rating": 4.1,
-  "userRatingCount": 655,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=9755309407767772535&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1002668,
-   "longitude": 129.02983609999998
   },
   "types": [
    "korean_restaurant",
@@ -2475,26 +2454,6 @@
   ],
   "area_label": "南浦洞"
  },
- "15624819815562438799": {
-  "place_id": "ChIJX5P2oaHpaDURj2gVotaC1tg",
-  "name": "Mr. Bulgogi",
-  "address": "南韓釜山廣域市",
-  "rating": 4.5,
-  "userRatingCount": 31,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=15624819815562438799&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.100410499999995,
-   "longitude": 129.02553509999998
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "南浦洞"
- },
  "14246162389179799077": {
   "place_id": "ChIJneur8J_paDURJZaXqzaJtMU",
   "name": "아즈매부엌",
@@ -2516,41 +2475,20 @@
   ],
   "area_label": "南浦洞"
  },
- "10928567137520567602": {
-  "place_id": "ChIJeXhI2KHpaDURMsXr1-gRqpc",
-  "name": "國際炸雞 富平本店",
-  "address": "33-1 Junggu-ro 47beon-gil, Jung-gu, Busan, 南韓",
+ "15931664272626342565": {
+  "place_id": "ChIJ5-Zae5_paDURpdqsEj-kGN0",
+  "name": "養汕家",
+  "address": "30 Junggu-ro 47beon-gil, Jung-gu, Busan, 南韓",
   "rating": 4.3,
-  "userRatingCount": 165,
+  "userRatingCount": 485,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=10928567137520567602&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=15931664272626342565&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 35.1021572,
-   "longitude": 129.0260298
+   "latitude": 35.1023001,
+   "longitude": 129.0263316
   },
   "types": [
-   "meal_takeaway",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "南浦洞"
- },
- "13989849580372515751": {
-  "place_id": "ChIJC0MxF5_paDURp1tAaxLuJcI",
-  "name": "Gwangbok Lite Western Cuisine, Nampo Main Branch",
-  "address": "南韓 Busan, Jung-gu, Gwangbokjungang-ro, 9 새부산타운 1층",
-  "rating": 4.2,
-  "userRatingCount": 218,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=13989849580372515751&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1001669,
-   "longitude": 129.0307726
-  },
-  "types": [
-   "western_restaurant",
+   "korean_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -2573,9 +2511,9 @@
   "types": [
    "brunch_restaurant",
    "cafeteria",
-   "sandwich_shop",
    "coffee_shop",
    "cafe",
+   "sandwich_shop",
    "food_store",
    "store",
    "restaurant",
@@ -2600,6 +2538,49 @@
   "types": [
    "tourist_attraction",
    "market",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "南浦洞"
+ },
+ "3515846172321331710": {
+  "place_id": "ChIJAQAAAJ_paDUR_jkhSnfLyjA",
+  "name": "孔家血腸",
+  "address": "18-5 Junggu-ro 29beon-gil, Jung-gu, Busan, 南韓",
+  "rating": 4,
+  "userRatingCount": 411,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=3515846172321331710&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1006328,
+   "longitude": 129.0269023
+  },
+  "types": [
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "南浦洞"
+ },
+ "12591352387945104920": {
+  "place_id": "ChIJCyPFq6HpaDURGAY89Uh4va4",
+  "name": "朝鮮王朝 火焰韓牛 釜山南浦本家",
+  "address": "南韓 Busan, Jung-gu, Bupyeong 2-gil, 12 조선의한우",
+  "rating": 4.4,
+  "userRatingCount": 512,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=12591352387945104920&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.0999525,
+   "longitude": 129.0265011
+  },
+  "types": [
+   "korean_barbecue_restaurant",
+   "korean_restaurant",
+   "restaurant",
+   "food",
    "point_of_interest",
    "establishment"
   ],
@@ -2650,70 +2631,6 @@
   ],
   "area_label": "海雲台"
  },
- "11605499535107938986": {
-  "place_id": "ChIJW6phAFCNaDURqtoRr1YED6E",
-  "name": "藍絲帶烤豬肉",
-  "address": "南韓 Busan, Haeundae, Jwadongsunhwan-ro, 395 1 층 105, 106 107, 108호",
-  "rating": 4.9,
-  "userRatingCount": 925,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=11605499535107938986&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.162179,
-   "longitude": 129.17734529999998
-  },
-  "types": [
-   "barbecue_restaurant",
-   "korean_barbecue_restaurant",
-   "korean_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "海雲台"
- },
- "2583584192381107826": {
-  "place_id": "ChIJt2Bc6iyNaDURcr4wciK82iM",
-  "name": "Ribs of Legend haeundae",
-  "address": "南韓 Busan, Haeundae, Haeundaehaebyeon-ro, 277 3층",
-  "rating": 4.8,
-  "userRatingCount": 2207,
-  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=2583584192381107826&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1599485,
-   "longitude": 129.1617164
-  },
-  "types": [
-   "korean_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "海雲台"
- },
- "16587963154613251973": {
-  "place_id": "ChIJ8_GPyHeNaDURha_9MZpINOY",
-  "name": "신사꽂게당 해운대점 Haeundae Marinated Crab – Korean Gejang Restaurant | 海雲台ケジャン専門店｜韓国カニ料理",
-  "address": "627-1 U-dong, Haeundae, Busan, 南韓",
-  "rating": 4.8,
-  "userRatingCount": 801,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=16587963154613251973&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.159708099999996,
-   "longitude": 129.1595155
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "海雲台"
- },
  "11974087818250730834": {
   "place_id": "ChIJN0IUpLONaDURUr0q5G2BLKY",
   "name": "Goban Sikdang",
@@ -2736,21 +2653,19 @@
   ],
   "area_label": "海雲台"
  },
- "9095305668357545745": {
-  "place_id": "ChIJ5bYRSgCNaDUREV8M_lAEOX4",
-  "name": "조선대가곰탕 해운대미포점",
-  "address": "南韓 Busan, Haeundae, Dalmaji-gil 62beon-gil, 9-1 1층",
-  "rating": 4.9,
-  "userRatingCount": 560,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=9095305668357545745&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "16587963154613251973": {
+  "place_id": "ChIJ8_GPyHeNaDURha_9MZpINOY",
+  "name": "신사꽂게당 해운대점 Haeundae Marinated Crab – Korean Gejang Restaurant | 海雲台ケジャン専門店｜韓国カニ料理",
+  "address": "627-1 U-dong, Haeundae, Busan, 南韓",
+  "rating": 4.8,
+  "userRatingCount": 801,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=16587963154613251973&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 35.160292399999996,
-   "longitude": 129.1711451
+   "latitude": 35.159708099999996,
+   "longitude": 129.1595155
   },
   "types": [
-   "korean_restaurant",
-   "breakfast_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -2804,7 +2719,7 @@
   "name": "Namaste Haeundae",
   "address": "7 Haeundaehaebyeon-ro 265beon-gil, Haeundae, Busan, 南韓",
   "rating": 4.8,
-  "userRatingCount": 3362,
+  "userRatingCount": 3363,
   "priceLevel": "PRICE_LEVEL_MODERATE",
   "googleMapsUri": "https://maps.google.com/?cid=2666199162583714782&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
@@ -2814,6 +2729,28 @@
   "types": [
    "indian_restaurant",
    "halal_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "海雲台"
+ },
+ "9095305668357545745": {
+  "place_id": "ChIJ5bYRSgCNaDUREV8M_lAEOX4",
+  "name": "조선대가곰탕 해운대미포점",
+  "address": "南韓 Busan, Haeundae, Dalmaji-gil 62beon-gil, 9-1 1층",
+  "rating": 4.9,
+  "userRatingCount": 560,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=9095305668357545745&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.160292399999996,
+   "longitude": 129.1711451
+  },
+  "types": [
+   "korean_restaurant",
+   "breakfast_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -2843,27 +2780,6 @@
   ],
   "area_label": "海雲台"
  },
- "6772869426875701832": {
-  "place_id": "ChIJu9l6a5eNaDURSJoHC9wQ_l0",
-  "name": "기요항 해운대점",
-  "address": "南韓 Busan, Haeundae, Haeun-daero 570beon-gil, 46 신라스테이호텔 1층",
-  "rating": 4.6,
-  "userRatingCount": 157,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=6772869426875701832&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1597884,
-   "longitude": 129.1588329
-  },
-  "types": [
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "海雲台"
- },
  "6151074171939535730": {
   "place_id": "ChIJO0-uvWCNaDURcjuJnV4BXVU",
   "name": "계영상회 해운대점",
@@ -2885,17 +2801,40 @@
   ],
   "area_label": "海雲台"
  },
- "16612299949873961394": {
-  "place_id": "ChIJR-I3BSqNaDURshl65sm-iuY",
-  "name": "스무고개",
-  "address": "南韓 Busan, Haeundae, Jwadongsunhwan-ro 468beonga-gil, 81 1층,2층",
-  "rating": 4.8,
-  "userRatingCount": 1459,
-  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=16612299949873961394&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "11605499535107938986": {
+  "place_id": "ChIJW6phAFCNaDURqtoRr1YED6E",
+  "name": "藍絲帶烤豬肉",
+  "address": "南韓 Busan, Haeundae, Jwadongsunhwan-ro, 395 1 층 105, 106 107, 108호",
+  "rating": 4.9,
+  "userRatingCount": 925,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=11605499535107938986&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 35.1646492,
-   "longitude": 129.1751047
+   "latitude": 35.162179,
+   "longitude": 129.17734529999998
+  },
+  "types": [
+   "barbecue_restaurant",
+   "korean_barbecue_restaurant",
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "海雲台"
+ },
+ "2583584192381107826": {
+  "place_id": "ChIJt2Bc6iyNaDURcr4wciK82iM",
+  "name": "Ribs of Legend haeundae",
+  "address": "南韓 Busan, Haeundae, Haeundaehaebyeon-ro, 277 3층",
+  "rating": 4.8,
+  "userRatingCount": 2207,
+  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=2583584192381107826&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1599485,
+   "longitude": 129.1617164
   },
   "types": [
    "korean_restaurant",
@@ -2906,20 +2845,20 @@
   ],
   "area_label": "海雲台"
  },
- "14211367472769383065": {
-  "place_id": "ChIJ-ebR3l2NaDURmbr14mvrOMU",
-  "name": "海木",
-  "address": "8 Gunam-ro 24beon-gil, Haeundae, Busan, 南韓",
-  "rating": 4.5,
-  "userRatingCount": 2668,
+ "1335093694487225009": {
+  "place_id": "ChIJsboD-12NaDURsWLGOaQ0hxI",
+  "name": "海雲臺五福豬肉湯飯",
+  "address": "15 Gunam-ro, Haeundae, Busan, 南韓",
+  "rating": 4.4,
+  "userRatingCount": 1767,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=14211367472769383065&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=1335093694487225009&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 35.161780799999995,
-   "longitude": 129.15966659999998
+   "latitude": 35.1626121,
+   "longitude": 129.1600382
   },
   "types": [
-   "japanese_restaurant",
+   "korean_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -2971,20 +2910,83 @@
   ],
   "area_label": "海雲台"
  },
- "1335093694487225009": {
-  "place_id": "ChIJsboD-12NaDURsWLGOaQ0hxI",
-  "name": "海雲臺五福豬肉湯飯",
-  "address": "15 Gunam-ro, Haeundae, Busan, 南韓",
-  "rating": 4.4,
-  "userRatingCount": 1767,
+ "6694047481179348409": {
+  "place_id": "ChIJb6ju4GeNaDURuR1LsbcI5lw",
+  "name": "Geumsubokguk, Haeundae Headstore",
+  "address": "23 Jungdong 1-ro 43beon-gil, Haeundae, Busan, 南韓",
+  "rating": 4.2,
+  "userRatingCount": 7707,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=1335093694487225009&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=6694047481179348409&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 35.1626121,
-   "longitude": 129.1600382
+   "latitude": 35.162420499999996,
+   "longitude": 129.16450609999998
   },
   "types": [
-   "korean_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "海雲台"
+ },
+ "10150019049050289294": {
+  "place_id": "ChIJbWKYEW6NaDURjjQXSowc3Iw",
+  "name": "Yoogane Chicken Galbi",
+  "address": "20 Gunam-ro, Haeundae, Busan, 南韓",
+  "rating": 4.7,
+  "userRatingCount": 323,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=10150019049050289294&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1620835,
+   "longitude": 129.15979249999998
+  },
+  "types": [
+   "chicken_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "海雲台"
+ },
+ "11316057249446565753": {
+  "place_id": "ChIJEVd-d_ONaDUReRc_Ax22Cp0",
+  "name": "양상국",
+  "address": "南韓 Busan, Haeundae, Haeun-daero 570beon-gil, 16 2층",
+  "rating": 4.7,
+  "userRatingCount": 44,
+  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=11316057249446565753&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1604281,
+   "longitude": 129.1556895
+  },
+  "types": [
+   "barbecue_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "海雲台"
+ },
+ "9805783223672627834": {
+  "place_id": "ChIJyzvdCQCNaDUReuJ9f-MjFYg",
+  "name": "토유 레스토랑",
+  "address": "42-22 Jungdong 1-ro, Haeundae, Busan, 南韓",
+  "rating": 5,
+  "userRatingCount": 107,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=9805783223672627834&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.161193499999996,
+   "longitude": 129.1630724
+  },
+  "types": [
+   "seafood_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -2997,7 +2999,7 @@
   "name": "조개뷰 해운대본점",
   "address": "南韓 Busan, Jung-dong, 520-1 1층 101호 KR 부산광역시 해운대구 청사포로 153",
   "rating": 4.9,
-  "userRatingCount": 2771,
+  "userRatingCount": 2772,
   "priceLevel": "PRICE_LEVEL_MODERATE",
   "googleMapsUri": "https://maps.google.com/?cid=13670694976097506784&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
@@ -3006,26 +3008,6 @@
   },
   "types": [
    "seafood_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "청사포_靑沙浦"
- },
- "7363266232447381894": {
-  "place_id": "ChIJ-f3BRwONaDURhrGnS6CTL2Y",
-  "name": "Dongbaegjib",
-  "address": "8 Cheongsapo-ro 128beon-gil, Haeundae, Busan, 南韓",
-  "rating": 4.8,
-  "userRatingCount": 284,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=7363266232447381894&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1607704,
-   "longitude": 129.19204589999998
-  },
-  "types": [
    "restaurant",
    "food",
    "point_of_interest",
@@ -3068,12 +3050,32 @@
   },
   "types": [
    "restaurant",
-   "coffee_shop",
    "ramen_restaurant",
+   "coffee_shop",
    "cafe",
-   "japanese_restaurant",
    "food_store",
+   "japanese_restaurant",
    "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "청사포_靑沙浦"
+ },
+ "7363266232447381894": {
+  "place_id": "ChIJ-f3BRwONaDURhrGnS6CTL2Y",
+  "name": "Dongbaegjib",
+  "address": "8 Cheongsapo-ro 128beon-gil, Haeundae, Busan, 南韓",
+  "rating": 4.8,
+  "userRatingCount": 284,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=7363266232447381894&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1607704,
+   "longitude": 129.19204589999998
+  },
+  "types": [
+   "restaurant",
    "food",
    "point_of_interest",
    "establishment"
@@ -3122,47 +3124,6 @@
   ],
   "area_label": "청사포_靑沙浦"
  },
- "16197090493522982343": {
-  "place_id": "ChIJuxlhS26NaDURxzVL7fyfx-A",
-  "name": "Yeouilu",
-  "address": "南韓 Busan, Haeundae, Jungje 2-dong 637 6 (637-6 부산광역시 해운대구 중제2동",
-  "rating": 4.7,
-  "userRatingCount": 54,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=16197090493522982343&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1601967,
-   "longitude": 129.17724429999998
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "청사포_靑沙浦"
- },
- "2482034780244961901": {
-  "place_id": "ChIJizbZgMWNaDURbWqqdHv1cSI",
-  "name": "우나쥬 (UNAJU)",
-  "address": "39 Cheongsapo-ro 67beon-gil, Haeundae, Busan, 南韓",
-  "rating": 4.8,
-  "userRatingCount": 58,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=2482034780244961901&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1632276,
-   "longitude": 129.1893757
-  },
-  "types": [
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "청사포_靑沙浦"
- },
  "6859326068580884077": {
   "place_id": "ChIJ66u7OgCNaDURbR5XlLc4MV8",
   "name": "고향카츠 청사포점",
@@ -3204,22 +3165,21 @@
   ],
   "area_label": "청사포_靑沙浦"
  },
- "12473381250202652894": {
-  "place_id": "ChIJc-SXtS-NaDUR3tBYBilaGq0",
-  "name": "Sooble",
-  "address": "南韓 Busan, Haeundae, 미포클라우드 3F",
-  "rating": 4.9,
-  "userRatingCount": 125,
+ "2482034780244961901": {
+  "place_id": "ChIJizbZgMWNaDURbWqqdHv1cSI",
+  "name": "우나쥬 (UNAJU)",
+  "address": "39 Cheongsapo-ro 67beon-gil, Haeundae, Busan, 南韓",
+  "rating": 4.8,
+  "userRatingCount": 58,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=12473381250202652894&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=2482034780244961901&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 35.1580356,
-   "longitude": 129.17254
+   "latitude": 35.1632276,
+   "longitude": 129.1893757
   },
   "types": [
+   "japanese_restaurant",
    "restaurant",
-   "cafe",
-   "association_or_organization",
    "food",
    "point_of_interest",
    "establishment"
@@ -3267,27 +3227,6 @@
   ],
   "area_label": "청사포_靑沙浦"
  },
- "15431812974379025641": {
-  "place_id": "ChIJ_4St6QSNaDUR6UQgkiPQKNY",
-  "name": "La Conti",
-  "address": "85 Cheongsapo-ro, Haeundae, Busan, 南韓",
-  "rating": 4.3,
-  "userRatingCount": 304,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=15431812974379025641&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.162565199999996,
-   "longitude": 129.1890091
-  },
-  "types": [
-   "bistro",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "청사포_靑沙浦"
- },
  "4026860425140282745": {
   "place_id": "ChIJpz2jRgKNaDUReaWQsDhI4jc",
   "name": "道熙家",
@@ -3302,6 +3241,114 @@
   },
   "types": [
    "korean_restaurant",
+   "seafood_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "청사포_靑沙浦"
+ },
+ "15965409928680590993": {
+  "place_id": "ChIJMzlUNxWNaDURkU6A5L2HkN0",
+  "name": "나연이네",
+  "address": "南韓 Busan, Haeundae, Cheongsapo-ro, 141-1 1 2층",
+  "rating": 4.6,
+  "userRatingCount": 59,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=15965409928680590993&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1612185,
+   "longitude": 129.1938168
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "청사포_靑沙浦"
+ },
+ "18402069315819536979": {
+  "place_id": "ChIJt_SUNYmNaDURUwKKXYtIYf8",
+  "name": "바다당 해운대 청사포역",
+  "address": "南韓 Busan, Haeundae, Jung-dong, Cheongsapo-ro, 125-1 바다당 BDD 3층",
+  "rating": 4.9,
+  "userRatingCount": 101,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=18402069315819536979&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1607774,
+   "longitude": 129.19262089999998
+  },
+  "types": [
+   "cafe",
+   "coffee_roastery",
+   "coffee_shop",
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "청사포_靑沙浦"
+ },
+ "16197090493522982343": {
+  "place_id": "ChIJuxlhS26NaDURxzVL7fyfx-A",
+  "name": "Yeouilu",
+  "address": "南韓 Busan, Haeundae, Jungje 2-dong 637 6 (637-6 부산광역시 해운대구 중제2동",
+  "rating": 4.7,
+  "userRatingCount": 54,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=16197090493522982343&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1601967,
+   "longitude": 129.17724429999998
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "청사포_靑沙浦"
+ },
+ "5792351020792204640": {
+  "place_id": "ChIJ_5tSJwCNaDURYM2wcJCQYlA",
+  "name": "루아앤티그리",
+  "address": "504-7 Jung-dong, Haeundae, Busan, 南韓",
+  "rating": 4.4,
+  "userRatingCount": 54,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=5792351020792204640&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1623713,
+   "longitude": 129.1924625
+  },
+  "types": [
+   "italian_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "청사포_靑沙浦"
+ },
+ "2084026366521743202": {
+  "place_id": "ChIJ6ScUaF-NaDURYpcTT_Dy6xw",
+  "name": "iljojip korean seafood Restaurant",
+  "address": "南韓 Busan, Haeundae, Dalmaji-gil 62beon-gil, 55 2층",
+  "rating": 4.9,
+  "userRatingCount": 57,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=2084026366521743202&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1574448,
+   "longitude": 129.1729277
+  },
+  "types": [
    "seafood_restaurant",
    "restaurant",
    "food",
@@ -3330,52 +3377,6 @@
   ],
   "area_label": "청사포_靑沙浦"
  },
- "18402069315819536979": {
-  "place_id": "ChIJt_SUNYmNaDURUwKKXYtIYf8",
-  "name": "바다당 해운대 청사포역",
-  "address": "南韓 Busan, Haeundae, Jung-dong, Cheongsapo-ro, 125-1 바다당 BDD 3층",
-  "rating": 4.9,
-  "userRatingCount": 101,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=18402069315819536979&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1607774,
-   "longitude": 129.19262089999998
-  },
-  "types": [
-   "cafe",
-   "coffee_shop",
-   "coffee_roastery",
-   "dessert_shop",
-   "confectionery",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "청사포_靑沙浦"
- },
- "15965409928680590993": {
-  "place_id": "ChIJMzlUNxWNaDURkU6A5L2HkN0",
-  "name": "나연이네",
-  "address": "南韓 Busan, Haeundae, Cheongsapo-ro, 141-1 1 2층",
-  "rating": 4.6,
-  "userRatingCount": 59,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=15965409928680590993&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1612185,
-   "longitude": 129.1938168
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "청사포_靑沙浦"
- },
  "2873818538928155060": {
   "place_id": "ChIJtzhfEy-NaDURtKm-Kbza4Sc",
   "name": "샌디블루",
@@ -3387,6 +3388,26 @@
   "location": {
    "latitude": 35.1606629,
    "longitude": 129.1915388
+  },
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "청사포_靑沙浦"
+ },
+ "1514077191389613880": {
+  "place_id": "ChIJBz9T2GuNaDUROI9MAy8VAxU",
+  "name": "Liberta",
+  "address": "137 Cheongsapo-ro, Haeundae, Busan, 南韓",
+  "rating": 4.7,
+  "userRatingCount": 431,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=1514077191389613880&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.160891,
+   "longitude": 129.1934966
   },
   "types": [
    "cafe",
@@ -3418,69 +3439,6 @@
   ],
   "area_label": "청사포_靑沙浦"
  },
- "1514077191389613880": {
-  "place_id": "ChIJBz9T2GuNaDUROI9MAy8VAxU",
-  "name": "Liberta",
-  "address": "137 Cheongsapo-ro, Haeundae, Busan, 南韓",
-  "rating": 4.7,
-  "userRatingCount": 431,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=1514077191389613880&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.160891,
-   "longitude": 129.1934966
-  },
-  "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "청사포_靑沙浦"
- },
- "5554433685586822380": {
-  "place_id": "ChIJB96GBBCNaDUR7MTdJQJQFU0",
-  "name": "非非非堂",
-  "address": "239-16 Dalmaji-gil, Haeundae, Busan, 南韓",
-  "rating": 4.4,
-  "userRatingCount": 1144,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=5554433685586822380&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1624833,
-   "longitude": 129.1850753
-  },
-  "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "청사포_靑沙浦"
- },
- "7684533082656804275": {
-  "place_id": "ChIJEcCoqciNaDURsw1_0B_ypGo",
-  "name": "Orb Coffee Salon 오브커피살롱",
-  "address": "137-1 Cheongsapo-ro, Haeundae, Busan, 南韓",
-  "rating": 4.7,
-  "userRatingCount": 79,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=7684533082656804275&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1610049,
-   "longitude": 129.1936178
-  },
-  "types": [
-   "coffee_shop",
-   "cafe",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "청사포_靑沙浦"
- },
  "1506184513829649317": {
   "place_id": "ChIJjSyESAONaDURpbsC0dUK5xQ",
   "name": "DIART coffee",
@@ -3501,33 +3459,12 @@
   ],
   "area_label": "청사포_靑沙浦"
  },
- "5792351020792204640": {
-  "place_id": "ChIJ_5tSJwCNaDURYM2wcJCQYlA",
-  "name": "루아앤티그리",
-  "address": "504-7 Jung-dong, Haeundae, Busan, 南韓",
-  "rating": 4.4,
-  "userRatingCount": 54,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=5792351020792204640&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1623713,
-   "longitude": 129.1924625
-  },
-  "types": [
-   "italian_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "청사포_靑沙浦"
- },
  "6853949512835414041": {
   "place_id": "ChIJKwcQ9j-NaDURGTgEpcQeHl8",
   "name": "엣지993",
   "address": "78 Dalmaji-gil 62beon-gil, Haeundae, Busan, 南韓",
   "rating": 4.3,
-  "userRatingCount": 789,
+  "userRatingCount": 790,
   "priceLevel": null,
   "googleMapsUri": "https://maps.google.com/?cid=6853949512835414041&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
@@ -3591,6 +3528,29 @@
   ],
   "area_label": "청사포_靑沙浦"
  },
+ "7684533082656804275": {
+  "place_id": "ChIJEcCoqciNaDURsw1_0B_ypGo",
+  "name": "Orb Coffee Salon 오브커피살롱",
+  "address": "137-1 Cheongsapo-ro, Haeundae, Busan, 南韓",
+  "rating": 4.7,
+  "userRatingCount": 79,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=7684533082656804275&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1610049,
+   "longitude": 129.1936178
+  },
+  "types": [
+   "coffee_shop",
+   "cafe",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "청사포_靑沙浦"
+ },
  "13633299471502106066": {
   "place_id": "ChIJfRYC5eeNaDUR0l1nE6M1M70",
   "name": "Cafe Whiterock",
@@ -3608,6 +3568,46 @@
    "cafe",
    "food_store",
    "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "청사포_靑沙浦"
+ },
+ "5554433685586822380": {
+  "place_id": "ChIJB96GBBCNaDUR7MTdJQJQFU0",
+  "name": "非非非堂",
+  "address": "239-16 Dalmaji-gil, Haeundae, Busan, 南韓",
+  "rating": 4.4,
+  "userRatingCount": 1144,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=5554433685586822380&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1624833,
+   "longitude": 129.1850753
+  },
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "청사포_靑沙浦"
+ },
+ "5368755365340327971": {
+  "place_id": "ChIJC0rj80yNaDURIzAVVY-mgUo",
+  "name": "EDIYA Coffee Dalmaji",
+  "address": "南韓 Busan, Haeundae, Dalmaji-gil, 193 b동 1,2층",
+  "rating": 4.7,
+  "userRatingCount": 55,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=5368755365340327971&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.158182,
+   "longitude": 129.1824345
+  },
+  "types": [
+   "cafe",
    "food",
    "point_of_interest",
    "establishment"
@@ -3642,7 +3642,7 @@
   "name": "廣安里稻草烤肋排",
   "address": "106 Gwangnam-ro, Suyeong-gu, Busan, 南韓",
   "rating": 4.9,
-  "userRatingCount": 823,
+  "userRatingCount": 824,
   "priceLevel": "PRICE_LEVEL_EXPENSIVE",
   "googleMapsUri": "https://maps.google.com/?cid=13261078492951832263&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
@@ -3789,26 +3789,6 @@
   ],
   "area_label": "廣安里"
  },
- "15743015383176422515": {
-  "place_id": "ChIJjXcyIb7taDURc6S9txRteto",
-  "name": "漢月館",
-  "address": "南韓 Busan, Suyeong-gu, Gwangan-ro 62beon-gil, 10 1층",
-  "rating": 4.7,
-  "userRatingCount": 256,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=15743015383176422515&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.154691199999995,
-   "longitude": 129.1185433
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "廣安里"
- },
  "14718834159721796779": {
   "place_id": "ChIJlVqdFgDtaDURq1QaPq_NQ8w",
   "name": "mimiracrac",
@@ -3857,7 +3837,7 @@
   "name": "워킹홀리데이 민락점 앤나잇 workingholiday and night brunch cafe dining",
   "address": "南韓 Busan, Suyeong-gu, Millaksubyeon-ro, 29 바다마루 7층",
   "rating": 5,
-  "userRatingCount": 572,
+  "userRatingCount": 573,
   "priceLevel": "PRICE_LEVEL_MODERATE",
   "googleMapsUri": "https://maps.google.com/?cid=14661021614305927621&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
@@ -3884,7 +3864,7 @@
   "name": "Busanodaeng",
   "address": "南韓 Busan, Suyeong-gu, Gwangan-ro, 59-4 1 층",
   "rating": 4.7,
-  "userRatingCount": 119,
+  "userRatingCount": 121,
   "priceLevel": "PRICE_LEVEL_MODERATE",
   "googleMapsUri": "https://maps.google.com/?cid=10423893175259621226&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
@@ -3919,27 +3899,6 @@
   ],
   "area_label": "廣安里"
  },
- "5442793572939368857": {
-  "place_id": "ChIJEUAkEwDtaDURmYnU3OqviEs",
-  "name": "釜飯",
-  "address": "78 Gwangnam-ro, Suyeong-gu, Busan, 南韓",
-  "rating": 4.9,
-  "userRatingCount": 557,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=5442793572939368857&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.14899820000001,
-   "longitude": 129.1137723
-  },
-  "types": [
-   "korean_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "廣安里"
- },
  "15782729656152662430": {
   "place_id": "ChIJizUrilftaDURnqEAdQCFB9s",
   "name": "Okgyegwan",
@@ -3958,6 +3917,32 @@
    "meal_delivery",
    "food_delivery",
    "barbecue_restaurant",
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "廣安里"
+ },
+ "14505120663618307881": {
+  "place_id": "ChIJp2XSIQDtaDURKcclY2SKTMk",
+  "name": "광안제일분식",
+  "address": "77 Suyeong-ro 540beon-gil, Suyeong-gu, Busan, 南韓",
+  "rating": 4.8,
+  "userRatingCount": 135,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=14505120663618307881&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.153224300000005,
+   "longitude": 129.1163733
+  },
+  "types": [
+   "deli",
+   "snack_bar",
+   "meal_takeaway",
+   "food_store",
+   "store",
    "korean_restaurant",
    "restaurant",
    "food",
@@ -4008,32 +3993,6 @@
   ],
   "area_label": "廣安里"
  },
- "14505120663618307881": {
-  "place_id": "ChIJp2XSIQDtaDURKcclY2SKTMk",
-  "name": "광안제일분식",
-  "address": "77 Suyeong-ro 540beon-gil, Suyeong-gu, Busan, 南韓",
-  "rating": 4.8,
-  "userRatingCount": 135,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=14505120663618307881&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.153224300000005,
-   "longitude": 129.1163733
-  },
-  "types": [
-   "deli",
-   "snack_bar",
-   "meal_takeaway",
-   "food_store",
-   "store",
-   "korean_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "廣安里"
- },
  "16540023437485839050": {
   "place_id": "ChIJkzVdMgftaDURypL6_673ieU",
   "name": "Nasari Sigdang",
@@ -4045,6 +4004,69 @@
   "location": {
    "latitude": 35.1554367,
    "longitude": 129.12193059999998
+  },
+  "types": [
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "廣安里"
+ },
+ "13478893926689160497": {
+  "place_id": "ChIJK-U3gi3taDURMT16sZymDrs",
+  "name": "양귀빈식당",
+  "address": "1 Millak-ro 6beon-gil, Suyeong-gu, Busan, 南韓",
+  "rating": 4.6,
+  "userRatingCount": 34,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=13478893926689160497&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.156057,
+   "longitude": 129.12284929999998
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "廣安里"
+ },
+ "18351511832962515569": {
+  "place_id": "ChIJZQWkD5ntaDURccIbF8iqrf4",
+  "name": "일월육일 광안본점",
+  "address": "9 Gwangnam-ro 130beon-gil, Suyeong-gu, Busan, 南韓",
+  "rating": 4.8,
+  "userRatingCount": 198,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=18351511832962515569&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.153109199999996,
+   "longitude": 129.1172258
+  },
+  "types": [
+   "japanese_izakaya_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "廣安里"
+ },
+ "5442793572939368857": {
+  "place_id": "ChIJEUAkEwDtaDURmYnU3OqviEs",
+  "name": "釜飯",
+  "address": "78 Gwangnam-ro, Suyeong-gu, Busan, 南韓",
+  "rating": 4.9,
+  "userRatingCount": 557,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=5442793572939368857&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.14899820000001,
+   "longitude": 129.1137723
   },
   "types": [
    "korean_restaurant",
@@ -4069,8 +4091,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "民樂會"
@@ -4096,6 +4118,26 @@
   ],
   "area_label": "民樂會"
  },
+ "17766422271366106354": {
+  "place_id": "ChIJzxSlF27taDUR8oxd3uwCj_Y",
+  "name": "갈매기집",
+  "address": "南韓 Busan, Suyeong-gu, Millaksubyeon-ro, 29 바다마루 5층",
+  "rating": 4.6,
+  "userRatingCount": 39,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=17766422271366106354&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.153338,
+   "longitude": 129.1245253
+  },
+  "types": [
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "民樂會"
+ },
  "12146868415513181000": {
   "place_id": "ChIJ-040MjXtaDURSDsTkHdYkqg",
   "name": "Gwangan Dazzi",
@@ -4111,49 +4153,91 @@
   "types": [
    "seafood_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "民樂會"
  },
- "17766422271366106354": {
-  "place_id": "ChIJzxSlF27taDUR8oxd3uwCj_Y",
-  "name": "갈매기집",
-  "address": "南韓 Busan, Suyeong-gu, Millaksubyeon-ro, 29 바다마루 5층",
-  "rating": 4.6,
-  "userRatingCount": 39,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=17766422271366106354&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "11178307194683808609": {
+  "place_id": "ChIJ2bCgNTLtaDURYVtSGStTIZs",
+  "name": "행복한횟집",
+  "address": "29 Millaksubyeon-ro, Suyeong-gu, Busan, 南韓",
+  "rating": 4.2,
+  "userRatingCount": 233,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=11178307194683808609&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 35.153338,
-   "longitude": 129.1245253
+   "latitude": 35.153266699999996,
+   "longitude": 129.1247385
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "民樂會"
  },
- "1094382449042164915": {
-  "place_id": "ChIJP5Tnc0LtaDURs4yUAwoHMA8",
-  "name": "幸運商會",
-  "address": "南韓 Busan, Suyeong-gu, Millak-ro 19beon-gil, 21 1층",
-  "rating": 4.3,
-  "userRatingCount": 60,
+ "13070082414099406833": {
+  "place_id": "ChIJeyp_Ir7taDUR8Z95FbVCYrU",
+  "name": "고하순 광안직영점",
+  "address": "南韓 Busan, KR 부산광역시 수영구 광안해변로279번길21 2층 고하순",
+  "rating": 4.9,
+  "userRatingCount": 230,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=1094382449042164915&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=13070082414099406833&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 35.1563413,
-   "longitude": 129.1215631
+   "latitude": 35.1566316,
+   "longitude": 129.12505339999998
+  },
+  "types": [
+   "barbecue_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "民樂會"
+ },
+ "774120380528048235": {
+  "place_id": "ChIJCbnpU9DtaDURa7jDdmI6vgo",
+  "name": "첨벙",
+  "address": "16 Millak-ro 33beon-gil, Suyeong-gu, Busan, 南韓",
+  "rating": 4.4,
+  "userRatingCount": 56,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=774120380528048235&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.15765,
+   "longitude": 129.1208235
   },
   "types": [
    "seafood_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "民樂會"
+ },
+ "13862095416395828720": {
+  "place_id": "ChIJgQLtKTXtaDUR8A3YMFYOYMA",
+  "name": "광안리 길수횟집",
+  "address": "103 Millaksubyeon-ro, Suyeong-gu, Busan, 南韓",
+  "rating": 4,
+  "userRatingCount": 214,
+  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=13862095416395828720&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1547407,
+   "longitude": 129.1318018
+  },
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "民樂會"
@@ -4176,45 +4260,87 @@
   ],
   "area_label": "民樂會"
  },
- "11178307194683808609": {
-  "place_id": "ChIJ2bCgNTLtaDURYVtSGStTIZs",
-  "name": "행복한횟집",
-  "address": "29 Millaksubyeon-ro, Suyeong-gu, Busan, 南韓",
-  "rating": 4.2,
-  "userRatingCount": 233,
+ "6172215509841239439": {
+  "place_id": "ChIJD0MoNy3taDURj10-7U0dqFU",
+  "name": "평화김해뒷고기 광안리점",
+  "address": "南韓 Busan, Suyeong-gu, Gwanganhaebyeon-ro 277beon-gil, 5 1층",
+  "rating": 4.7,
+  "userRatingCount": 90,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=11178307194683808609&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=6172215509841239439&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 35.153266699999996,
-   "longitude": 129.1247385
+   "latitude": 35.156161499999996,
+   "longitude": 129.12398199999998
   },
   "types": [
+   "korean_barbecue_restaurant",
+   "korean_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "民樂會"
  },
- "8801001977698572834": {
-  "place_id": "ChIJAYpBATPtaDURIto7RKtwI3o",
-  "name": "Bangpajae Hoetjip",
-  "address": "24 Gwanganhaebyeon-ro 294beon-gil, Suyeong-gu, Busan, 南韓",
-  "rating": 4.4,
-  "userRatingCount": 388,
+ "3079904659337655277": {
+  "place_id": "ChIJt3tJMjXtaDUR7TPkOfgEvio",
+  "name": "Golden Sea Sashimi",
+  "address": "17-20 Gwanganhaebyeon-ro 344beon-gil, Suyeong-gu, Busan, 南韓",
+  "rating": 4.1,
+  "userRatingCount": 78,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=8801001977698572834&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=3079904659337655277&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 35.155383799999996,
-   "longitude": 129.1260795
+   "latitude": 35.1550307,
+   "longitude": 129.13172029999998
+  },
+  "types": [
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "民樂會"
+ },
+ "1094382449042164915": {
+  "place_id": "ChIJP5Tnc0LtaDURs4yUAwoHMA8",
+  "name": "幸運商會",
+  "address": "南韓 Busan, Suyeong-gu, Millak-ro 19beon-gil, 21 1층",
+  "rating": 4.3,
+  "userRatingCount": 60,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=1094382449042164915&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1563413,
+   "longitude": 129.1215631
   },
   "types": [
    "seafood_restaurant",
-   "japanese_restaurant",
-   "korean_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "民樂會"
+ },
+ "9951819421643393710": {
+  "place_id": "ChIJPwABrzPtaDURrkrjdwn3G4o",
+  "name": "도쿄뱃살",
+  "address": "南韓 Busan, Suyeong-gu, Gwanganhaebyeon-ro, 247 4 층",
+  "rating": 4.6,
+  "userRatingCount": 71,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=9951819421643393710&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1550338,
+   "longitude": 129.1208424
+  },
+  "types": [
+   "japanese_izakaya_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "民樂會"
@@ -4234,71 +4360,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "民樂會"
- },
- "13070082414099406833": {
-  "place_id": "ChIJeyp_Ir7taDUR8Z95FbVCYrU",
-  "name": "고하순 광안직영점",
-  "address": "南韓 Busan, KR 부산광역시 수영구 광안해변로279번길21 2층 고하순",
-  "rating": 4.9,
-  "userRatingCount": 227,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=13070082414099406833&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1566316,
-   "longitude": 129.12505339999998
-  },
-  "types": [
-   "barbecue_restaurant",
-   "restaurant",
    "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "民樂會"
- },
- "774120380528048235": {
-  "place_id": "ChIJCbnpU9DtaDURa7jDdmI6vgo",
-  "name": "첨벙",
-  "address": "16 Millak-ro 33beon-gil, Suyeong-gu, Busan, 南韓",
-  "rating": 4.4,
-  "userRatingCount": 56,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=774120380528048235&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.15765,
-   "longitude": 129.1208235
-  },
-  "types": [
-   "seafood_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "民樂會"
- },
- "13862095416395828720": {
-  "place_id": "ChIJgQLtKTXtaDUR8A3YMFYOYMA",
-  "name": "광안리 길수횟집",
-  "address": "103 Millaksubyeon-ro, Suyeong-gu, Busan, 南韓",
-  "rating": 4,
-  "userRatingCount": 214,
-  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=13862095416395828720&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 35.1547407,
-   "longitude": 129.1318018
-  },
-  "types": [
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
    "establishment"
   ],
   "area_label": "民樂會"
