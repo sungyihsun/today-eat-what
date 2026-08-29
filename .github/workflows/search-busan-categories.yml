@@ -38,10 +38,12 @@ jobs:
           html = open("index.html", encoding="utf-8").read()
           existing_cids = set(re.findall(r"cid=(\d+)", html))
           existing_names = set(re.findall(r'\{name:"((?:[^"\\]|\\.)*)"', html))
-          # how many NEW places each category still needs to reach 10+.
+          # how many NEW places each category still needs.
           # 燒烤/石鍋拌飯/人蔘雞湯/辣炒年糕/海鮮/咖啡廳 already done
-          # (12/6/12/12/12/13); this run only expands 服飾 (existing: 0).
-          TARGET_NEW = {"服飾": 12}
+          # (12/6/12/12/12/13). 服飾 already has 12 — this run adds 22 more
+          # BUDGET-focused ones (target 30+ total), buffer above 30 since
+          # the priceLevel filter below will drop some candidates.
+          TARGET_NEW = {"服飾": 22}
           # A broad textQuery like "부산 고기집 맛집" returns plenty of highly
           # rated restaurants near the hub that don't actually serve the
           # target dish (Google has no place-type granular enough for this).
@@ -77,6 +79,13 @@ jobs:
                   types = r.get("types") or []
                   return any(k.lower() in name_l for k in kws) or any(t in types for t in types_hint)
               rows = [r for r in rows if is_relevant(r)]
+              if cat_label == "服飾":
+                  # Budget-only pass: keep INEXPENSIVE/MODERATE or missing
+                  # priceLevel (lots of small boutiques never set it —
+                  # dropping those would throw out genuinely cheap places),
+                  # exclude anything explicitly marked EXPENSIVE+.
+                  EXPENSIVE = {"PRICE_LEVEL_EXPENSIVE", "PRICE_LEVEL_VERY_EXPENSIVE"}
+                  rows = [r for r in rows if r.get("priceLevel") not in EXPENSIVE]
               ranked = sorted(rows, key=lambda p: (p["rating"], p["userRatingCount"]), reverse=True)
               picked = ranked[:target]
               selected[cat_label] = [p["name"] for p in picked]
