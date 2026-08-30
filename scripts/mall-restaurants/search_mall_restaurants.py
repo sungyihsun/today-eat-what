@@ -40,12 +40,21 @@ MALL_NAMES = {
     "iFG遠雄自由行": "iFG遠雄自由行 竹北",
 }
 
-# Generic dish-type query variants tried at every mall, for cuisine variety
-# instead of just whatever ranks first for a bare "餐廳" search.
-QUERY_SUFFIXES = [
-    "餐廳", "美食", "咖啡廳", "甜點", "火鍋", "日式料理", "義式料理", "牛排",
-    "燒烤", "港式", "小吃", "飲料店", "素食", "早午餐", "拉麵", "壽司", "韓式料理",
+# searchNearby's includedTypes, tried a few at a time (Google caps how many
+# types one call accepts usefully) for cuisine variety instead of just
+# whatever "restaurant" alone ranks first.
+INCLUDED_TYPE_BATCHES = [
+    ["restaurant"],
+    ["cafe", "coffee_shop", "bakery", "dessert_shop"],
+    ["japanese_restaurant", "italian_restaurant", "korean_restaurant", "thai_restaurant"],
+    ["steak_house", "hot_pot_restaurant", "seafood_restaurant", "barbecue_restaurant"],
+    ["chinese_restaurant", "buffet_restaurant", "sushi_restaurant", "ramen_restaurant"],
 ]
+
+
+FIELD_MASK = ("places.id,places.displayName,places.formattedAddress,places.rating,"
+              "places.userRatingCount,places.priceLevel,places.googleMapsUri,"
+              "places.location,places.types")
 
 
 def search_text(query, lat=None, lng=None, radius=None):
@@ -53,11 +62,31 @@ def search_text(query, lat=None, lng=None, radius=None):
     if lat is not None:
         body["locationBias"] = {"circle": {"center": {"latitude": lat, "longitude": lng}, "radius": radius}}
     url = "https://places.googleapis.com/v1/places:searchText"
-    field_mask = ("places.id,places.displayName,places.formattedAddress,places.rating,"
-                  "places.userRatingCount,places.priceLevel,places.googleMapsUri,"
-                  "places.location,places.types")
     req = urllib.request.Request(url, data=json.dumps(body).encode('utf-8'), method='POST', headers={
-        "Content-Type": "application/json", "X-Goog-Api-Key": KEY, "X-Goog-FieldMask": field_mask,
+        "Content-Type": "application/json", "X-Goog-Api-Key": KEY, "X-Goog-FieldMask": FIELD_MASK,
+    })
+    try:
+        with urllib.request.urlopen(req, timeout=20) as resp:
+            return json.loads(resp.read().decode('utf-8'))
+    except urllib.error.HTTPError as e:
+        return {"error": e.read().decode('utf-8')}
+
+
+def search_nearby(lat, lng, radius, included_types):
+    """places:searchNearby — unlike searchText+locationBias (a soft text-
+    relevance bias that returned ZERO hits for several malls in earlier
+    rounds because a plain one-word query has no proximity guarantee at
+    all), this endpoint does a real radius-restricted lookup: every result
+    is guaranteed to be inside the circle, no free-text matching involved."""
+    url = "https://places.googleapis.com/v1/places:searchNearby"
+    body = {
+        "includedTypes": included_types,
+        "maxResultCount": 20,
+        "languageCode": "zh-TW",
+        "locationRestriction": {"circle": {"center": {"latitude": lat, "longitude": lng}, "radius": radius}},
+    }
+    req = urllib.request.Request(url, data=json.dumps(body).encode('utf-8'), method='POST', headers={
+        "Content-Type": "application/json", "X-Goog-Api-Key": KEY, "X-Goog-FieldMask": FIELD_MASK,
     })
     try:
         with urllib.request.urlopen(req, timeout=20) as resp:
@@ -100,24 +129,26 @@ json.dump(anchors, open(MALLS_OUT_PATH, 'w'), ensure_ascii=False, indent=1)
 
 # Phase 2: search each mall's neighborhood, keep only same-building results.
 # Round 1 prefixed every query with the mall's own name (e.g. "iFG遠雄自由行
-# 餐廳") and got ZERO results for iFG遠雄自由行/享平方 — Text Search treats
-# textQuery as a real text-match, not just a location hint, so a colloquial
-# mall name that doesn't literally appear in nearby listings' names/descriptions
-# suppressed results outright even with locationBias set. Fixed: drop the mall
-# name from the query text entirely and let locationBias + the tight radius +
-# the street_prefix address check (below) do 100% of the disambiguation —
-# exactly how the existing Taiwan-area food search already works.
+# 餐廳") via searchText+locationBias and got ZERO results for iFG遠雄自由行/
+# 享平方. Round 2 dropped the mall name but kept searchText — also went to
+# zero for everything except 竹北遠百, because searchText's locationBias is
+# only a soft relevance hint, not a real radius restriction, so a plain
+# one-word query mostly returns whatever ranks highest overall rather than
+# what's actually nearby. Fixed: switch to places:searchNearby, which takes
+# a locationRestriction circle and guarantees every result is physically
+# inside it — the street_prefix address check below is now a secondary
+# same-building confirmation, not the only thing standing between "biased
+# global top result" and "actually in this mall".
 all_results = {}
 for label, anchor in anchors.items():
     lat, lng = anchor['lat'], anchor['lng']
     if lat is None:
         continue
     prefix = anchor['street_prefix']
-    for suffix in QUERY_SUFFIXES:
-        query = suffix
-        data = search_text(query, lat, lng, radius=300.0)
+    for included_types in INCLUDED_TYPE_BATCHES:
+        data = search_nearby(lat, lng, 300.0, included_types)
         places = data.get('places', [])
-        print(f"{label} / {suffix}: {len(places)} results", flush=True)
+        print(f"{label} / {included_types}: {len(places)} results", flush=True)
         for p in places:
             cid_m = re.search(r'cid=(\d+)', p.get('googleMapsUri', ''))
             cid = cid_m.group(1) if cid_m else None
