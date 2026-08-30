@@ -28,93 +28,68 @@ jobs:
           test -n "$GOOGLE_PLACES_API_KEY"
           python3 scripts/taiwan-clothing/search_clothing_categories.py
 
-      - name: Select top candidates per category and fetch details
+      - name: Select final candidates (manually curated after 2 automatic rounds) and fetch details
         env:
           GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
         run: |
           python3 - <<'PY'
-          import json, re
-          candidates = json.load(open("candidate-results/tw-clothing-candidates.json"))
-          html = open("index.html", encoding="utf-8").read()
-          existing_cids = set(re.findall(r"cid=(\d+)", html))
-          existing_names = set(re.findall(r'\{name:"((?:[^"\\]|\\.)*)"', html))
-          # how many NEW places each category needs, first pass.
-          TARGET_NEW = {"男裝": 12, "女裝": 12, "鞋包配件": 12, "平價服飾": 12, "選品店": 12}
-          # Round 1 (plain KEYWORDS + generic "clothing_store" in every
-          # TYPE_HINT) let real mismatches through on manual review: a
-          # lingerie/underwear store and a handmade pet-goods shop got
-          # accepted into 男裝 via type-hint alone; "Gold韓國女裝服飾店" (an
-          # explicitly women's store) and "MKone 男裝"/"dnews男裝服飾"
-          # (explicitly men's) got cross-listed into the WRONG gender
-          # category, also via the same generic-type-hint shortcut; a phone-
-          # accessories store, a pet-supplies "選物" shop, and several
-          # cafes/grocery stores with "選物"/"選品" in their name slipped
-          # into 鞋包配件/選品店. Root cause: TYPE_HINT previously included
-          # bare "clothing_store" (or a bogus "men's_clothing_store" with an
-          # apostrophe that never matches Google's real
-          # "mens_clothing_store"/"womens_clothing_store" types) for BOTH
-          # genders, so any clothing store passed either hint regardless of
-          # who it actually serves. Fixed: real gendered Google types only,
-          # explicit cross-gender exclusion keywords, and a shared blocklist
-          # of non-clothing types (pet/home-goods/electronics/food/etc.)
-          # that a bare keyword match must not override.
-          KEYWORDS = {
-              "男裝": ["男裝", "男生服飾", "型男", "紳士", "西服", "西裝", "menswear", "men's"],
-              "女裝": ["女裝", "女生服飾", "淑女", "韓系女裝", "女生西裝", "womenswear", "women's"],
-              "鞋包配件": ["鞋", "包", "配件", "飾品", "shoes", "bag", "accessor"],
-              "平價服飾": ["平價", "均一價", "outlet", "特賣", "服飾"],
-              "選品店": ["選品", "選物", "編輯選物", "select shop", "boutique"],
+          import json
+          # Round 2's automatic filter (KEYWORDS/TYPE_HINT/EXCLUDE_*) got
+          # every category to 12/12/12/12 except 選品店 (5), but manual
+          # review of round 2's own final-list.json still found leftovers:
+          # a men's-underwear/adult-novelty "warehouse, online-only" listing
+          # in 男裝, a shoe-cleaning service and a shoe-repair shop (not
+          # retail) in 鞋包配件, and two 平價服飾 picks with zero budget
+          # signal that were only there because "服飾" alone is too generic
+          # a keyword. 選品店 needed digging through the full 210-candidate
+          # pool (most of which was irrelevant 室內設計/interior-design
+          # firms and toy/pet/home-goods stores that happened to contain
+          # "選物"/"選品") to find genuine curated-clothing-boutique matches.
+          # This step is hand-picked from candidate-results/tw-clothing-candidates.json
+          # (committed by this workflow's previous runs) instead of another
+          # automatic pass, since every name below has been individually
+          # checked against its Google types/address.
+          selected = {
+            "男裝": [
+              "MKone 男裝", "3lines男裝中性服飾", "Laio 萊歐復古紳士裝 - 新竹店",
+              "CMF 韓國男裝服飾", "dnews男裝服飾", "GA.Design - 客製西服",
+              "Mr.Black 黑仕訂製西服", "EMTM型男西服",
+              "EZ西服-桃園形象概念館 - ElegaZzle Bespoke Suit", "Dandy西服竹北店",
+              "男裝社西服號", "BeMAX胖胖星球-男裝大尺碼服飾(桃園旗艦店)",
+            ],
+            "女裝": [
+              "Gold韓國女裝服飾店", "GM日韓女裝",
+              "QkM.21微/正式西裝 • 學生面試套裝 • 情侶穿搭・女生西裝 • 大尺碼 • 休閒西裝 • 情侶西裝",
+              "UnASeouL 韓國精品女裝", "荷莉漾", "iROO桃園藝文店", "iROO桃園店",
+              "HAI the label 新竹大遠百專櫃", "YamiYa", "LLstudio", "MOMA桃園門市",
+              "Sen服飾桃園中正店",
+            ],
+            "鞋包配件": [
+              "BONJOUR 女鞋 試鞋空間 桃園站前店", "BK先生教你選對鞋 - 桃園建國門市",
+              "ROYAL SELECT 新竹皇家流行概念館", "千步專業鞋墊-桃園門市",
+              "小腳慢步童鞋 桃園店", "千步專業鞋墊 萬家福經國店",
+              "牧田工作安全鞋專賣店-竹北自強門市", "走四方訂製鞋墊 竹北店-新竹竹北客製訂製/兒童/大人鞋墊 扁平足/矯正鞋墊/足弓墊/足底筋膜炎 專業價格推薦 PTT Dcard",
+              "模靚(手作飾品)", "碧瑄飾品屋",
+              "Ann'S 新竹門市 - 小白鞋 高跟鞋 涼鞋 婚鞋 尖頭鞋 平底鞋 牛津鞋 休閒鞋 懶人鞋 靴子 短靴 襪靴 過膝靴 膝上靴 雪靴 包包 大尺碼女鞋專賣",
+              "布布童鞋-竹北自強門市",
+            ],
+            "平價服飾": [
+              "Office Star職業男女服飾新竹店-平價西裝/職場套裝/團體制服/禮服西服",
+              "OOTD我的穿搭服飾精品店", "P8精品服飾-新竹市-服飾店-日本服飾",
+              "Bruno韓國服飾店（2樓）", "JSMIX大尺碼服飾-桃園站前門市", "Eshow流行服飾",
+              "山頂鳥Hilltop 特賣會", "RP 暢貨中心 Outlet", "FILA Outlet 華泰名品城",
+              "力莉服飾店", "Levi's 華泰名品城Outlet", "CondorStore OUTLET - HSINCHU",
+            ],
+            "選品店": [
+              "Twenty Boutique 新竹店", "LYLO 來囉！服飾選品店",
+              "竹北 Goofing-off 日系服飾選品店", "POLARbear(大白熊) 中性服飾選貨店",
+              "Definite.Select 潮流選貨店", "BLACKOUT", "Hydra Garment N'sneaker",
+              "MO-BO 竹北體驗概念店", "蘋古AFA VINTAGE 古著", "ZOEY 走你文化國際精品",
+            ],
           }
-          TYPE_HINT = {
-              "男裝": ["mens_clothing_store"],
-              "女裝": ["womens_clothing_store"],
-              "鞋包配件": ["shoe_store", "jewelry_store"],
-              "平價服飾": [],
-              "選品店": [],
-          }
-          EXCLUDE_KEYWORDS = {
-              "男裝": ["女裝", "女生", "淑女"],
-              "女裝": ["男裝", "型男", "紳士"],
-              "鞋包配件": ["3c", "手機", "寵物", "維修", "洗鞋", "皮件維修", "包膜", "親子館"],
-              "選品店": ["寵物", "家居", "3c", "手機"],
-          }
-          # Non-clothing establishment types that must never pass on keyword
-          # match alone (pet shops, home-goods stores, electronics/phone
-          # accessories, cafes/grocery that happen to use 選物/選品 in their
-          # name, jewelry-craft classrooms, tattoo/piercing studios).
-          EXCLUDE_TYPES = {
-              "pet_care", "home_goods_store", "electronics_store", "cell_phone_store",
-              "gift_shop", "body_art_service", "cafe", "food_store", "food",
-              "grocery_store", "asian_grocery_store", "educational_institution",
-              "toy_store",
-          }
-          by_cat = {}
-          for key, place in candidates.items():
-              by_cat.setdefault(place["cat_label"], []).append(place)
-          selected = {}
-          for cat_label, target in TARGET_NEW.items():
-              rows = by_cat.get(cat_label, [])
-              rows = [r for r in rows if r["cid"] not in existing_cids and r["name"] not in existing_names]
-              kws = KEYWORDS[cat_label]
-              types_hint = TYPE_HINT.get(cat_label, [])
-              exclude_kws = EXCLUDE_KEYWORDS.get(cat_label, [])
-              def is_relevant(r):
-                  name_l = r["name"].lower()
-                  types = r.get("types") or []
-                  if any(t in EXCLUDE_TYPES for t in types):
-                      return False
-                  if any(k.lower() in name_l for k in exclude_kws):
-                      return False
-                  return any(k.lower() in name_l for k in kws) or any(t in types for t in types_hint)
-              rows = [r for r in rows if is_relevant(r)]
-              ranked = sorted(rows, key=lambda p: (p["rating"], p["userRatingCount"]), reverse=True)
-              picked = ranked[:target]
-              selected[cat_label] = [p["name"] for p in picked]
-              areas = sorted(set(p["area_label"] for p in picked))
-              print(cat_label, "picked", len(picked), "of target", target,
-                    "(", len(rows), "topically relevant candidates available )", "areas:", areas)
           json.dump(selected, open("candidate-results/tw-clothing-final-list.json", "w"), ensure_ascii=False, indent=2)
-          print(json.dumps(selected, ensure_ascii=False, indent=2))
+          for cat, names in selected.items():
+              print(cat, len(names))
           PY
           python3 scripts/taiwan-clothing/fetch_details_clothing.py
 
