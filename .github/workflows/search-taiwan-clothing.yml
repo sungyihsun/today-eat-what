@@ -1,0 +1,102 @@
+name: Search Taiwan clothing candidates
+
+on:
+  push:
+    branches: [DEV]
+    paths:
+      - scripts/taiwan-clothing/search_clothing_categories.py
+      - scripts/taiwan-clothing/fetch_details_clothing.py
+      - .github/workflows/search-taiwan-clothing.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out DEV
+        uses: actions/checkout@v4
+        with:
+          ref: DEV
+
+      - name: Search Google Places candidates per category
+        env:
+          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+        run: |
+          test -n "$GOOGLE_PLACES_API_KEY"
+          python3 scripts/taiwan-clothing/search_clothing_categories.py
+
+      - name: Select top candidates per category and fetch details
+        env:
+          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+        run: |
+          python3 - <<'PY'
+          import json, re
+          candidates = json.load(open("candidate-results/tw-clothing-candidates.json"))
+          html = open("index.html", encoding="utf-8").read()
+          existing_cids = set(re.findall(r"cid=(\d+)", html))
+          existing_names = set(re.findall(r'\{name:"((?:[^"\\]|\\.)*)"', html))
+          # how many NEW places each category needs, first pass.
+          TARGET_NEW = {"男裝": 12, "女裝": 12, "鞋包配件": 12, "平價服飾": 12, "選品店": 12}
+          # Require the name or Google `types` to actually signal the
+          # category before a candidate is eligible — a broad query like
+          # "新竹市 男裝店" can return general department stores or
+          # unrelated shops. Learned the hard way from the Busan
+          # 辣炒年糕 mismatch (see scripts/busan-trip/search_busan_categories.py).
+          KEYWORDS = {
+              "男裝": ["男裝", "男生服飾", "型男", "menswear", "man's"],
+              "女裝": ["女裝", "女生服飾", "淑女", "womenswear"],
+              "鞋包配件": ["鞋", "包", "配件", "飾品", "shoes", "bag", "accessor"],
+              "平價服飾": ["平價", "均一價", "outlet", "特賣", "服飾"],
+              "選品店": ["選品", "選物", "編輯", "select", "boutique"],
+          }
+          TYPE_HINT = {
+              "男裝": ["clothing_store", "men's_clothing_store"],
+              "女裝": ["clothing_store", "women's_clothing_store"],
+              "鞋包配件": ["shoe_store", "clothing_store", "jewelry_store"],
+              "平價服飾": ["clothing_store", "discount_store", "outlet_store"],
+              "選品店": ["clothing_store", "boutique"],
+          }
+          by_cat = {}
+          for key, place in candidates.items():
+              by_cat.setdefault(place["cat_label"], []).append(place)
+          selected = {}
+          for cat_label, target in TARGET_NEW.items():
+              rows = by_cat.get(cat_label, [])
+              rows = [r for r in rows if r["cid"] not in existing_cids and r["name"] not in existing_names]
+              kws = KEYWORDS[cat_label]
+              types_hint = TYPE_HINT.get(cat_label, [])
+              def is_relevant(r):
+                  name_l = r["name"].lower()
+                  types = r.get("types") or []
+                  return any(k.lower() in name_l for k in kws) or any(t in types for t in types_hint)
+              rows = [r for r in rows if is_relevant(r)]
+              ranked = sorted(rows, key=lambda p: (p["rating"], p["userRatingCount"]), reverse=True)
+              picked = ranked[:target]
+              selected[cat_label] = [p["name"] for p in picked]
+              areas = sorted(set(p["area_label"] for p in picked))
+              print(cat_label, "picked", len(picked), "of target", target,
+                    "(", len(rows), "topically relevant candidates available )", "areas:", areas)
+          json.dump(selected, open("candidate-results/tw-clothing-final-list.json", "w"), ensure_ascii=False, indent=2)
+          print(json.dumps(selected, ensure_ascii=False, indent=2))
+          PY
+          python3 scripts/taiwan-clothing/fetch_details_clothing.py
+
+      - name: Publish candidate results to DEV
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add candidate-results/tw-clothing-candidates.json candidate-results/tw-clothing-final-list.json candidate-results/tw-clothing-details.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Publish Taiwan clothing candidates"
+          for i in 1 2 3 4 5; do
+            git push && exit 0
+            echo "push rejected, rebasing onto latest DEV and retrying ($i)"
+            git fetch origin DEV
+            git rebase origin/DEV
+          done
+          exit 1
