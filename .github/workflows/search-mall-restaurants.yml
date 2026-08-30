@@ -1,0 +1,95 @@
+name: Search mall (雨天首選) restaurant candidates
+
+on:
+  push:
+    branches: [DEV]
+    paths:
+      - scripts/mall-restaurants/search_mall_restaurants.py
+      - scripts/mall-restaurants/fetch_details_mall.py
+      - .github/workflows/search-mall-restaurants.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out DEV
+        uses: actions/checkout@v4
+        with:
+          ref: DEV
+
+      - name: Resolve malls and search tenant candidates
+        env:
+          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+        run: |
+          test -n "$GOOGLE_PLACES_API_KEY"
+          python3 scripts/mall-restaurants/search_mall_restaurants.py
+
+      - name: Select top candidates per mall and fetch details
+        env:
+          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+        run: |
+          python3 - <<'PY'
+          import json, re
+          candidates = json.load(open("candidate-results/mall-candidates.json"))
+          html = open("index.html", encoding="utf-8").read()
+          existing_cids = set(re.findall(r"cid=(\d+)", html))
+          existing_names = set(re.findall(r'\{name:"((?:[^"\\]|\\.)*)"', html))
+          # Several 巨城/大遠百/竹北遠百 branches are already in the site under
+          # their normal cuisine categories (kafeD 新竹大遠百店, 果然匯 竹北遠百店,
+          # etc.) — those get the new 雨天首選 tag added directly to their
+          # existing entry by hand, not through this new-candidate pipeline.
+          # This step only sources restaurants NOT already on the site.
+          TARGET_NEW = {"新竹巨城": 6, "新竹大遠百": 10, "竹北遠百": 8, "iFG遠雄自由行": 12, "享平方": 12}
+          # The search step already gates candidates to the mall's own street
+          # address (see street_prefix() in search_mall_restaurants.py) — a
+          # much stronger anti-contamination signal than a name/type keyword
+          # match, since it's the literal building address, not a guessable
+          # word. Still require an actual food-serving type, since a generic
+          # "XX商場 美食" query can surface a mall's grocery counter or a
+          # cosmetics counter that Google mistyped.
+          FOOD_TYPES = {
+              "restaurant", "cafe", "bakery", "meal_takeaway", "meal_delivery",
+              "bar", "food", "coffee_shop", "dessert_shop", "japanese_restaurant",
+              "italian_restaurant", "korean_restaurant", "thai_restaurant",
+              "steak_house", "hot_pot_restaurant", "seafood_restaurant",
+              "chinese_restaurant", "buffet_restaurant", "fast_food_restaurant",
+              "sushi_restaurant", "ramen_restaurant", "barbecue_restaurant",
+          }
+          by_mall = {}
+          for key, place in candidates.items():
+              by_mall.setdefault(place["mall_label"], []).append(place)
+          selected = {}
+          for mall_label, target in TARGET_NEW.items():
+              rows = by_mall.get(mall_label, [])
+              rows = [r for r in rows if r["cid"] not in existing_cids and r["name"] not in existing_names]
+              rows = [r for r in rows if set(r.get("types") or []) & FOOD_TYPES]
+              ranked = sorted(rows, key=lambda p: (p["rating"], p["userRatingCount"]), reverse=True)
+              picked = ranked[:target]
+              selected[mall_label] = [p["name"] for p in picked]
+              print(mall_label, "picked", len(picked), "of target", target,
+                    "(", len(rows), "food-type candidates available )")
+          json.dump(selected, open("candidate-results/mall-final-list.json", "w"), ensure_ascii=False, indent=2)
+          print(json.dumps(selected, ensure_ascii=False, indent=2))
+          PY
+          python3 scripts/mall-restaurants/fetch_details_mall.py
+
+      - name: Publish candidate results to DEV
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add candidate-results/mall-candidates.json candidate-results/mall-anchors.json candidate-results/mall-final-list.json candidate-results/mall-details.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Publish mall-restaurant (雨天首選) candidates"
+          for i in 1 2 3 4 5; do
+            git push && exit 0
+            echo "push rejected, rebasing onto latest DEV and retrying ($i)"
+            git fetch origin DEV
+            git rebase origin/DEV
+          done
+          exit 1
