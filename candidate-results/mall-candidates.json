@@ -1,94 +1,188 @@
 {
- "竹北遠百::18291820200906167063": {
-  "place_id": "ChIJPwqkeNE3aDQRF5NT-o6Z2f0",
-  "name": "天吉屋 竹北遠百店",
-  "address": "302台灣新竹縣竹北市十興里莊敬北路18號7樓",
-  "rating": 4.8,
-  "userRatingCount": 2685,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=18291820200906167063&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "新竹巨城::13723917421392445283": {
+  "place_id": "ChIJQyv318Q1aDQRYz_krC4mdb4",
+  "name": "Big City遠東巨城購物中心",
+  "address": "30041台灣新竹市東區復中里中央路229號",
+  "rating": 4.4,
+  "userRatingCount": 46923,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=13723917421392445283&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "location": {
-   "latitude": 24.8227117,
-   "longitude": 121.02334409999999
+   "latitude": 24.8098161,
+   "longitude": 120.9751319
   },
   "types": [
-   "japanese_restaurant",
+   "shopping_mall",
+   "department_store",
+   "warehouse_store",
+   "movie_theater",
+   "restaurant",
+   "food",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "13723917421392445283",
+  "mall_label": "新竹巨城"
+ },
+ "新竹大遠百::5265470745787877209": {
+  "place_id": "ChIJzerQyOo1aDQRWcfl4b61Ekk",
+  "name": "鼎泰豐 新竹店",
+  "address": "300台灣新竹市東區南市里西大路323號B1",
+  "rating": 4.5,
+  "userRatingCount": 4673,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=5265470745787877209&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 24.8015395,
+   "longitude": 120.96460320000001
+  },
+  "types": [
+   "taiwanese_restaurant",
+   "chinese_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "cid": "18291820200906167063",
-  "mall_label": "竹北遠百"
+  "cid": "5265470745787877209",
+  "mall_label": "新竹大遠百"
  },
- "竹北遠百::13198520533216888508": {
-  "place_id": "ChIJd3PTqa03aDQRvIYXB3-QKrc",
-  "name": "金春喜韓廚-竹北遠百店",
-  "address": "302台灣新竹縣竹北市十興里莊敬北路18號6樓",
-  "rating": 4.7,
-  "userRatingCount": 1313,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=13198520533216888508&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "新竹大遠百::119420954219194902": {
+  "place_id": "ChIJg6NHz-o1aDQRFir5orlEqAE",
+  "name": "Starbucks星巴克 西大門市",
+  "address": "300台灣新竹市東區南市里西大路323號",
+  "rating": 4,
+  "userRatingCount": 677,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=119420954219194902&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "location": {
-   "latitude": 24.8224491,
-   "longitude": 121.02364180000001
+   "latitude": 24.8019347,
+   "longitude": 120.9648374
   },
   "types": [
-   "korean_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "13198520533216888508",
-  "mall_label": "竹北遠百"
- },
- "竹北遠百::16226626681456338499": {
-  "place_id": "ChIJ7YGm0zE1aDQRQ6YUk_6OMOE",
-  "name": "☕️kafeD 竹北遠百店/咖啡/下午茶/甜點/蛋糕/寵物友善咖啡廳",
-  "address": "302台灣新竹縣竹北市十興里莊敬北路18號6樓",
-  "rating": 4.8,
-  "userRatingCount": 328,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=16226626681456338499&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.822909799999998,
-   "longitude": 121.02369949999999
-  },
-  "types": [
-   "dessert_shop",
-   "confectionery",
+   "coffee_shop",
+   "cafe",
    "food_store",
    "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "119420954219194902",
+  "mall_label": "新竹大遠百"
+ },
+ "新竹大遠百::3096279966917241934": {
+  "place_id": "ChIJnYx7zeo1aDQRTqxCoTky-Co",
+  "name": "新竹燒烤/牛角日本燒肉專門店-新竹大遠百店/新竹吃到飽/日式餐廳/新竹大遠百美食",
+  "address": "300台灣新竹市東區南市里西大路323號2 樓",
+  "rating": 4.3,
+  "userRatingCount": 2744,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=3096279966917241934&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 24.8019347,
+   "longitude": 120.9648374
+  },
+  "types": [
+   "yakiniku_restaurant",
+   "japanese_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "cid": "16226626681456338499",
+  "cid": "3096279966917241934",
+  "mall_label": "新竹大遠百"
+ },
+ "新竹大遠百::16935073166868386167": {
+  "place_id": "ChIJB4j50eo1aDQRd5FwxFF3Bes",
+  "name": "朱記餡餅粥店 大遠百新竹店",
+  "address": "300台灣新竹市東區南市里西大路323號9樓",
+  "rating": 4.2,
+  "userRatingCount": 1271,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=16935073166868386167&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 24.801968799999997,
+   "longitude": 120.9649556
+  },
+  "types": [
+   "chinese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "16935073166868386167",
+  "mall_label": "新竹大遠百"
+ },
+ "竹北遠百::18079193507707048803": {
+  "place_id": "ChIJQw8_8n03aDQRY1NtJLUy5vo",
+  "name": "果然匯 竹北遠百店",
+  "address": "302台灣新竹縣竹北市十興里莊敬北路18號8樓",
+  "rating": 4.5,
+  "userRatingCount": 3146,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=18079193507707048803&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 24.822503899999997,
+   "longitude": 121.02372829999997
+  },
+  "types": [
+   "vegan_restaurant",
+   "vegetarian_restaurant",
+   "cafeteria",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "18079193507707048803",
   "mall_label": "竹北遠百"
  },
- "竹北遠百::18318542282850765792": {
-  "place_id": "ChIJc7XLokw3aDQR4AtLhCaJOP4",
-  "name": "Woosa洋食パンケーキ 屋莎洋食鬆餅屋 竹北遠百店",
-  "address": "302台灣新竹縣竹北市十興里莊敬北路18號3樓",
+ "竹北遠百::6182836278109277773": {
+  "place_id": "ChIJ4UP45xE3aDQRTQ4aPdbYzVU",
+  "name": "上菜 片皮鴨專賣店 新竹遠百竹北店",
+  "address": "302台灣新竹縣竹北市十興里莊敬北路18號7樓",
   "rating": 4.4,
-  "userRatingCount": 1931,
+  "userRatingCount": 2416,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=18318542282850765792&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=6182836278109277773&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "location": {
-   "latitude": 24.8218352,
-   "longitude": 121.02336120000001
+   "latitude": 24.8226347,
+   "longitude": 121.02391509999998
+  },
+  "types": [
+   "chinese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "6182836278109277773",
+  "mall_label": "竹北遠百"
+ },
+ "竹北遠百::15168669423373522887": {
+  "place_id": "ChIJ00MHXw83aDQRxxeCN3nwgdI",
+  "name": "MO-MO PARADISE 竹北遠百牧場",
+  "address": "302台灣新竹縣竹北市十興里莊敬北路18號遠東百貨 竹北店7樓",
+  "rating": 4,
+  "userRatingCount": 1004,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=15168669423373522887&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 24.8229022,
+   "longitude": 121.0233307
   },
   "types": [
    "japanese_restaurant",
-   "family_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "cid": "18318542282850765792",
+  "cid": "15168669423373522887",
   "mall_label": "竹北遠百"
  },
  "竹北遠百::9215481265789588753": {
@@ -98,7 +192,7 @@
   "rating": 4.5,
   "userRatingCount": 132,
   "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=9215481265789588753&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=9215481265789588753&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "location": {
    "latitude": 24.822164599999997,
    "longitude": 121.02310059999998
@@ -121,6 +215,212 @@
   "cid": "9215481265789588753",
   "mall_label": "竹北遠百"
  },
+ "竹北遠百::16226626681456338499": {
+  "place_id": "ChIJ7YGm0zE1aDQRQ6YUk_6OMOE",
+  "name": "☕️kafeD 竹北遠百店/咖啡/下午茶/甜點/蛋糕/寵物友善咖啡廳",
+  "address": "302台灣新竹縣竹北市十興里莊敬北路18號6樓",
+  "rating": 4.8,
+  "userRatingCount": 328,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=16226626681456338499&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 24.822909799999998,
+   "longitude": 121.02369949999999
+  },
+  "types": [
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "16226626681456338499",
+  "mall_label": "竹北遠百"
+ },
+ "竹北遠百::12286404821483572489": {
+  "place_id": "ChIJ3-JXyfI3aDQRCc0sxxYUgqo",
+  "name": "青鳥旅新竹竹北遠百B2店",
+  "address": "302台灣新竹縣竹北市十興里莊敬北路18號B2",
+  "rating": 4.6,
+  "userRatingCount": 148,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=12286404821483572489&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 24.822509,
+   "longitude": 121.0237405
+  },
+  "types": [
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "12286404821483572489",
+  "mall_label": "竹北遠百"
+ },
+ "竹北遠百::4564851596751025119": {
+  "place_id": "ChIJI7hjnHY3aDQR3zO4dFecWT8",
+  "name": "涓豆腐 竹北遠百店",
+  "address": "302台灣新竹縣竹北市十興里莊敬北路18號7樓",
+  "rating": 4.4,
+  "userRatingCount": 693,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=4564851596751025119&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 24.8224561,
+   "longitude": 121.0240234
+  },
+  "types": [
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "4564851596751025119",
+  "mall_label": "竹北遠百"
+ },
+ "竹北遠百::18318542282850765792": {
+  "place_id": "ChIJc7XLokw3aDQR4AtLhCaJOP4",
+  "name": "Woosa洋食パンケーキ 屋莎洋食鬆餅屋 竹北遠百店",
+  "address": "302台灣新竹縣竹北市十興里莊敬北路18號3樓",
+  "rating": 4.4,
+  "userRatingCount": 1931,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=18318542282850765792&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 24.8218352,
+   "longitude": 121.02336120000001
+  },
+  "types": [
+   "japanese_restaurant",
+   "family_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "18318542282850765792",
+  "mall_label": "竹北遠百"
+ },
+ "竹北遠百::18291820200906167063": {
+  "place_id": "ChIJPwqkeNE3aDQRF5NT-o6Z2f0",
+  "name": "天吉屋 竹北遠百店",
+  "address": "302台灣新竹縣竹北市十興里莊敬北路18號7樓",
+  "rating": 4.8,
+  "userRatingCount": 2685,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=18291820200906167063&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 24.8227117,
+   "longitude": 121.02334409999999
+  },
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "18291820200906167063",
+  "mall_label": "竹北遠百"
+ },
+ "竹北遠百::8894887495937780685": {
+  "place_id": "ChIJL_wGwmw3aDQRzWtv6Az9cHs",
+  "name": "勝博殿 竹北遠百店",
+  "address": "302台灣新竹縣竹北市十興里莊敬北路18號7樓",
+  "rating": 4,
+  "userRatingCount": 379,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=8894887495937780685&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 24.8220018,
+   "longitude": 121.02350539999999
+  },
+  "types": [
+   "tonkatsu_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "8894887495937780685",
+  "mall_label": "竹北遠百"
+ },
+ "竹北遠百::5482847676399748160": {
+  "place_id": "ChIJPSdRJGo3aDQRQARijen8Fkw",
+  "name": "乾杯燒肉居酒屋 竹北遠百店",
+  "address": "302台灣新竹縣竹北市十興里莊敬北路18號7樓",
+  "rating": 4.1,
+  "userRatingCount": 423,
+  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=5482847676399748160&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 24.8230389,
+   "longitude": 121.0238268
+  },
+  "types": [
+   "yakiniku_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "5482847676399748160",
+  "mall_label": "竹北遠百"
+ },
+ "竹北遠百::3935975957051992860": {
+  "place_id": "ChIJTx5Sa6I3aDQRHOuPfEdlnzY",
+  "name": "開飯川食堂 竹北遠百店",
+  "address": "302台灣新竹縣竹北市十興里莊敬北路18號6樓",
+  "rating": 4.7,
+  "userRatingCount": 742,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=3935975957051992860&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 24.8221913,
+   "longitude": 121.02337200000001
+  },
+  "types": [
+   "chinese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "3935975957051992860",
+  "mall_label": "竹北遠百"
+ },
+ "竹北遠百::16457276838658137790": {
+  "place_id": "ChIJNWzD2P43aDQRvl57Ihf-Y-Q",
+  "name": "漢來上海湯包 新竹遠百竹北店",
+  "address": "302台灣新竹縣竹北市十興里莊敬北路18號B2",
+  "rating": 4.4,
+  "userRatingCount": 1454,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=16457276838658137790&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 24.822010799999997,
+   "longitude": 121.02303440000001
+  },
+  "types": [
+   "chinese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "16457276838658137790",
+  "mall_label": "竹北遠百"
+ },
  "竹北遠百::10510202905835366407": {
   "place_id": "ChIJqcxVaXM3aDQRB2iYf9u925E",
   "name": "添好運 竹北遠百店",
@@ -128,7 +428,7 @@
   "rating": 4,
   "userRatingCount": 1283,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=10510202905835366407&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=10510202905835366407&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "location": {
    "latitude": 24.822184999999998,
    "longitude": 121.0238577
@@ -145,116 +445,48 @@
   "cid": "10510202905835366407",
   "mall_label": "竹北遠百"
  },
- "竹北遠百::691303897058134694": {
-  "place_id": "ChIJ9_K-X7o3aDQRpkr-TzsBmAk",
-  "name": "翰林茶棧6F（竹北遠百店）",
-  "address": "302台灣新竹縣竹北市十興里莊敬北路18號6樓",
+ "竹北遠百::1826861028171150391": {
+  "place_id": "ChIJuxhsJ-43aDQRN3QlDm1QWhk",
+  "name": "時時香 遠百竹北店",
+  "address": "302台灣新竹縣竹北市十興里莊敬北路18號7F",
   "rating": 4.2,
-  "userRatingCount": 229,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=691303897058134694&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.821881899999998,
-   "longitude": 121.0238567
-  },
-  "types": [
-   "tea_house",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "691303897058134694",
-  "mall_label": "竹北遠百"
- },
- "竹北遠百::12618037216271970267": {
-  "place_id": "ChIJxxUB0Nk3aDQR26-Mtv5FHK8",
-  "name": "上善豆家 豆腐鍋定食 遠百竹北店",
-  "address": "302台灣新竹縣竹北市十興里莊敬北路18號6樓",
-  "rating": 4.2,
-  "userRatingCount": 381,
+  "userRatingCount": 1043,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=12618037216271970267&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=1826861028171150391&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "location": {
-   "latitude": 24.822097,
-   "longitude": 121.02369209999999
+   "latitude": 24.8226843,
+   "longitude": 121.0236847
   },
   "types": [
-   "vegetarian_restaurant",
+   "chinese_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "cid": "12618037216271970267",
+  "cid": "1826861028171150391",
   "mall_label": "竹北遠百"
  },
- "竹北遠百::18079193507707048803": {
-  "place_id": "ChIJQw8_8n03aDQRY1NtJLUy5vo",
-  "name": "果然匯 竹北遠百店",
-  "address": "302台灣新竹縣竹北市十興里莊敬北路18號8樓",
-  "rating": 4.5,
-  "userRatingCount": 3146,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=18079193507707048803&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.822503899999997,
-   "longitude": 121.02372829999997
-  },
-  "types": [
-   "vegan_restaurant",
-   "cafeteria",
-   "vegetarian_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "18079193507707048803",
-  "mall_label": "竹北遠百"
- },
- "竹北遠百::11406100388933034336": {
-  "place_id": "ChIJ6fbrykQ3aDQRYGHMIt-bSp4",
-  "name": "翰林茶館B2（竹北遠百）",
-  "address": "302台灣新竹縣竹北市十興里莊敬北路18號B2",
-  "rating": 4.1,
-  "userRatingCount": 243,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=11406100388933034336&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.8216877,
-   "longitude": 121.0236827
-  },
-  "types": [
-   "tea_house",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "11406100388933034336",
-  "mall_label": "竹北遠百"
- },
- "竹北遠百::10056307571456847228": {
-  "place_id": "ChIJY48XpKw3aDQRfK3BpHQuj4s",
-  "name": "樂子the Diner 竹北遠百店（新竹縣竹北必吃特色早午餐 / 竹北好吃聚餐餐廳推薦 / 竹北遠百附近美食）",
+ "竹北遠百::5947208750566187027": {
+  "place_id": "ChIJr7HGCxM3aDQRE6CXVtm6iFI",
+  "name": "四川吳抄手 Chili House 遠百竹北店 Zhubei",
   "address": "302台灣新竹縣竹北市十興里莊敬北路18號7樓",
   "rating": 4.5,
-  "userRatingCount": 1006,
+  "userRatingCount": 1329,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=10056307571456847228&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=5947208750566187027&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "location": {
-   "latitude": 24.822867199999997,
-   "longitude": 121.02404419999999
+   "latitude": 24.822541599999997,
+   "longitude": 121.02390539999999
   },
   "types": [
-   "american_restaurant",
-   "brunch_restaurant",
+   "chinese_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "cid": "10056307571456847228",
+  "cid": "5947208750566187027",
   "mall_label": "竹北遠百"
  },
  "竹北遠百::16570963301705760715": {
@@ -264,7 +496,7 @@
   "rating": 4.1,
   "userRatingCount": 582,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=16570963301705760715&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=16570963301705760715&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "location": {
    "latitude": 24.822509,
    "longitude": 121.0237405
@@ -280,48 +512,26 @@
   "cid": "16570963301705760715",
   "mall_label": "竹北遠百"
  },
- "竹北遠百::15884838186773693202": {
-  "place_id": "ChIJZW0Ug0A3aDQREsM0XStIctw",
-  "name": "Mami Cooking 韓國道地小菜（竹北遠百店）",
-  "address": "302台灣新竹縣竹北市十興里莊敬北路18號B2",
-  "rating": 4.5,
-  "userRatingCount": 26,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=15884838186773693202&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "享平方::12398655299640048678": {
+  "place_id": "ChIJS-RYPEA3aDQRJjyP203fEKw",
+  "name": "樂葵法式鐵板燒-竹北店 | Le Goût Teppanyaki",
+  "address": "30264台灣新竹縣竹北市鹿場里自強南路36號1樓",
+  "rating": 4.1,
+  "userRatingCount": 251,
+  "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=12398655299640048678&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "location": {
-   "latitude": 24.8227756,
-   "longitude": 121.02350340000001
+   "latitude": 24.8190214,
+   "longitude": 121.02718639999999
   },
   "types": [
-   "korean_restaurant",
+   "japanese_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "cid": "15884838186773693202",
-  "mall_label": "竹北遠百"
- },
- "竹北遠百::4564851596751025119": {
-  "place_id": "ChIJI7hjnHY3aDQR3zO4dFecWT8",
-  "name": "涓豆腐 竹北遠百店",
-  "address": "302台灣新竹縣竹北市十興里莊敬北路18號7樓",
-  "rating": 4.4,
-  "userRatingCount": 693,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=4564851596751025119&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.8224561,
-   "longitude": 121.0240234
-  },
-  "types": [
-   "korean_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "4564851596751025119",
-  "mall_label": "竹北遠百"
+  "cid": "12398655299640048678",
+  "mall_label": "享平方"
  }
 }
