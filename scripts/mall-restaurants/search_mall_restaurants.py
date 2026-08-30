@@ -42,7 +42,10 @@ MALL_NAMES = {
 
 # Generic dish-type query variants tried at every mall, for cuisine variety
 # instead of just whatever ranks first for a bare "餐廳" search.
-QUERY_SUFFIXES = ["餐廳", "美食", "咖啡廳", "甜點", "火鍋", "日式料理", "義式料理", "牛排", "燒烤", "港式"]
+QUERY_SUFFIXES = [
+    "餐廳", "美食", "咖啡廳", "甜點", "火鍋", "日式料理", "義式料理", "牛排",
+    "燒烤", "港式", "小吃", "飲料店", "素食", "早午餐", "拉麵", "壽司", "韓式料理",
+]
 
 
 def search_text(query, lat=None, lng=None, radius=None):
@@ -96,6 +99,14 @@ os.makedirs(os.path.dirname(MALLS_OUT_PATH), exist_ok=True)
 json.dump(anchors, open(MALLS_OUT_PATH, 'w'), ensure_ascii=False, indent=1)
 
 # Phase 2: search each mall's neighborhood, keep only same-building results.
+# Round 1 prefixed every query with the mall's own name (e.g. "iFG遠雄自由行
+# 餐廳") and got ZERO results for iFG遠雄自由行/享平方 — Text Search treats
+# textQuery as a real text-match, not just a location hint, so a colloquial
+# mall name that doesn't literally appear in nearby listings' names/descriptions
+# suppressed results outright even with locationBias set. Fixed: drop the mall
+# name from the query text entirely and let locationBias + the tight radius +
+# the street_prefix address check (below) do 100% of the disambiguation —
+# exactly how the existing Taiwan-area food search already works.
 all_results = {}
 for label, anchor in anchors.items():
     lat, lng = anchor['lat'], anchor['lng']
@@ -103,8 +114,8 @@ for label, anchor in anchors.items():
         continue
     prefix = anchor['street_prefix']
     for suffix in QUERY_SUFFIXES:
-        query = f"{label} {suffix}"
-        data = search_text(query, lat, lng, radius=200.0)
+        query = suffix
+        data = search_text(query, lat, lng, radius=300.0)
         places = data.get('places', [])
         print(f"{label} / {suffix}: {len(places)} results", flush=True)
         for p in places:
