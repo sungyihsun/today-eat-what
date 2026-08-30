@@ -28,56 +28,65 @@ jobs:
           test -n "$GOOGLE_PLACES_API_KEY"
           python3 scripts/mall-restaurants/search_mall_restaurants.py
 
-      - name: Select top candidates per mall and fetch details
+      - name: Select final candidates (manually curated after 3 automatic rounds) and fetch details
         env:
           GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
         run: |
           python3 - <<'PY'
-          import json, re
-          candidates = json.load(open("candidate-results/mall-candidates.json"))
-          html = open("index.html", encoding="utf-8").read()
-          existing_cids = set(re.findall(r"cid=(\d+)", html))
-          existing_names = set(re.findall(r'\{name:"((?:[^"\\]|\\.)*)"', html))
-          # Several 巨城/大遠百/竹北遠百 branches are already in the site under
-          # their normal cuisine categories (kafeD 新竹大遠百店, 果然匯 竹北遠百店,
-          # etc.) — those get the new 雨天首選 tag added directly to their
-          # existing entry by hand, not through this new-candidate pipeline.
-          # This step only sources restaurants NOT already on the site.
-          TARGET_NEW = {"新竹巨城": 6, "新竹大遠百": 10, "竹北遠百": 8, "iFG遠雄自由行": 12, "享平方": 12}
-          # The exact-string "address contains the mall's own street prefix"
-          # gate (an earlier round) starved most malls to 0-1 picks — real
-          # tenants often don't repeat the mall's official registered address
-          # verbatim. search_mall_restaurants.py now instead records each
-          # candidate's real haversine distance_m from the mall's anchor
-          # point; use a generous-but-still-building-scale cutoff here
-          # instead. Also require an actual food-serving type, since a
-          # generic nearby search can surface a mall's grocery counter or a
-          # cosmetics counter that Google mistyped.
-          MAX_DISTANCE_M = 120
-          FOOD_TYPES = {
-              "restaurant", "cafe", "bakery", "meal_takeaway", "meal_delivery",
-              "bar", "food", "coffee_shop", "dessert_shop", "japanese_restaurant",
-              "italian_restaurant", "korean_restaurant", "thai_restaurant",
-              "steak_house", "hot_pot_restaurant", "seafood_restaurant",
-              "chinese_restaurant", "buffet_restaurant", "fast_food_restaurant",
-              "sushi_restaurant", "ramen_restaurant", "barbecue_restaurant",
+          import json
+          # Rounds 1-3 iterated on the SEARCH mechanics (searchText+
+          # locationBias returned zero for most malls; switching to
+          # searchNearby fixed recall but a naive distance/type filter still
+          # let in neighboring-block restaurants close to a mall but in a
+          # separate building — e.g. 大遠百's 300m radius pulled in an entire
+          # nearby 勝利路/石坊街 restaurant cluster that is NOT inside the
+          # department store). This step is hand-picked after computing each
+          # candidate's (road name, building number) from its own
+          # formattedAddress and keeping only exact matches against the
+          # mall's own resolved address (candidate-results/mall-anchors.json)
+          # — normalizing the 区/區 and 号/號 simplified-character variants
+          # Google occasionally returns, which had silently dropped genuine
+          # iFG遠雄自由行 tenants in an earlier pass. Three further manual
+          # exclusions after that: "Big City遠東巨城購物中心" (the mall
+          # itself, not a restaurant), "築間鍋物燒肉放題 竹北享平方店" (very
+          # likely the same restaurant as the already-listed "築間幸福鍋物
+          # 火烤雙饗 竹北享平方店", not a second location), and "亞尼克新竹
+          # 湳雅店" (its own address string says it's inside "大魯閣湳雅廣場"
+          # — a different named venue that happens to share iFG's street
+          # address, not actually iFG遠雄自由行 itself).
+          selected = {
+            "新竹巨城": [
+              "時時香 - 新竹巨城店", "新馬辣經典麻辣鍋-新竹巨城店", "開飯川食堂 新竹巨城店",
+              "藍象廷泰式火鍋 新竹巨城店", "朱記餡餅粥店 巨城百貨新竹店", "糖朝 新竹巨城店",
+              "MO-MO-PARADISE 新竹巨城牧場", "乾杯燒肉居酒屋 新竹巨城店", "忠青商行 新竹巨城店",
+              "くら寿司 藏壽司 新竹巨城店",
+            ],
+            "新竹大遠百": [
+              "鼎泰豐 新竹店",
+              "新竹燒烤/牛角日本燒肉專門店-新竹大遠百店/新竹吃到飽/日式餐廳/新竹大遠百美食",
+              "朱記餡餅粥店 大遠百新竹店", "Starbucks星巴克 西大門市",
+            ],
+            "竹北遠百": [
+              "開飯川食堂 竹北遠百店", "青鳥旅新竹竹北遠百B2店",
+              "四川吳抄手 Chili House 遠百竹北店 Zhubei", "Cold Stone酷聖石冰淇淋竹北門市",
+              "上菜 片皮鴨專賣店 新竹遠百竹北店", "Woosa洋食パンケーキ 屋莎洋食鬆餅屋 竹北遠百店",
+              "漢來上海湯包 新竹遠百竹北店", "涓豆腐 竹北遠百店", "時時香 遠百竹北店",
+              "一風堂遠百竹北店",
+            ],
+            "享平方": [
+              "金色三麥 新竹竹北店", "山口六家食堂", "豆腐村 Tofu Village - 竹北享平方店",
+              "樂葵法式鐵板燒-竹北店 | Le Goût Teppanyaki",
+            ],
+            "iFG遠雄自由行": [
+              "瓦城泰國料理 新竹遠雄店", "MAGiC TOUCH点爭鮮-iFG遠雄新竹店｜日式料理壽司生魚片",
+              "石二鍋 新竹遠雄店", "銀座杏子日式豬排-iFG遠雄廣場新竹店",
+              "丸亀製麵 遠雄新竹店 烏龍麵餐廳",
+              "來吧！肉夯夯韓式燒肉吃到飽湳雅店ROU*HANG BBQ KOREA RESTAURANT",
+            ],
           }
-          by_mall = {}
-          for key, place in candidates.items():
-              by_mall.setdefault(place["mall_label"], []).append(place)
-          selected = {}
-          for mall_label, target in TARGET_NEW.items():
-              rows = by_mall.get(mall_label, [])
-              rows = [r for r in rows if r["cid"] not in existing_cids and r["name"] not in existing_names]
-              rows = [r for r in rows if set(r.get("types") or []) & FOOD_TYPES]
-              rows = [r for r in rows if r.get("distance_m") is not None and r["distance_m"] <= MAX_DISTANCE_M]
-              ranked = sorted(rows, key=lambda p: (p["rating"], p["userRatingCount"]), reverse=True)
-              picked = ranked[:target]
-              selected[mall_label] = [p["name"] for p in picked]
-              print(mall_label, "picked", len(picked), "of target", target,
-                    "(", len(rows), "food-type candidates available )")
           json.dump(selected, open("candidate-results/mall-final-list.json", "w"), ensure_ascii=False, indent=2)
-          print(json.dumps(selected, ensure_ascii=False, indent=2))
+          for k, v in selected.items():
+              print(k, len(v))
           PY
           python3 scripts/mall-restaurants/fetch_details_mall.py
 
