@@ -103,6 +103,16 @@ def street_prefix(address):
     return m.group(1) if m else address
 
 
+def haversine_m(lat1, lng1, lat2, lng2):
+    from math import radians, sin, cos, asin, sqrt
+    R = 6371000.0
+    p1, p2 = radians(lat1), radians(lat2)
+    dphi = radians(lat2 - lat1)
+    dlmb = radians(lng2 - lng1)
+    a = sin(dphi / 2) ** 2 + cos(p1) * cos(p2) * sin(dlmb / 2) ** 2
+    return 2 * R * asin(sqrt(a))
+
+
 # Phase 1: resolve each mall's own canonical address/location.
 anchors = {}
 for label, query in MALL_NAMES.items():
@@ -127,24 +137,27 @@ for label, query in MALL_NAMES.items():
 os.makedirs(os.path.dirname(MALLS_OUT_PATH), exist_ok=True)
 json.dump(anchors, open(MALLS_OUT_PATH, 'w'), ensure_ascii=False, indent=1)
 
-# Phase 2: search each mall's neighborhood, keep only same-building results.
-# Round 1 prefixed every query with the mall's own name (e.g. "iFG遠雄自由行
-# 餐廳") via searchText+locationBias and got ZERO results for iFG遠雄自由行/
-# 享平方. Round 2 dropped the mall name but kept searchText — also went to
-# zero for everything except 竹北遠百, because searchText's locationBias is
-# only a soft relevance hint, not a real radius restriction, so a plain
-# one-word query mostly returns whatever ranks highest overall rather than
-# what's actually nearby. Fixed: switch to places:searchNearby, which takes
-# a locationRestriction circle and guarantees every result is physically
-# inside it — the street_prefix address check below is now a secondary
-# same-building confirmation, not the only thing standing between "biased
-# global top result" and "actually in this mall".
+# Phase 2: search each mall's neighborhood.
+# Round 1 (searchText+locationBias with the mall name in the query text) and
+# round 2 (searchText+locationBias, mall name dropped) both returned ZERO for
+# most malls — a plain query has no real proximity guarantee with that
+# endpoint. Round 3 switched to places:searchNearby (a true radius
+# restriction) plus a strict "candidate's own formattedAddress must contain
+# the mall's exact street-address substring" filter — that still starved
+# 新竹巨城/iFG遠雄自由行/享平方 down to 0-1, because real tenants often don't
+# repeat the mall's official registered address verbatim (different unit
+# suffix, a side-entrance road name, etc.) even though they're genuinely
+# inside the building. Fixed here: keep searchNearby's real radius
+# restriction, but replace the fragile string-prefix gate with an actual
+# haversine distance in meters from the mall's anchor point — every
+# candidate's distance is recorded so the review step can pick a sane cutoff
+# (a mall building is usually well under 120m across; a plain radius filter
+# at search time can't be tighter than the search itself allows for recall).
 all_results = {}
 for label, anchor in anchors.items():
     lat, lng = anchor['lat'], anchor['lng']
     if lat is None:
         continue
-    prefix = anchor['street_prefix']
     for included_types in INCLUDED_TYPE_BATCHES:
         data = search_nearby(lat, lng, 300.0, included_types)
         places = data.get('places', [])
@@ -159,8 +172,10 @@ for label, anchor in anchors.items():
             if rating < MIN_RATING or count < MIN_REVIEWS:
                 continue
             address = p.get('formattedAddress', '')
-            if prefix not in address:
-                continue
+            ploc = p.get('location') or {}
+            dist = None
+            if ploc.get('latitude') is not None:
+                dist = round(haversine_m(lat, lng, ploc['latitude'], ploc['longitude']), 1)
             key = f"{label}::{cid}"
             if key in all_results:
                 continue
@@ -176,6 +191,8 @@ for label, anchor in anchors.items():
                 'types': p.get('types'),
                 'cid': cid,
                 'mall_label': label,
+                'distance_m': dist,
+                'address_matches_mall': anchor['street_prefix'] in address,
             }
         time.sleep(0.15)
 
@@ -186,5 +203,6 @@ json.dump(all_results, open(OUT_PATH, 'w'), ensure_ascii=False, indent=1)
 for label in anchors:
     print(f"--- {label} ---")
     rows = [v for v in all_results.values() if v['mall_label'] == label]
-    for v in sorted(rows, key=lambda x: -x['rating']):
-        print(f"{v['rating']:.1f} ({v['userRatingCount']:>5}) {v['name']} | {v['address']}")
+    for v in sorted(rows, key=lambda x: (x['distance_m'] is None, x['distance_m'])):
+        print(f"{v['distance_m']:>6}m  {v['rating']:.1f} ({v['userRatingCount']:>5}) "
+              f"match={v['address_matches_mall']} {v['name']} | {v['address']}")

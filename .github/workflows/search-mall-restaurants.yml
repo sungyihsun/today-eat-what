@@ -44,13 +44,16 @@ jobs:
           # existing entry by hand, not through this new-candidate pipeline.
           # This step only sources restaurants NOT already on the site.
           TARGET_NEW = {"新竹巨城": 6, "新竹大遠百": 10, "竹北遠百": 8, "iFG遠雄自由行": 12, "享平方": 12}
-          # The search step already gates candidates to the mall's own street
-          # address (see street_prefix() in search_mall_restaurants.py) — a
-          # much stronger anti-contamination signal than a name/type keyword
-          # match, since it's the literal building address, not a guessable
-          # word. Still require an actual food-serving type, since a generic
-          # "XX商場 美食" query can surface a mall's grocery counter or a
+          # The exact-string "address contains the mall's own street prefix"
+          # gate (an earlier round) starved most malls to 0-1 picks — real
+          # tenants often don't repeat the mall's official registered address
+          # verbatim. search_mall_restaurants.py now instead records each
+          # candidate's real haversine distance_m from the mall's anchor
+          # point; use a generous-but-still-building-scale cutoff here
+          # instead. Also require an actual food-serving type, since a
+          # generic nearby search can surface a mall's grocery counter or a
           # cosmetics counter that Google mistyped.
+          MAX_DISTANCE_M = 120
           FOOD_TYPES = {
               "restaurant", "cafe", "bakery", "meal_takeaway", "meal_delivery",
               "bar", "food", "coffee_shop", "dessert_shop", "japanese_restaurant",
@@ -67,6 +70,7 @@ jobs:
               rows = by_mall.get(mall_label, [])
               rows = [r for r in rows if r["cid"] not in existing_cids and r["name"] not in existing_names]
               rows = [r for r in rows if set(r.get("types") or []) & FOOD_TYPES]
+              rows = [r for r in rows if r.get("distance_m") is not None and r["distance_m"] <= MAX_DISTANCE_M]
               ranked = sorted(rows, key=lambda p: (p["rating"], p["userRatingCount"]), reverse=True)
               picked = ranked[:target]
               selected[mall_label] = [p["name"] for p in picked]
