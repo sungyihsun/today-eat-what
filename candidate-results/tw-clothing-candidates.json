@@ -102,8 +102,8 @@
    "clothing_store",
    "tailor",
    "store",
-   "point_of_interest",
    "service",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "13436422720866444891",
@@ -677,8 +677,8 @@
    "clothing_store",
    "consultant",
    "store",
-   "point_of_interest",
    "service",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "3187017662225202285",
@@ -743,8 +743,8 @@
   "types": [
    "clothing_store",
    "store",
-   "point_of_interest",
    "service",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "9641982252026531047",
@@ -773,28 +773,6 @@
   "cat_label": "男裝",
   "area_label": "桃園"
  },
- "男裝::5380672822301544676": {
-  "place_id": "ChIJxYx-cEIfaDQR5NDhgWz9q0o",
-  "name": "OOTD我的穿搭服飾精品店",
-  "address": "330台灣桃園市桃園區朝陽里民生路484號百順森活社區，朝陽公園旁",
-  "rating": 5,
-  "userRatingCount": 22,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=5380672822301544676&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.999482699999998,
-   "longitude": 121.31091369999999
-  },
-  "types": [
-   "clothing_store",
-   "store",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "5380672822301544676",
-  "cat_label": "男裝",
-  "area_label": "桃園"
- },
  "男裝::9617382134442119562": {
   "place_id": "ChIJmaVW4yIfaDQRilGcoBjOd4U",
   "name": "D.TELL-桃園新光站前店",
@@ -814,6 +792,28 @@
    "establishment"
   ],
   "cid": "9617382134442119562",
+  "cat_label": "男裝",
+  "area_label": "桃園"
+ },
+ "男裝::5380672822301544676": {
+  "place_id": "ChIJxYx-cEIfaDQR5NDhgWz9q0o",
+  "name": "OOTD我的穿搭服飾精品店",
+  "address": "330台灣桃園市桃園區朝陽里民生路484號百順森活社區，朝陽公園旁",
+  "rating": 5,
+  "userRatingCount": 22,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=5380672822301544676&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.999482699999998,
+   "longitude": 121.31091369999999
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "5380672822301544676",
   "cat_label": "男裝",
   "area_label": "桃園"
  },
@@ -945,8 +945,8 @@
    "shoe_store",
    "clothing_store",
    "store",
-   "point_of_interest",
    "service",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "1530188113673495915",
@@ -1053,8 +1053,8 @@
   },
   "types": [
    "clothing_store",
-   "point_of_interest",
    "store",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "5098494803292221064",
@@ -1074,8 +1074,8 @@
    "longitude": 121.3123781
   },
   "types": [
-   "point_of_interest",
    "store",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "16790323955667745371",
@@ -1168,6 +1168,28 @@
   "cat_label": "男裝",
   "area_label": "竹北"
  },
+ "男裝::1581870955876757004": {
+  "place_id": "ChIJm7mX6EU3aDQRDK6K1UDv8xU",
+  "name": "Kissy如吻科技內衣-竹北工作室",
+  "address": "302台灣新竹縣竹北市北崙里縣政九路163號",
+  "rating": 5,
+  "userRatingCount": 35,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=1581870955876757004&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.8287531,
+   "longitude": 121.01047179999999
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "1581870955876757004",
+  "cat_label": "男裝",
+  "area_label": "竹北"
+ },
  "男裝::10068860933726972963": {
   "place_id": "ChIJXXdPFqk3aDQRI6yaD6zHu4s",
   "name": "Q比芝麻暖心手作 Qupidbabys",
@@ -1190,28 +1212,6 @@
    "establishment"
   ],
   "cid": "10068860933726972963",
-  "cat_label": "男裝",
-  "area_label": "竹北"
- },
- "男裝::1581870955876757004": {
-  "place_id": "ChIJm7mX6EU3aDQRDK6K1UDv8xU",
-  "name": "Kissy如吻科技內衣-竹北工作室",
-  "address": "302台灣新竹縣竹北市北崙里縣政九路163號",
-  "rating": 5,
-  "userRatingCount": 35,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=1581870955876757004&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.8287531,
-   "longitude": 121.01047179999999
-  },
-  "types": [
-   "clothing_store",
-   "store",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "1581870955876757004",
   "cat_label": "男裝",
   "area_label": "竹北"
  },
@@ -1252,8 +1252,8 @@
   },
   "types": [
    "clothing_store",
-   "store",
    "point_of_interest",
+   "store",
    "establishment"
   ],
   "cid": "14886109114491897506",
@@ -1274,8 +1274,8 @@
   },
   "types": [
    "clothing_store",
-   "store",
    "point_of_interest",
+   "store",
    "establishment"
   ],
   "cid": "12711022953566395488",
@@ -1296,8 +1296,8 @@
   },
   "types": [
    "clothing_store",
-   "store",
    "point_of_interest",
+   "store",
    "establishment"
   ],
   "cid": "10419399972420463239",
@@ -1413,28 +1413,6 @@
   "cat_label": "女裝",
   "area_label": "新竹市"
  },
- "女裝::17843785813578815499": {
-  "place_id": "ChIJHWVp4sE1aDQRCxiFMqjcofc",
-  "name": "MKone 男裝",
-  "address": "300台灣新竹市東區成功里大同路23巷6號1樓",
-  "rating": 5,
-  "userRatingCount": 854,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=17843785813578815499&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.803167,
-   "longitude": 120.9694353
-  },
-  "types": [
-   "clothing_store",
-   "store",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "17843785813578815499",
-  "cat_label": "女裝",
-  "area_label": "新竹市"
- },
  "女裝::4130401303037520889": {
   "place_id": "ChIJJWAp_Oo1aDQR-atc7xkiUjk",
   "name": "Nab_Shop 巨城門市",
@@ -1454,6 +1432,28 @@
    "establishment"
   ],
   "cid": "4130401303037520889",
+  "cat_label": "女裝",
+  "area_label": "新竹市"
+ },
+ "女裝::17843785813578815499": {
+  "place_id": "ChIJHWVp4sE1aDQRCxiFMqjcofc",
+  "name": "MKone 男裝",
+  "address": "300台灣新竹市東區成功里大同路23巷6號1樓",
+  "rating": 5,
+  "userRatingCount": 854,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=17843785813578815499&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.803167,
+   "longitude": 120.9694353
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "17843785813578815499",
   "cat_label": "女裝",
   "area_label": "新竹市"
  },
@@ -1521,28 +1521,6 @@
   "cat_label": "女裝",
   "area_label": "新竹市"
  },
- "女裝::5547104901940420888": {
-  "place_id": "ChIJR0wBXJo1aDQRGKH8u4RG-0w",
-  "name": "Office Star職業男女服飾新竹店-平價西裝/職場套裝/團體制服/禮服西服",
-  "address": "300台灣新竹市香山區頂埔里牛埔東路5號1樓",
-  "rating": 5,
-  "userRatingCount": 3309,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=5547104901940420888&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.7994076,
-   "longitude": 120.95139959999997
-  },
-  "types": [
-   "clothing_store",
-   "store",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "5547104901940420888",
-  "cat_label": "女裝",
-  "area_label": "新竹市"
- },
  "女裝::5251781738423061529": {
   "place_id": "ChIJTcFjDK01aDQRGQyXfKoT4kg",
   "name": "OH!HER 新竹巨城店（SOGO）",
@@ -1564,17 +1542,17 @@
   "cat_label": "女裝",
   "area_label": "新竹市"
  },
- "女裝::13238913737647755325": {
-  "place_id": "ChIJ3aPn5iQ1aDQRPZCI0OYRurc",
-  "name": "P8精品服飾-新竹市-服飾店-日本服飾",
-  "address": "30045台灣新竹市北區石坊里和福街109號",
+ "女裝::5547104901940420888": {
+  "place_id": "ChIJR0wBXJo1aDQRGKH8u4RG-0w",
+  "name": "Office Star職業男女服飾新竹店-平價西裝/職場套裝/團體制服/禮服西服",
+  "address": "300台灣新竹市香山區頂埔里牛埔東路5號1樓",
   "rating": 5,
-  "userRatingCount": 10,
+  "userRatingCount": 3309,
   "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=13238913737647755325&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=5547104901940420888&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.802853799999998,
-   "longitude": 120.9640379
+   "latitude": 24.7994076,
+   "longitude": 120.95139959999997
   },
   "types": [
    "clothing_store",
@@ -1582,7 +1560,7 @@
    "point_of_interest",
    "establishment"
   ],
-  "cid": "13238913737647755325",
+  "cid": "5547104901940420888",
   "cat_label": "女裝",
   "area_label": "新竹市"
  },
@@ -1606,6 +1584,28 @@
    "establishment"
   ],
   "cid": "442554592281544195",
+  "cat_label": "女裝",
+  "area_label": "新竹市"
+ },
+ "女裝::13238913737647755325": {
+  "place_id": "ChIJ3aPn5iQ1aDQRPZCI0OYRurc",
+  "name": "P8精品服飾-新竹市-服飾店-日本服飾",
+  "address": "30045台灣新竹市北區石坊里和福街109號",
+  "rating": 5,
+  "userRatingCount": 10,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=13238913737647755325&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.802853799999998,
+   "longitude": 120.9640379
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "13238913737647755325",
   "cat_label": "女裝",
   "area_label": "新竹市"
  },
@@ -1645,8 +1645,8 @@
   "types": [
    "clothing_store",
    "womens_clothing_store",
-   "point_of_interest",
    "store",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "8708456892461249505",
@@ -1667,8 +1667,8 @@
   },
   "types": [
    "clothing_store",
-   "point_of_interest",
    "store",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "6787074811493421071",
@@ -1689,8 +1689,8 @@
   },
   "types": [
    "clothing_store",
-   "point_of_interest",
    "store",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "813002970528243848",
@@ -1711,8 +1711,8 @@
   },
   "types": [
    "clothing_store",
-   "point_of_interest",
    "store",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "11731046817999541921",
@@ -1733,8 +1733,8 @@
   },
   "types": [
    "clothing_store",
-   "point_of_interest",
    "store",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "17311460473213217687",
@@ -1756,8 +1756,8 @@
   "types": [
    "womens_clothing_store",
    "clothing_store",
-   "point_of_interest",
    "store",
+   "point_of_interest",
    "service",
    "establishment"
   ],
@@ -1779,8 +1779,8 @@
   },
   "types": [
    "clothing_store",
-   "point_of_interest",
    "store",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "7132187925334995778",
@@ -1801,8 +1801,8 @@
   },
   "types": [
    "clothing_store",
-   "point_of_interest",
    "store",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "16744340174027127117",
@@ -1824,8 +1824,8 @@
   "types": [
    "womens_clothing_store",
    "clothing_store",
-   "point_of_interest",
    "store",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "13145437067946804567",
@@ -1846,8 +1846,8 @@
   },
   "types": [
    "clothing_store",
-   "point_of_interest",
    "store",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "13331659784365680600",
@@ -1869,8 +1869,8 @@
   "types": [
    "clothing_store",
    "womens_clothing_store",
-   "point_of_interest",
    "store",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "6343733841586549358",
@@ -1891,8 +1891,8 @@
   },
   "types": [
    "clothing_store",
-   "point_of_interest",
    "store",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "11985382295605821621",
@@ -1913,8 +1913,8 @@
   },
   "types": [
    "clothing_store",
-   "store",
    "point_of_interest",
+   "store",
    "establishment"
   ],
   "cid": "17223262126575424238",
@@ -1936,35 +1936,11 @@
   "types": [
    "womens_clothing_store",
    "clothing_store",
-   "store",
    "point_of_interest",
+   "store",
    "establishment"
   ],
   "cid": "10551555336047479886",
-  "cat_label": "女裝",
-  "area_label": "桃園"
- },
- "女裝::3187017662225202285": {
-  "place_id": "ChIJ1WPSIkwfaDQRbTzUoa2POiw",
-  "name": "Bruno韓國服飾店（2樓）",
-  "address": "330台灣桃园市桃園區成功路一段28號2樓",
-  "rating": 4.9,
-  "userRatingCount": 1079,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=3187017662225202285&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.992921,
-   "longitude": 121.31248869999999
-  },
-  "types": [
-   "clothing_store",
-   "consultant",
-   "store",
-   "service",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "3187017662225202285",
   "cat_label": "女裝",
   "area_label": "桃園"
  },
@@ -1983,15 +1959,39 @@
   "types": [
    "womens_clothing_store",
    "sportswear_store",
-   "beauty_salon",
-   "clothing_store",
    "sporting_goods_store",
+   "clothing_store",
+   "beauty_salon",
+   "point_of_interest",
    "store",
    "service",
-   "point_of_interest",
    "establishment"
   ],
   "cid": "15537790399912202417",
+  "cat_label": "女裝",
+  "area_label": "桃園"
+ },
+ "女裝::3187017662225202285": {
+  "place_id": "ChIJ1WPSIkwfaDQRbTzUoa2POiw",
+  "name": "Bruno韓國服飾店（2樓）",
+  "address": "330台灣桃园市桃園區成功路一段28號2樓",
+  "rating": 4.9,
+  "userRatingCount": 1079,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=3187017662225202285&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.992921,
+   "longitude": 121.31248869999999
+  },
+  "types": [
+   "clothing_store",
+   "point_of_interest",
+   "consultant",
+   "store",
+   "service",
+   "establishment"
+  ],
+  "cid": "3187017662225202285",
   "cat_label": "女裝",
   "area_label": "桃園"
  },
@@ -2010,8 +2010,8 @@
   "types": [
    "womens_clothing_store",
    "clothing_store",
-   "store",
    "point_of_interest",
+   "store",
    "establishment"
   ],
   "cid": "5684493006667514892",
@@ -2033,8 +2033,8 @@
   "types": [
    "clothing_store",
    "womens_clothing_store",
-   "store",
    "point_of_interest",
+   "store",
    "establishment"
   ],
   "cid": "10327246911168653711",
@@ -2054,8 +2054,8 @@
    "longitude": 121.29436760000002
   },
   "types": [
-   "store",
    "point_of_interest",
+   "store",
    "establishment"
   ],
   "cid": "3475476563104997184",
@@ -2075,8 +2075,8 @@
    "longitude": 121.31249720000001
   },
   "types": [
-   "store",
    "point_of_interest",
+   "store",
    "establishment"
   ],
   "cid": "16428799961696662942",
@@ -2098,10 +2098,10 @@
   "types": [
    "womens_clothing_store",
    "clothing_store",
+   "point_of_interest",
    "consultant",
    "store",
    "service",
-   "point_of_interest",
    "establishment"
   ],
   "cid": "4676098721605706606",
@@ -2123,9 +2123,9 @@
   "types": [
    "womens_clothing_store",
    "clothing_store",
+   "point_of_interest",
    "store",
    "service",
-   "point_of_interest",
    "establishment"
   ],
   "cid": "13436491648763512922",
@@ -2146,8 +2146,8 @@
   },
   "types": [
    "clothing_store",
-   "store",
    "point_of_interest",
+   "store",
    "establishment"
   ],
   "cid": "14525244587477744717",
@@ -2169,8 +2169,8 @@
   "types": [
    "clothing_store",
    "womens_clothing_store",
-   "store",
    "point_of_interest",
+   "store",
    "establishment"
   ],
   "cid": "4507816039234953128",
@@ -2190,8 +2190,8 @@
    "longitude": 121.31039399999999
   },
   "types": [
-   "store",
    "point_of_interest",
+   "store",
    "establishment"
   ],
   "cid": "12274928153261687336",
@@ -2212,8 +2212,8 @@
   },
   "types": [
    "clothing_store",
-   "store",
    "point_of_interest",
+   "store",
    "establishment"
   ],
   "cid": "5854679903435391121",
@@ -2234,34 +2234,33 @@
   },
   "types": [
    "clothing_store",
-   "store",
    "point_of_interest",
+   "store",
    "establishment"
   ],
   "cid": "11345820180580605853",
   "cat_label": "女裝",
   "area_label": "桃園"
  },
- "女裝::5672996884264644130": {
-  "place_id": "ChIJm_jf9rcfaDQRIu59ApyIuk4",
-  "name": "Sen服飾桃園莊敬店",
-  "address": "33044台灣桃園市桃園區莊敬里莊敬路一段310號",
-  "rating": 4.8,
-  "userRatingCount": 22,
+ "女裝::1049642767389712229": {
+  "place_id": "ChIJA943EHcfaDQRZV9SI4kUkQ4",
+  "name": "Life8 桃園統領店",
+  "address": "3樓, No. 61號中正路文化里桃園區桃園市台灣 330",
+  "rating": 4.7,
+  "userRatingCount": 126,
   "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=5672996884264644130&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=1049642767389712229&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 25.0243923,
-   "longitude": 121.297241
+   "latitude": 24.9910614,
+   "longitude": 121.31237300000001
   },
   "types": [
-   "womens_clothing_store",
    "clothing_store",
-   "store",
    "point_of_interest",
+   "store",
    "establishment"
   ],
-  "cid": "5672996884264644130",
+  "cid": "1049642767389712229",
   "cat_label": "女裝",
   "area_label": "桃園"
  },
@@ -2482,28 +2481,6 @@
   "cat_label": "女裝",
   "area_label": "桃園"
  },
- "女裝::1049642767389712229": {
-  "place_id": "ChIJA943EHcfaDQRZV9SI4kUkQ4",
-  "name": "Life8 桃園統領店",
-  "address": "3樓, No. 61號中正路文化里桃園區桃園市台灣 330",
-  "rating": 4.7,
-  "userRatingCount": 126,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=1049642767389712229&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.9910614,
-   "longitude": 121.31237300000001
-  },
-  "types": [
-   "clothing_store",
-   "store",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "1049642767389712229",
-  "cat_label": "女裝",
-  "area_label": "桃園"
- },
  "女裝::109813736365586919": {
   "place_id": "ChIJGZxMTDgfaDQR53mH6wIjhgE",
   "name": "OB嚴選 桃園統領店",
@@ -2649,8 +2626,8 @@
    "longitude": 121.30844299999998
   },
   "types": [
-   "point_of_interest",
    "service",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "11428003907258677234",
@@ -3225,8 +3202,8 @@
   },
   "types": [
    "shoe_store",
-   "store",
    "health",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -3743,6 +3720,27 @@
   "cat_label": "鞋包配件",
   "area_label": "桃園"
  },
+ "鞋包配件::4802821806350237601": {
+  "place_id": "ChIJjTj0qdgfaDQRoX8Bh_wMp0I",
+  "name": "足滿意 修鞋坊",
+  "address": "330台灣桃園市桃園區中路里延壽街193巷5號",
+  "rating": 5,
+  "userRatingCount": 142,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=4802821806350237601&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.9946401,
+   "longitude": 121.2883384
+  },
+  "types": [
+   "point_of_interest",
+   "service",
+   "establishment"
+  ],
+  "cid": "4802821806350237601",
+  "cat_label": "鞋包配件",
+  "area_label": "桃園"
+ },
  "鞋包配件::4602101905677738342": {
   "place_id": "ChIJte84jnAfaDQRZuER3Ezz3T8",
   "name": "奧森OSOME-中正店（運動鞋/童鞋/護脊書包）",
@@ -3762,27 +3760,6 @@
    "establishment"
   ],
   "cid": "4602101905677738342",
-  "cat_label": "鞋包配件",
-  "area_label": "桃園"
- },
- "鞋包配件::4802821806350237601": {
-  "place_id": "ChIJjTj0qdgfaDQRoX8Bh_wMp0I",
-  "name": "足滿意 修鞋坊",
-  "address": "330台灣桃園市桃園區中路里延壽街193巷5號",
-  "rating": 5,
-  "userRatingCount": 142,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=4802821806350237601&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.9946401,
-   "longitude": 121.2883384
-  },
-  "types": [
-   "point_of_interest",
-   "service",
-   "establishment"
-  ],
-  "cid": "4802821806350237601",
   "cat_label": "鞋包配件",
   "area_label": "桃園"
  },
@@ -3842,8 +3819,8 @@
    "longitude": 120.963847
   },
   "types": [
-   "service",
    "point_of_interest",
+   "service",
    "establishment"
   ],
   "cid": "10609595648066003994",
@@ -3886,8 +3863,8 @@
   "types": [
    "supplier",
    "manufacturer",
-   "service",
    "point_of_interest",
+   "service",
    "establishment"
   ],
   "cid": "8820991031040798560",
@@ -3992,8 +3969,8 @@
   },
   "types": [
    "general_contractor",
-   "service",
    "point_of_interest",
+   "service",
    "establishment"
   ],
   "cid": "14742384807720233495",
@@ -4121,8 +4098,8 @@
    "longitude": 120.9682682
   },
   "types": [
-   "service",
    "point_of_interest",
+   "service",
    "establishment"
   ],
   "cid": "14560121298300739327",
@@ -4143,8 +4120,8 @@
   },
   "types": [
    "store",
-   "service",
    "point_of_interest",
+   "service",
    "establishment"
   ],
   "cid": "9174762478764293279",
@@ -4486,26 +4463,6 @@
   "cat_label": "鞋包配件",
   "area_label": "竹北"
  },
- "鞋包配件::2941307608679018951": {
-  "place_id": "ChIJQ2IGW583aDQRx3F3tq-f0Sg",
-  "name": "唯酷3C配件館 竹北莊敬店",
-  "address": "1樓, No. 35號莊敬五街十興里竹北市新竹縣台灣 302044",
-  "rating": 4.9,
-  "userRatingCount": 263,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=2941307608679018951&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.822056600000003,
-   "longitude": 121.02619639999999
-  },
-  "types": [
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "2941307608679018951",
-  "cat_label": "鞋包配件",
-  "area_label": "竹北"
- },
  "鞋包配件::4615986806973002807": {
   "place_id": "ChIJN-Okie02aDQRN_SDXYtHD0A",
   "name": "凱麗斯旅行箱竹北店",
@@ -4544,6 +4501,26 @@
    "establishment"
   ],
   "cid": "3136234320343149480",
+  "cat_label": "鞋包配件",
+  "area_label": "竹北"
+ },
+ "鞋包配件::2941307608679018951": {
+  "place_id": "ChIJQ2IGW583aDQRx3F3tq-f0Sg",
+  "name": "唯酷3C配件館 竹北莊敬店",
+  "address": "1樓, No. 35號莊敬五街十興里竹北市新竹縣台灣 302044",
+  "rating": 4.9,
+  "userRatingCount": 263,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=2941307608679018951&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.822056600000003,
+   "longitude": 121.02619639999999
+  },
+  "types": [
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "2941307608679018951",
   "cat_label": "鞋包配件",
   "area_label": "竹北"
  },
@@ -5182,8 +5159,8 @@
    "grocery_store",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "17810253208624088189",
@@ -5358,8 +5335,8 @@
   "types": [
    "home_goods_store",
    "store",
-   "service",
    "point_of_interest",
+   "service",
    "establishment"
   ],
   "cid": "5291235274753880301",
@@ -5422,8 +5399,8 @@
   },
   "types": [
    "supplier",
-   "store",
    "manufacturer",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -5641,10 +5618,10 @@
   },
   "types": [
    "jewelry_store",
-   "educational_institution",
    "store",
-   "point_of_interest",
+   "educational_institution",
    "service",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "6158460800088634055",
@@ -5707,8 +5684,8 @@
   },
   "types": [
    "wholesaler",
-   "point_of_interest",
    "service",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "16068369289757769914",
@@ -5753,8 +5730,8 @@
   "types": [
    "jewelry_store",
    "store",
-   "point_of_interest",
    "service",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "3155302897966910859",
@@ -5797,11 +5774,11 @@
   "types": [
    "furniture_store",
    "home_improvement_store",
-   "general_contractor",
    "home_goods_store",
    "store",
-   "point_of_interest",
+   "general_contractor",
    "service",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "12605731902124720444",
@@ -5823,10 +5800,10 @@
   "types": [
    "gift_shop",
    "wholesaler",
-   "store",
    "health",
-   "point_of_interest",
+   "store",
    "service",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "6523363413708550964",
@@ -6245,28 +6222,6 @@
   "cat_label": "平價服飾",
   "area_label": "新竹市"
  },
- "平價服飾::12511053690828745328": {
-  "place_id": "ChIJUfM9JQU1aDQRcOqvnwsxoK0",
-  "name": "NMR 新竹店",
-  "address": "300台灣新竹市東區成功里大同路36號",
-  "rating": 4.8,
-  "userRatingCount": 44,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=12511053690828745328&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.8035477,
-   "longitude": 120.9696152
-  },
-  "types": [
-   "clothing_store",
-   "store",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "12511053690828745328",
-  "cat_label": "平價服飾",
-  "area_label": "新竹市"
- },
  "平價服飾::8708456892461249505": {
   "place_id": "ChIJC3aZs8U3aDQR4XP0gGen2ng",
   "name": "LLstudio",
@@ -6282,8 +6237,8 @@
   "types": [
    "clothing_store",
    "womens_clothing_store",
-   "point_of_interest",
    "store",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "8708456892461249505",
@@ -6304,8 +6259,8 @@
   },
   "types": [
    "clothing_store",
-   "point_of_interest",
    "store",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "11731046817999541921",
@@ -6326,8 +6281,8 @@
   },
   "types": [
    "clothing_store",
-   "point_of_interest",
    "store",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "813002970528243848",
@@ -6348,8 +6303,8 @@
   },
   "types": [
    "clothing_store",
-   "point_of_interest",
    "store",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "11985382295605821621",
@@ -6370,8 +6325,8 @@
   },
   "types": [
    "clothing_store",
-   "point_of_interest",
    "store",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "7132187925334995778",
@@ -6392,8 +6347,8 @@
   },
   "types": [
    "clothing_store",
-   "point_of_interest",
    "store",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "4356577587091354774",
@@ -6414,8 +6369,8 @@
   },
   "types": [
    "clothing_store",
-   "point_of_interest",
    "store",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "12412242726729837485",
@@ -6436,8 +6391,8 @@
   },
   "types": [
    "clothing_store",
-   "point_of_interest",
    "store",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "6472717903453796454",
@@ -6458,8 +6413,8 @@
   },
   "types": [
    "clothing_store",
-   "point_of_interest",
    "store",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "16744340174027127117",
@@ -6480,8 +6435,8 @@
   },
   "types": [
    "clothing_store",
-   "point_of_interest",
    "store",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "7207333185415199667",
@@ -6612,10 +6567,10 @@
   },
   "types": [
    "clothing_store",
-   "store",
-   "point_of_interest",
    "consultant",
+   "store",
    "service",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "3187017662225202285",
@@ -6689,6 +6644,50 @@
   "cat_label": "平價服飾",
   "area_label": "桃園"
  },
+ "平價服飾::1762403660034546635": {
+  "place_id": "ChIJLavKuLkfaDQRyxs1i8pQdRg",
+  "name": "Shimmering36",
+  "address": "330台灣桃園市桃園區自強里新埔八街10號",
+  "rating": 4.7,
+  "userRatingCount": 143,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=1762403660034546635&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 25.0192274,
+   "longitude": 121.2995516
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "1762403660034546635",
+  "cat_label": "平價服飾",
+  "area_label": "桃園"
+ },
+ "平價服飾::11636231537478351905": {
+  "place_id": "ChIJtwVoamofaDQRITyYk-4yfKE",
+  "name": "思夢樂 桃園中山路店",
+  "address": "330台灣桃園市桃園區龍鳳里龍安街39號",
+  "rating": 4.3,
+  "userRatingCount": 1342,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=11636231537478351905&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.9873522,
+   "longitude": 121.2813401
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "11636231537478351905",
+  "cat_label": "平價服飾",
+  "area_label": "桃園"
+ },
  "平價服飾::3806368221718900278": {
   "place_id": "ChIJfQLjXPweaDQRNu7jC7vv0jQ",
   "name": "E GO GO流行館",
@@ -6732,50 +6731,6 @@
   "cat_label": "平價服飾",
   "area_label": "桃園"
  },
- "平價服飾::11636231537478351905": {
-  "place_id": "ChIJtwVoamofaDQRITyYk-4yfKE",
-  "name": "思夢樂 桃園中山路店",
-  "address": "330台灣桃園市桃園區龍鳳里龍安街39號",
-  "rating": 4.3,
-  "userRatingCount": 1342,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=11636231537478351905&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.9873522,
-   "longitude": 121.2813401
-  },
-  "types": [
-   "clothing_store",
-   "store",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "11636231537478351905",
-  "cat_label": "平價服飾",
-  "area_label": "桃園"
- },
- "平價服飾::1762403660034546635": {
-  "place_id": "ChIJLavKuLkfaDQRyxs1i8pQdRg",
-  "name": "Shimmering36",
-  "address": "330台灣桃園市桃園區自強里新埔八街10號",
-  "rating": 4.7,
-  "userRatingCount": 143,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=1762403660034546635&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 25.0192274,
-   "longitude": 121.2995516
-  },
-  "types": [
-   "clothing_store",
-   "store",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "1762403660034546635",
-  "cat_label": "平價服飾",
-  "area_label": "桃園"
- },
  "平價服飾::4154611921445410855": {
   "place_id": "ChIJIV8EE_seaDQRJ1hbzYclqDk",
   "name": "IVUDIARY衣服日記",
@@ -6812,13 +6767,13 @@
   },
   "types": [
    "womens_clothing_store",
-   "beauty_salon",
    "sportswear_store",
+   "beauty_salon",
    "clothing_store",
    "sporting_goods_store",
    "store",
-   "point_of_interest",
    "service",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "15537790399912202417",
@@ -6884,9 +6839,9 @@
    "clothing_store",
    "womens_clothing_store",
    "home_goods_store",
+   "service",
    "store",
    "point_of_interest",
-   "service",
    "establishment"
   ],
   "cid": "14522457251853076030",
@@ -6910,10 +6865,10 @@
    "warehouse_store",
    "department_store",
    "movie_theater",
-   "store",
    "restaurant",
-   "food",
+   "store",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "13723917421392445283",
@@ -7007,28 +6962,6 @@
   "cat_label": "平價服飾",
   "area_label": "桃園"
  },
- "平價服飾::10339137941622256420": {
-  "place_id": "ChIJLV7GbfQfaDQRJHMoxi3_e48",
-  "name": "Dreamland2020",
-  "address": "330台灣桃園市桃園區武陵里大同路12號1樓",
-  "rating": 5,
-  "userRatingCount": 39,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=10339137941622256420&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.9906073,
-   "longitude": 121.31495489999999
-  },
-  "types": [
-   "clothing_store",
-   "store",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "10339137941622256420",
-  "cat_label": "平價服飾",
-  "area_label": "桃園"
- },
  "平價服飾::5555095134636311323": {
   "place_id": "ChIJ7YJM_z8faDQRG4N_wZepF00",
   "name": "愛買 桃園店",
@@ -7048,6 +6981,28 @@
    "establishment"
   ],
   "cid": "5555095134636311323",
+  "cat_label": "平價服飾",
+  "area_label": "桃園"
+ },
+ "平價服飾::10339137941622256420": {
+  "place_id": "ChIJLV7GbfQfaDQRJHMoxi3_e48",
+  "name": "Dreamland2020",
+  "address": "330台灣桃園市桃園區武陵里大同路12號1樓",
+  "rating": 5,
+  "userRatingCount": 39,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=10339137941622256420&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.9906073,
+   "longitude": 121.31495489999999
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "10339137941622256420",
   "cat_label": "平價服飾",
   "area_label": "桃園"
  },
@@ -7216,6 +7171,28 @@
    "establishment"
   ],
   "cid": "11295223140035115632",
+  "cat_label": "平價服飾",
+  "area_label": "新竹市"
+ },
+ "平價服飾::12511053690828745328": {
+  "place_id": "ChIJUfM9JQU1aDQRcOqvnwsxoK0",
+  "name": "NMR 新竹店",
+  "address": "300台灣新竹市東區成功里大同路36號",
+  "rating": 4.8,
+  "userRatingCount": 44,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=12511053690828745328&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.8035477,
+   "longitude": 120.9696152
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "12511053690828745328",
   "cat_label": "平價服飾",
   "area_label": "新竹市"
  },
@@ -7519,8 +7496,8 @@
   "types": [
    "sportswear_store",
    "shoe_store",
-   "clothing_store",
    "sporting_goods_store",
+   "clothing_store",
    "store",
    "point_of_interest",
    "establishment"
@@ -7788,8 +7765,8 @@
    "furniture_store",
    "home_improvement_store",
    "store",
-   "point_of_interest",
    "service",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "10091881683590048371",
@@ -7918,12 +7895,12 @@
   "types": [
    "gift_shop",
    "tea_house",
-   "home_goods_store",
    "food_store",
    "food",
+   "home_goods_store",
    "store",
-   "point_of_interest",
    "service",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "15707863438492288126",
@@ -7988,8 +7965,8 @@
   "types": [
    "clothing_store",
    "store",
-   "point_of_interest",
    "service",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "2309739239762971872",
@@ -8010,8 +7987,8 @@
   },
   "types": [
    "clothing_store",
-   "store",
    "point_of_interest",
+   "store",
    "establishment"
   ],
   "cid": "813002970528243848",
@@ -8032,8 +8009,8 @@
   },
   "types": [
    "home_goods_store",
-   "store",
    "point_of_interest",
+   "store",
    "service",
    "establishment"
   ],
@@ -8055,8 +8032,8 @@
   },
   "types": [
    "toy_store",
-   "store",
    "point_of_interest",
+   "store",
    "establishment"
   ],
   "cid": "16111626324721198195",
@@ -8077,8 +8054,8 @@
   },
   "types": [
    "clothing_store",
-   "store",
    "point_of_interest",
+   "store",
    "establishment"
   ],
   "cid": "7744955409815427082",
@@ -8099,14 +8076,14 @@
   },
   "types": [
    "gift_shop",
-   "asian_grocery_store",
    "department_store",
-   "grocery_store",
+   "asian_grocery_store",
    "home_goods_store",
+   "grocery_store",
    "food_store",
-   "store",
    "food",
    "point_of_interest",
+   "store",
    "service",
    "establishment"
   ],
@@ -8128,8 +8105,8 @@
   },
   "types": [
    "pet_care",
-   "store",
    "point_of_interest",
+   "store",
    "establishment"
   ],
   "cid": "5834627754126119931",
@@ -8176,13 +8153,13 @@
    "cake_shop",
    "dessert_shop",
    "bakery",
-   "manufacturer",
    "confectionery",
    "food_store",
-   "wholesaler",
-   "store",
+   "manufacturer",
    "food",
    "point_of_interest",
+   "store",
+   "wholesaler",
    "service",
    "establishment"
   ],
@@ -8205,9 +8182,9 @@
   "types": [
    "grocery_store",
    "food_store",
-   "store",
    "food",
    "point_of_interest",
+   "store",
    "establishment"
   ],
   "cid": "6222721278507634793",
@@ -8228,8 +8205,8 @@
   },
   "types": [
    "pet_care",
-   "store",
    "point_of_interest",
+   "store",
    "establishment"
   ],
   "cid": "983129190092587325",
@@ -8250,10 +8227,10 @@
   },
   "types": [
    "sportswear_store",
-   "sporting_goods_store",
    "clothing_store",
-   "store",
+   "sporting_goods_store",
    "point_of_interest",
+   "store",
    "establishment"
   ],
   "cid": "14786069379547193684",
@@ -8276,8 +8253,8 @@
    "furniture_store",
    "home_improvement_store",
    "home_goods_store",
-   "store",
    "point_of_interest",
+   "store",
    "service",
    "establishment"
   ],
@@ -8298,8 +8275,8 @@
    "longitude": 121.01626909999999
   },
   "types": [
-   "store",
    "point_of_interest",
+   "store",
    "service",
    "establishment"
   ],
@@ -8496,16 +8473,16 @@
   },
   "types": [
    "ice_cream_shop",
-   "gift_shop",
    "dessert_shop",
-   "grocery_store",
-   "wholesaler",
-   "supplier",
    "confectionery",
+   "grocery_store",
    "food_store",
+   "gift_shop",
    "store",
-   "food",
+   "wholesaler",
    "service",
+   "food",
+   "supplier",
    "point_of_interest",
    "establishment"
   ],
@@ -8614,8 +8591,8 @@
    "longitude": 120.9654413
   },
   "types": [
-   "point_of_interest",
    "store",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "9935900557734420480",
@@ -8637,10 +8614,10 @@
   "types": [
    "home_goods_store",
    "supplier",
-   "point_of_interest",
-   "store",
    "educational_institution",
    "manufacturer",
+   "store",
+   "point_of_interest",
    "service",
    "establishment"
   ],
@@ -8661,8 +8638,8 @@
    "longitude": 120.97586070000001
   },
   "types": [
-   "point_of_interest",
    "store",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "5251781738423061529",
@@ -8683,8 +8660,8 @@
   },
   "types": [
    "clothing_store",
-   "point_of_interest",
    "store",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "9584341654202801377",
@@ -8705,8 +8682,8 @@
   },
   "types": [
    "clothing_store",
-   "point_of_interest",
    "store",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "11435698307570154160",
@@ -8727,8 +8704,8 @@
   },
   "types": [
    "tailor",
-   "point_of_interest",
    "store",
+   "point_of_interest",
    "service",
    "establishment"
   ],
@@ -8750,8 +8727,8 @@
   },
   "types": [
    "clothing_store",
-   "point_of_interest",
    "store",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "6676119031212240372",
@@ -8771,8 +8748,8 @@
    "longitude": 120.9660056
   },
   "types": [
-   "point_of_interest",
    "store",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "1015026715759430034",
@@ -8792,8 +8769,8 @@
    "longitude": 120.98280390000001
   },
   "types": [
-   "point_of_interest",
    "store",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "15578096852672911979",
@@ -8813,8 +8790,8 @@
    "longitude": 120.9640874
   },
   "types": [
-   "point_of_interest",
    "store",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "14788782540859559870",
@@ -8835,33 +8812,11 @@
   },
   "types": [
    "clothing_store",
-   "point_of_interest",
    "store",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "5547104901940420888",
-  "cat_label": "選品店",
-  "area_label": "新竹市"
- },
- "選品店::15363531148789527164": {
-  "place_id": "ChIJO41UEG41aDQRfLI_Ky46NtU",
-  "name": "玉如阿姨內衣-新竹門市",
-  "address": "300台灣新竹市北區石坊里西門街52號",
-  "rating": 5,
-  "userRatingCount": 10972,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=15363531148789527164&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.802672599999998,
-   "longitude": 120.9648511
-  },
-  "types": [
-   "clothing_store",
-   "point_of_interest",
-   "store",
-   "establishment"
-  ],
-  "cid": "15363531148789527164",
   "cat_label": "選品店",
   "area_label": "新竹市"
  },
@@ -8879,11 +8834,33 @@
   },
   "types": [
    "clothing_store",
-   "point_of_interest",
    "store",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "6383504080264469044",
+  "cat_label": "選品店",
+  "area_label": "新竹市"
+ },
+ "選品店::15363531148789527164": {
+  "place_id": "ChIJO41UEG41aDQRfLI_Ky46NtU",
+  "name": "玉如阿姨內衣-新竹門市",
+  "address": "300台灣新竹市北區石坊里西門街52號",
+  "rating": 5,
+  "userRatingCount": 10972,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=15363531148789527164&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.802672599999998,
+   "longitude": 120.9648511
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "15363531148789527164",
   "cat_label": "選品店",
   "area_label": "新竹市"
  },
@@ -8900,8 +8877,8 @@
    "longitude": 120.969197
   },
   "types": [
-   "point_of_interest",
    "store",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "11779658062713158624",
@@ -9055,10 +9032,10 @@
    "longitude": 121.03042020000001
   },
   "types": [
+   "clothing_store",
    "furniture_store",
    "home_improvement_store",
    "home_goods_store",
-   "clothing_store",
    "store",
    "service",
    "point_of_interest",
@@ -9084,8 +9061,8 @@
    "book_store",
    "cafe",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -9159,31 +9136,6 @@
   "cat_label": "選品店",
   "area_label": "竹北"
  },
- "選品店::10068860933726972963": {
-  "place_id": "ChIJXXdPFqk3aDQRI6yaD6zHu4s",
-  "name": "Q比芝麻暖心手作 Qupidbabys",
-  "address": "302台灣新竹縣竹北市中興里嘉豐南路一段66號",
-  "rating": 5,
-  "userRatingCount": 547,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=10068860933726972963&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.810994299999997,
-   "longitude": 121.03392350000001
-  },
-  "types": [
-   "pet_care",
-   "home_goods_store",
-   "clothing_store",
-   "store",
-   "service",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "10068860933726972963",
-  "cat_label": "選品店",
-  "area_label": "竹北"
- },
  "選品店::7207333185415199667": {
   "place_id": "ChIJBTUonvk2aDQRs7uOlliXBWQ",
   "name": "NET 竹北二店",
@@ -9203,6 +9155,31 @@
    "establishment"
   ],
   "cid": "7207333185415199667",
+  "cat_label": "選品店",
+  "area_label": "竹北"
+ },
+ "選品店::10068860933726972963": {
+  "place_id": "ChIJXXdPFqk3aDQRI6yaD6zHu4s",
+  "name": "Q比芝麻暖心手作 Qupidbabys",
+  "address": "302台灣新竹縣竹北市中興里嘉豐南路一段66號",
+  "rating": 5,
+  "userRatingCount": 547,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=10068860933726972963&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.810994299999997,
+   "longitude": 121.03392350000001
+  },
+  "types": [
+   "clothing_store",
+   "home_goods_store",
+   "pet_care",
+   "store",
+   "service",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "10068860933726972963",
   "cat_label": "選品店",
   "area_label": "竹北"
  },
@@ -9226,8 +9203,8 @@
    "home_goods_store",
    "food_store",
    "store",
-   "food",
    "service",
+   "food",
    "point_of_interest",
    "establishment"
   ],
@@ -9419,28 +9396,6 @@
   "cat_label": "選品店",
   "area_label": "桃園"
  },
- "選品店::1845194625566029082": {
-  "place_id": "ChIJndHGMf0eaDQRGrVSVrxymxk",
-  "name": "墊腳石圖書文化廣場 桃園中華店",
-  "address": "330台灣桃園市桃園區文化里中華路55號",
-  "rating": 4.3,
-  "userRatingCount": 3070,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=1845194625566029082&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.990705,
-   "longitude": 121.31049000000002
-  },
-  "types": [
-   "book_store",
-   "store",
-   "point_of_interest",
-   "establishment"
-  ],
-  "cid": "1845194625566029082",
-  "cat_label": "選品店",
-  "area_label": "桃園"
- },
  "選品店::6242347913349114800": {
   "place_id": "ChIJbwAoV6UhaDQRsCuTk1pGoVY",
   "name": "證壹購物中心（傳統柑嘛店）",
@@ -9462,6 +9417,28 @@
    "establishment"
   ],
   "cid": "6242347913349114800",
+  "cat_label": "選品店",
+  "area_label": "桃園"
+ },
+ "選品店::1845194625566029082": {
+  "place_id": "ChIJndHGMf0eaDQRGrVSVrxymxk",
+  "name": "墊腳石圖書文化廣場 桃園中華店",
+  "address": "330台灣桃園市桃園區文化里中華路55號",
+  "rating": 4.3,
+  "userRatingCount": 3070,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=1845194625566029082&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.990705,
+   "longitude": 121.31049000000002
+  },
+  "types": [
+   "book_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "1845194625566029082",
   "cat_label": "選品店",
   "area_label": "桃園"
  },
@@ -9561,8 +9538,8 @@
    "longitude": 120.96279779999998
   },
   "types": [
-   "consultant",
    "general_contractor",
+   "consultant",
    "service",
    "point_of_interest",
    "establishment"
@@ -9869,8 +9846,8 @@
    "longitude": 120.95704459999999
   },
   "types": [
-   "consultant",
    "general_contractor",
+   "consultant",
    "service",
    "point_of_interest",
    "establishment"
@@ -9915,8 +9892,8 @@
   },
   "types": [
    "general_contractor",
-   "service",
    "point_of_interest",
+   "service",
    "establishment"
   ],
   "cid": "12132691883784538053",
@@ -9937,8 +9914,8 @@
   },
   "types": [
    "general_contractor",
-   "service",
    "point_of_interest",
+   "service",
    "establishment"
   ],
   "cid": "1257653486268753021",
@@ -9959,8 +9936,8 @@
   },
   "types": [
    "general_contractor",
-   "service",
    "point_of_interest",
+   "service",
    "establishment"
   ],
   "cid": "17109438720227201633",
@@ -9981,8 +9958,8 @@
   },
   "types": [
    "general_contractor",
-   "service",
    "point_of_interest",
+   "service",
    "establishment"
   ],
   "cid": "8450239600602213012",
@@ -10003,8 +9980,8 @@
   },
   "types": [
    "general_contractor",
-   "service",
    "point_of_interest",
+   "service",
    "establishment"
   ],
   "cid": "921160918897859039",
@@ -10027,11 +10004,11 @@
    "furniture_store",
    "home_improvement_store",
    "home_goods_store",
-   "store",
-   "manufacturer",
    "general_contractor",
-   "service",
+   "manufacturer",
+   "store",
    "point_of_interest",
+   "service",
    "establishment"
   ],
   "cid": "18412910171061974485",
@@ -10052,8 +10029,8 @@
   },
   "types": [
    "general_contractor",
-   "service",
    "point_of_interest",
+   "service",
    "establishment"
   ],
   "cid": "4450065894800510614",
@@ -10074,8 +10051,8 @@
   },
   "types": [
    "general_contractor",
-   "service",
    "point_of_interest",
+   "service",
    "establishment"
   ],
   "cid": "4740156181647445984",
@@ -10096,8 +10073,8 @@
   },
   "types": [
    "general_contractor",
-   "service",
    "point_of_interest",
+   "service",
    "establishment"
   ],
   "cid": "14714163886603889748",
@@ -10118,8 +10095,8 @@
   },
   "types": [
    "general_contractor",
-   "service",
    "point_of_interest",
+   "service",
    "establishment"
   ],
   "cid": "1230958323680850137",
@@ -10140,8 +10117,8 @@
   },
   "types": [
    "general_contractor",
-   "service",
    "point_of_interest",
+   "service",
    "establishment"
   ],
   "cid": "4048126291338909857",
@@ -10162,8 +10139,8 @@
   },
   "types": [
    "general_contractor",
-   "service",
    "point_of_interest",
+   "service",
    "establishment"
   ],
   "cid": "1799109490349686697",
@@ -10184,8 +10161,8 @@
   },
   "types": [
    "general_contractor",
-   "service",
    "point_of_interest",
+   "service",
    "establishment"
   ],
   "cid": "17769213004280160740",
@@ -10206,8 +10183,8 @@
   },
   "types": [
    "general_contractor",
-   "service",
    "point_of_interest",
+   "service",
    "establishment"
   ],
   "cid": "15258349547138585512",
@@ -10228,8 +10205,8 @@
   },
   "types": [
    "general_contractor",
-   "service",
    "point_of_interest",
+   "service",
    "establishment"
   ],
   "cid": "6606470087905657835",
@@ -10250,8 +10227,8 @@
   },
   "types": [
    "general_contractor",
-   "service",
    "point_of_interest",
+   "service",
    "establishment"
   ],
   "cid": "8900087385181086954",
@@ -10272,8 +10249,8 @@
   },
   "types": [
    "general_contractor",
-   "service",
    "point_of_interest",
+   "service",
    "establishment"
   ],
   "cid": "13627359025477647801",
@@ -10294,8 +10271,8 @@
   },
   "types": [
    "general_contractor",
-   "service",
    "point_of_interest",
+   "service",
    "establishment"
   ],
   "cid": "14259875032016005241",
@@ -10316,8 +10293,8 @@
   },
   "types": [
    "general_contractor",
-   "service",
    "point_of_interest",
+   "service",
    "establishment"
   ],
   "cid": "7658530961770320",
@@ -10338,8 +10315,8 @@
   },
   "types": [
    "general_contractor",
-   "service",
    "point_of_interest",
+   "service",
    "establishment"
   ],
   "cid": "8352064211696976755",
@@ -10783,6 +10760,1525 @@
    "establishment"
   ],
   "cid": "18361517648732845968",
+  "cat_label": "選品店",
+  "area_label": "桃園"
+ },
+ "選品店::16351038848233626479": {
+  "place_id": "ChIJSSpGdgA1aDQRb9uTcTOP6uI",
+  "name": "MOOS 新竹店",
+  "address": "300台灣新竹市東區育賢里文化街2-1號",
+  "rating": 4.9,
+  "userRatingCount": 366,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=16351038848233626479&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.8047902,
+   "longitude": 120.97106399999998
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "16351038848233626479",
+  "cat_label": "選品店",
+  "area_label": "新竹市"
+ },
+ "選品店::13238913737647755325": {
+  "place_id": "ChIJ3aPn5iQ1aDQRPZCI0OYRurc",
+  "name": "P8精品服飾-新竹市-服飾店-日本服飾",
+  "address": "30045台灣新竹市北區石坊里和福街109號",
+  "rating": 5,
+  "userRatingCount": 10,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=13238913737647755325&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.802853799999998,
+   "longitude": 120.9640379
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "13238913737647755325",
+  "cat_label": "選品店",
+  "area_label": "新竹市"
+ },
+ "選品店::17843785813578815499": {
+  "place_id": "ChIJHWVp4sE1aDQRCxiFMqjcofc",
+  "name": "MKone 男裝",
+  "address": "300台灣新竹市東區成功里大同路23巷6號1樓",
+  "rating": 5,
+  "userRatingCount": 854,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=17843785813578815499&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.803167,
+   "longitude": 120.9694353
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "17843785813578815499",
+  "cat_label": "選品店",
+  "area_label": "新竹市"
+ },
+ "選品店::10345353040897412179": {
+  "place_id": "ChIJBV46feo1aDQRU4yyVscTko8",
+  "name": "Twenty Boutique 新竹店",
+  "address": "300台灣新竹市東區成功里文昌街53號",
+  "rating": 4.9,
+  "userRatingCount": 364,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=10345353040897412179&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.8028075,
+   "longitude": 120.96811140000001
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "10345353040897412179",
+  "cat_label": "選品店",
+  "area_label": "新竹市"
+ },
+ "選品店::4130401303037520889": {
+  "place_id": "ChIJJWAp_Oo1aDQR-atc7xkiUjk",
+  "name": "Nab_Shop 巨城門市",
+  "address": "300台灣新竹市東區復中里三民路51號",
+  "rating": 5,
+  "userRatingCount": 1026,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=4130401303037520889&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.8088739,
+   "longitude": 120.9758102
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "4130401303037520889",
+  "cat_label": "選品店",
+  "area_label": "新竹市"
+ },
+ "選品店::12511053690828745328": {
+  "place_id": "ChIJUfM9JQU1aDQRcOqvnwsxoK0",
+  "name": "NMR 新竹店",
+  "address": "300台灣新竹市東區成功里大同路36號",
+  "rating": 4.8,
+  "userRatingCount": 44,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=12511053690828745328&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.8035477,
+   "longitude": 120.9696152
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "12511053690828745328",
+  "cat_label": "選品店",
+  "area_label": "新竹市"
+ },
+ "選品店::3020022121402161052": {
+  "place_id": "ChIJXS_rxdg1aDQRnFf_Xx5G6Sk",
+  "name": "A&F新竹麋鹿",
+  "address": "300台灣新竹市東區成功里文昌街29號",
+  "rating": 4.8,
+  "userRatingCount": 143,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=3020022121402161052&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.8032328,
+   "longitude": 120.9691905
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "3020022121402161052",
+  "cat_label": "選品店",
+  "area_label": "新竹市"
+ },
+ "選品店::14785829683514167284": {
+  "place_id": "ChIJESYPPpU1aDQR9M9JK8LRMc0",
+  "name": "shiangdian-精品服飾推薦-奢侈品推薦",
+  "address": "300台灣新竹市東區榮光里中正路29號4樓",
+  "rating": 5,
+  "userRatingCount": 11,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=14785829683514167284&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.8033754,
+   "longitude": 120.9710138
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "14785829683514167284",
+  "cat_label": "選品店",
+  "area_label": "新竹市"
+ },
+ "選品店::16016106677378210391": {
+  "place_id": "ChIJNTD3VqU1aDQRV9rjhSqkRN4",
+  "name": "CMF 韓國男裝服飾",
+  "address": "300台灣新竹市東區關帝里文昌街95號",
+  "rating": 5,
+  "userRatingCount": 395,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=16016106677378210391&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.8020319,
+   "longitude": 120.9665019
+  },
+  "types": [
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "16016106677378210391",
+  "cat_label": "選品店",
+  "area_label": "新竹市"
+ },
+ "選品店::6718077057362612309": {
+  "place_id": "ChIJYYgXP-o1aDQRVdDMYX1nO10",
+  "name": "ZEF",
+  "address": "300台灣新竹市東區關帝里文昌街108號2樓",
+  "rating": 5,
+  "userRatingCount": 57,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=6718077057362612309&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.8022192,
+   "longitude": 120.96654459999999
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "6718077057362612309",
+  "cat_label": "選品店",
+  "area_label": "新竹市"
+ },
+ "選品店::5427388989378624137": {
+  "place_id": "ChIJcfmOmUk1aDQRiXrHwYf1UUs",
+  "name": "dnews男裝服飾",
+  "address": "300台灣新竹市東區東門里復興路69號",
+  "rating": 5,
+  "userRatingCount": 379,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=5427388989378624137&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.8039054,
+   "longitude": 120.9680447
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "5427388989378624137",
+  "cat_label": "選品店",
+  "area_label": "新竹市"
+ },
+ "選品店::16442805979737548538": {
+  "place_id": "ChIJ9w7IF8I1aDQR-ubsvOuUMOQ",
+  "name": "UEC加大碼展新行",
+  "address": "300台灣新竹市東區育賢里東門街12號",
+  "rating": 4.8,
+  "userRatingCount": 60,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=16442805979737548538&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.8043173,
+   "longitude": 120.9745326
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "16442805979737548538",
+  "cat_label": "選品店",
+  "area_label": "新竹市"
+ },
+ "選品店::5398603243598225975": {
+  "place_id": "ChIJDZHst8k1aDQRN6LxCQyx60o",
+  "name": "COZZONE STUDIO",
+  "address": "30027台灣新竹市東區關帝里武昌街59號",
+  "rating": 5,
+  "userRatingCount": 30,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=5398603243598225975&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.801889600000003,
+   "longitude": 120.96778479999998
+  },
+  "types": [
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "5398603243598225975",
+  "cat_label": "選品店",
+  "area_label": "新竹市"
+ },
+ "選品店::14843060149622428377": {
+  "place_id": "ChIJ3U7VdTk1aDQR2VIAbpAk_c0",
+  "name": "OMA歐瑪流行服飾 - 新竹店",
+  "address": "300台灣新竹市東區東門里文昌街26號28號",
+  "rating": 4.4,
+  "userRatingCount": 49,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=14843060149622428377&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.803688,
+   "longitude": 120.96891799999997
+  },
+  "types": [
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "14843060149622428377",
+  "cat_label": "選品店",
+  "area_label": "新竹市"
+ },
+ "選品店::13014242220816821097": {
+  "place_id": "ChIJrzUFHMI1aDQRaWut8Fjgm7Q",
+  "name": "Timberland 新竹謙謙 專賣店",
+  "address": "300台灣新竹市東區榮光里信義街88號",
+  "rating": 4.8,
+  "userRatingCount": 32,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=13014242220816821097&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.803522299999997,
+   "longitude": 120.97072689999999
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "13014242220816821097",
+  "cat_label": "選品店",
+  "area_label": "新竹市"
+ },
+ "選品店::3854856521885364288": {
+  "place_id": "ChIJwVN0tl8faDQRQDATL5UzfzU",
+  "name": "BLACKOUT",
+  "address": "330台灣桃園市桃園區中寧里大興西路二段4號",
+  "rating": 4.9,
+  "userRatingCount": 48,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=3854856521885364288&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 25.0124248,
+   "longitude": 121.2996752
+  },
+  "types": [
+   "shoe_store",
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "3854856521885364288",
+  "cat_label": "選品店",
+  "area_label": "桃園"
+ },
+ "選品店::6557979860046582954": {
+  "place_id": "ChIJ8fXcZkMfaDQRqhQ-4u-fAls",
+  "name": "SEOUL MATE 首爾妹 桃園ATT 中大尺碼 門市",
+  "address": "330台灣桃園市桃園區文化里中正路47號",
+  "rating": 5,
+  "userRatingCount": 178,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=6557979860046582954&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.990649599999998,
+   "longitude": 121.312565
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "6557979860046582954",
+  "cat_label": "選品店",
+  "area_label": "桃園"
+ },
+ "選品店::5380672822301544676": {
+  "place_id": "ChIJxYx-cEIfaDQR5NDhgWz9q0o",
+  "name": "OOTD我的穿搭服飾精品店",
+  "address": "330台灣桃園市桃園區朝陽里民生路484號百順森活社區，朝陽公園旁",
+  "rating": 5,
+  "userRatingCount": 22,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=5380672822301544676&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.999482699999998,
+   "longitude": 121.31091369999999
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "5380672822301544676",
+  "cat_label": "選品店",
+  "area_label": "桃園"
+ },
+ "選品店::14147668738431260229": {
+  "place_id": "ChIJYXQnlv0eaDQRRRYYksKdVsQ",
+  "name": "萊茵飾品批發-韓國飾品批發商",
+  "address": "330台灣桃園市桃園區長美里中山路120號",
+  "rating": 4,
+  "userRatingCount": 59,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=14147668738431260229&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.993954,
+   "longitude": 121.309834
+  },
+  "types": [
+   "clothing_store",
+   "gift_shop",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "14147668738431260229",
+  "cat_label": "選品店",
+  "area_label": "桃園"
+ },
+ "選品店::4676098721605706606": {
+  "place_id": "ChIJ-fmRorAfaDQRbmP3IwPX5EA",
+  "name": "iROO桃園藝文店",
+  "address": "330台灣桃園市桃園區莊敬里中正路1218號1樓",
+  "rating": 4.9,
+  "userRatingCount": 100,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=4676098721605706606&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 25.0185885,
+   "longitude": 121.2975828
+  },
+  "types": [
+   "womens_clothing_store",
+   "clothing_store",
+   "consultant",
+   "store",
+   "point_of_interest",
+   "service",
+   "establishment"
+  ],
+  "cid": "4676098721605706606",
+  "cat_label": "選品店",
+  "area_label": "桃園"
+ },
+ "選品店::4359692214259835324": {
+  "place_id": "ChIJJwE-v_weaDQRvGH-YPi8gDw",
+  "name": "Lucy's 飾品 桃園ATT 筷食尚",
+  "address": "330台灣桃園市桃園區中正路47號",
+  "rating": 4.8,
+  "userRatingCount": 373,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=4359692214259835324&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.990799,
+   "longitude": 121.31281
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "4359692214259835324",
+  "cat_label": "選品店",
+  "area_label": "桃園"
+ },
+ "選品店::10339137941622256420": {
+  "place_id": "ChIJLV7GbfQfaDQRJHMoxi3_e48",
+  "name": "Dreamland2020",
+  "address": "330台灣桃園市桃園區武陵里大同路12號1樓",
+  "rating": 5,
+  "userRatingCount": 39,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=10339137941622256420&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.9906073,
+   "longitude": 121.31495489999999
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "10339137941622256420",
+  "cat_label": "選品店",
+  "area_label": "桃園"
+ },
+ "選品店::15321730230924306330": {
+  "place_id": "ChIJ18OAVRcfaDQRmmebjne4odQ",
+  "name": "MUZI",
+  "address": "330台灣桃園市桃園區幸福路206號9樓",
+  "rating": 4.4,
+  "userRatingCount": 10,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=15321730230924306330&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 25.028484,
+   "longitude": 121.29913080000001
+  },
+  "types": [
+   "clothing_store",
+   "consultant",
+   "store",
+   "point_of_interest",
+   "service",
+   "establishment"
+  ],
+  "cid": "15321730230924306330",
+  "cat_label": "選品店",
+  "area_label": "桃園"
+ },
+ "選品店::3187017662225202285": {
+  "place_id": "ChIJ1WPSIkwfaDQRbTzUoa2POiw",
+  "name": "Bruno韓國服飾店（2樓）",
+  "address": "330台灣桃园市桃園區成功路一段28號2樓",
+  "rating": 4.9,
+  "userRatingCount": 1079,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=3187017662225202285&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.992921,
+   "longitude": 121.31248869999999
+  },
+  "types": [
+   "clothing_store",
+   "consultant",
+   "store",
+   "point_of_interest",
+   "service",
+   "establishment"
+  ],
+  "cid": "3187017662225202285",
+  "cat_label": "選品店",
+  "area_label": "桃園"
+ },
+ "選品店::1808362289113106302": {
+  "place_id": "ChIJKa-i9sE1aDQRfofMu-uXGBk",
+  "name": "Dickies 新竹",
+  "address": "300台灣新竹市東區關帝里文昌街108號2f",
+  "rating": 4.9,
+  "userRatingCount": 40,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=1808362289113106302&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.8022808,
+   "longitude": 120.96656300000001
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "1808362289113106302",
+  "cat_label": "選品店",
+  "area_label": "新竹市"
+ },
+ "選品店::3931182427963356258": {
+  "place_id": "ChIJrUj0WAA1aDQRYnQDBpddjjY",
+  "name": "nuhi made",
+  "address": "300台灣新竹市東區復中里三民路49號",
+  "rating": 4.6,
+  "userRatingCount": 11,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=3931182427963356258&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.8088228,
+   "longitude": 120.9757187
+  },
+  "types": [
+   "womens_clothing_store",
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "3931182427963356258",
+  "cat_label": "選品店",
+  "area_label": "新竹市"
+ },
+ "選品店::11731046817999541921": {
+  "place_id": "ChIJGUnct-Q2aDQRodZWXu0MzaI",
+  "name": "INOD",
+  "address": "302台灣新竹縣竹北市十興里莊敬五街43號",
+  "rating": 5,
+  "userRatingCount": 68,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=11731046817999541921&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.8224335,
+   "longitude": 121.026338
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "11731046817999541921",
+  "cat_label": "選品店",
+  "area_label": "竹北"
+ },
+ "選品店::5804014678803493052": {
+  "place_id": "ChIJZdn6Jek2aDQRvDA8cZkAjFA",
+  "name": "Hydra Garment N'sneaker",
+  "address": "302台灣新竹縣竹北市興安里光明一路56號",
+  "rating": 4.5,
+  "userRatingCount": 83,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=5804014678803493052&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.8295618,
+   "longitude": 121.01881519999999
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "5804014678803493052",
+  "cat_label": "選品店",
+  "area_label": "竹北"
+ },
+ "選品店::8708456892461249505": {
+  "place_id": "ChIJC3aZs8U3aDQR4XP0gGen2ng",
+  "name": "LLstudio",
+  "address": "302台灣新竹縣竹北市竹北里台元街52號",
+  "rating": 4.8,
+  "userRatingCount": 12,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=8708456892461249505&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.839983699999998,
+   "longitude": 121.0105602
+  },
+  "types": [
+   "clothing_store",
+   "womens_clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "8708456892461249505",
+  "cat_label": "選品店",
+  "area_label": "竹北"
+ },
+ "選品店::11985382295605821621": {
+  "place_id": "ChIJ9ec94u03aDQRtUDXUrKhVKY",
+  "name": "JCJC.dailywear",
+  "address": "302台灣新竹縣竹北市鹿場里自強六街45號",
+  "rating": 4.8,
+  "userRatingCount": 17,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=11985382295605821621&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.8184836,
+   "longitude": 121.02494389999998
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "11985382295605821621",
+  "cat_label": "選品店",
+  "area_label": "竹北"
+ },
+ "選品店::7132187925334995778": {
+  "place_id": "ChIJ8ahJPcA3aDQRQjPsUCGf-mI",
+  "name": "MO-BO 竹北體驗概念店",
+  "address": "302台灣新竹縣竹北市鹿場里自強南路103.105號",
+  "rating": 4.4,
+  "userRatingCount": 52,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=7132187925334995778&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.8163745,
+   "longitude": 121.02573050000001
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "7132187925334995778",
+  "cat_label": "選品店",
+  "area_label": "竹北"
+ },
+ "選品店::13331659784365680600": {
+  "place_id": "ChIJrfhOPes2aDQR2Cd6kfCRA7k",
+  "name": "馨動服飾（正韓童裝）",
+  "address": "302台灣新竹縣竹北市文化里建國街49號",
+  "rating": 5,
+  "userRatingCount": 15,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=13331659784365680600&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.8324571,
+   "longitude": 121.01197339999999
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "13331659784365680600",
+  "cat_label": "選品店",
+  "area_label": "竹北"
+ },
+ "選品店::4356577587091354774": {
+  "place_id": "ChIJbVR5PZU2aDQRljQCuzusdTw",
+  "name": "Hang Ten竹北店",
+  "address": "302台灣新竹縣竹北市福德里三民路415號",
+  "rating": 4.5,
+  "userRatingCount": 56,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=4356577587091354774&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.834571699999998,
+   "longitude": 121.0091179
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "4356577587091354774",
+  "cat_label": "選品店",
+  "area_label": "竹北"
+ },
+ "選品店::17376114229768319952": {
+  "place_id": "ChIJA4oIwyU2aDQR0HPzUdRbJPE",
+  "name": "阿清服裝",
+  "address": "302台灣新竹縣竹北市十興里莊敬二街30號",
+  "rating": 4.4,
+  "userRatingCount": 124,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=17376114229768319952&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.8225823,
+   "longitude": 121.02443650000001
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "17376114229768319952",
+  "cat_label": "選品店",
+  "area_label": "竹北"
+ },
+ "選品店::3525339730904534428": {
+  "place_id": "ChIJnTfT7I02aDQRnM0ipc6F7DA",
+  "name": "男內衣-男內.褲.男裝-GX3、TENGA專賣-男生衣服-宅人百貨(這裡是倉庫只有線上購物喔)",
+  "address": "302台灣新竹縣竹北市中崙里福興路979-38號",
+  "rating": 5,
+  "userRatingCount": 10,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=3525339730904534428&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.8256355,
+   "longitude": 121.00578240000002
+  },
+  "types": [
+   "womens_clothing_store",
+   "sportswear_store",
+   "clothing_store",
+   "sporting_goods_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "3525339730904534428",
+  "cat_label": "選品店",
+  "area_label": "竹北"
+ },
+ "選品店::7075202796600081923": {
+  "place_id": "ChIJx-dnloU3aDQRA74yHXUrMGI",
+  "name": "native 遠百竹北店",
+  "address": "302台灣新竹縣竹北市十興里莊敬北路18號6樓",
+  "rating": 4.3,
+  "userRatingCount": 141,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=7075202796600081923&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.822633399999997,
+   "longitude": 121.02396219999999
+  },
+  "types": [
+   "department_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "7075202796600081923",
+  "cat_label": "選品店",
+  "area_label": "竹北"
+ },
+ "選品店::6086675883607992447": {
+  "place_id": "ChIJs_SNas43aDQRfyhksXc3eFQ",
+  "name": "GU 遠東百貨竹北店",
+  "address": "302044台灣新竹縣竹北市十興里莊敬北路18號6樓",
+  "rating": 4.5,
+  "userRatingCount": 54,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=6086675883607992447&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.823211399999998,
+   "longitude": 121.0235878
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "6086675883607992447",
+  "cat_label": "選品店",
+  "area_label": "竹北"
+ },
+ "選品店::4233948785843259759": {
+  "place_id": "ChIJj819kqUfaDQRb0liAf0Bwjo",
+  "name": "蘋古AFA VINTAGE 古著",
+  "address": "330台灣桃園市桃園區民生里新民街13號2樓",
+  "rating": 4.8,
+  "userRatingCount": 56,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=4233948785843259759&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.9946099,
+   "longitude": 121.31256789999999
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "4233948785843259759",
+  "cat_label": "選品店",
+  "area_label": "桃園"
+ },
+ "選品店::4154611921445410855": {
+  "place_id": "ChIJIV8EE_seaDQRJ1hbzYclqDk",
+  "name": "IVUDIARY衣服日記",
+  "address": "330台灣桃園市桃園區中華路10號3樓之7",
+  "rating": 4.1,
+  "userRatingCount": 38,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=4154611921445410855&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.9914836,
+   "longitude": 121.31167359999999
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "4154611921445410855",
+  "cat_label": "選品店",
+  "area_label": "桃園"
+ },
+ "選品店::5684493006667514892": {
+  "place_id": "ChIJEaR49qofaDQRDASclkVg404",
+  "name": "Sen服飾桃園中正店",
+  "address": "33047台灣桃園市桃園區東埔里中正路560號",
+  "rating": 4.6,
+  "userRatingCount": 24,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=5684493006667514892&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 25.003636699999998,
+   "longitude": 121.305697
+  },
+  "types": [
+   "womens_clothing_store",
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "5684493006667514892",
+  "cat_label": "選品店",
+  "area_label": "桃園"
+ },
+ "選品店::11636231537478351905": {
+  "place_id": "ChIJtwVoamofaDQRITyYk-4yfKE",
+  "name": "思夢樂 桃園中山路店",
+  "address": "330台灣桃園市桃園區龍鳳里龍安街39號",
+  "rating": 4.3,
+  "userRatingCount": 1342,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=11636231537478351905&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.9873522,
+   "longitude": 121.2813401
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "11636231537478351905",
+  "cat_label": "選品店",
+  "area_label": "桃園"
+ },
+ "選品店::442554592281544195": {
+  "place_id": "ChIJ1-b3w9I1aDQRA8aokg5FJAY",
+  "name": "HAI the label 新竹大遠百專櫃",
+  "address": "300台灣新竹市東區西大路323號4樓",
+  "rating": 4.9,
+  "userRatingCount": 49,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=442554592281544195&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.802052999999997,
+   "longitude": 120.96501029999999
+  },
+  "types": [
+   "womens_clothing_store",
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "442554592281544195",
+  "cat_label": "選品店",
+  "area_label": "新竹市"
+ },
+ "選品店::2103646980972230327": {
+  "place_id": "ChIJFylr58E1aDQRtzasmcinMR0",
+  "name": "QUEEN SHOP",
+  "address": "300台灣新竹市東區成功里文昌街27號",
+  "rating": 4.3,
+  "userRatingCount": 188,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=2103646980972230327&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.8034404,
+   "longitude": 120.9690998
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "2103646980972230327",
+  "cat_label": "選品店",
+  "area_label": "新竹市"
+ },
+ "選品店::969075033895028222": {
+  "place_id": "ChIJExOQm143aDQR_kUD5JvYcg0",
+  "name": "Le ‘Celebrate 르 셀러브레이트 韓國選物店 I 抓周派對 性別Party 場地出租 I",
+  "address": "302台灣新竹縣竹北市文化里文信路237號",
+  "rating": 5,
+  "userRatingCount": 199,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=969075033895028222&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.8316112,
+   "longitude": 121.01433569999998
+  },
+  "types": [
+   "gift_shop",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "969075033895028222",
+  "cat_label": "選品店",
+  "area_label": "竹北"
+ },
+ "選品店::7734419797277773457": {
+  "place_id": "ChIJb_nNTuI3aDQRkY59sNMtVms",
+  "name": "MOMA莊敬門市",
+  "address": "302台灣新竹縣竹北市十興里莊敬五街10號",
+  "rating": 4.9,
+  "userRatingCount": 47,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=7734419797277773457&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.8214462,
+   "longitude": 121.0262469
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "7734419797277773457",
+  "cat_label": "選品店",
+  "area_label": "竹北"
+ },
+ "選品店::16498831688445927574": {
+  "place_id": "ChIJ90-DL_E2aDQRliDHjgGg9-Q",
+  "name": "襪襪王國",
+  "address": "302台灣新竹縣竹北市鹿場里自強三路9號",
+  "rating": 4.9,
+  "userRatingCount": 111,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=16498831688445927574&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.818793799999998,
+   "longitude": 121.01865470000001
+  },
+  "types": [
+   "home_goods_store",
+   "store",
+   "service",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "16498831688445927574",
+  "cat_label": "選品店",
+  "area_label": "竹北"
+ },
+ "選品店::14147348355488965758": {
+  "place_id": "ChIJCcHrZ5U2aDQRfmSgml96VcQ",
+  "name": "棉花球日韓服飾店",
+  "address": "302台灣新竹縣竹北市中崙里台科路108號",
+  "rating": 4.4,
+  "userRatingCount": 41,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=14147348355488965758&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.820801200000002,
+   "longitude": 121.0094309
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "14147348355488965758",
+  "cat_label": "選品店",
+  "area_label": "竹北"
+ },
+ "選品店::17694650905953012146": {
+  "place_id": "ChIJM6GAT1s3aDQRsonfqT8HkPU",
+  "name": "玉如阿姨內衣 竹北門市",
+  "address": "302台灣新竹縣竹北市福德里博愛街313號",
+  "rating": 5,
+  "userRatingCount": 7745,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=17694650905953012146&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.8349315,
+   "longitude": 121.00761389999998
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "17694650905953012146",
+  "cat_label": "選品店",
+  "area_label": "竹北"
+ },
+ "選品店::8238462273367177731": {
+  "place_id": "ChIJs_WG2ns3aDQRA_qB08nlVHI",
+  "name": "V.R Bella 國際名品女裝店",
+  "address": "302台灣新竹縣竹北市自強六街40號",
+  "rating": 4.3,
+  "userRatingCount": 11,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=8238462273367177731&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.8192201,
+   "longitude": 121.02499139999999
+  },
+  "types": [
+   "womens_clothing_store",
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "8238462273367177731",
+  "cat_label": "選品店",
+  "area_label": "竹北"
+ },
+ "選品店::3475476563104997184": {
+  "place_id": "ChIJl73pYLgfaDQRQJ8RMYVfOzA",
+  "name": "OFFICESTAR職業男女-桃園中正店",
+  "address": "330台灣桃園市桃園區北埔里中正路1411號",
+  "rating": 5,
+  "userRatingCount": 2750,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=3475476563104997184&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 25.024683000000003,
+   "longitude": 121.29436760000002
+  },
+  "types": [
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "3475476563104997184",
+  "cat_label": "選品店",
+  "area_label": "桃園"
+ },
+ "選品店::3806368221718900278": {
+  "place_id": "ChIJfQLjXPweaDQRNu7jC7vv0jQ",
+  "name": "E GO GO流行館",
+  "address": "330台灣桃園市桃園區武陵里中正路92號",
+  "rating": 4,
+  "userRatingCount": 142,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=3806368221718900278&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.9928805,
+   "longitude": 121.31230719999999
+  },
+  "types": [
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "3806368221718900278",
+  "cat_label": "選品店",
+  "area_label": "桃園"
+ },
+ "選品店::10327246911168653711": {
+  "place_id": "ChIJozLxL-MeaDQRjyn1f1nAUY8",
+  "name": "Lobby+站前店",
+  "address": "33065台灣桃園市桃園區武陵里武昌街1號",
+  "rating": 4.4,
+  "userRatingCount": 23,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=10327246911168653711&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.9892836,
+   "longitude": 121.31192519999999
+  },
+  "types": [
+   "clothing_store",
+   "womens_clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "10327246911168653711",
+  "cat_label": "選品店",
+  "area_label": "桃園"
+ },
+ "選品店::11850314943109422761": {
+  "place_id": "ChIJabCeAGQfaDQRqV6KtKfGdKQ",
+  "name": "Carro卡蘿玩穿搭",
+  "address": "33078台灣桃園市桃園區桃智路18號",
+  "rating": 4.9,
+  "userRatingCount": 67,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=11850314943109422761&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.9646451,
+   "longitude": 121.2951179
+  },
+  "types": [
+   "womens_clothing_store",
+   "shoe_store",
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "11850314943109422761",
+  "cat_label": "選品店",
+  "area_label": "桃園"
+ },
+ "選品店::14739210503941319022": {
+  "place_id": "ChIJ5R53WQAjaDQRbukgldwxjMw",
+  "name": "WOW MAKE DIY 客製化衣服｜行李飄帶｜小包｜杯帶 * DARLING 平價女裝服飾",
+  "address": "320台灣桃園市中壢區普仁里三和三街26巷3號",
+  "rating": 4.9,
+  "userRatingCount": 364,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=14739210503941319022&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.9545711,
+   "longitude": 121.2406639
+  },
+  "types": [
+   "clothing_store",
+   "art_studio",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "14739210503941319022",
+  "cat_label": "選品店",
+  "area_label": "桃園"
+ },
+ "選品店::14525244587477744717": {
+  "place_id": "ChIJuXTt2F8faDQRTbxGiP4IlMk",
+  "name": "JSMIX大尺碼服飾-桃園站前門市",
+  "address": "33052台灣桃園市桃園區武陵里萬壽路三段237號",
+  "rating": 4.9,
+  "userRatingCount": 58,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=14525244587477744717&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.9899669,
+   "longitude": 121.3158509
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "14525244587477744717",
+  "cat_label": "選品店",
+  "area_label": "桃園"
+ },
+ "選品店::17082843687056130061": {
+  "place_id": "ChIJY47y9m01aDQRDUCBGNNzEu0",
+  "name": "FREE 新竹大遠百",
+  "address": "300台灣新竹市東區南市里西大路323號3 樓",
+  "rating": 4.7,
+  "userRatingCount": 18,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=17082843687056130061&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.801935,
+   "longitude": 120.964837
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "17082843687056130061",
+  "cat_label": "選品店",
+  "area_label": "新竹市"
+ },
+ "選品店::10494492978069857092": {
+  "place_id": "ChIJwSK_E2I1aDQRRGOv58Lto5E",
+  "name": "戴走",
+  "address": "300台灣新竹市東區東門里平和街2號2樓",
+  "rating": 4.5,
+  "userRatingCount": 57,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=10494492978069857092&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.8042955,
+   "longitude": 120.9675934
+  },
+  "types": [
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "10494492978069857092",
+  "cat_label": "選品店",
+  "area_label": "新竹市"
+ },
+ "選品店::16308993854157123017": {
+  "place_id": "ChIJU9gpQQ81aDQRyW0QaYAvVeI",
+  "name": "KOOP&K2",
+  "address": "300台灣新竹市東區關帝里文昌街83號",
+  "rating": 4.1,
+  "userRatingCount": 14,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=16308993854157123017&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.8021506,
+   "longitude": 120.9668225
+  },
+  "types": [
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "16308993854157123017",
+  "cat_label": "選品店",
+  "area_label": "新竹市"
+ },
+ "選品店::13436422720866444891": {
+  "place_id": "ChIJkWW4weo1aDQRW2Y7gUbDd7o",
+  "name": "Laio 萊歐復古紳士裝 - 新竹店",
+  "address": "300台灣新竹市北區興南里勝利路201號",
+  "rating": 5,
+  "userRatingCount": 588,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=13436422720866444891&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.8015525,
+   "longitude": 120.9640863
+  },
+  "types": [
+   "clothing_store",
+   "tailor",
+   "store",
+   "point_of_interest",
+   "service",
+   "establishment"
+  ],
+  "cid": "13436422720866444891",
+  "cat_label": "選品店",
+  "area_label": "新竹市"
+ },
+ "選品店::5368632654611944518": {
+  "place_id": "ChIJk68Xpek2aDQRRhS1g_Q2gUo",
+  "name": "速捷戶外露營用品生活館",
+  "address": "302台灣新竹縣竹北市文化里縣政二路207號",
+  "rating": 4.4,
+  "userRatingCount": 50,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=5368632654611944518&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.832262999999998,
+   "longitude": 121.01837959999999
+  },
+  "types": [
+   "sportswear_store",
+   "sporting_goods_store",
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "5368632654611944518",
+  "cat_label": "選品店",
+  "area_label": "竹北"
+ },
+ "選品店::17311460473213217687": {
+  "place_id": "ChIJiamOJbI3aDQRl-sWkZSpPvA",
+  "name": "Poly Lulu 中大尺碼 新竹竹北店",
+  "address": "30264台灣新竹縣竹北市文化里縣政九路182號",
+  "rating": 4.3,
+  "userRatingCount": 104,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=17311460473213217687&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.8316373,
+   "longitude": 121.01216
+  },
+  "types": [
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "17311460473213217687",
+  "cat_label": "選品店",
+  "area_label": "竹北"
+ },
+ "選品店::5344910063731669213": {
+  "place_id": "ChIJr_JcRuk2aDQR3fgiaWLvLEo",
+  "name": "悠遊山水 - 竹北縣政店 / 登山 露營 旅遊 outdoor travel",
+  "address": "302台灣新竹縣竹北市文化里縣政二路139號",
+  "rating": 4.2,
+  "userRatingCount": 99,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=5344910063731669213&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.8302312,
+   "longitude": 121.01742079999998
+  },
+  "types": [
+   "store",
+   "sporting_goods_store",
+   "clothing_store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "5344910063731669213",
+  "cat_label": "選品店",
+  "area_label": "竹北"
+ },
+ "選品店::18333043188695923595": {
+  "place_id": "ChIJW6h2FbI3aDQRi3sdwqUNbP4",
+  "name": "大成內衣 竹北門市",
+  "address": "302台灣新竹縣竹北市竹仁里中正東路254號",
+  "rating": 5,
+  "userRatingCount": 2437,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=18333043188695923595&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.835312899999998,
+   "longitude": 121.01308789999997
+  },
+  "types": [
+   "womens_clothing_store",
+   "clothing_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "cid": "18333043188695923595",
+  "cat_label": "選品店",
+  "area_label": "竹北"
+ },
+ "選品店::5672996884264644130": {
+  "place_id": "ChIJm_jf9rcfaDQRIu59ApyIuk4",
+  "name": "Sen服飾桃園莊敬店",
+  "address": "33044台灣桃園市桃園區莊敬里莊敬路一段310號",
+  "rating": 4.8,
+  "userRatingCount": 22,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=5672996884264644130&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 25.0243923,
+   "longitude": 121.297241
+  },
+  "types": [
+   "womens_clothing_store",
+   "clothing_store",
+   "point_of_interest",
+   "store",
+   "establishment"
+  ],
+  "cid": "5672996884264644130",
+  "cat_label": "選品店",
+  "area_label": "桃園"
+ },
+ "選品店::18163044594231431557": {
+  "place_id": "ChIJYRtKbSAfaDQRhVG-ltMYEPw",
+  "name": "HSUEH HSUEH 生活選品(虎威拳擊)(寵物用品)",
+  "address": "330台灣桃園市桃園區龍安里國強一街458-1號",
+  "rating": 5,
+  "userRatingCount": 20,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=18163044594231431557&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.990627999999997,
+   "longitude": 121.27824059999999
+  },
+  "types": [
+   "clothing_store",
+   "point_of_interest",
+   "store",
+   "establishment"
+  ],
+  "cid": "18163044594231431557",
+  "cat_label": "選品店",
+  "area_label": "桃園"
+ },
+ "選品店::503691760672634529": {
+  "place_id": "ChIJN45m-KUfaDQRofYu1_x4_QY",
+  "name": "FashiONG’s日韓精品",
+  "address": "330台灣桃園市桃園區南埔里中埔二街32號",
+  "rating": 4.9,
+  "userRatingCount": 11,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=503691760672634529&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 25.009907,
+   "longitude": 121.29692539999998
+  },
+  "types": [
+   "clothing_store",
+   "point_of_interest",
+   "store",
+   "establishment"
+  ],
+  "cid": "503691760672634529",
+  "cat_label": "選品店",
+  "area_label": "桃園"
+ },
+ "選品店::7125803509268255828": {
+  "place_id": "ChIJ9SXZObofaDQRVJQqnYnw42I",
+  "name": "Lobby+藝文店",
+  "address": "33045台灣桃園市桃園區同德里中埔六街2號",
+  "rating": 4.3,
+  "userRatingCount": 62,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=7125803509268255828&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 25.015557599999998,
+   "longitude": 121.2966515
+  },
+  "types": [
+   "clothing_store",
+   "point_of_interest",
+   "store",
+   "establishment"
+  ],
+  "cid": "7125803509268255828",
+  "cat_label": "選品店",
+  "area_label": "桃園"
+ },
+ "選品店::7792270502350534770": {
+  "place_id": "ChIJLWkSQk4eaDQRcrhblry0I2w",
+  "name": "Sen服飾桃園寶山店",
+  "address": "33074台灣桃園市桃園區寶民里寶山街223號",
+  "rating": 4.7,
+  "userRatingCount": 54,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=7792270502350534770&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 25.0120634,
+   "longitude": 121.31584199999998
+  },
+  "types": [
+   "womens_clothing_store",
+   "clothing_store",
+   "point_of_interest",
+   "store",
+   "establishment"
+  ],
+  "cid": "7792270502350534770",
   "cat_label": "選品店",
   "area_label": "桃園"
  }
