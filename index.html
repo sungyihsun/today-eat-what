@@ -403,6 +403,22 @@
      champagne gold instead of duplicating every rule for a second color
      scheme; the black comes from the toggle/picker rules above. */
   body.busan-mode{ --jade:#a9792a; }
+
+  /* 本地版：餐廳／服飾 常駐雙頁籤，放在標題下方、篩選列上方，跟餐廳分類 chip
+     完全分開，避免服飾分類混進 CAT_GROUPS 的燒烤/日式那排。旅遊版（釜山）啟用
+     時整排隱藏——服飾/餐廳頁籤只切換「在地版」內部的兩種本地資料集。 */
+  .mode-tabs{
+    display:flex; justify-content:center; gap:8px;
+    margin:0 var(--safe-r) 18px var(--safe-l);
+  }
+  .mode-tab{
+    font-family:inherit; font-size:14px; font-weight:700; cursor:pointer;
+    padding:10px 22px; border-radius:999px; border:1px solid var(--line);
+    background:var(--white); color:var(--ink); box-shadow:var(--shadow-sm);
+    transition:background .2s ease, color .2s ease, border-color .2s ease;
+  }
+  .mode-tab.active{ background:var(--jade); color:var(--white); border-color:var(--jade); }
+  .mode-tab:not(.active):hover{ border-color:var(--jade); }
   .card{
     background:rgba(255,253,250,0.78); border:1px solid rgba(255,255,255,0.6); border-radius:var(--card-radius);
     backdrop-filter:blur(18px) saturate(1.5); -webkit-backdrop-filter:blur(18px) saturate(1.5);
@@ -544,6 +560,11 @@
   <div class="stamp">今天<br>吃<br>什麼</div>
 </header>
 
+<div class="mode-tabs" id="modeTabs">
+  <button class="mode-tab active" id="modeTabFood" type="button">🍽 餐廳</button>
+  <button class="mode-tab" id="modeTabClothing" type="button">👕 服飾</button>
+</div>
+
 <div class="controls">
   <div class="filter-row">
     <div class="search-box" id="searchBox">
@@ -663,6 +684,11 @@ function fmtHM(min){
 
 const CAT_VISUAL = {
   "服飾":{ch:"衣",bg:"#8a6d23"},
+  "男裝":{ch:"男",bg:"#8a6d23"},
+  "女裝":{ch:"女",bg:"#8a6d23"},
+  "鞋包配件":{ch:"配",bg:"#8a6d23"},
+  "平價服飾":{ch:"衣",bg:"#8a6d23"},
+  "選品店":{ch:"選",bg:"#8a6d23"},
   "日式料理":{ch:"鮨",bg:"#3c5a4b"},
   "台式/客家合菜":{ch:"台",bg:"#b8863b"},
   "早午餐":{ch:"晨",bg:"#c98a4b"},
@@ -1222,6 +1248,9 @@ const sharedAdoptBtn = document.getElementById('sharedAdoptBtn');
 const sharedDismissBtn = document.getElementById('sharedDismissBtn');
 const toast = document.getElementById('toast');
 const authBtn = document.getElementById('authBtn');
+const modeTabs = document.getElementById('modeTabs');
+const modeTabFood = document.getElementById('modeTabFood');
+const modeTabClothing = document.getElementById('modeTabClothing');
 const tripToggleBtn = document.getElementById('tripToggleBtn');
 const tripToggleLabel = document.getElementById('tripToggleLabel');
 const tripPicker = document.getElementById('tripPicker');
@@ -1274,10 +1303,12 @@ async function loadRestaurantsFromSupabase(){
   }));
   HOURS = Object.fromEntries(rows.map(row=>[row.name, row.hours || []]));
   // Reassigns HOURS wholesale from the Supabase rows, which wipes out the
-  // BUSAN_HOURS merge done at parse time (busanRestaurants/BUSAN_HOURS are
-  // deliberately kept out of Supabase) — re-merge so 旅遊版 restaurants keep
-  // their real opening hours instead of falling back to "營業時間請洽店家".
+  // BUSAN_HOURS/TAIWAN_CLOTHING_HOURS merges done at parse time
+  // (busanRestaurants/taiwanClothingRestaurants are deliberately kept out of
+  // Supabase) — re-merge so 旅遊版/服飾 restaurants keep their real opening
+  // hours instead of falling back to "營業時間請洽店家".
   Object.assign(HOURS, BUSAN_HOURS);
+  Object.assign(HOURS, TAIWAN_CLOTHING_HOURS);
 }
 
 // 口袋名單／我的最愛：存在瀏覽器 localStorage，不用登入，只有這台裝置這個瀏覽器看得到
@@ -1435,7 +1466,7 @@ sharedDismissBtn.addEventListener('click', ()=>{
 // full detailed cat[] (still shown on the card itself) — this mapping just groups those
 // detailed strings under short labels so the picker stays a short, scannable list.
 // Filtering is multi-select (OR/union semantics): picking 日式 + 韓式 shows either.
-const CAT_GROUPS = {
+const CAT_GROUPS_FOOD = {
   '火鍋': ['火鍋/鍋物'],
   '燒烤': ['燒烤'],
   '小吃': ['麵食/小吃'],
@@ -1464,7 +1495,7 @@ const CAT_GROUPS = {
 // Narrower types folded under "其他". These never show as their own top-level
 // chip — only as single-select options once "其他" is picked, to keep the
 // main chip row from getting too long with long-tail categories.
-const SUB_CAT_GROUPS = {
+const SUB_CAT_GROUPS_FOOD = {
   '港式': ['港式料理'],
   '牛排': ['牛排'],
   '熱炒': ['熱炒'],
@@ -1473,7 +1504,22 @@ const SUB_CAT_GROUPS = {
   '酒吧': ['酒吧/Bar'],
   '素食': ['素食/蔬食'],
 };
-const ALL_CAT_GROUPS = Object.assign({}, CAT_GROUPS, SUB_CAT_GROUPS);
+// 服飾（本地版）專用分類——刻意跟餐廳用的 CAT_GROUPS_FOOD 分開兩份清單，
+// 靠 switchLocalMode() 整組 swap，這樣男裝/女裝等分類 chip 只會在服飾頁籤
+// 出現，不會混進燒烤/日式那排。分類數不多，不需要像「其他」那樣的子選單。
+const CAT_GROUPS_CLOTHING = {
+  '男裝': ['男裝'],
+  '女裝': ['女裝'],
+  '鞋包配件': ['鞋包配件'],
+  '平價服飾': ['平價服飾'],
+  '選品店': ['選品店'],
+};
+const SUB_CAT_GROUPS_CLOTHING = {};
+// Swappable bindings — switchLocalMode()/enterBusanMode()/exitBusanMode()
+// reassign these three together (mirrors the AREA_REGIONS let-swap pattern).
+let CAT_GROUPS = CAT_GROUPS_FOOD;
+let SUB_CAT_GROUPS = SUB_CAT_GROUPS_FOOD;
+let ALL_CAT_GROUPS = Object.assign({}, CAT_GROUPS, SUB_CAT_GROUPS);
 function hasAnyMatch(label){
   return ALL_CAT_GROUPS[label].some(c => restaurants.some(r => r.cat.includes(c)));
 }
@@ -2335,14 +2381,57 @@ const AREA_REGIONS_BUSAN = {
   ],
 };
 
+// ── 本地版：服飾 ─────────────────────────────────────────────────────
+// Same shape as embeddedRestaurants, kept as its own array (not merged into
+// embeddedRestaurants) since it's a distinct browsing mode with its own
+// category set, not Supabase-synced yet — pure front-end data like
+// busanRestaurants, revisit only if favorites need cross-device sync later.
+// area 沿用 AREA_REGIONS_TAIWAN（新竹市/竹北/桃園），不需要另外的地區系統。
+const taiwanClothingRestaurants = [
+];
+
+const TAIWAN_CLOTHING_HOURS = {};
+Object.assign(HOURS, TAIWAN_CLOTHING_HOURS);
+
 let siteMode = 'local'; // 'local' | 'busan'
+let localMode = 'food'; // 'food' | 'clothing' — which local-mode dataset is active (independent of siteMode==='busan')
 let localRestaurants = null; // captured on first switch to Busan mode, restored on the way back
+let localFoodRestaurants = null; // captured on first switch to 服飾, restored on the way back to 餐廳
 
 function freshState(){
   return { area:'all', cats:[], subCat:'all', q:'', onlyOpen:false, onlyFav:false, sort:'default', viewingShared:false, customDay:null, customTime:null, rangeStart:null, rangeEnd:null };
 }
 
+// Swaps between 餐廳 (CAT_GROUPS_FOOD) and 服飾 (CAT_GROUPS_CLOTHING) within
+// 在地版 — independent of siteMode (busan mode always exits back to 'food'
+// first, see enterBusanMode). Mirrors enter/exitBusanMode's swap pattern.
+function switchLocalMode(mode){
+  if(mode === localMode) return;
+  if(mode === 'clothing'){
+    localFoodRestaurants = restaurants;
+    restaurants = taiwanClothingRestaurants;
+    CAT_GROUPS = CAT_GROUPS_CLOTHING;
+    SUB_CAT_GROUPS = SUB_CAT_GROUPS_CLOTHING;
+  } else {
+    restaurants = localFoodRestaurants;
+    CAT_GROUPS = CAT_GROUPS_FOOD;
+    SUB_CAT_GROUPS = SUB_CAT_GROUPS_FOOD;
+  }
+  ALL_CAT_GROUPS = Object.assign({}, CAT_GROUPS, SUB_CAT_GROUPS);
+  localMode = mode;
+  state = freshState();
+  areaUiExpanded = false;
+  areaUiRegion = null;
+  catUiExpanded = false;
+  modeTabFood.classList.toggle('active', mode==='food');
+  modeTabClothing.classList.toggle('active', mode==='clothing');
+  recomputeCategoryLists();
+  renderAreaToggle();
+  render();
+}
+
 function enterBusanMode(){
+  if(localMode === 'clothing') switchLocalMode('food');
   if(localRestaurants === null) localRestaurants = restaurants;
   restaurants = busanRestaurants;
   AREA_REGIONS = AREA_REGIONS_BUSAN;
@@ -2354,6 +2443,7 @@ function enterBusanMode(){
   tripToggleLabel.textContent = '回在地版';
   tripToggleBtn.classList.add('active');
   tripPicker.style.display = 'none';
+  modeTabs.style.display = 'none';
   recomputeCategoryLists();
   renderAreaToggle();
   render();
@@ -2366,6 +2456,7 @@ function exitBusanMode(){
   areaUiExpanded = false;
   areaUiRegion = null;
   siteMode = 'local';
+  modeTabs.style.display = 'flex';
   document.body.classList.remove('busan-mode');
   tripToggleLabel.textContent = '旅遊版';
   tripToggleBtn.classList.remove('active');
@@ -2418,6 +2509,9 @@ const TRIP_COUNTRIES = [
   {code:'JP', label:'日本', enabled:false, cities:[]},
   {code:'other', label:'其他', enabled:false, cities:[]},
 ];
+
+modeTabFood.addEventListener('click', ()=>{ if(siteMode!=='busan') switchLocalMode('food'); });
+modeTabClothing.addEventListener('click', ()=>{ if(siteMode!=='busan') switchLocalMode('clothing'); });
 
 tripToggleBtn.addEventListener('click', ()=>{
   if(siteMode==='busan'){ exitBusanMode(); return; }
