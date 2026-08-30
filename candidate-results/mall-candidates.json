@@ -16,9 +16,9 @@
    "department_store",
    "warehouse_store",
    "movie_theater",
+   "store",
    "restaurant",
    "food",
-   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -43,10 +43,10 @@
    "restaurant",
    "vegan_restaurant",
    "vegetarian_restaurant",
-   "food_store",
    "japanese_restaurant",
-   "food",
+   "food_store",
    "store",
+   "food",
    "point_of_interest",
    "establishment"
   ],
@@ -118,9 +118,9 @@
    "japanese_restaurant",
    "deli",
    "food_store",
+   "store",
    "restaurant",
    "food",
-   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -142,20 +142,20 @@
    "longitude": 120.97497860000001
   },
   "types": [
-   "cake_shop",
    "brunch_restaurant",
    "hamburger_restaurant",
-   "bakery",
    "dessert_restaurant",
-   "food_store",
-   "american_restaurant",
+   "cake_shop",
    "wholesaler",
-   "manufacturer",
+   "american_restaurant",
+   "bakery",
+   "food_store",
+   "store",
    "restaurant",
    "food",
-   "store",
-   "point_of_interest",
+   "manufacturer",
    "service",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "17858759997508137750",
@@ -224,13 +224,13 @@
   },
   "types": [
    "bistro",
-   "gastropub",
    "steak_house",
+   "gastropub",
+   "italian_restaurant",
    "taiwanese_restaurant",
+   "french_restaurant",
    "meal_takeaway",
    "bar",
-   "french_restaurant",
-   "italian_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -382,9 +382,9 @@
    "meal_takeaway",
    "deli",
    "food_store",
+   "store",
    "restaurant",
    "food",
-   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -506,9 +506,9 @@
    "dessert_shop",
    "confectionery",
    "food_store",
+   "store",
    "food",
    "point_of_interest",
-   "store",
    "establishment"
   ],
   "cid": "14548749976280649440",
@@ -601,9 +601,9 @@
    "coffee_shop",
    "cafe",
    "food_store",
+   "store",
    "food",
    "point_of_interest",
-   "store",
    "establishment"
   ],
   "cid": "7710002833782864843",
@@ -627,9 +627,9 @@
    "coffee_shop",
    "cafe",
    "food_store",
+   "store",
    "food",
    "point_of_interest",
-   "store",
    "establishment"
   ],
   "cid": "14059231792612646842",
@@ -651,13 +651,13 @@
   },
   "types": [
    "bar",
-   "coffee_shop",
    "cocktail_bar",
+   "coffee_shop",
    "cafe",
    "food_store",
+   "store",
    "food",
    "point_of_interest",
-   "store",
    "establishment"
   ],
   "cid": "14063202795407229301",
@@ -704,14 +704,14 @@
   },
   "types": [
    "cafe",
-   "coffee_roastery",
    "coffee_stand",
+   "coffee_roastery",
+   "wholesaler",
    "food_store",
+   "store",
+   "service",
    "food",
    "point_of_interest",
-   "store",
-   "wholesaler",
-   "service",
    "establishment"
   ],
   "cid": "1350046195280592562",
@@ -735,9 +735,9 @@
    "dessert_shop",
    "confectionery",
    "food_store",
+   "store",
    "food",
    "point_of_interest",
-   "store",
    "establishment"
   ],
   "cid": "11032106254264192983",
@@ -760,9 +760,9 @@
   "types": [
    "bakery",
    "food_store",
+   "store",
    "food",
    "point_of_interest",
-   "store",
    "establishment"
   ],
   "cid": "98341301597119196",
@@ -785,16 +785,16 @@
   "types": [
    "restaurant",
    "bistro",
-   "coffee_shop",
    "pastry_shop",
-   "dessert_shop",
-   "cafe",
    "bakery",
+   "coffee_shop",
+   "cafe",
+   "dessert_shop",
    "confectionery",
    "food_store",
+   "store",
    "food",
    "point_of_interest",
-   "store",
    "establishment"
   ],
   "cid": "3333342129758914022",
@@ -817,16 +817,16 @@
   "types": [
    "cake_shop",
    "dessert_restaurant",
-   "cafe",
    "bakery",
-   "food_store",
+   "cafe",
    "manufacturer",
+   "wholesaler",
+   "food_store",
+   "store",
+   "service",
    "restaurant",
    "food",
    "point_of_interest",
-   "store",
-   "wholesaler",
-   "service",
    "establishment"
   ],
   "cid": "15224922881717719203",
@@ -850,13 +850,13 @@
    "cake_shop",
    "coffee_stand",
    "bakery",
-   "food_store",
    "manufacturer",
+   "wholesaler",
+   "food_store",
+   "store",
+   "service",
    "food",
    "point_of_interest",
-   "store",
-   "wholesaler",
-   "service",
    "establishment"
   ],
   "cid": "5042512878374033455",
@@ -1246,12 +1246,12 @@
   "types": [
    "korean_barbecue_restaurant",
    "bar_and_grill",
-   "bar",
    "barbecue_restaurant",
+   "bar",
+   "store",
    "korean_restaurant",
    "restaurant",
    "food",
-   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -2118,8 +2118,8 @@
    "cafe",
    "confectionery",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -2190,8 +2190,8 @@
    "dessert_shop",
    "confectionery",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -2215,11 +2215,11 @@
   "types": [
    "pastry_shop",
    "dessert_shop",
-   "confectionery",
    "bakery",
+   "confectionery",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -2244,8 +2244,8 @@
    "coffee_shop",
    "cafe",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -2293,8 +2293,8 @@
    "coffee_shop",
    "cafe",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -2317,14 +2317,14 @@
   },
   "types": [
    "cake_shop",
-   "wholesaler",
    "bakery",
    "food_store",
-   "store",
-   "food",
+   "wholesaler",
    "manufacturer",
-   "service",
+   "food",
+   "store",
    "point_of_interest",
+   "service",
    "establishment"
   ],
   "cid": "8423081813455843591",
@@ -2346,14 +2346,14 @@
   },
   "types": [
    "cake_shop",
-   "wholesaler",
    "bakery",
    "food_store",
-   "store",
-   "food",
+   "wholesaler",
    "manufacturer",
-   "service",
+   "food",
+   "store",
    "point_of_interest",
+   "service",
    "establishment"
   ],
   "cid": "1905116189472973382",
@@ -2378,9 +2378,9 @@
    "dessert_restaurant",
    "confectionery",
    "food_store",
-   "store",
    "restaurant",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -2404,8 +2404,8 @@
   "types": [
    "cafe",
    "clothing_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -2429,11 +2429,11 @@
   "types": [
    "pastry_shop",
    "dessert_shop",
-   "confectionery",
    "bakery",
+   "confectionery",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -2459,8 +2459,8 @@
    "dessert_shop",
    "confectionery",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -2485,8 +2485,8 @@
    "dessert_shop",
    "confectionery",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -2510,11 +2510,11 @@
   "types": [
    "pastry_shop",
    "dessert_shop",
-   "confectionery",
    "bakery",
+   "confectionery",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -2538,11 +2538,11 @@
   "types": [
    "pastry_shop",
    "dessert_shop",
-   "confectionery",
    "bakery",
+   "confectionery",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -2589,8 +2589,8 @@
   "types": [
    "bakery",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -2616,8 +2616,8 @@
    "food_store",
    "store",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "18050525155348324839",
@@ -2641,8 +2641,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "14100156428555133310",
@@ -2665,8 +2665,8 @@
   "types": [
    "italian_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "11977911886768930581",
@@ -2690,8 +2690,8 @@
    "japanese_restaurant",
    "japanese_izakaya_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "13199603730238534221",
@@ -2715,8 +2715,8 @@
    "ramen_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "13840154730378165423",
@@ -2739,8 +2739,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "18071696643295100772",
@@ -2763,8 +2763,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "6496110750045275130",
@@ -2788,8 +2788,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "3096279966917241934",
@@ -2813,8 +2813,8 @@
    "japanese_curry_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "12466378777256070399",
@@ -2837,8 +2837,8 @@
   "types": [
    "thai_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "12764815989577933844",
@@ -2861,8 +2861,8 @@
   "types": [
    "korean_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "7941829663166481490",
@@ -2887,8 +2887,8 @@
    "food_store",
    "store",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "14247945089383474999",
@@ -3198,8 +3198,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "6756690054476206395",
@@ -3221,11 +3221,11 @@
   },
   "types": [
    "vegan_restaurant",
-   "cafeteria",
    "vegetarian_restaurant",
+   "cafeteria",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "18079193507707048803",
@@ -3247,8 +3247,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "9911676046007668435",
@@ -3271,8 +3271,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "5321593413229314453",
@@ -3295,8 +3295,8 @@
   "types": [
    "chinese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "11012131525497380514",
@@ -3319,8 +3319,8 @@
   "types": [
    "vietnamese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "11328692956262093876",
@@ -3345,8 +3345,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "8726118145132089555",
@@ -3369,8 +3369,8 @@
   "types": [
    "chinese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "6182836278109277773",
@@ -3394,8 +3394,8 @@
    "ramen_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "863902540099643508",
@@ -3420,12 +3420,12 @@
    "pub",
    "bar",
    "event_venue",
-   "american_restaurant",
    "wholesaler",
-   "restaurant",
-   "food",
-   "point_of_interest",
+   "american_restaurant",
    "service",
+   "restaurant",
+   "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "18251299284820595321",
@@ -3447,11 +3447,11 @@
   },
   "types": [
    "american_restaurant",
-   "chicken_wings_restaurant",
    "hamburger_restaurant",
+   "chicken_wings_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "17716340455423875751",
@@ -3473,8 +3473,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "9231112083015132832",
@@ -3497,8 +3497,8 @@
   "types": [
    "chinese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "11738633199746971358",
@@ -3520,8 +3520,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "14326014956122291920",
@@ -3544,8 +3544,8 @@
   "types": [
    "chinese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "11547832816922609436",
@@ -3568,8 +3568,8 @@
   "types": [
    "thai_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "1176944687430470679",
@@ -3592,8 +3592,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "15168669423373522887",
@@ -3615,11 +3615,11 @@
   },
   "types": [
    "bar_and_grill",
-   "bar",
    "japanese_restaurant",
+   "bar",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "3629787120174804895",
@@ -4030,8 +4030,8 @@
   "types": [
    "chinese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "1701893236432741192",
@@ -4054,8 +4054,8 @@
   "types": [
    "chinese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "3935975957051992860",
@@ -4078,8 +4078,8 @@
   "types": [
    "chinese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "13946902380233993912",
@@ -4102,8 +4102,8 @@
   "types": [
    "chinese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "16457276838658137790",
@@ -4128,8 +4128,8 @@
    "cantonese_restaurant",
    "chinese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "10510202905835366407",
@@ -4152,8 +4152,8 @@
   "types": [
    "chinese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "1826861028171150391",
@@ -4176,8 +4176,8 @@
   "types": [
    "chinese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "5947208750566187027",
@@ -4200,8 +4200,8 @@
   "types": [
    "chinese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "10525167186535139725",
@@ -4225,8 +4225,8 @@
    "ramen_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "16570963301705760715",
@@ -4249,8 +4249,8 @@
   "types": [
    "chinese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "6137352089392042603",
@@ -4881,9 +4881,9 @@
    "cafe",
    "coffee_roastery",
    "dessert_shop",
-   "association_or_organization",
    "confectionery",
    "food_store",
+   "association_or_organization",
    "store",
    "food",
    "point_of_interest",
@@ -4962,8 +4962,8 @@
    "food_store",
    "store",
    "food",
-   "service",
    "point_of_interest",
+   "service",
    "establishment"
   ],
   "cid": "12305745759232858369",
@@ -5087,12 +5087,12 @@
   },
   "types": [
    "steak_house",
-   "italian_restaurant",
    "food_store",
+   "italian_restaurant",
    "restaurant",
    "food",
-   "store",
    "point_of_interest",
+   "store",
    "establishment"
   ],
   "cid": "14472517933808604651",
@@ -5213,11 +5213,11 @@
   "types": [
    "restaurant",
    "brunch_restaurant",
-   "italian_restaurant",
    "food_store",
+   "italian_restaurant",
    "food",
-   "store",
    "point_of_interest",
+   "store",
    "establishment"
   ],
   "cid": "6315519059287838536",
@@ -5240,10 +5240,10 @@
   "types": [
    "bar_and_grill",
    "yakiniku_restaurant",
+   "bar",
    "japanese_restaurant",
    "restaurant",
    "food",
-   "bar",
    "point_of_interest",
    "establishment"
   ],
@@ -5731,10 +5731,10 @@
    "dessert_restaurant",
    "confectionery",
    "food_store",
+   "store",
    "restaurant",
    "food",
    "point_of_interest",
-   "store",
    "establishment"
   ],
   "cid": "11547865724079421968",
@@ -5851,8 +5851,8 @@
   },
   "types": [
    "japanese_restaurant",
-   "meal_takeaway",
    "sushi_restaurant",
+   "meal_takeaway",
    "restaurant",
    "food",
    "point_of_interest",
@@ -5974,8 +5974,8 @@
   },
   "types": [
    "cafe",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "3572841902743181505",
@@ -5998,13 +5998,13 @@
   "types": [
    "cake_shop",
    "bakery",
+   "manufacturer",
    "wholesaler",
-   "service",
    "food_store",
    "store",
-   "point_of_interest",
-   "manufacturer",
+   "service",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "9614756964287626713",
@@ -6031,8 +6031,8 @@
    "confectionery",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "7666268706249881828",
@@ -6055,16 +6055,16 @@
   "types": [
    "pastry_shop",
    "cake_shop",
+   "bakery",
+   "manufacturer",
+   "wholesaler",
    "dessert_shop",
    "confectionery",
-   "bakery",
-   "wholesaler",
-   "service",
    "food_store",
    "store",
-   "point_of_interest",
-   "manufacturer",
+   "service",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "cid": "12744117333296610197",
@@ -6283,8 +6283,8 @@
   },
   "types": [
    "chinese_restaurant",
-   "family_restaurant",
    "taiwanese_restaurant",
+   "family_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
