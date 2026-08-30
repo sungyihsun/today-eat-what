@@ -40,24 +40,53 @@ jobs:
           existing_names = set(re.findall(r'\{name:"((?:[^"\\]|\\.)*)"', html))
           # how many NEW places each category needs, first pass.
           TARGET_NEW = {"男裝": 12, "女裝": 12, "鞋包配件": 12, "平價服飾": 12, "選品店": 12}
-          # Require the name or Google `types` to actually signal the
-          # category before a candidate is eligible — a broad query like
-          # "新竹市 男裝店" can return general department stores or
-          # unrelated shops. Learned the hard way from the Busan
-          # 辣炒年糕 mismatch (see scripts/busan-trip/search_busan_categories.py).
+          # Round 1 (plain KEYWORDS + generic "clothing_store" in every
+          # TYPE_HINT) let real mismatches through on manual review: a
+          # lingerie/underwear store and a handmade pet-goods shop got
+          # accepted into 男裝 via type-hint alone; "Gold韓國女裝服飾店" (an
+          # explicitly women's store) and "MKone 男裝"/"dnews男裝服飾"
+          # (explicitly men's) got cross-listed into the WRONG gender
+          # category, also via the same generic-type-hint shortcut; a phone-
+          # accessories store, a pet-supplies "選物" shop, and several
+          # cafes/grocery stores with "選物"/"選品" in their name slipped
+          # into 鞋包配件/選品店. Root cause: TYPE_HINT previously included
+          # bare "clothing_store" (or a bogus "men's_clothing_store" with an
+          # apostrophe that never matches Google's real
+          # "mens_clothing_store"/"womens_clothing_store" types) for BOTH
+          # genders, so any clothing store passed either hint regardless of
+          # who it actually serves. Fixed: real gendered Google types only,
+          # explicit cross-gender exclusion keywords, and a shared blocklist
+          # of non-clothing types (pet/home-goods/electronics/food/etc.)
+          # that a bare keyword match must not override.
           KEYWORDS = {
-              "男裝": ["男裝", "男生服飾", "型男", "menswear", "man's"],
-              "女裝": ["女裝", "女生服飾", "淑女", "womenswear"],
+              "男裝": ["男裝", "男生服飾", "型男", "紳士", "西服", "西裝", "menswear", "men's"],
+              "女裝": ["女裝", "女生服飾", "淑女", "韓系女裝", "女生西裝", "womenswear", "women's"],
               "鞋包配件": ["鞋", "包", "配件", "飾品", "shoes", "bag", "accessor"],
               "平價服飾": ["平價", "均一價", "outlet", "特賣", "服飾"],
-              "選品店": ["選品", "選物", "編輯", "select", "boutique"],
+              "選品店": ["選品", "選物", "編輯選物", "select shop", "boutique"],
           }
           TYPE_HINT = {
-              "男裝": ["clothing_store", "men's_clothing_store"],
-              "女裝": ["clothing_store", "women's_clothing_store"],
-              "鞋包配件": ["shoe_store", "clothing_store", "jewelry_store"],
-              "平價服飾": ["clothing_store", "discount_store", "outlet_store"],
-              "選品店": ["clothing_store", "boutique"],
+              "男裝": ["mens_clothing_store"],
+              "女裝": ["womens_clothing_store"],
+              "鞋包配件": ["shoe_store", "jewelry_store"],
+              "平價服飾": [],
+              "選品店": [],
+          }
+          EXCLUDE_KEYWORDS = {
+              "男裝": ["女裝", "女生", "淑女"],
+              "女裝": ["男裝", "型男", "紳士"],
+              "鞋包配件": ["3c", "手機", "寵物", "維修", "洗鞋", "皮件維修", "包膜", "親子館"],
+              "選品店": ["寵物", "家居", "3c", "手機"],
+          }
+          # Non-clothing establishment types that must never pass on keyword
+          # match alone (pet shops, home-goods stores, electronics/phone
+          # accessories, cafes/grocery that happen to use 選物/選品 in their
+          # name, jewelry-craft classrooms, tattoo/piercing studios).
+          EXCLUDE_TYPES = {
+              "pet_care", "home_goods_store", "electronics_store", "cell_phone_store",
+              "gift_shop", "body_art_service", "cafe", "food_store", "food",
+              "grocery_store", "asian_grocery_store", "educational_institution",
+              "toy_store",
           }
           by_cat = {}
           for key, place in candidates.items():
@@ -68,9 +97,14 @@ jobs:
               rows = [r for r in rows if r["cid"] not in existing_cids and r["name"] not in existing_names]
               kws = KEYWORDS[cat_label]
               types_hint = TYPE_HINT.get(cat_label, [])
+              exclude_kws = EXCLUDE_KEYWORDS.get(cat_label, [])
               def is_relevant(r):
                   name_l = r["name"].lower()
                   types = r.get("types") or []
+                  if any(t in EXCLUDE_TYPES for t in types):
+                      return False
+                  if any(k.lower() in name_l for k in exclude_kws):
+                      return False
                   return any(k.lower() in name_l for k in kws) or any(t in types for t in types_hint)
               rows = [r for r in rows if is_relevant(r)]
               ranked = sorted(rows, key=lambda p: (p["rating"], p["userRatingCount"]), reverse=True)

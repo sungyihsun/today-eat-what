@@ -44,7 +44,11 @@ CATEGORY_QUERIES = {
     "女裝": ["女裝店", "女生服飾店", "韓系女裝"],
     "鞋包配件": ["鞋店", "包包配件店", "飾品配件店"],
     "平價服飾": ["平價服飾店", "均一價服飾", "outlet 服飾"],
-    "選品店": ["選品店", "編輯選物店", "設計師選品"],
+    # First run's plain "選品店"/"編輯選物店" queries mostly surfaced cafes,
+    # ice-cream shops, and grocery/zero-waste stores that happen to use
+    # 選物/選品 in their name but sell nothing to wear — broadened with more
+    # specific clothing-boutique phrasing.
+    "選品店": ["選品店", "編輯選物店", "設計師選品", "服飾選品店", "獨立品牌服飾店", "質感選物服飾", "生活風格服飾店"],
 }
 
 
