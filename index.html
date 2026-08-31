@@ -2679,6 +2679,22 @@ function fmtDistance(km){
   return km < 1 ? `${Math.round(km*1000)} 公尺` : `${km.toFixed(1)} 公里`;
 }
 
+// 卡片上的「距離你 xx」文字只看 userLocation 是否已設定（見 render() 的
+// card-rating 區塊），不看目前排序方式——所以只要在載入時就靜靜要一次定位
+// 權限，不用等使用者特地切到「距離：近到遠」排序才觸發，每張卡片就會直接
+// 顯示距離。使用者若拒絕或瀏覽器不支援，就單純不顯示，不跳 toast 打擾。
+function tryAutoLocate(){
+  if(!navigator.geolocation || userLocation) return;
+  navigator.geolocation.getCurrentPosition(
+    pos => {
+      userLocation = { lat: pos.coords.latitude, lng: pos.coords.longitude };
+      render();
+    },
+    () => {}, // silently ignore denial/unavailable — sort dropdown still offers a manual retry
+    { timeout: 10000 }
+  );
+}
+
 sortSelect.addEventListener('change', ()=>{
   const val = sortSelect.value;
   if(val === 'distance' && !userLocation){
@@ -3414,6 +3430,7 @@ pickerCloseBtn.addEventListener('click', ()=>{
   buildTimeSelectors();
   updateFavCount();
   render();
+  tryAutoLocate();
   try{
     if(window.SUPABASE_CONFIG?.url && window.SUPABASE_CONFIG?.anonKey){
       await loadRestaurantsFromSupabase();
