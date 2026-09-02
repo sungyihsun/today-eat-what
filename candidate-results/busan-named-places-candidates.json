@@ -1,0 +1,122 @@
+{
+ "31cm 刀削麵::0": {
+  "place_id": "ChIJiYAR3_ONaDURK3wGkip3Evg",
+  "name": "Haeundae 31cm Haemul(seafood) Kalguksu",
+  "address": "46 Gunam-ro 41beon-gil, Haeundae, Busan, 南韓",
+  "rating": 4.4,
+  "userRatingCount": 496,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=17875480895709150251&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.162143799999996,
+   "longitude": 129.1630449
+  },
+  "types": [
+   "noodle_shop",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "noodle_shop",
+  "cid": "17875480895709150251",
+  "query_label": "31cm 刀削麵",
+  "rank": 0
+ },
+ "31cm 刀削麵::1": {
+  "place_id": "ChIJi5GnBzONaDUR4X4HoVILZ-w",
+  "name": "海雲臺31公分海鮮刀切麵 松亭本店",
+  "address": "南韓 Busan, Haeundae, 송정동 158-2",
+  "rating": 4.4,
+  "userRatingCount": 562,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=17034596565069037281&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.181625000000004,
+   "longitude": 129.200158
+  },
+  "types": [
+   "seafood_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "seafood_restaurant",
+  "cid": "17034596565069037281",
+  "query_label": "31cm 刀削麵",
+  "rank": 1
+ },
+ "31cm 刀削麵::2": {
+  "place_id": "ChIJpzpJMeCTaDURQipGyYEVkM0",
+  "name": "해운대31cm해물칼국수 구서점",
+  "address": "414-37 Guseo-dong, Geumjeong-gu, Busan, 南韓",
+  "rating": 4.2,
+  "userRatingCount": 55,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=14812362821593344578&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.245137299999996,
+   "longitude": 129.08969399999998
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "restaurant",
+  "cid": "14812362821593344578",
+  "query_label": "31cm 刀削麵",
+  "rank": 2
+ },
+ "ARTE MUSEUM::0": {
+  "place_id": "ChIJvX_SQwDvaDURS28S4RX5ZVM",
+  "name": "ARTE MUSEUM Busan",
+  "address": "29 Haeyang-ro 247beon-gil, Yeongdo-gu, Busan, 南韓",
+  "rating": 4.8,
+  "userRatingCount": 2887,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=6009483150161506123&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.0870682,
+   "longitude": 129.076373
+  },
+  "types": [
+   "art_museum",
+   "tourist_attraction",
+   "amusement_park",
+   "museum",
+   "amusement_center",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "art_museum",
+  "cid": "6009483150161506123",
+  "query_label": "ARTE MUSEUM",
+  "rank": 0
+ },
+ "白淺灘文化村::0": {
+  "place_id": "ChIJseGsfh7paDURigYilgTVojA",
+  "name": "白淺灘文化村",
+  "address": "1043 Yeongseon-dong 4(sa)-ga, Yeongdo-gu, Busan, 南韓",
+  "rating": 4.4,
+  "userRatingCount": 8998,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=3504597675723064970&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.0782798,
+   "longitude": 129.0453198
+  },
+  "types": [
+   "tourist_attraction",
+   "scenic_spot",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "tourist_attraction",
+  "cid": "3504597675723064970",
+  "query_label": "白淺灘文化村",
+  "rank": 0
+ }
+}
