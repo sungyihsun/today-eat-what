@@ -1,0 +1,46 @@
+name: Search Busan hotel breakfast candidates
+
+on:
+  push:
+    branches: [DEV]
+    paths:
+      - scripts/busan-trip/search_busan_hotel_breakfast.py
+      - scripts/busan-trip/fetch_details_busan_hotel_breakfast.py
+      - .github/workflows/search-busan-hotel-breakfast.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out DEV
+        uses: actions/checkout@v4
+        with:
+          ref: DEV
+
+      - name: Resolve hotel and search nearby breakfast candidates
+        env:
+          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+        run: |
+          test -n "$GOOGLE_PLACES_API_KEY"
+          python3 scripts/busan-trip/search_busan_hotel_breakfast.py
+
+      - name: Publish candidate results to DEV
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add candidate-results/busan-hotel-anchor.json candidate-results/busan-hotel-breakfast-candidates.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Publish Busan hotel breakfast candidates"
+          for i in 1 2 3 4 5; do
+            git push && exit 0
+            echo "push rejected, rebasing onto latest DEV and retrying ($i)"
+            git fetch origin DEV
+            git rebase origin/DEV
+          done
+          exit 1
