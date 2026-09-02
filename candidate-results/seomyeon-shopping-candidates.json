@@ -213,8 +213,8 @@
   },
   "types": [
    "clothing_store",
-   "womens_clothing_store",
    "shopping_mall",
+   "womens_clothing_store",
    "store",
    "point_of_interest",
    "establishment"
@@ -327,13 +327,13 @@
   },
   "types": [
    "gift_shop",
-   "home_goods_store",
-   "manufacturer",
-   "service",
-   "supplier",
-   "point_of_interest",
    "clothing_store",
+   "home_goods_store",
+   "supplier",
+   "manufacturer",
    "store",
+   "point_of_interest",
+   "service",
    "establishment"
   ],
   "primaryType": "store",
@@ -356,9 +356,9 @@
   "types": [
    "gift_shop",
    "home_goods_store",
-   "service",
-   "point_of_interest",
    "store",
+   "point_of_interest",
+   "service",
    "establishment"
   ],
   "primaryType": "gift_shop",
@@ -401,13 +401,13 @@
    "longitude": 129.0675186
   },
   "types": [
-   "tourist_attraction",
    "art_studio",
    "gift_shop",
    "jewelry_store",
-   "service",
-   "point_of_interest",
+   "tourist_attraction",
    "store",
+   "point_of_interest",
+   "service",
    "establishment"
   ],
   "primaryType": "jewelry_store",
@@ -634,10 +634,10 @@
   "types": [
    "massage_spa",
    "tourist_attraction",
-   "spa",
    "massage",
-   "service",
+   "spa",
    "point_of_interest",
+   "service",
    "establishment"
   ],
   "primaryType": "massage_spa",
@@ -659,13 +659,13 @@
   },
   "types": [
    "tourist_attraction",
-   "storage",
    "tour_agency",
    "travel_agency",
+   "storage",
    "manufacturer",
-   "service",
-   "point_of_interest",
    "store",
+   "point_of_interest",
+   "service",
    "establishment"
   ],
   "primaryType": "service",
@@ -736,9 +736,9 @@
    "art_studio",
    "gift_shop",
    "jewelry_store",
-   "service",
-   "point_of_interest",
    "store",
+   "point_of_interest",
+   "service",
    "establishment"
   ],
   "primaryType": "jewelry_store",
@@ -945,8 +945,8 @@
    "longitude": 129.0665473
   },
   "types": [
-   "point_of_interest",
    "service",
+   "point_of_interest",
    "establishment"
   ],
   "primaryType": "service",
@@ -1136,10 +1136,10 @@
   },
   "types": [
    "clothing_store",
-   "womens_clothing_store",
    "shopping_mall",
-   "point_of_interest",
+   "womens_clothing_store",
    "store",
+   "point_of_interest",
    "establishment"
   ],
   "primaryType": "clothing_store",
@@ -1161,8 +1161,8 @@
   },
   "types": [
    "clothing_store",
-   "point_of_interest",
    "store",
+   "point_of_interest",
    "establishment"
   ],
   "primaryType": "clothing_store",
@@ -1184,8 +1184,8 @@
   },
   "types": [
    "clothing_store",
-   "point_of_interest",
    "store",
+   "point_of_interest",
    "establishment"
   ],
   "primaryType": "clothing_store",
