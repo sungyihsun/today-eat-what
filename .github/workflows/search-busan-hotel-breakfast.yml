@@ -28,13 +28,30 @@ jobs:
           test -n "$GOOGLE_PLACES_API_KEY"
           python3 scripts/busan-trip/search_busan_hotel_breakfast.py
 
+      - name: Pick final 5 and fetch details
+        env:
+          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+        run: |
+          # Hand-picked after reviewing all 47 candidates: the korean_restaurant
+          # type batch pulled in a lot of BBQ/dinner-oriented 燒肉/烤肉 places
+          # that are not breakfast food, so this isn't the top-N-by-rating
+          # automatic picks — it's cafes/bakery/egg-dish spots plus 돼지국밥
+          # (pork soup rice), which is genuinely Busan's classic breakfast
+          # dish, for some local flavor alongside the Western-style options.
+          python3 -c "
+          import json
+          final = ['다이아에그', 'Old Mont Bagel 釜山店', '星巴克', '松亭3代豬肉湯飯', 'PUFF Bakery']
+          json.dump(final, open('candidate-results/busan-hotel-breakfast-final-list.json', 'w'), ensure_ascii=False, indent=2)
+          "
+          python3 scripts/busan-trip/fetch_details_busan_hotel_breakfast.py
+
       - name: Publish candidate results to DEV
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add candidate-results/busan-hotel-anchor.json candidate-results/busan-hotel-breakfast-candidates.json
+          git add candidate-results/busan-hotel-anchor.json candidate-results/busan-hotel-breakfast-candidates.json candidate-results/busan-hotel-breakfast-final-list.json candidate-results/busan-hotel-breakfast-details.json
           git diff --cached --quiet && exit 0
           git commit -m "Publish Busan hotel breakfast candidates"
           for i in 1 2 3 4 5; do
