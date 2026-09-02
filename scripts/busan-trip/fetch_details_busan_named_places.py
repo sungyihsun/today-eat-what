@@ -1,0 +1,110 @@
+# -*- coding: utf-8 -*-
+"""
+Fetch full Place Details (photos, hours, phone) for hand-picked named Busan
+places resolved by search_busan_named_places.py.
+
+FINAL_LIST_PATH: JSON array of exact "label::rank" keys from the candidates
+file to fetch (e.g. "31cm 刀削麵::0").
+
+Usage (CI): GOOGLE_PLACES_API_KEY=... python3 scripts/busan-trip/fetch_details_busan_named_places.py
+"""
+import json, os, urllib.request, urllib.error, time
+
+CANDIDATES_PATH = os.environ.get("BUSAN_NAMED_CANDIDATES_PATH", "candidate-results/busan-named-places-candidates.json")
+FINAL_LIST_PATH = os.environ.get("BUSAN_NAMED_FINAL_LIST_PATH", "candidate-results/busan-named-places-final-list.json")
+OUT_PATH = os.environ.get("BUSAN_NAMED_DETAILS_PATH", "candidate-results/busan-named-places-details.json")
+
+KEY = os.environ.get("GOOGLE_PLACES_API_KEY", "").strip()
+if not KEY:
+    raise SystemExit("Missing GOOGLE_PLACES_API_KEY")
+
+candidates = json.load(open(CANDIDATES_PATH))
+wanted_keys = json.load(open(FINAL_LIST_PATH))
+
+
+class NoRedirect(urllib.request.HTTPRedirectHandler):
+    def redirect_request(self, req, fp, code, msg, headers, newurl):
+        return None
+
+
+opener = urllib.request.build_opener(NoRedirect)
+
+
+def photo_url(photo_name, w=800, h=800):
+    url = f"https://places.googleapis.com/v1/{photo_name}/media?maxWidthPx={w}&maxHeightPx={h}&key={KEY}"
+    req = urllib.request.Request(url, method='GET')
+    try:
+        opener.open(req, timeout=20)
+    except urllib.error.HTTPError as e:
+        if e.code in (301, 302, 303):
+            return e.headers.get('Location')
+    return None
+
+
+def get_details(place_id):
+    url = f"https://places.googleapis.com/v1/places/{place_id}"
+    field_mask = ("id,displayName,formattedAddress,rating,userRatingCount,priceLevel,"
+                  "nationalPhoneNumber,regularOpeningHours,photos,"
+                  "primaryType,types,googleMapsUri,location")
+    req = urllib.request.Request(url, method='GET', headers={
+        "X-Goog-Api-Key": KEY, "X-Goog-FieldMask": field_mask,
+    })
+    with urllib.request.urlopen(req, timeout=20) as resp:
+        return json.loads(resp.read().decode('utf-8'))
+
+
+def periods_to_hours(oh):
+    week = [[] for _ in range(7)]
+    periods = (oh or {}).get('periods')
+    if not periods:
+        return week
+
+    def gidx_to_midx(gday):
+        return (gday + 6) % 7
+
+    for p in periods:
+        o = p.get('open')
+        c = p.get('close')
+        if not o or not c:
+            continue
+        oday = gidx_to_midx(o['day'])
+        omin = o['hour'] * 60 + o['minute']
+        cday = gidx_to_midx(c['day'])
+        cmin = c['hour'] * 60 + c['minute']
+        end = (cmin if cmin > omin else cmin + 1440) if cday == oday else cmin + 1440
+        week[oday].append([omin, end])
+    for d in week:
+        d.sort()
+    return week
+
+
+results = {}
+missing = []
+for key in wanted_keys:
+    rec = candidates.get(key)
+    if not rec:
+        missing.append(key)
+        continue
+    try:
+        d = get_details(rec['place_id'])
+    except Exception as e:
+        print('ERROR', key, e)
+        missing.append(key)
+        continue
+    photos = d.get('photos', [])[:3]
+    photo_urls = []
+    for ph in photos:
+        u = photo_url(ph['name'])
+        if u:
+            photo_urls.append(u)
+        time.sleep(0.05)
+    d['_photo_urls'] = photo_urls
+    d['_query_label'] = rec['query_label']
+    d['_hoursweek'] = periods_to_hours(d.get('regularOpeningHours'))
+    results[key] = d
+    time.sleep(0.1)
+    print('done:', key, '-> photos:', len(photo_urls), 'types:', d.get('types'))
+
+print('missing:', missing)
+os.makedirs(os.path.dirname(OUT_PATH), exist_ok=True)
+json.dump(results, open(OUT_PATH, 'w'), ensure_ascii=False, indent=1)

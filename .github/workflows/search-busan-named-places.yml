@@ -5,6 +5,7 @@ on:
     branches: [DEV]
     paths:
       - scripts/busan-trip/search_busan_named_places.py
+      - scripts/busan-trip/fetch_details_busan_named_places.py
       - .github/workflows/search-busan-named-places.yml
   workflow_dispatch:
 
@@ -27,13 +28,33 @@ jobs:
           test -n "$GOOGLE_PLACES_API_KEY"
           python3 scripts/busan-trip/search_busan_named_places.py
 
+      - name: Pick final branch per place and fetch details
+        env:
+          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+        run: |
+          # Reviewed the top-3 candidates each query resolved to (printed in
+          # the previous step's log): "31cm 刀削麵" matched 3 branches —
+          # pick [0] "Haeundae 31cm Haemul(seafood) Kalguksu", the one whose
+          # own name says Haeundae (the area the user asked for), not the
+          # 松亭本店 (Songjeong flagship, a different Haeundae-gu
+          # neighborhood) or the Geumjeong-gu branch. ARTE MUSEUM and 白淺灘
+          # 文化村 each resolved to exactly one place, both genuinely in
+          # 影島區 (Yeongdo-gu) — a Busan district not yet in
+          # AREA_REGIONS_BUSAN, added separately in index.html.
+          python3 -c "
+          import json
+          final = ['31cm 刀削麵::0', 'ARTE MUSEUM::0', '白淺灘文化村::0']
+          json.dump(final, open('candidate-results/busan-named-places-final-list.json', 'w'), ensure_ascii=False, indent=2)
+          "
+          python3 scripts/busan-trip/fetch_details_busan_named_places.py
+
       - name: Publish candidate results to DEV
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add candidate-results/busan-named-places-candidates.json
+          git add candidate-results/busan-named-places-candidates.json candidate-results/busan-named-places-final-list.json candidate-results/busan-named-places-details.json
           git diff --cached --quiet && exit 0
           git commit -m "Publish resolved named Busan places"
           for i in 1 2 3 4 5; do

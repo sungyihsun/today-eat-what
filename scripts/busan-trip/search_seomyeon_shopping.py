@@ -119,6 +119,7 @@ def add_place(cat_label, p):
         'primaryType': p.get('primaryType'),
         'cid': cid,
         'cat_label': cat_label,
+        'distance_m': dist,
     }
 
 
