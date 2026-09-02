@@ -134,8 +134,15 @@ for cat_label, batches in CATEGORY_TYPE_BATCHES.items():
 
 # baby_store is a real Google type but 西面's coverage under it alone may be
 # thin — supplement with text search using the actual Korean term shoppers
-# search for, still biased to the same 西面 center.
-for q in ["서면 아기용품점", "서면 유아용품점", "서면 임산부용품"]:
+# search for, still biased to the same 西面 center. Round 1's three queries
+# mostly surfaced false positives (a board game cafe, an anime goods shop, a
+# photo studio) rather than real baby/maternity specialty stores — broadened
+# with more query phrasings before concluding there's genuinely nothing to
+# find nearby.
+for q in [
+    "서면 아기용품점", "서면 유아용품점", "서면 임산부용품",
+    "서면 아동복", "서면 유아동", "서면 베이비용품", "서면 유아복",
+]:
     data = search_text(q, lat, lng, RADIUS_M)
     places = data.get('places', [])
     print(f"母嬰用品 / {q}: {len(places)} results", flush=True)
