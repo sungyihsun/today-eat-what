@@ -85,8 +85,8 @@
   "types": [
    "art_museum",
    "tourist_attraction",
-   "amusement_park",
    "museum",
+   "amusement_park",
    "amusement_center",
    "point_of_interest",
    "establishment"
