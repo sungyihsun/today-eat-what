@@ -1,0 +1,1125 @@
+{
+ "逛街::8919030743954603138": {
+  "place_id": "ChIJ__d4Fm7raDURgrwz4jTDxns",
+  "name": "樂天百貨",
+  "address": "772 Gaya-daero, Busanjin District, Busan, 南韓",
+  "rating": 4.2,
+  "userRatingCount": 11042,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=8919030743954603138&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 35.1564378,
+   "longitude": 129.0556096
+  },
+  "types": [
+   "department_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "department_store",
+  "cid": "8919030743954603138",
+  "cat_label": "逛街",
+  "distance_m": 410.4
+ },
+ "逛街::3285424098242679761": {
+  "place_id": "ChIJS2MRDG_raDUR0VNDeM8rmC0",
+  "name": "西面地下街",
+  "address": "지하 717 Jungang-daero, Busanjin District, Busan, 南韓",
+  "rating": 4.1,
+  "userRatingCount": 2934,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=3285424098242679761&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 35.1562986,
+   "longitude": 129.059155
+  },
+  "types": [
+   "shopping_mall",
+   "tourist_attraction",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "shopping_mall",
+  "cid": "3285424098242679761",
+  "cat_label": "逛街",
+  "distance_m": 195.6
+ },
+ "逛街::18091390358447979542": {
+  "place_id": "ChIJDz2rlfPraDURFvw3wK2HEfs",
+  "name": "삼정타워",
+  "address": "672 Jungang-daero, Busanjin District, Busan, 南韓",
+  "rating": 4.3,
+  "userRatingCount": 2664,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=18091390358447979542&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 35.1530115,
+   "longitude": 129.05960579999999
+  },
+  "types": [
+   "shopping_mall",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "shopping_mall",
+  "cid": "18091390358447979542",
+  "cat_label": "逛街",
+  "distance_m": 554.8
+ },
+ "逛街::11640765867371577839": {
+  "place_id": "ChIJiav_TWXraDUR78EshuFOjKE",
+  "name": "Shopping Street",
+  "address": "-dong, 217-2 부전제2동 부산진구 부산광역시 南韓",
+  "rating": 4.3,
+  "userRatingCount": 42,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=11640765867371577839&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 35.1544819,
+   "longitude": 129.0613168
+  },
+  "types": [
+   "shopping_mall",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "shopping_mall",
+  "cid": "11640765867371577839",
+  "cat_label": "逛街",
+  "distance_m": 417.9
+ },
+ "逛街::6236527130109531928": {
+  "place_id": "ChIJeUARGf_raDURGNdD3mGYjFY",
+  "name": "비아이에프씨 몰",
+  "address": "40 Munhyeongeumyung-ro, Nam-gu, Busan, 南韓",
+  "rating": 4.2,
+  "userRatingCount": 176,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=6236527130109531928&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 35.1465205,
+   "longitude": 129.0658279
+  },
+  "types": [
+   "shopping_mall",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "shopping_mall",
+  "cid": "6236527130109531928",
+  "cat_label": "逛街",
+  "distance_m": 1392.7
+ },
+ "逛街::4710024812446162536": {
+  "place_id": "ChIJOUu9T7LraDURaB4htZxeXUE",
+  "name": "DJI 롯데백화점 부산본점",
+  "address": "南韓 Busan, Busanjin District, Gaya-daero, 772樂天百貨 6층",
+  "rating": 4.8,
+  "userRatingCount": 41,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=4710024812446162536&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 35.156641799999996,
+   "longitude": 129.0560026
+  },
+  "types": [
+   "shopping_mall",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "shopping_mall",
+  "cid": "4710024812446162536",
+  "cat_label": "逛街",
+  "distance_m": 368.5
+ },
+ "逛街::11860031077710349417": {
+  "place_id": "ChIJTeFI6G_raDURacQElG1Ll6Q",
+  "name": "동보프라자",
+  "address": "704 Jungang-daero, Busanjin District, Busan, 南韓",
+  "rating": 4.1,
+  "userRatingCount": 175,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=11860031077710349417&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 35.1555018,
+   "longitude": 129.059437
+  },
+  "types": [
+   "shopping_mall",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "shopping_mall",
+  "cid": "11860031077710349417",
+  "cat_label": "逛街",
+  "distance_m": 278.8
+ },
+ "逛街::15380730418694862979": {
+  "place_id": "ChIJ8V4JDX3raDURgzhaQNNUc9U",
+  "name": "Judies Taehwa New Bldg.",
+  "address": "61 Seojeon-ro 10beon-gil, Busanjin District, Busan, 南韓",
+  "rating": 4,
+  "userRatingCount": 200,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=15380730418694862979&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 35.1551372,
+   "longitude": 129.0602149
+  },
+  "types": [
+   "shopping_mall",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "shopping_mall",
+  "cid": "15380730418694862979",
+  "cat_label": "逛街",
+  "distance_m": 321.8
+ },
+ "逛街::17474856973547570986": {
+  "place_id": "ChIJJ2PaUNPraDURKocP6dQpg_I",
+  "name": "IFC Busan Mall",
+  "address": "133 Jeonpo-daero, Nam-gu, Busan, 南韓",
+  "rating": 4.1,
+  "userRatingCount": 26,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=17474856973547570986&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 35.148277199999995,
+   "longitude": 129.0654374
+  },
+  "types": [
+   "shopping_mall",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "shopping_mall",
+  "cid": "17474856973547570986",
+  "cat_label": "逛街",
+  "distance_m": 1200.4
+ },
+ "逛街::9124731878290191285": {
+  "place_id": "ChIJeTvBZwTraDURtXMrZEyPoX4",
+  "name": "이블래 서면점(부산)",
+  "address": "南韓 Busan, 번 1층 38 이블래 KR 부산광역시 부산진구 중앙대로 680번가길",
+  "rating": 5,
+  "userRatingCount": 487,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=9124731878290191285&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 35.1550551,
+   "longitude": 129.060902
+  },
+  "types": [
+   "clothing_store",
+   "womens_clothing_store",
+   "shopping_mall",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "clothing_store",
+  "cid": "9124731878290191285",
+  "cat_label": "逛街",
+  "distance_m": 345.2
+ },
+ "逛街::11480637601812021007": {
+  "place_id": "ChIJk5Ff7iPraDURD3__YhJrU58",
+  "name": "부전몰 - 서면지하도상가",
+  "address": "지하 737 Jungang-daero, Busanjin District, Busan, 南韓",
+  "rating": 4,
+  "userRatingCount": 35,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=11480637601812021007&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 35.160553799999995,
+   "longitude": 129.06136189999998
+  },
+  "types": [
+   "shopping_mall",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "shopping_mall",
+  "cid": "11480637601812021007",
+  "cat_label": "逛街",
+  "distance_m": 321.7
+ },
+ "逛街::2283796410066113392": {
+  "place_id": "ChIJWwP8QdfraDURcJNNIbyssR8",
+  "name": "코코(COCO)빌딩",
+  "address": "43 Jungang-daero 702beon-gil, Busanjin District, Busan, 南韓",
+  "rating": 4.1,
+  "userRatingCount": 23,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=2283796410066113392&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 35.155647699999996,
+   "longitude": 129.0615282
+  },
+  "types": [
+   "shopping_mall",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "shopping_mall",
+  "cid": "2283796410066113392",
+  "cat_label": "逛街",
+  "distance_m": 309.9
+ },
+ "逛街::6497292199809676602": {
+  "place_id": "ChIJG7Fv02_raDUROnWS49QEK1o",
+  "name": "西面市場",
+  "address": "56 Seomyeon-ro, Busanjin District, Busan, 南韓",
+  "rating": 4.1,
+  "userRatingCount": 2770,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=6497292199809676602&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 35.1557374,
+   "longitude": 129.0581664
+  },
+  "types": [
+   "market",
+   "tourist_attraction",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "market",
+  "cid": "6497292199809676602",
+  "cat_label": "逛街",
+  "distance_m": 287.6
+ },
+ "逛街::9863130834568039681": {
+  "place_id": "ChIJaWN272fraDURAU2hpzzh4Ig",
+  "name": "釜田市場",
+  "address": "23 Jungang-daero 783beon-gil, Busanjin District, Busan, 南韓",
+  "rating": 4.2,
+  "userRatingCount": 6757,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=9863130834568039681&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 35.162726899999996,
+   "longitude": 129.0613381
+  },
+  "types": [
+   "market",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "market",
+  "cid": "9863130834568039681",
+  "cat_label": "逛街",
+  "distance_m": 546.3
+ },
+ "逛街::1659135581306132302": {
+  "place_id": "ChIJpa5qwfvraDURTpf2TQVvBhc",
+  "name": "BRACKET TABLE",
+  "address": "南韓 Busan, Busanjin District, Seojeon-ro 68beon-gil, 109 브라켓테이블 1층",
+  "rating": 4.5,
+  "userRatingCount": 52,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=1659135581306132302&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 35.1528491,
+   "longitude": 129.0673878
+  },
+  "types": [
+   "gift_shop",
+   "home_goods_store",
+   "clothing_store",
+   "supplier",
+   "store",
+   "manufacturer",
+   "service",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "store",
+  "cid": "1659135581306132302",
+  "cat_label": "逛街",
+  "distance_m": 903.6
+ },
+ "逛街::14792890496239748987": {
+  "place_id": "ChIJuYhveG_raDURe0efvYfnSs0",
+  "name": "TWIN ÉTOILE",
+  "address": "676-30 Jeonpo-dong, Busanjin District, Busan, 南韓",
+  "rating": 4.6,
+  "userRatingCount": 39,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=14792890496239748987&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 35.1564749,
+   "longitude": 129.0649151
+  },
+  "types": [
+   "gift_shop",
+   "home_goods_store",
+   "store",
+   "service",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "gift_shop",
+  "cid": "14792890496239748987",
+  "cat_label": "逛街",
+  "distance_m": 503.5
+ },
+ "逛街::7836598244356330005": {
+  "place_id": "ChIJf29f72fraDURFRJPSpUwwWw",
+  "name": "釜田人參市場",
+  "address": "23 Jungang-daero 783beon-gil, Busanjin District, Busan, 南韓",
+  "rating": 4.2,
+  "userRatingCount": 113,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=7836598244356330005&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 35.1633105,
+   "longitude": 129.061034
+  },
+  "types": [
+   "market",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "market",
+  "cid": "7836598244356330005",
+  "cat_label": "逛街",
+  "distance_m": 602.8
+ },
+ "逛街::6979392306558811007": {
+  "place_id": "ChIJgYQyJvHraDURfzuIDFPI22A",
+  "name": "반지공방 Atelier HOSOO",
+  "address": "南韓 Busan, Busanjin District, Dongseong-ro 25beon-gil, 18 1층",
+  "rating": 5,
+  "userRatingCount": 108,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=6979392306558811007&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 35.1527947,
+   "longitude": 129.0675186
+  },
+  "types": [
+   "tourist_attraction",
+   "art_studio",
+   "gift_shop",
+   "jewelry_store",
+   "store",
+   "service",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "jewelry_store",
+  "cid": "6979392306558811007",
+  "cat_label": "逛街",
+  "distance_m": 916.7
+ },
+ "景點::9967300453178756857": {
+  "place_id": "ChIJYeuKwGTraDUR-U5PAfT2Uoo",
+  "name": "田浦咖啡街",
+  "address": "92 Dongcheon-ro, Busanjin District, Busan, 南韓",
+  "rating": 4.2,
+  "userRatingCount": 2029,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=9967300453178756857&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 35.155398999999996,
+   "longitude": 129.0673266
+  },
+  "types": [
+   "tourist_attraction",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "tourist_attraction",
+  "cid": "9967300453178756857",
+  "cat_label": "景點",
+  "distance_m": 751.2
+ },
+ "景點::3285424098242679761": {
+  "place_id": "ChIJS2MRDG_raDUR0VNDeM8rmC0",
+  "name": "西面地下街",
+  "address": "지하 717 Jungang-daero, Busanjin District, Busan, 南韓",
+  "rating": 4.1,
+  "userRatingCount": 2934,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=3285424098242679761&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 35.1562986,
+   "longitude": 129.059155
+  },
+  "types": [
+   "shopping_mall",
+   "tourist_attraction",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "shopping_mall",
+  "cid": "3285424098242679761",
+  "cat_label": "景點",
+  "distance_m": 195.6
+ },
+ "景點::6497292199809676602": {
+  "place_id": "ChIJG7Fv02_raDUROnWS49QEK1o",
+  "name": "西面市場",
+  "address": "56 Seomyeon-ro, Busanjin District, Busan, 南韓",
+  "rating": 4.1,
+  "userRatingCount": 2770,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=6497292199809676602&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 35.1557374,
+   "longitude": 129.0581664
+  },
+  "types": [
+   "market",
+   "tourist_attraction",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "market",
+  "cid": "6497292199809676602",
+  "cat_label": "景點",
+  "distance_m": 287.6
+ },
+ "景點::8803113915340073800": {
+  "place_id": "ChIJPbq4_UHraDURSKskEXfxKno",
+  "name": "釜山市民公園",
+  "address": "73 Simingongwon-ro, Busanjin District, Busan, 南韓",
+  "rating": 4.6,
+  "userRatingCount": 8268,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=8803113915340073800&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 35.168160799999995,
+   "longitude": 129.0573853
+  },
+  "types": [
+   "city_park",
+   "tourist_attraction",
+   "park",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "city_park",
+  "cid": "8803113915340073800",
+  "cat_label": "景點",
+  "distance_m": 1149.3
+ },
+ "景點::11664718304246668634": {
+  "place_id": "ChIJgeftBm7raDURWp2e0X5n4aE",
+  "name": "七樂娛樂場釜山樂天店",
+  "address": "772 Gaya-daero, Busanjin District, Busan, 南韓",
+  "rating": 4,
+  "userRatingCount": 1089,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=11664718304246668634&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 35.156751,
+   "longitude": 129.055672
+  },
+  "types": [
+   "casino",
+   "tourist_attraction",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "casino",
+  "cid": "11664718304246668634",
+  "cat_label": "景點",
+  "distance_m": 391.6
+ },
+ "景點::8796699005345176760": {
+  "place_id": "ChIJdy62a2XraDURuJyhcSMnFHo",
+  "name": "The Street of Youth",
+  "address": "동 Jungang-daero 702beon-gil, 부전2 Busanjin District, Busan, 南韓",
+  "rating": 4.4,
+  "userRatingCount": 150,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=8796699005345176760&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 35.1554358,
+   "longitude": 129.0612696
+  },
+  "types": [
+   "tourist_attraction",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "tourist_attraction",
+  "cid": "8796699005345176760",
+  "cat_label": "景點",
+  "distance_m": 318.8
+ },
+ "景點::14863222520222689439": {
+  "place_id": "ChIJ7aUIDG_raDURn6h1JyLGRM4",
+  "name": "西面站地下街",
+  "address": "南韓 부산광역시 부산진구 부전제1동",
+  "rating": 4.1,
+  "userRatingCount": 2803,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=14863222520222689439&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 35.1577555,
+   "longitude": 129.0591952
+  },
+  "types": [
+   "tourist_attraction",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "tourist_attraction",
+  "cid": "14863222520222689439",
+  "cat_label": "景點",
+  "distance_m": 53.3
+ },
+ "景點::8324234366842056016": {
+  "place_id": "ChIJpwqozl3raDURUC24jg2fhXM",
+  "name": "宋象賢 廣場",
+  "address": "818 Jungang-daero, Busanjin District, Busan, 南韓",
+  "rating": 4.3,
+  "userRatingCount": 1698,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=8324234366842056016&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 35.1641542,
+   "longitude": 129.0648058
+  },
+  "types": [
+   "park",
+   "tourist_attraction",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "park",
+  "cid": "8324234366842056016",
+  "cat_label": "景點",
+  "distance_m": 826.9
+ },
+ "景點::13432744659123808360": {
+  "place_id": "ChIJa38nQ9XraDURaKiZBRmyaro",
+  "name": "서면먹자골목",
+  "address": "南韓 부산광역시 부산진구 부전제2동",
+  "rating": 4.1,
+  "userRatingCount": 31,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=13432744659123808360&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 35.1558452,
+   "longitude": 129.0584293
+  },
+  "types": [
+   "tourist_attraction",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "tourist_attraction",
+  "cid": "13432744659123808360",
+  "cat_label": "景點",
+  "distance_m": 266.0
+ },
+ "景點::2016882726345818611": {
+  "place_id": "ChIJX5i_NrDraDUR88F2WSdo_Rs",
+  "name": "시원한가 Busan massage / 釜山タイマッサージ / 釜山按摩",
+  "address": "南韓 Busan, Busanjin District, Dongcheon-ro, 66 시원한가(4F",
+  "rating": 4.8,
+  "userRatingCount": 104,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=2016882726345818611&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 35.154644,
+   "longitude": 129.0626
+  },
+  "types": [
+   "massage_spa",
+   "tourist_attraction",
+   "massage",
+   "spa",
+   "service",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "massage_spa",
+  "cid": "2016882726345818611",
+  "cat_label": "景點",
+  "distance_m": 456.9
+ },
+ "景點::8202516986882821837": {
+  "place_id": "ChIJ04_5QL3raDURzQ5Co70x1XE",
+  "name": "Little Planet 行李飄帶 行李保管處",
+  "address": "南韓 Busan, Busanjin District, 건물 사이 골목 안",
+  "rating": 4.9,
+  "userRatingCount": 89,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=8202516986882821837&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 35.1561215,
+   "longitude": 129.05817539999998
+  },
+  "types": [
+   "tourist_attraction",
+   "tour_agency",
+   "travel_agency",
+   "storage",
+   "store",
+   "manufacturer",
+   "service",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "service",
+  "cid": "8202516986882821837",
+  "cat_label": "景點",
+  "distance_m": 250.7
+ },
+ "景點::9899142923781607786": {
+  "place_id": "ChIJVVfK60HraDURahHTkArSYIk",
+  "name": "市民公園 歷史館",
+  "address": "73 Simingongwon-ro, Busanjin District, Busan, 南韓",
+  "rating": 4.4,
+  "userRatingCount": 302,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=9899142923781607786&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 35.16715,
+   "longitude": 129.0543175
+  },
+  "types": [
+   "history_museum",
+   "tourist_attraction",
+   "museum",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "history_museum",
+  "cid": "9899142923781607786",
+  "cat_label": "景點",
+  "distance_m": 1129.0
+ },
+ "景點::6652450443642487312": {
+  "place_id": "ChIJG5gwjmbraDUREEIzq25AUlw",
+  "name": "전포공구길 (전리단길)",
+  "address": "南韓 Busan, Busanjin District, 전포제2동 Seojeon-ro 37beon-gil, 구.부산공구거리 일대",
+  "rating": 4,
+  "userRatingCount": 21,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=6652450443642487312&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 35.1592255,
+   "longitude": 129.0637786
+  },
+  "types": [
+   "tourist_attraction",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "tourist_attraction",
+  "cid": "6652450443642487312",
+  "cat_label": "景點",
+  "distance_m": 395.0
+ },
+ "景點::6979392306558811007": {
+  "place_id": "ChIJgYQyJvHraDURfzuIDFPI22A",
+  "name": "반지공방 Atelier HOSOO",
+  "address": "南韓 Busan, Busanjin District, Dongseong-ro 25beon-gil, 18 1층",
+  "rating": 5,
+  "userRatingCount": 108,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=6979392306558811007&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 35.1527947,
+   "longitude": 129.0675186
+  },
+  "types": [
+   "tourist_attraction",
+   "art_studio",
+   "gift_shop",
+   "jewelry_store",
+   "store",
+   "service",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "jewelry_store",
+  "cid": "6979392306558811007",
+  "cat_label": "景點",
+  "distance_m": 916.7
+ },
+ "景點::6436359532807515446": {
+  "place_id": "ChIJKWFgkH3raDURNu2wz-SKUlk",
+  "name": "전포돌산공원",
+  "address": "산24-1 Munhyeon-dong, Nam-gu, Busan, 南韓",
+  "rating": 4.1,
+  "userRatingCount": 47,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=6436359532807515446&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 35.1477994,
+   "longitude": 129.07026299999998
+  },
+  "types": [
+   "park",
+   "tourist_attraction",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "park",
+  "cid": "6436359532807515446",
+  "cat_label": "景點",
+  "distance_m": 1486.2
+ },
+ "景點::1192933998104532870": {
+  "place_id": "ChIJ-dctMCDraDURhteBnSYnjhA",
+  "name": "釜山咖啡博物館",
+  "address": "南韓 Busan, Busanjin District, Dongcheon-ro, 70 2층 207호",
+  "rating": 4.5,
+  "userRatingCount": 23,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=1192933998104532870&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 35.154948499999996,
+   "longitude": 129.0626844
+  },
+  "types": [
+   "museum",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "museum",
+  "cid": "1192933998104532870",
+  "cat_label": "景點",
+  "distance_m": 434.4
+ },
+ "景點::6503136563869166874": {
+  "place_id": "ChIJ4YoP9G_raDURGq1G7z_IP1o",
+  "name": "부산포민속박물관",
+  "address": "168-176 Bujeon-dong, Busanjin District, Busan, 南韓",
+  "rating": 4.3,
+  "userRatingCount": 21,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=6503136563869166874&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 35.155547999999996,
+   "longitude": 129.0603888
+  },
+  "types": [
+   "museum",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "museum",
+  "cid": "6503136563869166874",
+  "cat_label": "景點",
+  "distance_m": 279.7
+ },
+ "景點::14064906912383810013": {
+  "place_id": "ChIJlW19NAPraDUR3bmSV1GWMMM",
+  "name": "거울연못",
+  "address": "73 Simingongwon-ro, Busanjin District, Busan, 南韓",
+  "rating": 4.5,
+  "userRatingCount": 532,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=14064906912383810013&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 35.1652408,
+   "longitude": 129.05576879999998
+  },
+  "types": [
+   "nature_preserve",
+   "park",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "nature_preserve",
+  "cid": "14064906912383810013",
+  "cat_label": "景點",
+  "distance_m": 880.9
+ },
+ "景點::1968488938851221897": {
+  "place_id": "ChIJ7ZCI963raDURiUGDqEJ6URs",
+  "name": "기억의 숲",
+  "address": "57 Beomjeon-dong, Busanjin District, Busan, 南韓",
+  "rating": 4.6,
+  "userRatingCount": 216,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=1968488938851221897&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 35.168262,
+   "longitude": 129.0614797
+  },
+  "types": [
+   "nature_preserve",
+   "park",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "nature_preserve",
+  "cid": "1968488938851221897",
+  "cat_label": "景點",
+  "distance_m": 1152.5
+ },
+ "景點::9382372041052078370": {
+  "place_id": "ChIJwR4SAFnraDURIkF3UanhNII",
+  "name": "양정라이온스공원",
+  "address": "南韓 Busan, Busanjin District, 양정제1동 431-7",
+  "rating": 4.1,
+  "userRatingCount": 79,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=9382372041052078370&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "location": {
+   "latitude": 35.1677859,
+   "longitude": 129.0684087
+  },
+  "types": [
+   "park",
+   "tourist_attraction",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "park",
+  "cid": "9382372041052078370",
+  "cat_label": "景點",
+  "distance_m": 1345.6
+ },
+ "母嬰用品::8919030743954603138": {
+  "place_id": "ChIJ__d4Fm7raDURgrwz4jTDxns",
+  "name": "樂天百貨",
+  "address": "772 Gaya-daero, Busanjin District, Busan, 南韓",
+  "rating": 4.2,
+  "userRatingCount": 11042,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=8919030743954603138&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1564378,
+   "longitude": 129.0556096
+  },
+  "types": [
+   "department_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "department_store",
+  "cid": "8919030743954603138",
+  "cat_label": "母嬰用品",
+  "distance_m": 410.4
+ },
+ "母嬰用品::14448902928581330220": {
+  "place_id": "ChIJ70IcWBPraDURLAUx9KjQhMg",
+  "name": "Lotte Mart",
+  "address": "241 Sincheon-daero, Busanjin District, Busan, 南韓",
+  "rating": 4.1,
+  "userRatingCount": 1971,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=14448902928581330220&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1633095,
+   "longitude": 129.0495603
+  },
+  "types": [
+   "hypermarket",
+   "supermarket",
+   "grocery_store",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "hypermarket",
+  "cid": "14448902928581330220",
+  "cat_label": "母嬰用品",
+  "distance_m": 1094.6
+ },
+ "母嬰用品::9466788795493631824": {
+  "place_id": "ChIJm_R7uELraDURUMcLl0DKYIM",
+  "name": "부산 서면 셀프사진관 오디티모드",
+  "address": "南韓 Busan, Busanjin District, Dongseong-ro 71beon-gil, 31 3층 301호",
+  "rating": 5,
+  "userRatingCount": 120,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=9466788795493631824&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.156818099999995,
+   "longitude": 129.0665473
+  },
+  "types": [
+   "service",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "service",
+  "cid": "9466788795493631824",
+  "cat_label": "母嬰用品",
+  "distance_m": 636.2
+ },
+ "母嬰用品::3296020776046287419": {
+  "place_id": "ChIJv2CrnVKTaDURO9qLyG7RvS0",
+  "name": "이마트 연제점",
+  "address": "89 Yeonsu-ro, Yeonje-gu, Busan, 南韓",
+  "rating": 4.1,
+  "userRatingCount": 2786,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=3296020776046287419&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1761281,
+   "longitude": 129.0813107
+  },
+  "types": [
+   "hypermarket",
+   "supermarket",
+   "grocery_store",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "hypermarket",
+  "cid": "3296020776046287419",
+  "cat_label": "母嬰用品",
+  "distance_m": 2814.6
+ },
+ "母嬰用品::541236649649713973": {
+  "place_id": "ChIJIRJtlaWUaDURNTPLgd3bggc",
+  "name": "Homeplus Asiad",
+  "address": "7 Jonghabundongjang-ro, Yeonje-gu, Busan, 南韓",
+  "rating": 4.2,
+  "userRatingCount": 3204,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=541236649649713973&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1913249,
+   "longitude": 129.064287
+  },
+  "types": [
+   "hypermarket",
+   "supermarket",
+   "grocery_store",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "hypermarket",
+  "cid": "541236649649713973",
+  "cat_label": "母嬰用品",
+  "distance_m": 3728.9
+ },
+ "母嬰用品::7132067597141781100": {
+  "place_id": "ChIJn9drUfDraDURbKq1ObEx-mI",
+  "name": "ANIPLUS SHOP Busan Seomyeon Store",
+  "address": "南韓 Busan, Busanjin District, Jungang-daero, 672 삼정타워 9F",
+  "rating": 4.8,
+  "userRatingCount": 22,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=7132067597141781100&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1529425,
+   "longitude": 129.0595638
+  },
+  "types": [
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "store",
+  "cid": "7132067597141781100",
+  "cat_label": "母嬰用品",
+  "distance_m": 562.5
+ },
+ "母嬰用品::17239239406432281577": {
+  "place_id": "ChIJ1Ye4r3jraDUR6eNPGucUPu8",
+  "name": "J-Goods Busan Seomyeon",
+  "address": "南韓 Busan, Busanjin District, Sincheon-daero 50beon-gil, 65 지하 1층",
+  "rating": 4.1,
+  "userRatingCount": 63,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=17239239406432281577&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1536727,
+   "longitude": 129.05980359999998
+  },
+  "types": [
+   "association_or_organization",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "association_or_organization",
+  "cid": "17239239406432281577",
+  "cat_label": "母嬰用品",
+  "distance_m": 481.3
+ },
+ "母嬰用品::9029342694230598707": {
+  "place_id": "ChIJtQCQJH_raDURMyTiRFerTn0",
+  "name": "보드게임카페 미니빌 서면점",
+  "address": "南韓 Busan, Busanjin District, Jungang-daero 692beon-gil, 33 4층",
+  "rating": 4.3,
+  "userRatingCount": 38,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=9029342694230598707&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.15466,
+   "longitude": 129.061075
+  },
+  "types": [
+   "toy_store",
+   "association_or_organization",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "association_or_organization",
+  "cid": "9029342694230598707",
+  "cat_label": "母嬰用品",
+  "distance_m": 391.9
+ },
+ "母嬰用品::7916888562990446905": {
+  "place_id": "ChIJ9Q5OwniTaDUROfll2zNw3m0",
+  "name": "토이저러스",
+  "address": "1393 Jungang-daero, Dongnae-gu, Busan, 南韓",
+  "rating": 4.2,
+  "userRatingCount": 100,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=7916888562990446905&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.211596799999995,
+   "longitude": 129.0778067
+  },
+  "types": [
+   "toy_store",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "toy_store",
+  "cid": "7916888562990446905",
+  "cat_label": "母嬰用品",
+  "distance_m": 6182.7
+ },
+ "母嬰用品::17473932308464579375": {
+  "place_id": "ChIJATKx-i3raDURL7NAi9rgf_I",
+  "name": "리프패럿 시민공원점",
+  "address": "南韓 Busan, Busanjin District, Saessak-ro, 87 리프패럿 2층",
+  "rating": 4.3,
+  "userRatingCount": 29,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=17473932308464579375&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.164625799999996,
+   "longitude": 129.0531644
+  },
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "cafe",
+  "cid": "17473932308464579375",
+  "cat_label": "母嬰用品",
+  "distance_m": 946.5
+ }
+}
