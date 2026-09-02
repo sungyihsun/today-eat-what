@@ -328,12 +328,12 @@
   "types": [
    "gift_shop",
    "home_goods_store",
-   "clothing_store",
-   "supplier",
-   "store",
    "manufacturer",
    "service",
+   "supplier",
    "point_of_interest",
+   "clothing_store",
+   "store",
    "establishment"
   ],
   "primaryType": "store",
@@ -356,9 +356,9 @@
   "types": [
    "gift_shop",
    "home_goods_store",
-   "store",
    "service",
    "point_of_interest",
+   "store",
    "establishment"
   ],
   "primaryType": "gift_shop",
@@ -405,9 +405,9 @@
    "art_studio",
    "gift_shop",
    "jewelry_store",
-   "store",
    "service",
    "point_of_interest",
+   "store",
    "establishment"
   ],
   "primaryType": "jewelry_store",
@@ -634,8 +634,8 @@
   "types": [
    "massage_spa",
    "tourist_attraction",
-   "massage",
    "spa",
+   "massage",
    "service",
    "point_of_interest",
    "establishment"
@@ -659,13 +659,13 @@
   },
   "types": [
    "tourist_attraction",
+   "storage",
    "tour_agency",
    "travel_agency",
-   "storage",
-   "store",
    "manufacturer",
    "service",
    "point_of_interest",
+   "store",
    "establishment"
   ],
   "primaryType": "service",
@@ -736,9 +736,9 @@
    "art_studio",
    "gift_shop",
    "jewelry_store",
-   "store",
    "service",
    "point_of_interest",
+   "store",
    "establishment"
   ],
   "primaryType": "jewelry_store",
@@ -922,8 +922,8 @@
    "supermarket",
    "grocery_store",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -945,8 +945,8 @@
    "longitude": 129.0665473
   },
   "types": [
-   "service",
    "point_of_interest",
+   "service",
    "establishment"
   ],
   "primaryType": "service",
@@ -971,8 +971,8 @@
    "supermarket",
    "grocery_store",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -998,8 +998,8 @@
    "supermarket",
    "grocery_store",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -1121,5 +1121,338 @@
   "cid": "17473932308464579375",
   "cat_label": "母嬰用品",
   "distance_m": 946.5
+ },
+ "母嬰用品::9124731878290191285": {
+  "place_id": "ChIJeTvBZwTraDURtXMrZEyPoX4",
+  "name": "이블래 서면점(부산)",
+  "address": "南韓 Busan, 번 1층 38 이블래 KR 부산광역시 부산진구 중앙대로 680번가길",
+  "rating": 5,
+  "userRatingCount": 487,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=9124731878290191285&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1550551,
+   "longitude": 129.060902
+  },
+  "types": [
+   "clothing_store",
+   "womens_clothing_store",
+   "shopping_mall",
+   "point_of_interest",
+   "store",
+   "establishment"
+  ],
+  "primaryType": "clothing_store",
+  "cid": "9124731878290191285",
+  "cat_label": "母嬰用品",
+  "distance_m": 345.2
+ },
+ "母嬰用品::16393623889335740992": {
+  "place_id": "ChIJAa0-47LraDURQOo2-RHageM",
+  "name": "서면 남녀공학",
+  "address": "南韓 Busan, Busanjin District, Jungang-daero 702beon-gil, 43 1층 남녀공학",
+  "rating": 4.9,
+  "userRatingCount": 250,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=16393623889335740992&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1556508,
+   "longitude": 129.0616302
+  },
+  "types": [
+   "clothing_store",
+   "point_of_interest",
+   "store",
+   "establishment"
+  ],
+  "primaryType": "clothing_store",
+  "cid": "16393623889335740992",
+  "cat_label": "母嬰用品",
+  "distance_m": 314.7
+ },
+ "母嬰用品::12825944178092956859": {
+  "place_id": "ChIJhX4bZ2XraDURu1w4dEbo_rE",
+  "name": "ZARA 서면점",
+  "address": "33 Jungang-daero 702beon-gil, Busanjin District, Busan, 南韓",
+  "rating": 4.2,
+  "userRatingCount": 405,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=12825944178092956859&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1555564,
+   "longitude": 129.0610716
+  },
+  "types": [
+   "clothing_store",
+   "point_of_interest",
+   "store",
+   "establishment"
+  ],
+  "primaryType": "clothing_store",
+  "cid": "12825944178092956859",
+  "cat_label": "母嬰用品",
+  "distance_m": 299.0
+ },
+ "母嬰用品::4919105353406239141": {
+  "place_id": "ChIJZc0HfQDraDURpVGAokEsREQ",
+  "name": "고생끝소금구이 서면본점 Gosaengkkeut Sogeumgui : Korean BBQ restaurant",
+  "address": "39 Seomyeonmunhwa-ro, Busanjin District, Busan, 南韓",
+  "rating": 5,
+  "userRatingCount": 27,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=4919105353406239141&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1605755,
+   "longitude": 129.0553993
+  },
+  "types": [
+   "korean_barbecue_restaurant",
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "korean_barbecue_restaurant",
+  "cid": "4919105353406239141",
+  "cat_label": "母嬰用品",
+  "distance_m": 484.6
+ },
+ "母嬰用品::2071636274966684302": {
+  "place_id": "ChIJVdv5pHnraDURjuIzUTfuvxw",
+  "name": "버거킹 부산서면일번가점",
+  "address": "南韓 Busan, Busanjin District, Seomyeon-ro, 48 현경메디컬빌딩 1F",
+  "rating": 4.1,
+  "userRatingCount": 163,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=2071636274966684302&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1549495,
+   "longitude": 129.0580357
+  },
+  "types": [
+   "fast_food_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "fast_food_restaurant",
+  "cid": "2071636274966684302",
+  "cat_label": "母嬰用品",
+  "distance_m": 371.4
+ },
+ "母嬰用品::8796699005345176760": {
+  "place_id": "ChIJdy62a2XraDURuJyhcSMnFHo",
+  "name": "The Street of Youth",
+  "address": "동 Jungang-daero 702beon-gil, 부전2 Busanjin District, Busan, 南韓",
+  "rating": 4.4,
+  "userRatingCount": 150,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=8796699005345176760&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1554358,
+   "longitude": 129.0612696
+  },
+  "types": [
+   "tourist_attraction",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "tourist_attraction",
+  "cid": "8796699005345176760",
+  "cat_label": "母嬰用品",
+  "distance_m": 318.8
+ },
+ "母嬰用品::15631905806265679754": {
+  "place_id": "ChIJS2T7OHDraDURiv_UaIKv79g",
+  "name": "맘스터치 서면1번가점",
+  "address": "南韓 Busan, Busanjin District, Jungang-daero, 687 1층",
+  "rating": 4.1,
+  "userRatingCount": 145,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=15631905806265679754&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.154069899999996,
+   "longitude": 129.0588974
+  },
+  "types": [
+   "fast_food_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "fast_food_restaurant",
+  "cid": "15631905806265679754",
+  "cat_label": "母嬰用品",
+  "distance_m": 443.1
+ },
+ "母嬰用品::16537080706620353210": {
+  "place_id": "ChIJR8v5L1rraDURumoSFEmDf-U",
+  "name": "儂特利 西面1號街店",
+  "address": "南韓 Busan, Busanjin District, Seomyeon-ro, 46 1층",
+  "rating": 4.2,
+  "userRatingCount": 88,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=16537080706620353210&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1548179,
+   "longitude": 129.0580411
+  },
+  "types": [
+   "fast_food_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "fast_food_restaurant",
+  "cid": "16537080706620353210",
+  "cat_label": "母嬰用品",
+  "distance_m": 384.6
+ },
+ "母嬰用品::10518337765701214713": {
+  "place_id": "ChIJdTO-03HraDUR-WEyKHik-JE",
+  "name": "유가네 닭갈비 서면롯데점",
+  "address": "50 Seomyeon-ro, Busanjin District, Busan, 南韓",
+  "rating": 4,
+  "userRatingCount": 241,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=10518337765701214713&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1551738,
+   "longitude": 129.0580517
+  },
+  "types": [
+   "chicken_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "chicken_restaurant",
+  "cid": "10518337765701214713",
+  "cat_label": "母嬰用品",
+  "distance_m": 348.2
+ },
+ "母嬰用品::10213205870084681921": {
+  "place_id": "ChIJkZyB_2_raDURwfBUgKCYvI0",
+  "name": "Mom’s Touch - Busan Seomyeon Branch",
+  "address": "25 2F Jungang-daero 692beon-gil, Busanjin District, Busan, 南韓",
+  "rating": 4,
+  "userRatingCount": 134,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=10213205870084681921&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1545898,
+   "longitude": 129.0606249
+  },
+  "types": [
+   "fast_food_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "fast_food_restaurant",
+  "cid": "10213205870084681921",
+  "cat_label": "母嬰用品",
+  "distance_m": 388.4
+ },
+ "母嬰用品::14095424340496893065": {
+  "place_id": "ChIJu_PrNNrraDURiUS2xcEBncM",
+  "name": "우아숯불가든 | Seomyeon Korean Galbi Restaurant",
+  "address": "46 1 Jungang-daero 691beon-gil, Busanjin District, Busan, 南韓",
+  "rating": 4.9,
+  "userRatingCount": 55,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=14095424340496893065&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1545492,
+   "longitude": 129.0565289
+  },
+  "types": [
+   "korean_barbecue_restaurant",
+   "barbecue_restaurant",
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "korean_barbecue_restaurant",
+  "cid": "14095424340496893065",
+  "cat_label": "母嬰用品",
+  "distance_m": 479.9
+ },
+ "母嬰用品::6049360019925831984": {
+  "place_id": "ChIJvxtenBnraDURMBEhIuOk81M",
+  "name": "다이나믹메이즈 부산점",
+  "address": "南韓 Busan, Busanjin District, Jungang-daero, 672 삼정타워 10층",
+  "rating": 5,
+  "userRatingCount": 1119,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=6049360019925831984&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1530115,
+   "longitude": 129.05960579999999
+  },
+  "types": [
+   "amusement_park",
+   "amusement_center",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "amusement_center",
+  "cid": "6049360019925831984",
+  "cat_label": "母嬰用品",
+  "distance_m": 554.8
+ },
+ "母嬰用品::8002910580802890746": {
+  "place_id": "ChIJw_qJHnDraDUR-qv4ocUMEG8",
+  "name": "Seoul Escape Room Seomyeon",
+  "address": "南韓 Busan, Busanjin District, Seojeon-ro 10beon-gil, 61 3층 쥬디스태화신관",
+  "rating": 5,
+  "userRatingCount": 188,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=8002910580802890746&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.1551372,
+   "longitude": 129.0602149
+  },
+  "types": [
+   "amusement_center",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "amusement_center",
+  "cid": "8002910580802890746",
+  "cat_label": "母嬰用品",
+  "distance_m": 321.8
+ },
+ "母嬰用品::6114831660264473526": {
+  "place_id": "ChIJR_AMB2_raDURtkNgS_8-3FQ",
+  "name": "Seomyeon",
+  "address": "지하 730 Jungang-daero, Busanjin District, Busan, 南韓",
+  "rating": 4.2,
+  "userRatingCount": 321,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=6114831660264473526&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 35.15781570000001,
+   "longitude": 129.0600331
+  },
+  "types": [
+   "subway_station",
+   "transit_station",
+   "transportation_service",
+   "point_of_interest",
+   "establishment"
+  ],
+  "primaryType": "subway_station",
+  "cid": "6114831660264473526",
+  "cat_label": "母嬰用品",
+  "distance_m": 36.6
  }
 }
