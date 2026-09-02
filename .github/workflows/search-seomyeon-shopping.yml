@@ -28,13 +28,41 @@ jobs:
           test -n "$GOOGLE_PLACES_API_KEY"
           python3 scripts/busan-trip/search_seomyeon_shopping.py
 
+      - name: Pick final 逛街/景點 and fetch details
+        env:
+          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+        run: |
+          # 母嬰用品 deliberately excluded here — two rounds (7 Korean query
+          # phrasings total, plus the baby_store type) turned up zero genuine
+          # dedicated baby/maternity stores near 西面, only false positives
+          # (a subway station, ZARA, an escape room, fast-food chains) —
+          # holding off rather than forcing wrong picks in; see commit
+          # message / conversation for the follow-up on this category.
+          python3 -c "
+          import json
+          selected = {
+            '逛街': [
+              '西面地下街', '西面市場', '樂天百貨', '부전몰 - 서면지하도상가',
+              '釜田市場', '삼정타워', '釜田人參市場',
+            ],
+            '景點': [
+              '田浦咖啡街', '전포공구길 (전리단길)', '서면먹자골목',
+              '부산포민속박물관', '宋象賢 廣場', '거울연못', '釜山市民公園',
+            ],
+          }
+          json.dump(selected, open('candidate-results/seomyeon-shopping-final-list.json', 'w'), ensure_ascii=False, indent=2)
+          for k, v in selected.items():
+              print(k, len(v))
+          "
+          python3 scripts/busan-trip/fetch_details_seomyeon_shopping.py
+
       - name: Publish candidate results to DEV
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add candidate-results/seomyeon-shopping-candidates.json
+          git add candidate-results/seomyeon-shopping-candidates.json candidate-results/seomyeon-shopping-final-list.json candidate-results/seomyeon-shopping-details.json
           git diff --cached --quiet && exit 0
           git commit -m "Publish Seomyeon shopping/attraction/baby-store candidates"
           for i in 1 2 3 4 5; do
