@@ -466,8 +466,8 @@
   },
   "types": [
    "tex_mex_restaurant",
-   "taco_restaurant",
    "barbecue_restaurant",
+   "taco_restaurant",
    "american_restaurant",
    "restaurant",
    "food",
@@ -938,8 +938,8 @@
   },
   "types": [
    "korean_restaurant",
-   "sushi_restaurant",
    "tourist_attraction",
+   "sushi_restaurant",
    "bar",
    "japanese_restaurant",
    "restaurant",
@@ -1253,8 +1253,8 @@
   "types": [
    "dessert_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "7763532555757233199",
@@ -1275,8 +1275,8 @@
   "types": [
    "noodle_shop",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "17875480895709150251",
@@ -1297,8 +1297,8 @@
   "types": [
    "chicken_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "6882042910587409409",
@@ -1320,8 +1320,8 @@
    "indian_restaurant",
    "halal_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "2666199162583714782",
@@ -1341,8 +1341,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "16587963154613251973",
@@ -1367,8 +1367,8 @@
    "food_store",
    "store",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "cid": "14478813289140604757",
