@@ -13,7 +13,7 @@ import json, os, re, time, urllib.request, urllib.error
 OUT_PATH = os.environ.get("CHEONGSAPO_CANDIDATES_PATH", "candidate-results/cheongsapo-candidates.json")
 ANCHOR_OUT_PATH = os.environ.get("CHEONGSAPO_ANCHOR_PATH", "candidate-results/cheongsapo-anchor.json")
 
-STATION_QUERY = "청사포"
+STATION_QUERY = "청사포 부산"
 RADIUS_M = 900.0
 MIN_RATING = 4.0
 MIN_REVIEWS = 15
@@ -68,19 +68,30 @@ def haversine_m(lat1, lng1, lat2, lng2):
     return 2 * R * asin(sqrt(a))
 
 
-# Phase 1: resolve 청사포 itself.
-data = search_text(STATION_QUERY)
-places = data.get('places', [])
-if not places:
-    raise SystemExit(f"COULD NOT RESOLVE: {STATION_QUERY} -> {data}")
-place = places[0]
-ploc = place.get('location', {})
-anchor = {
-    'resolved_name': place.get('displayName', {}).get('text', ''),
-    'address': place.get('formattedAddress', ''),
-    'lat': ploc.get('latitude'),
-    'lng': ploc.get('longitude'),
-}
+# Phase 1: resolve 청사포 itself. "청사포" alone resolved to nothing in an
+# earlier run (Google's index apparently needs more context for this small
+# village name) — fall back to a hardcoded center (the same point used as
+# the 靑沙浦 hub in scripts/busan-trip/search_busan_categories.py's HUBS
+# dict) if every text-search phrasing still comes up empty.
+FALLBACK = {'lat': 35.1656, 'lng': 129.1774}
+anchor = None
+for q in [STATION_QUERY, "청사포항", "청사포 다무락길"]:
+    data = search_text(q)
+    places = data.get('places', [])
+    if places:
+        place = places[0]
+        ploc = place.get('location', {})
+        anchor = {
+            'resolved_name': place.get('displayName', {}).get('text', ''),
+            'address': place.get('formattedAddress', ''),
+            'lat': ploc.get('latitude'),
+            'lng': ploc.get('longitude'),
+        }
+        break
+    print(f"query '{q}' resolved nothing -> {data}")
+if anchor is None:
+    print("all text-search phrasings failed — using hardcoded 靑沙浦 hub fallback")
+    anchor = {'resolved_name': '靑沙浦 (fallback hub)', 'address': '', **FALLBACK}
 print("resolved 靑沙浦 ->", anchor)
 os.makedirs(os.path.dirname(ANCHOR_OUT_PATH), exist_ok=True)
 json.dump(anchor, open(ANCHOR_OUT_PATH, 'w'), ensure_ascii=False, indent=1)
