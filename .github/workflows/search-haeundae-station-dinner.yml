@@ -28,13 +28,30 @@ jobs:
           test -n "$GOOGLE_PLACES_API_KEY"
           python3 scripts/busan-trip/search_haeundae_station_dinner.py
 
+      - name: Pick final 8 and fetch details
+        env:
+          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+        run: |
+          # Hand-picked from the 61 raw candidates: closest, highest-quality,
+          # and deliberately not all-BBQ (fish cake / stone-pot / pork-soup /
+          # Japanese mixed in) even though Korean BBQ genuinely dominates this
+          # street. "Gunamroast" (111m, would otherwise be a top pick) is
+          # already in the site from an earlier batch — skipped as a
+          # duplicate rather than re-added.
+          python3 -c "
+          import json
+          final = ['364', 'Goban Sikdang', '古來思魚糕 海雲臺店', 'Ondon', 'Solsot Haeundae', '廣安木 海雲台店', '海雲臺五福豬肉湯飯', '海木']
+          json.dump(final, open('candidate-results/haeundae-station-dinner-final-list.json', 'w'), ensure_ascii=False, indent=2)
+          "
+          python3 scripts/busan-trip/fetch_details_haeundae_station_dinner.py
+
       - name: Publish candidate results to DEV
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add candidate-results/haeundae-station-anchor.json candidate-results/haeundae-station-dinner-candidates.json
+          git add candidate-results/haeundae-station-anchor.json candidate-results/haeundae-station-dinner-candidates.json candidate-results/haeundae-station-dinner-final-list.json candidate-results/haeundae-station-dinner-details.json
           git diff --cached --quiet && exit 0
           git commit -m "Publish Haeundae Station dinner candidates"
           for i in 1 2 3 4 5; do
