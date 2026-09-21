@@ -34,10 +34,10 @@
   "types": [
    "restaurant",
    "health_food_store",
-   "health",
    "food_store",
-   "store",
    "food",
+   "store",
+   "health",
    "point_of_interest",
    "establishment"
   ],
@@ -328,8 +328,8 @@
    "meal_takeaway",
    "restaurant",
    "food",
-   "point_of_interest",
    "service",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "竹北"
@@ -473,8 +473,8 @@
   "types": [
    "gym",
    "sports_activity_location",
-   "health",
    "point_of_interest",
+   "health",
    "establishment"
   ],
   "area_label": "竹北"
@@ -537,8 +537,8 @@
   },
   "types": [
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
