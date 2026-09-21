@@ -35,10 +35,10 @@
    "restaurant",
    "health_food_store",
    "food_store",
-   "food",
    "store",
-   "health",
+   "food",
    "point_of_interest",
+   "health",
    "establishment"
   ],
   "area_label": "竹北"
@@ -514,8 +514,8 @@
   },
   "types": [
    "salad_shop",
-   "brunch_restaurant",
    "mediterranean_restaurant",
+   "brunch_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -537,8 +537,8 @@
   },
   "types": [
    "food_store",
-   "food",
    "store",
+   "food",
    "point_of_interest",
    "establishment"
   ],
