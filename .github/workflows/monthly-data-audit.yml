@@ -1,0 +1,85 @@
+name: Monthly restaurant data audit (photos, hours, closures)
+
+# Runs on the 1st of every month. Google's Place Photo URLs expire after some
+# weeks, and restaurants' hours/open-status genuinely change over time, so
+# this re-verifies every restaurant against live Google Places data and
+# pushes any fixes straight through DEV -> QAS -> PRD, since nobody is
+# watching a scheduled job to type "上QAS"/"上PRD" by hand. Closed
+# businesses are only ever flagged in the run log for a human to remove —
+# never auto-deleted.
+on:
+  schedule:
+    - cron: '0 3 1 * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out DEV
+        uses: actions/checkout@v4
+        with:
+          ref: DEV
+          fetch-depth: 0
+
+      - name: Run monthly audit (photos + hours + business status)
+        env:
+          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+        run: |
+          test -n "$GOOGLE_PLACES_API_KEY"
+          python3 scripts/monthly_data_audit.py
+
+      - name: Apply fixes to index.html and CSV
+        run: python3 scripts/apply_monthly_audit.py | tee /tmp/apply_output.txt
+
+      - name: Validate index.html syntax
+        run: |
+          python3 -c "
+          import re
+          html = open('index.html', encoding='utf-8').read()
+          m = re.search(r'<script>(.*)</script>', html, re.S)
+          open('/tmp/extracted.js','w',encoding='utf-8').write(m.group(1))
+          "
+          node --check /tmp/extracted.js
+
+      - name: Commit and push to DEV
+        id: commit
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html supabase/restaurants-import.csv candidate-results/monthly-audit-report.json
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+          {
+            echo "每月資料審查：更新過期相片/營業時間，詳見 candidate-results/monthly-audit-report.json"
+            echo ""
+            cat /tmp/apply_output.txt
+          } > /tmp/commit_msg.txt
+          git commit -F /tmp/commit_msg.txt
+          for i in 1 2 3 4 5; do
+            git push && break
+            echo "push rejected, rebasing onto latest DEV and retrying ($i)"
+            git fetch origin DEV
+            git rebase origin/DEV
+          done
+
+      - name: Fast-forward QAS and PRD
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git fetch origin QAS PRD
+          git checkout -B QAS origin/QAS
+          git merge origin/DEV --ff-only
+          git push origin QAS
+          git checkout -B PRD origin/PRD
+          git merge origin/QAS --ff-only
+          git push origin PRD
