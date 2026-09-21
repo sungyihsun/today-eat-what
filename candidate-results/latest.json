@@ -4,7 +4,7 @@
   "name": "72度C舒肥健康餐/水煮餐 竹北仁義店",
   "address": "302台灣新竹縣竹北市三民路29號",
   "rating": 4.2,
-  "userRatingCount": 150,
+  "userRatingCount": 151,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
   "googleMapsUri": "https://maps.google.com/?cid=14311267835983133727&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
@@ -19,73 +19,12 @@
   ],
   "area_label": "竹北"
  },
- "13034892887054868964": {
-  "place_id": "ChIJGc2drpM3aDQR5OEr2gQ-5bQ",
-  "name": "非晉餐廚（竹北民權店）-竹北低卡餐盒|低脂便當|健身餐盒|健康餐盒|商務便當|必吃便當|活動餐盒|外帶餐盒",
-  "address": "302台灣新竹縣竹北市文化里民權街56號",
-  "rating": 4.9,
-  "userRatingCount": 426,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=13034892887054868964&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.832235999999998,
-   "longitude": 121.01202300000001
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "竹北"
- },
- "1804868817673434771": {
-  "place_id": "ChIJzRV9cV43aDQRk7aah6AuDBk",
-  "name": "輕島 Isla Vita 精緻健康餐盒 竹北台元店",
-  "address": "轉角處, No. 296 -1 號博愛街福德里竹北市新竹縣台灣 302",
-  "rating": 4.7,
-  "userRatingCount": 283,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=1804868817673434771&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.834575899999997,
-   "longitude": 121.00766249999998
-  },
-  "types": [
-   "meal_takeaway",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "竹北"
- },
- "3576828033029801959": {
-  "place_id": "ChIJmUMjBl43aDQR54dmKyVyozE",
-  "name": "食Go易健康概念餐盒 竹北自強南店-竹北低卡餐盒|低脂便當|健身餐盒|健康餐盒|活動餐盒|外帶餐盒|舒肥餐|舒肥料理",
-  "address": "302042台灣新竹縣竹北市鹿場里自強南路93號",
-  "rating": 4.3,
-  "userRatingCount": 122,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=3576828033029801959&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.8164657,
-   "longitude": 121.02585329999998
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "竹北"
- },
  "2378805720538132434": {
   "place_id": "ChIJFdBRyBI3aDQR0q9XCjM3AyE",
   "name": "MR. ENERGY 能量先生-竹北店/外送專門店|低卡餐盒|健康餐盒|會議便當|商業客製|午餐首選",
   "address": "302台灣新竹縣竹北市福德里三民路264號",
   "rating": 4.2,
-  "userRatingCount": 330,
+  "userRatingCount": 333,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
   "googleMapsUri": "https://maps.google.com/?cid=2378805720538132434&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
@@ -122,12 +61,32 @@
   ],
   "area_label": "竹北"
  },
+ "3576828033029801959": {
+  "place_id": "ChIJmUMjBl43aDQR54dmKyVyozE",
+  "name": "食Go易健康概念餐盒 竹北自強南店-竹北低卡餐盒|低脂便當|健身餐盒|健康餐盒|活動餐盒|外帶餐盒|舒肥餐|舒肥料理",
+  "address": "302042台灣新竹縣竹北市鹿場里自強南路93號",
+  "rating": 4.3,
+  "userRatingCount": 123,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=3576828033029801959&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.8164657,
+   "longitude": 121.02585329999998
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "竹北"
+ },
  "7983392474393000419": {
   "place_id": "ChIJwd-Esw03aDQR47m4Wii1ym4",
   "name": "Miss Energy 能量小姐 竹北高鐵直營門市 低卡餐盒|低脂便當|健身餐盒|健康餐盒|商務便當|必吃便當|減脂餐|低卡美食",
   "address": "302台灣新竹縣竹北市東平里嘉豐南路二段23號",
-  "rating": 4.3,
-  "userRatingCount": 154,
+  "rating": 4.2,
+  "userRatingCount": 157,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
   "googleMapsUri": "https://maps.google.com/?cid=7983392474393000419&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
@@ -148,7 +107,7 @@
   "name": "有飯食光-三民店",
   "address": "302台灣新竹縣竹北市竹仁里三民路279號",
   "rating": 4.3,
-  "userRatingCount": 405,
+  "userRatingCount": 411,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
   "googleMapsUri": "https://maps.google.com/?cid=1834975162666419869&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
@@ -158,9 +117,70 @@
   "types": [
    "restaurant",
    "health_food_store",
-   "health",
    "food_store",
    "store",
+   "health",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "竹北"
+ },
+ "1804868817673434771": {
+  "place_id": "ChIJzRV9cV43aDQRk7aah6AuDBk",
+  "name": "輕島 Isla Vita 精緻健康餐盒 竹北台元店",
+  "address": "轉角處, No. 296 -1 號博愛街福德里竹北市新竹縣台灣 302",
+  "rating": 4.7,
+  "userRatingCount": 283,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=1804868817673434771&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.834575899999997,
+   "longitude": 121.00766249999998
+  },
+  "types": [
+   "meal_takeaway",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "竹北"
+ },
+ "13034892887054868964": {
+  "place_id": "ChIJGc2drpM3aDQR5OEr2gQ-5bQ",
+  "name": "非晉餐廚（竹北民權店）-竹北低卡餐盒|低脂便當|健身餐盒|健康餐盒|商務便當|必吃便當|活動餐盒|外帶餐盒",
+  "address": "302台灣新竹縣竹北市文化里民權街56號",
+  "rating": 4.9,
+  "userRatingCount": 428,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=13034892887054868964&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.832235999999998,
+   "longitude": 121.01202300000001
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "竹北"
+ },
+ "10578052732456204859": {
+  "place_id": "ChIJYzlQ6-43aDQRO_pmTerKzJI",
+  "name": "野餐，日-健康餐盒（新竹竹北店）",
+  "address": "302045台灣新竹縣竹北市福德里博愛街337號",
+  "rating": 4.8,
+  "userRatingCount": 255,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=10578052732456204859&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.8359924,
+   "longitude": 121.00809840000001
+  },
+  "types": [
+   "restaurant",
    "food",
    "point_of_interest",
    "establishment"
@@ -172,7 +192,7 @@
   "name": "健人餐廚（成功店） ~原 健人餐廚嘉豐店",
   "address": "302台灣新竹縣竹北市鹿場里成功一街26號",
   "rating": 4.2,
-  "userRatingCount": 361,
+  "userRatingCount": 362,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
   "googleMapsUri": "https://maps.google.com/?cid=11738633199746971358&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
@@ -199,26 +219,6 @@
   "location": {
    "latitude": 24.8216556,
    "longitude": 121.02672249999998
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "竹北"
- },
- "13407257684730130241": {
-  "place_id": "ChIJI1DE2mk3aDQRQS93XtQlELo",
-  "name": "柳弗擇食餐館｜健康餐盒 美食",
-  "address": "302台灣新竹縣竹北市竹義里中正西路24號",
-  "rating": 4.7,
-  "userRatingCount": 55,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=13407257684730130241&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.8391712,
-   "longitude": 121.00473219999998
   },
   "types": [
    "restaurant",
@@ -268,57 +268,17 @@
   ],
   "area_label": "竹北"
  },
- "2525375987706487865": {
-  "place_id": "ChIJBeKcvtQ3aDQROeSLrxTwCyM",
-  "name": "SICO料理所- 竹北高鐵店",
-  "address": "302台灣新竹縣竹北市東平里隘口五街52號",
-  "rating": 4.2,
-  "userRatingCount": 190,
+ "13407257684730130241": {
+  "place_id": "ChIJI1DE2mk3aDQRQS93XtQlELo",
+  "name": "柳弗擇食餐館｜健康餐盒 美食",
+  "address": "302台灣新竹縣竹北市竹義里中正西路24號",
+  "rating": 4.7,
+  "userRatingCount": 55,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=2525375987706487865&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=13407257684730130241&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.8033981,
-   "longitude": 121.03435019999999
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "竹北"
- },
- "6187519778942424047": {
-  "place_id": "ChIJ_VBupYA3aDQR7xORwHR83lU",
-  "name": "桔滿餐廚 健康餐盒-客製化餐盒 竹北旗艦店",
-  "address": "302台灣新竹縣竹北市新國里中正西路279號",
-  "rating": 4.2,
-  "userRatingCount": 97,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=6187519778942424047&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.8425285,
-   "longitude": 120.9966612
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "竹北"
- },
- "10690936986403908060": {
-  "place_id": "ChIJgS33KcQ3aDQR3KmwzovWXZQ",
-  "name": "好好波奇",
-  "address": "302台灣新竹縣竹北市文化里三民路89號",
-  "rating": 4.9,
-  "userRatingCount": 153,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=10690936986403908060&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.8333729,
-   "longitude": 121.0175813
+   "latitude": 24.8391712,
+   "longitude": 121.00473219999998
   },
   "types": [
    "restaurant",
@@ -341,10 +301,10 @@
    "longitude": 121.0263727
   },
   "types": [
-   "health",
    "consultant",
-   "point_of_interest",
    "service",
+   "health",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "竹北"
@@ -353,8 +313,8 @@
   "place_id": "ChIJMQZNagA3aDQRiXhzUoMCRSo",
   "name": "啾咪健康煮（麻辣魯味煮）",
   "address": "302台灣新竹縣竹北市福德里三民路449號",
-  "rating": 4.1,
-  "userRatingCount": 26,
+  "rating": 4.2,
+  "userRatingCount": 28,
   "priceLevel": null,
   "googleMapsUri": "https://maps.google.com/?cid=3045843486033279113&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
@@ -366,8 +326,51 @@
    "meal_takeaway",
    "restaurant",
    "food",
-   "point_of_interest",
    "service",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "竹北"
+ },
+ "12108144635098791199": {
+  "place_id": "ChIJc4jxzFo3aDQRH30d2GTFCKg",
+  "name": "樂心料理 竹北縣政店",
+  "address": "302台灣新竹縣竹北市斗崙里縣政三街130號",
+  "rating": 4,
+  "userRatingCount": 269,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=12108144635098791199&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.8243117,
+   "longitude": 121.0139748
+  },
+  "types": [
+   "meal_delivery",
+   "food_delivery",
+   "meal_takeaway",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "竹北"
+ },
+ "6187519778942424047": {
+  "place_id": "ChIJ_VBupYA3aDQR7xORwHR83lU",
+  "name": "桔滿餐廚 健康餐盒-客製化餐盒 竹北旗艦店",
+  "address": "302台灣新竹縣竹北市新國里中正西路279號",
+  "rating": 4.2,
+  "userRatingCount": 97,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=6187519778942424047&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.8425285,
+   "longitude": 120.9966612
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "竹北"
@@ -398,8 +401,8 @@
   "name": "彩碗 ColorBowl Poke竹北博愛店",
   "address": "302台灣新竹縣竹北市北崙里博愛街147號1樓",
   "rating": 4.7,
-  "userRatingCount": 733,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 734,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
   "googleMapsUri": "https://maps.google.com/?cid=7174403237874425368&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
    "latitude": 24.8314541,
@@ -413,17 +416,17 @@
   ],
   "area_label": "竹北"
  },
- "5734671018626315840": {
-  "place_id": "ChIJHa19VkU3aDQRQPbyaOiklU8",
-  "name": "蛋白盒子健康低卡餐盒-竹北嘉豐店",
-  "address": "302台灣新竹縣竹北市東平里嘉豐十一路二段10號",
-  "rating": 4.3,
-  "userRatingCount": 150,
+ "10690936986403908060": {
+  "place_id": "ChIJgS33KcQ3aDQR3KmwzovWXZQ",
+  "name": "好好波奇",
+  "address": "302台灣新竹縣竹北市文化里三民路89號",
+  "rating": 4.9,
+  "userRatingCount": 153,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=5734671018626315840&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=10690936986403908060&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.8070168,
-   "longitude": 121.03463979999998
+   "latitude": 24.8333729,
+   "longitude": 121.0175813
   },
   "types": [
    "restaurant",
@@ -433,21 +436,22 @@
   ],
   "area_label": "竹北"
  },
- "10578052732456204859": {
-  "place_id": "ChIJYzlQ6-43aDQRO_pmTerKzJI",
-  "name": "野餐，日-健康餐盒（新竹竹北店）",
-  "address": "302045台灣新竹縣竹北市福德里博愛街337號",
-  "rating": 4.9,
-  "userRatingCount": 248,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=10578052732456204859&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "15069260431596506793": {
+  "place_id": "ChIJ__xhMzE3aDQRqc4orYXEINE",
+  "name": "肌動力 JIDONGLI 肌力體能訓練中心",
+  "address": "302台灣新竹縣竹北市仁德街15號",
+  "rating": 5,
+  "userRatingCount": 222,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=15069260431596506793&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.8359924,
-   "longitude": 121.00809840000001
+   "latitude": 24.836340099999997,
+   "longitude": 121.0113762
   },
   "types": [
-   "restaurant",
-   "food",
+   "gym",
+   "sports_activity_location",
+   "health",
    "point_of_interest",
    "establishment"
   ],
@@ -496,77 +500,12 @@
   ],
   "area_label": "竹北"
  },
- "15069260431596506793": {
-  "place_id": "ChIJ__xhMzE3aDQRqc4orYXEINE",
-  "name": "肌動力 JIDONGLI 肌力體能訓練中心",
-  "address": "302台灣新竹縣竹北市仁德街15號",
-  "rating": 5,
-  "userRatingCount": 222,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=15069260431596506793&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.836340099999997,
-   "longitude": 121.0113762
-  },
-  "types": [
-   "gym",
-   "sports_activity_location",
-   "health",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "竹北"
- },
- "13792514911453316773": {
-  "place_id": "ChIJo4V0MzM3aDQRpQZ0cDzbaL8",
-  "name": "Uncle Tacos 墨西哥健康餐/竹北美食/異國美食",
-  "address": "302台灣新竹縣竹北市仁和街63號旁巷子內第一棟25號攤位",
-  "rating": 4.8,
-  "userRatingCount": 461,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=13792514911453316773&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.837772299999997,
-   "longitude": 121.0109164
-  },
-  "types": [
-   "taco_restaurant",
-   "snack_bar",
-   "meal_takeaway",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "竹北"
- },
- "2805303203580037227": {
-  "place_id": "ChIJ64hBWw83aDQRa0iniGZw7iY",
-  "name": "Miss Energy 能量小姐 竹北遠百直營門市",
-  "address": "302台灣新竹縣竹北市十興里勝利一路160號",
-  "rating": 4,
-  "userRatingCount": 137,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=2805303203580037227&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.821173599999998,
-   "longitude": 121.0272346
-  },
-  "types": [
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "竹北"
- },
  "4945525070017417775": {
   "place_id": "ChIJd3q5EpU2aDQRL1ItQtkIokQ",
   "name": "豆戀迷Do Re Mi -竹北三民店/外送下午茶專門店｜低卡健康｜天然養生｜團體餐點｜客製化下午茶點心｜竹北在地美食",
   "address": "302台灣新竹縣竹北市福德里三民路461號",
   "rating": 4.1,
-  "userRatingCount": 329,
+  "userRatingCount": 330,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
   "googleMapsUri": "https://maps.google.com/?cid=4945525070017417775&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
@@ -587,7 +526,7 @@
   "name": "gonnaEAT 竹北店 | 地中海概念 | 原型食物 | 健康餐廳",
   "address": "302044台灣新竹縣竹北市鹿場里自強南路36號1樓",
   "rating": 4.3,
-  "userRatingCount": 672,
+  "userRatingCount": 675,
   "priceLevel": "PRICE_LEVEL_MODERATE",
   "googleMapsUri": "https://maps.google.com/?cid=8170674276495196662&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
@@ -595,9 +534,9 @@
    "longitude": 121.0268591
   },
   "types": [
-   "salad_shop",
+   "brunch_restaurant",
    "mediterranean_restaurant",
-   "brunch_restaurant",
+   "salad_shop",
    "restaurant",
    "food",
    "point_of_interest",
@@ -605,46 +544,44 @@
   ],
   "area_label": "竹北"
  },
- "12108144635098791199": {
-  "place_id": "ChIJc4jxzFo3aDQRH30d2GTFCKg",
-  "name": "樂心料理 竹北縣政店",
-  "address": "302台灣新竹縣竹北市斗崙里縣政三街130號",
-  "rating": 4,
-  "userRatingCount": 269,
+ "17670637829868424175": {
+  "place_id": "ChIJoUmWYiE3aDQR7wvjs3u3OvU",
+  "name": "原蒸弁當-三民店",
+  "address": "302台灣新竹縣竹北市三民路259號",
+  "rating": 4.7,
+  "userRatingCount": 36,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=12108144635098791199&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=17670637829868424175&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.8243117,
-   "longitude": 121.0139748
+   "latitude": 24.833067999999997,
+   "longitude": 121.0130337
   },
   "types": [
-   "meal_delivery",
-   "food_delivery",
-   "meal_takeaway",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "竹北"
- },
- "8709006209681100143": {
-  "place_id": "ChIJHwiXg5Q2aDQRb422YgGb3Hg",
-  "name": "食·福（竹北店）已改名：原簡單生活",
-  "address": "302台灣新竹縣竹北市北崙里縣政十三路148號",
-  "rating": 4.4,
-  "userRatingCount": 990,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=8709006209681100143&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.831523500000003,
-   "longitude": 121.00825889999999
-  },
-  "types": [
-   "restaurant",
-   "brunch_restaurant",
    "food_store",
    "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "竹北"
+ },
+ "12870745994376542786": {
+  "place_id": "ChIJvZ_48Kc2aDQRQnoYLUoTnrI",
+  "name": "A kitchen 一間廚房（西式外燴、餐盒服務）",
+  "address": "302台灣新竹縣竹北市東平里嘉豐十一路二段2號",
+  "rating": 4.2,
+  "userRatingCount": 184,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=12870745994376542786&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.8073388,
+   "longitude": 121.034787
+  },
+  "types": [
+   "western_restaurant",
+   "meal_delivery",
+   "food_delivery",
+   "restaurant",
    "food",
    "point_of_interest",
    "establishment"
@@ -656,7 +593,7 @@
   "name": "戰 鬥 雞 油雞/醉雞 輕食餐盒 竹北勝利店",
   "address": "302台灣新竹縣竹北市北興里勝利十一路196號",
   "rating": 4.1,
-  "userRatingCount": 73,
+  "userRatingCount": 72,
   "priceLevel": "PRICE_LEVEL_MODERATE",
   "googleMapsUri": "https://maps.google.com/?cid=18217297398914808191&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
@@ -667,11 +604,11 @@
    "snack_bar",
    "chicken_restaurant",
    "market",
+   "school",
+   "educational_institution",
    "meal_takeaway",
    "restaurant",
    "food",
-   "school",
-   "educational_institution",
    "point_of_interest",
    "establishment"
   ],
