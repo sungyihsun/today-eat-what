@@ -1902,6 +1902,16 @@ favToggle.addEventListener('click', ()=>{
 
 let userLocation = null; // {lat,lng} once the browser grants location access
 
+// 「預設排序」在有定位時要自動依距離近到遠排序；沒有定位時則用隨機順序，
+// 而不是資料原本的固定順序，避免每次打開首頁第一間都是同一間店。
+// 用 name 當 key 記住每間店這次載入分配到的隨機值，同一次瀏覽期間排序穩定
+// （切換篩選條件不會一直跳動），但重新整理頁面（腳本重新執行）就會洗牌。
+const defaultSortRank = new Map();
+function getDefaultSortRank(name){
+  if(!defaultSortRank.has(name)) defaultSortRank.set(name, Math.random());
+  return defaultSortRank.get(name);
+}
+
 // 兩點球面距離（公里），用來做「距離：近到遠」排序
 function haversineKm(lat1, lng1, lat2, lng2){
   const R = 6371;
@@ -2073,6 +2083,11 @@ function render(){
   else if(state.sort==='price_desc') filtered.sort((a,b)=> PRICE_RANK[b.price] - PRICE_RANK[a.price]);
   else if(state.sort==='distance' && userLocation) filtered.sort((a,b)=>
     haversineKm(userLocation.lat, userLocation.lng, a.lat, a.lng) - haversineKm(userLocation.lat, userLocation.lng, b.lat, b.lng));
+  else if(state.sort==='default'){
+    if(userLocation) filtered.sort((a,b)=>
+      haversineKm(userLocation.lat, userLocation.lng, a.lat, a.lng) - haversineKm(userLocation.lat, userLocation.lng, b.lat, b.lng));
+    else filtered.sort((a,b)=> getDefaultSortRank(a.name) - getDefaultSortRank(b.name));
+  }
 
   const filterKey = JSON.stringify([state.area, state.cats, state.subCat, state.q, state.onlyOpen, state.onlyFav, state.sort, state.viewingShared, state.customDay, state.customTime, state.rangeStart, state.rangeEnd]);
   if(filterKey !== lastFilterKey){ visibleCount = PAGE_SIZE; lastFilterKey = filterKey; }
