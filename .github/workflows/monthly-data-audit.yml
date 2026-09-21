@@ -11,6 +11,10 @@ on:
   schedule:
     - cron: '0 3 1 * *'
   workflow_dispatch: {}
+  push:
+    branches: [DEV]
+    paths:
+      - .github/workflows/monthly-data-audit.yml
 
 permissions:
   contents: write
