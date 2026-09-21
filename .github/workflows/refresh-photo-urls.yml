@@ -1,0 +1,50 @@
+name: Refresh expired restaurant photo URLs
+
+# Google's Place Photo media URLs (lh3.googleusercontent.com/place-photos/...)
+# are signed/ephemeral and expire after some weeks. This site's data was
+# built in many batches over a long period, so early batches' photo URLs
+# eventually go dead while the restaurant itself is unchanged. Run this
+# periodically (or on demand) to re-check every stored photo URL and pull
+# fresh ones for anything dead.
+on:
+  push:
+    branches: [DEV]
+    paths:
+      - scripts/refresh_photo_urls.py
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out DEV
+        uses: actions/checkout@v4
+        with:
+          ref: DEV
+
+      - name: Audit and refresh dead photo URLs
+        env:
+          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+        run: |
+          test -n "$GOOGLE_PLACES_API_KEY"
+          python3 scripts/refresh_photo_urls.py
+
+      - name: Publish report to DEV
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add candidate-results/photo-refresh-report.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Publish photo refresh report"
+          for i in 1 2 3 4 5; do
+            git push && exit 0
+            echo "push rejected, rebasing onto latest DEV and retrying ($i)"
+            git fetch origin DEV
+            git rebase origin/DEV
+          done
+          exit 1
