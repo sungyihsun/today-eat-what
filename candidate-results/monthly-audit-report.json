@@ -1,0 +1,7578 @@
+{
+ "csv": {
+  "entries": {
+   "福氣廚房－新竹世界店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "常宿料理廚房": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "HoChu Yuan 好厝院": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "新橋弄堂": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Daily Ping 平日": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Casa Bistro": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "饌憶餐坊－新竹市": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "TABLE JOE 喏桌子廚房": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": true,
+    "old_hours": [
+     [],
+     [
+      [
+       660,
+       1260
+      ]
+     ],
+     [
+      [
+       660,
+       1260
+      ]
+     ],
+     [
+      [
+       660,
+       1260
+      ]
+     ],
+     [
+      [
+       660,
+       1260
+      ]
+     ],
+     [
+      [
+       600,
+       1260
+      ]
+     ],
+     [
+      [
+       600,
+       1260
+      ]
+     ]
+    ],
+    "new_hours": [
+     [
+      [
+       660,
+       1260
+      ]
+     ],
+     [
+      [
+       660,
+       1260
+      ]
+     ],
+     [
+      [
+       660,
+       1260
+      ]
+     ],
+     [
+      [
+       660,
+       1260
+      ]
+     ],
+     [
+      [
+       660,
+       1260
+      ]
+     ],
+     [
+      [
+       600,
+       1260
+      ]
+     ],
+     [
+      [
+       600,
+       1260
+      ]
+     ]
+    ],
+    "photos_refreshed": false
+   },
+   "Next Stop+": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": true,
+    "old_hours": [
+     [
+      [
+       690,
+       870
+      ],
+      [
+       1020,
+       1230
+      ]
+     ],
+     [
+      [
+       690,
+       870
+      ],
+      [
+       1020,
+       1230
+      ]
+     ],
+     [],
+     [
+      [
+       690,
+       870
+      ],
+      [
+       1020,
+       1230
+      ]
+     ],
+     [
+      [
+       690,
+       870
+      ],
+      [
+       1020,
+       1230
+      ]
+     ],
+     [
+      [
+       690,
+       870
+      ],
+      [
+       1020,
+       1230
+      ]
+     ],
+     [
+      [
+       690,
+       870
+      ],
+      [
+       1020,
+       1230
+      ]
+     ]
+    ],
+    "new_hours": [
+     [
+      [
+       690,
+       870
+      ],
+      [
+       1020,
+       1230
+      ]
+     ],
+     [
+      [
+       690,
+       870
+      ],
+      [
+       1020,
+       1230
+      ]
+     ],
+     [],
+     [],
+     [
+      [
+       690,
+       870
+      ],
+      [
+       1020,
+       1230
+      ]
+     ],
+     [
+      [
+       690,
+       870
+      ],
+      [
+       1020,
+       1230
+      ]
+     ],
+     [
+      [
+       690,
+       870
+      ],
+      [
+       1020,
+       1230
+      ]
+     ]
+    ],
+    "photos_refreshed": false
+   },
+   "和平小館": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "陸本木燒肉": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "虎留香 特色麵食館": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "和牛淚－竹北光明店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "泰銷魂 竹北嘉政店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "裏月．晴酒しゃぶしゃぶ": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "客家本色 竹北店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "DIDcoffee": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "有田咖啡 Youtian Cafe": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Blue Balloon Cafe": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "kafeD 新竹大遠百店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Ni Café 妮咖啡 竹北店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "滾滾風居": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "愛華火鍋": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "嗑肉石鍋－竹北莊敬店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "娘子韓食－娘子居食屋 竹北店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "韓宮館": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": true,
+    "old_hours": [
+     [
+      [
+       690,
+       900
+      ],
+      [
+       1020,
+       1260
+      ]
+     ],
+     [
+      [
+       690,
+       900
+      ],
+      [
+       1020,
+       1260
+      ]
+     ],
+     [
+      [
+       690,
+       900
+      ],
+      [
+       1020,
+       1260
+      ]
+     ],
+     [
+      [
+       690,
+       900
+      ],
+      [
+       1020,
+       1260
+      ]
+     ],
+     [
+      [
+       690,
+       900
+      ],
+      [
+       1020,
+       1260
+      ]
+     ],
+     [
+      [
+       690,
+       900
+      ],
+      [
+       1020,
+       1260
+      ]
+     ],
+     [
+      [
+       690,
+       900
+      ],
+      [
+       1020,
+       1260
+      ]
+     ]
+    ],
+    "new_hours": [
+     [
+      [
+       690,
+       900
+      ],
+      [
+       1050,
+       1280
+      ]
+     ],
+     [
+      [
+       690,
+       900
+      ],
+      [
+       1050,
+       1280
+      ]
+     ],
+     [
+      [
+       690,
+       900
+      ],
+      [
+       1050,
+       1280
+      ]
+     ],
+     [
+      [
+       690,
+       900
+      ],
+      [
+       1050,
+       1280
+      ]
+     ],
+     [
+      [
+       690,
+       900
+      ],
+      [
+       1050,
+       1280
+      ]
+     ],
+     [
+      [
+       690,
+       900
+      ],
+      [
+       1050,
+       1280
+      ]
+     ],
+     [
+      [
+       690,
+       900
+      ],
+      [
+       1050,
+       1280
+      ]
+     ]
+    ],
+    "photos_refreshed": false
+   },
+   "韓食館": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Pab Jib 杷記韓式料理": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": true,
+    "old_hours": [
+     [],
+     [
+      [
+       690,
+       870
+      ],
+      [
+       1020,
+       1260
+      ]
+     ],
+     [
+      [
+       690,
+       870
+      ],
+      [
+       1020,
+       1260
+      ]
+     ],
+     [
+      [
+       690,
+       870
+      ],
+      [
+       1020,
+       1260
+      ]
+     ],
+     [
+      [
+       690,
+       870
+      ],
+      [
+       1020,
+       1260
+      ]
+     ],
+     [
+      [
+       690,
+       870
+      ],
+      [
+       1020,
+       1260
+      ]
+     ],
+     [
+      [
+       690,
+       870
+      ],
+      [
+       1020,
+       1260
+      ]
+     ]
+    ],
+    "new_hours": [
+     [],
+     [
+      [
+       690,
+       870
+      ],
+      [
+       1020,
+       1260
+      ]
+     ],
+     [
+      [
+       690,
+       870
+      ],
+      [
+       1020,
+       1260
+      ]
+     ],
+     [
+      [
+       690,
+       870
+      ],
+      [
+       1020,
+       1260
+      ]
+     ],
+     [
+      [
+       690,
+       870
+      ],
+      [
+       1020,
+       1260
+      ]
+     ],
+     [
+      [
+       690,
+       870
+      ],
+      [
+       1040,
+       1260
+      ]
+     ],
+     [
+      [
+       690,
+       870
+      ],
+      [
+       1040,
+       1260
+      ]
+     ]
+    ],
+    "photos_refreshed": false
+   },
+   "私嚐居酒屋": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "8號複合式Beer": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "哈酒社": {
+    "business_status": "CLOSED_PERMANENTLY",
+    "hours_changed": true,
+    "old_hours": [
+     [
+      [
+       660,
+       840
+      ],
+      [
+       1020,
+       1440
+      ]
+     ],
+     [
+      [
+       660,
+       840
+      ],
+      [
+       1020,
+       1440
+      ]
+     ],
+     [
+      [
+       660,
+       840
+      ],
+      [
+       1020,
+       1440
+      ]
+     ],
+     [
+      [
+       660,
+       840
+      ],
+      [
+       1020,
+       1440
+      ]
+     ],
+     [
+      [
+       660,
+       840
+      ],
+      [
+       1020,
+       1440
+      ]
+     ],
+     [
+      [
+       660,
+       840
+      ],
+      [
+       1020,
+       1440
+      ]
+     ],
+     []
+    ],
+    "new_hours": [
+     [],
+     [],
+     [],
+     [],
+     [],
+     [],
+     []
+    ],
+    "photos_refreshed": false
+   },
+   "楊-台西鵝肉城 竹北店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "一品屋熱炒": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "藍佐牛排館 LAZO": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "ROAST RESTAURANT 乾式熟成牛排館": {
+    "business_status": "CLOSED_PERMANENTLY",
+    "hours_changed": true,
+    "old_hours": [
+     [
+      [
+       690,
+       840
+      ],
+      [
+       1050,
+       1320
+      ]
+     ],
+     [
+      [
+       690,
+       840
+      ],
+      [
+       1050,
+       1320
+      ]
+     ],
+     [
+      [
+       690,
+       840
+      ],
+      [
+       1050,
+       1320
+      ]
+     ],
+     [
+      [
+       690,
+       840
+      ],
+      [
+       1050,
+       1320
+      ]
+     ],
+     [
+      [
+       690,
+       840
+      ],
+      [
+       1050,
+       1320
+      ]
+     ],
+     [
+      [
+       690,
+       840
+      ],
+      [
+       1050,
+       1320
+      ]
+     ],
+     [
+      [
+       690,
+       840
+      ],
+      [
+       1050,
+       1320
+      ]
+     ]
+    ],
+    "new_hours": [
+     [],
+     [],
+     [],
+     [],
+     [],
+     [],
+     []
+    ],
+    "photos_refreshed": false
+   },
+   "王品牛排 竹北光明店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "史坦利美式牛排 新竹巨城對面店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "小時厚牛排 竹北自強店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "果然匯 竹北遠百店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "森活原素 V-Element": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": true,
+    "old_hours": [
+     [
+      [
+       660,
+       840
+      ],
+      [
+       960,
+       1200
+      ]
+     ],
+     [
+      [
+       660,
+       840
+      ],
+      [
+       960,
+       1200
+      ]
+     ],
+     [
+      [
+       660,
+       840
+      ],
+      [
+       960,
+       1200
+      ]
+     ],
+     [
+      [
+       660,
+       840
+      ],
+      [
+       960,
+       1200
+      ]
+     ],
+     [
+      [
+       660,
+       840
+      ],
+      [
+       960,
+       1200
+      ]
+     ],
+     [
+      [
+       660,
+       1200
+      ]
+     ],
+     [
+      [
+       660,
+       1200
+      ]
+     ]
+    ],
+    "new_hours": [
+     [
+      [
+       660,
+       840
+      ],
+      [
+       960,
+       1200
+      ]
+     ],
+     [],
+     [
+      [
+       660,
+       840
+      ],
+      [
+       960,
+       1200
+      ]
+     ],
+     [
+      [
+       660,
+       840
+      ],
+      [
+       960,
+       1200
+      ]
+     ],
+     [
+      [
+       660,
+       840
+      ],
+      [
+       960,
+       1200
+      ]
+     ],
+     [
+      [
+       660,
+       1200
+      ]
+     ],
+     [
+      [
+       660,
+       1200
+      ]
+     ]
+    ],
+    "photos_refreshed": false
+   },
+   "籽田野菜屋": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "和順園雲南蔬食麵館": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "fifteen拾吾純植西餐廳": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": true,
+    "old_hours": [
+     [
+      [
+       660,
+       1080
+      ]
+     ],
+     [],
+     [
+      [
+       660,
+       1080
+      ]
+     ],
+     [
+      [
+       660,
+       1080
+      ]
+     ],
+     [
+      [
+       660,
+       1080
+      ]
+     ],
+     [
+      [
+       660,
+       960
+      ],
+      [
+       1050,
+       1260
+      ]
+     ],
+     [
+      [
+       660,
+       960
+      ],
+      [
+       1050,
+       1260
+      ]
+     ]
+    ],
+    "new_hours": [
+     [
+      [
+       660,
+       1080
+      ]
+     ],
+     [],
+     [
+      [
+       660,
+       1080
+      ]
+     ],
+     [
+      [
+       660,
+       1080
+      ]
+     ],
+     [
+      [
+       660,
+       960
+      ],
+      [
+       1050,
+       1230
+      ]
+     ],
+     [
+      [
+       660,
+       960
+      ],
+      [
+       1050,
+       1230
+      ]
+     ],
+     [
+      [
+       660,
+       960
+      ],
+      [
+       1050,
+       1230
+      ]
+     ]
+    ],
+    "photos_refreshed": false
+   },
+   "Schäfer 希福甜點咖啡": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "The Secret 謐謐 竹北嘉豐店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "I'mMat Cafe 小墊子咖啡": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "蛋然有味蛋糕製造所": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "饅饅好食 Mum,Mum 新竹三民總店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "宗初食堂 日式無菜單料理 新竹總店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "藝奇新日本料理 竹北光明店": {
+    "business_status": "CLOSED_PERMANENTLY",
+    "hours_changed": true,
+    "old_hours": [
+     [
+      [
+       690,
+       870
+      ],
+      [
+       1050,
+       1320
+      ]
+     ],
+     [
+      [
+       690,
+       870
+      ],
+      [
+       1050,
+       1320
+      ]
+     ],
+     [
+      [
+       690,
+       870
+      ],
+      [
+       1050,
+       1320
+      ]
+     ],
+     [
+      [
+       690,
+       870
+      ],
+      [
+       1050,
+       1320
+      ]
+     ],
+     [
+      [
+       690,
+       870
+      ],
+      [
+       1050,
+       1320
+      ]
+     ],
+     [
+      [
+       660,
+       870
+      ],
+      [
+       1020,
+       1320
+      ]
+     ],
+     [
+      [
+       660,
+       870
+      ],
+      [
+       1020,
+       1320
+      ]
+     ]
+    ],
+    "new_hours": [
+     [],
+     [],
+     [],
+     [],
+     [],
+     [],
+     []
+    ],
+    "photos_refreshed": false
+   },
+   "野海壽司": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": true,
+    "old_hours": [
+     [
+      [
+       690,
+       870
+      ],
+      [
+       1050,
+       1260
+      ]
+     ],
+     [
+      [
+       690,
+       870
+      ],
+      [
+       1050,
+       1260
+      ]
+     ],
+     [
+      [
+       690,
+       870
+      ],
+      [
+       1050,
+       1290
+      ]
+     ],
+     [
+      [
+       690,
+       870
+      ],
+      [
+       1050,
+       1260
+      ]
+     ],
+     [
+      [
+       690,
+       870
+      ],
+      [
+       1050,
+       1260
+      ]
+     ],
+     [
+      [
+       690,
+       870
+      ],
+      [
+       1050,
+       1260
+      ]
+     ],
+     [
+      [
+       690,
+       870
+      ],
+      [
+       1050,
+       1260
+      ]
+     ]
+    ],
+    "new_hours": [
+     [
+      [
+       690,
+       840
+      ],
+      [
+       1050,
+       1260
+      ]
+     ],
+     [
+      [
+       690,
+       840
+      ],
+      [
+       1050,
+       1260
+      ]
+     ],
+     [
+      [
+       690,
+       840
+      ],
+      [
+       1050,
+       1260
+      ]
+     ],
+     [
+      [
+       690,
+       840
+      ],
+      [
+       1050,
+       1260
+      ]
+     ],
+     [
+      [
+       690,
+       840
+      ],
+      [
+       1050,
+       1260
+      ]
+     ],
+     [
+      [
+       690,
+       840
+      ],
+      [
+       1020,
+       1260
+      ]
+     ],
+     [
+      [
+       690,
+       840
+      ],
+      [
+       1020,
+       1260
+      ]
+     ]
+    ],
+    "photos_refreshed": false
+   },
+   "T2 cafe竹北店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "森日早午餐Sengri Brunch": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "踢鐵板-竹北博愛店 TeppanYaki 韓式早午餐": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": true,
+    "old_hours": [
+     [
+      [
+       390,
+       810
+      ]
+     ],
+     [],
+     [
+      [
+       390,
+       810
+      ]
+     ],
+     [
+      [
+       390,
+       810
+      ]
+     ],
+     [
+      [
+       390,
+       810
+      ]
+     ],
+     [
+      [
+       390,
+       900
+      ]
+     ],
+     [
+      [
+       390,
+       900
+      ]
+     ]
+    ],
+    "new_hours": [
+     [
+      [
+       390,
+       810
+      ]
+     ],
+     [
+      [
+       390,
+       810
+      ]
+     ],
+     [],
+     [
+      [
+       390,
+       810
+      ]
+     ],
+     [
+      [
+       390,
+       810
+      ]
+     ],
+     [
+      [
+       390,
+       900
+      ]
+     ],
+     [
+      [
+       390,
+       900
+      ]
+     ]
+    ],
+    "photos_refreshed": false
+   },
+   "今鶴義式餐酒館-竹北店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Dambino丹比諾 手工義大利麵.披薩 竹北店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "亞丁尼義式麵屋 文田店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "拾年一刻 TRATTORIA┃竹北義式餐廳": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": true,
+    "old_hours": [
+     [
+      [
+       690,
+       1200
+      ]
+     ],
+     [
+      [
+       690,
+       1200
+      ]
+     ],
+     [
+      [
+       690,
+       1200
+      ]
+     ],
+     [
+      [
+       690,
+       1200
+      ]
+     ],
+     [
+      [
+       690,
+       1320
+      ]
+     ],
+     [
+      [
+       690,
+       1320
+      ]
+     ],
+     [
+      [
+       690,
+       1320
+      ]
+     ]
+    ],
+    "new_hours": [
+     [
+      [
+       690,
+       1200
+      ]
+     ],
+     [
+      [
+       690,
+       1200
+      ]
+     ],
+     [
+      [
+       690,
+       1200
+      ]
+     ],
+     [
+      [
+       690,
+       1200
+      ]
+     ],
+     [
+      [
+       690,
+       1260
+      ]
+     ],
+     [
+      [
+       690,
+       1260
+      ]
+     ],
+     [
+      [
+       690,
+       1200
+      ]
+     ]
+    ],
+    "photos_refreshed": false
+   },
+   "竹美港式茶餐廳 學府店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "寶達港式飲茶餐廳 新竹店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "品豐冰室港式茶餐廳": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "良家手工港式點心坊": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "瓦城泰國料理 - 竹北光明店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "饗泰多泰式風格餐廳 竹北遠百店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "泰之味": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "505 Thai泰式料理": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": true,
+    "old_hours": [
+     [],
+     [
+      [
+       660,
+       810
+      ],
+      [
+       1020,
+       1230
+      ]
+     ],
+     [
+      [
+       660,
+       810
+      ],
+      [
+       1020,
+       1230
+      ]
+     ],
+     [
+      [
+       660,
+       810
+      ],
+      [
+       1020,
+       1230
+      ]
+     ],
+     [
+      [
+       660,
+       810
+      ],
+      [
+       1020,
+       1230
+      ]
+     ],
+     [
+      [
+       660,
+       810
+      ],
+      [
+       1020,
+       1230
+      ]
+     ],
+     []
+    ],
+    "new_hours": [
+     [],
+     [],
+     [
+      [
+       660,
+       810
+      ],
+      [
+       1020,
+       1230
+      ]
+     ],
+     [
+      [
+       660,
+       810
+      ],
+      [
+       1020,
+       1230
+      ]
+     ],
+     [
+      [
+       660,
+       810
+      ],
+      [
+       1020,
+       1230
+      ]
+     ],
+     [
+      [
+       660,
+       810
+      ],
+      [
+       1020,
+       1230
+      ]
+     ],
+     []
+    ],
+    "photos_refreshed": false
+   },
+   "竹東邱記排骨酥麵-竹北店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "頂廂園": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "翟九 竹北店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "泰余麵清燉牛肉麵/竹北美食/牛肉麵": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "黑皮驊魯肉飯HAPPY-HWA": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "白鬍子牛排 竹北國中店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "The Fun 樂房早午餐": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Ollie lite奧利早午餐 竹北光明店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "烤肉小姐便當專賣": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": true,
+    "old_hours": [
+     [
+      [
+       660,
+       810
+      ],
+      [
+       990,
+       1140
+      ]
+     ],
+     [
+      [
+       660,
+       810
+      ],
+      [
+       990,
+       1140
+      ]
+     ],
+     [
+      [
+       660,
+       810
+      ],
+      [
+       990,
+       1140
+      ]
+     ],
+     [
+      [
+       660,
+       810
+      ],
+      [
+       990,
+       1140
+      ]
+     ],
+     [
+      [
+       660,
+       810
+      ],
+      [
+       990,
+       1140
+      ]
+     ],
+     [],
+     [
+      [
+       615,
+       810
+      ]
+     ]
+    ],
+    "new_hours": [
+     [
+      [
+       660,
+       810
+      ],
+      [
+       990,
+       1140
+      ]
+     ],
+     [
+      [
+       660,
+       810
+      ],
+      [
+       990,
+       1140
+      ]
+     ],
+     [
+      [
+       660,
+       810
+      ],
+      [
+       990,
+       1140
+      ]
+     ],
+     [
+      [
+       660,
+       810
+      ],
+      [
+       990,
+       1140
+      ]
+     ],
+     [
+      [
+       660,
+       810
+      ],
+      [
+       990,
+       1140
+      ]
+     ],
+     [],
+     []
+    ],
+    "photos_refreshed": false
+   },
+   "大滷桶魯味竹北店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "三顧茅廬 - 光明一路 Plus": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "八廚職人弁当-竹北光明店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "秘醬滷味 西大店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "木木食堂": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "有飯食光-三民店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "COCA COFFEE 渴口手沖咖啡": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "泰飽爺 泰式平價料理 竹北勝利店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "自由創炒": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "CHENG ji如意大基隆花枝焿": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "堺坊 ShabuShabu 有機農場-竹北火鍋 餐廳": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "真涮吃到飽火鍋": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "同樂食鍋竹北自強店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "敝姓鍋 新竹竹北店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "【李鐵柱麻辣茶鍋】台灣麻辣茶鍋創始品牌": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "滾鍋啦 佰元精緻鍋": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "老井極上燒肉-竹北店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "森森燒肉 竹北莊敬店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "柒伍無煙燒肉": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "焼肉スマイル": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": true,
+    "new_photos": [
+     "https://lh3.googleusercontent.com/grass-cs/ACvplmNs5mW_pFyyHd01T1LnZUKtryjkBphf9ySQVLchDzN2xJtK847RbJbJnkw8RTOn1Bc7aphB10sZm8srHfSdR5MQ5P1vBhfCUfMVtQDIvGnt6lWC_jPxlS75syNMupsgJAFfJIHT=s4800-w800-h800",
+     "https://lh3.googleusercontent.com/grass-cs/ACvplmMTz0nfGVbD5Lk1fNSj-7Mt3yoqSg2IqKyJx4h2O0ek8_gCFID3fu_i41q5eu4SwyNo5jszlStvuIoYIJLH7yrr4yziyp66sMNG4teCIkx21d0dk0cA46o5u4zr06tQNZeCUlZEFKSwX6PK=s4800-w800-h800",
+     "https://lh3.googleusercontent.com/grass-cs/ACvplmMM9EK3OrwRytc7UTAZ-ln7iz3Rrfpt6-VYxxdCOWhZpGqFJ0lQ1JMbVDSR8LZ9vAQvuR0-w4Oj4OxXqdt-NpTLbv8ntPqQGSugVmu3qC29u0yQuUpeDX0yxHGBIVqM_pw63yhFggOT-PT0=s4800-w800-h800"
+    ]
+   },
+   "原燒 日式燒肉 沙拉烤物放題 竹北光明店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "火山岩燒肉-竹北旗艦店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "食譜自助百匯餐廳": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "鬥牛士二鍋新竹SoGo店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "旭集 和食集錦 竹北遠百店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "鍋潤發": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": true,
+    "old_hours": [
+     [
+      [
+       660,
+       1425
+      ]
+     ],
+     [
+      [
+       660,
+       1425
+      ]
+     ],
+     [
+      [
+       660,
+       1395
+      ]
+     ],
+     [
+      [
+       660,
+       1425
+      ]
+     ],
+     [
+      [
+       660,
+       1425
+      ]
+     ],
+     [
+      [
+       660,
+       1425
+      ]
+     ],
+     [
+      [
+       660,
+       1410
+      ]
+     ]
+    ],
+    "new_hours": [
+     [
+      [
+       660,
+       1425
+      ]
+     ],
+     [
+      [
+       660,
+       1425
+      ]
+     ],
+     [
+      [
+       660,
+       1425
+      ]
+     ],
+     [
+      [
+       660,
+       1425
+      ]
+     ],
+     [
+      [
+       660,
+       1425
+      ]
+     ],
+     [
+      [
+       660,
+       1350
+      ]
+     ],
+     [
+      [
+       660,
+       1410
+      ]
+     ]
+    ],
+    "photos_refreshed": false
+   },
+   "新竹市城隍廟夜市": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "竹北夜市": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "新竹後站夜市": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "青草湖夜市": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "慈雲夜市（迪卡儂前）": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": true,
+    "old_hours": [
+     [],
+     [],
+     [],
+     [],
+     [
+      [
+       960,
+       1260
+      ]
+     ],
+     [],
+     []
+    ],
+    "new_hours": [
+     [],
+     [],
+     [],
+     [],
+     [
+      [
+       960,
+       1320
+      ]
+     ],
+     [],
+     []
+    ],
+    "photos_refreshed": false
+   },
+   "晨光早餐": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "歐爹 竹北民權店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "竹北皇膳湯包---": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Coffee&Egg 竹北分舖": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Kurashi": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "車庫鹽酥雞（西門店）": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "嵐町雞排 新竹光華總店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "三味鹽酥雞": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "我家鹽酥雞": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "阿樹伯鹽酥雞 竹北店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Tender Cocktail Bar": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "ROOM8": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Bar Back Cafe 新竹甜點酒吧": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Bar Neat": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "BAR SPEAKEASY": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Seed Bakery 麵包籽 文興店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "水豚麥胖竹北總店麵包烘焙葡式蛋撻/竹北麵包餐盒/竹北烘培坊": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "拾良貳館SHILIANG BAKERY": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "私嚐の吃飯": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "山上走走 日式無菜單燒肉專門店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "八二親食 三民店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "天吉屋 竹北遠百店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "今日魚市 竹北光明店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "東街日本料理-民生店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "馬的深夜食堂": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "ABV Bar & Kitchen 日式居酒館 新竹關新店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "名古屋料亭日本料理中正店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "鵝子": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "阿本家 竹北文和店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "真珠-台灣佳味 竹北店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "呷奔來坐 懷舊食客": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "海海客家菜-柚子花花": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "全家福客家菜館": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "風城之月懷舊餐廳": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "傳家生活小館": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "jam kitchen 新竹北大站": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "ABV加勒比海餐酒館 竹北旗艦店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "歐浮找餐-新竹振興路總店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "找餐店brunch-新竹店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "窯屋洋煨": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "佬法室早午餐 Old Brunch新竹店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "JerryBrunch & Night｜Fine Brunch 奢華早午餐": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "二十四分之一早午餐 手作麵包": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "在樹上早午餐專賣店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "NU PASTA 竹北文信店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "JAI宅 義大利麵 新竹巨城": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "BELLINI Pasta Pasta 竹北遠百店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Muxito 沐熙朵洋食坊義大利麵餐廳": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Sunnylulu陽光露露義式料理": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "有籽義麵-竹北文信店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "喜歡你餐坊 竹北勝利店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "喚味私烤": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Piccola Enoteca 彼刻義式餐酒館": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "小島廚房": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "竹美私房料理 關新店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "點點心台灣 新竹巨城店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "鹿森林": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "ㄚ水哥港式點心坊": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "和選旅-硯宴軒": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "老港陳": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Sit Back Cafe 寵物友善餐廳｜早午餐｜港式": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": true,
+    "old_hours": [
+     [
+      [
+       540,
+       1020
+      ]
+     ],
+     [
+      [
+       540,
+       1020
+      ]
+     ],
+     [],
+     [],
+     [
+      [
+       540,
+       1020
+      ]
+     ],
+     [
+      [
+       540,
+       1020
+      ]
+     ],
+     [
+      [
+       705,
+       1020
+      ]
+     ]
+    ],
+    "new_hours": [
+     [
+      [
+       540,
+       960
+      ]
+     ],
+     [
+      [
+       540,
+       1020
+      ]
+     ],
+     [
+      [
+       540,
+       1020
+      ]
+     ],
+     [],
+     [],
+     [
+      [
+       540,
+       960
+      ]
+     ],
+     [
+      [
+       705,
+       960
+      ]
+     ]
+    ],
+    "photos_refreshed": false
+   },
+   "港點大師 新竹店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "森森燒肉 新竹清大店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "大阪燒肉 燒魂Yakikon新竹店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "大和園燒肉屋": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "阿彤北和牛燒肉新竹總店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "阿叔燒肉": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "one&one燒肉．iFG遠雄新竹店": {
+    "business_status": "CLOSED_TEMPORARILY",
+    "hours_changed": true,
+    "old_hours": [
+     [
+      [
+       660,
+       1260
+      ]
+     ],
+     [
+      [
+       660,
+       1260
+      ]
+     ],
+     [
+      [
+       660,
+       1260
+      ]
+     ],
+     [
+      [
+       660,
+       1260
+      ]
+     ],
+     [
+      [
+       660,
+       1260
+      ]
+     ],
+     [
+      [
+       660,
+       1260
+      ]
+     ],
+     [
+      [
+       660,
+       1260
+      ]
+     ]
+    ],
+    "new_hours": [
+     [],
+     [],
+     [],
+     [],
+     [],
+     [],
+     []
+    ],
+    "photos_refreshed": false
+   },
+   "吃肉肉CHIH ROU ROU燒肉専門店-竹北店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": true,
+    "old_hours": [
+     [
+      [
+       690,
+       990
+      ],
+      [
+       1050,
+       1350
+      ]
+     ],
+     [
+      [
+       690,
+       990
+      ],
+      [
+       1050,
+       1350
+      ]
+     ],
+     [
+      [
+       690,
+       990
+      ],
+      [
+       1050,
+       1350
+      ]
+     ],
+     [
+      [
+       660,
+       990
+      ],
+      [
+       1020,
+       1320
+      ]
+     ],
+     [
+      [
+       660,
+       990
+      ],
+      [
+       1020,
+       1320
+      ]
+     ],
+     [
+      [
+       660,
+       990
+      ],
+      [
+       1020,
+       1320
+      ]
+     ],
+     [
+      [
+       660,
+       990
+      ],
+      [
+       1020,
+       1320
+      ]
+     ]
+    ],
+    "new_hours": [
+     [
+      [
+       690,
+       960
+      ],
+      [
+       1050,
+       1350
+      ]
+     ],
+     [
+      [
+       690,
+       960
+      ],
+      [
+       1050,
+       1350
+      ]
+     ],
+     [
+      [
+       690,
+       960
+      ],
+      [
+       1050,
+       1350
+      ]
+     ],
+     [
+      [
+       660,
+       960
+      ],
+      [
+       1020,
+       1320
+      ]
+     ],
+     [
+      [
+       660,
+       960
+      ],
+      [
+       1020,
+       1320
+      ]
+     ],
+     [
+      [
+       660,
+       960
+      ],
+      [
+       1020,
+       1320
+      ]
+     ],
+     [
+      [
+       660,
+       960
+      ],
+      [
+       1020,
+       1320
+      ]
+     ]
+    ],
+    "photos_refreshed": false
+   },
+   "隱焱匠｜日式燒肉": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "燒肉モルディブ馬爾地夫新竹本店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "如意麵食館 牛肉麵": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "十一街": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "被耽誤的炒麵店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": true,
+    "old_hours": [
+     [
+      [
+       660,
+       1260
+      ]
+     ],
+     [
+      [
+       660,
+       1260
+      ]
+     ],
+     [
+      [
+       660,
+       1260
+      ]
+     ],
+     [
+      [
+       660,
+       1260
+      ]
+     ],
+     [
+      [
+       660,
+       1260
+      ]
+     ],
+     [
+      [
+       660,
+       1260
+      ]
+     ],
+     [
+      [
+       660,
+       1260
+      ]
+     ]
+    ],
+    "new_hours": [
+     [
+      [
+       660,
+       1290
+      ]
+     ],
+     [
+      [
+       960,
+       1290
+      ]
+     ],
+     [
+      [
+       960,
+       1290
+      ]
+     ],
+     [
+      [
+       960,
+       1290
+      ]
+     ],
+     [
+      [
+       960,
+       1290
+      ]
+     ],
+     [
+      [
+       660,
+       1290
+      ]
+     ],
+     [
+      [
+       660,
+       1290
+      ]
+     ]
+    ],
+    "photos_refreshed": false
+   },
+   "公園黑乾麵": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "阿香小吃": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": true,
+    "old_hours": [
+     [
+      [
+       360,
+       1240
+      ]
+     ],
+     [
+      [
+       360,
+       1240
+      ]
+     ],
+     [
+      [
+       360,
+       1240
+      ]
+     ],
+     [
+      [
+       360,
+       1240
+      ]
+     ],
+     [
+      [
+       360,
+       1240
+      ]
+     ],
+     [
+      [
+       360,
+       1240
+      ]
+     ],
+     [
+      [
+       360,
+       1240
+      ]
+     ]
+    ],
+    "new_hours": [
+     [
+      [
+       360,
+       1240
+      ]
+     ],
+     [],
+     [
+      [
+       360,
+       1240
+      ]
+     ],
+     [
+      [
+       360,
+       1240
+      ]
+     ],
+     [
+      [
+       360,
+       1240
+      ]
+     ],
+     [
+      [
+       360,
+       1240
+      ]
+     ],
+     [
+      [
+       360,
+       1240
+      ]
+     ]
+    ],
+    "photos_refreshed": false
+   },
+   "楊家意麵": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "家禾手作麵食館 縣政店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "姥夥房-竹北鹿場店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "双龍麵館": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "唐草園精緻麵食TANG TSAO YUAN": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "岩漿漢方麻辣火鍋-新竹經國店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "青花驕麻辣鍋 竹北光明店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "涮樂和牛鍋物 食べ放題 第一品牌-新竹經國店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "石憶食鍋": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "真涮吃到飽新竹北大店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "熊本鍋物 南大店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "築間幸福鍋物 火烤雙饗 竹北享平方店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "泰飽爺 泰式平價料理 新竹水田創始店 新竹平價美食 新竹泰式料理 北區美食 北區餐廳 北區泰式料理": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "泰速泰式料理 竹科店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "泰銷魂-新竹三民店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "無店家料理/深夜烤魚-總店 - 新竹 東區 宵夜餐廳推薦 深夜烤魚首選 新竹美食好評 新竹熱門人氣海鮮料理 高CP值魚料理 海鮮餐廳 必吃烤魚外帶 烤蝦外送 在地美食 小酌聚會": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "鴻蝦匯複合式庭園餐廳": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "泰速泰式料理 竹北光明店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": true,
+    "new_photos": [
+     "https://lh3.googleusercontent.com/grass-cs/ACvplmMjGt-kSXNk5sEqPCu8eEYog6OerAt_oYEFlhhqcbzw-2cww6t-GPdy1U9RobKufrF8k2-lzSoNfroQfC5if6FIan7SBkhJ4b8J-e3-5UcRto62PBaI4sE-ngz2o8TaSFY5UwCbz9haHE1q=s4800-w781-h592",
+     "https://lh3.googleusercontent.com/grass-cs/ACvplmNW9B_EFoQBRg9f01PfjdaDUT7KhHpLecPL8ifxxhkIIwbrJldM-QfQvnj2S6ZB9BkTS6Z4dpx69pMy9I32oeSmQVmlbsrkTSd1YmJ5g-30sW8ZrlbCWSBOJvTZtJwq6aEuAbu4UaXGxxuh=s4800-w469-h396",
+     "https://lh3.googleusercontent.com/grass-cs/ACvplmOLorSvwFPRTd4JvtTXGyPA3MZqOO7sDDxuRnm07GLZQQZ_PFtmQxbybDEkqBeJvx-KxuW6v92fj7kHzeUMH6-YJYNVSVoGWiO6AVFp5P6bPJGnkUgiVhKAOSUxFjGD4n6NWK-n2D5uD_8=s4800-w800-h800"
+    ]
+   },
+   "泰速泰式料理 食品店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "饗泰多泰式風格餐廳 新竹大遠百店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "BAAN雲椒": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": true,
+    "old_hours": [
+     [
+      [
+       660,
+       840
+      ],
+      [
+       1020,
+       1230
+      ]
+     ],
+     [],
+     [
+      [
+       660,
+       840
+      ],
+      [
+       1020,
+       1230
+      ]
+     ],
+     [
+      [
+       660,
+       840
+      ],
+      [
+       1020,
+       1230
+      ]
+     ],
+     [
+      [
+       660,
+       840
+      ],
+      [
+       1020,
+       1230
+      ]
+     ],
+     [
+      [
+       660,
+       840
+      ],
+      [
+       1020,
+       1230
+      ]
+     ],
+     [
+      [
+       660,
+       840
+      ],
+      [
+       1020,
+       1230
+      ]
+     ]
+    ],
+    "new_hours": [
+     [
+      [
+       660,
+       840
+      ],
+      [
+       1020,
+       1230
+      ]
+     ],
+     [
+      [
+       660,
+       840
+      ],
+      [
+       1020,
+       1230
+      ]
+     ],
+     [
+      [
+       660,
+       840
+      ],
+      [
+       1020,
+       1230
+      ]
+     ],
+     [
+      [
+       660,
+       840
+      ],
+      [
+       1020,
+       1230
+      ]
+     ],
+     [
+      [
+       660,
+       840
+      ],
+      [
+       1020,
+       1230
+      ]
+     ],
+     [
+      [
+       660,
+       840
+      ],
+      [
+       1020,
+       1230
+      ]
+     ],
+     [
+      [
+       660,
+       840
+      ],
+      [
+       1020,
+       1230
+      ]
+     ]
+    ],
+    "photos_refreshed": false
+   },
+   "那家咖啡館｜冰滴．手沖專売": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "墨咖啡 INK COFFEE": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "貳參咖啡-西門店「無訂位服務」": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "The Secret 謐謐 新竹店 x 貓嶼": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": true,
+    "old_hours": [
+     [
+      [
+       690,
+       1200
+      ]
+     ],
+     [],
+     [
+      [
+       690,
+       1200
+      ]
+     ],
+     [
+      [
+       690,
+       1200
+      ]
+     ],
+     [
+      [
+       690,
+       1200
+      ]
+     ],
+     [
+      [
+       690,
+       1200
+      ]
+     ],
+     [
+      [
+       690,
+       1200
+      ]
+     ]
+    ],
+    "new_hours": [
+     [
+      [
+       690,
+       1200
+      ]
+     ],
+     [
+      [
+       690,
+       1200
+      ]
+     ],
+     [
+      [
+       690,
+       1200
+      ]
+     ],
+     [
+      [
+       690,
+       1200
+      ]
+     ],
+     [
+      [
+       690,
+       1200
+      ]
+     ],
+     [
+      [
+       690,
+       1200
+      ]
+     ],
+     [
+      [
+       690,
+       1200
+      ]
+     ]
+    ],
+    "photos_refreshed": false
+   },
+   "暗室微光": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": true,
+    "old_hours": [
+     [
+      [
+       720,
+       1080
+      ]
+     ],
+     [
+      [
+       720,
+       1080
+      ]
+     ],
+     [
+      [
+       720,
+       1080
+      ]
+     ],
+     [
+      [
+       720,
+       1080
+      ]
+     ],
+     [
+      [
+       720,
+       1080
+      ]
+     ],
+     [],
+     [
+      [
+       720,
+       1080
+      ]
+     ]
+    ],
+    "new_hours": [
+     [
+      [
+       720,
+       1080
+      ]
+     ],
+     [
+      [
+       720,
+       1080
+      ]
+     ],
+     [
+      [
+       720,
+       1080
+      ]
+     ],
+     [
+      [
+       720,
+       1020
+      ]
+     ],
+     [
+      [
+       720,
+       1080
+      ]
+     ],
+     [
+      [
+       720,
+       1080
+      ]
+     ],
+     []
+    ],
+    "photos_refreshed": false
+   },
+   "FOXLOVE COFFEE 咖啡廳": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "二街咖啡 2nd st. cafe": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Float Dept.微生咖啡「沒有訂位服務」「無室內候位空間」": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": true,
+    "old_hours": [
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ]
+    ],
+    "new_hours": [
+     [
+      [
+       600,
+       960
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ]
+    ],
+    "photos_refreshed": false
+   },
+   "金春喜韓廚-新竹關新店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "哈奇客｜韓式炸雞補給所": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "非常食鍋韓國料理-新竹金山": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "姜滿堂존맛탱 新竹巨城店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "太空總薯-韓式料理3號店 ｜新竹韓式 韓式炸雞 韓式烤肉 個人套餐 下午時段營業": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": true,
+    "old_hours": [
+     [
+      [
+       690,
+       1320
+      ]
+     ],
+     [
+      [
+       690,
+       1320
+      ]
+     ],
+     [
+      [
+       690,
+       1320
+      ]
+     ],
+     [
+      [
+       690,
+       1320
+      ]
+     ],
+     [
+      [
+       690,
+       1320
+      ]
+     ],
+     [
+      [
+       690,
+       1320
+      ]
+     ],
+     [
+      [
+       690,
+       1320
+      ]
+     ]
+    ],
+    "new_hours": [
+     [
+      [
+       690,
+       1320
+      ]
+     ],
+     [
+      [
+       690,
+       1320
+      ]
+     ],
+     [
+      [
+       690,
+       1320
+      ]
+     ],
+     [
+      [
+       690,
+       1320
+      ]
+     ],
+     [
+      [
+       690,
+       840
+      ],
+      [
+       990,
+       1320
+      ]
+     ],
+     [
+      [
+       690,
+       1320
+      ]
+     ],
+     [
+      [
+       690,
+       1320
+      ]
+     ]
+    ],
+    "photos_refreshed": false
+   },
+   "沙郎嘿韓式餐酒館-新竹龍山店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Yumsem宴先韓式紫菜包飯.얌샘김밥- 竹北六家店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "翰食堂": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "太空總薯-韓式料理2號店｜新竹韓式 韓式炸雞 韓式烤肉 個人套餐 下午茶外送 竹科外送": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": true,
+    "new_photos": [
+     "https://lh3.googleusercontent.com/place-photos/AG9NLjDDNOfP9ANwbqMhAbkw1q00hQjKpfYFWis4lmIlLpHx2Ruc4lAh1Jy4Jrah9PX3rqE2vEUHDOiVcWH_nH18CcMVCw1lt21Tp2MMRCygpXWmWbrxzXEv71u0qQsUKs31tcEhDQg8V6ZxoJ9RgkU7gbl7Rw=s4800-w800-h800",
+     "https://lh3.googleusercontent.com/place-photos/AG9NLjCM3CllrwLKUk-gaePvbUBjriICWnOAwO_ZGF7RkZ-aFbISgE9__BvGOrtcO1rp3bLeSX_Xl51zEU-RKub_UfKU50JjQy9__3BpE6liCiw7jFe1T0wEtQgR-64aZ3H7mpVYYlCqDhegA3H8nw=s4800-w800-h800",
+     "https://lh3.googleusercontent.com/place-photos/AG9NLjAj9r6XTvc-ENbuByfWVAZdJ4e8EzS8G279XuOdgeP1t7hGR2jaPy0eJXG0OTCHIUzoCtHFnOTeRyqL8KiEAAN1aE_oebLZAiriEdpbBpQXPzjyMkPkql-1cE7X24DKsoppkY_8OzsFm-mfwh3OtEAh=s4800-w800-h800"
+    ]
+   },
+   "RM Restaurant bar 餐酒館｜竹北美食｜竹北餐館｜竹北餐廳｜竹北推薦｜月球餐廳｜中式料理｜快炒熱炒合菜": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "三緣舍居酒屋 炭火串燒": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "三更沁食居酒屋": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "夜排檔熱炒": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "尊煌中式餐館": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "首烏廚EAT": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "金鶴呷 熱炒": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "蝦咩": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": true,
+    "old_hours": [
+     [
+      [
+       660,
+       840
+      ],
+      [
+       960,
+       1620
+      ]
+     ],
+     [
+      [
+       660,
+       840
+      ],
+      [
+       960,
+       1620
+      ]
+     ],
+     [
+      [
+       660,
+       840
+      ],
+      [
+       960,
+       1620
+      ]
+     ],
+     [],
+     [
+      [
+       660,
+       840
+      ],
+      [
+       960,
+       1620
+      ]
+     ],
+     [
+      [
+       660,
+       840
+      ],
+      [
+       960,
+       1620
+      ]
+     ],
+     [
+      [
+       660,
+       840
+      ],
+      [
+       960,
+       1620
+      ]
+     ]
+    ],
+    "new_hours": [
+     [
+      [
+       960,
+       1650
+      ]
+     ],
+     [
+      [
+       960,
+       1620
+      ]
+     ],
+     [
+      [
+       960,
+       1620
+      ]
+     ],
+     [],
+     [
+      [
+       960,
+       1620
+      ]
+     ],
+     [
+      [
+       960,
+       1620
+      ]
+     ],
+     [
+      [
+       960,
+       1620
+      ]
+     ]
+    ],
+    "photos_refreshed": false
+   },
+   "十八食堂- 新竹竹北日式料理 竹北串燒鍋物 竹北宵夜 特色快炒 麻辣烤魚 海鮮大咖 公司家庭聚餐 桌式合菜": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "成功牛排 南大店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "史坦利美式牛排 竹北光明店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Hooters": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "白鬍子牛排成功店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "硬派主廚的軟嫩料理-東門市場": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Texas Roadhouse 德州鮮切牛排 竹北店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "白鬍子牛排清大店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "白鬍子牛排 竹北文田店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "牛範生台式蒜香牛排-竹北光明店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "素食林小館": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "新築窟": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "姑姑の蘋果樹": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "井家": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "善菓堂": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "熱浪島南洋蔬食茶堂 竹北店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "井町日式蔬食": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "天香蔬食": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "That's Tarta 芝士塔塔": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "【烘焙DIY】自己做 烘焙聚樂部": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "一百種味道 總店": {
+    "business_status": "CLOSED_TEMPORARILY",
+    "hours_changed": true,
+    "old_hours": [
+     [],
+     [
+      [
+       720,
+       1110
+      ]
+     ],
+     [
+      [
+       720,
+       1110
+      ]
+     ],
+     [
+      [
+       720,
+       1110
+      ]
+     ],
+     [
+      [
+       720,
+       1110
+      ]
+     ],
+     [
+      [
+       720,
+       1110
+      ]
+     ],
+     [
+      [
+       720,
+       1110
+      ]
+     ]
+    ],
+    "new_hours": [
+     [],
+     [],
+     [],
+     [],
+     [],
+     [],
+     []
+    ],
+    "photos_refreshed": false
+   },
+   "艾立蛋糕 竹北店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "傑里麵包": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "LADY KELLY 新竹巨城店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": true,
+    "new_photos": [
+     "https://lh3.googleusercontent.com/place-photos/AG9NLjCyi6eCbYFNSDzlAXjki6u_V8ryh7wTeiy7PDVO9TAUll00XBhx_PFWfI_J1xg5ZiCucLk973foKU_do3Pmlh2T58-diCM3Xx8MxmVVTKI6TCw1RsQEdNHNF4AAwCXsIQzoYaWHeba0tFGvzw=s4800-w800-h580",
+     "https://lh3.googleusercontent.com/place-photos/AG9NLjCyKYFn4xlSTj26xJn8ahd5skgAsh8JCEQANCiHsqldsV5fu__eT7GDymY8QL-C81x9KfToz2cDLCaoZwW4RpU1J_j1pbE6KbhRM2k1b24e9gS01WSUWr7nrVX9KhQbhxpt9jPVABPyWDi2hEYxj_f63w=s4800-w800-h800",
+     "https://lh3.googleusercontent.com/place-photos/AG9NLjDV_-AuxU2141eIQllr9S5SJdp95NYdZ-BGtu8VZzPQW-4fTsCt3IYhq8lfEwwGqCQ-2rYeN1a0KxvZ-KyrC9OtMOJE6DlSmuuZvrCwY1qP4K7o9b6jTv_-w26FdHV1bqABz62onjWFk5-fW92KUV67ZA=s4800-w800-h800"
+    ]
+   },
+   "艾立公主": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "哈甜豬 Honey Piggy": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "靜候手作坊": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "薯霸早餐": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "阿婆早餐麵店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "來來豆漿店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "滿美吐司部": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "桃司廚鐵板早午餐 竹北店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "新竹有夠爛花生湯": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "米庫早午食堂 & 被耽誤的炒麵店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "掬熙商行 G.C Brunch & Coffee": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "新銘早餐店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "無名早餐店 饅頭肉排蛋": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "大爺鹽酥雞": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "車庫鹽酥雞（莊敬店）": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "車庫鹽酥雞（文興店）": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "雞排中隊": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "CHICKEN BOOM 炸雞蹦 竹北總店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "壹坪半鹽酥雞": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "蕭家鹽酥雞": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "烤肉鹹酥雞": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": true,
+    "old_hours": [
+     [],
+     [
+      [
+       1020,
+       1450
+      ]
+     ],
+     [
+      [
+       1020,
+       1450
+      ]
+     ],
+     [
+      [
+       1020,
+       1450
+      ]
+     ],
+     [
+      [
+       1020,
+       1450
+      ]
+     ],
+     [
+      [
+       1020,
+       1450
+      ]
+     ],
+     [
+      [
+       1020,
+       1450
+      ]
+     ]
+    ],
+    "new_hours": [
+     [],
+     [],
+     [
+      [
+       1020,
+       1450
+      ]
+     ],
+     [
+      [
+       1020,
+       1450
+      ]
+     ],
+     [
+      [
+       1020,
+       1450
+      ]
+     ],
+     [
+      [
+       1020,
+       1450
+      ]
+     ],
+     [
+      [
+       1020,
+       1450
+      ]
+     ]
+    ],
+    "photos_refreshed": false
+   },
+   "JJ Cheers Bar": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": true,
+    "old_hours": [
+     [
+      [
+       1200,
+       1680
+      ]
+     ],
+     [
+      [
+       1200,
+       1680
+      ]
+     ],
+     [
+      [
+       1200,
+       1680
+      ]
+     ],
+     [
+      [
+       1200,
+       1680
+      ]
+     ],
+     [
+      [
+       1140,
+       1680
+      ]
+     ],
+     [
+      [
+       1140,
+       1680
+      ]
+     ],
+     [
+      [
+       1200,
+       1680
+      ]
+     ]
+    ],
+    "new_hours": [
+     [
+      [
+       1140,
+       1620
+      ]
+     ],
+     [
+      [
+       1140,
+       1620
+      ]
+     ],
+     [
+      [
+       1140,
+       1620
+      ]
+     ],
+     [
+      [
+       1140,
+       1620
+      ]
+     ],
+     [
+      [
+       1140,
+       1620
+      ]
+     ],
+     [
+      [
+       1140,
+       1620
+      ]
+     ],
+     [
+      [
+       1140,
+       1620
+      ]
+     ]
+    ],
+    "photos_refreshed": false
+   },
+   "Eden Hall 酒托邦": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Bar Approx. 將進酒": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Bar Reviver": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "SODA場地出租包場": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Dela餐酒館": {
+    "business_status": "CLOSED_TEMPORARILY",
+    "hours_changed": true,
+    "old_hours": [
+     [
+      [
+       1050,
+       1440
+      ]
+     ],
+     [],
+     [],
+     [
+      [
+       1050,
+       1440
+      ]
+     ],
+     [
+      [
+       1050,
+       1440
+      ]
+     ],
+     [
+      [
+       660,
+       870
+      ],
+      [
+       1050,
+       1440
+      ]
+     ],
+     [
+      [
+       1050,
+       1440
+      ]
+     ]
+    ],
+    "new_hours": [
+     [],
+     [],
+     [],
+     [],
+     [],
+     [],
+     []
+    ],
+    "photos_refreshed": false
+   },
+   "inBush - Bar, Cafe, Flower": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Bar Tree Hollow 樹洞": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Bar RoutinE 例行公事": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Laid Back Bar 來杯酒吧": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "嗑肉石鍋-新竹西門店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "銅話鍋物": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "韋爐新竹巨城店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "堝鍋火鍋專門店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "宅米 丼飯·咖哩·定食-竹北店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "夯下去和牛燒肉放題-新竹經國店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "滿溢沙茶石頭火鍋": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": true,
+    "old_hours": [
+     [
+      [
+       1020,
+       1320
+      ]
+     ],
+     [
+      [
+       1020,
+       1320
+      ]
+     ],
+     [],
+     [
+      [
+       1020,
+       1320
+      ]
+     ],
+     [
+      [
+       1020,
+       2040
+      ]
+     ],
+     [
+      [
+       660,
+       870
+      ],
+      [
+       1020,
+       1350
+      ]
+     ],
+     [
+      [
+       660,
+       870
+      ],
+      [
+       1020,
+       1320
+      ]
+     ]
+    ],
+    "new_hours": [
+     [
+      [
+       1020,
+       1320
+      ]
+     ],
+     [
+      [
+       1020,
+       1320
+      ]
+     ],
+     [],
+     [
+      [
+       1020,
+       1320
+      ]
+     ],
+     [
+      [
+       1020,
+       1350
+      ]
+     ],
+     [
+      [
+       660,
+       870
+      ],
+      [
+       1020,
+       1350
+      ]
+     ],
+     [
+      [
+       660,
+       870
+      ],
+      [
+       1020,
+       1320
+      ]
+     ]
+    ],
+    "photos_refreshed": false
+   },
+   "阿叔燒肉竹北店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "同樂食鍋 新竹巨城三民店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "禧樂 丼飯、刺身、炭燒": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "沐府": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "魚町日式丼飯": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "成都老鍋牛肉麵": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": true,
+    "new_photos": [
+     "https://lh3.googleusercontent.com/grass-cs/ACvplmM2FVQb168Mz4QYcoXtphmvPdSofJ7TCjkIOxc9zHFFhcVEJbRW7eZkfHpwu5gXSdS3C4GsCoLlQWHW4HJNUPlTxET95haBioB_aGfyP5R-95-hJmo0DvCxT4AfxuFgWpRITzBKX6bDV8Wb=s4800-w800-h800",
+     "https://lh3.googleusercontent.com/grass-cs/ACvplmOYOKOvhY3Mo0YI4-kGODixOD9nzcWQKfFMbLnNuaZy-Lw_AduAhyM4NJEZs7PeedhQx5XBmHWtbY5Ewzs5PUr6rrQMeB_0__eKGg-qDS54E8U_jiXgTm8U0-y-wSGOdyt_xo_MIA=s4800-w800-h800",
+     "https://lh3.googleusercontent.com/grass-cs/ACvplmOtae8kDQwEsHYM5wR6OzABltUUVn9lzUAEucvMFs0wV7JOIPRq5Ot1ZlFhF1DqDAMIU_3hf6vjg4RAJorWwKYUYleP_AabZ1Q8qhQMucWxtxLm37f4FZt7M_kNHqEaqBo6HhFPX_H9S-Y=s4800-w800-h800"
+    ]
+   },
+   "段純貞 竹北店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "牛洞 竹北勝利店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "璽子牛肉麵": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "段純貞建功店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "文化城牛肉麵": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "段純貞牛肉麵-創始店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "厚醍牛肉麵 新竹忠孝店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "璽子牛肉麵（竹北店）": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "梁小姐米粉湯（文興店）": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "福砌阿華什錦麵": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "九添福牛肉麵館新竹城隍店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "孫子文牛肉麵": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "珍記米粉湯": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "曾家乾麵": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "恆心咖啡工作室 RTA coffee roaster": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "坐著做。新星食堂": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "林燒肉（中原店）": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "肉次方 燒肉放題 中壢元化店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "和牛涮 日式鍋物放題 中壢元化店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "米塔義式廚房-中壢萬家福店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "南桃吳記 蛤蜊麵": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Garden 313": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "樸食鍋物": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "凱青埔最鮮生魚片": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": true,
+    "old_hours": [
+     [],
+     [
+      [
+       660,
+       1200
+      ]
+     ],
+     [
+      [
+       660,
+       1200
+      ]
+     ],
+     [
+      [
+       660,
+       1200
+      ]
+     ],
+     [
+      [
+       660,
+       1170
+      ]
+     ],
+     [
+      [
+       660,
+       1170
+      ]
+     ],
+     [
+      [
+       660,
+       1200
+      ]
+     ]
+    ],
+    "new_hours": [
+     [],
+     [
+      [
+       660,
+       1170
+      ]
+     ],
+     [
+      [
+       660,
+       1200
+      ]
+     ],
+     [
+      [
+       660,
+       1200
+      ]
+     ],
+     [
+      [
+       660,
+       1170
+      ]
+     ],
+     [
+      [
+       660,
+       1170
+      ]
+     ],
+     [
+      [
+       660,
+       1200
+      ]
+     ]
+    ],
+    "photos_refreshed": false
+   },
+   "川三 上選燒肉 Chuansan Yakiniku 中壢店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "怎麻辣頂級鴛鴦鍋": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Angle 371 西餐廳": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "TOBU飛ぶ 居酒屋": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "日嚐海鮮鍋物": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "鍋泰暖。泰式南洋火鍋-桃園中壢店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "小牧鍋中壢店-熟成原肉吃到飽": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "焼肉スマイル（燒肉Smile）中壢延平店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "時辣苑 • 和牛麻辣鍋 中壢店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "三柒燒肉專門店-中壢店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "橫山水一方": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "武田信玄": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "CP Cafe": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "錢都日式涮涮鍋-中壢新生直營店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "和民 手作廚房 青埔大全聯店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "墨sumi 海鮮丼": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "京都二条茶寮 桃園中壢店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "赤富士日式無煙燒肉鍋物-中壢店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "三十六號轉角披薩店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "夜更かしBar": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "拼食Puzzle Brunch": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": true,
+    "old_hours": [
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [],
+     [],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ]
+    ],
+    "new_hours": [
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ],
+     [
+      [
+       600,
+       1080
+      ]
+     ]
+    ],
+    "photos_refreshed": false
+   },
+   "Lavish 132": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "燒究食寓 青埔店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "茶自點青埔環球A19店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "這一小鍋 桃園新光青埔店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "立晉豆花": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "好豆味冰沙豆花": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "豆戀迷 新竹清大店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "冰境豆花雪花冰": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "豆飛甜品": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "老豆花 プリプリ（建中店）": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "匠心豆乳": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "小叮噹甜品屋": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "百分百豆花": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "竹北秀蘭豆花": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "東東石頭火鍋": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "鮨立手作壽司 丼飯": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "加分100%浜中特選昆布鍋物-中壢店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "義想 PASTA": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "藏王極上燒肉餐酒館 - 青埔店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "祥祥台式小餐館": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "承意港灣大同旗艦店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "JK STUDIO 義法餐廳": {
+    "business_status": "CLOSED_PERMANENTLY",
+    "hours_changed": true,
+    "old_hours": [
+     [
+      [
+       660,
+       1260
+      ]
+     ],
+     [
+      [
+       660,
+       1260
+      ]
+     ],
+     [
+      [
+       660,
+       1260
+      ]
+     ],
+     [
+      [
+       660,
+       1260
+      ]
+     ],
+     [
+      [
+       660,
+       1320
+      ]
+     ],
+     [
+      [
+       660,
+       1320
+      ]
+     ],
+     [
+      [
+       660,
+       1320
+      ]
+     ]
+    ],
+    "new_hours": [
+     [],
+     [],
+     [],
+     [],
+     [],
+     [],
+     []
+    ],
+    "photos_refreshed": false
+   },
+   "北村豆腐家 青埔大全聯店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "彭麻記麻辣串串火鍋青埔店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "花。韓食": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "串燒小棧-中壢燒烤美食宵夜小吃": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "米炭火燒肉小酒館": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "夜葉食堂中壢店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "涮金鍋 和風涮涮鍋 中壢青埔店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "CU 部隊鍋": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Mr.May義式百匯 中壢店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": true,
+    "old_hours": [
+     [
+      [
+       660,
+       900
+      ],
+      [
+       1020,
+       1320
+      ]
+     ],
+     [
+      [
+       660,
+       900
+      ],
+      [
+       1020,
+       1320
+      ]
+     ],
+     [
+      [
+       660,
+       900
+      ],
+      [
+       1020,
+       1320
+      ]
+     ],
+     [
+      [
+       660,
+       900
+      ],
+      [
+       1020,
+       1320
+      ]
+     ],
+     [
+      [
+       660,
+       900
+      ],
+      [
+       1020,
+       1320
+      ]
+     ],
+     [
+      [
+       660,
+       1320
+      ]
+     ],
+     [
+      [
+       660,
+       1320
+      ]
+     ]
+    ],
+    "new_hours": [
+     [
+      [
+       660,
+       900
+      ],
+      [
+       1020,
+       1320
+      ]
+     ],
+     [
+      [
+       660,
+       900
+      ],
+      [
+       1020,
+       1320
+      ]
+     ],
+     [
+      [
+       660,
+       900
+      ],
+      [
+       1020,
+       1320
+      ]
+     ],
+     [
+      [
+       660,
+       900
+      ],
+      [
+       1020,
+       1320
+      ]
+     ],
+     [
+      [
+       660,
+       900
+      ],
+      [
+       1020,
+       1320
+      ]
+     ],
+     [
+      [
+       660,
+       960
+      ],
+      [
+       1020,
+       1320
+      ]
+     ],
+     [
+      [
+       660,
+       960
+      ],
+      [
+       1020,
+       1320
+      ]
+     ]
+    ],
+    "photos_refreshed": false
+   },
+   "赤麵廠 レッドラーメン -中壢店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "超品軒餐館": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "帕朵拉義式餐廳 青埔環球A19店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "謀魚蝦也蠔-青埔漁場": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "東街日本料理 青埔店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "好想你重慶蓋碗火鍋": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "THE WORKS COFFEE": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "早方法（青埔店）": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "老吳商行 青埔店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "中壢洞天 粵式煲湯獨享鍋": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "禪燒肉": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "HWC 黑沃咖啡 Cafe 桃園青埔店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "PAPAFUN趴趴樂": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "好咖 Thai": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Puzzle coffee": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "日食物語": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "石乘拾石頭火鍋": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "幹麻？豚骨麻辣燙": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "漁師 小料理": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "艾薇越式饗味館（竹北店）": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "CUON 春花卷": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "紅瓦越式碳烤": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "明昌越式餐館": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "好來牛肉河粉": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "滿月食堂": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "艾薇越式河粉": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "小舍河粉 竹北": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "越啡 越南美食": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "CaCa越南料理（新竹東門店）": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "中壢觀光夜市": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "中原夜市": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "自然本味輕食": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "gonnaEAT 竹北店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "樸食坊-手作餐廳": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "好好波奇": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "輕島 Isla Vita 精緻健康餐盒 竹北台元店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "PokéPoké 波奇波奇（新竹西大店）": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "樂聚波奇": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "野餐，日-健康餐盒": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "彩碗 ColorBowl Poke竹北博愛店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "HOUSE KITCHEN 好事廚房": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "非晉餐廚（竹北民權店）": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "非晉餐廚（新竹民生店）": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "皿富器食 minfood": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "叁比捌手作健康餐 中央店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "安天有富肌健康養身餐盒-竹北店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "柚日-手握飯糰‧和食": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "今喜手路菜餐盒": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "毋肉1999(公休日請詳見IG)": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Uncle Tacos 墨西哥健康餐/竹北美食/異國美食": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": true,
+    "old_hours": [
+     [],
+     [
+      [
+       480,
+       1200
+      ]
+     ],
+     [
+      [
+       480,
+       1200
+      ]
+     ],
+     [],
+     [
+      [
+       480,
+       1200
+      ]
+     ],
+     [
+      [
+       480,
+       810
+      ]
+     ],
+     [
+      [
+       480,
+       810
+      ]
+     ]
+    ],
+    "new_hours": [
+     [],
+     [
+      [
+       480,
+       1200
+      ]
+     ],
+     [
+      [
+       480,
+       1200
+      ]
+     ],
+     [
+      [
+       480,
+       1200
+      ]
+     ],
+     [
+      [
+       480,
+       1200
+      ]
+     ],
+     [
+      [
+       480,
+       870
+      ]
+     ],
+     [
+      [
+       480,
+       870
+      ]
+     ]
+    ],
+    "photos_refreshed": false
+   },
+   "宜食生製": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "A&M Cucine Co.日煦食坊": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "非晉餐廚（新竹東南店）新竹必吃義大利麵|低卡餐盒|健身餐盒|商務便當|必吃便當|特色便當": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "jam kitchen新竹馬偕站": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "暖日子-現打果汁/輕食/親子友善": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": true,
+    "old_hours": [
+     [
+      [
+       540,
+       1080
+      ]
+     ],
+     [
+      [
+       540,
+       1080
+      ]
+     ],
+     [
+      [
+       540,
+       1080
+      ]
+     ],
+     [
+      [
+       540,
+       1080
+      ]
+     ],
+     [
+      [
+       540,
+       1080
+      ]
+     ],
+     [
+      [
+       540,
+       1080
+      ]
+     ],
+     [
+      [
+       540,
+       1080
+      ]
+     ]
+    ],
+    "new_hours": [
+     [],
+     [
+      [
+       540,
+       1080
+      ]
+     ],
+     [
+      [
+       540,
+       1080
+      ]
+     ],
+     [
+      [
+       540,
+       1080
+      ]
+     ],
+     [
+      [
+       540,
+       1080
+      ]
+     ],
+     [
+      [
+       540,
+       1080
+      ]
+     ],
+     [
+      [
+       540,
+       1080
+      ]
+     ]
+    ],
+    "photos_refreshed": false
+   },
+   "金鍋盃中壢店（寵物友善餐廳）": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "賣漁仔石頭火鍋｜餐廳｜美食": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "桃鍋物": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "錸一鍋時尚鍋物 內壢店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "蒔野鍋物(中壢店)": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "一風堂遠百竹北店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "漢來上海湯包 新竹遠百竹北店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": true,
+    "old_hours": [
+     [
+      [
+       690,
+       870
+      ],
+      [
+       1020,
+       1260
+      ]
+     ],
+     [
+      [
+       690,
+       870
+      ],
+      [
+       1020,
+       1260
+      ]
+     ],
+     [
+      [
+       690,
+       870
+      ],
+      [
+       1020,
+       1260
+      ]
+     ],
+     [
+      [
+       690,
+       870
+      ],
+      [
+       1020,
+       1260
+      ]
+     ],
+     [
+      [
+       690,
+       870
+      ],
+      [
+       1020,
+       1260
+      ]
+     ],
+     [
+      [
+       660,
+       900
+      ],
+      [
+       1020,
+       1260
+      ]
+     ],
+     [
+      [
+       660,
+       900
+      ],
+      [
+       1020,
+       1260
+      ]
+     ]
+    ],
+    "new_hours": [
+     [
+      [
+       690,
+       900
+      ],
+      [
+       1020,
+       1290
+      ]
+     ],
+     [
+      [
+       690,
+       900
+      ],
+      [
+       1020,
+       1290
+      ]
+     ],
+     [
+      [
+       690,
+       900
+      ],
+      [
+       1020,
+       1290
+      ]
+     ],
+     [
+      [
+       690,
+       900
+      ],
+      [
+       1020,
+       1290
+      ]
+     ],
+     [
+      [
+       690,
+       900
+      ],
+      [
+       1020,
+       1290
+      ]
+     ],
+     [
+      [
+       660,
+       900
+      ],
+      [
+       1020,
+       1290
+      ]
+     ],
+     [
+      [
+       660,
+       930
+      ],
+      [
+       1020,
+       1290
+      ]
+     ]
+    ],
+    "photos_refreshed": false
+   },
+   "MO-MO-PARADISE 新竹巨城牧場": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "鼎泰豐 新竹店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "新竹燒烤/牛角日本燒肉專門店-新竹大遠百店/新竹吃到飽/日式餐廳/新竹大遠百美食": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "開飯川食堂 新竹巨城店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "朱記餡餅粥店 巨城百貨新竹店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "樂葵法式鐵板燒-竹北店 | Le Goût Teppanyaki": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "涓豆腐 竹北遠百店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "山口六家食堂": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Cold Stone酷聖石冰淇淋竹北門市": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "丸亀製麵 遠雄新竹店 烏龍麵餐廳": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "藍象廷泰式火鍋 新竹巨城店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Starbucks星巴克 西大門市": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "來吧！肉夯夯韓式燒肉吃到飽湳雅店ROU*HANG BBQ KOREA RESTAURANT": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "糖朝 新竹巨城店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "銀座杏子日式豬排-iFG遠雄廣場新竹店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "忠青商行 新竹巨城店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "上菜 片皮鴨專賣店 新竹遠百竹北店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "新馬辣經典麻辣鍋-新竹巨城店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "瓦城泰國料理 新竹遠雄店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "MAGiC TOUCH点爭鮮-iFG遠雄新竹店｜日式料理壽司生魚片": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "乾杯燒肉居酒屋 新竹巨城店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "朱記餡餅粥店 大遠百新竹店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "時時香 遠百竹北店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "くら寿司 藏壽司 新竹巨城店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "豆腐村 Tofu Village - 竹北享平方店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "時時香 - 新竹巨城店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "金色三麥 新竹竹北店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "青鳥旅新竹竹北遠百B2店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "石二鍋 新竹遠雄店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Woosa洋食パンケーキ 屋莎洋食鬆餅屋 竹北遠百店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "開飯川食堂 竹北遠百店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "四川吳抄手 Chili House 遠百竹北店 Zhubei": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "72度C舒肥健康餐/水煮餐 竹北仁義店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "蛋白盒子健康低卡餐盒-竹北嘉豐店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "戰鬥雞 油雞/醉雞 輕食餐盒 竹北三民店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Miss Energy 能量小姐 竹北高鐵直營門市": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "食Go易健康概念餐盒 竹北自強南店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   }
+  },
+  "unmatched": {
+   "山上走走 日式無菜單鍋物": "no Text Search result matched cid=13505636924870070035",
+   "涮肉亭－竹北光明店": "no Text Search result matched cid=3000043961694865326",
+   "松島食堂": "no Text Search result matched cid=1228034172139835353"
+  }
+ },
+ "busan": {
+  "entries": {
+   "쇼미더고기 해운대점": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Sooble": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "워킹홀리데이 & Night 민락점": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Yao": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "돼지나무 사랑걸렸네 서면 본점": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "金星會館 釜山西面店 釜山烤肉": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Gunamroast": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "아리랑갈비 전포점": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Upper Yeast Bakery": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Seokam Busan Nampo": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "조개뷰 해운대본점": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "금랑횟집": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "감천사골소머리곰탕": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "사천훠궈양꼬치 남포점": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "샤브남바완": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "고하순 광안직영점": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Choil-Yug": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": true,
+    "old_hours": [
+     [
+      [
+       990,
+       1500
+      ]
+     ],
+     [
+      [
+       990,
+       1500
+      ]
+     ],
+     [
+      [
+       990,
+       1500
+      ]
+     ],
+     [
+      [
+       990,
+       1500
+      ]
+     ],
+     [
+      [
+       990,
+       1500
+      ]
+     ],
+     [
+      [
+       990,
+       1500
+      ]
+     ],
+     [
+      [
+       990,
+       1500
+      ]
+     ]
+    ],
+    "new_hours": [
+     [
+      [
+       990,
+       1470
+      ]
+     ],
+     [
+      [
+       990,
+       1470
+      ]
+     ],
+     [
+      [
+       990,
+       1470
+      ]
+     ],
+     [
+      [
+       990,
+       1470
+      ]
+     ],
+     [
+      [
+       990,
+       1470
+      ]
+     ],
+     [
+      [
+       990,
+       1470
+      ]
+     ],
+     [
+      [
+       990,
+       1470
+      ]
+     ]
+    ],
+    "photos_refreshed": false
+   },
+   "Haean galbi": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "길촌숯불갈비 서면본점": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "대장군 한우로스구이": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "이박사 생종이오겹": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "낭기뒷고기 수영점": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "우두머리": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "雪夜覓 釜山西面": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Bibibim": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "石鍋拌飯": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "友情石鍋拌飯 西面店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Woojung's Dolsot Bibimbap": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Woojung Dolsot Bibimbap head store": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "본죽&비빔밥 부산서면영광도서점": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "百年土種参鶏湯 釜山店 | 백년토종삼계탕 부산점": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "이우철한방누룽지삼계탕": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "김정옥엄나무삼계탕": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "엄나무 삼계탕": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": true,
+    "old_hours": [
+     [
+      [
+       660,
+       870
+      ],
+      [
+       930,
+       1200
+      ]
+     ],
+     [
+      [
+       660,
+       870
+      ],
+      [
+       930,
+       1200
+      ]
+     ],
+     [
+      [
+       660,
+       870
+      ],
+      [
+       930,
+       1200
+      ]
+     ],
+     [
+      [
+       660,
+       870
+      ],
+      [
+       930,
+       1200
+      ]
+     ],
+     [
+      [
+       660,
+       870
+      ],
+      [
+       930,
+       1200
+      ]
+     ],
+     [
+      [
+       660,
+       870
+      ],
+      [
+       930,
+       1200
+      ]
+     ],
+     [
+      [
+       660,
+       870
+      ],
+      [
+       930,
+       1200
+      ]
+     ]
+    ],
+    "new_hours": [
+     [
+      [
+       660,
+       900
+      ],
+      [
+       960,
+       1200
+      ]
+     ],
+     [
+      [
+       660,
+       900
+      ],
+      [
+       960,
+       1200
+      ]
+     ],
+     [
+      [
+       660,
+       900
+      ],
+      [
+       960,
+       1200
+      ]
+     ],
+     [
+      [
+       660,
+       900
+      ],
+      [
+       960,
+       1200
+      ]
+     ],
+     [
+      [
+       660,
+       900
+      ],
+      [
+       960,
+       1200
+      ]
+     ],
+     [
+      [
+       660,
+       900
+      ],
+      [
+       960,
+       1200
+      ]
+     ],
+     [
+      [
+       660,
+       900
+      ],
+      [
+       960,
+       1200
+      ]
+     ]
+    ],
+    "photos_refreshed": false
+   },
+   "百年土種蔘鷄湯": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": true,
+    "old_hours": [
+     [
+      [
+       660,
+       1230
+      ]
+     ],
+     [
+      [
+       660,
+       1230
+      ]
+     ],
+     [
+      [
+       660,
+       1230
+      ]
+     ],
+     [
+      [
+       660,
+       1230
+      ]
+     ],
+     [
+      [
+       660,
+       1230
+      ]
+     ],
+     [
+      [
+       660,
+       1230
+      ]
+     ],
+     [
+      [
+       660,
+       1230
+      ]
+     ]
+    ],
+    "new_hours": [
+     [
+      [
+       600,
+       1200
+      ]
+     ],
+     [
+      [
+       600,
+       1200
+      ]
+     ],
+     [
+      [
+       600,
+       1200
+      ]
+     ],
+     [
+      [
+       600,
+       1200
+      ]
+     ],
+     [
+      [
+       600,
+       1200
+      ]
+     ],
+     [
+      [
+       600,
+       1200
+      ]
+     ],
+     [
+      [
+       600,
+       1200
+      ]
+     ]
+    ],
+    "photos_refreshed": false
+   },
+   "정가네삼계탕": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Dongbaek Samgyetang": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "대가삼계탕": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "배종관 동래삼계탕": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "古宮蔘雞湯 고궁삼계탕": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "우성삼계탕": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "백년백세토종삼계탕 온천점": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Little Tipsy": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": true,
+    "old_hours": [
+     [],
+     [
+      [
+       690,
+       1320
+      ]
+     ],
+     [
+      [
+       690,
+       1320
+      ]
+     ],
+     [
+      [
+       690,
+       1320
+      ]
+     ],
+     [
+      [
+       690,
+       1320
+      ]
+     ],
+     [
+      [
+       690,
+       1320
+      ]
+     ],
+     [
+      [
+       690,
+       1320
+      ]
+     ]
+    ],
+    "new_hours": [
+     [],
+     [
+      [
+       660,
+       1320
+      ]
+     ],
+     [
+      [
+       660,
+       1320
+      ]
+     ],
+     [
+      [
+       660,
+       1320
+      ]
+     ],
+     [
+      [
+       660,
+       1320
+      ]
+     ],
+     [
+      [
+       660,
+       1320
+      ]
+     ],
+     [
+      [
+       660,
+       1320
+      ]
+     ]
+    ],
+    "photos_refreshed": false
+   },
+   "광안제일분식": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "경주해관": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": true,
+    "old_hours": [
+     [],
+     [
+      [
+       660,
+       1380
+      ]
+     ],
+     [
+      [
+       660,
+       1380
+      ]
+     ],
+     [
+      [
+       660,
+       1380
+      ]
+     ],
+     [
+      [
+       660,
+       1380
+      ]
+     ],
+     [
+      [
+       660,
+       1380
+      ]
+     ],
+     [
+      [
+       660,
+       1200
+      ]
+     ]
+    ],
+    "new_hours": [
+     [],
+     [
+      [
+       660,
+       1320
+      ]
+     ],
+     [
+      [
+       660,
+       1320
+      ]
+     ],
+     [
+      [
+       660,
+       1320
+      ]
+     ],
+     [
+      [
+       660,
+       1320
+      ]
+     ],
+     [
+      [
+       660,
+       1320
+      ]
+     ],
+     [
+      [
+       660,
+       1200
+      ]
+     ]
+    ],
+    "photos_refreshed": false
+   },
+   "엄마손떡볶이": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Bunsigdang": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "소소분식": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "대림김밥": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "바사케 보수점": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "대박분식": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "맛나분식": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "신전떡볶이 부산대점": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "짱떡볶이": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "자유인 ZAYUIN SASHIMI": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "윤슬낙지": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "조개대표 2호점": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "토유 레스토랑": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": true,
+    "old_hours": [
+     [
+      [
+       660,
+       1020
+      ]
+     ],
+     [
+      [
+       660,
+       1020
+      ]
+     ],
+     [
+      [
+       660,
+       1020
+      ]
+     ],
+     [
+      [
+       660,
+       1020
+      ]
+     ],
+     [
+      [
+       660,
+       1020
+      ]
+     ],
+     [
+      [
+       660,
+       1020
+      ]
+     ],
+     [
+      [
+       660,
+       1020
+      ]
+     ]
+    ],
+    "new_hours": [
+     [
+      [
+       450,
+       1020
+      ]
+     ],
+     [
+      [
+       450,
+       1020
+      ]
+     ],
+     [
+      [
+       450,
+       1020
+      ]
+     ],
+     [
+      [
+       450,
+       1020
+      ]
+     ],
+     [
+      [
+       450,
+       1020
+      ]
+     ],
+     [
+      [
+       450,
+       1020
+      ]
+     ],
+     [
+      [
+       450,
+       1020
+      ]
+     ]
+    ],
+    "photos_refreshed": false
+   },
+   "쭈꾸미가 알고싶다 부산서면점": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "수아아빠24시회마트 suaappa 24h sashimi market": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Haemullae": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "원조기장대게할인마트7층": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Cheongchun Jogae Pocha Gwangan branch": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "DUF Coffee": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "피클스(Pickles)": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Raw & Sweet": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "cafe voisin": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "bosudongga": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "젤라송(gelasong) 부산송도점": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "힙피": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "포션 카페": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "카페롤미": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "LUFT MANSION": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "포터리 신세계 센텀": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "PEOFUL 부산지점": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "에잇세컨즈 부산광복점": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "이블래 서면점(부산)": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "LUFT & Luft Mansion": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "KO&CLO 코앤클로 부산": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "ALPHA ROMEO (알파로미오)": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Nonno": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "RNC": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "서면 남녀공학": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "워너비 서면 (WANNABE)": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "8 seconds Samjung tower": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "발란사 BALANSA": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "NOCLAIM": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "the orleans store": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Topten": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Nike Factory Store Gimhae": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "(주)코오롱FNC부문해운대세이브프라자": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "西面地下街": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "光復地下商街": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "南浦地下商街": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "國際市場": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "부전몰 - 서면지하도상가": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "光復路時尚街": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "釜山鎭市場": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Lotte Premium Outlets 東釜山店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "PUFF Bakery": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Old Mont Bagel 釜山店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "松亭3代豬肉湯飯": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "星巴克": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "다이아에그": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "釜山市民公園": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "宋象賢 廣場": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "서면먹자골목": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "거울연못": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "樂天百貨": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "삼정타워": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "부산포민속박물관": {
+    "business_status": "CLOSED_TEMPORARILY",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "전포공구길 (전리단길)": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "田浦咖啡街": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "西面市場": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "釜田市場": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "釜田人參市場": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "31cm 刀削麵": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "ARTE MUSEUM": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "白淺灘文化村": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "364": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "海雲臺五福豬肉湯飯": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "海木": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Ondon": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Solsot Haeundae": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Goban Sikdang": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "古來思魚糕 海雲臺店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "廣安木 海雲台店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "青沙浦 米線": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "모리구이 음식점": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "팔도미역 청사포점(Paldomiyeok chengsapo)": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "燈塔烤鰻烤扇貝": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Cheongsapo Heaundae Gui": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "道熙家": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Haerim Restaurant": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "우나쥬 (UNAJU)": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "宮中蔘雞湯": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "明星(名聲)一隻雞": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "형과아우누룽지삼계탕&왕갈비탕 부평점": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   }
+  },
+  "unmatched": {
+   "Nasubeu": "no Text Search result matched cid=603922656267963087"
+  }
+ },
+ "clothing": {
+  "entries": {
+   "MKone 男裝": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "3lines男裝中性服飾": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Laio 萊歐復古紳士裝 - 新竹店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "CMF 韓國男裝服飾": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "dnews男裝服飾": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "GA.Design - 客製西服": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Mr.Black 黑仕訂製西服": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "EMTM型男西服": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "EZ西服-桃園形象概念館 - ElegaZzle Bespoke Suit": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Dandy西服竹北店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "男裝社西服號": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "BeMAX胖胖星球-男裝大尺碼服飾(桃園旗艦店)": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Gold韓國女裝服飾店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "GM日韓女裝": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "QkM.21微/正式西裝 • 學生面試套裝 • 情侶穿搭・女生西裝 • 大尺碼 • 休閒西裝 • 情侶西裝": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "UnASeouL 韓國精品女裝": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "荷莉漾": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "iROO桃園藝文店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "iROO桃園店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "HAI the label 新竹大遠百專櫃": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "YamiYa": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "LLstudio": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "MOMA桃園門市": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Sen服飾桃園中正店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "BONJOUR 女鞋 試鞋空間 桃園站前店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "BK先生教你選對鞋 - 桃園建國門市": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "ROYAL SELECT 新竹皇家流行概念館": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "千步專業鞋墊-桃園門市": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "小腳慢步童鞋 桃園店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "千步專業鞋墊 萬家福經國店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "牧田工作安全鞋專賣店-竹北自強門市": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "走四方訂製鞋墊 竹北店-新竹竹北客製訂製/兒童/大人鞋墊 扁平足/矯正鞋墊/足弓墊/足底筋膜炎 專業價格推薦 PTT Dcard": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "模靚(手作飾品)": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": true,
+    "old_hours": [
+     [],
+     [],
+     [
+      [
+       630,
+       1080
+      ]
+     ],
+     [
+      [
+       630,
+       1080
+      ]
+     ],
+     [
+      [
+       630,
+       1080
+      ]
+     ],
+     [
+      [
+       630,
+       1080
+      ]
+     ],
+     [
+      [
+       630,
+       1080
+      ]
+     ]
+    ],
+    "new_hours": [
+     [],
+     [
+      [
+       630,
+       1020
+      ]
+     ],
+     [
+      [
+       630,
+       1080
+      ]
+     ],
+     [
+      [
+       630,
+       1080
+      ]
+     ],
+     [
+      [
+       630,
+       1080
+      ]
+     ],
+     [
+      [
+       630,
+       1020
+      ]
+     ],
+     []
+    ],
+    "photos_refreshed": false
+   },
+   "碧瑄飾品屋": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Ann'S 新竹門市 - 小白鞋 高跟鞋 涼鞋 婚鞋 尖頭鞋 平底鞋 牛津鞋 休閒鞋 懶人鞋 靴子 短靴 襪靴 過膝靴 膝上靴 雪靴 包包 大尺碼女鞋專賣": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "布布童鞋-竹北自強門市": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Office Star職業男女服飾新竹店-平價西裝/職場套裝/團體制服/禮服西服": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "OOTD我的穿搭服飾精品店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "P8精品服飾-新竹市-服飾店-日本服飾": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Bruno韓國服飾店（2樓）": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "JSMIX大尺碼服飾-桃園站前門市": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Eshow流行服飾": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "山頂鳥Hilltop 特賣會": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "RP 暢貨中心 Outlet": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "FILA Outlet 華泰名品城": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "力莉服飾店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Levi's 華泰名品城Outlet": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "CondorStore OUTLET - HSINCHU": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Twenty Boutique 新竹店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "LYLO 來囉！服飾選品店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "竹北 Goofing-off 日系服飾選品店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "POLARbear(大白熊) 中性服飾選貨店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Definite.Select 潮流選貨店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "BLACKOUT": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "Hydra Garment N'sneaker": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "MO-BO 竹北體驗概念店": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "蘋古AFA VINTAGE 古著": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   },
+   "ZOEY 走你文化國際精品": {
+    "business_status": "OPERATIONAL",
+    "hours_changed": false,
+    "photos_refreshed": false
+   }
+  },
+  "unmatched": {}
+ }
+}
