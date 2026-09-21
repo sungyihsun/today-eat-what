@@ -118,9 +118,9 @@
    "restaurant",
    "health_food_store",
    "food_store",
+   "food",
    "store",
    "health",
-   "food",
    "point_of_interest",
    "establishment"
   ],
@@ -147,26 +147,6 @@
   ],
   "area_label": "竹北"
  },
- "13034892887054868964": {
-  "place_id": "ChIJGc2drpM3aDQR5OEr2gQ-5bQ",
-  "name": "非晉餐廚（竹北民權店）-竹北低卡餐盒|低脂便當|健身餐盒|健康餐盒|商務便當|必吃便當|活動餐盒|外帶餐盒",
-  "address": "302台灣新竹縣竹北市文化里民權街56號",
-  "rating": 4.9,
-  "userRatingCount": 428,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=13034892887054868964&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.832235999999998,
-   "longitude": 121.01202300000001
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "竹北"
- },
  "10578052732456204859": {
   "place_id": "ChIJYzlQ6-43aDQRO_pmTerKzJI",
   "name": "野餐，日-健康餐盒（新竹竹北店）",
@@ -178,6 +158,26 @@
   "location": {
    "latitude": 24.8359924,
    "longitude": 121.00809840000001
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "竹北"
+ },
+ "13034892887054868964": {
+  "place_id": "ChIJGc2drpM3aDQR5OEr2gQ-5bQ",
+  "name": "非晉餐廚（竹北民權店）-竹北低卡餐盒|低脂便當|健身餐盒|健康餐盒|商務便當|必吃便當|活動餐盒|外帶餐盒",
+  "address": "302台灣新竹縣竹北市文化里民權街56號",
+  "rating": 4.9,
+  "userRatingCount": 428,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=13034892887054868964&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.832235999999998,
+   "longitude": 121.01202300000001
   },
   "types": [
    "restaurant",
@@ -302,9 +302,9 @@
   },
   "types": [
    "consultant",
-   "service",
    "health",
    "point_of_interest",
+   "service",
    "establishment"
   ],
   "area_label": "竹北"
@@ -326,8 +326,8 @@
    "meal_takeaway",
    "restaurant",
    "food",
-   "service",
    "point_of_interest",
+   "service",
    "establishment"
   ],
   "area_label": "竹北"
@@ -534,9 +534,9 @@
    "longitude": 121.0268591
   },
   "types": [
+   "salad_shop",
    "brunch_restaurant",
    "mediterranean_restaurant",
-   "salad_shop",
    "restaurant",
    "food",
    "point_of_interest",
@@ -558,8 +558,8 @@
   },
   "types": [
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -604,9 +604,9 @@
    "snack_bar",
    "chicken_restaurant",
    "market",
+   "meal_takeaway",
    "school",
    "educational_institution",
-   "meal_takeaway",
    "restaurant",
    "food",
    "point_of_interest",
