@@ -13,21 +13,21 @@
   },
   "types": [
    "taiwanese_restaurant",
-   "dim_sum_restaurant",
    "dessert_restaurant",
-   "tea_house",
    "cake_shop",
+   "dim_sum_restaurant",
    "cantonese_restaurant",
+   "tea_house",
    "chinese_restaurant",
-   "wholesaler",
    "bakery",
+   "manufacturer",
    "food_store",
+   "wholesaler",
    "store",
    "restaurant",
    "food",
-   "manufacturer",
-   "service",
    "point_of_interest",
+   "service",
    "establishment"
   ],
   "area_label": "勤美"
@@ -299,8 +299,8 @@
   },
   "types": [
    "restaurant",
-   "western_restaurant",
    "taiwanese_restaurant",
+   "western_restaurant",
    "chinese_restaurant",
    "food",
    "point_of_interest",
@@ -570,7 +570,7 @@
   "name": "Wednesday's Flavor 小週末",
   "address": "403台灣臺中市西區忠明里美村路一段149巷11號",
   "rating": 4.5,
-  "userRatingCount": 401,
+  "userRatingCount": 402,
   "priceLevel": "PRICE_LEVEL_MODERATE",
   "googleMapsUri": "https://maps.google.com/?cid=3499916080235378635&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
@@ -624,8 +624,8 @@
   "types": [
    "pub",
    "bistro",
-   "cafe",
    "bar",
+   "cafe",
    "restaurant",
    "food",
    "point_of_interest",
@@ -730,11 +730,11 @@
   "types": [
    "food_court",
    "city_park",
-   "dessert_shop",
    "mediterranean_restaurant",
+   "dessert_shop",
+   "park",
    "confectionery",
    "food_store",
-   "park",
    "store",
    "restaurant",
    "food",
@@ -823,8 +823,8 @@
   },
   "types": [
    "restaurant",
-   "brunch_restaurant",
    "breakfast_restaurant",
+   "brunch_restaurant",
    "food",
    "point_of_interest",
    "establishment"
@@ -1098,7 +1098,7 @@
   "name": "魚先生",
   "address": "403台灣臺中市西區昇平里中興街59號",
   "rating": 4.5,
-  "userRatingCount": 1113,
+  "userRatingCount": 1114,
   "priceLevel": "PRICE_LEVEL_MODERATE",
   "googleMapsUri": "https://maps.google.com/?cid=8060902400988696760&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
@@ -1237,12 +1237,12 @@
   },
   "types": [
    "japanese_restaurant",
-   "yakitori_restaurant",
    "japanese_izakaya_restaurant",
-   "kebab_shop",
    "sushi_restaurant",
    "liquor_store",
    "seafood_restaurant",
+   "kebab_shop",
+   "yakitori_restaurant",
    "barbecue_restaurant",
    "store",
    "restaurant",
@@ -1448,8 +1448,8 @@
   },
   "types": [
    "italian_restaurant",
-   "european_restaurant",
    "food_store",
+   "european_restaurant",
    "store",
    "restaurant",
    "food",
@@ -1472,8 +1472,8 @@
   },
   "types": [
    "italian_restaurant",
-   "european_restaurant",
    "food_store",
+   "european_restaurant",
    "store",
    "restaurant",
    "food",
@@ -1538,11 +1538,11 @@
   },
   "types": [
    "italian_restaurant",
-   "bistro",
    "wine_bar",
-   "european_restaurant",
+   "bistro",
    "bar",
    "food_store",
+   "european_restaurant",
    "store",
    "restaurant",
    "food",
@@ -1634,8 +1634,8 @@
   },
   "types": [
    "italian_restaurant",
-   "european_restaurant",
    "food_store",
+   "european_restaurant",
    "store",
    "restaurant",
    "food",
@@ -1721,9 +1721,9 @@
    "longitude": 120.66093599999999
   },
   "types": [
+   "food_store",
    "japanese_curry_restaurant",
    "japanese_restaurant",
-   "food_store",
    "store",
    "restaurant",
    "food",
@@ -1747,8 +1747,8 @@
   "types": [
    "bistro",
    "pub",
-   "american_restaurant",
    "bar",
+   "american_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -2187,14 +2187,14 @@
   },
   "types": [
    "cake_shop",
-   "wholesaler",
    "bakery",
+   "manufacturer",
    "food_store",
+   "wholesaler",
    "store",
    "food",
-   "manufacturer",
-   "service",
    "point_of_interest",
+   "service",
    "establishment"
   ],
   "area_label": "勤美"
@@ -2464,7 +2464,7 @@
   "name": "杦月初〡植感食光〡審計新村示範店",
   "address": "403台灣臺中市西區昇平里民生路364號",
   "rating": 5,
-  "userRatingCount": 2259,
+  "userRatingCount": 2260,
   "priceLevel": "PRICE_LEVEL_MODERATE",
   "googleMapsUri": "https://maps.google.com/?cid=529251029746252219&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
@@ -2626,6 +2626,27 @@
   ],
   "area_label": "勤美"
  },
+ "11958188675409810812": {
+  "place_id": "ChIJIcrX_3Q9aTQRfJXmOj4F9KU",
+  "name": "百花堂舖子",
+  "address": "403台灣臺中市西區昇平里民生路386號",
+  "rating": 4.8,
+  "userRatingCount": 505,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=11958188675409810812&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1444855,
+   "longitude": 120.6612302
+  },
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "勤美"
+ },
  "14600304771615145476": {
   "place_id": "ChIJsaReGQA9aTQRBL6PhNWznso",
   "name": "Days Eye Coffee",
@@ -2643,27 +2664,6 @@
    "cafe",
    "food_store",
    "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "11958188675409810812": {
-  "place_id": "ChIJIcrX_3Q9aTQRfJXmOj4F9KU",
-  "name": "百花堂舖子",
-  "address": "403台灣臺中市西區昇平里民生路386號",
-  "rating": 4.8,
-  "userRatingCount": 505,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=11958188675409810812&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1444855,
-   "longitude": 120.6612302
-  },
-  "types": [
-   "japanese_restaurant",
-   "restaurant",
    "food",
    "point_of_interest",
    "establishment"
