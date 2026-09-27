@@ -1,134 +1,163 @@
 {
- "17594215780279692622": {
-  "place_id": "ChIJE-FSVNY9aTQRTq0ktQg2K_Q",
-  "name": "永心鳳茶｜勤美誠品店 YONSHIN FENGCHA",
-  "address": "40360台灣臺中市西區民龍里公益路68號三樓",
+ "8360421557843887739": {
+  "place_id": "ChIJdWaCrt8WaTQRe4bNhxwvBnQ",
+  "name": "八虎食堂 大雅店",
+  "address": "428台灣臺中市大雅區上楓里民生路三段315號",
   "rating": 4.7,
-  "userRatingCount": 4974,
+  "userRatingCount": 3648,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=17594215780279692622&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=8360421557843887739&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.151235399999997,
-   "longitude": 120.663848
+   "latitude": 24.233387,
+   "longitude": 120.66338230000001
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "8390378538007192668": {
+  "place_id": "ChIJ_9J2Xe0WaTQRXOT6gNOccHQ",
+  "name": "阿松担仔麵",
+  "address": "428台灣臺中市大雅區文雅里中山北路573號",
+  "rating": 4.7,
+  "userRatingCount": 715,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=8390378538007192668&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2252778,
+   "longitude": 120.6443707
   },
   "types": [
    "taiwanese_restaurant",
-   "dessert_restaurant",
-   "cake_shop",
-   "dim_sum_restaurant",
-   "cantonese_restaurant",
-   "tea_house",
-   "chinese_restaurant",
-   "bakery",
-   "manufacturer",
-   "food_store",
-   "wholesaler",
-   "store",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "service",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "10261536772646827699": {
-  "place_id": "ChIJPyqenDA9aTQRs_Y4p1NNaI4",
-  "name": "所 勤美店",
-  "address": "403台灣臺中市西區美村路一段183號1樓",
-  "rating": 4.6,
-  "userRatingCount": 1686,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=10261536772646827699&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1503269,
-   "longitude": 120.661931
-  },
-  "types": [
-   "italian_restaurant",
-   "european_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "勤美"
+  "area_label": "大雅"
  },
- "12392383095009439022": {
-  "place_id": "ChIJ0U-35h09aTQRLu2XasSW-qs",
-  "name": "冒香香冒菜鍋-勤美店",
-  "address": "403台灣臺中市西區美村路一段97號",
-  "rating": 4.7,
-  "userRatingCount": 227,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=12392383095009439022&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1527899,
-   "longitude": 120.66187699999999
-  },
-  "types": [
-   "chinese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "14808342226410125820": {
-  "place_id": "ChIJdQq_tDw9aTQR_LmXBczMgc0",
-  "name": "發愣吃 VARMT (勤美店)",
-  "address": "403台灣臺中市西區中興里公正路133號",
-  "rating": 4.8,
-  "userRatingCount": 6893,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=14808342226410125820&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.148871099999997,
-   "longitude": 120.6619371
-  },
-  "types": [
-   "noodle_shop",
-   "chinese_noodle_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "18210313180223056515": {
-  "place_id": "ChIJAzqwZSM9aTQRgyrP41oHuPw",
-  "name": "HECHO : Bar & Kitchen",
-  "address": "403台灣臺中市西區中興里美村路一段149巷10號",
+ "10759269852978183362": {
+  "place_id": "ChIJjXJjMAgWaTQRwnxVHe2aUJU",
+  "name": "雅福美食館",
+  "address": "428台灣臺中市大雅區中清東路243號",
   "rating": 4.5,
-  "userRatingCount": 1860,
+  "userRatingCount": 254,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=18210313180223056515&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=10759269852978183362&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.151282899999998,
-   "longitude": 120.662227
+   "latitude": 24.224819999999998,
+   "longitude": 120.64665140000001
   },
   "types": [
-   "western_restaurant",
+   "chinese_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "勤美"
+  "area_label": "大雅"
  },
- "491525889932296777": {
-  "place_id": "ChIJceryuc49aTQRSYJSUzFA0gY",
-  "name": "KATZ卡司韓藝料理 · 勤美 (韓式炸雞、韓式拌飯、韓式豆腐鍋、韓式麵食)",
-  "address": "403台灣臺中市西區中興里公益路171號",
-  "rating": 4.4,
-  "userRatingCount": 2101,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=491525889932296777&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "560033732262412557": {
+  "place_id": "ChIJi8PMUUcXaTQRDcG8WbajxQc",
+  "name": "味市 お料理",
+  "address": "428台灣臺中市大雅區四德里中清路三段928號1樓",
+  "rating": 4.8,
+  "userRatingCount": 566,
+  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=560033732262412557&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.150617200000003,
-   "longitude": 120.6619783
+   "latitude": 24.217631299999997,
+   "longitude": 120.6491106
+  },
+  "types": [
+   "sushi_restaurant",
+   "seafood_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "5769348113383925583": {
+  "place_id": "ChIJo26d0wwXaTQRT6fRs4rXEFA",
+  "name": "伙房燒烤-大雅外帶店-歡迎外帶！（02：00最後點餐）（尋找合適店面，合適者請私訊官方帳號）",
+  "address": "428台灣臺中市大雅區大雅里中清東路147號號(旁",
+  "rating": 4.8,
+  "userRatingCount": 376,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=5769348113383925583&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2227283,
+   "longitude": 120.64797229999999
+  },
+  "types": [
+   "bar_and_grill",
+   "bar",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "9425303692887561228": {
+  "place_id": "ChIJlUoZeVYXaTQRDJS9csVnzYI",
+  "name": "老灣記-平價鍋物",
+  "address": "42859台灣臺中市大雅區神林南路199號1樓",
+  "rating": 4.7,
+  "userRatingCount": 1144,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=9425303692887561228&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2251373,
+   "longitude": 120.657174
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "1497509209098294202": {
+  "place_id": "ChIJOwQDsowXaTQRuhMuCLE4yBQ",
+  "name": "豪品鐵板燒 大雅店",
+  "address": "428台灣臺中市大雅區上雅里民生路一段233號",
+  "rating": 4.8,
+  "userRatingCount": 1275,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=1497509209098294202&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.227949,
+   "longitude": 120.65147019999998
+  },
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "17923418231738408753": {
+  "place_id": "ChIJKSXWkO0WaTQRMR-HX-vFvPg",
+  "name": "石全石美石鍋專賣店 | 大雅美食 |",
+  "address": "428台灣臺中市大雅區大雅里中清北街57號",
+  "rating": 4.1,
+  "userRatingCount": 1424,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=17923418231738408753&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.225295,
+   "longitude": 120.64687699999999
   },
   "types": [
    "korean_restaurant",
@@ -137,82 +166,63 @@
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "勤美"
+  "area_label": "大雅"
  },
- "5379463182394154490": {
-  "place_id": "ChIJHfTS_Ns9aTQR-l3lREOxp0o",
-  "name": "盛食咖哩店-勤美店（最後點餐為營業結束前一小時",
-  "address": "403台灣臺中市西區雙龍里模範街23巷12-3號",
-  "rating": 4.6,
-  "userRatingCount": 1570,
+ "17865407771230948263": {
+  "place_id": "ChIJ4w2H01UXaTQRp0u5g7at7vc",
+  "name": "汍樂滿盛燒肉丼 大雅店",
+  "address": "428台灣臺中市大雅區大雅里民興街52號",
+  "rating": 4.9,
+  "userRatingCount": 644,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=5379463182394154490&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=17865407771230948263&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.149196399999997,
-   "longitude": 120.66576200000002
+   "latitude": 24.225333199999998,
+   "longitude": 120.64824609999998
   },
   "types": [
-   "indian_restaurant",
+   "japanese_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "勤美"
+  "area_label": "大雅"
  },
- "13299905160726426375": {
-  "place_id": "ChIJ51PZe0U9aTQRB7N7G0fBkrg",
-  "name": "飪室咖哩 RenshiCurry 勤美店",
-  "address": "403台灣臺中市西區忠明里美村路一段149巷19號",
+ "9718946892321580734": {
+  "place_id": "ChIJPY929kAXaTQRvua2k7Si4IY",
+  "name": "松居食堂(請先預約)",
+  "address": "428台灣臺中市大雅區橫山里中山十一路73號",
+  "rating": 4.9,
+  "userRatingCount": 1009,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=9718946892321580734&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2113704,
+   "longitude": 120.64357419999999
+  },
+  "types": [
+   "restaurant",
+   "noodle_shop",
+   "chinese_noodle_restaurant",
+   "japanese_restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "8798213284339906593": {
+  "place_id": "ChIJpc2xG-0WaTQRIfgz_12IGXo",
+  "name": "大富水美食館",
+  "address": "428台灣臺中市大雅區員林里中清路四段32號",
   "rating": 4.3,
-  "userRatingCount": 2611,
+  "userRatingCount": 77,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=13299905160726426375&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=8798213284339906593&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1515246,
-   "longitude": 120.66238979999999
-  },
-  "types": [
-   "indian_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "12653320193877261527": {
-  "place_id": "ChIJlXrKXAA9aTQR17xUGa2fma8",
-  "name": "麵屋一燈 勤美店",
-  "address": "403台灣臺中市西區民龍里公益路68號B1",
-  "rating": 4.6,
-  "userRatingCount": 1846,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=12653320193877261527&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1509935,
-   "longitude": 120.66404200000001
-  },
-  "types": [
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "7835227711355339985": {
-  "place_id": "ChIJFQPlnMQ9aTQR0cShNRdSvGw",
-  "name": "漢堡排 嘉 台中勤美店",
-  "address": "403台灣臺中市西區民龍里公益路68號B1",
-  "rating": 4.5,
-  "userRatingCount": 663,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=7835227711355339985&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.15104,
-   "longitude": 120.663848
+   "latitude": 24.226827999999998,
+   "longitude": 120.644928
   },
   "types": [
    "restaurant",
@@ -220,1594 +230,19 @@
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "勤美"
+  "area_label": "大雅"
  },
- "4933140786809699409": {
-  "place_id": "ChIJYUg_cUA9aTQRUXzIoGgJdkQ",
-  "name": "將軍府日式居酒屋 勤美店",
-  "address": "403021台灣臺中市西區中興里向上北路159號",
-  "rating": 4.8,
-  "userRatingCount": 2257,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=4933140786809699409&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1476622,
-   "longitude": 120.66232799999999
-  },
-  "types": [
-   "japanese_izakaya_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "10214722868564499701": {
-  "place_id": "ChIJsQYoCa49aTQR9ZzYO1T8wY0",
-  "name": "嵩 sung 台中美村",
-  "address": "403台灣臺中市西區忠明里美村路一段36號2樓",
+ "9242952726046975277": {
+  "place_id": "ChIJvQw-trsXaTQRLSXCd4iQRYA",
+  "name": "肉鮮生韓式烤肉 大雅店",
+  "address": "42878台灣臺中市大雅區四德里中清路三段985號",
   "rating": 4.7,
-  "userRatingCount": 2560,
+  "userRatingCount": 2271,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=10214722868564499701&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=9242952726046975277&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.153886,
-   "longitude": 120.66158369999998
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "15028026685907410083": {
-  "place_id": "ChIJjYBYdwA9aTQRoxyaIKZGjtA",
-  "name": "滝禾製麵所-勤美模範店(拉麵專賣)",
-  "address": "403台灣臺中市西區雙龍里模範街30號",
-  "rating": 4.8,
-  "userRatingCount": 81,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=15028026685907410083&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1488594,
-   "longitude": 120.6667324
-  },
-  "types": [
-   "restaurant",
-   "japanese_restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "15065553880840822633": {
-  "place_id": "ChIJ_epP95s9aTQRaV8GFG-ZE9E",
-  "name": "昨日花卷跨界好食",
-  "address": "403台灣臺中市西區忠明里忠誠街91號",
-  "rating": 4.3,
-  "userRatingCount": 4411,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=15065553880840822633&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1524772,
-   "longitude": 120.6599502
-  },
-  "types": [
-   "restaurant",
-   "taiwanese_restaurant",
-   "western_restaurant",
-   "chinese_restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "7652987180750874293": {
-  "place_id": "ChIJdxk3cAA9aTQRtSZGK0vfNGo",
-  "name": "Potato Corner 台中勤美店",
-  "address": "403台灣臺中市西區民龍里公益路68號B1",
-  "rating": 4.9,
-  "userRatingCount": 366,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=7652987180750874293&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1515055,
-   "longitude": 120.66406509999999
-  },
-  "types": [
-   "fast_food_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "12978356513228435560": {
-  "place_id": "ChIJi5Qi2MY9aTQRaLBbi3xiHLQ",
-  "name": "有飯食光-台中勤美店",
-  "address": "40361台灣臺中市西區中興里公正路130-1號",
-  "rating": 4.7,
-  "userRatingCount": 166,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=12978356513228435560&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.149151399999997,
-   "longitude": 120.6619383
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "2579493073340898919": {
-  "place_id": "ChIJlfgOYp09aTQRZ54QkUgzzCM",
-  "name": "禾間糧倉-台中美食 台中義大利麵 台中早午餐 台中餐廳推薦 台中聚餐餐廳 台中勤美美食 科博館美食 台中西區美食 台中北區美食",
-  "address": "404台灣臺中市北區淡溝里臺灣大道二段342-1號",
-  "rating": 4.5,
-  "userRatingCount": 3914,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=2579493073340898919&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.154073999999998,
-   "longitude": 120.665971
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "151577970709092002": {
-  "place_id": "ChIJVw3tZuA9aTQRotbje1yDGgI",
-  "name": "TG蔬坊 The Greenery 勤美誠品店",
-  "address": "403台灣臺中市西區民龍里公益路68號B1",
-  "rating": 4.6,
-  "userRatingCount": 232,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=151577970709092002&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1512064,
-   "longitude": 120.6637949
-  },
-  "types": [
-   "salad_shop",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "8337628135930894079": {
-  "place_id": "ChIJu4hSI9g9aTQR_5Z2b500tXM",
-  "name": "Nice Cream 勤美店",
-  "address": "403台灣臺中市西區忠明里中興街277號",
-  "rating": 5,
-  "userRatingCount": 2355,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=8337628135930894079&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.153587599999998,
-   "longitude": 120.66297030000001
-  },
-  "types": [
-   "ice_cream_shop",
-   "dessert_shop",
-   "vegetarian_restaurant",
-   "confectionery",
-   "food_store",
-   "store",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "3976119880412120805": {
-  "place_id": "ChIJNSJzEzo9aTQR5UZVAPcDLjc",
-  "name": "來呷飯川食堂（勤美店）",
-  "address": "403台灣臺中市西區民龍里臺灣大道二段287號",
-  "rating": 4.4,
-  "userRatingCount": 857,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=3976119880412120805&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1531531,
-   "longitude": 120.666343
-  },
-  "types": [
-   "chinese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "14512933322586872147": {
-  "place_id": "ChIJP5G63409aTQRU1m4zfZLaMk",
-  "name": "CAFEAO 台中勤美店",
-  "address": "403台灣臺中市西區民龍里公益路68號B2",
-  "rating": 4.5,
-  "userRatingCount": 67,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=14512933322586872147&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.151137700000003,
-   "longitude": 120.663803
-  },
-  "types": [
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "11040627493669378885": {
-  "place_id": "ChIJS1sGY2M9aTQRRRuTsTUwOJk",
-  "name": "S'AIME 勤美複合選物店",
-  "address": "40351台灣臺中市西區中興街229號",
-  "rating": 5,
-  "userRatingCount": 1040,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=11040627493669378885&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1520433,
-   "longitude": 120.66284109999998
-  },
-  "types": [
-   "store",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "6649202412076234699": {
-  "place_id": "ChIJrZWdKJw9aTQRy3d5Y122Rlw",
-  "name": "做咖啡 hecho cafe & wine",
-  "address": "403台灣臺中市西區中興里美村路一段149巷12號",
-  "rating": 4.4,
-  "userRatingCount": 2952,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=6649202412076234699&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1513983,
-   "longitude": 120.6623315
-  },
-  "types": [
-   "coffee_shop",
-   "cafe",
-   "food_store",
-   "store",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "6784815815653869302": {
-  "place_id": "ChIJm9DPAzA9aTQR9kaAbgmCKF4",
-  "name": "Phase Coffee Roasters x 碧月Dessert 勤美術館店",
-  "address": "403台灣臺中市西區忠明里館前路79號",
-  "rating": 4.6,
-  "userRatingCount": 104,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=6784815815653869302&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1523744,
-   "longitude": 120.66409240000002
-  },
-  "types": [
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "10392715145820945506": {
-  "place_id": "ChIJETEvTZ49aTQRYrx6tlxXOpA",
-  "name": "筆堆咖啡",
-  "address": "403台灣臺中市西區中興里中興街122巷16號",
-  "rating": 4.2,
-  "userRatingCount": 241,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=10392715145820945506&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.148212599999997,
-   "longitude": 120.6640592
-  },
-  "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "5935739812177312458": {
-  "place_id": "ChIJYU-WUJw9aTQRyvr4B-n7X1I",
-  "name": "NUNCHUK 拿翹咖啡",
-  "address": "403台灣臺中市西區忠明里中興街285巷13弄13號",
-  "rating": 4.6,
-  "userRatingCount": 613,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=5935739812177312458&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1535019,
-   "longitude": 120.6623966
-  },
-  "types": [
-   "coffee_shop",
-   "cafe",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "3499916080235378635": {
-  "place_id": "ChIJ0Vh_Jpw9aTQRy3cbsiEzkjA",
-  "name": "Wednesday's Flavor 小週末",
-  "address": "403台灣臺中市西區忠明里美村路一段149巷11號",
-  "rating": 4.5,
-  "userRatingCount": 402,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=3499916080235378635&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1516095,
-   "longitude": 120.66224869999999
-  },
-  "types": [
-   "coffee_shop",
-   "cafe",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "9160129818338171153": {
-  "place_id": "ChIJ9yOXf3k9aTQREZmCjolRH38",
-  "name": "樂室",
-  "address": "403台灣臺中市西區中興里中興街79號",
-  "rating": 4.7,
-  "userRatingCount": 1269,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=9160129818338171153&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.147184,
-   "longitude": 120.662888
-  },
-  "types": [
-   "tea_house",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "4613519170430267213": {
-  "place_id": "ChIJq9fh-Z49aTQRTW_z9T2DBkA",
-  "name": "山水角舖咖啡Corner coffee bar",
-  "address": "403台灣臺中市西區中興里公正路102號1樓",
-  "rating": 4.6,
-  "userRatingCount": 324,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=4613519170430267213&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.149117,
-   "longitude": 120.66284700000001
-  },
-  "types": [
-   "pub",
-   "bistro",
-   "bar",
-   "cafe",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "2333117488499715544": {
-  "place_id": "ChIJqQAYmrE9aTQR2O1Gkf7lYCA",
-  "name": "噓。咖啡Shhhhh cafe n bar (公休時間請參照IG）（不接受訂位）",
-  "address": "403台灣臺中市西區忠明里中興街231號2F",
-  "rating": 4.4,
-  "userRatingCount": 125,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=2333117488499715544&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1520114,
-   "longitude": 120.6628703
-  },
-  "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "1767048951126260544": {
-  "place_id": "ChIJb68bDAY9aTQRQHubqKjRhRg",
-  "name": "鑫幣燒提錢退休-勤美店",
-  "address": "403台灣臺中市西區中興街94號",
-  "rating": 4.9,
-  "userRatingCount": 22,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=1767048951126260544&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1473921,
-   "longitude": 120.66328269999998
-  },
-  "types": [
-   "snack_bar",
-   "meal_takeaway",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "10739423143478118395": {
-  "place_id": "ChIJR3OV-kI9aTQR-0ef93IYCpU",
-  "name": "Coffee Keeep on",
-  "address": "403台灣臺中市西區中興里中興街122巷1號1樓",
-  "rating": 4.6,
-  "userRatingCount": 84,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=10739423143478118395&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.148441299999998,
-   "longitude": 120.6633226
-  },
-  "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "1445854967717288682": {
-  "place_id": "ChIJYb_mUFg9aTQR6tqFw261EBQ",
-  "name": "MOLINO 台中草悟廣場店",
-  "address": "403台灣臺中市西區雙龍里英才路534號534號B1樓, 櫃號B102",
-  "rating": 4.6,
-  "userRatingCount": 1720,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=1445854967717288682&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.14943,
-   "longitude": 120.66506450000001
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "2625721555357108204": {
-  "place_id": "ChIJJR8BpKs9aTQR7IclytdvcCQ",
-  "name": "PARK2 草悟廣場",
-  "address": "403台灣臺中市西區民龍里英才路534號",
-  "rating": 4.4,
-  "userRatingCount": 9913,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=2625721555357108204&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.149434799999998,
-   "longitude": 120.66507170000001
-  },
-  "types": [
-   "food_court",
-   "city_park",
-   "mediterranean_restaurant",
-   "dessert_shop",
-   "park",
-   "confectionery",
-   "food_store",
-   "store",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "9665422933547883811": {
-  "place_id": "ChIJIafwbM49aTQRIx0JzvJ6IoY",
-  "name": "三口\"ㄜˋ\"了（勤美店）",
-  "address": "403台灣臺中市西區昇平里中興街55號",
-  "rating": 4.6,
-  "userRatingCount": 1054,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=9665422933547883811&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1461191,
-   "longitude": 120.66299699999999
-  },
-  "types": [
-   "brunch_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "9558066375412686773": {
-  "place_id": "ChIJRwK5MD89aTQRtR8URroSpYQ",
-  "name": "A piece of cloud | 最後點餐至15：00或售完 |",
-  "address": "403台灣臺中市西區中興里中興三巷26號",
-  "rating": 4.8,
-  "userRatingCount": 303,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=9558066375412686773&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.148368899999998,
-   "longitude": 120.66211369999999
-  },
-  "types": [
-   "brunch_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "7968556377153798597": {
-  "place_id": "ChIJy6FXbe49aTQRxQHtSM7_lW4",
-  "name": "L'USiNE Café",
-  "address": "403013台灣臺中市西區忠誠街69號",
-  "rating": 4.7,
-  "userRatingCount": 1797,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=7968556377153798597&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.152486099999997,
-   "longitude": 120.6608111
-  },
-  "types": [
-   "brunch_restaurant",
-   "cafe",
-   "food_store",
-   "store",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "17466471116077096045": {
-  "place_id": "ChIJ1VOZxbM9aTQRbVxlUfBeZfI",
-  "name": "叁拾coffee( 最後點餐時間為15:00 )",
-  "address": "403台灣臺中市西區民龍里公益路155巷88號",
-  "rating": 4.7,
-  "userRatingCount": 247,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=17466471116077096045&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1477123,
-   "longitude": 120.66416050000001
-  },
-  "types": [
-   "restaurant",
-   "breakfast_restaurant",
-   "brunch_restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "1569012884074708369": {
-  "place_id": "ChIJMzmAPys9aTQRkb1Is-dAxhU",
-  "name": "AOZA熬咋",
-  "address": "403台灣臺中市西區中興里中興街81號",
-  "rating": 4.2,
-  "userRatingCount": 1483,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=1569012884074708369&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1473123,
-   "longitude": 120.66298889999999
-  },
-  "types": [
-   "brunch_restaurant",
-   "food_store",
-   "store",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "8099453448618327848": {
-  "place_id": "ChIJK1mI4i09aTQRKD-1r_8JZ3A",
-  "name": "吐司利亞 台中PARK2店",
-  "address": "403台灣臺中市西區雙龍里英才路534號B1",
-  "rating": 4.7,
-  "userRatingCount": 3469,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=8099453448618327848&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1493352,
-   "longitude": 120.6650361
-  },
-  "types": [
-   "mediterranean_restaurant",
-   "bistro",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "8978261833608735047": {
-  "place_id": "ChIJcwl3lJs9aTQRRymynJExmXw",
-  "name": "Coffee Smith",
-  "address": "403台灣臺中市西區華美街408號",
-  "rating": 4.5,
-  "userRatingCount": 1054,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=8978261833608735047&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1535053,
-   "longitude": 120.65917470000001
-  },
-  "types": [
-   "brunch_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "166973193361224135": {
-  "place_id": "ChIJTaIjSIQ9aTQRx_FOFTw1UQI",
-  "name": "樂子the Diner台中向上店（台中必吃早餐 / 台中必吃特色早午餐 / 台中好吃聚餐餐廳推薦 / 台中寵物友善餐廳）",
-  "address": "403台灣臺中市西區中興里向上北路100-5號",
-  "rating": 4.4,
-  "userRatingCount": 205,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=166973193361224135&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.148055799999998,
-   "longitude": 120.66415879999998
-  },
-  "types": [
-   "american_restaurant",
-   "brunch_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "14974989388857060562": {
-  "place_id": "ChIJb6zxSQA9aTQR0qwRHoLZ0c8",
-  "name": "艾初早餐 勤美模範店",
-  "address": "403台灣臺中市西區雙龍里模範街29號",
-  "rating": 4.2,
-  "userRatingCount": 73,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=14974989388857060562&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1496104,
-   "longitude": 120.6664946
-  },
-  "types": [
-   "brunch_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "14698748838607968061": {
-  "place_id": "ChIJz5zvw489aTQRPdfp_zBy_Ms",
-  "name": "堅果小巷 Heynuts alley cafe",
-  "address": "403台灣臺中市西區民龍里大仁街33號",
-  "rating": 4,
-  "userRatingCount": 2132,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=14698748838607968061&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.153248899999998,
-   "longitude": 120.668427
-  },
-  "types": [
-   "restaurant",
-   "brunch_restaurant",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "5442312078467131470": {
-  "place_id": "ChIJq_4p5J49aTQRTujZMQD6hks",
-  "name": "田樂公正小巷店",
-  "address": "403台灣台中市西区公正路128號號旁小巷（入口為2F/最後點餐20:00",
-  "rating": 4.5,
-  "userRatingCount": 3000,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=5442312078467131470&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1490847,
-   "longitude": 120.6621064
-  },
-  "types": [
-   "hamburger_restaurant",
-   "american_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "13145044980258806595": {
-  "place_id": "ChIJvcAlfwY9aTQRQ5vbnMOUbLY",
-  "name": "上山採覓-台中西區審計新村店（假日現場候位/平日可訂位）",
-  "address": "403台灣臺中市西區昇平里昇平街43號",
-  "rating": 4.7,
-  "userRatingCount": 330,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=13145044980258806595&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1454448,
-   "longitude": 120.66298659999998
-  },
-  "types": [
-   "brunch_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "8217467763986435535": {
-  "place_id": "ChIJ-5l7lJs9aTQRz42isWRPCnI",
-  "name": "7分SO美式廚房",
-  "address": "403台灣臺中市西區華美街410號",
-  "rating": 4.9,
-  "userRatingCount": 6496,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=8217467763986435535&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1535889,
-   "longitude": 120.65914559999999
-  },
-  "types": [
-   "american_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "4400836254104941226": {
-  "place_id": "ChIJl9yq9j09aTQRqvKVqEHpEj0",
-  "name": "主觀廚房.Subjective taste",
-  "address": "403台灣臺中市西區中興里公正路126號",
-  "rating": 4.6,
-  "userRatingCount": 2530,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=4400836254104941226&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.149093699999998,
-   "longitude": 120.66221949999999
-  },
-  "types": [
-   "hamburger_restaurant",
-   "brunch_restaurant",
-   "american_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "4109966465748798045": {
-  "place_id": "ChIJzRFaMpk9aTQRXYq5nbmICTk",
-  "name": "路靡也 ！",
-  "address": "403台灣臺中市西區公益里中美街311號",
-  "rating": 4.6,
-  "userRatingCount": 753,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=4109966465748798045&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1498577,
-   "longitude": 120.6600698
-  },
-  "types": [
-   "brunch_restaurant",
-   "breakfast_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "9435162330835669078": {
-  "place_id": "ChIJnfJ1JJ89aTQRVlCbdyZu8II",
-  "name": "將將燒日式料理",
-  "address": "403台灣臺中市西區中興里美村路一段236巷3號",
-  "rating": 4.7,
-  "userRatingCount": 1169,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=9435162330835669078&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1483275,
-   "longitude": 120.66132549999999
-  },
-  "types": [
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "8060902400988696760": {
-  "place_id": "ChIJnTYNeZ89aTQRuFAGdAYU3m8",
-  "name": "魚先生",
-  "address": "403台灣臺中市西區昇平里中興街59號",
-  "rating": 4.5,
-  "userRatingCount": 1114,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=8060902400988696760&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1462935,
-   "longitude": 120.66299070000001
-  },
-  "types": [
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "2852525572122819360": {
-  "place_id": "ChIJLw3G0J09aTQRIDsZ_-Q0lic",
-  "name": "MAGiC TOUCH点爭鮮勤美店｜日式料理生魚片｜寵物友善",
-  "address": "403台灣臺中市西區公益路68號B1",
-  "rating": 4.3,
-  "userRatingCount": 5171,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=2852525572122819360&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1512064,
-   "longitude": 120.6637949
-  },
-  "types": [
-   "japanese_restaurant",
-   "sushi_restaurant",
-   "meal_takeaway",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "7455006724700325938": {
-  "place_id": "ChIJ97D0Wbw9aTQRMkjpJx6BdWc",
-  "name": "安曇野食卓",
-  "address": "403台灣臺中市西區昇平里昇平街74號",
-  "rating": 4.3,
-  "userRatingCount": 349,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=7455006724700325938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.145672299999998,
-   "longitude": 120.6620059
-  },
-  "types": [
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "2019027170642796678": {
-  "place_id": "ChIJz5oANZk9aTQRhqAGsoMGBRw",
-  "name": "松葉壽司",
-  "address": "403台灣臺中市西區公益里中美街333號",
-  "rating": 4.4,
-  "userRatingCount": 1546,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=2019027170642796678&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1502877,
-   "longitude": 120.6600828
-  },
-  "types": [
-   "sushi_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "9932881779748848992": {
-  "place_id": "ChIJefiBgR09aTQRYEXhHVqv2Ik",
-  "name": "鮨壽司博館店|北區人氣壽司|科博館平價生魚片|勤美必吃日料|道地日料推薦|日本料理|日式餐廳",
-  "address": "40453台灣臺中市北區淡溝里博館東街33號一樓",
-  "rating": 4.6,
-  "userRatingCount": 201,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=9932881779748848992&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1549846,
-   "longitude": 120.6666757
-  },
-  "types": [
-   "sushi_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "9504225718380845257": {
-  "place_id": "ChIJMW84zJ49aTQRydg4ce_K5YM",
-  "name": "もちづき 和食 望月",
-  "address": "403台灣臺中市西區中興里美村路一段188巷18號",
-  "rating": 4.5,
-  "userRatingCount": 1220,
-  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=9504225718380845257&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1498432,
-   "longitude": 120.6605517
-  },
-  "types": [
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "5413448221407525132": {
-  "place_id": "ChIJp9JeoJ89aTQRDDn3xnluIEs",
-  "name": "卷卷庵日式料理",
-  "address": "403台灣臺中市西區中興里中興街82號",
-  "rating": 4.2,
-  "userRatingCount": 562,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=5413448221407525132&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1472666,
-   "longitude": 120.66316539999998
-  },
-  "types": [
-   "japanese_restaurant",
-   "japanese_izakaya_restaurant",
-   "sushi_restaurant",
-   "liquor_store",
-   "seafood_restaurant",
-   "kebab_shop",
-   "yakitori_restaurant",
-   "barbecue_restaurant",
-   "store",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "10760864755939268014": {
-  "place_id": "ChIJIYyPuRs9aTQRrtXHZXtFVpU",
-  "name": "虎川千代居酒屋-台中勤美店",
-  "address": "40351台灣臺中市西區中興里向上北路156號",
-  "rating": 4.8,
-  "userRatingCount": 2833,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=10760864755939268014&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.147953599999997,
-   "longitude": 120.6624554
-  },
-  "types": [
-   "japanese_izakaya_restaurant",
-   "food_court",
-   "bar_and_grill",
-   "liquor_store",
-   "yakitori_restaurant",
-   "japanese_restaurant",
-   "event_venue",
-   "bar",
-   "store",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "8809495502521712745": {
-  "place_id": "ChIJqSRkIG49aTQRaUA1HnydQXo",
-  "name": "浪人壽司",
-  "address": "403台灣臺中市西區美村路一段229號",
-  "rating": 4.6,
-  "userRatingCount": 467,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=8809495502521712745&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.149243,
-   "longitude": 120.66187029999999
-  },
-  "types": [
-   "sushi_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "1766569980122630455": {
-  "place_id": "ChIJ939P_ps9aTQRNwkUiAkehBg",
-  "name": "築地日本料理",
-  "address": "403台灣臺中市西區後龍里大和路61號",
-  "rating": 4.2,
-  "userRatingCount": 320,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=1766569980122630455&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1499503,
-   "longitude": 120.6676425
-  },
-  "types": [
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "14338417191571324550": {
-  "place_id": "ChIJR5jg6tI9aTQRhn72sHdK_MY",
-  "name": "小聚苑·日式小料理",
-  "address": "403022台灣臺中市西區公益里公正路215號1樓",
-  "rating": 5,
-  "userRatingCount": 24,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=14338417191571324550&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1489297,
-   "longitude": 120.6595489
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "6755278044679456282": {
-  "place_id": "ChIJ93yQTu49aTQRGkYdNJeRv10",
-  "name": "秋田笠",
-  "address": "403台灣臺中市西區中興里向上北路141號",
-  "rating": 4.6,
-  "userRatingCount": 1412,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=6755278044679456282&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.147788799999997,
-   "longitude": 120.6628348
-  },
-  "types": [
-   "japanese_izakaya_restaurant",
-   "yakitori_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "8951883216750495939": {
-  "place_id": "ChIJIfQz_p49aTQRw8gxRVt6O3w",
-  "name": "吳留手串燒居酒屋 勤美店",
-  "address": "40358台灣臺中市西區中興里中興街111號",
-  "rating": 4.9,
-  "userRatingCount": 19693,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=8951883216750495939&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.148539000000003,
-   "longitude": 120.66298259999999
-  },
-  "types": [
-   "japanese_izakaya_restaurant",
-   "yakitori_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "7345714392621096539": {
-  "place_id": "ChIJSW3HFdc9aTQRW56nIVI48WU",
-  "name": "嵐山熟成牛かつ專売-西區健行店",
-  "address": "403台灣臺中市西區忠明里健行路1058號",
-  "rating": 4.9,
-  "userRatingCount": 18084,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=7345714392621096539&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1561005,
-   "longitude": 120.66274980000001
-  },
-  "types": [
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "3406225144619750205": {
-  "place_id": "ChIJHxf-nBs9aTQRPVMQ2rhXRS8",
-  "name": "小鮨食事",
-  "address": "403台灣臺中市西區平和里金山路9-1號",
-  "rating": 4.6,
-  "userRatingCount": 1472,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=3406225144619750205&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.141398199999998,
-   "longitude": 120.6712469
-  },
-  "types": [
-   "japanese_restaurant",
-   "sushi_restaurant",
-   "meal_takeaway",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "7750408710776712334": {
-  "place_id": "ChIJ10-HKUI9aTQRjmzwtaj7jms",
-  "name": "Pasta LAbbito",
-  "address": "403009台灣臺中市西區後龍里民權路288-3號",
-  "rating": 4.8,
-  "userRatingCount": 686,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=7750408710776712334&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.146727499999997,
-   "longitude": 120.6702832
-  },
-  "types": [
-   "italian_restaurant",
-   "food_store",
-   "european_restaurant",
-   "store",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "5056990294666714286": {
-  "place_id": "ChIJV93GF5w9aTQRrhw1QuEJLkY",
-  "name": "拼圖寶藏 平價義大利麵",
-  "address": "號 No, No. 92美村路一段西區臺中市台灣 403",
-  "rating": 4.4,
-  "userRatingCount": 753,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=5056990294666714286&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.152201,
-   "longitude": 120.66159979999999
-  },
-  "types": [
-   "italian_restaurant",
-   "food_store",
-   "european_restaurant",
-   "store",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "4651347801713946364": {
-  "place_id": "ChIJdVxZfp49aTQR_C70hy7ojEA",
-  "name": "南瓜屋魔女露露的廚房",
-  "address": "403台灣臺中市西區忠明里中興街225號",
-  "rating": 4.5,
-  "userRatingCount": 6086,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=4651347801713946364&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.151761099999998,
-   "longitude": 120.6627616
-  },
-  "types": [
-   "italian_restaurant",
-   "european_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "10053559586419474705": {
-  "place_id": "ChIJz8vHhg8aaTQREYHBhC1rhYs",
-  "name": "August Food Studio",
-  "address": "403台灣臺中市西區安龍里英才路589巷4號",
-  "rating": 4.6,
-  "userRatingCount": 1294,
-  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=10053559586419474705&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1431746,
-   "longitude": 120.66569469999997
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "13216956331348385409": {
-  "place_id": "ChIJVWpuZ3w9aTQRgd7excEPbLc",
-  "name": "ISOLABO PASTA ｜義大利麵｜餐酒館｜",
-  "address": "403台灣臺中市西區中興街一巷9號",
-  "rating": 4.5,
-  "userRatingCount": 418,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=13216956331348385409&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.147441699999998,
-   "longitude": 120.6626306
-  },
-  "types": [
-   "italian_restaurant",
-   "wine_bar",
-   "bistro",
-   "bar",
-   "food_store",
-   "european_restaurant",
-   "store",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "303069372607293972": {
-  "place_id": "ChIJUdWtqJ89aTQRFOqOGP23NAQ",
-  "name": "藍洞義式廚房",
-  "address": "403台灣臺中市西區中興里向上北路127號",
-  "rating": 4.2,
-  "userRatingCount": 2655,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=303069372607293972&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1476844,
-   "longitude": 120.66347799999998
-  },
-  "types": [
-   "italian_restaurant",
-   "western_restaurant",
-   "european_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "17175348098093350161": {
-  "place_id": "ChIJ2YQT75s9aTQREf2IqBgYW-4",
-  "name": "波西塔諾義式小館-Positano PASTA",
-  "address": "403台灣臺中市西區忠明里忠誠街108號",
-  "rating": 4.5,
-  "userRatingCount": 725,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=17175348098093350161&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1526025,
-   "longitude": 120.65933249999999
-  },
-  "types": [
-   "italian_restaurant",
-   "dessert_restaurant",
-   "french_restaurant",
-   "european_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "8837223132195570711": {
-  "place_id": "ChIJncYVRJw9aTQRF8Rh-50fpHo",
-  "name": "書報館",
-  "address": "403台灣臺中市西區忠明里美村路一段83巷9號",
-  "rating": 4.3,
-  "userRatingCount": 1054,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=8837223132195570711&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.153157699999998,
-   "longitude": 120.6622889
-  },
-  "types": [
-   "italian_restaurant",
-   "european_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "2292349301763727930": {
-  "place_id": "ChIJk7hTaxA9aTQROuK9aIsP0B8",
-  "name": "打盹",
-  "address": "403台灣臺中市西區忠明里明義街9號",
-  "rating": 4.5,
-  "userRatingCount": 1700,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=2292349301763727930&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1545283,
-   "longitude": 120.66126759999999
-  },
-  "types": [
-   "italian_restaurant",
-   "food_store",
-   "european_restaurant",
-   "store",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "8760732500099478065": {
-  "place_id": "ChIJyxn7s5w9aTQRMTKm4MpflHk",
-  "name": "掌門精釀-台中勤美店 Zhangmen Taichung",
-  "address": "403台灣臺中市西區忠明里臺灣大道二段490號",
-  "rating": 4.6,
-  "userRatingCount": 673,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=8760732500099478065&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.156529199999998,
-   "longitude": 120.66129319999999
-  },
-  "types": [
-   "bistro",
-   "bar",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "389198351748183289": {
-  "place_id": "ChIJ0YDbHAo9aTQR-TQev9a1ZgU",
-  "name": "遊牧餐桌Nomadic Trattoria",
-  "address": "403台灣臺中市西區公民里忠勤街184號",
-  "rating": 4.6,
-  "userRatingCount": 806,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=389198351748183289&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.139893600000004,
-   "longitude": 120.66671059999999
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "2887261859429845689": {
-  "place_id": "ChIJ_ygjc6M9aTQRuYrZIF2dESg",
-  "name": "Yipin弈品創意 義式料理《聚會餐廳》義大利麵｜熱門義式｜義式披薩｜義式燉飯｜約會餐廳",
-  "address": "40349台灣臺中市西區昇平里福人街138號",
-  "rating": 4.7,
-  "userRatingCount": 886,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=2887261859429845689&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.143033499999998,
-   "longitude": 120.6568815
-  },
-  "types": [
-   "italian_restaurant",
-   "european_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "17208764277856701118": {
-  "place_id": "ChIJsWUCuJ49aTQRvooUTe_P0e4",
-  "name": "瑪莉亞廚房(家庭式小食堂)：專賣雙人大碗公義大利麵(單人來可點單人份)、提拉米蘇。",
-  "address": "403台灣臺中市西區中興里公正路156巷26號",
-  "rating": 4.6,
-  "userRatingCount": 394,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=17208764277856701118&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.150129999999997,
-   "longitude": 120.66093599999999
-  },
-  "types": [
-   "food_store",
-   "japanese_curry_restaurant",
-   "japanese_restaurant",
-   "store",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "18169700188072342819": {
-  "place_id": "ChIJVTYG2p09aTQRI3VmyQ2-J_w",
-  "name": "金色三麥 台中勤美店",
-  "address": "403台灣臺中市西區民龍里公益路68號B1",
-  "rating": 4.4,
-  "userRatingCount": 3617,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=18169700188072342819&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.151401099999998,
-   "longitude": 120.66354229999997
-  },
-  "types": [
-   "bistro",
-   "pub",
-   "bar",
-   "american_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "4980714689853049753": {
-  "place_id": "ChIJF4qUrH09aTQRmctCGJ8NH0U",
-  "name": "老井極上燒肉 美村店",
-  "address": "403台灣臺中市西區中興里美村路一段289號",
-  "rating": 4.9,
-  "userRatingCount": 36390,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=4980714689853049753&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1471827,
-   "longitude": 120.66186350000001
-  },
-  "types": [
-   "barbecue_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "3794836296081907075": {
-  "place_id": "ChIJ6XG71L89aTQRg524YIH3qTQ",
-  "name": "小麥所居酒屋/旨火串烤 勤美店",
-  "address": "403台灣臺中市西區昇平里昇平街61號",
-  "rating": 4.7,
-  "userRatingCount": 2473,
-  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=3794836296081907075&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1454517,
-   "longitude": 120.6623506
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "13323350377741745383": {
-  "place_id": "ChIJD_ZXCvs9aTQR5_xcE5QM5rg",
-  "name": "新村站著吃烤肉 台中草悟店",
-  "address": "403台灣臺中市西區雙龍里英才路534號B1",
-  "rating": 4.8,
-  "userRatingCount": 3825,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=13323350377741745383&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1493352,
-   "longitude": 120.6650361
+   "latitude": 24.2189914,
+   "longitude": 120.6482159
   },
   "types": [
    "korean_barbecue_restaurant",
@@ -1817,659 +252,19 @@
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "勤美"
+  "area_label": "大雅"
  },
- "4390784389728930126": {
-  "place_id": "ChIJOQdaFpw9aTQRTokfmyMz7zw",
-  "name": "激旨燒鳥 美村加盟店",
-  "address": "403台灣臺中市西區忠明里美村路一段86號",
-  "rating": 4.2,
-  "userRatingCount": 1409,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=4390784389728930126&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.152312499999997,
-   "longitude": 120.66153749999998
-  },
-  "types": [
-   "yakitori_restaurant",
-   "bar_and_grill",
-   "barbecue_restaurant",
-   "japanese_restaurant",
-   "bar",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "18083519535296704914": {
-  "place_id": "ChIJ5TYOdZw9aTQRknEy7jSR9fo",
-  "name": "自立商店 燒烤居酒屋",
-  "address": "403台灣台中市西区中美街426號428號",
-  "rating": 4.6,
-  "userRatingCount": 1344,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=18083519535296704914&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.153153200000002,
-   "longitude": 120.6603636
-  },
-  "types": [
-   "japanese_izakaya_restaurant",
-   "taiwanese_restaurant",
-   "hot_pot_restaurant",
-   "barbecue_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "18075406757265078339": {
-  "place_id": "ChIJwwsuaTStaTQRQ_h6ma2-2Po",
-  "name": "敘禾燒肉專門店",
-  "address": "403台灣臺中市西區公舘里五權西三街111號",
-  "rating": 4.7,
-  "userRatingCount": 1445,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=18075406757265078339&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.134163299999997,
-   "longitude": 120.66316619999999
-  },
-  "types": [
-   "yakiniku_restaurant",
-   "barbecue_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "3756077031822843081": {
-  "place_id": "ChIJc4ErpWU9aTQRydzN7ihEIDQ",
-  "name": "泰宵張-勤美店",
-  "address": "403台灣臺中市西區忠明里中美街402號一樓",
-  "rating": 4.4,
-  "userRatingCount": 1583,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=3756077031822843081&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1527489,
-   "longitude": 120.66026470000001
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "11788376843999367095": {
-  "place_id": "ChIJHxws3J49aTQRt88FOUi6mKM",
-  "name": "鳥重地雞燒 - 台中居酒屋推薦 台中西區燒烤餐廳 首選 人氣日式串燒 宵夜美食推薦 網美好評 台中熱門深夜美食 必吃宵夜 餐酒館 網紅部落客推薦居酒屋 美村商圈 勤美綠園道 審計新村附近美食 小酌聚餐包廂",
-  "address": "403台灣臺中市西區中興里公正路132號",
-  "rating": 4.8,
-  "userRatingCount": 2121,
-  "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=11788376843999367095&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1490896,
-   "longitude": 120.66151139999998
-  },
-  "types": [
-   "japanese_izakaya_restaurant",
-   "bistro",
-   "bar_and_grill",
-   "yakitori_restaurant",
-   "japanese_restaurant",
-   "bar",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "8853976919455188753": {
-  "place_id": "ChIJl6Z3PQc9aTQREUeiDRml33o",
-  "name": "HOME燒肉-綠園道店",
-  "address": "403台灣臺中市西區吉龍里五權六街59號",
-  "rating": 4.7,
-  "userRatingCount": 6023,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=8853976919455188753&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1358537,
-   "longitude": 120.6632363
-  },
-  "types": [
-   "yakiniku_restaurant",
-   "barbecue_restaurant",
-   "japanese_restaurant",
-   "store",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "8913184080604821530": {
-  "place_id": "ChIJ89gjXZk9aTQRGvgdfrL9sXs",
-  "name": "燒肉本氣Yakiniku honki 內臟燒肉居酒屋",
-  "address": "403台灣臺中市西區公平里華美西街一段32號",
-  "rating": 4.5,
-  "userRatingCount": 981,
-  "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=8913184080604821530&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1523793,
-   "longitude": 120.6583252
-  },
-  "types": [
-   "yakiniku_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "16695920099726342646": {
-  "place_id": "ChIJkaj4kJw9aTQR9jl-Nt_Ss-c",
-  "name": "Oh ! Yaki 精緻燒肉吃到飽-台中中美店",
-  "address": "40360台灣臺中市西區忠明里明義街6號1樓",
-  "rating": 4.1,
-  "userRatingCount": 1908,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=16695920099726342646&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1550557,
-   "longitude": 120.66120740000001
-  },
-  "types": [
-   "barbecue_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "14899904160568909383": {
-  "place_id": "ChIJiw8-Kng9aTQRRx4TFuQXx84",
-  "name": "六本木焼肉",
-  "address": "403台灣臺中市西區忠誠里華美西街一段48號",
+ "861024380614502239": {
+  "place_id": "ChIJ__0hGusXaTQRX2d6vRz58gs",
+  "name": "熬鍋燒-台中大雅店",
+  "address": "428台灣臺中市大雅區大雅里學府路239號",
   "rating": 4.9,
-  "userRatingCount": 4236,
-  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=14899904160568909383&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.153520099999998,
-   "longitude": 120.6583003
-  },
-  "types": [
-   "yakiniku_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "1024952770155012186": {
-  "place_id": "ChIJs9Zg-c89aTQRWmCkMB1dOQ4",
-  "name": "伙房燒烤-向上店",
-  "address": "403台灣臺中市西區中興里向上路一段164號",
-  "rating": 4.8,
-  "userRatingCount": 1539,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=1024952770155012186&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1468401,
-   "longitude": 120.66116450000001
-  },
-  "types": [
-   "bar_and_grill",
-   "bar",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "8303573386706724287": {
-  "place_id": "ChIJ6WqT0Ys9aTQRv6UKQQA4PHM",
-  "name": "法芙妮｜烘焙甜點｜ 台中公益店",
-  "address": "403台灣臺中市西區民龍里公益路153號",
-  "rating": 4.4,
-  "userRatingCount": 1568,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=8303573386706724287&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1506965,
-   "longitude": 120.6643664
-  },
-  "types": [
-   "dessert_shop",
-   "confectionery",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "11545359949841789970": {
-  "place_id": "ChIJVTYG2p09aTQREnRXVrRbOaA",
-  "name": "BAC Cake&Sweets 台中勤美門市",
-  "address": "403台灣臺中市西區民龍里公益路68號勤美誠品綠園道1F",
-  "rating": 4.1,
-  "userRatingCount": 173,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=11545359949841789970&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1512064,
-   "longitude": 120.6637949
-  },
-  "types": [
-   "cake_shop",
-   "ice_cream_shop",
-   "gift_shop",
-   "dessert_shop",
-   "wholesaler",
-   "confectionery",
-   "bakery",
-   "food_store",
-   "store",
-   "food",
-   "manufacturer",
-   "service",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "6649084019431386416": {
-  "place_id": "ChIJr2w_2JA9aTQRMC3v869KRlw",
-  "name": "水母吃乳酪Mini 台中勤美Park2店｜乳酪蛋糕",
-  "address": "403台灣臺中市西區民龍里英才路534號1F",
-  "rating": 4.9,
-  "userRatingCount": 398,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=6649084019431386416&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1491755,
-   "longitude": 120.66453879999999
-  },
-  "types": [
-   "dessert_shop",
-   "confectionery",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "16630550281154920999": {
-  "place_id": "ChIJaWiVyMo9aTQRJwKDR16Vy-Y",
-  "name": "beard papa's 台中勤美店",
-  "address": "B1F, No. 68號公益路民龍里西區臺中市台灣 40360",
-  "rating": 4,
-  "userRatingCount": 206,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=16630550281154920999&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1510538,
-   "longitude": 120.6637085
-  },
-  "types": [
-   "dessert_shop",
-   "confectionery",
-   "bakery",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "3636172401001129063": {
-  "place_id": "ChIJZw3YkAM9aTQRZ2TAj4hHdjI",
-  "name": "L.Z. DESSART 無框架甜點",
-  "address": "No. 183號, 中興街中興里西區臺中市台灣 403",
-  "rating": 4.2,
-  "userRatingCount": 1536,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=3636172401001129063&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.150176,
-   "longitude": 120.66283
-  },
-  "types": [
-   "dessert_shop",
-   "gift_shop",
-   "confectionery",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "8836658623318881042": {
-  "place_id": "ChIJ_TuwNQA9aTQREnNQBDMeono",
-  "name": "Mum,Mum 饅饅好食 勤美綠園道誠品門市",
-  "address": "403台灣臺中市西區民龍里公益路68號B1",
-  "rating": 4.9,
-  "userRatingCount": 1003,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=8836658623318881042&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1512064,
-   "longitude": 120.6637949
-  },
-  "types": [
-   "cake_shop",
-   "bakery",
-   "manufacturer",
-   "food_store",
-   "wholesaler",
-   "store",
-   "food",
-   "point_of_interest",
-   "service",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "13907877471771159738": {
-  "place_id": "ChIJ4TR_-HU9aTQRuuyTnN-0AsE",
-  "name": "蜜柑法式甜點麵包",
-  "address": "403台灣臺中市西區民龍里模範街31巷16號",
-  "rating": 4.3,
-  "userRatingCount": 1675,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=13907877471771159738&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1499223,
-   "longitude": 120.6660824
-  },
-  "types": [
-   "dessert_shop",
-   "confectionery",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "8091770304826187562": {
-  "place_id": "ChIJR22T9-M9aTQRKh84Xzi-S3A",
-  "name": "旅禾烘焙 美村旗艦店",
-  "address": "40358台灣臺中市西區昇平里美村路一段343號",
-  "rating": 4.5,
-  "userRatingCount": 2684,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=8091770304826187562&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.145678099999998,
-   "longitude": 120.66190719999997
-  },
-  "types": [
-   "dessert_shop",
-   "confectionery",
-   "bakery",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "1097510068243405966": {
-  "place_id": "ChIJM_9SGwA9aTQRjhwQm5cjOw8",
-  "name": "克莉斯塔 美村店 christinetart 勤美草悟道",
-  "address": "403台灣臺中市西區忠明里美村路一段117巷17號",
-  "rating": 4.6,
-  "userRatingCount": 229,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=1097510068243405966&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.152245,
-   "longitude": 120.662477
-  },
-  "types": [
-   "dessert_shop",
-   "confectionery",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "8729243030189752577": {
-  "place_id": "ChIJyc3a5449aTQRAcGDVEmAJHk",
-  "name": "Riri&Cat甜塔專賣外帶店",
-  "address": "403台灣臺中市西區忠明里美村路一段118巷6號",
-  "rating": 4.9,
-  "userRatingCount": 615,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=8729243030189752577&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1515141,
-   "longitude": 120.6607531
-  },
-  "types": [
-   "dessert_shop",
-   "confectionery",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "7845933597024327610": {
-  "place_id": "ChIJH4Yn2J09aTQRuhfwdQlb4mw",
-  "name": "COLD STONE 酷聖石冰淇淋經國門市",
-  "address": "403台灣臺中市西區民龍里公益路68號勤美誠品綠園道B1",
-  "rating": 4.1,
-  "userRatingCount": 419,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=7845933597024327610&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1513834,
-   "longitude": 120.66402749999999
-  },
-  "types": [
-   "ice_cream_shop",
-   "dessert_shop",
-   "confectionery",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "7973759478525535007": {
-  "place_id": "ChIJ8WaBjJw9aTQRHyPruf97qG4",
-  "name": "美村豆花",
-  "address": "403台灣臺中市西區忠明里明義街1號",
-  "rating": 4.1,
-  "userRatingCount": 1399,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=7973759478525535007&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.154422999999998,
-   "longitude": 120.66152779999999
-  },
-  "types": [
-   "dessert_shop",
-   "snack_bar",
-   "meal_takeaway",
-   "confectionery",
-   "food_store",
-   "store",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "17709314343653236988": {
-  "place_id": "ChIJfc6o_J49aTQR_GAuTZEfxPU",
-  "name": "Bulga 寶格冰淇淋",
-  "address": "403台灣臺中市西區中興里公正路117號",
-  "rating": 4.7,
-  "userRatingCount": 398,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=17709314343653236988&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1489603,
-   "longitude": 120.66244580000001
-  },
-  "types": [
-   "ice_cream_shop",
-   "dessert_shop",
-   "confectionery",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "2658362764831199802": {
-  "place_id": "ChIJbTvbKZ09aTQROpLjmdlm5CQ",
-  "name": "Dough動手玩-金典店",
-  "address": "403台灣臺中市西區忠明里健行路1049號2樓",
-  "rating": 4.7,
-  "userRatingCount": 1605,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=2658362764831199802&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1557383,
-   "longitude": 120.66326099999999
-  },
-  "types": [
-   "bakery",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "3633860525328170207": {
-  "place_id": "ChIJhZ6P8zs9aTQR3_x_D-UQbjI",
-  "name": "Miss B drink & food 甜點吧",
-  "address": "403台灣臺中市西區忠明里中興街285巷13弄15號",
-  "rating": 4.9,
-  "userRatingCount": 228,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=3633860525328170207&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1534494,
-   "longitude": 120.6624013
-  },
-  "types": [
-   "restaurant",
-   "pastry_shop",
-   "dessert_shop",
-   "pub",
-   "bar",
-   "confectionery",
-   "bakery",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "9859757178437694760": {
-  "place_id": "ChIJVYV3KJ09aTQRKPViIOrk1Ig",
-  "name": "丰山 可麗露專賣店 第六市場店",
-  "address": "403台灣臺中市西區健行路1049號3樓56櫃",
-  "rating": 4.9,
-  "userRatingCount": 1270,
+  "userRatingCount": 811,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=9859757178437694760&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=861024380614502239&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1557383,
-   "longitude": 120.66326099999999
-  },
-  "types": [
-   "bakery",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "3336124662539438885": {
-  "place_id": "ChIJc3sIZPg9aTQRJUsVfbRLTC4",
-  "name": "涓豆腐 勤美誠品店",
-  "address": "403台灣臺中市西區民龍里公益路68號B1",
-  "rating": 4.2,
-  "userRatingCount": 680,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=3336124662539438885&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1512064,
-   "longitude": 120.6637949
-  },
-  "types": [
-   "korean_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "529251029746252219": {
-  "place_id": "ChIJT2b6aw49aTQRu_kI6QFHWAc",
-  "name": "杦月初〡植感食光〡審計新村示範店",
-  "address": "403台灣臺中市西區昇平里民生路364號",
-  "rating": 5,
-  "userRatingCount": 2260,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=529251029746252219&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1444255,
-   "longitude": 120.6627182
+   "latitude": 24.2225781,
+   "longitude": 120.649613
   },
   "types": [
    "restaurant",
@@ -2477,82 +272,39 @@
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "勤美"
+  "area_label": "大雅"
  },
- "10478736328019131239": {
-  "place_id": "ChIJz8f5igo9aTQRZ7uP7ivza5E",
-  "name": "Là JIA BONG 来呷弁 LAB - 審計新村餐廳・咖啡",
-  "address": "403台灣臺中市西區昇平里民生路368巷4弄10號1樓",
-  "rating": 4.7,
-  "userRatingCount": 455,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=10478736328019131239&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.144710999999997,
-   "longitude": 120.66281610000001
-  },
-  "types": [
-   "restaurant",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "17416337565239105242": {
-  "place_id": "ChIJI4JF35g9aTQR2lZeaL1Cs_E",
-  "name": "粵味私廚",
-  "address": "403台灣臺中市西區昇平里昇平街98號",
-  "rating": 4.9,
-  "userRatingCount": 456,
-  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=17416337565239105242&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.145636200000002,
-   "longitude": 120.6609876
-  },
-  "types": [
-   "chinese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "2795420765890683759": {
-  "place_id": "ChIJCUReNbI9aTQRbyOqNGBUyyY",
-  "name": "成真咖啡Cometrue 台中審計店(創始店）",
-  "address": "403台灣臺中市西區民生路370號",
+ "13073513962148817730": {
+  "place_id": "ChIJT5Ts2e0WaTQRQmv9n65zbrU",
+  "name": "頤禾園廣東粥",
+  "address": "428台灣臺中市大雅區大雅里大雅路116號",
   "rating": 4.5,
-  "userRatingCount": 2964,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=2795420765890683759&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "userRatingCount": 463,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=13073513962148817730&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1444404,
-   "longitude": 120.6623194
+   "latitude": 24.225207299999997,
+   "longitude": 120.64815990000001
   },
   "types": [
-   "cafe",
+   "restaurant",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "勤美"
+  "area_label": "大雅"
  },
- "6338397941622327608": {
-  "place_id": "ChIJkRWPrEU9aTQROEl3e1iD9lc",
-  "name": "製餃研所",
-  "address": "403台灣臺中市西區中興里中興一巷12號｜製餃研所｜范特喜-綠光計劃2樓",
-  "rating": 4.6,
-  "userRatingCount": 529,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=6338397941622327608&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "14892909382816125092": {
+  "place_id": "ChIJI-2YUwUXaTQRpFDWei0-rs4",
+  "name": "五花馬水餃館-大雅店",
+  "address": "428台灣臺中市大雅區四德里中清路三段885巷12號",
+  "rating": 4.5,
+  "userRatingCount": 564,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=14892909382816125092&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1476257,
-   "longitude": 120.66262689999998
+   "latitude": 24.216350499999997,
+   "longitude": 120.6485878
   },
   "types": [
    "dumpling_restaurant",
@@ -2561,82 +313,19 @@
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "勤美"
+  "area_label": "大雅"
  },
- "13382279475934364964": {
-  "place_id": "ChIJ949AP8U9aTQRJIUR8Edot7k",
-  "name": "皙酪 SHIRO 小農糙米燉飯/手工義大利麵",
-  "address": "403台灣臺中市西區昇平里昇平街134號",
-  "rating": 4.9,
-  "userRatingCount": 528,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=13382279475934364964&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1456233,
-   "longitude": 120.65999559999999
-  },
-  "types": [
-   "italian_restaurant",
-   "european_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "16920488568649152157": {
-  "place_id": "ChIJS3jVxb49aTQRnfZjYLSm0eo",
-  "name": "ONE MORE 泰",
-  "address": "403台灣臺中市西區後龍里梅川西路一段95號",
-  "rating": 4.7,
-  "userRatingCount": 921,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=16920488568649152157&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.146138,
-   "longitude": 120.66989059999999
-  },
-  "types": [
-   "thai_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "9650015978122117657": {
-  "place_id": "ChIJado1iDs9aTQRGQLQdGe-64U",
-  "name": "小次男咖哩所-審計店",
-  "address": "403台灣臺中市西區昇平里美村路一段358號",
-  "rating": 4.4,
-  "userRatingCount": 1639,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=9650015978122117657&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1452211,
-   "longitude": 120.66160970000001
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "11958188675409810812": {
-  "place_id": "ChIJIcrX_3Q9aTQRfJXmOj4F9KU",
-  "name": "百花堂舖子",
-  "address": "403台灣臺中市西區昇平里民生路386號",
+ "3127624698715682168": {
+  "place_id": "ChIJAf9nQ98WaTQReLWvtReOZys",
+  "name": "柒玥食堂",
+  "address": "428台灣臺中市大雅區上楓里雅楓街153號",
   "rating": 4.8,
-  "userRatingCount": 505,
+  "userRatingCount": 367,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=11958188675409810812&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=3127624698715682168&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1444855,
-   "longitude": 120.6612302
+   "latitude": 24.2350966,
+   "longitude": 120.6650722
   },
   "types": [
    "japanese_restaurant",
@@ -2645,19 +334,1852 @@
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "勤美"
+  "area_label": "大雅"
  },
- "14600304771615145476": {
-  "place_id": "ChIJsaReGQA9aTQRBL6PhNWznso",
-  "name": "Days Eye Coffee",
-  "address": "403台灣臺中市西區昇平里向上路一段79巷80弄2號",
-  "rating": 4.5,
-  "userRatingCount": 313,
+ "12646051709516779868": {
+  "place_id": "ChIJ3SXip70XaTQRXBH4NAfNf68",
+  "name": "喜湯樓鍋物 火烤二吃 大雅美食 麻辣火鍋 石頭火鍋 燒烤餐廳 restaurants 宵夜美食",
+  "address": "428台灣臺中市大雅區中清路三段1110號2樓",
+  "rating": 4.6,
+  "userRatingCount": 305,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=14600304771615145476&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=12646051709516779868&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1448589,
-   "longitude": 120.66405089999999
+   "latitude": 24.222622800000003,
+   "longitude": 120.6469335
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "5963487011574633955": {
+  "place_id": "ChIJIVII13wXaTQR49WPU9ePwlI",
+  "name": "靠！有牛炙燒牛排（台中大雅店）",
+  "address": "428台灣臺中市大雅區四德里中清路三段885巷12號",
+  "rating": 4.5,
+  "userRatingCount": 1162,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=5963487011574633955&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2165218,
+   "longitude": 120.64859910000001
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "15880224467339195136": {
+  "place_id": "ChIJfTDbf9YXaTQRADM4GQTkYdw",
+  "name": "咖喱大叔 貳號店",
+  "address": "428台灣臺中市大雅區二和里雅潭路四段707號",
+  "rating": 4.3,
+  "userRatingCount": 242,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=15880224467339195136&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.221297,
+   "longitude": 120.6513959
+  },
+  "types": [
+   "restaurant",
+   "japanese_restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "7314478453207971098": {
+  "place_id": "ChIJ57ttdu4WaTQRGrW1QGY_gmU",
+  "name": "麵香大腸麵線-大雅店",
+  "address": "428台灣臺中市大雅區大雅里學府路342號",
+  "rating": 4.4,
+  "userRatingCount": 516,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=7314478453207971098&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2258019,
+   "longitude": 120.64880040000001
+  },
+  "types": [
+   "noodle_shop",
+   "snack_bar",
+   "meal_takeaway",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "9655585860645848960": {
+  "place_id": "ChIJ8xOEHZgXaTQRgIcUyi6I_4U",
+  "name": "胖柏吃雞排 超好吃雞排/最好吃鹹酥雞/超酥甜不辣/以上都不是我說的/大雅炸物/下午茶/宵夜/外送/團體外送/大雅美食/新鮮溫體雞/老闆愛遲到",
+  "address": "428台灣臺中市大雅區學府路121-3號",
+  "rating": 4.7,
+  "userRatingCount": 96,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=9655585860645848960&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2194613,
+   "longitude": 120.65027200000002
+  },
+  "types": [
+   "meal_takeaway",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "14318576257098600118": {
+  "place_id": "ChIJ6SnoO3YXaTQRtk60JT7NtcY",
+  "name": "大雅傳承潤餅",
+  "address": "428台灣臺中市大雅區大雅里學府路326號",
+  "rating": 4.8,
+  "userRatingCount": 54,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=14318576257098600118&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2254152,
+   "longitude": 120.64894939999998
+  },
+  "types": [
+   "deli",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "2058590728133469008": {
+  "place_id": "ChIJ-61QwjYXaTQRUONOQFyVkRw",
+  "name": "台南小吃",
+  "address": "428台灣臺中市大雅區大雅里學府路310號",
+  "rating": 4.6,
+  "userRatingCount": 25,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=2058590728133469008&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.225023399999998,
+   "longitude": 120.6492162
+  },
+  "types": [
+   "seafood_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "98834583828957819": {
+  "place_id": "ChIJT7ofPvEWaTQRewqmxIchXwE",
+  "name": "牛嘉鄉牛肉麵",
+  "address": "428台灣臺中市大雅區二和里學府路108號",
+  "rating": 4,
+  "userRatingCount": 204,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=98834583828957819&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2193813,
+   "longitude": 120.65047340000001
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "10202876362825855612": {
+  "place_id": "ChIJ2xYXHe4WaTQRfPJ2rf7ll40",
+  "name": "大雅臭毛毛(發財車/專業臭豆腐)",
+  "address": "428台灣臺中市大雅區大雅里學府路269號",
+  "rating": 4.2,
+  "userRatingCount": 537,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=10202876362825855612&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.223666299999998,
+   "longitude": 120.649588
+  },
+  "types": [
+   "deli",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "9747180131359858803": {
+  "place_id": "ChIJQ56Bbe4WaTQRcyBzy6_wRIc",
+  "name": "廟邊肉圓",
+  "address": "428台灣臺中市大雅區大雅里大榮街16號",
+  "rating": 4,
+  "userRatingCount": 543,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=9747180131359858803&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2251969,
+   "longitude": 120.64984919999999
+  },
+  "types": [
+   "deli",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "409940145060299426": {
+  "place_id": "ChIJ16ZdW9MXaTQRosJ91WNmsAU",
+  "name": "林記飯館-大雅店｜滷肉飯專賣店｜大雅美食｜大雅小吃",
+  "address": "428台灣臺中市大雅區上雅里民生路一段298號",
+  "rating": 4.2,
+  "userRatingCount": 158,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=409940145060299426&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2284038,
+   "longitude": 120.65279260000001
+  },
+  "types": [
+   "snack_bar",
+   "meal_takeaway",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "2220319413866777392": {
+  "place_id": "ChIJVTjUke4WaTQRMMtuP74o0B4",
+  "name": "香味水餃店",
+  "address": "428台灣臺中市大雅區大雅里民興街159號",
+  "rating": 4,
+  "userRatingCount": 406,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=2220319413866777392&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2271626,
+   "longitude": 120.650129
+  },
+  "types": [
+   "chinese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "16923175514191003205": {
+  "place_id": "ChIJJXknKqcXaTQRRX7xoncy2-o",
+  "name": "古早味熱狗/雅潭夜市/大雅夜市",
+  "address": "428台灣臺中市大雅區大雅雅潭夜市",
+  "rating": 5,
+  "userRatingCount": 31,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=16923175514191003205&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.220839299999998,
+   "longitude": 120.65429809999999
+  },
+  "types": [
+   "market",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "15323218953235819349": {
+  "place_id": "ChIJS3nz1u0WaTQRVWsnu3MCp9Q",
+  "name": "大雅烤肉（學府路350號）",
+  "address": "428台灣臺中市大雅區大雅里學府路350號",
+  "rating": 4.6,
+  "userRatingCount": 357,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=15323218953235819349&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.226261800000003,
+   "longitude": 120.6485116
+  },
+  "types": [
+   "bar_and_grill",
+   "bar",
+   "chinese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "10670031733998664225": {
+  "place_id": "ChIJh2tB3sUXaTQRIboib1SRE5Q",
+  "name": "傳奇港式炒麵",
+  "address": "428台灣臺中市大雅區大雅里民興街87號",
+  "rating": 4.6,
+  "userRatingCount": 43,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=10670031733998664225&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.226084,
+   "longitude": 120.64874879999999
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "4488454017236203830": {
+  "place_id": "ChIJ02Pf1u0WaTQRNvkJ2CUxSj4",
+  "name": "美芳小吃店（ 鍋燒麵）",
+  "address": "428台灣臺中市大雅區大雅里學府路353號",
+  "rating": 4.2,
+  "userRatingCount": 73,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=4488454017236203830&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2260903,
+   "longitude": 120.6483967
+  },
+  "types": [
+   "bistro",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "12963209039512383648": {
+  "place_id": "ChIJk8Cp55IXaTQRoLBEffCR5rM",
+  "name": "大熊村長morning",
+  "address": "428台灣臺中市大雅區二和里學府路123號",
+  "rating": 4.8,
+  "userRatingCount": 1086,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=12963209039512383648&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2194993,
+   "longitude": 120.65032009999999
+  },
+  "types": [
+   "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "10356267358729829860": {
+  "place_id": "ChIJ15Kiq7cXaTQR5H0Q_ErauI8",
+  "name": "逐光早餐 Chasing morning",
+  "address": "42853台灣臺中市大雅區中清東路118巷3號",
+  "rating": 4.5,
+  "userRatingCount": 389,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=10356267358729829860&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.222182399999998,
+   "longitude": 120.64854199999999
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "9544842580331174752": {
+  "place_id": "ChIJQUEhIiQXaTQRYJupjcEXdoQ",
+  "name": "漫時光早午餐-中清東店",
+  "address": "428台灣臺中市大雅區四德里中清東路43號",
+  "rating": 4.4,
+  "userRatingCount": 194,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=9544842580331174752&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2197312,
+   "longitude": 120.6485602
+  },
+  "types": [
+   "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "4228536672619284697": {
+  "place_id": "ChIJKc7GFd8XaTQR2UgvM7PHrjo",
+  "name": "日十。早午食 台中大雅店",
+  "address": "428台灣臺中市大雅區四德里學府路50號",
+  "rating": 4.8,
+  "userRatingCount": 634,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=4228536672619284697&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2170612,
+   "longitude": 120.6510649
+  },
+  "types": [
+   "breakfast_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "12898930036190742720": {
+  "place_id": "ChIJ5XQh6LIXaTQRwAjExYY0ArM",
+  "name": "樸樂享食-大雅義大利麵輕食早午餐 [公休詳見公告及粉絲團]",
+  "address": "428台灣臺中市大雅區文雅里中山北路388號",
+  "rating": 4.4,
+  "userRatingCount": 199,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=12898930036190742720&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2217685,
+   "longitude": 120.64562769999999
+  },
+  "types": [
+   "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "5099567580722342499": {
+  "place_id": "ChIJ0RZfXAAXaTQRY6oNLbJNxUY",
+  "name": "土木公社炭烤土司-大雅店",
+  "address": "428台灣臺中市大雅區二和里學府路139號",
+  "rating": 4.6,
+  "userRatingCount": 68,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=5099567580722342499&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.220107,
+   "longitude": 120.65019489999999
+  },
+  "types": [
+   "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "5864034654188693892": {
+  "place_id": "ChIJo6rMPXYXaTQRhGl_8XI8YVE",
+  "name": "橙心早午餐",
+  "address": "428台灣臺中市大雅區上雅里民生路一段135號",
+  "rating": 4.5,
+  "userRatingCount": 282,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=5864034654188693892&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.227074599999998,
+   "longitude": 120.64933399999998
+  },
+  "types": [
+   "breakfast_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "16466201391454809771": {
+  "place_id": "ChIJF8ygVakXaTQRq-60geyyg-Q",
+  "name": "Q Burger 台中大雅店",
+  "address": "428台灣臺中市大雅區上雅里學府路406號",
+  "rating": 4,
+  "userRatingCount": 501,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=16466201391454809771&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2273216,
+   "longitude": 120.64809930000001
+  },
+  "types": [
+   "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "16953956868530237851": {
+  "place_id": "ChIJz9ms8qYXaTQRm_EJLvKNSOs",
+  "name": "L’aube co 𡀔早午餐聚所 大雅美食/大雅早午餐/大雅早餐",
+  "address": "428台灣臺中市大雅區上楓里楓林街231巷1號",
+  "rating": 4.1,
+  "userRatingCount": 180,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=16953956868530237851&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2359555,
+   "longitude": 120.6666563
+  },
+  "types": [
+   "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "1642979688815530094": {
+  "place_id": "ChIJjSas9qAXaTQRbhAIdVIJzRY",
+  "name": "晨間廚房早午餐大雅中清店/蛋餅/早餐/麵",
+  "address": "428台灣臺中市大雅區大雅里中清東路245號",
+  "rating": 4.2,
+  "userRatingCount": 149,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=1642979688815530094&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2248459,
+   "longitude": 120.6466141
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "15331527126413134102": {
+  "place_id": "ChIJg4hpMOwWaTQRFskeCrGGxNQ",
+  "name": "A-Rode雅樂餐飲廚房-主廚料理•簡餐•輕食•咖啡•義大利麵",
+  "address": "428台灣臺中市大雅區二和里雅環路一段280號",
+  "rating": 4.1,
+  "userRatingCount": 315,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=15331527126413134102&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2224759,
+   "longitude": 120.65369020000001
+  },
+  "types": [
+   "family_restaurant",
+   "breakfast_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "12298891883542795631": {
+  "place_id": "ChIJp_7fDPEWaTQRb9WAeQFxrqo",
+  "name": "貝爾好食",
+  "address": "428台灣臺中市大雅區二和里學府路146號",
+  "rating": 4.5,
+  "userRatingCount": 184,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=12298891883542795631&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.220313599999997,
+   "longitude": 120.65033369999998
+  },
+  "types": [
+   "brunch_restaurant",
+   "breakfast_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "629390654005758149": {
+  "place_id": "ChIJk7f-HgAXaTQRxcj2FHcLvAg",
+  "name": "沅味巷口飯糰台中大雅店",
+  "address": "428台灣臺中市大雅區大雅里大雅路107號",
+  "rating": 4.7,
+  "userRatingCount": 16,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=629390654005758149&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2250332,
+   "longitude": 120.6481184
+  },
+  "types": [
+   "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "6401787643770934274": {
+  "place_id": "ChIJLUlSQDwXaTQRApRzovG311g",
+  "name": "瑞彼特廚房",
+  "address": "428台灣臺中市大雅區員林里雅環路三段24號",
+  "rating": 4.6,
+  "userRatingCount": 86,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=6401787643770934274&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.229357699999998,
+   "longitude": 120.64617310000001
+  },
+  "types": [
+   "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "12669150372961206304": {
+  "place_id": "ChIJ91AA6O0WaTQRIEBc4iPd0a8",
+  "name": "JSP呷尚寶大雅民興店",
+  "address": "428台灣臺中市大雅區大雅里民興街45號",
+  "rating": 4.4,
+  "userRatingCount": 245,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=12669150372961206304&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.225322,
+   "longitude": 120.64800600000001
+  },
+  "types": [
+   "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "4087489193958738038": {
+  "place_id": "ChIJh1IoP1sXaTQRdogo9cOtuTg",
+  "name": "Q Burger 大雅學府店",
+  "address": "428台灣臺中市大雅區大雅里學府路250巷102號號1樓",
+  "rating": 4,
+  "userRatingCount": 651,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=4087489193958738038&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.223985,
+   "longitude": 120.65302459999998
+  },
+  "types": [
+   "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "17667406424320022697": {
+  "place_id": "ChIJ-Q7RYuUWaTQRqZgMeIk8L_U",
+  "name": "雞母早午餐 大雅總店",
+  "address": "428台灣臺中市大雅區上雅里雅環路二段36號二 巷",
+  "rating": 4.6,
+  "userRatingCount": 294,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=17667406424320022697&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.224446,
+   "longitude": 120.65478949999999
+  },
+  "types": [
+   "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "16431437749599393277": {
+  "place_id": "ChIJtwRPoLAXaTQR_dXQZZMxCOQ",
+  "name": "錢家中式早午餐",
+  "address": "428台灣臺中市大雅區學府路94巷2號",
+  "rating": 4.5,
+  "userRatingCount": 83,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=16431437749599393277&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2190789,
+   "longitude": 120.65080709999998
+  },
+  "types": [
+   "brunch_restaurant",
+   "breakfast_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "8885748986285389486": {
+  "place_id": "ChIJg-xDJ8MXaTQRrvbT0p-FUHs",
+  "name": "晴天壽司",
+  "address": "428台灣臺中市大雅區四德里學府路87號",
+  "rating": 4.8,
+  "userRatingCount": 272,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=8885748986285389486&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2173383,
+   "longitude": 120.65087210000002
+  },
+  "types": [
+   "sushi_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "15999808134320529702": {
+  "place_id": "ChIJAYMYOCsXaTQRJqGUQLq8Ct4",
+  "name": "終究是要吃粒厝，何不一開始就吃",
+  "address": "428台灣臺中市大雅區大雅里中清北街47號",
+  "rating": 4.4,
+  "userRatingCount": 66,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=15999808134320529702&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2256207,
+   "longitude": 120.64696389999999
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "3402237943197515909": {
+  "place_id": "ChIJtWfh1a4QaTQRhcCkLWItNy8",
+  "name": "極炙燒肉丼飯-大雅總店",
+  "address": "428台灣臺中市大雅區大雅里民興街109號",
+  "rating": 4.8,
+  "userRatingCount": 960,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=3402237943197515909&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2263588,
+   "longitude": 120.649047
+  },
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "18028172909894562955": {
+  "place_id": "ChIJDWyNnBwXaTQRi_SVg77vMPo",
+  "name": "一流日式豬排",
+  "address": "428台灣臺中市大雅區上雅里神林南路80巷23號",
+  "rating": 4.7,
+  "userRatingCount": 174,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=18028172909894562955&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2271586,
+   "longitude": 120.65512009999999
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "9557062565773542287": {
+  "place_id": "ChIJ8_2XXV4XaTQRj4MdocSBoYQ",
+  "name": "六九八品真園",
+  "address": "428台灣臺中市大雅區雅楓里神林南路159號",
+  "rating": 4.7,
+  "userRatingCount": 221,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=9557062565773542287&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.226087900000003,
+   "longitude": 120.65667940000002
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "5692151932957599680": {
+  "place_id": "ChIJL3w9fKAXaTQRwKd9UwaW_k4",
+  "name": "食見生活-大雅店/健康餐/日式炊飯餐盒",
+  "address": "428013台灣臺中市大雅區民生路一段288號1樓",
+  "rating": 4.2,
+  "userRatingCount": 53,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=5692151932957599680&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.228293999999998,
+   "longitude": 120.6525401
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "2341970252182700920": {
+  "place_id": "ChIJU3TNMwAXaTQReMPhO4lZgCA",
+  "name": "ร้านกะเพราไทย打拋泰 泰式料理店",
+  "address": "428台灣臺中市大雅區二和里神林南路286號",
+  "rating": 4.9,
+  "userRatingCount": 25,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=2341970252182700920&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2236101,
+   "longitude": 120.6571056
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "4548961487463645130": {
+  "place_id": "ChIJn9SNseUWaTQRyv8zFV8oIT8",
+  "name": "大雅稻和生魚片壽司專賣店",
+  "address": "428台灣臺中市大雅區雅楓里神林南路191號",
+  "rating": 4.4,
+  "userRatingCount": 88,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=4548961487463645130&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.225376699999998,
+   "longitude": 120.65706329999999
+  },
+  "types": [
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "2719800613451854780": {
+  "place_id": "ChIJiaG_YZcXaTQRvPOvcD-sviU",
+  "name": "五大人酸菜魚大雅總店",
+  "address": "428台灣臺中市大雅區雅潭路四段",
+  "rating": 4.4,
+  "userRatingCount": 27,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=2719800613451854780&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.220622,
+   "longitude": 120.6542353
+  },
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "12486543981221296531": {
+  "place_id": "ChIJT47O7mYXaTQRk7n8KJgdSa0",
+  "name": "恬果義大利麵",
+  "address": "42869台灣臺中市大雅區上雅里雅環路二段30號",
+  "rating": 4.2,
+  "userRatingCount": 606,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=12486543981221296531&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2252014,
+   "longitude": 120.65367830000001
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "4282428749169484099": {
+  "place_id": "ChIJ4TvqC5oXaTQRQ-EqEkI-bjs",
+  "name": "Man’s 義大利麵食 大雅學府店（限外帶、週一公休）大雅美食｜焗烤｜義式料理｜推薦餐廳｜平價美食",
+  "address": "428台灣臺中市大雅區二和里學府路121-1號",
+  "rating": 4.1,
+  "userRatingCount": 62,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=4282428749169484099&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.219453899999998,
+   "longitude": 120.65031889999999
+  },
+  "types": [
+   "meal_takeaway",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "13967662095754946814": {
+  "place_id": "ChIJAaMuqPYWaTQR_mgpGKwa18E",
+  "name": "麗媽四季鍋 大雅店（中午不休息）",
+  "address": "428台灣臺中市大雅區四德里中清路三段885巷1號",
+  "rating": 4.3,
+  "userRatingCount": 1322,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=13967662095754946814&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2160209,
+   "longitude": 120.6490612
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "5959848957137141879": {
+  "place_id": "ChIJNViyd-4WaTQRd0AkxQyjtVI",
+  "name": "阿爸阿母教ㄟ當歸鴨",
+  "address": "428台灣臺中市大雅區大雅里學府路337號",
+  "rating": 4,
+  "userRatingCount": 332,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=5959848957137141879&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2255766,
+   "longitude": 120.64867209999998
+  },
+  "types": [
+   "chinese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "10587268847755305089": {
+  "place_id": "ChIJackECfIWaTQRgaADXOyI7ZI",
+  "name": "帝一食補碳燒薑母鴨(大雅店)",
+  "address": "428台灣臺中市大雅區大雅里中清東路78號",
+  "rating": 4.1,
+  "userRatingCount": 2268,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=10587268847755305089&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2210908,
+   "longitude": 120.64851099999998
+  },
+  "types": [
+   "taiwanese_restaurant",
+   "asian_restaurant",
+   "chinese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "6386762250301455113": {
+  "place_id": "ChIJq0Joo0kXaTQRCbsXmm1Wolg",
+  "name": "柚一鍋大雅店",
+  "address": "428台灣臺中市大雅區上雅里民生路一段361號",
+  "rating": 4.5,
+  "userRatingCount": 2508,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=6386762250301455113&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.229359900000002,
+   "longitude": 120.6540165
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "14744319154451329159": {
+  "place_id": "ChIJAbK0S80XaTQRhzAP-CZYnsw",
+  "name": "嚐醬無煙燒烤",
+  "address": "428台灣臺中市大雅區二和里雅環路一段273號",
+  "rating": 4.9,
+  "userRatingCount": 586,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=14744319154451329159&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.222319400000003,
+   "longitude": 120.65349429999999
+  },
+  "types": [
+   "bar_and_grill",
+   "bar",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "9825096385753826821": {
+  "place_id": "ChIJ6c3TdbgXaTQRBcbUdBvBWYg",
+  "name": "顏正原燒烤大雅店",
+  "address": "428台灣臺中市大雅區二和里雅潭路四段508號",
+  "rating": 4.2,
+  "userRatingCount": 114,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=9825096385753826821&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2208322,
+   "longitude": 120.6568911
+  },
+  "types": [
+   "asian_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "598786691687515304": {
+  "place_id": "ChIJbzj2WQAXaTQRqARE1lJRTwg",
+  "name": "烤霸 kao bar",
+  "address": "428台灣臺中市大雅區二和里雅環路一段212-14號",
+  "rating": 5,
+  "userRatingCount": 23,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=598786691687515304&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.219793799999998,
+   "longitude": 120.65348290000001
+  },
+  "types": [
+   "kebab_shop",
+   "yakitori_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "8297027005181121722": {
+  "place_id": "ChIJda1juFQXaTQRutSkBxr2JHM",
+  "name": "大哥燒臘(大雅店)-大雅晚餐｜午餐外送｜台中燒臘",
+  "address": "428台灣臺中市大雅區大雅里學府路225號1樓",
+  "rating": 4,
+  "userRatingCount": 305,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=8297027005181121722&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2220619,
+   "longitude": 120.6497194
+  },
+  "types": [
+   "restaurant",
+   "cafeteria",
+   "meal_delivery",
+   "food_delivery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "1275614506993869743": {
+  "place_id": "ChIJlfhItMkXaTQRr2O0t6LksxE",
+  "name": "京川鍋物-台中大雅店 | 精典鍋物｜炸豬排定食",
+  "address": "428台灣臺中市大雅區文雅里中清路三段1203號",
+  "rating": 4,
+  "userRatingCount": 574,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=1275614506993869743&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.224843099999998,
+   "longitude": 120.6452729
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "10980340870039713434": {
+  "place_id": "ChIJhx0pqyIXaTQRmrZrT9gBYpg",
+  "name": "上楓烤肉Ⓩ",
+  "address": "428台灣臺中市大雅區上楓里民生路四段51號",
+  "rating": 4.3,
+  "userRatingCount": 130,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=10980340870039713434&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.236684999999998,
+   "longitude": 120.6680486
+  },
+  "types": [
+   "barbecue_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "562653877514613103": {
+  "place_id": "ChIJ4StToesXaTQRbzHBdLjyzgc",
+  "name": "大雅炸雞",
+  "address": "428台灣臺中市大雅區大雅里學府路278-289號",
+  "rating": 4.7,
+  "userRatingCount": 376,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=562653877514613103&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2243677,
+   "longitude": 120.649374
+  },
+  "types": [
+   "meal_takeaway",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "2961036605413550243": {
+  "place_id": "ChIJIZOjWGYXaTQRo2iauBq3Fyk",
+  "name": "鍋物所 新潮流小火鍋 大雅店",
+  "address": "428台灣臺中市大雅區上雅里雅環路二段305號",
+  "rating": 4.8,
+  "userRatingCount": 1232,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=2961036605413550243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.22918,
+   "longitude": 120.64705699999999
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "1033532964078435761": {
+  "place_id": "ChIJNaEVckUXaTQRsT2NQ8HYVw4",
+  "name": "築間幸福鍋物 台中大雅店",
+  "address": "42878台灣臺中市大雅區文雅里中清路三段1163號",
+  "rating": 4.5,
+  "userRatingCount": 3111,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=1033532964078435761&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.223717,
+   "longitude": 120.6459804
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "3628717004478313242": {
+  "place_id": "ChIJm28SNfIWaTQRGnNZyuPKWzI",
+  "name": "阿瑟理臭臭鍋大雅總店",
+  "address": "428台灣臺中市大雅區大雅里中清路三段1056號",
+  "rating": 4.4,
+  "userRatingCount": 110,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=3628717004478313242&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2214638,
+   "longitude": 120.64742690000001
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "14687753517067813887": {
+  "place_id": "ChIJ8c-GVfEWaTQR_0NSNQFi1cs",
+  "name": "三媽臭臭鍋-中清店",
+  "address": "428台灣臺中市大雅區四德里中清東路9號",
+  "rating": 4.1,
+  "userRatingCount": 1109,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=14687753517067813887&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2190761,
+   "longitude": 120.6486564
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "8738891193612481566": {
+  "place_id": "ChIJPSyLJu8WaTQRHrQPbj3HRnk",
+  "name": "蒙古草原養生麻辣火鍋",
+  "address": "428台灣臺中市大雅區大雅里雅環路二段145號",
+  "rating": 4.3,
+  "userRatingCount": 1036,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=8738891193612481566&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2276393,
+   "longitude": 120.65189289999998
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "15123663236392681479": {
+  "place_id": "ChIJt8MuPysXaTQRBwDSu5UL4tE",
+  "name": "鍋爸爸.平價小火鍋",
+  "address": "42854台灣臺中市大雅區二和里雅潭路四段590號",
+  "rating": 4.8,
+  "userRatingCount": 47,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=15123663236392681479&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2211096,
+   "longitude": 120.65525969999999
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "3492254001255650089": {
+  "place_id": "ChIJp_eT5_YWaTQRKZNH6oL6djA",
+  "name": "呷寶食府薑母鴨-總店 夏季店休4個月",
+  "address": "428台灣臺中市大雅區四德里學府路36號",
+  "rating": 4.5,
+  "userRatingCount": 763,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=3492254001255650089&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2167435,
+   "longitude": 120.6510444
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "8670999234323174213": {
+  "place_id": "ChIJ1YS3FOsXaTQRRVOE2dyTVXg",
+  "name": "BELLA甜品專賣-大雅店(訂購直接電話詢問)",
+  "address": "428台灣臺中市大雅區上雅里學府路443號",
+  "rating": 4.6,
+  "userRatingCount": 99,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=8670999234323174213&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.228154699999997,
+   "longitude": 120.64755729999997
+  },
+  "types": [
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "7686902124289615624": {
+  "place_id": "ChIJgZHpHfEWaTQRCGd6TcFcrWo",
+  "name": "56咖啡",
+  "address": "428台灣臺中市大雅區二和里學府路120巷47號",
+  "rating": 4.8,
+  "userRatingCount": 239,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=7686902124289615624&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2195948,
+   "longitude": 120.6516463
+  },
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "10912996055889561914": {
+  "place_id": "ChIJyRFxyVIXaTQROkmJ4hfAcpc",
+  "name": "水豚寶寶日式爆漿雞蛋糕_日式鯛魚燒",
+  "address": "428台灣臺中市大雅區大雅里民興街68號",
+  "rating": 4.3,
+  "userRatingCount": 17,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=10912996055889561914&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.225555099999998,
+   "longitude": 120.6484859
+  },
+  "types": [
+   "cake_shop",
+   "wholesaler",
+   "bakery",
+   "food_store",
+   "store",
+   "food",
+   "manufacturer",
+   "service",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "2034955545780894670": {
+  "place_id": "ChIJq606RRkXaTQRzjv7h0mdPRw",
+  "name": "打鐵豆花大雅店",
+  "address": "428台灣臺中市大雅區大雅里學府路241號",
+  "rating": 4.8,
+  "userRatingCount": 1004,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=2034955545780894670&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.222578499999997,
+   "longitude": 120.6496175
+  },
+  "types": [
+   "dessert_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "17331997448755141113": {
+  "place_id": "ChIJvSpj-YMXaTQR-dkGzdmfh_A",
+  "name": "Lovely FLOWER",
+  "address": "428台灣臺中市大雅區文雅里永和路145-6號",
+  "rating": 5,
+  "userRatingCount": 500,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=17331997448755141113&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.222561,
+   "longitude": 120.64593719999999
+  },
+  "types": [
+   "florist",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "15654033250440903618": {
+  "place_id": "ChIJtUyjfAAXaTQRwvuuek1MPtk",
+  "name": "小飛屋｜現做甜點-舒芙蕾·法式薄餅·鬆餅「店休請見社群動態、建議預約」",
+  "address": "428台灣臺中市大雅區四德里學府路50號旁邊貨櫃廣場入內右手邊第一個綠色貨櫃",
+  "rating": 4.9,
+  "userRatingCount": 75,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=15654033250440903618&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.216865499999997,
+   "longitude": 120.65103909999999
+  },
+  "types": [
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "12414873803817139092": {
+  "place_id": "ChIJVwwO2O0WaTQRlLvSn_J9Sqw",
+  "name": "蕾莉莎洋菓子-Le Risa Pâtisserie",
+  "address": "428台灣臺中市大雅區大雅里學府路340號",
+  "rating": 4.6,
+  "userRatingCount": 168,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=12414873803817139092&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2257008,
+   "longitude": 120.64881220000001
+  },
+  "types": [
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "1244273459089939278": {
+  "place_id": "ChIJj8xXce0WaTQRTpuAXB6MRBE",
+  "name": "馥漫麵包花園 大雅店",
+  "address": "428台灣臺中市大雅區大雅里中清路三段1210號",
+  "rating": 4.5,
+  "userRatingCount": 726,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=1244273459089939278&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.225279,
+   "longitude": 120.64565299999998
+  },
+  "types": [
+   "bakery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "16638430459381630596": {
+  "place_id": "ChIJ7zxH1zUXaTQRhEZ7P1mU5-Y",
+  "name": "永豐吐司(大雅店)",
+  "address": "42856台灣臺中市大雅區二和里學府路96號",
+  "rating": 4,
+  "userRatingCount": 101,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=16638430459381630596&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2192698,
+   "longitude": 120.65055290000001
+  },
+  "types": [
+   "bakery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "2205076403780839310": {
+  "place_id": "ChIJUfv9zgoXaTQRjufzZU4Bmh4",
+  "name": "阿伯的古早味烤地瓜",
+  "address": "428台灣臺中市大雅區文雅里中山北路183號",
+  "rating": 4.9,
+  "userRatingCount": 15,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=2205076403780839310&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.218744599999997,
+   "longitude": 120.6468115
+  },
+  "types": [
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "5023584900359253849": {
+  "place_id": "ChIJNeOkEPIWaTQRWe_tzNlbt0U",
+  "name": "福樂餅店（牛軋糖·麵包·西點蛋糕）",
+  "address": "428台灣臺中市大雅區大雅里中清東路176號",
+  "rating": 4.1,
+  "userRatingCount": 62,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=5023584900359253849&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2234205,
+   "longitude": 120.64799250000002
+  },
+  "types": [
+   "bakery",
+   "dessert_shop",
+   "cake_shop",
+   "wholesaler",
+   "confectionery",
+   "food_store",
+   "store",
+   "food",
+   "manufacturer",
+   "service",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "8890600713800577286": {
+  "place_id": "ChIJ79FB5p4XaTQRBvHqqT7CYXs",
+  "name": "先吃再說（休假以FB與IG公告為主）6吋蛋糕需要提前預訂",
+  "address": "428台灣臺中市大雅區文雅里中山北路250號",
+  "rating": 4.6,
+  "userRatingCount": 52,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=8890600713800577286&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2202675,
+   "longitude": 120.64628139999999
+  },
+  "types": [
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "197248369317829854": {
+  "place_id": "ChIJhYIE9ocXaTQR3ty2yVjEvAI",
+  "name": "老公主手作甜點",
+  "address": "428台灣臺中市大雅區西寶里雅潭路三段516號",
+  "rating": 4.8,
+  "userRatingCount": 33,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=197248369317829854&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.216002,
+   "longitude": 120.67018279999999
+  },
+  "types": [
+   "bakery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "1563833435485437706": {
+  "place_id": "ChIJ3TvG2tcXaTQRCv_8WTnasxU",
+  "name": "小熊燒🧸米米娜娜大雅學府店",
+  "address": "428台灣臺中市大雅區學府路267號",
+  "rating": 5,
+  "userRatingCount": 15,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=1563833435485437706&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.223637399999998,
+   "longitude": 120.64946920000001
+  },
+  "types": [
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "14133217906922206581": {
+  "place_id": "ChIJ30jkPFgXaTQRdbVJK85GI8Q",
+  "name": "三五鯛魚燒 -大雅嘟嘟車",
+  "address": "42856台灣臺中市大雅區大雅里學府路261號",
+  "rating": 4.9,
+  "userRatingCount": 63,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=14133217906922206581&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2232918,
+   "longitude": 120.6495434
+  },
+  "types": [
+   "pastry_shop",
+   "dessert_shop",
+   "deli",
+   "confectionery",
+   "bakery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "12679143119789213758": {
+  "place_id": "ChIJY6lxkOkXaTQRPshfj31d9a8",
+  "name": "拾方工坊-大雅乳酪-美食-甜點-餅乾-下午茶",
+  "address": "428台灣臺中市大雅區大楓里民權街25號",
+  "rating": 4.8,
+  "userRatingCount": 67,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=12679143119789213758&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2330751,
+   "longitude": 120.6677424
+  },
+  "types": [
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "10133646801653768160": {
+  "place_id": "ChIJZ0_7VgAXaTQR4J_YYxPyoYw",
+  "name": "虎頭蜂零食專賣店-大雅門市",
+  "address": "428台灣臺中市大雅區上雅里雅環路二段182號",
+  "rating": 4.5,
+  "userRatingCount": 129,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=10133646801653768160&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.228626,
+   "longitude": 120.65140849999999
+  },
+  "types": [
+   "discount_supermarket",
+   "supermarket",
+   "grocery_store",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "2478309259429241608": {
+  "place_id": "ChIJszXYLOcXaTQRCGPXCyS5ZCI",
+  "name": "McCafé 咖啡-大雅中清南店",
+  "address": "428台灣臺中市大雅區文雅里中清路三段1095號",
+  "rating": 4.5,
+  "userRatingCount": 138,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=2478309259429241608&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.222107599999998,
+   "longitude": 120.64673810000001
+  },
+  "types": [
+   "coffee_shop",
+   "brunch_restaurant",
+   "dessert_shop",
+   "cafe",
+   "confectionery",
+   "food_store",
+   "store",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "7302462126017182127": {
+  "place_id": "ChIJX7lMBtEXaTQRr3n_Dp2OV2U",
+  "name": "D3咖啡",
+  "address": "428台灣臺中市大雅區上雅里雅環路二段222巷23號",
+  "rating": 4.6,
+  "userRatingCount": 80,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=7302462126017182127&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.229879300000004,
+   "longitude": 120.65083539999999
+  },
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "8759116237974601307": {
+  "place_id": "ChIJY5PptTYXaTQRW_7Uhs-hjnk",
+  "name": "Louisa Coffee 路易莎咖啡(台中大雅門市)",
+  "address": "428台灣臺中市大雅區上雅里學府路459號",
+  "rating": 4.2,
+  "userRatingCount": 468,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=8759116237974601307&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2285413,
+   "longitude": 120.64734999999997
+  },
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "10230756005652375924": {
+  "place_id": "ChIJ3UPws7UXaTQRdKma3GHy-o0",
+  "name": "宅一起 HOME CAFÉ NO.18",
+  "address": "42847台灣臺中市大雅區員林里大林路272巷18號",
+  "rating": 5,
+  "userRatingCount": 81,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=10230756005652375924&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.242305599999998,
+   "longitude": 120.6528749
+  },
+  "types": [
+   "coworking_space",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "5256825111770745131": {
+  "place_id": "ChIJ73UqfewWaTQRK8lyWZb-80g",
+  "name": "橘海咖啡－台中大雅 咖啡 推薦丨拿鐵專賣 客製化代烘 推薦 丨週三週四公休",
+  "address": "428台灣臺中市大雅區雅環路三段19巷17號",
+  "rating": 5,
+  "userRatingCount": 170,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=5256825111770745131&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2287598,
+   "longitude": 120.64604849999999
+  },
+  "types": [
+   "coffee_roastery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "306416864224555812": {
+  "place_id": "ChIJgYGS1-0WaTQRJDNLuYOcQAQ",
+  "name": "HO Cafe咖啡豆自家烘焙",
+  "address": "428台灣臺中市大雅區民興街74號",
+  "rating": 4.9,
+  "userRatingCount": 156,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=306416864224555812&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.225619599999998,
+   "longitude": 120.6485639
   },
   "types": [
    "coffee_shop",
@@ -2668,40 +2190,130 @@
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "勤美"
+  "area_label": "大雅"
  },
- "2173917424316992703": {
-  "place_id": "ChIJNUfvxXg9aTQRv0xyJ2FOKx4",
-  "name": "離域 Café",
-  "address": "403台灣臺中市西區昇平里昇平街67號",
-  "rating": 4.1,
-  "userRatingCount": 644,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=2173917424316992703&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "16495983367898970535": {
+  "place_id": "ChIJcyxACdEXaTQRp7leQHmB7eQ",
+  "name": "秘醬滷味 大雅學府店",
+  "address": "428台灣臺中市大雅區大雅里學府路269-1號",
+  "rating": 4.7,
+  "userRatingCount": 146,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=16495983367898970535&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1454885,
-   "longitude": 120.66210369999997
+   "latitude": 24.223791499999997,
+   "longitude": 120.6494865
   },
   "types": [
-   "food_store",
-   "store",
+   "snack_bar",
+   "meal_takeaway",
+   "restaurant",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "勤美"
+  "area_label": "大雅"
  },
- "15441677095778995092": {
-  "place_id": "ChIJo6FuNKA9aTQRlEsxToHbS9Y",
-  "name": "你猜猜（黑心地瓜球",
-  "address": "403台灣臺中市西區昇平里中興街6號",
-  "rating": 4.5,
-  "userRatingCount": 960,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=15441677095778995092&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "14634896721640907257": {
+  "place_id": "ChIJWQMsQD4XaTQR-WHvgQeZGcs",
+  "name": "沐享咖啡 Mu Xiang 沐享工作室 (採預約制) DIY教學 自家烘焙 精品咖啡豆 文創商品 雷雕 客製化商品 咖啡器具 手沖咖啡 肉乾 肉鬆",
+  "address": "428台灣臺中市大雅區大雅里中清路三段1170號",
+  "rating": 5,
+  "userRatingCount": 76,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=14634896721640907257&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1446612,
-   "longitude": 120.66337510000001
+   "latitude": 24.2244238,
+   "longitude": 120.6460209
+  },
+  "types": [
+   "coffee_stand",
+   "art_studio",
+   "coffee_roastery",
+   "cafe",
+   "wholesaler",
+   "food_store",
+   "store",
+   "food",
+   "service",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "15682433178705853653": {
+  "place_id": "ChIJNdBQgR4XaTQR1fyPDuMxo9k",
+  "name": "183號咖啡館",
+  "address": "42877台灣臺中市大雅區上雅里民生路一段183號",
+  "rating": 4.7,
+  "userRatingCount": 35,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=15682433178705853653&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.227418099999998,
+   "longitude": 120.6503232
+  },
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "4639882739609461499": {
+  "place_id": "ChIJleSSk6UXaTQR-2LjvcQsZEA",
+  "name": "重裝戰雞-大雅店",
+  "address": "428台灣臺中市大雅區大雅里學府路284號",
+  "rating": 5,
+  "userRatingCount": 100,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=4639882739609461499&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.224617000000002,
+   "longitude": 120.64943710000001
+  },
+  "types": [
+   "meal_takeaway",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "2451475184976961703": {
+  "place_id": "ChIJR0GQGc0XaTQRp6A8OLFjBSI",
+  "name": "韓捲屋",
+  "address": "428台灣臺中市大雅區雅環路一段327號",
+  "rating": 4.5,
+  "userRatingCount": 43,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=2451475184976961703&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2235069,
+   "longitude": 120.6534926
+  },
+  "types": [
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "1862062225892160069": {
+  "place_id": "ChIJGaOj3GAXaTQRRbL5k7pf1xk",
+  "name": "崔炸雞 요요치킨 - 大雅店",
+  "address": "428台灣臺中市大雅區上雅里民生路一段282號",
+  "rating": 4.3,
+  "userRatingCount": 108,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=1862062225892160069&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.228276400000002,
+   "longitude": 120.6525401
   },
   "types": [
    "deli",
@@ -2711,385 +2323,273 @@
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "勤美"
+  "area_label": "大雅"
  },
- "12101457283560568515": {
-  "place_id": "ChIJ5XBhggg9aTQRw_Ywe0gD8ac",
-  "name": "馨苑台菜咖啡※西區店",
-  "address": "403台灣臺中市西區後龍里民生北路106號",
-  "rating": 4.8,
-  "userRatingCount": 7181,
+ "12212730529627251063": {
+  "place_id": "ChIJ7YgLpPYWaTQRdyEA_LVVfKk",
+  "name": "三元現炒",
+  "address": "428台灣臺中市大雅區四德里中清路三段912號",
+  "rating": 4.5,
+  "userRatingCount": 37,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=12101457283560568515&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=12212730529627251063&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1481891,
-   "longitude": 120.6683889
+   "latitude": 24.2172755,
+   "longitude": 120.64921810000001
   },
   "types": [
-   "taiwanese_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "勤美"
+  "area_label": "大雅"
  },
- "1189219593012055759": {
-  "place_id": "ChIJjb5QQpk9aTQRzw5rSev0gBA",
-  "name": "MO-MO-PARADISE 台中勤美牧場",
-  "address": "403台灣臺中市西區民龍里公益路68號B1",
-  "rating": 4.7,
-  "userRatingCount": 5218,
+ "12929581230335971375": {
+  "place_id": "ChIJBQ-qOJQWaTQRL9C7CKAZb7M",
+  "name": "討海王(平價現炒)路邊攤",
+  "address": "428台灣臺中市大雅區員林里中清路四段161-11號",
+  "rating": 4.1,
+  "userRatingCount": 648,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=1189219593012055759&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=12929581230335971375&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.151429,
-   "longitude": 120.66365700000001
+   "latitude": 24.2282366,
+   "longitude": 120.6428205
   },
   "types": [
-   "japanese_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "勤美"
+  "area_label": "大雅"
  },
- "12372872070026782782": {
-  "place_id": "ChIJBUc0HP49aTQRPmhM6ZdFtas",
-  "name": "萬客什鍋 美村店",
-  "address": "403台灣臺中市西區中興里美村路一段185-1號",
-  "rating": 4.4,
-  "userRatingCount": 6867,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=12372872070026782782&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "7637042441039215822": {
+  "place_id": "ChIJU2Mku-0WaTQRzny5KKM5_Gk",
+  "name": "炒飯超人大雅店",
+  "address": "428台灣臺中市大雅區上雅里民生路一段48號",
+  "rating": 4.3,
+  "userRatingCount": 1392,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=7637042441039215822&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1502487,
-   "longitude": 120.66186899999998
+   "latitude": 24.225992299999998,
+   "longitude": 120.6470281
   },
   "types": [
-   "hot_pot_restaurant",
    "chinese_restaurant",
-   "japanese_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "勤美"
+  "area_label": "大雅"
  },
- "15018037186212228333": {
-  "place_id": "ChIJawjVHp89aTQR7WzJe0DJatA",
-  "name": "小園迷你火鍋 美村店",
-  "address": "403台灣臺中市西區中興里美村路一段234號",
-  "rating": 4.3,
-  "userRatingCount": 859,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=15018037186212228333&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1485268,
-   "longitude": 120.661498
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "15691565151950045446": {
-  "place_id": "ChIJ6cSVqSs9aTQRBoHhQ16jw9k",
-  "name": "家常鍋物 (最後收客24:00，假日採現場安排，五月週二、三店休）",
-  "address": "403台灣臺中市西區公益里華美街334號",
+ "5119426578640439590": {
+  "place_id": "ChIJcQaJMOYWaTQRJomOcVnbC0c",
+  "name": "大雅二林鵝肉（無現炒）",
+  "address": "428台灣臺中市大雅區員林里民生路二段36號",
   "rating": 4.2,
-  "userRatingCount": 514,
+  "userRatingCount": 305,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=15691565151950045446&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=5119426578640439590&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.151095400000003,
-   "longitude": 120.65898929999999
+   "latitude": 24.2296957,
+   "longitude": 120.6551935
   },
   "types": [
-   "hot_pot_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "勤美"
+  "area_label": "大雅"
  },
- "3734014197054163931": {
-  "place_id": "ChIJ0WVsGRc9aTQR28ut6SDi0TM",
-  "name": "燒瓶子。大肆の鍋 台中美村店 | 最後點餐時間00:30",
-  "address": "403台灣臺中市西區昇平里向上路一段191號",
-  "rating": 4.9,
-  "userRatingCount": 3797,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=3734014197054163931&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.146610400000004,
-   "longitude": 120.6607757
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "2662136037937174477": {
-  "place_id": "ChIJcSqt5549aTQRzdcCNZ_O8SQ",
-  "name": "九冠樓石頭火鍋",
-  "address": "403台灣臺中市西區中興里美村路一段231號",
+ "9467888971858573462": {
+  "place_id": "ChIJ______YWaTQRlvh3XNuyZIM",
+  "name": "香飛快炒",
+  "address": "428台灣臺中市大雅區上雅里民生路一段231號",
   "rating": 4.2,
-  "userRatingCount": 628,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=2662136037937174477&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "userRatingCount": 53,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=9467888971858573462&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.149207999999998,
-   "longitude": 120.6618706
+   "latitude": 24.228007899999998,
+   "longitude": 120.6513811
   },
   "types": [
-   "hot_pot_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "勤美"
+  "area_label": "大雅"
  },
- "13329834152096605245": {
-  "place_id": "ChIJ5aM665s9aTQRPaSWbokV_bg",
-  "name": "暮藏和牛鍋物",
-  "address": "403台灣臺中市西區忠明里華美街390號",
-  "rating": 4.9,
-  "userRatingCount": 9660,
-  "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=13329834152096605245&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1532786,
-   "longitude": 120.6590447
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "soup_restaurant",
-   "asian_restaurant",
-   "seafood_restaurant",
-   "fine_dining_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "13618488998614176126": {
-  "place_id": "ChIJ-Y2snsY9aTQRfpH2I5eX_rw",
-  "name": "真享饌精緻鍋物",
-  "address": "403台灣臺中市西區忠明里忠誠街51號",
-  "rating": 4.8,
-  "userRatingCount": 440,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=13618488998614176126&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.152428,
-   "longitude": 120.66128300000001
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "12184055646081138997": {
-  "place_id": "ChIJlSlT4mQ9aTQRNUFCZA52Fqk",
-  "name": "無理 WULI",
-  "address": "403台灣臺中市西區中興里公正路156巷4號",
+ "7864813050384295969": {
+  "place_id": "ChIJPdvCku8WaTQRISgDvcxtJW0",
+  "name": "胖媽炒麵 大雅店",
+  "address": "428台灣臺中市大雅區上雅里雅環路二段61號",
   "rating": 4.3,
-  "userRatingCount": 2388,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=12184055646081138997&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "userRatingCount": 722,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=7864813050384295969&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.14957,
-   "longitude": 120.6609549
+   "latitude": 24.225794,
+   "longitude": 120.6530846
   },
   "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "3721496910266594703": {
-  "place_id": "ChIJqRReKgA9aTQRj3Un-bhppTM",
-  "name": "良食煮意有機鍋物金典店",
-  "address": "403台灣臺中市西區忠明里健行路1049號4樓",
-  "rating": 4.6,
-  "userRatingCount": 1440,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=3721496910266594703&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1557383,
-   "longitude": 120.66326099999999
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "japanese_restaurant",
+   "brunch_restaurant",
+   "meal_delivery",
+   "food_delivery",
+   "breakfast_restaurant",
+   "deli",
+   "food_store",
    "store",
    "restaurant",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "勤美"
+  "area_label": "大雅"
  },
- "12797566562685096218": {
-  "place_id": "ChIJVRQ22HA9aTQRGhFD_vsWmrE",
-  "name": "食藝石頭火鍋",
-  "address": "403台灣臺中市西區後龍里民權路215號2樓",
-  "rating": 4.8,
-  "userRatingCount": 1752,
+ "12888180221535212582": {
+  "place_id": "ChIJmwE3hNoXaTQRJlTSgaAD3LI",
+  "name": "宏燒鵝廚房",
+  "address": "428台灣臺中市大雅區上楓里民生路四段141號",
+  "rating": 4.5,
+  "userRatingCount": 137,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=12797566562685096218&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=12888180221535212582&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1474881,
-   "longitude": 120.66958179999997
+   "latitude": 24.237674,
+   "longitude": 120.66966529999999
   },
   "types": [
-   "hot_pot_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "勤美"
+  "area_label": "大雅"
  },
- "13310149402880239057": {
-  "place_id": "ChIJewtCMXU9aTQR0eUNmlwmt7g",
-  "name": "論石間鍋物-台中國美店",
-  "address": "403台灣臺中市西區吉龍里五權七街56號",
-  "rating": 4.8,
-  "userRatingCount": 2584,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=13310149402880239057&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1353117,
-   "longitude": 120.6631885
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "5732118793160684961": {
-  "place_id": "ChIJRUvlsaI9aTQRofWuHKyTjE8",
-  "name": "新馬辣經典麻辣鍋-台中公益店",
-  "address": "403台灣臺中市西區公益里公益路152-1號1樓",
-  "rating": 4.7,
-  "userRatingCount": 8781,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=5732118793160684961&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.151007300000003,
-   "longitude": 120.6594022
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "15782235251528302497": {
-  "place_id": "ChIJp7UmSjo9aTQRof_96FfDBds",
-  "name": "十二段鍋物堂 | 健行店",
-  "address": "403台灣臺中市西區忠明里健行路1037號1F",
-  "rating": 4.8,
-  "userRatingCount": 4182,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=15782235251528302497&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1564999,
-   "longitude": 120.66344620000001
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "14131055146766468326": {
-  "place_id": "ChIJHSyXY1g9aTQR5oR4VMmXG8Q",
-  "name": "初酸那個魚 勤美店",
-  "address": "403台灣臺中市西區昇平里美村路一段330號",
-  "rating": 4.4,
-  "userRatingCount": 599,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=14131055146766468326&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1456381,
-   "longitude": 120.6615078
-  },
-  "types": [
-   "chinese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "勤美"
- },
- "8788640662123287547": {
-  "place_id": "ChIJ8Rl927s9aTQR-5NpNB6G93k",
-  "name": "漂亮火鍋",
-  "address": "403台灣臺中市西區公平里東興路三段244號",
+ "7198350988045102830": {
+  "place_id": "ChIJobrV9V4XaTQR7q4CyxWu5WM",
+  "name": "老街牛肉麵店",
+  "address": "428台灣臺中市大雅區大雅里大雅路91號",
   "rating": 4.6,
-  "userRatingCount": 3364,
+  "userRatingCount": 137,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=8788640662123287547&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=7198350988045102830&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.153434299999997,
-   "longitude": 120.65313119999999
+   "latitude": 24.2247827,
+   "longitude": 120.6483507
   },
   "types": [
-   "hot_pot_restaurant",
-   "japanese_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "勤美"
+  "area_label": "大雅"
  },
- "7314932508000466558": {
-  "place_id": "ChIJkXB36Z49aTQRfjZTH1zcg2U",
-  "name": "城里城外 巫山烤魚",
-  "address": "403台灣臺中市西區中興里中興里美村路一段211號",
-  "rating": 4.9,
-  "userRatingCount": 8462,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=7314932508000466558&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "17600113373842207259": {
+  "place_id": "ChIJp0rcWKIWaTQRG3J3Nt0pQPQ",
+  "name": "老趙傳統麵食",
+  "address": "428台灣臺中市大雅區六寶里月祥路841號",
+  "rating": 4.1,
+  "userRatingCount": 1675,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=17600113373842207259&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1496553,
-   "longitude": 120.6617368
+   "latitude": 24.240710600000003,
+   "longitude": 120.6285058
+  },
+  "types": [
+   "noodle_shop",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "12968140434944155135": {
+  "place_id": "ChIJgVsrc_EWaTQR_905dgQX-LM",
+  "name": "娘家小館（每日營業時間至售完為止）",
+  "address": "428台灣臺中市大雅區二和里學府路147號",
+  "rating": 4.6,
+  "userRatingCount": 130,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=12968140434944155135&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.220299699999998,
+   "longitude": 120.65015939999998
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "13279728811638935639": {
+  "place_id": "ChIJRTT14uwXaTQRV1BCw_4SS7g",
+  "name": "蒜霸王蒜味肉羹涼麵-大雅民生店",
+  "address": "428台灣臺中市大雅區上雅里民生路一段304號",
+  "rating": 4.4,
+  "userRatingCount": 209,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=13279728811638935639&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2284559,
+   "longitude": 120.65293810000001
+  },
+  "types": [
+   "snack_bar",
+   "taiwanese_restaurant",
+   "noodle_shop",
+   "meal_takeaway",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "1599387276080041941": {
+  "place_id": "ChIJcecL5O0WaTQR1c8H8UAqMhY",
+  "name": "武漢熱乾麵",
+  "address": "42857台灣臺中市大雅區上雅里學府路392號",
+  "rating": 4.4,
+  "userRatingCount": 920,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=1599387276080041941&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.226954100000004,
+   "longitude": 120.64820709999998
+  },
+  "types": [
+   "noodle_shop",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "15787042016707856163": {
+  "place_id": "ChIJN05hSKAXaTQRI8cJJBLXFts",
+  "name": "大雅無名麵攤臭豆腐",
+  "address": "428台灣臺中市大雅區大雅里學府路275號",
+  "rating": 4.1,
+  "userRatingCount": 197,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=15787042016707856163&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2239973,
+   "longitude": 120.6494493
   },
   "types": [
    "chinese_restaurant",
@@ -3098,48 +2598,131 @@
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "勤美"
+  "area_label": "大雅"
  },
- "7826294295586219441": {
-  "place_id": "ChIJSTZVYeA9aTQRsSUVRDKVnGw",
-  "name": "小辛辣 麻辣干鍋 台中美村分舖",
-  "address": "403015台灣臺中市西區忠明里美村路一段111號",
-  "rating": 4.9,
-  "userRatingCount": 4129,
+ "3532299845450768005": {
+  "place_id": "ChIJW4hnD_IWaTQRhZ5CmP4_BTE",
+  "name": "三角窗小吃（古早味肉絲蛋炒飯、什錦麵專賣）",
+  "address": "428台灣臺中市大雅區大雅里中清東路186號",
+  "rating": 4.3,
+  "userRatingCount": 83,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=7826294295586219441&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=3532299845450768005&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.152285,
-   "longitude": 120.66193
+   "latitude": 24.2235847,
+   "longitude": 120.6479438
   },
   "types": [
+   "chinese_noodle_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "勤美"
+  "area_label": "大雅"
  },
- "1263616185065053751": {
-  "place_id": "ChIJBR9GlZw9aTQRN548szlEiRE",
-  "name": "牛比蔥壽喜燒吃到飽-廣三sogo13F",
-  "address": "403台灣臺中市西區忠明里臺灣大道二段459號13樓",
-  "rating": 4.7,
-  "userRatingCount": 4187,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=1263616185065053751&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "2794640452487377464": {
+  "place_id": "ChIJIVJYqvYWaTQROHJyVa-OyCY",
+  "name": "大雅牛肉麵",
+  "address": "428台灣臺中市大雅區大雅里中清東路118巷26號",
+  "rating": 4,
+  "userRatingCount": 1281,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=2794640452487377464&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1554814,
-   "longitude": 120.6616965
+   "latitude": 24.2217871,
+   "longitude": 120.64861210000001
   },
   "types": [
-   "hot_pot_restaurant",
-   "japanese_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "勤美"
+  "area_label": "大雅"
+ },
+ "7819087540841414026": {
+  "place_id": "ChIJkS1Is-0WaTQRiv2I67D6gmw",
+  "name": "大雅蘿蔔絲餅",
+  "address": "428台灣臺中市大雅區民生路一段49巷",
+  "rating": 4.4,
+  "userRatingCount": 215,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=7819087540841414026&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2262503,
+   "longitude": 120.64696239999999
+  },
+  "types": [
+   "deli",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "15211890945379701054": {
+  "place_id": "ChIJHewEX98WaTQRPpFWATh-G9M",
+  "name": "上楓麵店",
+  "address": "428台灣臺中市大雅區上楓里民生路三段443號",
+  "rating": 4.6,
+  "userRatingCount": 1109,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=15211890945379701054&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.234774899999998,
+   "longitude": 120.66546969999999
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "12029409517303623181": {
+  "place_id": "ChIJu7DRuu0WaTQRDe6VsDgM8aY",
+  "name": "不一樣餡餅",
+  "address": "428台灣臺中市大雅區上雅里民生路一段33號",
+  "rating": 4.6,
+  "userRatingCount": 203,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=12029409517303623181&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2262015,
+   "longitude": 120.6465727
+  },
+  "types": [
+   "deli",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
+ },
+ "14740301691017962171": {
+  "place_id": "ChIJR8k-c-4WaTQRuyI3X0oSkMw",
+  "name": "王仔排骨麵",
+  "address": "428台灣臺中市大雅區大榮街12號",
+  "rating": 4.1,
+  "userRatingCount": 270,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=14740301691017962171&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2250998,
+   "longitude": 120.6495042
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大雅"
  }
 }
