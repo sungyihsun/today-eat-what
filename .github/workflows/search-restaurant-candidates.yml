@@ -27,6 +27,37 @@ jobs:
           test -n "$GOOGLE_PLACES_API_KEY"
           python3 .claude/skills/add-restaurant/scripts/search_candidates.py
 
+      - name: Select and fetch 20 勤美 restaurants
+        env:
+          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+          ADD_RESTAURANT_CANDIDATES_PATH: ${{ runner.temp }}/candidates.json
+          ADD_RESTAURANT_FINAL_LIST_PATH: ${{ runner.temp }}/final_list.json
+          ADD_RESTAURANT_DETAILS_PATH: ${{ runner.temp }}/details.json
+        run: |
+          python3 - <<'PY'
+          import json
+          # Hand-picked from the 141 real candidates (after fixing the
+          # 臺中市/台中市 address-matching bug) for category variety —
+          # BBQ/yakiniku, hotpot, izakaya/Japanese, Taiwanese/Cantonese,
+          # Italian, Korean, Thai, Sichuan-style, brunch — rather than
+          # just top-by-rating, so 勤美 doesn't launch as all hotpot.
+          selected = {
+              "勤美": [
+                  "7分SO美式廚房", "主觀廚房.Subjective taste", "老井極上燒肉 美村店",
+                  "HOME燒肉-綠園道店", "六本木焼肉", "暮藏和牛鍋物",
+                  "新馬辣經典麻辣鍋-台中公益店", "小辛辣 麻辣干鍋 台中美村分舖",
+                  "吳留手串燒居酒屋 勤美店", "嵐山熟成牛かつ專売-西區健行店",
+                  "MO-MO-PARADISE 台中勤美牧場", "秋田笠", "馨苑台菜咖啡※西區店",
+                  "永心鳳茶｜勤美誠品店 YONSHIN FENGCHA", "粵味私廚",
+                  "南瓜屋魔女露露的廚房", "打盹", "新村站著吃烤肉 台中草悟店",
+                  "ONE MORE 泰", "城里城外 巫山烤魚",
+              ]
+          }
+          json.dump(selected, open("${{ runner.temp }}/final_list.json", "w"), ensure_ascii=False, indent=2)
+          print(json.dumps(selected, ensure_ascii=False))
+          PY
+          python3 .claude/skills/add-restaurant/scripts/fetch_details.py
+
       - name: Upload candidate list
         uses: actions/upload-artifact@v4
         with:
@@ -44,6 +75,9 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add candidate-results/latest.json
+          cp "${{ runner.temp }}/final_list.json" candidate-results/final-list.json
+          cp "${{ runner.temp }}/details.json" candidate-results/details.json
+          git add candidate-results/final-list.json candidate-results/details.json
           git diff --cached --quiet && exit 0
           git commit -m "Publish restaurant search candidates"
           git push
