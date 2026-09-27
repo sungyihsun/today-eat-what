@@ -51,7 +51,11 @@ AREA_KEYWORDS = {
     # character-set quirk doesn't get flagged as an area mismatch.
     "中壢": ["桃園市", "桃园市"],
     "青埔": ["桃園市", "桃园市"],
-    "勤美": ["台中市", "台中巿"],
+    # Google's zh-TW addresses use the formal "臺" character for Taichung
+    # (臺中市), not the colloquial "台" this project writes everywhere else —
+    # missing that variant here is what silently dropped almost every real
+    # 勤美 candidate on the first run (all genuinely in 臺中市西區).
+    "勤美": ["台中市", "台中巿", "臺中市", "臺中巿"],
 }
 
 KEY = os.environ.get("GOOGLE_PLACES_API_KEY", "").strip()
