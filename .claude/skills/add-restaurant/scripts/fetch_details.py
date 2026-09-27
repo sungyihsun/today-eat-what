@@ -38,7 +38,9 @@ AREA_KEYWORDS = {
     "青埔": ["桃園市", "桃园市"],
     # See search_candidates.py's comment — Google's zh-TW addresses use the
     # formal "臺" character for Taichung (臺中市), not the colloquial "台".
-    "勤美": ["台中市", "台中巿", "臺中市", "臺中巿"],
+    # District-level (not just city-level) so "大雅" doesn't match some
+    # other city's same-named road/place.
+    "大雅": ["台中市大雅區", "台中巿大雅區", "臺中市大雅區", "臺中巿大雅區"],
 }
 
 KEY = os.environ.get("GOOGLE_PLACES_API_KEY", "").strip()

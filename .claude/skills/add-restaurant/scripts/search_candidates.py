@@ -24,14 +24,15 @@ MIN_REVIEWS = 15
 
 # EDIT: area label -> (lat, lng) center for locationBias
 AREAS = {
-    "勤美": (24.1497, 120.6669),
+    "大雅": (24.2231, 120.6459),
 }
 
 # EDIT: area label -> list of query strings to try for that area
 QUERIES = {
-    "勤美": [
-        "勤美 餐廳", "勤美 咖啡廳", "勤美 早午餐", "勤美 日式料理", "勤美 義式料理",
-        "勤美 燒烤", "勤美 甜點", "勤美誠品 美食", "審計新村 美食", "勤美 火鍋",
+    "大雅": [
+        "大雅 餐廳", "大雅 小吃", "大雅 早午餐", "大雅 日式料理", "大雅 義式料理",
+        "大雅 燒烤", "大雅 火鍋", "大雅 甜點", "大雅 咖啡廳", "大雅 韓式料理",
+        "大雅 熱炒", "大雅老街 美食",
     ],
 }
 
@@ -54,8 +55,12 @@ AREA_KEYWORDS = {
     # Google's zh-TW addresses use the formal "臺" character for Taichung
     # (臺中市), not the colloquial "台" this project writes everywhere else —
     # missing that variant here is what silently dropped almost every real
-    # 勤美 candidate on the first run (all genuinely in 臺中市西區).
-    "勤美": ["台中市", "台中巿", "臺中市", "臺中巿"],
+    # 勤美 candidate on the first run (all genuinely in 臺中市西區). Those 20
+    # restaurants are now tagged area:"西區" on the site (AREA_REGIONS split
+    # 台中 into per-district chips); this district-level check requires the
+    # city+district together so "大雅" doesn't match some other city's
+    # same-named road/place.
+    "大雅": ["台中市大雅區", "台中巿大雅區", "臺中市大雅區", "臺中巿大雅區"],
 }
 
 KEY = os.environ.get("GOOGLE_PLACES_API_KEY", "").strip()
