@@ -27,6 +27,42 @@ jobs:
           test -n "$GOOGLE_PLACES_API_KEY"
           python3 .claude/skills/add-restaurant/scripts/search_candidates.py
 
+      - name: Select and fetch 30 大雅 restaurants
+        env:
+          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+          ADD_RESTAURANT_CANDIDATES_PATH: ${{ runner.temp }}/candidates.json
+          ADD_RESTAURANT_FINAL_LIST_PATH: ${{ runner.temp }}/final_list.json
+          ADD_RESTAURANT_DETAILS_PATH: ${{ runner.temp }}/details.json
+        run: |
+          python3 - <<'PY'
+          import json
+          # Hand-picked from the 129 real 大雅 candidates for category variety
+          # (hotpot, teppanyaki/donburi/sushi, BBQ, Korean, Thai, noodle/小吃,
+          # brunch, 熱炒, dessert, coffee, Cantonese congee, steak) rather than
+          # just top-by-rating.
+          selected = {
+              "大雅": [
+                  "築間幸福鍋物 台中大雅店", "柚一鍋大雅店", "鍋物所 新潮流小火鍋 大雅店",
+                  "麗媽四季鍋 大雅店（中午不休息）", "老灣記-平價鍋物",
+                  "豪品鐵板燒 大雅店", "極炙燒肉丼飯-大雅總店", "汍樂滿盛燒肉丼 大雅店",
+                  "味市 お料理", "晴天壽司",
+                  "嚐醬無煙燒烤", "伙房燒烤-大雅外帶店-歡迎外帶！（02：00最後點餐）（尋找合適店面，合適者請私訊官方帳號）",
+                  "大雅烤肉（學府路350號）",
+                  "肉鮮生韓式烤肉 大雅店", "石全石美石鍋專賣店 | 大雅美食 |",
+                  "ร้านกะเพราไทย打拋泰 泰式料理店",
+                  "八虎食堂 大雅店", "松居食堂(請先預約)", "大雅牛肉麵", "武漢熱乾麵",
+                  "大熊村長morning", "日十。早午食 台中大雅店", "漫時光早午餐-中清東店", "橙心早午餐",
+                  "討海王(平價現炒)路邊攤",
+                  "打鐵豆花大雅店", "蕾莉莎洋菓子-Le Risa Pâtisserie",
+                  "橘海咖啡－台中大雅 咖啡 推薦丨拿鐵專賣 客製化代烘 推薦 丨週三週四公休",
+                  "頤禾園廣東粥", "靠！有牛炙燒牛排（台中大雅店）",
+              ]
+          }
+          json.dump(selected, open("${{ runner.temp }}/final_list.json", "w"), ensure_ascii=False, indent=2)
+          print(json.dumps(selected, ensure_ascii=False))
+          PY
+          python3 .claude/skills/add-restaurant/scripts/fetch_details.py
+
       - name: Upload candidate list
         uses: actions/upload-artifact@v4
         with:
@@ -44,6 +80,9 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add candidate-results/latest.json
+          cp "${{ runner.temp }}/final_list.json" candidate-results/final-list.json
+          cp "${{ runner.temp }}/details.json" candidate-results/details.json
+          git add candidate-results/final-list.json candidate-results/details.json
           git diff --cached --quiet && exit 0
           git commit -m "Publish restaurant search candidates"
           git push
