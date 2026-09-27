@@ -24,15 +24,15 @@ MIN_REVIEWS = 15
 
 # EDIT: area label -> (lat, lng) center for locationBias
 AREAS = {
-    "新竹市": (24.8055, 120.9686),
-    "竹北": (24.8339, 121.0085),
-    "中壢": (24.9535, 121.2251),
-    "青埔": (25.0170, 121.2136),
+    "勤美": (24.1497, 120.6669),
 }
 
 # EDIT: area label -> list of query strings to try for that area
 QUERIES = {
-    "竹北": ["健康減脂餐 竹北", "減脂餐盒 竹北", "健身餐盒 竹北", "低卡餐 竹北", "雞胸肉餐盒 竹北"],
+    "勤美": [
+        "勤美 餐廳", "勤美 咖啡廳", "勤美 早午餐", "勤美 日式料理", "勤美 義式料理",
+        "勤美 燒烤", "勤美 甜點", "勤美誠品 美食", "審計新村 美食", "勤美 火鍋",
+    ],
 }
 
 # area_label -> substring(s) that MUST appear in a candidate's real
@@ -51,6 +51,7 @@ AREA_KEYWORDS = {
     # character-set quirk doesn't get flagged as an area mismatch.
     "中壢": ["桃園市", "桃园市"],
     "青埔": ["桃園市", "桃园市"],
+    "勤美": ["台中市", "台中巿"],
 }
 
 KEY = os.environ.get("GOOGLE_PLACES_API_KEY", "").strip()

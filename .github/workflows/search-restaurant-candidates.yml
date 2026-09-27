@@ -27,36 +27,6 @@ jobs:
           test -n "$GOOGLE_PLACES_API_KEY"
           python3 .claude/skills/add-restaurant/scripts/search_candidates.py
 
-      - name: Select and fetch five 竹北健康減脂餐 restaurants
-        env:
-          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
-          ADD_RESTAURANT_CANDIDATES_PATH: ${{ runner.temp }}/candidates.json
-          ADD_RESTAURANT_FINAL_LIST_PATH: ${{ runner.temp }}/final_list.json
-          ADD_RESTAURANT_DETAILS_PATH: ${{ runner.temp }}/details.json
-        run: |
-          python3 - <<'PY'
-          import json
-          # Hand-picked from the 31 raw candidates rather than pure
-          # top-by-rating: excludes 肌動力 JIDONGLI (a gym, not a
-          # restaurant, despite matching the text query) and Benefit 新竹
-          # 竹北店 (failed the address-language cross-check in
-          # fetch_details.py). All five are genuinely 減脂/低卡/舒肥/蛋白
-          # focused meal-box shops, not just generically "healthy", per the
-          # user's specific ask for 健康減脂.
-          selected = {
-              "竹北": [
-                  "戰 鬥 雞 油雞/醉雞 輕食餐盒 竹北三民店",
-                  "Miss Energy 能量小姐 竹北高鐵直營門市 低卡餐盒|低脂便當|健身餐盒|健康餐盒|商務便當|必吃便當|減脂餐|低卡美食",
-                  "蛋白盒子健康低卡餐盒-竹北嘉豐店",
-                  "食Go易健康概念餐盒 竹北自強南店-竹北低卡餐盒|低脂便當|健身餐盒|健康餐盒|活動餐盒|外帶餐盒|舒肥餐|舒肥料理",
-                  "72度C舒肥健康餐/水煮餐 竹北仁義店",
-              ]
-          }
-          json.dump(selected, open("${{ runner.temp }}/final_list.json", "w"), ensure_ascii=False, indent=2)
-          print(json.dumps(selected, ensure_ascii=False))
-          PY
-          python3 .claude/skills/add-restaurant/scripts/fetch_details.py
-
       - name: Upload candidate list
         uses: actions/upload-artifact@v4
         with:
@@ -74,9 +44,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add candidate-results/latest.json
-          cp "${{ runner.temp }}/final_list.json" candidate-results/final-list.json
-          cp "${{ runner.temp }}/details.json" candidate-results/details.json
-          git add candidate-results/final-list.json candidate-results/details.json
           git diff --cached --quiet && exit 0
           git commit -m "Publish restaurant search candidates"
           git push

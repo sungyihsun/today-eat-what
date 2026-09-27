@@ -36,6 +36,7 @@ AREA_KEYWORDS = {
     # character-set quirk doesn't get flagged as an area mismatch.
     "中壢": ["桃園市", "桃园市"],
     "青埔": ["桃園市", "桃园市"],
+    "勤美": ["台中市", "台中巿"],
 }
 
 KEY = os.environ.get("GOOGLE_PLACES_API_KEY", "").strip()
