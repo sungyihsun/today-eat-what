@@ -1,47 +1,4 @@
 {
- "15575373465969865983": {
-  "place_id": "ChIJvUXJOuQXaTQR_7QtO6XXJtg",
-  "name": "典樂生活飲食所-西屯逢甲店",
-  "address": "407台灣臺中市西屯區西屯路二段296-4號",
-  "rating": 4.8,
-  "userRatingCount": 535,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=15575373465969865983&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1780282,
-   "longitude": 120.64212789999999
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "2382674587586114245": {
-  "place_id": "ChIJlci3v0UVaTQRxbJr2On1ECE",
-  "name": "Mula Kitchens中科美食商場",
-  "address": "407台灣臺中市西屯區永安里國安一路128號1樓",
-  "rating": 4.5,
-  "userRatingCount": 679,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=2382674587586114245&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1917412,
-   "longitude": 120.61315870000001
-  },
-  "types": [
-   "food_court",
-   "meal_delivery",
-   "food_delivery",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
  "8497998745217986089": {
   "place_id": "ChIJl03K_JAXaTQRKe5untX07nU",
   "name": "沐青餐廳 Mu Ching Restaurant",
@@ -55,162 +12,6 @@
    "longitude": 120.65024710000002
   },
   "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "9670998150001979231": {
-  "place_id": "ChIJuV0-UQA9aTQRX-9TCpRJNoY",
-  "name": "好野人義式創意廚房-西屯外帶義大利麵|必吃義大利麵|平價義大利麵|焗烤推薦|人氣焗烤|焗烤義大利麵|人氣餐廳|在地推薦餐廳",
-  "address": "407台灣臺中市西屯區上安里上仁街93號",
-  "rating": 4.7,
-  "userRatingCount": 99,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=9670998150001979231&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.170889799999998,
-   "longitude": 120.6411321
-  },
-  "types": [
-   "italian_restaurant",
-   "european_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "4480329353599891925": {
-  "place_id": "ChIJlffSUwAXaTQR1bkTLs9TLT4",
-  "name": "米蘭廚房 親子餐廳|西屯義大利麵|台中寵物友善餐廳|包場&慶生&派對",
-  "address": "407台灣臺中市西屯區逢甲里寶慶街50巷51號",
-  "rating": 4.7,
-  "userRatingCount": 878,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=4480329353599891925&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1722535,
-   "longitude": 120.64751079999999
-  },
-  "types": [
-   "family_restaurant",
-   "cafe",
-   "event_venue",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "3916335215960834684": {
-  "place_id": "ChIJd1CutBUXaTQRfMKyGCGeWTY",
-  "name": "知戶酒食",
-  "address": "407台灣臺中市西屯區逢甲里文華路永新巷39號",
-  "rating": 4.9,
-  "userRatingCount": 1188,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=3916335215960834684&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.177298,
-   "longitude": 120.644891
-  },
-  "types": [
-   "japanese_izakaya_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "12690031469422660656": {
-  "place_id": "ChIJhxP5iyYXaTQRMEx3A2MMHLA",
-  "name": "楓橋餐廳 ❘ 台中萬豪萬楓酒店1樓",
-  "address": "40765台灣臺中市西屯區環中路二段1155號",
-  "rating": 4.6,
-  "userRatingCount": 209,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=12690031469422660656&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.182023899999997,
-   "longitude": 120.63623570000001
-  },
-  "types": [
-   "restaurant",
-   "steak_house",
-   "bistro",
-   "chicken_restaurant",
-   "fusion_restaurant",
-   "hotel",
-   "lodging",
-   "american_restaurant",
-   "food",
-   "service",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "13660950768361770868": {
-  "place_id": "ChIJK0NwCw0XaTQRdI9NUlhylb0",
-  "name": "雲百匯 Kloud Buffet",
-  "address": "407台灣臺中市西屯區西平里西安街277巷59號15樓",
-  "rating": 4.1,
-  "userRatingCount": 1459,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=13660950768361770868&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.183738700000003,
-   "longitude": 120.6478271
-  },
-  "types": [
-   "cafeteria",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "18258390996979580925": {
-  "place_id": "ChIJu23IdzsXaTQR_X8o6d_VYv0",
-  "name": "嵐山熟成牛かつ專売-西屯青海店",
-  "address": "407台灣臺中市西屯區西墩里福科二路95號",
-  "rating": 4.8,
-  "userRatingCount": 17829,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=18258390996979580925&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1763109,
-   "longitude": 120.6359316
-  },
-  "types": [
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "2582388378070656040": {
-  "place_id": "ChIJwV040WcXaTQRKKT_Oox81iM",
-  "name": "泰居吧-西屯泰式料理|人氣泰式|道地泰式|泰式餐廳|人氣餐廳|平價泰式料理|泰式餐廳推薦|在地推薦美食",
-  "address": "407台灣臺中市西屯區逢甲里福星路526巷3號1樓",
-  "rating": 4.9,
-  "userRatingCount": 232,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=2582388378070656040&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1767051,
-   "longitude": 120.64504419999999
-  },
-  "types": [
-   "thai_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -239,20 +40,20 @@
   ],
   "area_label": "西屯"
  },
- "17227529147098533405": {
-  "place_id": "ChIJSRiaEQAXaTQRHQ5_4nt6FO8",
-  "name": "京伙-西屯店(海南雞、魯肉飯、炸燒肉)",
-  "address": "407台灣臺中市西屯區逢甲里西屯路二段282-3號",
-  "rating": 4.2,
-  "userRatingCount": 208,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=17227529147098533405&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "8434314392783315416": {
+  "place_id": "ChIJa6FxGiwXaTQR2GHQ2UC0DHU",
+  "name": "食足早午餐｜手作料理",
+  "address": "407台灣臺中市西屯區西平里西安街277巷25弄31號",
+  "rating": 4.8,
+  "userRatingCount": 525,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=8434314392783315416&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1761639,
-   "longitude": 120.6438896
+   "latitude": 24.182800099999998,
+   "longitude": 120.64730600000001
   },
   "types": [
-   "chinese_restaurant",
+   "brunch_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -260,19 +61,22 @@
   ],
   "area_label": "西屯"
  },
- "2353254799792563238": {
-  "place_id": "ChIJ1ZQd7IYXaTQRJmSet8VwqCA",
-  "name": "彩碗 ColorBowl Poke 西屯店",
-  "address": "407台灣臺中市西屯區逢甲里西屯路二段262-3號",
-  "rating": 4.6,
-  "userRatingCount": 1592,
+ "3975175404512834311": {
+  "place_id": "ChIJ5Rdy2TwWaTQRB3PbEfioKjc",
+  "name": "HUN混 義大利麵 逢甲店",
+  "address": "407台灣臺中市西屯區西平里文華路217-8號",
+  "rating": 4.5,
+  "userRatingCount": 5306,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=2353254799792563238&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=3975175404512834311&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1735747,
-   "longitude": 120.6446746
+   "latitude": 24.182755399999998,
+   "longitude": 120.64611509999997
   },
   "types": [
+   "italian_restaurant",
+   "brunch_restaurant",
+   "european_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -304,20 +108,20 @@
   ],
   "area_label": "西屯"
  },
- "8434314392783315416": {
-  "place_id": "ChIJa6FxGiwXaTQR2GHQ2UC0DHU",
-  "name": "食足早午餐｜手作料理",
-  "address": "407台灣臺中市西屯區西平里西安街277巷25弄31號",
+ "18258390996979580925": {
+  "place_id": "ChIJu23IdzsXaTQR_X8o6d_VYv0",
+  "name": "嵐山熟成牛かつ專売-西屯青海店",
+  "address": "407台灣臺中市西屯區西墩里福科二路95號",
   "rating": 4.8,
-  "userRatingCount": 525,
+  "userRatingCount": 17829,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=8434314392783315416&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=18258390996979580925&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.182800099999998,
-   "longitude": 120.64730600000001
+   "latitude": 24.1763109,
+   "longitude": 120.6359316
   },
   "types": [
-   "brunch_restaurant",
+   "japanese_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -325,47 +129,41 @@
   ],
   "area_label": "西屯"
  },
- "1508268134469579263": {
-  "place_id": "ChIJaU8mQgkXaTQR_7EZjeBx7hQ",
-  "name": "彭記鵝肉大王-西屯必吃鵝肉|特色小吃|街邊美食|平價小吃|台灣小吃|在地推薦美食",
-  "address": "407台灣臺中市西屯區逢甲里福上巷288號",
-  "rating": 4.8,
-  "userRatingCount": 1045,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=1508268134469579263&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "1441958901720242446": {
+  "place_id": "ChIJB6mVhesXaTQRDlm_NfvdAhQ",
+  "name": "旨味日式料理/restaurants/美食/晚餐/takeout/日本料理/無菜單料理",
+  "address": "40743台灣臺中市西屯區逢福里福星路511巷1號",
+  "rating": 4.7,
+  "userRatingCount": 228,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=1441958901720242446&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.175257,
-   "longitude": 120.64542490000001
+   "latitude": 24.1777291,
+   "longitude": 120.6452372
   },
   "types": [
-   "taiwanese_restaurant",
-   "butcher_shop",
-   "food_store",
-   "store",
    "restaurant",
+   "japanese_restaurant",
    "food",
-   "manufacturer",
-   "service",
    "point_of_interest",
    "establishment"
   ],
   "area_label": "西屯"
  },
- "9073925310915744885": {
-  "place_id": "ChIJG8Mt3CIWaTQRdRSPm_4O7X0",
-  "name": "擄胃專家",
-  "address": "407台灣臺中市西屯區西平里文華路127巷22號",
-  "rating": 4.2,
-  "userRatingCount": 746,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=9073925310915744885&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "16853040396502058619": {
+  "place_id": "ChIJf_ZlPD0WaTQRe0bQCvMG4uk",
+  "name": "星饗道國際自助餐 In Sky International Buffet",
+  "address": "407台灣臺中市西屯區西平里福星北路18號",
+  "rating": 4.4,
+  "userRatingCount": 8039,
+  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=16853040396502058619&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.180573,
-   "longitude": 120.645477
+   "latitude": 24.182947799999997,
+   "longitude": 120.64498920000001
   },
   "types": [
-   "taiwanese_restaurant",
-   "chinese_restaurant",
+   "buffet_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -394,25 +192,137 @@
   ],
   "area_label": "西屯"
  },
- "757702476667807774": {
-  "place_id": "ChIJk1UXJiMWaTQRHug3V2Pmgwo",
-  "name": "凱文廚房",
-  "address": "407台灣臺中市西屯區西平里文華路127巷2號",
-  "rating": 4.6,
-  "userRatingCount": 930,
+ "2382674587586114245": {
+  "place_id": "ChIJlci3v0UVaTQRxbJr2On1ECE",
+  "name": "Mula Kitchens中科美食商場",
+  "address": "407台灣臺中市西屯區永安里國安一路128號1樓",
+  "rating": 4.5,
+  "userRatingCount": 679,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=757702476667807774&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=2382674587586114245&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.180570799999998,
-   "longitude": 120.6460589
+   "latitude": 24.1917412,
+   "longitude": 120.61315870000001
   },
   "types": [
-   "italian_restaurant",
-   "european_restaurant",
+   "food_court",
+   "meal_delivery",
+   "food_delivery",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "4480329353599891925": {
+  "place_id": "ChIJlffSUwAXaTQR1bkTLs9TLT4",
+  "name": "米蘭廚房 親子餐廳|西屯義大利麵|台中寵物友善餐廳|包場&慶生&派對",
+  "address": "407台灣臺中市西屯區逢甲里寶慶街50巷51號",
+  "rating": 4.7,
+  "userRatingCount": 878,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=4480329353599891925&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1722535,
+   "longitude": 120.64751079999999
+  },
+  "types": [
+   "family_restaurant",
+   "cafe",
+   "event_venue",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "1508268134469579263": {
+  "place_id": "ChIJaU8mQgkXaTQR_7EZjeBx7hQ",
+  "name": "彭記鵝肉大王-西屯必吃鵝肉|特色小吃|街邊美食|平價小吃|台灣小吃|在地推薦美食",
+  "address": "407台灣臺中市西屯區逢甲里福上巷288號",
+  "rating": 4.8,
+  "userRatingCount": 1045,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=1508268134469579263&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.175257,
+   "longitude": 120.64542490000001
+  },
+  "types": [
+   "taiwanese_restaurant",
+   "butcher_shop",
+   "manufacturer",
    "food_store",
    "store",
    "restaurant",
    "food",
+   "point_of_interest",
+   "service",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "6624827528793751250": {
+  "place_id": "ChIJBW0WCPY9aTQR0v76n4kd8Fs",
+  "name": "紅屋頂關東煮複合式餐館（重要資訊，請看IG與臉書說明）",
+  "address": "407台灣臺中市西屯區西墩里黎明路三段228號",
+  "rating": 4.7,
+  "userRatingCount": 2063,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=6624827528793751250&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1791471,
+   "longitude": 120.63767899999999
+  },
+  "types": [
+   "yakitori_restaurant",
+   "chinese_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "3916335215960834684": {
+  "place_id": "ChIJd1CutBUXaTQRfMKyGCGeWTY",
+  "name": "知戶酒食",
+  "address": "407台灣臺中市西屯區逢甲里文華路永新巷39號",
+  "rating": 4.9,
+  "userRatingCount": 1188,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=3916335215960834684&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.177298,
+   "longitude": 120.644891
+  },
+  "types": [
+   "japanese_izakaya_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "13660950768361770868": {
+  "place_id": "ChIJK0NwCw0XaTQRdI9NUlhylb0",
+  "name": "雲百匯 Kloud Buffet",
+  "address": "407台灣臺中市西屯區西平里西安街277巷59號15樓",
+  "rating": 4.1,
+  "userRatingCount": 1459,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=13660950768361770868&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.183738700000003,
+   "longitude": 120.6478271
+  },
+  "types": [
+   "cafeteria",
    "point_of_interest",
    "establishment"
   ],
@@ -432,12 +342,75 @@
   },
   "types": [
    "restaurant",
-   "bistro",
-   "western_restaurant",
    "taiwanese_restaurant",
-   "french_restaurant",
+   "bistro",
    "fusion_restaurant",
+   "western_restaurant",
+   "french_restaurant",
    "european_restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "11862126768074719317": {
+  "place_id": "ChIJoy4aJ_U9aTQRVQC_g3K9nqQ",
+  "name": "銅鑼灣文記港式餐廳",
+  "address": "407台灣臺中市西屯區上安里河南路二段510號",
+  "rating": 4.4,
+  "userRatingCount": 5093,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=11862126768074719317&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.169259999999998,
+   "longitude": 120.6420239
+  },
+  "types": [
+   "cantonese_restaurant",
+   "chinese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "13962601103942127911": {
+  "place_id": "ChIJ0RWHmbcXaTQRJ5HyHLofxcE",
+  "name": "DOUZO蔬食",
+  "address": "407台灣臺中市西屯區西墩里黎明路三段405號",
+  "rating": 4.7,
+  "userRatingCount": 612,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=13962601103942127911&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1831142,
+   "longitude": 120.63908299999999
+  },
+  "types": [
+   "vegetarian_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "4509829570014357253": {
+  "place_id": "ChIJj9xzP18XaTQRBSdCjhkilj4",
+  "name": "星空Stellato （逢甲店）義大利麵、燉飯",
+  "address": "407台灣臺中市西屯區西平里文華路121號",
+  "rating": 4.3,
+  "userRatingCount": 954,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=4509829570014357253&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.179613999999997,
+   "longitude": 120.64631399999998
+  },
+  "types": [
+   "restaurant",
    "food",
    "point_of_interest",
    "establishment"
@@ -459,6 +432,72 @@
   "types": [
    "noodle_shop",
    "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "1088192056159888953": {
+  "place_id": "ChIJK4W2WSIWaTQROebP2ugIGg8",
+  "name": "逢甲夜市",
+  "address": "407台灣臺中市西屯區文華路",
+  "rating": 4.3,
+  "userRatingCount": 97904,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=1088192056159888953&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1761706,
+   "longitude": 120.6456267
+  },
+  "types": [
+   "tourist_attraction",
+   "market",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "15317098690164050274": {
+  "place_id": "ChIJF7_0_PgXaTQRYknU8BpEkdQ",
+  "name": "Now.鬧brunch",
+  "address": "407台灣臺中市西屯區逢甲里福上巷321-1號",
+  "rating": 4.7,
+  "userRatingCount": 520,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=15317098690164050274&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1749694,
+   "longitude": 120.645681
+  },
+  "types": [
+   "brunch_restaurant",
+   "food_store",
+   "store",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "14598990250472141894": {
+  "place_id": "ChIJ_7xQcCEWaTQRRnTItkgImso",
+  "name": "短腿丫鹿餅乾 逢甲店",
+  "address": "407台灣臺中市西屯區逢福里福星路593號",
+  "rating": 4.4,
+  "userRatingCount": 3387,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=14598990250472141894&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1753723,
+   "longitude": 120.6463462
+  },
+  "types": [
+   "bakery",
+   "confectionery",
+   "food_store",
+   "store",
    "food",
    "point_of_interest",
    "establishment"
@@ -488,69 +527,43 @@
   ],
   "area_label": "西屯"
  },
- "12152004353506546175": {
-  "place_id": "ChIJN9FhKsEXaTQR_xHCT5OXpKg",
-  "name": "泰辛火山排骨-逢甲夜市店 泰國/馬來西亞美食 ThaiSin Thai&Malaysia Restaurant(+Toilet)",
-  "address": "407台灣臺中市西屯區逢福里文華路71號逢甲歡樂星商場內-D3櫃位",
-  "rating": 4.5,
-  "userRatingCount": 1261,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=12152004353506546175&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.177651299999997,
-   "longitude": 120.6464315
-  },
-  "types": [
-   "thai_restaurant",
-   "malaysian_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "6390726285976543227": {
-  "place_id": "ChIJJVAhMCIWaTQR-x9ilLJrsFg",
-  "name": "香噴噴雞肉飯",
-  "address": "407台灣臺中市西屯區逢福里福星路537號",
-  "rating": 4.1,
-  "userRatingCount": 405,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=6390726285976543227&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.177070999999998,
-   "longitude": 120.64527199999998
-  },
-  "types": [
-   "restaurant",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "7421314918227325759": {
-  "place_id": "ChIJLcJrKyIWaTQRPzM_K5nO_WY",
-  "name": "逢甲埔里米糕",
-  "address": "407台灣臺中市西屯區逢福里文華路永新巷北一弄2號",
+ "13799791419396714196": {
+  "place_id": "ChIJf9jZARcXaTQR1O6fdy61gr8",
+  "name": "NAMI米熱狗",
+  "address": "407台灣臺中市西屯區逢福里逢甲路19巷15號",
   "rating": 4.2,
-  "userRatingCount": 541,
+  "userRatingCount": 309,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=7421314918227325759&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=13799791419396714196&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.176558,
-   "longitude": 120.64580339999999
+   "latitude": 24.178144099999997,
+   "longitude": 120.64589980000001
   },
   "types": [
-   "taiwanese_restaurant",
-   "snack_bar",
-   "meal_takeaway",
+   "hot_dog_restaurant",
+   "american_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "18308414626453361754": {
+  "place_id": "ChIJf3HLsCEWaTQRWpRRwhmOFP4",
+  "name": "櫻桃計畫咖啡館｜逢甲門市",
+  "address": "40749台灣臺中市西屯區逢甲里西屯路二段270巷1號",
+  "rating": 4.6,
+  "userRatingCount": 1023,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=18308414626453361754&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.174380900000003,
+   "longitude": 120.6448298
+  },
+  "types": [
    "food_store",
    "store",
-   "restaurant",
    "food",
    "point_of_interest",
    "establishment"
@@ -578,67 +591,6 @@
   ],
   "area_label": "西屯"
  },
- "1088192056159888953": {
-  "place_id": "ChIJK4W2WSIWaTQROebP2ugIGg8",
-  "name": "逢甲夜市",
-  "address": "407台灣臺中市西屯區文華路",
-  "rating": 4.3,
-  "userRatingCount": 97904,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=1088192056159888953&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1761706,
-   "longitude": 120.6456267
-  },
-  "types": [
-   "tourist_attraction",
-   "market",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "18178084246992213701": {
-  "place_id": "ChIJR4-hWuUXaTQRxVYYn0-HRfw",
-  "name": "就要醬滷 逢甲文華店",
-  "address": "407台灣臺中市西屯區西平里文華路151號",
-  "rating": 4.8,
-  "userRatingCount": 440,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=18178084246992213701&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1810647,
-   "longitude": 120.64633280000001
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "7885112255148665309": {
-  "place_id": "ChIJU9eAUZsXaTQR3Sk3ptGLbW0",
-  "name": "萬氏福建炒麵-逢甲店",
-  "address": "40743台灣臺中市西屯區逢福里福星路535號",
-  "rating": 4.7,
-  "userRatingCount": 686,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=7885112255148665309&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1770924,
-   "longitude": 120.645243
-  },
-  "types": [
-   "chinese_noodle_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
  "4156544523578027607": {
   "place_id": "ChIJqXdmkCEWaTQRV672zDgDrzk",
   "name": "宋家藥燉排骨。臭豆腐",
@@ -659,64 +611,194 @@
   ],
   "area_label": "西屯"
  },
- "5331220869084651985": {
-  "place_id": "ChIJkVRDEyEWaTQR0aHwaCJN_Ek",
-  "name": "逢甲燒餅豆漿",
-  "address": "407台灣臺中市西屯區西平里福星路315號",
-  "rating": 4,
-  "userRatingCount": 2462,
+ "7421314918227325759": {
+  "place_id": "ChIJLcJrKyIWaTQRPzM_K5nO_WY",
+  "name": "逢甲埔里米糕",
+  "address": "407台灣臺中市西屯區逢福里文華路永新巷北一弄2號",
+  "rating": 4.2,
+  "userRatingCount": 541,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=5331220869084651985&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=7421314918227325759&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1814048,
-   "longitude": 120.6451185
+   "latitude": 24.176558,
+   "longitude": 120.64580339999999
   },
   "types": [
-   "breakfast_restaurant",
-   "chinese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "15317098690164050274": {
-  "place_id": "ChIJF7_0_PgXaTQRYknU8BpEkdQ",
-  "name": "Now.鬧brunch",
-  "address": "407台灣臺中市西屯區逢甲里福上巷321-1號",
-  "rating": 4.7,
-  "userRatingCount": 520,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=15317098690164050274&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1749694,
-   "longitude": 120.645681
-  },
-  "types": [
-   "brunch_restaurant",
+   "taiwanese_restaurant",
+   "snack_bar",
    "food_store",
+   "meal_takeaway",
+   "store",
    "restaurant",
    "food",
    "point_of_interest",
-   "store",
    "establishment"
   ],
   "area_label": "西屯"
  },
- "4509829570014357253": {
-  "place_id": "ChIJj9xzP18XaTQRBSdCjhkilj4",
-  "name": "星空Stellato （逢甲店）義大利麵、燉飯",
-  "address": "407台灣臺中市西屯區西平里文華路121號",
-  "rating": 4.3,
-  "userRatingCount": 954,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=4509829570014357253&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "11013961005019782368": {
+  "place_id": "ChIJB69IyCMWaTQR4Fw1-i1z2Zg",
+  "name": "金牌巨無霸香酥臭豆腐",
+  "address": "407台灣臺中市西屯區逢福里文華路53號對面號",
+  "rating": 4,
+  "userRatingCount": 318,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=11013961005019782368&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.179613999999997,
-   "longitude": 120.64631399999998
+   "latitude": 24.1773938,
+   "longitude": 120.64662279999999
   },
   "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "10603661677026827643": {
+  "place_id": "ChIJ-5tvBW4XaTQRe12bWR3GJ5M",
+  "name": "逢甲海鮮漁人屋",
+  "address": "407台灣臺中市西屯區逢福里逢甲路五號扭蛋店前面",
+  "rating": 4.3,
+  "userRatingCount": 88,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=10603661677026827643&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1787279,
+   "longitude": 120.64627259999997
+  },
+  "types": [
+   "seafood_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "3543896081788412940": {
+  "place_id": "ChIJswvWAyIWaTQRDKTlw7VyLjE",
+  "name": "Mr.38 咖哩美食餐廳（逢甲店）",
+  "address": "407台灣臺中市西屯區逢甲里至善路212號",
+  "rating": 4.6,
+  "userRatingCount": 6075,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=3543896081788412940&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1770753,
+   "longitude": 120.64336039999999
+  },
+  "types": [
+   "japanese_curry_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "10961380462969625860": {
+  "place_id": "ChIJf0w8PyEWaTQRBB02h3SlHpg",
+  "name": "稻鮨板前吞食",
+  "address": "407台灣臺中市西屯區逢甲里福星路550號",
+  "rating": 4.4,
+  "userRatingCount": 1237,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=10961380462969625860&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1755967,
+   "longitude": 120.64562239999998
+  },
+  "types": [
+   "sushi_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "13428421172455769048": {
+  "place_id": "ChIJUWxdElEXaTQR2IOP1uhVW7o",
+  "name": "HOME燒肉-逢甲店",
+  "address": "407台灣臺中市西屯區逢福里河南路二段256號",
+  "rating": 4.8,
+  "userRatingCount": 5641,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=13428421172455769048&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1755744,
+   "longitude": 120.649703
+  },
+  "types": [
+   "yakiniku_restaurant",
+   "barbecue_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "799632216624180805": {
+  "place_id": "ChIJu34d-vMXaTQRRa7XrkPdGAs",
+  "name": "亞丁尼義式麵屋 逢甲店",
+  "address": "407台灣臺中市西屯區西平里西安街170號",
+  "rating": 4.7,
+  "userRatingCount": 4811,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=799632216624180805&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.181792899999998,
+   "longitude": 120.6454167
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "17352009863269650241": {
+  "place_id": "ChIJDbL8GpsXaTQRQQ9DJwm5zvA",
+  "name": "浪人鐵板燒 逢甲店",
+  "address": "407台灣臺中市西屯區逢甲里福星路570號",
+  "rating": 4.8,
+  "userRatingCount": 1940,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=17352009863269650241&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1752723,
+   "longitude": 120.64613829999999
+  },
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "2926830220064225272": {
+  "place_id": "ChIJPcxJUZ0XaTQR-HfOAJQwnig",
+  "name": "莫果韓式飯捲",
+  "address": "407台灣臺中市西屯區逢福里福上巷216弄14號",
+  "rating": 4.7,
+  "userRatingCount": 698,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=2926830220064225272&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.175953699999997,
+   "longitude": 120.64822559999999
+  },
+  "types": [
+   "korean_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -769,115 +851,6 @@
   ],
   "area_label": "西屯"
  },
- "799632216624180805": {
-  "place_id": "ChIJu34d-vMXaTQRRa7XrkPdGAs",
-  "name": "亞丁尼義式麵屋 逢甲店",
-  "address": "407台灣臺中市西屯區西平里西安街170號",
-  "rating": 4.7,
-  "userRatingCount": 4811,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=799632216624180805&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.181792899999998,
-   "longitude": 120.6454167
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "3975175404512834311": {
-  "place_id": "ChIJ5Rdy2TwWaTQRB3PbEfioKjc",
-  "name": "HUN混 義大利麵 逢甲店",
-  "address": "407台灣臺中市西屯區西平里文華路217-8號",
-  "rating": 4.5,
-  "userRatingCount": 5306,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=3975175404512834311&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.182755399999998,
-   "longitude": 120.64611509999997
-  },
-  "types": [
-   "italian_restaurant",
-   "brunch_restaurant",
-   "european_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "2331745903119849007": {
-  "place_id": "ChIJ_ZUfZC0XaTQRL1budYsGXCA",
-  "name": "烏竹樓 台式料理",
-  "address": "407台灣臺中市西屯區西安街166號",
-  "rating": 4.7,
-  "userRatingCount": 450,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=2331745903119849007&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.181777999999998,
-   "longitude": 120.6453186
-  },
-  "types": [
-   "restaurant",
-   "taiwanese_restaurant",
-   "snack_bar",
-   "meal_takeaway",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "1423894266805289626": {
-  "place_id": "ChIJESrNn0sXaTQRmgKlokqwwhM",
-  "name": "京厚屋-逢甲店 | 日式豬排 | 咖哩 | 壽喜燒 | 自助吧 | 霜淇淋",
-  "address": "407台灣臺中市西屯區逢福里河南路二段255-1號",
-  "rating": 4.5,
-  "userRatingCount": 2878,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=1423894266805289626&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1742369,
-   "longitude": 120.64821399999998
-  },
-  "types": [
-   "tonkatsu_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "18308414626453361754": {
-  "place_id": "ChIJf3HLsCEWaTQRWpRRwhmOFP4",
-  "name": "櫻桃計畫咖啡館｜逢甲門市",
-  "address": "40749台灣臺中市西屯區逢甲里西屯路二段270巷1號",
-  "rating": 4.6,
-  "userRatingCount": 1023,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=18308414626453361754&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.174380900000003,
-   "longitude": 120.6448298
-  },
-  "types": [
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
  "18137062803636832919": {
   "place_id": "ChIJQ0dLdyEWaTQRl0q5j4bKs_s",
   "name": "首爾韓鍋 GANGNAM Korean Restaurant 서울 강남닭갈비 맛집 (最後收客 20:30)",
@@ -892,71 +865,6 @@
   },
   "types": [
    "korean_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "130557168963327796": {
-  "place_id": "ChIJsdleOukXaTQRNJfwrg3VzwE",
-  "name": "飯丸屋 台中逢甲店",
-  "address": "407032台灣臺中市西屯區西平里文華路151號",
-  "rating": 4.2,
-  "userRatingCount": 110,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=130557168963327796&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.18104,
-   "longitude": 120.64616799999999
-  },
-  "types": [
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "2291121591030402520": {
-  "place_id": "ChIJpSXMDm8XaTQR2E2YuvKyyx8",
-  "name": "That's Right pasta 來吃啦 義大利麵",
-  "address": "407台灣臺中市西屯區逢福里慶和街38號",
-  "rating": 4.8,
-  "userRatingCount": 195,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=2291121591030402520&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.175615099999998,
-   "longitude": 120.64726449999999
-  },
-  "types": [
-   "italian_restaurant",
-   "european_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "3543896081788412940": {
-  "place_id": "ChIJswvWAyIWaTQRDKTlw7VyLjE",
-  "name": "Mr.38 咖哩美食餐廳（逢甲店）",
-  "address": "407台灣臺中市西屯區逢甲里至善路212號",
-  "rating": 4.6,
-  "userRatingCount": 6075,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=3543896081788412940&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1770753,
-   "longitude": 120.64336039999999
-  },
-  "types": [
-   "japanese_curry_restaurant",
-   "japanese_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -1006,26 +914,22 @@
   ],
   "area_label": "西屯"
  },
- "12170597332284429851": {
-  "place_id": "ChIJufNmURoXaTQRG1Yhh8ql5qg",
-  "name": "日常日嚐早午晚餐咖啡廳逢甲店 The Downshifting Cafe' FengJia",
-  "address": "407台灣臺中市西屯區西平里文華路138巷1-1號",
-  "rating": 4.2,
-  "userRatingCount": 828,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=12170597332284429851&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "8941102858326952266": {
+  "place_id": "ChIJ27i4ccwXaTQRSsnOeq0tFXw",
+  "name": "米丹-逢甲創始店",
+  "address": "407台灣臺中市西屯區逢福里福上巷216弄28號",
+  "rating": 4.4,
+  "userRatingCount": 203,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=8941102858326952266&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.182873500000003,
-   "longitude": 120.6458869
+   "latitude": 24.1764905,
+   "longitude": 120.6483233
   },
   "types": [
-   "brunch_restaurant",
-   "noodle_shop",
-   "food_store",
    "restaurant",
    "food",
    "point_of_interest",
-   "store",
    "establishment"
   ],
   "area_label": "西屯"
@@ -1110,8 +1014,8 @@
   },
   "types": [
    "brunch_restaurant",
-   "western_restaurant",
    "breakfast_restaurant",
+   "western_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -1156,10 +1060,10 @@
   "types": [
    "brunch_restaurant",
    "food_store",
+   "store",
    "restaurant",
    "food",
    "point_of_interest",
-   "store",
    "establishment"
   ],
   "area_label": "西屯"
@@ -1182,9 +1086,9 @@
    "brunch_restaurant",
    "american_restaurant",
    "food_store",
+   "store",
    "food",
    "point_of_interest",
-   "store",
    "establishment"
   ],
   "area_label": "西屯"
@@ -1227,13 +1131,13 @@
   },
   "types": [
    "brunch_restaurant",
-   "breakfast_restaurant",
    "taiwanese_restaurant",
+   "breakfast_restaurant",
    "food_store",
+   "store",
    "restaurant",
    "food",
    "point_of_interest",
-   "store",
    "establishment"
   ],
   "area_label": "西屯"
@@ -1255,10 +1159,10 @@
    "dessert_shop",
    "confectionery",
    "food_store",
+   "store",
    "restaurant",
    "food",
    "point_of_interest",
-   "store",
    "establishment"
   ],
   "area_label": "西屯"
@@ -1289,7 +1193,7 @@
   "name": "齁蛋啦厚蛋燒.咖哩.丼飯",
   "address": "407台灣臺中市西屯區文華路138巷7號",
   "rating": 4.7,
-  "userRatingCount": 1024,
+  "userRatingCount": 1025,
   "priceLevel": "PRICE_LEVEL_MODERATE",
   "googleMapsUri": "https://maps.google.com/?cid=12288091889866426351&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
@@ -1389,21 +1293,24 @@
   ],
   "area_label": "西屯"
  },
- "1441958901720242446": {
-  "place_id": "ChIJB6mVhesXaTQRDlm_NfvdAhQ",
-  "name": "旨味日式料理/restaurants/美食/晚餐/takeout/日本料理/無菜單料理",
-  "address": "40743台灣臺中市西屯區逢福里福星路511巷1號",
-  "rating": 4.7,
-  "userRatingCount": 228,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=1441958901720242446&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "15965623394774236549": {
+  "place_id": "ChIJewxYWA4XaTQRhT0vV-NJkd0",
+  "name": "當下食時‧しゅん日式定食",
+  "address": "407台灣臺中市西屯區西平里烈美街120號",
+  "rating": 4.9,
+  "userRatingCount": 336,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=15965623394774236549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1777291,
-   "longitude": 120.6452372
+   "latitude": 24.1798373,
+   "longitude": 120.6427895
   },
   "types": [
-   "restaurant",
    "japanese_restaurant",
+   "sushi_restaurant",
+   "food_store",
+   "store",
+   "restaurant",
    "food",
    "point_of_interest",
    "establishment"
@@ -1424,6 +1331,72 @@
   },
   "types": [
    "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "919157574391530969": {
+  "place_id": "ChIJH83oHpcXaTQR2YU3qvGAwQw",
+  "name": "小巷日和食",
+  "address": "407台灣臺中市西屯區西平里文華路127巷1號",
+  "rating": 4.6,
+  "userRatingCount": 449,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=919157574391530969&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1804554,
+   "longitude": 120.6462407
+  },
+  "types": [
+   "sushi_restaurant",
+   "deli",
+   "food_store",
+   "japanese_restaurant",
+   "store",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "3886649945854962629": {
+  "place_id": "ChIJgSgpMpI9aTQRxev5jIgn8DU",
+  "name": "真樹まさき壽司割烹",
+  "address": "407台灣臺中市西屯區何成里大容西街65號",
+  "rating": 4.6,
+  "userRatingCount": 1204,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=3886649945854962629&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1573849,
+   "longitude": 120.64789
+  },
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "10861859370858227309": {
+  "place_id": "ChIJuZUQ_lMXaTQRbaZAmIwTvZY",
+  "name": "狸天屋",
+  "address": "407台灣臺中市西屯區西平里文華路138巷9號",
+  "rating": 4.8,
+  "userRatingCount": 181,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=10861859370858227309&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1829118,
+   "longitude": 120.64667109999999
+  },
+  "types": [
    "restaurant",
    "food",
    "point_of_interest",
@@ -1453,45 +1426,20 @@
   ],
   "area_label": "西屯"
  },
- "4488026460283053988": {
-  "place_id": "ChIJn6Z9zCIWaTQRpKe5e0msSD4",
-  "name": "小竹屋日式料理",
-  "address": "407台灣臺中市西屯區西平里福星路321號",
-  "rating": 4.3,
-  "userRatingCount": 1185,
+ "17417625678544711086": {
+  "place_id": "ChIJR8rFvEo9aTQRri1hqEXWt_E",
+  "name": "SAKANA魚吞壽司",
+  "address": "407台灣臺中市西屯區何成里大墩路923-1號",
+  "rating": 4.8,
+  "userRatingCount": 1068,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=4488026460283053988&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=17417625678544711086&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1813076,
-   "longitude": 120.64508730000001
+   "latitude": 24.1579351,
+   "longitude": 120.65107789999999
   },
   "types": [
    "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "919157574391530969": {
-  "place_id": "ChIJH83oHpcXaTQR2YU3qvGAwQw",
-  "name": "小巷日和食",
-  "address": "407台灣臺中市西屯區西平里文華路127巷1號",
-  "rating": 4.6,
-  "userRatingCount": 449,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=919157574391530969&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1804554,
-   "longitude": 120.6462407
-  },
-  "types": [
-   "sushi_restaurant",
-   "japanese_restaurant",
-   "deli",
-   "food_store",
-   "store",
    "restaurant",
    "food",
    "point_of_interest",
@@ -1520,38 +1468,17 @@
   ],
   "area_label": "西屯"
  },
- "3886649945854962629": {
-  "place_id": "ChIJgSgpMpI9aTQRxev5jIgn8DU",
-  "name": "真樹まさき壽司割烹",
-  "address": "407台灣臺中市西屯區何成里大容西街65號",
-  "rating": 4.6,
-  "userRatingCount": 1204,
+ "4488026460283053988": {
+  "place_id": "ChIJn6Z9zCIWaTQRpKe5e0msSD4",
+  "name": "小竹屋日式料理",
+  "address": "407台灣臺中市西屯區西平里福星路321號",
+  "rating": 4.3,
+  "userRatingCount": 1185,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=3886649945854962629&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=4488026460283053988&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1573849,
-   "longitude": 120.64789
-  },
-  "types": [
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "17417625678544711086": {
-  "place_id": "ChIJR8rFvEo9aTQRri1hqEXWt_E",
-  "name": "SAKANA魚吞壽司",
-  "address": "407台灣臺中市西屯區何成里大墩路923-1號",
-  "rating": 4.8,
-  "userRatingCount": 1068,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=17417625678544711086&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1579351,
-   "longitude": 120.65107789999999
+   "latitude": 24.1813076,
+   "longitude": 120.64508730000001
   },
   "types": [
    "japanese_restaurant",
@@ -1584,23 +1511,22 @@
   ],
   "area_label": "西屯"
  },
- "15965623394774236549": {
-  "place_id": "ChIJewxYWA4XaTQRhT0vV-NJkd0",
-  "name": "當下食時‧しゅん日式定食",
-  "address": "407台灣臺中市西屯區西平里烈美街120號",
-  "rating": 4.9,
-  "userRatingCount": 336,
+ "16292464522644129683": {
+  "place_id": "ChIJvwkrlYxabDQRk4fbgyl2GuI",
+  "name": "串好kushiyoshi日式料理-逢甲店",
+  "address": "40742台灣臺中市西屯區西平里文華路138巷17號",
+  "rating": 4.7,
+  "userRatingCount": 485,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=15965623394774236549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=16292464522644129683&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1798373,
-   "longitude": 120.6427895
+   "latitude": 24.1829183,
+   "longitude": 120.6468058
   },
   "types": [
    "japanese_restaurant",
    "sushi_restaurant",
-   "food_store",
-   "store",
+   "meal_takeaway",
    "restaurant",
    "food",
    "point_of_interest",
@@ -1608,64 +1534,41 @@
   ],
   "area_label": "西屯"
  },
- "10961380462969625860": {
-  "place_id": "ChIJf0w8PyEWaTQRBB02h3SlHpg",
-  "name": "稻鮨板前吞食",
-  "address": "407台灣臺中市西屯區逢甲里福星路550號",
-  "rating": 4.4,
-  "userRatingCount": 1237,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=10961380462969625860&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1755967,
-   "longitude": 120.64562239999998
-  },
-  "types": [
-   "sushi_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "15709283449771868586": {
-  "place_id": "ChIJzYLknPE9aTQRqkGT8xCWAto",
-  "name": "真澄懷石割烹日本料理",
-  "address": "407台灣臺中市西屯區潮洋里朝馬七街5號",
-  "rating": 4.4,
-  "userRatingCount": 665,
-  "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=15709283449771868586&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1648736,
-   "longitude": 120.635898
-  },
-  "types": [
-   "fine_dining_restaurant",
-   "sushi_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "17218781179246145372": {
-  "place_id": "ChIJBZ6YPI09aTQRXO8l5kBm9e4",
-  "name": "四季彩日本料理",
-  "address": "407台灣臺中市西屯區惠來里惠中二街38號",
+ "8663943005026672241": {
+  "place_id": "ChIJtxQz8YY9aTQRcV7YcEKCPHg",
+  "name": "兩千金釜燒飯",
+  "address": "407台灣臺中市西屯區西墩里黎明路三段537號",
   "rating": 4.5,
-  "userRatingCount": 992,
-  "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=17218781179246145372&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "userRatingCount": 711,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=8663943005026672241&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1629068,
-   "longitude": 120.64369730000001
+   "latitude": 24.1861827,
+   "longitude": 120.64005399999999
   },
   "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "59029967964577121": {
+  "place_id": "ChIJEbWBT8o9aTQRYZ2hb3G30QA",
+  "name": "無二壽司 華美店/美食/必吃/壽司/餐廳/附近美食/日本料理",
+  "address": "407台灣臺中市西屯區何福里寧漢三街2號",
+  "rating": 4.6,
+  "userRatingCount": 1405,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=59029967964577121&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1655472,
+   "longitude": 120.6640634
+  },
+  "types": [
+   "sushi_restaurant",
    "japanese_restaurant",
    "restaurant",
    "food",
@@ -1695,17 +1598,17 @@
   ],
   "area_label": "西屯"
  },
- "11831118359575807836": {
-  "place_id": "ChIJe_huUv0VaTQRXEceznaTMKQ",
-  "name": "上福綱日式料理",
-  "address": "407台灣臺中市西屯區永安里西屯路三段156號",
-  "rating": 4.4,
-  "userRatingCount": 324,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=11831118359575807836&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "17218781179246145372": {
+  "place_id": "ChIJBZ6YPI09aTQRXO8l5kBm9e4",
+  "name": "四季彩日本料理",
+  "address": "407台灣臺中市西屯區惠來里惠中二街38號",
+  "rating": 4.5,
+  "userRatingCount": 992,
+  "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=17218781179246145372&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.187452099999998,
-   "longitude": 120.6198309
+   "latitude": 24.1629068,
+   "longitude": 120.64369730000001
   },
   "types": [
    "japanese_restaurant",
@@ -1716,19 +1619,45 @@
   ],
   "area_label": "西屯"
  },
- "9910652559737159533": {
-  "place_id": "ChIJWZ7EmAg9aTQRbf9yg_61iYk",
-  "name": "軒之饌 日式無菜單料理",
-  "address": "407台灣臺中市西屯區何成里臺灣大道二段841號",
-  "rating": 4.8,
-  "userRatingCount": 50,
-  "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=9910652559737159533&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "9670998150001979231": {
+  "place_id": "ChIJuV0-UQA9aTQRX-9TCpRJNoY",
+  "name": "好野人義式創意廚房-西屯外帶義大利麵|必吃義大利麵|平價義大利麵|焗烤推薦|人氣焗烤|焗烤義大利麵|人氣餐廳|在地推薦餐廳",
+  "address": "407台灣臺中市西屯區上安里上仁街93號",
+  "rating": 4.7,
+  "userRatingCount": 99,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=9670998150001979231&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.160619999999998,
-   "longitude": 120.65238599999999
+   "latitude": 24.170889799999998,
+   "longitude": 120.6411321
   },
   "types": [
+   "italian_restaurant",
+   "european_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "1745861967143158405": {
+  "place_id": "ChIJPWZ7KsA9aTQRhcJuijWMOhg",
+  "name": "八羽義大利麵",
+  "address": "407台灣臺中市西屯區惠來里西屯路二段242-1號",
+  "rating": 4.9,
+  "userRatingCount": 1055,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=1745861967143158405&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.169432,
+   "longitude": 120.64827579999998
+  },
+  "types": [
+   "italian_restaurant",
+   "food_store",
+   "european_restaurant",
+   "store",
    "restaurant",
    "food",
    "point_of_interest",
@@ -1750,11 +1679,75 @@
   },
   "types": [
    "italian_restaurant",
-   "brunch_restaurant",
    "bistro",
-   "european_restaurant",
+   "brunch_restaurant",
    "food_store",
+   "european_restaurant",
    "store",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "9560312624009365499": {
+  "place_id": "ChIJjU9JvLA9aTQR-8fCx60NrYQ",
+  "name": "盒食富·義式料理｜義大利麵&燉飯｜焗烤｜水耕沙拉｜薄皮pizza｜寵物友善｜台中美食-西屯外帶義大利麵|必吃義大利麵|必吃烤餅|手作料理|特色料理｜約會餐廳",
+  "address": "407台灣臺中市西屯區何明里大弘四街35號1樓",
+  "rating": 5,
+  "userRatingCount": 340,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=9560312624009365499&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1635198,
+   "longitude": 120.660152
+  },
+  "types": [
+   "italian_restaurant",
+   "european_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "2291121591030402520": {
+  "place_id": "ChIJpSXMDm8XaTQR2E2YuvKyyx8",
+  "name": "That's Right pasta 來吃啦 義大利麵",
+  "address": "407台灣臺中市西屯區逢福里慶和街38號",
+  "rating": 4.8,
+  "userRatingCount": 195,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=2291121591030402520&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.175615099999998,
+   "longitude": 120.64726449999999
+  },
+  "types": [
+   "italian_restaurant",
+   "european_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "4695690406368515563": {
+  "place_id": "ChIJnWqGFCk9aTQR6xXOtotxKkE",
+  "name": "Infiore義之花義式餐廳",
+  "address": "407594台灣臺中市西屯區潮洋里黎明路二段891號",
+  "rating": 4.9,
+  "userRatingCount": 5302,
+  "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=4695690406368515563&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1686938,
+   "longitude": 120.6357151
+  },
+  "types": [
    "restaurant",
    "food",
    "point_of_interest",
@@ -1784,22 +1777,85 @@
   ],
   "area_label": "西屯"
  },
- "1745861967143158405": {
-  "place_id": "ChIJPWZ7KsA9aTQRhcJuijWMOhg",
-  "name": "八羽義大利麵",
-  "address": "407台灣臺中市西屯區惠來里西屯路二段242-1號",
-  "rating": 4.9,
-  "userRatingCount": 1055,
+ "1434794223025469217": {
+  "place_id": "ChIJ2Q-pXQAXaTQRITc3db5p6RM",
+  "name": "山終小鄰義大利麵專賣",
+  "address": "407台灣臺中市西屯區西平里華夏巷東一弄18號",
+  "rating": 4.5,
+  "userRatingCount": 213,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=1745861967143158405&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=1434794223025469217&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.169432,
-   "longitude": 120.64827579999998
+   "latitude": 24.1807631,
+   "longitude": 120.64472260000001
   },
   "types": [
    "italian_restaurant",
    "european_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "7201924301695433215": {
+  "place_id": "ChIJJVPP9Q09aTQR_znPtf5f8mM",
+  "name": "TORA Trattoria",
+  "address": "407台灣臺中市西屯區何南里東興路三段420號",
+  "rating": 4.4,
+  "userRatingCount": 477,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=7201924301695433215&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1586683,
+   "longitude": 120.6558752
+  },
+  "types": [
    "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "15575373465969865983": {
+  "place_id": "ChIJvUXJOuQXaTQR_7QtO6XXJtg",
+  "name": "典樂生活飲食所-西屯逢甲店",
+  "address": "407台灣臺中市西屯區西屯路二段296-4號",
+  "rating": 4.8,
+  "userRatingCount": 535,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=15575373465969865983&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1780282,
+   "longitude": 120.64212789999999
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "757702476667807774": {
+  "place_id": "ChIJk1UXJiMWaTQRHug3V2Pmgwo",
+  "name": "凱文廚房",
+  "address": "407台灣臺中市西屯區西平里文華路127巷2號",
+  "rating": 4.6,
+  "userRatingCount": 930,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=757702476667807774&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.180570799999998,
+   "longitude": 120.6460589
+  },
+  "types": [
+   "italian_restaurant",
+   "food_store",
+   "european_restaurant",
    "store",
    "restaurant",
    "food",
@@ -1852,28 +1908,6 @@
   ],
   "area_label": "西屯"
  },
- "9560312624009365499": {
-  "place_id": "ChIJjU9JvLA9aTQR-8fCx60NrYQ",
-  "name": "盒食富·義式料理｜義大利麵&燉飯｜焗烤｜水耕沙拉｜薄皮pizza｜寵物友善｜台中美食-西屯外帶義大利麵|必吃義大利麵|必吃烤餅|手作料理|特色料理｜約會餐廳",
-  "address": "407台灣臺中市西屯區何明里大弘四街35號1樓",
-  "rating": 5,
-  "userRatingCount": 340,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=9560312624009365499&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1635198,
-   "longitude": 120.660152
-  },
-  "types": [
-   "italian_restaurant",
-   "european_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
  "5147483694493639893": {
   "place_id": "ChIJOX7dpugXaTQR1aRoySWJb0c",
   "name": "1001手作廚房",
@@ -1890,27 +1924,6 @@
    "italian_restaurant",
    "european_restaurant",
    "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "7201924301695433215": {
-  "place_id": "ChIJJVPP9Q09aTQR_znPtf5f8mM",
-  "name": "TORA Trattoria",
-  "address": "407台灣臺中市西屯區何南里東興路三段420號",
-  "rating": 4.4,
-  "userRatingCount": 477,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=7201924301695433215&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1586683,
-   "longitude": 120.6558752
-  },
-  "types": [
-   "food_store",
-   "store",
    "food",
    "point_of_interest",
    "establishment"
@@ -1940,76 +1953,6 @@
   ],
   "area_label": "西屯"
  },
- "2079309303066196005": {
-  "place_id": "ChIJs4XxFZI9aTQRJfhsY8sw2xw",
-  "name": "OKKO義式小館－市府店",
-  "address": "407台灣臺中市西屯區何成里大墩十八街130號",
-  "rating": 4.3,
-  "userRatingCount": 983,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=2079309303066196005&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.158126199999998,
-   "longitude": 120.6476699
-  },
-  "types": [
-   "italian_restaurant",
-   "brunch_restaurant",
-   "bistro",
-   "family_restaurant",
-   "pizza_restaurant",
-   "european_restaurant",
-   "food_store",
-   "store",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "4695690406368515563": {
-  "place_id": "ChIJnWqGFCk9aTQR6xXOtotxKkE",
-  "name": "Infiore義之花義式餐廳",
-  "address": "407594台灣臺中市西屯區潮洋里黎明路二段891號",
-  "rating": 4.9,
-  "userRatingCount": 5302,
-  "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=4695690406368515563&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1686938,
-   "longitude": 120.6357151
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "1040506472347525547": {
-  "place_id": "ChIJgZ58LVoXaTQRq-HErh-fcA4",
-  "name": "小豬瘦了義大利麵(中央公園店)",
-  "address": "40753台灣臺中市西屯區大河里河南路二段40-1號",
-  "rating": 4.8,
-  "userRatingCount": 336,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=1040506472347525547&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.173152599999998,
-   "longitude": 120.6605237
-  },
-  "types": [
-   "italian_restaurant",
-   "european_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
  "10767557418609890765": {
   "place_id": "ChIJe3XWcugXaTQRzVXdWmwMbpU",
   "name": "搭好義大利麵",
@@ -2024,8 +1967,8 @@
   },
   "types": [
    "italian_restaurant",
-   "european_restaurant",
    "food_store",
+   "european_restaurant",
    "store",
    "restaurant",
    "food",
@@ -2034,90 +1977,23 @@
   ],
   "area_label": "西屯"
  },
- "15648638151133146331": {
-  "place_id": "ChIJ94wSDeQ9aTQR26zqCH0hK9k",
-  "name": "十什燒肉-西屯人氣燒肉|熱門燒肉|聚餐推薦|平價燒肉|燒肉餐廳|燒肉推薦|在地推薦餐廳|熱門餐廳",
-  "address": "407台灣臺中市西屯區何南里大安街23號",
-  "rating": 4.6,
-  "userRatingCount": 279,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=15648638151133146331&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "12077070320791578413": {
+  "place_id": "ChIJbdg96zwWaTQRLecxPnhfmqc",
+  "name": "光和鹽 義大利麵專賣 Light&Salt Pasta",
+  "address": "407台灣臺中市西屯區逢福里慶和街30號",
+  "rating": 4.7,
+  "userRatingCount": 522,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=12077070320791578413&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1569902,
-   "longitude": 120.6535365
+   "latitude": 24.1755328,
+   "longitude": 120.64722090000001
   },
   "types": [
-   "yakiniku_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "13428421172455769048": {
-  "place_id": "ChIJUWxdElEXaTQR2IOP1uhVW7o",
-  "name": "HOME燒肉-逢甲店",
-  "address": "407台灣臺中市西屯區逢福里河南路二段256號",
-  "rating": 4.8,
-  "userRatingCount": 5641,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=13428421172455769048&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1755744,
-   "longitude": 120.649703
-  },
-  "types": [
-   "yakiniku_restaurant",
-   "barbecue_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "13741552861390131138": {
-  "place_id": "ChIJWVEV8YA9aTQRwk9phYXNs74",
-  "name": "石頭日式炭火燒肉",
-  "address": "407台灣臺中市西屯區何福里漢口路二段148號",
-  "rating": 4.8,
-  "userRatingCount": 21694,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=13741552861390131138&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.165779900000004,
-   "longitude": 120.6633248
-  },
-  "types": [
-   "yakiniku_restaurant",
-   "bar_and_grill",
-   "bar",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "2835024550082195812": {
-  "place_id": "ChIJS1qnUUUXaTQRZDEpxc4HWCc",
-  "name": "燒肉Hot🔥逢甲福星店（現場候位、不提供訂位）",
-  "address": "40764台灣臺中市西屯區西平里福星北路48號",
-  "rating": 4.4,
-  "userRatingCount": 4050,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=2835024550082195812&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.183963499999997,
-   "longitude": 120.64485750000001
-  },
-  "types": [
-   "yakiniku_restaurant",
-   "japanese_restaurant",
+   "italian_restaurant",
+   "food_store",
+   "european_restaurant",
+   "store",
    "restaurant",
    "food",
    "point_of_interest",
@@ -2147,21 +2023,21 @@
   ],
   "area_label": "西屯"
  },
- "2583484616972993507": {
-  "place_id": "ChIJBfNbS9MXaTQR44NcPZJh2iM",
-  "name": "Hi燒肉！油膩大叔の燒肉店",
-  "address": "407台灣臺中市西屯區上安里青海路二段221號旁 位於美食廣場內",
-  "rating": 4.6,
-  "userRatingCount": 694,
-  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=2583484616972993507&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "1297305128648896068": {
+  "place_id": "ChIJ-xtR02sXaTQRRO5oHiT0ABI",
+  "name": "南屯任烤魚 文華店 ｜ 深夜美食｜百元海鮮燒烤｜巨白蝦/胡椒鳳螺/蛤蜊",
+  "address": "407台灣臺中市西屯區文華路20之5號",
+  "rating": 4.9,
+  "userRatingCount": 22,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=1297305128648896068&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.171503299999998,
-   "longitude": 120.64350979999999
+   "latitude": 24.176398199999998,
+   "longitude": 120.64667120000001
   },
   "types": [
-   "yakiniku_restaurant",
-   "japanese_restaurant",
+   "snack_bar",
+   "meal_takeaway",
    "restaurant",
    "food",
    "point_of_interest",
@@ -2211,17 +2087,17 @@
   ],
   "area_label": "西屯"
  },
- "7653942237387482582": {
-  "place_id": "ChIJzajrXpQ9aTQR1uXWnulDOGo",
-  "name": "焼肉スマイル（燒肉Smile）市政店（自助吧）",
-  "address": "407台灣臺中市西屯區惠來里文心路二段215號",
-  "rating": 4.9,
-  "userRatingCount": 9023,
+ "2835024550082195812": {
+  "place_id": "ChIJS1qnUUUXaTQRZDEpxc4HWCc",
+  "name": "燒肉Hot🔥逢甲福星店（現場候位、不提供訂位）",
+  "address": "40764台灣臺中市西屯區西平里福星北路48號",
+  "rating": 4.4,
+  "userRatingCount": 4050,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=7653942237387482582&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=2835024550082195812&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1601359,
-   "longitude": 120.64751
+   "latitude": 24.183963499999997,
+   "longitude": 120.64485750000001
   },
   "types": [
    "yakiniku_restaurant",
@@ -2233,20 +2109,111 @@
   ],
   "area_label": "西屯"
  },
- "1193916646453880257": {
-  "place_id": "ChIJ6WuPsEoXaTQRwSVPQ92kkRA",
-  "name": "柒息地串燒居酒屋逢甲店",
-  "address": "407台灣臺中市西屯區西平里福星路365號",
+ "1879785122261597473": {
+  "place_id": "ChIJu2QAItcVaTQRIX138ptWFho",
+  "name": "森森燒肉 台中中科店",
+  "address": "407台灣臺中市西屯區福聯里台灣大道四段1316號",
   "rating": 4.9,
-  "userRatingCount": 5862,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=1193916646453880257&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "userRatingCount": 22835,
+  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=1879785122261597473&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1802147,
-   "longitude": 120.64513360000001
+   "latitude": 24.184756099999998,
+   "longitude": 120.60935350000001
   },
   "types": [
-   "barbecue_restaurant",
+   "yakiniku_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "2189279909775065404": {
+  "place_id": "ChIJv9yTrLQXaTQRPMEKiHriYR4",
+  "name": "南屯任烤魚 逢甲店 ｜ 深夜美食｜百元海鮮燒烤｜巨白蝦/胡椒鳳螺/蛤蜊",
+  "address": "40742台灣臺中市西屯區逢甲路8號",
+  "rating": 4.5,
+  "userRatingCount": 31,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=2189279909775065404&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.179020899999998,
+   "longitude": 120.6461508
+  },
+  "types": [
+   "snack_bar",
+   "meal_takeaway",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "15648638151133146331": {
+  "place_id": "ChIJ94wSDeQ9aTQR26zqCH0hK9k",
+  "name": "十什燒肉-西屯人氣燒肉|熱門燒肉|聚餐推薦|平價燒肉|燒肉餐廳|燒肉推薦|在地推薦餐廳|熱門餐廳",
+  "address": "407台灣臺中市西屯區何南里大安街23號",
+  "rating": 4.6,
+  "userRatingCount": 279,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=15648638151133146331&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1569902,
+   "longitude": 120.6535365
+  },
+  "types": [
+   "yakiniku_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "2583484616972993507": {
+  "place_id": "ChIJBfNbS9MXaTQR44NcPZJh2iM",
+  "name": "Hi燒肉！油膩大叔の燒肉店",
+  "address": "407台灣臺中市西屯區上安里青海路二段221號旁 位於美食廣場內",
+  "rating": 4.6,
+  "userRatingCount": 694,
+  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=2583484616972993507&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.171503299999998,
+   "longitude": 120.64350979999999
+  },
+  "types": [
+   "yakiniku_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "13741552861390131138": {
+  "place_id": "ChIJWVEV8YA9aTQRwk9phYXNs74",
+  "name": "石頭日式炭火燒肉",
+  "address": "407台灣臺中市西屯區何福里漢口路二段148號",
+  "rating": 4.8,
+  "userRatingCount": 21694,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=13741552861390131138&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.165779900000004,
+   "longitude": 120.6633248
+  },
+  "types": [
+   "yakiniku_restaurant",
+   "bar_and_grill",
+   "bar",
+   "japanese_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -2277,93 +2244,20 @@
   ],
   "area_label": "西屯"
  },
- "1879785122261597473": {
-  "place_id": "ChIJu2QAItcVaTQRIX138ptWFho",
-  "name": "森森燒肉 台中中科店",
-  "address": "407台灣臺中市西屯區福聯里台灣大道四段1316號",
+ "1193916646453880257": {
+  "place_id": "ChIJ6WuPsEoXaTQRwSVPQ92kkRA",
+  "name": "柒息地串燒居酒屋逢甲店",
+  "address": "407台灣臺中市西屯區西平里福星路365號",
   "rating": 4.9,
-  "userRatingCount": 22835,
-  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=1879785122261597473&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.184756099999998,
-   "longitude": 120.60935350000001
-  },
-  "types": [
-   "yakiniku_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "12627016564685562269": {
-  "place_id": "ChIJpdpSOsMVaTQRnWEOL6osPK8",
-  "name": "大股熟成燒肉專門 台中中科店",
-  "address": "407台灣臺中市西屯區福林里福林路162號",
-  "rating": 4.9,
-  "userRatingCount": 2307,
-  "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=12627016564685562269&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1869168,
-   "longitude": 120.61480999999999
-  },
-  "types": [
-   "yakiniku_restaurant",
-   "bar_and_grill",
-   "bar",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "2235001768547630780": {
-  "place_id": "ChIJc40uTfE9aTQRvL6mVkRSBB8",
-  "name": "匠屋燒肉 朝馬館(最後收客至23:00)",
-  "address": "407台灣臺中市西屯區朝富二街20號",
-  "rating": 4.7,
-  "userRatingCount": 2896,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=2235001768547630780&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1681542,
-   "longitude": 120.63680629999999
-  },
-  "types": [
-   "yakiniku_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "658040197446900793": {
-  "place_id": "ChIJs-UE1R4XaTQRORzAuBLUIQk",
-  "name": "橙月串燒トウゲツ西屯店",
-  "address": "407台灣臺中市西屯區永安里福雅路187旁號",
-  "rating": 4.9,
-  "userRatingCount": 850,
+  "userRatingCount": 5862,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=658040197446900793&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=1193916646453880257&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1883648,
-   "longitude": 120.6204194
+   "latitude": 24.1802147,
+   "longitude": 120.64513360000001
   },
   "types": [
-   "yakitori_restaurant",
-   "japanese_izakaya_restaurant",
-   "bar_and_grill",
-   "kebab_shop",
-   "bar",
-   "japanese_restaurant",
+   "barbecue_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -2413,87 +2307,19 @@
   ],
   "area_label": "西屯"
  },
- "14109521410168677483": {
-  "place_id": "ChIJ5Yg_mJU9aTQRa2Tfk_cWz8M",
-  "name": "屋馬燒肉 中港店",
-  "address": "407台灣臺中市西屯區惠來里臺灣大道三段300號1樓",
-  "rating": 4.8,
-  "userRatingCount": 41828,
-  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=14109521410168677483&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.165792999999997,
-   "longitude": 120.64461499999999
-  },
-  "types": [
-   "yakiniku_restaurant",
-   "scenic_spot",
-   "bar_and_grill",
-   "bar",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "1484897228852612400": {
-  "place_id": "ChIJpaOtOq4XaTQRMM24jSlqmxQ",
-  "name": "暇嗑石鍋-西屯店",
-  "address": "407台灣臺中市西屯區福安里西屯路三段95-1號",
-  "rating": 4.9,
-  "userRatingCount": 2426,
+ "17765926315134890128": {
+  "place_id": "ChIJf-JVvOoXaTQRkDBhD9s_jfY",
+  "name": "炙肉高手-台中逢甲店",
+  "address": "407台灣臺中市西屯區逢福里福星路693-3號",
+  "rating": 4.5,
+  "userRatingCount": 2044,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=1484897228852612400&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=17765926315134890128&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1839737,
-   "longitude": 120.627626
+   "latitude": 24.1726365,
+   "longitude": 120.64981979999997
   },
   "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "7639102911133418103": {
-  "place_id": "ChIJWekdDQAXaTQRd4LCvJ-LA2o",
-  "name": "嗑肉石鍋-西屯順平店(二代店)",
-  "address": "407台灣臺中市西屯區大石里順平路158號",
-  "rating": 4.8,
-  "userRatingCount": 2295,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=7639102911133418103&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.179263499999998,
-   "longitude": 120.66328159999999
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "13425087099357727341": {
-  "place_id": "ChIJu-ENGxkWaTQRbYrlc5Z9T7o",
-  "name": "湯師父美味鍋24H(台中西屯)",
-  "address": "407台灣臺中市西屯區西安里西屯路二段313號",
-  "rating": 4,
-  "userRatingCount": 1726,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=13425087099357727341&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.179670899999998,
-   "longitude": 120.6394647
-  },
-  "types": [
-   "hot_pot_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -2515,50 +2341,8 @@
   },
   "types": [
    "hot_pot_restaurant",
-   "chinese_restaurant",
    "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "12743941773634180901": {
-  "place_id": "ChIJBzmnBNc9aTQRJRe614WT27A",
-  "name": "饗點鍋精緻鍋物 台中文心店",
-  "address": "407台灣臺中市西屯區何成里大墩十八街132號",
-  "rating": 4.7,
-  "userRatingCount": 780,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=12743941773634180901&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1582755,
-   "longitude": 120.64755689999998
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "17970209573189189676": {
-  "place_id": "ChIJTQzi6WY9aTQRLABEhWUCY_k",
-  "name": "石鍋い（石鍋毅）石頭火鍋 逢甲店",
-  "address": "407台灣臺中市西屯區上德里河南路二段447號",
-  "rating": 4.9,
-  "userRatingCount": 2402,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=17970209573189189676&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1698223,
-   "longitude": 120.6429793
-  },
-  "types": [
-   "hot_pot_restaurant",
+   "chinese_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -2587,17 +2371,38 @@
   ],
   "area_label": "西屯"
  },
- "7423225677099929289": {
-  "place_id": "ChIJn_2H4g0XaTQRyY4ZY2yYBGc",
-  "name": "十二段鍋物堂｜逢甲店",
-  "address": "407037台灣臺中市西屯區逢福里河南路二段241-1號",
-  "rating": 4.8,
-  "userRatingCount": 2540,
+ "1484897228852612400": {
+  "place_id": "ChIJpaOtOq4XaTQRMM24jSlqmxQ",
+  "name": "暇嗑石鍋-西屯店",
+  "address": "407台灣臺中市西屯區福安里西屯路三段95-1號",
+  "rating": 4.9,
+  "userRatingCount": 2426,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=7423225677099929289&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=1484897228852612400&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1746373,
-   "longitude": 120.6488065
+   "latitude": 24.1839737,
+   "longitude": 120.627626
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "7663801123078392172": {
+  "place_id": "ChIJjcfjeGoXaTQRbMlTUoRKW2o",
+  "name": "盆滿鍋滿 大骨頭火鍋",
+  "address": "40760台灣臺中市西屯區西平里福星北路3號",
+  "rating": 4.7,
+  "userRatingCount": 1181,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=7663801123078392172&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.182634500000002,
+   "longitude": 120.64474870000001
   },
   "types": [
    "hot_pot_restaurant",
@@ -2629,21 +2434,168 @@
   ],
   "area_label": "西屯"
  },
- "8090226070467595344": {
-  "place_id": "ChIJCX6BZpI9aTQRUEzTSr9BRnA",
-  "name": "火鍋爺爺（西屯店）",
-  "address": "407台灣臺中市西屯區何安里四川路128之5號",
-  "rating": 4.7,
-  "userRatingCount": 23,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=8090226070467595344&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "15895717285045687208": {
+  "place_id": "ChIJS1yxLLY9aTQRqFMv0abumNw",
+  "name": "菁選涮涮鍋-海鮮火鍋專賣-西屯店",
+  "address": "407台灣臺中市西屯區文心路三段144號",
+  "rating": 4.6,
+  "userRatingCount": 25,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=15895717285045687208&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1624351,
-   "longitude": 120.6537297
+   "latitude": 24.1679086,
+   "longitude": 120.65450000000001
   },
   "types": [
-   "meal_delivery",
-   "food_delivery",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "7639102911133418103": {
+  "place_id": "ChIJWekdDQAXaTQRd4LCvJ-LA2o",
+  "name": "嗑肉石鍋-西屯順平店(二代店)",
+  "address": "407台灣臺中市西屯區大石里順平路158號",
+  "rating": 4.8,
+  "userRatingCount": 2295,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=7639102911133418103&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.179263499999998,
+   "longitude": 120.66328159999999
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "6993584442679273620": {
+  "place_id": "ChIJS5P_R_sXaTQRlKiYPP8zDmE",
+  "name": "牛門薈溫體牛火鍋",
+  "address": "40741台灣臺中市西屯區西平里福星北路31號",
+  "rating": 4.9,
+  "userRatingCount": 754,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=6993584442679273620&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1835564,
+   "longitude": 120.64461229999999
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "japanese_restaurant",
+   "chinese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "7423225677099929289": {
+  "place_id": "ChIJn_2H4g0XaTQRyY4ZY2yYBGc",
+  "name": "十二段鍋物堂｜逢甲店",
+  "address": "407037台灣臺中市西屯區逢福里河南路二段241-1號",
+  "rating": 4.8,
+  "userRatingCount": 2540,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=7423225677099929289&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1746373,
+   "longitude": 120.6488065
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "17970209573189189676": {
+  "place_id": "ChIJTQzi6WY9aTQRLABEhWUCY_k",
+  "name": "石鍋い（石鍋毅）石頭火鍋 逢甲店",
+  "address": "407台灣臺中市西屯區上德里河南路二段447號",
+  "rating": 4.9,
+  "userRatingCount": 2402,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=17970209573189189676&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1698223,
+   "longitude": 120.6429793
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "13425087099357727341": {
+  "place_id": "ChIJu-ENGxkWaTQRbYrlc5Z9T7o",
+  "name": "湯師父美味鍋24H(台中西屯)",
+  "address": "407台灣臺中市西屯區西安里西屯路二段313號",
+  "rating": 4,
+  "userRatingCount": 1726,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=13425087099357727341&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.179670899999998,
+   "longitude": 120.6394647
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "300159597267952995": {
+  "place_id": "ChIJZ6WfTosXaTQRY6UUO5BhKgQ",
+  "name": "滷魂川養平價鍋物逢甲店",
+  "address": "407台灣臺中市西屯區西平里西安街162號",
+  "rating": 4.4,
+  "userRatingCount": 57,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=300159597267952995&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1817341,
+   "longitude": 120.64523849999999
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "9886423723691556044": {
+  "place_id": "ChIJy79xjU49aTQRzDyhBf-hM4k",
+  "name": "瓏月夜鍋",
+  "address": "407台灣臺中市西屯區西屯路二段48號",
+  "rating": 4.6,
+  "userRatingCount": 874,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=9886423723691556044&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1649051,
+   "longitude": 120.65859650000002
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
    "food",
    "point_of_interest",
    "establishment"
@@ -2673,17 +2625,38 @@
   ],
   "area_label": "西屯"
  },
- "7663801123078392172": {
-  "place_id": "ChIJjcfjeGoXaTQRbMlTUoRKW2o",
-  "name": "盆滿鍋滿 大骨頭火鍋",
-  "address": "40760台灣臺中市西屯區西平里福星北路3號",
-  "rating": 4.7,
-  "userRatingCount": 1181,
+ "3293742469068782929": {
+  "place_id": "ChIJl1POJSIWaTQRUX12GlO5tS0",
+  "name": "那個鍋 - 逢甲総本鋪",
+  "address": "407台灣臺中市西屯區逢甲里福星路522號",
+  "rating": 4.2,
+  "userRatingCount": 3024,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=7663801123078392172&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=3293742469068782929&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.182634500000002,
-   "longitude": 120.64474870000001
+   "latitude": 24.1768659,
+   "longitude": 120.64500899999999
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "12743941773634180901": {
+  "place_id": "ChIJBzmnBNc9aTQRJRe614WT27A",
+  "name": "饗點鍋精緻鍋物 台中文心店",
+  "address": "407台灣臺中市西屯區何成里大墩十八街132號",
+  "rating": 4.7,
+  "userRatingCount": 780,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=12743941773634180901&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1582755,
+   "longitude": 120.64755689999998
   },
   "types": [
    "hot_pot_restaurant",
@@ -2715,125 +2688,20 @@
   ],
   "area_label": "西屯"
  },
- "14782156307541220692": {
-  "place_id": "ChIJp8Q39QcXaTQRVF1LrdfEJM0",
-  "name": "京川鍋物 台中逢甲店",
-  "address": "407台灣臺中市西屯區逢福里河南路二段241-101號",
-  "rating": 4.2,
-  "userRatingCount": 1252,
+ "17982604399053037045": {
+  "place_id": "ChIJn_AfWYwyDxQR9d3uzWwLj_k",
+  "name": "联亭泡菜鍋-逢甲店",
+  "address": "407台灣臺中市西屯區西平里福星北路7號",
+  "rating": 4.1,
+  "userRatingCount": 2873,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=14782156307541220692&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=17982604399053037045&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.175017699999998,
-   "longitude": 120.6493854
+   "latitude": 24.1827307,
+   "longitude": 120.6447184
   },
   "types": [
    "hot_pot_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "8610461164018647716": {
-  "place_id": "ChIJEyDTEmA9aTQRpMKg-c6Afnc",
-  "name": "丹閎鍋",
-  "address": "407台灣臺中市西屯區西安里逢甲路186號",
-  "rating": 4.7,
-  "userRatingCount": 1766,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=8610461164018647716&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1775126,
-   "longitude": 120.64167160000001
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "3293742469068782929": {
-  "place_id": "ChIJl1POJSIWaTQRUX12GlO5tS0",
-  "name": "那個鍋 - 逢甲総本鋪",
-  "address": "407台灣臺中市西屯區逢甲里福星路522號",
-  "rating": 4.2,
-  "userRatingCount": 3024,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=3293742469068782929&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1768659,
-   "longitude": 120.64500899999999
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "3400400642813663812": {
-  "place_id": "ChIJX95jqWY9aTQRRBrrWF6mMC8",
-  "name": "老湯鍋24H(台中漢口)",
-  "address": "407台灣臺中市西屯區何明里漢口路二段82號",
-  "rating": 4.2,
-  "userRatingCount": 1171,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=3400400642813663812&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1639724,
-   "longitude": 120.65969530000001
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "15895717285045687208": {
-  "place_id": "ChIJS1yxLLY9aTQRqFMv0abumNw",
-  "name": "菁選涮涮鍋-海鮮火鍋專賣-西屯店",
-  "address": "407台灣臺中市西屯區文心路三段144號",
-  "rating": 4.6,
-  "userRatingCount": 25,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=15895717285045687208&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1679086,
-   "longitude": 120.65450000000001
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "5137752349176733740": {
-  "place_id": "ChIJg8qVB9YXaTQRLKCbZIr2TEc",
-  "name": "花月屋-逢甲店 丼飯烏龍麵火鍋 | 火鍋吃到飽 | 逢甲吃到飽 | 宵夜火鍋",
-  "address": "407台灣臺中市西屯區西平里文華路121-29號",
-  "rating": 4.5,
-  "userRatingCount": 1139,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=5137752349176733740&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1802332,
-   "longitude": 120.6463225
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "japanese_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -2856,6 +2724,29 @@
   "types": [
    "dessert_shop",
    "confectionery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "1925644987665665347": {
+  "place_id": "ChIJmVunLAAXaTQRQ81S7elDuRo",
+  "name": "階梯·法式甜點 jt patisserie",
+  "address": "407台灣臺中市西屯區西安里福星北一街76號",
+  "rating": 4.5,
+  "userRatingCount": 163,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=1925644987665665347&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1831386,
+   "longitude": 120.64351469999998
+  },
+  "types": [
+   "coffee_shop",
+   "cafe",
    "food_store",
    "store",
    "food",
@@ -2910,23 +2801,24 @@
   ],
   "area_label": "西屯"
  },
- "1925644987665665347": {
-  "place_id": "ChIJmVunLAAXaTQRQ81S7elDuRo",
-  "name": "階梯·法式甜點 jt patisserie",
-  "address": "407台灣臺中市西屯區西安里福星北一街76號",
-  "rating": 4.5,
-  "userRatingCount": 163,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=1925644987665665347&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "11941339327523316425": {
+  "place_id": "ChIJS8SWLQAXaTQRyeJtt9kouKU",
+  "name": "qn dessert",
+  "address": "407台灣臺中市西屯區逢福里福星路511巷18號",
+  "rating": 4.8,
+  "userRatingCount": 60,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=11941339327523316425&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1831386,
-   "longitude": 120.64351469999998
+   "latitude": 24.1774611,
+   "longitude": 120.6456879
   },
   "types": [
-   "coffee_shop",
-   "cafe",
+   "dessert_shop",
+   "confectionery",
    "food_store",
    "store",
+   "restaurant",
    "food",
    "point_of_interest",
    "establishment"
@@ -2956,58 +2848,6 @@
   ],
   "area_label": "西屯"
  },
- "11362408330325476054": {
-  "place_id": "ChIJT9f0owAXaTQR1kL9AS1ir50",
-  "name": "2度C NiGuo 逢甲店-西屯人氣甜點|甜點推薦|手作甜點|特色蛋糕|必吃甜點|手工甜點|熱門甜品|甜品專賣店|必吃甜品",
-  "address": "407台灣臺中市西屯區逢福里福星路607號",
-  "rating": 4.7,
-  "userRatingCount": 362,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=11362408330325476054&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1751702,
-   "longitude": 120.6467454
-  },
-  "types": [
-   "cake_shop",
-   "dessert_shop",
-   "bakery",
-   "manufacturer",
-   "confectionery",
-   "food_store",
-   "wholesaler",
-   "store",
-   "food",
-   "point_of_interest",
-   "service",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "11941339327523316425": {
-  "place_id": "ChIJS8SWLQAXaTQRyeJtt9kouKU",
-  "name": "qn dessert",
-  "address": "407台灣臺中市西屯區逢福里福星路511巷18號",
-  "rating": 4.8,
-  "userRatingCount": 60,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=11941339327523316425&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1774611,
-   "longitude": 120.6456879
-  },
-  "types": [
-   "dessert_shop",
-   "confectionery",
-   "food_store",
-   "store",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
  "14627531561014036807": {
   "place_id": "ChIJfxfPtlUXaTQRR4kOa3Ru_8o",
   "name": "Bake INN",
@@ -3019,73 +2859,6 @@
   "location": {
    "latitude": 24.173962,
    "longitude": 120.64184800000001
-  },
-  "types": [
-   "dessert_shop",
-   "confectionery",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "17046257753961703669": {
-  "place_id": "ChIJYy-RAaYXaTQR9aiivhx5kOw",
-  "name": "甜豆屋 2D Dessert",
-  "address": "407台灣臺中市西屯區西平里逢甲路20巷13號1樓",
-  "rating": 4.7,
-  "userRatingCount": 834,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=17046257753961703669&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1795421,
-   "longitude": 120.6455996
-  },
-  "types": [
-   "dessert_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "6166281918667328888": {
-  "place_id": "ChIJ0w0oU-s9aTQReI0UE7wIk1U",
-  "name": "初禾甜點．初中店",
-  "address": "40757台灣臺中市西屯區潮洋里黎明路二段898之1號",
-  "rating": 4.7,
-  "userRatingCount": 217,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=6166281918667328888&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1641455,
-   "longitude": 120.63447719999999
-  },
-  "types": [
-   "dessert_shop",
-   "confectionery",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "897720880827180815": {
-  "place_id": "ChIJC1S7opo9aTQRD6cngWJYdQw",
-  "name": "來森モリ",
-  "address": "407台灣臺中市西屯區何南里精誠路50巷35號",
-  "rating": 4.3,
-  "userRatingCount": 589,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=897720880827180815&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1569818,
-   "longitude": 120.65531059999999
   },
   "types": [
    "dessert_shop",
@@ -3122,32 +2895,45 @@
   ],
   "area_label": "西屯"
  },
- "4010834150268478302": {
-  "place_id": "ChIJpcROowAWaTQRXiPCy2hYqTc",
-  "name": "Frini Café",
-  "address": "407台灣臺中市西屯區台灣大道四段776號",
-  "rating": 4.9,
-  "userRatingCount": 1341,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=4010834150268478302&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "6166281918667328888": {
+  "place_id": "ChIJ0w0oU-s9aTQReI0UE7wIk1U",
+  "name": "初禾甜點．初中店",
+  "address": "40757台灣臺中市西屯區潮洋里黎明路二段898之1號",
+  "rating": 4.7,
+  "userRatingCount": 217,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=6166281918667328888&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1807373,
-   "longitude": 120.62058820000001
+   "latitude": 24.1641455,
+   "longitude": 120.63447719999999
   },
   "types": [
-   "coffee_shop",
-   "coffee_stand",
    "dessert_shop",
-   "cafe",
-   "cake_shop",
-   "wholesaler",
    "confectionery",
-   "bakery",
    "food_store",
    "store",
    "food",
-   "manufacturer",
-   "service",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "17046257753961703669": {
+  "place_id": "ChIJYy-RAaYXaTQR9aiivhx5kOw",
+  "name": "甜豆屋 2D Dessert",
+  "address": "407台灣臺中市西屯區西平里逢甲路20巷13號1樓",
+  "rating": 4.7,
+  "userRatingCount": 834,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=17046257753961703669&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1795421,
+   "longitude": 120.6455996
+  },
+  "types": [
+   "dessert_restaurant",
+   "restaurant",
+   "food",
    "point_of_interest",
    "establishment"
   ],
@@ -3176,21 +2962,95 @@
   ],
   "area_label": "西屯"
  },
- "14120278375822674127": {
-  "place_id": "ChIJT2KyAmE9aTQRz0iK0F5O9cM",
-  "name": "kafeD 德式精品咖啡廳",
-  "address": "407台灣臺中市西屯區經貿路二段326號",
-  "rating": 4.5,
-  "userRatingCount": 2554,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=14120278375822674127&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "11362408330325476054": {
+  "place_id": "ChIJT9f0owAXaTQR1kL9AS1ir50",
+  "name": "2度C NiGuo 逢甲店-西屯人氣甜點|甜點推薦|手作甜點|特色蛋糕|必吃甜點|手工甜點|熱門甜品|甜品專賣店|必吃甜品",
+  "address": "407台灣臺中市西屯區逢福里福星路607號",
+  "rating": 4.7,
+  "userRatingCount": 362,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=11362408330325476054&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1926284,
-   "longitude": 120.65717209999998
+   "latitude": 24.1751702,
+   "longitude": 120.6467454
+  },
+  "types": [
+   "cake_shop",
+   "dessert_shop",
+   "wholesaler",
+   "confectionery",
+   "bakery",
+   "food_store",
+   "store",
+   "food",
+   "manufacturer",
+   "service",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "10639529360274128912": {
+  "place_id": "ChIJ4UIxidM9aTQREIB6IJUzp5M",
+  "name": "136綵手做甜點工作坊（目前無實體店面，各項甜點都需電話或line提前預購後出貨）#法式手工檸檬塔#經典手工餅乾#手工燕麥餅乾#巴斯克乳酪蛋糕#義式提拉米蘇＃手工小麥脆餅＃泡泡馬林糖",
+  "address": "407台灣臺中市西屯區潮洋里朝馬路136號",
+  "rating": 5,
+  "userRatingCount": 46,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=10639529360274128912&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1698804,
+   "longitude": 120.63458519999999
   },
   "types": [
    "dessert_shop",
-   "event_venue",
+   "confectionery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "13160863620418857813": {
+  "place_id": "ChIJWVJeAOoXaTQRVWttyLvHpLY",
+  "name": "Uni cafe 與你咖啡",
+  "address": "407台灣臺中市西屯區西安里漢翔北街37號",
+  "rating": 4.7,
+  "userRatingCount": 851,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=13160863620418857813&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1859885,
+   "longitude": 120.64072859999999
+  },
+  "types": [
+   "coffee_shop",
+   "cafe",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "16701996027712961201": {
+  "place_id": "ChIJA5k4wxg9aTQRsfrQb-Voyec",
+  "name": "LIANNA 甜點",
+  "address": "407台灣臺中市西屯區何仁里重慶路123號",
+  "rating": 5,
+  "userRatingCount": 50,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=16701996027712961201&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1660979,
+   "longitude": 120.656054
+  },
+  "types": [
+   "dessert_shop",
+   "salad_shop",
    "confectionery",
    "food_store",
    "store",
@@ -3201,17 +3061,17 @@
   ],
   "area_label": "西屯"
  },
- "11999576460648393134": {
-  "place_id": "ChIJTYr9IEsXaTQRrikW6DYPh6Y",
-  "name": "芙芙冰心舒芙蕾",
-  "address": "407台灣臺中市西屯區西平里逢甲路20巷45弄6號",
-  "rating": 4.1,
-  "userRatingCount": 27,
+ "5600079463748808450": {
+  "place_id": "ChIJ_4bcP7UXaTQRAi-1Dpp6t00",
+  "name": "樹·sugoeat逢甲店",
+  "address": "407台灣臺中市西屯區福星路357號年輕人眼鏡轉角旁",
+  "rating": 4.9,
+  "userRatingCount": 158,
   "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=11999576460648393134&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=5600079463748808450&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1802617,
-   "longitude": 120.6454656
+   "latitude": 24.180366,
+   "longitude": 120.64515960000001
   },
   "types": [
    "dessert_shop",
@@ -3260,29 +3120,6 @@
    "longitude": 120.64529669999999
   },
   "types": [
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "13160863620418857813": {
-  "place_id": "ChIJWVJeAOoXaTQRVWttyLvHpLY",
-  "name": "Uni cafe 與你咖啡",
-  "address": "407台灣臺中市西屯區西安里漢翔北街37號",
-  "rating": 4.7,
-  "userRatingCount": 851,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=13160863620418857813&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1859885,
-   "longitude": 120.64072859999999
-  },
-  "types": [
-   "coffee_shop",
-   "cafe",
    "food_store",
    "store",
    "food",
@@ -3489,6 +3326,62 @@
   ],
   "area_label": "西屯"
  },
+ "14120278375822674127": {
+  "place_id": "ChIJT2KyAmE9aTQRz0iK0F5O9cM",
+  "name": "kafeD 德式精品咖啡廳",
+  "address": "407台灣臺中市西屯區經貿路二段326號",
+  "rating": 4.5,
+  "userRatingCount": 2554,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=14120278375822674127&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1926284,
+   "longitude": 120.65717209999998
+  },
+  "types": [
+   "event_venue",
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "4010834150268478302": {
+  "place_id": "ChIJpcROowAWaTQRXiPCy2hYqTc",
+  "name": "Frini Café",
+  "address": "407台灣臺中市西屯區台灣大道四段776號",
+  "rating": 4.9,
+  "userRatingCount": 1341,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=4010834150268478302&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1807373,
+   "longitude": 120.62058820000001
+  },
+  "types": [
+   "coffee_shop",
+   "coffee_stand",
+   "cake_shop",
+   "cafe",
+   "dessert_shop",
+   "bakery",
+   "manufacturer",
+   "confectionery",
+   "food_store",
+   "wholesaler",
+   "store",
+   "food",
+   "point_of_interest",
+   "service",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
  "11099166447028893253": {
   "place_id": "ChIJfw1tOQA9aTQRRXYX4hMpCJo",
   "name": "Sundate cafe",
@@ -3556,6 +3449,49 @@
   ],
   "area_label": "西屯"
  },
+ "4388196254773656494": {
+  "place_id": "ChIJhfRC2_g9aTQRrrt7ej4B5jw",
+  "name": "金韓食",
+  "address": "407台灣臺中市西屯區何安里臺灣大道二段998號",
+  "rating": 4.8,
+  "userRatingCount": 7253,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=4388196254773656494&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.162607599999998,
+   "longitude": 120.65029539999999
+  },
+  "types": [
+   "korean_restaurant",
+   "bistro",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "6096720179664811223": {
+  "place_id": "ChIJ-63mCAAXaTQR13Tgm7Pmm1Q",
+  "name": "貞洞 韓國料理 - 정동 (貞DONG) 最後點餐 20:10",
+  "address": "407台灣臺中市西屯區西平里西安街130巷1號",
+  "rating": 4.4,
+  "userRatingCount": 340,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=6096720179664811223&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.181554199999997,
+   "longitude": 120.64397389999999
+  },
+  "types": [
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
  "7834921882365242545": {
   "place_id": "ChIJAUBrswcXaTQRsaxQ2fA7u2w",
   "name": "韓小廚|平價韓式料理|嫩豆腐鍋|石鍋拌飯|特製韓國拉麵",
@@ -3577,17 +3513,38 @@
   ],
   "area_label": "西屯"
  },
- "6096720179664811223": {
-  "place_id": "ChIJ-63mCAAXaTQR13Tgm7Pmm1Q",
-  "name": "貞洞 韓國料理 - 정동 (貞DONG) 最後點餐 20:10",
-  "address": "407台灣臺中市西屯區西平里西安街130巷1號",
-  "rating": 4.4,
-  "userRatingCount": 340,
+ "16345764971443413458": {
+  "place_id": "ChIJTc-jvUIXaTQR0mHoUKPS1-I",
+  "name": "可莉達Kelimda韓式料理餐廳",
+  "address": "407台灣臺中市西屯區協和里玉寶路145號",
+  "rating": 4.8,
+  "userRatingCount": 2350,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=6096720179664811223&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=16345764971443413458&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.181554199999997,
-   "longitude": 120.64397389999999
+   "latitude": 24.1774485,
+   "longitude": 120.62038749999999
+  },
+  "types": [
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "8158638137787741628": {
+  "place_id": "ChIJYSyzCoMXaTQRvPXK9ShOOXE",
+  "name": "Yuna 尤娜食堂",
+  "address": "407台灣臺中市西屯區西平里文華路162巷3號",
+  "rating": 4.8,
+  "userRatingCount": 108,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=8158638137787741628&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1834883,
+   "longitude": 120.6464656
   },
   "types": [
    "korean_restaurant",
@@ -3640,27 +3597,6 @@
   ],
   "area_label": "西屯"
  },
- "2926830220064225272": {
-  "place_id": "ChIJPcxJUZ0XaTQR-HfOAJQwnig",
-  "name": "莫果韓式飯捲",
-  "address": "407台灣臺中市西屯區逢福里福上巷216弄14號",
-  "rating": 4.7,
-  "userRatingCount": 698,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=2926830220064225272&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.175953699999997,
-   "longitude": 120.64822559999999
-  },
-  "types": [
-   "korean_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
  "10657537287563737674": {
   "place_id": "ChIJW6HtTJU9aTQRSnq3bbIt55M",
   "name": "韓家正宗韓國料理【本店】",
@@ -3682,17 +3618,37 @@
   ],
   "area_label": "西屯"
  },
- "1875719471502193950": {
-  "place_id": "ChIJSW4QVB8WaTQRHvUr3evkBxo",
-  "name": "韓石館",
-  "address": "407台灣臺中市西屯區至善里至善路153巷1號",
-  "rating": 4,
-  "userRatingCount": 664,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=1875719471502193950&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "15943759505623983523": {
+  "place_id": "ChIJ1-C_6HYXaTQRo6X59MucQ90",
+  "name": "Twozzim韓國燉雞-台中逢甲店（最後收客14:00/22:00）",
+  "address": "407台灣臺中市西屯區西平里西安街136號1樓",
+  "rating": 4.7,
+  "userRatingCount": 539,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=15943759505623983523&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.176720800000002,
-   "longitude": 120.6426583
+   "latitude": 24.1817399,
+   "longitude": 120.64403010000001
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "6725266088758423896": {
+  "place_id": "ChIJR6iwmr49aTQRWDFtMODxVF0",
+  "name": "金家韓豬 泡菜豬肉湯飯 김가한돈",
+  "address": "407台灣臺中市西屯區上德里臺灣大道三段470號",
+  "rating": 4.9,
+  "userRatingCount": 1773,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=6725266088758423896&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1677374,
+   "longitude": 120.64156120000001
   },
   "types": [
    "korean_restaurant",
@@ -3724,128 +3680,21 @@
   ],
   "area_label": "西屯"
  },
- "8158638137787741628": {
-  "place_id": "ChIJYSyzCoMXaTQRvPXK9ShOOXE",
-  "name": "Yuna 尤娜食堂",
-  "address": "407台灣臺中市西屯區西平里文華路162巷3號",
-  "rating": 4.8,
-  "userRatingCount": 108,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=8158638137787741628&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1834883,
-   "longitude": 120.6464656
-  },
-  "types": [
-   "korean_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "4388196254773656494": {
-  "place_id": "ChIJhfRC2_g9aTQRrrt7ej4B5jw",
-  "name": "金韓食",
-  "address": "407台灣臺中市西屯區何安里臺灣大道二段998號",
-  "rating": 4.8,
-  "userRatingCount": 7253,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=4388196254773656494&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.162607599999998,
-   "longitude": 120.65029539999999
-  },
-  "types": [
-   "korean_restaurant",
-   "bistro",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "16345764971443413458": {
-  "place_id": "ChIJTc-jvUIXaTQR0mHoUKPS1-I",
-  "name": "可莉達Kelimda韓式料理餐廳",
-  "address": "407台灣臺中市西屯區協和里玉寶路145號",
-  "rating": 4.8,
-  "userRatingCount": 2350,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=16345764971443413458&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1774485,
-   "longitude": 120.62038749999999
-  },
-  "types": [
-   "korean_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "15943759505623983523": {
-  "place_id": "ChIJ1-C_6HYXaTQRo6X59MucQ90",
-  "name": "Twozzim韓國燉雞-台中逢甲店（最後收客14:00/22:00）",
-  "address": "407台灣臺中市西屯區西平里西安街136號1樓",
-  "rating": 4.7,
-  "userRatingCount": 539,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=15943759505623983523&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1817399,
-   "longitude": 120.64403010000001
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "1319656846012034508": {
-  "place_id": "ChIJV-WJaYkXaTQRzK312-hcUBI",
-  "name": "韓大王 馬鈴薯豬骨湯",
-  "address": "40741台灣臺中市西屯區西平里福星北二街11號",
+ "15251867387176738442": {
+  "place_id": "ChIJfyzvqVU9aTQRit4IrpSEqdM",
+  "name": "FOND訪 韓國傳統豆腐鍋 - 老虎城本店",
+  "address": "407台灣臺中市西屯區河南路三段120號2樓",
   "rating": 4.2,
-  "userRatingCount": 792,
+  "userRatingCount": 2804,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=1319656846012034508&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=15251867387176738442&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.183537299999998,
-   "longitude": 120.64528039999998
+   "latitude": 24.164165,
+   "longitude": 120.6381258
   },
   "types": [
    "korean_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
- "5655712231444680961": {
-  "place_id": "ChIJeaMpRJMXaTQRAZEXK08gfU4",
-  "name": "銀鉤韓式鍋物銅盤烤肉 逢甲店",
-  "address": "407台灣臺中市西屯區西平里福星路253號",
-  "rating": 4.6,
-  "userRatingCount": 4165,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=5655712231444680961&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.182438899999998,
-   "longitude": 120.64446309999998
-  },
-  "types": [
-   "korean_restaurant",
-   "bar_and_grill",
-   "hot_pot_restaurant",
-   "korean_barbecue_restaurant",
+   "cocktail_bar",
    "bar",
    "restaurant",
    "food",
@@ -3875,6 +3724,51 @@
   ],
   "area_label": "西屯"
  },
+ "15801953168675073244": {
+  "place_id": "ChIJz4k5-tg9aTQR3Gw8QK_QS9s",
+  "name": "金春喜韓廚-台中大遠百店",
+  "address": "407台灣臺中市西屯區惠來里臺灣大道三段251號12樓",
+  "rating": 4.4,
+  "userRatingCount": 580,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=15801953168675073244&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1637003,
+   "longitude": 120.6446167
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "5655712231444680961": {
+  "place_id": "ChIJeaMpRJMXaTQRAZEXK08gfU4",
+  "name": "銀鉤韓式鍋物銅盤烤肉 逢甲店",
+  "address": "407台灣臺中市西屯區西平里福星路253號",
+  "rating": 4.6,
+  "userRatingCount": 4165,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=5655712231444680961&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.182438899999998,
+   "longitude": 120.64446309999998
+  },
+  "types": [
+   "korean_restaurant",
+   "hot_pot_restaurant",
+   "bar_and_grill",
+   "korean_barbecue_restaurant",
+   "bar",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
  "3635904628787916661": {
   "place_id": "ChIJAyjI-e0XaTQRdS8a_P5TdTI",
   "name": "金老爺韓式料理",
@@ -3895,27 +3789,6 @@
   ],
   "area_label": "西屯"
  },
- "1921623832782636592": {
-  "place_id": "ChIJEavW3lEXaTQRMAbv2LH6qho",
-  "name": "韓式小吃",
-  "address": "407台灣臺中市西屯區永安里西屯路三段148-39號",
-  "rating": 4.1,
-  "userRatingCount": 191,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=1921623832782636592&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.185829599999998,
-   "longitude": 120.623481
-  },
-  "types": [
-   "korean_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "西屯"
- },
  "14578112981760594172": {
   "place_id": "ChIJF8nspxwXaTQR_NBZzYTcT8o",
   "name": "庄腳囝仔熱炒",
@@ -3929,6 +3802,27 @@
    "longitude": 120.6401779
   },
   "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "西屯"
+ },
+ "17227529147098533405": {
+  "place_id": "ChIJSRiaEQAXaTQRHQ5_4nt6FO8",
+  "name": "京伙-西屯店(海南雞、魯肉飯、炸燒肉)",
+  "address": "407台灣臺中市西屯區逢甲里西屯路二段282-3號",
+  "rating": 4.2,
+  "userRatingCount": 208,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=17227529147098533405&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1761639,
+   "longitude": 120.6438896
+  },
+  "types": [
+   "chinese_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -4076,9 +3970,9 @@
   "types": [
    "deli",
    "food_store",
-   "store",
    "food",
    "point_of_interest",
+   "store",
    "establishment"
   ],
   "area_label": "西屯"
