@@ -36,6 +36,10 @@ cat candidate-results/taichung-progress.json
 push DEV 會觸發 `search-restaurant-candidates.yml`，它把結果發布成 `candidate-results/latest.json`。
 等它成功（背景 `sleep` 等，不要輪詢）後 `git pull --rebase origin DEV`。
 
+> **沒有 `mcp__github__*` 工具時**（排程 session 可能沒掛 GitHub connector）：改用 git 判斷 workflow 是否完成——
+> 背景 `sleep 60` 之後 `git fetch origin DEV`，看到新的 bot commit（`Publish restaurant search candidates`／
+> `Publish restaurant details`）就是成功；最多等 15 分鐘，沒出現視為失敗（記到 `skipped` 並結束）。
+
 **馬上凍結**：`cp candidate-results/latest.json candidate-results/search-<slug>.json`。之後任何 push 都可能重跑搜尋、
 覆蓋 `latest.json`，而 Text Search 每次回傳的集合都略有不同（曾因此漏掉 30 家裡的 6 家）。**一律用凍結檔挑店。**
 
@@ -93,6 +97,8 @@ commit（連同凍結檔）+ push DEV → 觸發 `fetch-restaurant-details.yml`�
   ```
   推 QAS 會觸發 `sync-supabase-restaurants.yml`。用 GitHub MCP（owner `sungyihsun`、repo `today-eat-what`）確認該 workflow
   對應 commit 的 run `conclusion: success`。失敗就讀 job log 處理；處理不了就在 progress 記 `failed` 與原因後結束。
+  **沒有 GitHub MCP 就無法確認同步**：照常繼續，但在 `done` 紀錄加 `"sync_verified": false`，回報時明說「QAS 已推、Supabase 同步待人工確認」。
+  （之後有 MCP 的互動 session 會補查；使用者說「上PRD」之前一定會先核對所有 QAS commit 的 sync run。）
 - **絕對不要推 PRD。** 排程只到 QAS；PRD 由使用者看過後說「上PRD」再一次推上去。
 
 ## 5. 收尾
