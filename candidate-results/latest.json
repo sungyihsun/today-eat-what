@@ -1,51 +1,4 @@
 {
- "1523083807988456769": {
-  "place_id": "ChIJPYcgt5I9aTQRQR1NWqcUIxU",
-  "name": "les aqua 水相餐聚苑",
-  "address": "406台灣臺中市北屯區新平里經貿三路二段100號",
-  "rating": 4.8,
-  "userRatingCount": 19723,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=1523083807988456769&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1885801,
-   "longitude": 120.6593133
-  },
-  "types": [
-   "italian_restaurant",
-   "steak_house",
-   "asian_restaurant",
-   "french_restaurant",
-   "european_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "9732501892007738011": {
-  "place_id": "ChIJMYkc3nUXaTQRmzrw4OfKEIc",
-  "name": "暖日 Warmth Day！吉卜力宮崎駿、台中龍貓餐廳、親子餐廳、北屯美食、早餐、早午餐、下午茶、寵物友善餐廳",
-  "address": "406台灣臺中市北屯區平田里旅順路二段284號1樓",
-  "rating": 4.8,
-  "userRatingCount": 760,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=9732501892007738011&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.173499099999997,
-   "longitude": 120.6932546
-  },
-  "types": [
-   "restaurant",
-   "breakfast_restaurant",
-   "brunch_restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
  "10456942053968225630": {
   "place_id": "ChIJI6WGXpcZaTQRXqWeE2WFHpE",
   "name": "禾作食堂",
@@ -67,255 +20,63 @@
   ],
   "area_label": "北屯"
  },
- "6737258890996258254": {
-  "place_id": "ChIJ5313nWsXaTQRzpWsDUSNf10",
-  "name": "金香Jin pang",
-  "address": "406台灣臺中市北屯區水湳里大連路一段16巷16號",
-  "rating": 4.4,
-  "userRatingCount": 1308,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=6737258890996258254&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1749263,
-   "longitude": 120.67176520000001
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "10190306121601724789": {
-  "place_id": "ChIJzQHMpKIXaTQRdTGPUm09a40",
-  "name": "喜悅軒廣粵私房菜-台中北屯粵菜、順德菜、廣東菜、私房菜、中餐廳、聚餐首選(功夫菜色建議提前預訂餐品）",
-  "address": "406台灣臺中市北屯區仁和里松竹路三段283號",
-  "rating": 4.3,
-  "userRatingCount": 139,
-  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=10190306121601724789&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1833104,
-   "longitude": 120.678789
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "9978998791879751887": {
-  "place_id": "ChIJHQPSZ7MZaTQRz3gLvIeGfIo",
-  "name": "云如意茶館【台中美食餐廳】【大坑北屯美食餐廳】中式餐廳 | 套餐 | 火鍋 | 麵食",
-  "address": "406台灣臺中市北屯區廍子里景賢路288號",
-  "rating": 4.6,
-  "userRatingCount": 1424,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=9978998791879751887&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.167246,
-   "longitude": 120.72279640000001
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "14732035679401582479": {
-  "place_id": "ChIJBaBOYU8XaTQRj58ckWW0csw",
-  "name": "小伙拌麵店｜北屯美食｜台中麵食｜招牌皮蛋麵",
-  "address": "406台灣臺中市北屯區三光里太原路三段347號",
-  "rating": 4.9,
-  "userRatingCount": 270,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=14732035679401582479&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.165165,
-   "longitude": 120.6967453
-  },
-  "types": [
-   "taiwanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "7325092629368342906": {
-  "place_id": "ChIJQ2N7EAAXaTQReglVuO_0p2U",
-  "name": "船艙せんしつ天料理",
-  "address": "406台灣臺中市北屯區水景里松竹五路一段65號",
-  "rating": 4.9,
-  "userRatingCount": 148,
-  "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=7325092629368342906&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.174807899999998,
-   "longitude": 120.7031681
-  },
-  "types": [
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "5797857853610540909": {
-  "place_id": "ChIJm73osPQXaTQRbT-q3v8gdlA",
-  "name": "薯來飽起司馬鈴薯-遼寧店｜必吃美食｜馬鈴薯小吃｜台中美食｜平價美食｜北區點心推薦｜北屯區下午茶｜下午茶外送",
-  "address": "40654台灣臺中市北屯區平興里遼寧路一段172號",
-  "rating": 4.9,
-  "userRatingCount": 16,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=5797857853610540909&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.175503499999998,
-   "longitude": 120.6969194
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "12138895301666259365": {
-  "place_id": "ChIJ5Y4a3R4XaTQRpcF5VfYEdqg",
-  "name": "北屯｜燒肉政宗 YAKINIKU MASAMUNE",
-  "address": "406台灣臺中市北屯區平田里遼陽五街13號1樓",
+ "9732501892007738011": {
+  "place_id": "ChIJMYkc3nUXaTQRmzrw4OfKEIc",
+  "name": "暖日 Warmth Day！吉卜力宮崎駿、台中龍貓餐廳、親子餐廳、北屯美食、早餐、早午餐、下午茶、寵物友善餐廳",
+  "address": "406台灣臺中市北屯區平田里旅順路二段284號1樓",
   "rating": 4.8,
-  "userRatingCount": 1670,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=12138895301666259365&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1722915,
-   "longitude": 120.69180630000001
-  },
-  "types": [
-   "yakiniku_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "7213314057615890767": {
-  "place_id": "ChIJI8gqJzcXaTQRT9mG6erWGmQ",
-  "name": "綠萼159",
-  "address": "406台灣臺中市北屯區仁和里山西路三段159號",
-  "rating": 4.8,
-  "userRatingCount": 2470,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=7213314057615890767&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1857002,
-   "longitude": 120.68517819999998
-  },
-  "types": [
-   "mediterranean_restaurant",
-   "italian_restaurant",
-   "wedding_venue",
-   "european_restaurant",
-   "event_venue",
-   "restaurant",
-   "food",
-   "service",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "7403677205230517239": {
-  "place_id": "ChIJIYAhz5UXaTQR9_trGTElv2Y",
-  "name": "艾初早餐 北屯太原店",
-  "address": "406台灣臺中市北屯區北屯里太原路三段141號1 樓",
-  "rating": 4.8,
-  "userRatingCount": 1103,
+  "userRatingCount": 760,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=7403677205230517239&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=9732501892007738011&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.165025,
-   "longitude": 120.6899346
+   "latitude": 24.173499099999997,
+   "longitude": 120.6932546
   },
   "types": [
+   "restaurant",
    "brunch_restaurant",
-   "restaurant",
+   "breakfast_restaurant",
    "food",
    "point_of_interest",
    "establishment"
   ],
   "area_label": "北屯"
  },
- "8988436413397893363": {
-  "place_id": "ChIJg8PY2mMXaTQR84DEkktXvXw",
-  "name": "壹椀麵食館[21:00停止供餐][北屯美食｜午餐｜晚餐｜麵食］",
-  "address": "406台灣臺中市北屯區三和里東山路一段50-12號熊嗨星球與尚雅照明中間巷子",
+ "1969931464481770343": {
+  "place_id": "ChIJDeBxG6QXaTQRZwtN1DqaVhs",
+  "name": "溫叨古早味料理餐廳",
+  "address": "40653台灣臺中市北屯區北屯里太原路三段191號",
   "rating": 4.7,
-  "userRatingCount": 67,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=8988436413397893363&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "userRatingCount": 4406,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=1969931464481770343&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1696888,
-   "longitude": 120.70175479999999
+   "latitude": 24.165327,
+   "longitude": 120.69155159999998
   },
   "types": [
    "restaurant",
-   "noodle_shop",
-   "chinese_noodle_restaurant",
+   "taiwanese_restaurant",
+   "chinese_restaurant",
    "food",
    "point_of_interest",
    "establishment"
   ],
   "area_label": "北屯"
  },
- "6398678089552561782": {
-  "place_id": "ChIJDwYgHB0XaTQRdgbbH9KrzFg",
-  "name": "歐浮找餐 北屯-進化店",
-  "address": "406台灣臺中市北屯區進化北路4-2號",
-  "rating": 4.8,
-  "userRatingCount": 2238,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=6398678089552561782&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.163365,
-   "longitude": 120.6906972
-  },
-  "types": [
-   "brunch_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "10154912448252733652": {
-  "place_id": "ChIJk0L_JuQXaTQR1OhLkxF_7Yw",
-  "name": "找晨。Find Morning手作輕食料理(北屯店)",
-  "address": "406台灣臺中市北屯區三光里文昌東十二街17號",
+ "17925594205825049266": {
+  "place_id": "ChIJ6YAyNTwYaTQRsqIA0vSAxPg",
+  "name": "雅風筑雲",
+  "address": "406台灣臺中市北屯區和平里東山路一段377-26號",
   "rating": 4.5,
-  "userRatingCount": 1363,
+  "userRatingCount": 1823,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=10154912448252733652&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=17925594205825049266&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.167252299999998,
-   "longitude": 120.69494949999999
+   "latitude": 24.177132000000004,
+   "longitude": 120.72940849999999
   },
   "types": [
-   "brunch_restaurant",
-   "meal_takeaway",
    "restaurant",
    "food",
    "point_of_interest",
@@ -323,19 +84,44 @@
   ],
   "area_label": "北屯"
  },
- "15697985521029057774": {
-  "place_id": "ChIJf1uTpiIXaTQR7owp7qhy2tk",
-  "name": "Mooie 花園餐廳",
-  "address": "406台灣臺中市北屯區山西路三段161號",
-  "rating": 4.6,
-  "userRatingCount": 1015,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=15697985521029057774&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "18440350250777854664": {
+  "place_id": "ChIJbQceJ9IXaTQRyEJmF9pI6f8",
+  "name": "月見里山 炭火燒肉",
+  "address": "406台灣臺中市北屯區崇德九路520號",
+  "rating": 4.8,
+  "userRatingCount": 6778,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=18440350250777854664&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1856905,
-   "longitude": 120.6854002
+   "latitude": 24.187189999999998,
+   "longitude": 120.68710789999999
   },
   "types": [
+   "barbecue_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "1523083807988456769": {
+  "place_id": "ChIJPYcgt5I9aTQRQR1NWqcUIxU",
+  "name": "les aqua 水相餐聚苑",
+  "address": "406台灣臺中市北屯區新平里經貿三路二段100號",
+  "rating": 4.8,
+  "userRatingCount": 19723,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=1523083807988456769&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1885801,
+   "longitude": 120.6593133
+  },
+  "types": [
+   "italian_restaurant",
+   "french_restaurant",
+   "steak_house",
+   "asian_restaurant",
    "european_restaurant",
    "restaurant",
    "food",
@@ -364,21 +150,110 @@
   ],
   "area_label": "北屯"
  },
- "16561884372705464726": {
-  "place_id": "ChIJu5LftPAXaTQRltEznhai1-U",
-  "name": "雲日 食事処",
-  "address": "406台灣臺中市北屯區平田里大連路三段132號",
-  "rating": 4.8,
-  "userRatingCount": 1942,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=16561884372705464726&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "8988436413397893363": {
+  "place_id": "ChIJg8PY2mMXaTQR84DEkktXvXw",
+  "name": "壹椀麵食館[21:00停止供餐][北屯美食｜午餐｜晚餐｜麵食］",
+  "address": "406台灣臺中市北屯區三和里東山路一段50-12號熊嗨星球與尚雅照明中間巷子",
+  "rating": 4.7,
+  "userRatingCount": 67,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=8988436413397893363&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1743922,
-   "longitude": 120.6950625
+   "latitude": 24.1696888,
+   "longitude": 120.70175479999999
   },
   "types": [
-   "tonkatsu_restaurant",
-   "japanese_restaurant",
+   "restaurant",
+   "chinese_noodle_restaurant",
+   "noodle_shop",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "6737258890996258254": {
+  "place_id": "ChIJ5313nWsXaTQRzpWsDUSNf10",
+  "name": "金香Jin pang",
+  "address": "406台灣臺中市北屯區水湳里大連路一段16巷16號",
+  "rating": 4.4,
+  "userRatingCount": 1308,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=6737258890996258254&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1749263,
+   "longitude": 120.67176520000001
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "7213314057615890767": {
+  "place_id": "ChIJI8gqJzcXaTQRT9mG6erWGmQ",
+  "name": "綠萼159",
+  "address": "406台灣臺中市北屯區仁和里山西路三段159號",
+  "rating": 4.8,
+  "userRatingCount": 2470,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=7213314057615890767&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1857002,
+   "longitude": 120.68517819999998
+  },
+  "types": [
+   "mediterranean_restaurant",
+   "wedding_venue",
+   "italian_restaurant",
+   "european_restaurant",
+   "restaurant",
+   "food",
+   "service",
+   "event_venue",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "514598608374056697": {
+  "place_id": "ChIJIdkxPgAXaTQR-cYLNrU4JAc",
+  "name": "TGI FRIDAYS 崇德餐廳",
+  "address": "406台灣臺中市北屯區平德里崇德路二段63號",
+  "rating": 4.8,
+  "userRatingCount": 1182,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=514598608374056697&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.170571499999998,
+   "longitude": 120.6851516
+  },
+  "types": [
+   "american_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "10154912448252733652": {
+  "place_id": "ChIJk0L_JuQXaTQR1OhLkxF_7Yw",
+  "name": "找晨。Find Morning手作輕食料理(北屯店)",
+  "address": "406台灣臺中市北屯區三光里文昌東十二街17號",
+  "rating": 4.5,
+  "userRatingCount": 1363,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=10154912448252733652&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.167252299999998,
+   "longitude": 120.69494949999999
+  },
+  "types": [
+   "brunch_restaurant",
+   "meal_takeaway",
    "restaurant",
    "food",
    "point_of_interest",
@@ -409,20 +284,145 @@
   ],
   "area_label": "北屯"
  },
- "514598608374056697": {
-  "place_id": "ChIJIdkxPgAXaTQR-cYLNrU4JAc",
-  "name": "TGI FRIDAYS 崇德餐廳",
-  "address": "406台灣臺中市北屯區平德里崇德路二段63號",
+ "6398678089552561782": {
+  "place_id": "ChIJDwYgHB0XaTQRdgbbH9KrzFg",
+  "name": "歐浮找餐 北屯-進化店",
+  "address": "406台灣臺中市北屯區進化北路4-2號",
   "rating": 4.8,
-  "userRatingCount": 1182,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=514598608374056697&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "userRatingCount": 2238,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=6398678089552561782&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.170571499999998,
-   "longitude": 120.6851516
+   "latitude": 24.163365,
+   "longitude": 120.6906972
   },
   "types": [
-   "american_restaurant",
+   "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "14732035679401582479": {
+  "place_id": "ChIJBaBOYU8XaTQRj58ckWW0csw",
+  "name": "小伙拌麵店｜北屯美食｜台中麵食｜招牌皮蛋麵",
+  "address": "406台灣臺中市北屯區三光里太原路三段347號",
+  "rating": 4.9,
+  "userRatingCount": 270,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=14732035679401582479&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.165165,
+   "longitude": 120.6967453
+  },
+  "types": [
+   "taiwanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "15697985521029057774": {
+  "place_id": "ChIJf1uTpiIXaTQR7owp7qhy2tk",
+  "name": "Mooie 花園餐廳",
+  "address": "406台灣臺中市北屯區山西路三段161號",
+  "rating": 4.6,
+  "userRatingCount": 1015,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=15697985521029057774&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1856905,
+   "longitude": 120.6854002
+  },
+  "types": [
+   "european_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "9978998791879751887": {
+  "place_id": "ChIJHQPSZ7MZaTQRz3gLvIeGfIo",
+  "name": "云如意茶館【台中美食餐廳】【大坑北屯美食餐廳】中式餐廳 | 套餐 | 火鍋 | 麵食",
+  "address": "406台灣臺中市北屯區廍子里景賢路288號",
+  "rating": 4.6,
+  "userRatingCount": 1424,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=9978998791879751887&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.167246,
+   "longitude": 120.72279640000001
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "15319084748578404296": {
+  "place_id": "ChIJO9V4Y6wXaTQRyLceM2pSmNQ",
+  "name": "厝秘 功夫菜 手路湯 崇德店",
+  "address": "406台灣臺中市北屯區松強里崇德八路一段18號",
+  "rating": 4.6,
+  "userRatingCount": 3474,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=15319084748578404296&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1837293,
+   "longitude": 120.68989499999999
+  },
+  "types": [
+   "taiwanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "1925947346131973538": {
+  "place_id": "ChIJ8QhP3uYXaTQRonVNPuhWuho",
+  "name": "🧧福味香小館➕新韭黃鱔糊🐟",
+  "address": "406台灣臺中市北屯區北屯里興安路一段86號",
+  "rating": 4.5,
+  "userRatingCount": 523,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=1925947346131973538&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1672856,
+   "longitude": 120.69210690000001
+  },
+  "types": [
+   "chinese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "1043509149935015259": {
+  "place_id": "ChIJ2Uy5i7YXaTQRWxW_CQtKew4",
+  "name": "來點什麼-北屯昌平店",
+  "address": "406台灣臺中市北屯區松竹里昌平路二段5之4號",
+  "rating": 4.7,
+  "userRatingCount": 203,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=1043509149935015259&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1791227,
+   "longitude": 120.6904776
+  },
+  "types": [
+   "breakfast_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -631,6 +631,27 @@
   ],
   "area_label": "北屯"
  },
+ "7403677205230517239": {
+  "place_id": "ChIJIYAhz5UXaTQR9_trGTElv2Y",
+  "name": "艾初早餐 北屯太原店",
+  "address": "406台灣臺中市北屯區北屯里太原路三段141號1 樓",
+  "rating": 4.8,
+  "userRatingCount": 1103,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=7403677205230517239&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.165025,
+   "longitude": 120.6899346
+  },
+  "types": [
+   "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
  "12936284715516868981": {
   "place_id": "ChIJG_9eMoUXaTQRdbmyzWjqhrM",
   "name": "AuMyGod Cafe",
@@ -736,15 +757,15 @@
   },
   "types": [
    "restaurant",
-   "breakfast_restaurant",
    "brunch_restaurant",
+   "breakfast_restaurant",
    "cafe",
-   "food_store",
    "educational_institution",
-   "store",
+   "food_store",
    "food",
-   "point_of_interest",
+   "store",
    "service",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "北屯"
@@ -793,59 +814,60 @@
   ],
   "area_label": "北屯"
  },
- "11309265885040226635": {
-  "place_id": "ChIJpdywVQAZaTQRSzFERGeV8pw",
-  "name": "江屋日本料理（北屯旗艦店）",
-  "address": "406台灣臺中市北屯區和平里軍福十一路289號",
-  "rating": 4.6,
-  "userRatingCount": 182,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=11309265885040226635&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.170590500000003,
-   "longitude": 120.7247619
-  },
-  "types": [
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "14807952460439876824": {
-  "place_id": "ChIJLbfE9XkXaTQR2PRjj05qgM0",
-  "name": "鮨御手作壽司",
-  "address": "406台灣臺中市北屯區三光里太原路三段494號",
-  "rating": 5,
-  "userRatingCount": 460,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=14807952460439876824&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1647876,
-   "longitude": 120.69595849999999
-  },
-  "types": [
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "365375766986249753": {
-  "place_id": "ChIJO42CDxAXaTQRGVbAAFMTEgU",
-  "name": "魚米有約",
-  "address": "406台灣臺中市北屯區敦富一街133號大地商場-A31",
+ "15723573515122623940": {
+  "place_id": "ChIJS7qn9cUXaTQRxMWfEM5aNdo",
+  "name": "千越日本料理",
+  "address": "406台灣臺中市北屯區松茂里松竹路二段85號",
   "rating": 4.8,
-  "userRatingCount": 711,
-  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=365375766986249753&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "userRatingCount": 708,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=15723573515122623940&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1837469,
-   "longitude": 120.70695930000001
+   "latitude": 24.182730799999998,
+   "longitude": 120.69791659999999
+  },
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "16561884372705464726": {
+  "place_id": "ChIJu5LftPAXaTQRltEznhai1-U",
+  "name": "雲日 食事処",
+  "address": "406台灣臺中市北屯區平田里大連路三段132號",
+  "rating": 4.8,
+  "userRatingCount": 1942,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=16561884372705464726&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1743922,
+   "longitude": 120.6950625
+  },
+  "types": [
+   "tonkatsu_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "7325092629368342906": {
+  "place_id": "ChIJQ2N7EAAXaTQReglVuO_0p2U",
+  "name": "船艙せんしつ天料理",
+  "address": "406台灣臺中市北屯區水景里松竹五路一段65號",
+  "rating": 4.9,
+  "userRatingCount": 148,
+  "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=7325092629368342906&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.174807899999998,
+   "longitude": 120.7031681
   },
   "types": [
    "japanese_restaurant",
@@ -878,17 +900,144 @@
   ],
   "area_label": "北屯"
  },
- "15723573515122623940": {
-  "place_id": "ChIJS7qn9cUXaTQRxMWfEM5aNdo",
-  "name": "千越日本料理",
-  "address": "406台灣臺中市北屯區松茂里松竹路二段85號",
-  "rating": 4.8,
-  "userRatingCount": 708,
+ "14807952460439876824": {
+  "place_id": "ChIJLbfE9XkXaTQR2PRjj05qgM0",
+  "name": "鮨御手作壽司",
+  "address": "406台灣臺中市北屯區三光里太原路三段494號",
+  "rating": 5,
+  "userRatingCount": 460,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=15723573515122623940&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=14807952460439876824&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.182730799999998,
-   "longitude": 120.69791659999999
+   "latitude": 24.1647876,
+   "longitude": 120.69595849999999
+  },
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "7929920790233105816": {
+  "place_id": "ChIJvV-EMOwXaTQRmEXUtvG8DG4",
+  "name": "丸億生魚片壽司",
+  "address": "406台灣臺中市北屯區平興里遼寧路一段376號新一點利黃昏市場第160攤位",
+  "rating": 4.7,
+  "userRatingCount": 1264,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=7929920790233105816&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.176946899999997,
+   "longitude": 120.6977874
+  },
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "365375766986249753": {
+  "place_id": "ChIJO42CDxAXaTQRGVbAAFMTEgU",
+  "name": "魚米有約",
+  "address": "406台灣臺中市北屯區敦富一街133號大地商場-A31",
+  "rating": 4.8,
+  "userRatingCount": 711,
+  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=365375766986249753&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1837469,
+   "longitude": 120.70695930000001
+  },
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "17505051033034547882": {
+  "place_id": "ChIJJxdD2t8XaTQRquIbNytv7vI",
+  "name": "隱 日式居酒屋 — 需預約 ｜生魚片｜握壽司｜無菜單｜週四週五啤酒二送一｜",
+  "address": "406台灣臺中市北屯區平田里文心路四段947號",
+  "rating": 4.9,
+  "userRatingCount": 94,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=17505051033034547882&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1712803,
+   "longitude": 120.69486409999999
+  },
+  "types": [
+   "japanese_izakaya_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "4421514182989362595": {
+  "place_id": "ChIJeSh8NHoXaTQRo7VuJrlfXD0",
+  "name": "鮨初割烹料理-預約制",
+  "address": "406台灣臺中市北屯區松竹五路一段131號",
+  "rating": 4.8,
+  "userRatingCount": 467,
+  "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=4421514182989362595&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1747125,
+   "longitude": 120.70496990000001
+  },
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "3504683368605683596": {
+  "place_id": "ChIJ8cBlhYMXaTQRjA_2g_QiozA",
+  "name": "橋北屋-日本家庭料理 北平店",
+  "address": "406台灣臺中市北屯區平安里北平路四段12號",
+  "rating": 4.8,
+  "userRatingCount": 582,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=3504683368605683596&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1705959,
+   "longitude": 120.6867914
+  },
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "1168932429270316155": {
+  "place_id": "ChIJdclD_sAXaTQRe3QX5dnhOBA",
+  "name": "仁壽司",
+  "address": "406台灣臺中市北屯區松竹里崇德路二段449號",
+  "rating": 4.7,
+  "userRatingCount": 1338,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=1168932429270316155&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1809041,
+   "longitude": 120.68585470000001
   },
   "types": [
    "japanese_restaurant",
@@ -910,6 +1059,69 @@
   "location": {
    "latitude": 24.1666675,
    "longitude": 120.68979820000001
+  },
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "13326382867696506777": {
+  "place_id": "ChIJm1tTIxMXaTQRmdfmqZzS8Lg",
+  "name": "漁町食事",
+  "address": "406台灣臺中市北屯區三和里東山路一段146-21號",
+  "rating": 4.7,
+  "userRatingCount": 109,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=13326382867696506777&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.169163599999997,
+   "longitude": 120.70479089999999
+  },
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "14208774563149900495": {
+  "place_id": "ChIJObsz2f8XaTQRz-onEi-1L8U",
+  "name": "海浪壽司",
+  "address": "406台灣臺中市北屯區舊社里南興路269號",
+  "rating": 4.5,
+  "userRatingCount": 242,
+  "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=14208774563149900495&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1783824,
+   "longitude": 120.7036691
+  },
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "11309265885040226635": {
+  "place_id": "ChIJpdywVQAZaTQRSzFERGeV8pw",
+  "name": "江屋日本料理（北屯旗艦店）",
+  "address": "406台灣臺中市北屯區和平里軍福十一路289號",
+  "rating": 4.6,
+  "userRatingCount": 182,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=11309265885040226635&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.170590500000003,
+   "longitude": 120.7247619
   },
   "types": [
    "japanese_restaurant",
@@ -942,132 +1154,6 @@
   ],
   "area_label": "北屯"
  },
- "5741065554908975311": {
-  "place_id": "ChIJKzKPwHYZaTQRz5CUaLRcrE8",
-  "name": "魚和米壽司 北屯店",
-  "address": "406台灣臺中市北屯區和平里東山路一段338號-3號",
-  "rating": 4.8,
-  "userRatingCount": 1496,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=5741065554908975311&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1759906,
-   "longitude": 120.72532020000001
-  },
-  "types": [
-   "sushi_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "3504683368605683596": {
-  "place_id": "ChIJ8cBlhYMXaTQRjA_2g_QiozA",
-  "name": "橋北屋-日本家庭料理 北平店",
-  "address": "406台灣臺中市北屯區平安里北平路四段12號",
-  "rating": 4.8,
-  "userRatingCount": 582,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=3504683368605683596&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1705959,
-   "longitude": 120.6867914
-  },
-  "types": [
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "13326382867696506777": {
-  "place_id": "ChIJm1tTIxMXaTQRmdfmqZzS8Lg",
-  "name": "漁町食事",
-  "address": "406台灣臺中市北屯區三和里東山路一段146-21號",
-  "rating": 4.7,
-  "userRatingCount": 109,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=13326382867696506777&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.169163599999997,
-   "longitude": 120.70479089999999
-  },
-  "types": [
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "7886233615753376868": {
-  "place_id": "ChIJi8n18twXaTQRZHS5wrCHcW0",
-  "name": "「花山椒」",
-  "address": "406台灣臺中市北屯區平德里北平路三段180號",
-  "rating": 4.5,
-  "userRatingCount": 1282,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=7886233615753376868&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1708343,
-   "longitude": 120.6849241
-  },
-  "types": [
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "17584012553275440661": {
-  "place_id": "ChIJPUtic40ZaTQRFf79y0D2BvQ",
-  "name": "永青日本料理（最後收客時間：20:15）",
-  "address": "406台灣臺中市北屯區和平里建和路二段290號",
-  "rating": 4.2,
-  "userRatingCount": 778,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=17584012553275440661&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1749462,
-   "longitude": 120.72483000000001
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "11109729739327094583": {
-  "place_id": "ChIJC6UjSuwXaTQRNz8vB1awLZo",
-  "name": "鵝房宮一點利 創始店",
-  "address": "406台灣臺中市北屯區平興里遼寧路一段376號",
-  "rating": 4.4,
-  "userRatingCount": 6777,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=11109729739327094583&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1768105,
-   "longitude": 120.69733189999998
-  },
-  "types": [
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
  "18100602512798533152": {
   "place_id": "ChIJc0fogTQXaTQRIEbmkxVCMvs",
   "name": "「胖姆丼丼」日式料理製研所（台中北平店）",
@@ -1089,38 +1175,17 @@
   ],
   "area_label": "北屯"
  },
- "1168932429270316155": {
-  "place_id": "ChIJdclD_sAXaTQRe3QX5dnhOBA",
-  "name": "仁壽司",
-  "address": "406台灣臺中市北屯區松竹里崇德路二段449號",
-  "rating": 4.7,
-  "userRatingCount": 1338,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=1168932429270316155&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1809041,
-   "longitude": 120.68585470000001
-  },
-  "types": [
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "11696855607977383313": {
-  "place_id": "ChIJ__7oiekXaTQRkRWH7jOUU6I",
-  "name": "水樂日式食堂",
-  "address": "406台灣臺中市北屯區松和里崇德二路一段302號",
+ "7378020505817065886": {
+  "place_id": "ChIJS8FsUfgXaTQRninGQo_-Y2Y",
+  "name": "樽",
+  "address": "406台灣臺中市北屯區水景里太原路三段747號",
   "rating": 4.3,
-  "userRatingCount": 457,
+  "userRatingCount": 483,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=11696855607977383313&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=7378020505817065886&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.176908899999997,
-   "longitude": 120.69072200000001
+   "latitude": 24.164977099999998,
+   "longitude": 120.70955029999999
   },
   "types": [
    "japanese_restaurant",
@@ -1131,27 +1196,24 @@
   ],
   "area_label": "北屯"
  },
- "16807698802190291306": {
-  "place_id": "ChIJC4dgJJIXaTQRapFPdALxQOk",
-  "name": "Miro Pasta米羅義式廚房",
-  "address": "406台灣臺中市北屯區松勇里松竹北路140號",
-  "rating": 4.8,
-  "userRatingCount": 2798,
+ "15503462853494201059": {
+  "place_id": "ChIJOTNDC68XaTQR41r8ClNdJ9c",
+  "name": "Koti’s Pasta 義大利麵 燉飯",
+  "address": "406台灣臺中市北屯區三和里東山路一段134-1號",
+  "rating": 4.6,
+  "userRatingCount": 224,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=16807698802190291306&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=15503462853494201059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.185312099999997,
-   "longitude": 120.698591
+   "latitude": 24.1696498,
+   "longitude": 120.70270479999999
   },
   "types": [
-   "italian_restaurant",
-   "pizza_restaurant",
-   "european_restaurant",
-   "food_store",
    "restaurant",
+   "food_store",
+   "store",
    "food",
    "point_of_interest",
-   "store",
    "establishment"
   ],
   "area_label": "北屯"
@@ -1174,53 +1236,6 @@
    "restaurant",
    "food",
    "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "3582820009722157553": {
-  "place_id": "ChIJZfQfwe8ZaTQR8Zmm9dC7uDE",
-  "name": "托斯卡尼尼義大利庭園餐廳-台中北屯店｜義式餐廳",
-  "address": "406台灣臺中市北屯區廍子里廍子路651巷66號",
-  "rating": 4.4,
-  "userRatingCount": 357,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=3582820009722157553&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1779209,
-   "longitude": 120.7385298
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "13409957455155667648": {
-  "place_id": "ChIJiVNiTbYXaTQRwKKnp0G9Gbo",
-  "name": "義伴餐館 - 北屯店",
-  "address": "406台灣臺中市北屯區平陽里大連路一段279號",
-  "rating": 4.7,
-  "userRatingCount": 405,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=13409957455155667648&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.176977899999997,
-   "longitude": 120.6774032
-  },
-  "types": [
-   "restaurant",
-   "dumpling_restaurant",
-   "ramen_restaurant",
-   "family_restaurant",
-   "noodle_shop",
-   "japanese_restaurant",
-   "food_store",
-   "food",
-   "point_of_interest",
-   "store",
    "establishment"
   ],
   "area_label": "北屯"
@@ -1248,41 +1263,46 @@
   ],
   "area_label": "北屯"
  },
- "15503462853494201059": {
-  "place_id": "ChIJOTNDC68XaTQR41r8ClNdJ9c",
-  "name": "Koti’s Pasta 義大利麵 燉飯",
-  "address": "406台灣臺中市北屯區三和里東山路一段134-1號",
-  "rating": 4.6,
-  "userRatingCount": 224,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=15503462853494201059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "4741020675163142989": {
+  "place_id": "ChIJA7kiLZUXaTQRTbvhXy99y0E",
+  "name": "麵小姐(miss pasta)昌平店",
+  "address": "406台灣臺中市北屯區昌平路二段9之6號",
+  "rating": 4.7,
+  "userRatingCount": 47,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=4741020675163142989&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1696498,
-   "longitude": 120.70270479999999
+   "latitude": 24.179852699999998,
+   "longitude": 120.68983619999999
   },
   "types": [
+   "italian_restaurant",
+   "european_restaurant",
    "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "16807698802190291306": {
+  "place_id": "ChIJC4dgJJIXaTQRapFPdALxQOk",
+  "name": "Miro Pasta米羅義式廚房",
+  "address": "406台灣臺中市北屯區松勇里松竹北路140號",
+  "rating": 4.8,
+  "userRatingCount": 2798,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=16807698802190291306&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.185312099999997,
+   "longitude": 120.698591
+  },
+  "types": [
+   "italian_restaurant",
+   "pizza_restaurant",
    "food_store",
-   "food",
-   "point_of_interest",
+   "european_restaurant",
    "store",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "4332924953360762781": {
-  "place_id": "ChIJL3UNn3k9aTQRnYd-y0mkITw",
-  "name": "沐星Mu Star/義大利麵",
-  "address": "406台灣臺中市北屯區北屯里昌平路一段33號",
-  "rating": 4.7,
-  "userRatingCount": 489,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=4332924953360762781&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1668736,
-   "longitude": 120.69360189999999
-  },
-  "types": [
    "restaurant",
    "food",
    "point_of_interest",
@@ -1290,19 +1310,21 @@
   ],
   "area_label": "北屯"
  },
- "15545184491896420091": {
-  "place_id": "ChIJtdLcYmMXaTQR-7Zl9-6Wu9c",
-  "name": "參餐•義式餐酒館",
-  "address": "406017台灣臺中市北屯區平安里北平路四段65號",
-  "rating": 4.7,
-  "userRatingCount": 693,
+ "13568749490062812791": {
+  "place_id": "ChIJjZTw3TgXaTQRd-Z0WcXhTbw",
+  "name": "米古義大利麵Migu Pasta-",
+  "address": "406台灣臺中市北屯區興安路二段216號",
+  "rating": 4.3,
+  "userRatingCount": 649,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=15545184491896420091&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=13568749490062812791&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1707628,
-   "longitude": 120.68740369999999
+   "latitude": 24.1797014,
+   "longitude": 120.69511430000001
   },
   "types": [
+   "italian_restaurant",
+   "european_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -1310,21 +1332,27 @@
   ],
   "area_label": "北屯"
  },
- "4681920852225024634": {
-  "place_id": "ChIJOf02eAAXaTQReuJdjzWG-UA",
-  "name": "TA pasta｜義大利麵 • 甜點 • 節慶禮盒｜",
-  "address": "406台灣臺中市北屯區平心里瀋陽路三段181號",
+ "13409957455155667648": {
+  "place_id": "ChIJiVNiTbYXaTQRwKKnp0G9Gbo",
+  "name": "義伴餐館 - 北屯店",
+  "address": "406台灣臺中市北屯區平陽里大連路一段279號",
   "rating": 4.7,
-  "userRatingCount": 231,
+  "userRatingCount": 405,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=4681920852225024634&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=13409957455155667648&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1728609,
-   "longitude": 120.69095729999998
+   "latitude": 24.176977899999997,
+   "longitude": 120.6774032
   },
   "types": [
+   "restaurant",
+   "noodle_shop",
+   "ramen_restaurant",
    "family_restaurant",
-   "restaurant",
+   "dumpling_restaurant",
+   "food_store",
+   "store",
+   "japanese_restaurant",
    "food",
    "point_of_interest",
    "establishment"
@@ -1345,29 +1373,93 @@
   },
   "types": [
    "restaurant",
-   "italian_restaurant",
    "dessert_restaurant",
-   "european_restaurant",
-   "food_store",
    "cafe",
+   "italian_restaurant",
+   "food_store",
+   "european_restaurant",
+   "store",
    "food",
    "point_of_interest",
-   "store",
    "establishment"
   ],
   "area_label": "北屯"
  },
- "16139707692350374397": {
-  "place_id": "ChIJkRsYkacXaTQR_QEvZaLC-98",
-  "name": "Cicchetti小料理（預約制）義大利傳統菜",
-  "address": "406台灣臺中市北屯區北屯路426號3巷19號1樓",
-  "rating": 5,
-  "userRatingCount": 22,
+ "7910268594234601232": {
+  "place_id": "ChIJK6IowXQZaTQREC9IRWDrxm0",
+  "name": "NU PASTA 台中建和旗艦店",
+  "address": "406台灣臺中市北屯區水景里建和路二段99號",
+  "rating": 4.9,
+  "userRatingCount": 3332,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=16139707692350374397&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=7910268594234601232&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1781789,
-   "longitude": 120.7012834
+   "latitude": 24.169320799999998,
+   "longitude": 120.72436909999999
+  },
+  "types": [
+   "italian_restaurant",
+   "european_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "11858088873934721643": {
+  "place_id": "ChIJ2bS73XcXaTQRaxLkBQFlkKQ",
+  "name": "Sincero芯藝複合式蔬食",
+  "address": "40646台灣臺中市北屯區北京里天祥街5號",
+  "rating": 4.7,
+  "userRatingCount": 144,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=11858088873934721643&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1614126,
+   "longitude": 120.6944695
+  },
+  "types": [
+   "italian_restaurant",
+   "european_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "8325929014278723645": {
+  "place_id": "ChIJP1jOpsIXaTQRPZgzaVOki3M",
+  "name": "來我家吧 Homie",
+  "address": "406台灣臺中市北屯區平心里瀋陽路三段97號",
+  "rating": 4.5,
+  "userRatingCount": 438,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=8325929014278723645&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1730655,
+   "longitude": 120.6887353
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "4332924953360762781": {
+  "place_id": "ChIJL3UNn3k9aTQRnYd-y0mkITw",
+  "name": "沐星Mu Star/義大利麵",
+  "address": "406台灣臺中市北屯區北屯里昌平路一段33號",
+  "rating": 4.7,
+  "userRatingCount": 489,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=4332924953360762781&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1668736,
+   "longitude": 120.69360189999999
   },
   "types": [
    "restaurant",
@@ -1399,21 +1491,20 @@
   ],
   "area_label": "北屯"
  },
- "7910268594234601232": {
-  "place_id": "ChIJK6IowXQZaTQREC9IRWDrxm0",
-  "name": "NU PASTA 台中建和旗艦店",
-  "address": "406台灣臺中市北屯區水景里建和路二段99號",
-  "rating": 4.9,
-  "userRatingCount": 3332,
+ "1265471787592485051": {
+  "place_id": "ChIJJ3QefB8ZaTQRu4i61OLbjxE",
+  "name": "亞丁尼義式麵屋 軍功店",
+  "address": "40641台灣臺中市北屯區軍功路一段635號",
+  "rating": 5,
+  "userRatingCount": 411,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=7910268594234601232&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=1265471787592485051&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.169320799999998,
-   "longitude": 120.72436909999999
+   "latitude": 24.175230799999998,
+   "longitude": 120.7189961
   },
   "types": [
-   "italian_restaurant",
-   "european_restaurant",
+   "family_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -1441,82 +1532,107 @@
   ],
   "area_label": "北屯"
  },
- "14661512730658677201": {
-  "place_id": "ChIJGYH94yMXaTQR0SHHBCYoeMs",
-  "name": "彤在義起義大利麵（崇德店）",
-  "address": "406台灣臺中市北屯區松和里崇德二路一段246號",
-  "rating": 4.5,
-  "userRatingCount": 27,
+ "16139707692350374397": {
+  "place_id": "ChIJkRsYkacXaTQR_QEvZaLC-98",
+  "name": "Cicchetti小料理（預約制）義大利傳統菜",
+  "address": "406台灣臺中市北屯區北屯路426號3巷19號1樓",
+  "rating": 5,
+  "userRatingCount": 22,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=16139707692350374397&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1781789,
+   "longitude": 120.7012834
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "11840927102449998008": {
+  "place_id": "ChIJHbeGVOkXaTQRuNjTuHZsU6Q",
+  "name": "金老闆義日式料理",
+  "address": "406台灣臺中市北屯區興安路二段47號",
+  "rating": 4.1,
+  "userRatingCount": 463,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=14661512730658677201&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=11840927102449998008&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1767294,
-   "longitude": 120.6920828
-  },
-  "types": [
-   "food_store",
-   "food",
-   "point_of_interest",
-   "store",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "8325929014278723645": {
-  "place_id": "ChIJP1jOpsIXaTQRPZgzaVOki3M",
-  "name": "來我家吧 Homie",
-  "address": "406台灣臺中市北屯區平心里瀋陽路三段97號",
-  "rating": 4.5,
-  "userRatingCount": 438,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=8325929014278723645&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1730655,
-   "longitude": 120.6887353
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "12959097667045232093": {
-  "place_id": "ChIJ54rFtM0XaTQR3Q3T_ar217M",
-  "name": "JAI宅 義大利麵 水湳店",
-  "address": "406台灣臺中市北屯區新平里中清路二段903號二樓",
-  "rating": 4.5,
-  "userRatingCount": 2490,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=12959097667045232093&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.187818699999998,
-   "longitude": 120.6625579
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "13568749490062812791": {
-  "place_id": "ChIJjZTw3TgXaTQRd-Z0WcXhTbw",
-  "name": "米古義大利麵Migu Pasta-",
-  "address": "406台灣臺中市北屯區興安路二段216號",
-  "rating": 4.3,
-  "userRatingCount": 649,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=13568749490062812791&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1797014,
-   "longitude": 120.69511430000001
+   "latitude": 24.176032199999998,
+   "longitude": 120.694651
   },
   "types": [
    "italian_restaurant",
    "european_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "10403800118916582422": {
+  "place_id": "ChIJTwrAGQoXaTQRFowwIha5YZA",
+  "name": "丰禾洋食館",
+  "address": "406台灣臺中市北屯區松安里遼寧路一段572號",
+  "rating": 4.9,
+  "userRatingCount": 26,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=10403800118916582422&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1817426,
+   "longitude": 120.69647490000001
+  },
+  "types": [
+   "italian_restaurant",
+   "european_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "15545184491896420091": {
+  "place_id": "ChIJtdLcYmMXaTQR-7Zl9-6Wu9c",
+  "name": "參餐•義式餐酒館",
+  "address": "406017台灣臺中市北屯區平安里北平路四段65號",
+  "rating": 4.7,
+  "userRatingCount": 693,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=15545184491896420091&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1707628,
+   "longitude": 120.68740369999999
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "13240505557297599780": {
+  "place_id": "ChIJJTRT55Y9aTQRJBVPNae5v7c",
+  "name": "好事House157 咖啡甜點鹹食",
+  "address": "406台灣臺中市北屯區平福里安順東七街157號",
+  "rating": 4.6,
+  "userRatingCount": 417,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=13240505557297599780&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.174961999999997,
+   "longitude": 120.6900096
+  },
+  "types": [
+   "cafe",
+   "liquor_store",
+   "store",
    "restaurant",
    "food",
    "point_of_interest",
@@ -1544,22 +1660,86 @@
   ],
   "area_label": "北屯"
  },
- "12188642308327261238": {
-  "place_id": "ChIJ92nRYBkXaTQRNsQk6pnBJqk",
-  "name": "好運燒肉 炭火燒肉 北屯店",
-  "address": "406台灣臺中市北屯區松竹里梅川東路五段93號",
-  "rating": 4.8,
-  "userRatingCount": 232,
+ "14492498339731521944": {
+  "place_id": "ChIJLVkEk_UXaTQRmMGil3SyH8k",
+  "name": "路邊烤肉WildBBQ 台中文心店",
+  "address": "406台灣臺中市北屯區平昌里文心路四段824號",
+  "rating": 4.9,
+  "userRatingCount": 702,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=12188642308327261238&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=14492498339731521944&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1785759,
-   "longitude": 120.6815894
+   "latitude": 24.171299299999998,
+   "longitude": 120.69082010000001
+  },
+  "types": [
+   "bar_and_grill",
+   "kebab_shop",
+   "japanese_restaurant",
+   "bar",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "4259145100349192299": {
+  "place_id": "ChIJ3YWFJI0XaTQRa7goIeeFGzs",
+  "name": "老胖東北燒烤台中店",
+  "address": "406031台灣臺中市北屯區仁和里松竹路三段28號",
+  "rating": 4,
+  "userRatingCount": 745,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=4259145100349192299&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.182204499999997,
+   "longitude": 120.68223880000001
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "7108567468531571093": {
+  "place_id": "ChIJJ1RQMCwXaTQRldm4J3O0pmI",
+  "name": "樂樂燒肉-台中崇德店",
+  "address": "406台灣臺中市北屯區崇德路二段256號",
+  "rating": 4.7,
+  "userRatingCount": 90,
+  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=7108567468531571093&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1747747,
+   "longitude": 120.6860856
   },
   "types": [
    "yakiniku_restaurant",
-   "bar_and_grill",
-   "bar",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "12138895301666259365": {
+  "place_id": "ChIJ5Y4a3R4XaTQRpcF5VfYEdqg",
+  "name": "北屯｜燒肉政宗 YAKINIKU MASAMUNE",
+  "address": "406台灣臺中市北屯區平田里遼陽五街13號1樓",
+  "rating": 4.8,
+  "userRatingCount": 1670,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=12138895301666259365&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1722915,
+   "longitude": 120.69180630000001
+  },
+  "types": [
+   "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
    "food",
@@ -1590,64 +1770,19 @@
   ],
   "area_label": "北屯"
  },
- "9383576484454359477": {
-  "place_id": "ChIJL6Ew7sA9aTQRtWGcphgpOYI",
-  "name": "有森烤肉飯｜直火烤肉 ｜BBQ｜4/4早上僅收預約單、晚上正常營業 ｜內用外帶｜北屯美食｜外送｜團訂｜客制｜菜單更新：2025/06版本｜非預約餐點以現場供應為主｜歡迎➕官方line預約",
-  "address": "406011台灣臺中市北屯區東光里東山路一段81號",
-  "rating": 4.5,
-  "userRatingCount": 631,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=9383576484454359477&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.169982899999997,
-   "longitude": 120.7021017
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "18440350250777854664": {
-  "place_id": "ChIJbQceJ9IXaTQRyEJmF9pI6f8",
-  "name": "月見里山 炭火燒肉",
-  "address": "406台灣臺中市北屯區崇德九路520號",
-  "rating": 4.8,
-  "userRatingCount": 6778,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=18440350250777854664&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.187189999999998,
-   "longitude": 120.68710789999999
-  },
-  "types": [
-   "barbecue_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "14492498339731521944": {
-  "place_id": "ChIJLVkEk_UXaTQRmMGil3SyH8k",
-  "name": "路邊烤肉WildBBQ 台中文心店",
-  "address": "406台灣臺中市北屯區平昌里文心路四段824號",
-  "rating": 4.9,
-  "userRatingCount": 702,
+ "6560757477984283857": {
+  "place_id": "ChIJw0uIiycXaTQR0ay9dCp-DFs",
+  "name": "金牌燒烤 洲際店",
+  "address": "406台灣臺中市北屯區崇德十路一段430號",
+  "rating": 5,
+  "userRatingCount": 296,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=14492498339731521944&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=6560757477984283857&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.171299299999998,
-   "longitude": 120.69082010000001
+   "latitude": 24.1886494,
+   "longitude": 120.68770370000001
   },
   "types": [
-   "bar_and_grill",
-   "kebab_shop",
-   "bar",
-   "japanese_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -1655,17 +1790,41 @@
   ],
   "area_label": "北屯"
  },
- "17152604441258690411": {
-  "place_id": "ChIJy3M_1LQXaTQRawcDZtxKCu4",
-  "name": "大股熟成燒肉專門 台中北屯店",
-  "address": "406台灣臺中市北屯區平福里崇德路二段296號",
-  "rating": 4.9,
-  "userRatingCount": 1400,
-  "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=17152604441258690411&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "12188642308327261238": {
+  "place_id": "ChIJ92nRYBkXaTQRNsQk6pnBJqk",
+  "name": "好運燒肉 炭火燒肉 北屯店",
+  "address": "406台灣臺中市北屯區松竹里梅川東路五段93號",
+  "rating": 4.8,
+  "userRatingCount": 232,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=12188642308327261238&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1759209,
-   "longitude": 120.6859485
+   "latitude": 24.1785759,
+   "longitude": 120.6815894
+  },
+  "types": [
+   "yakiniku_restaurant",
+   "bar_and_grill",
+   "japanese_restaurant",
+   "bar",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "10449247128463608703": {
+  "place_id": "ChIJUeV0wqAXaTQRfwtYnuYuA5E",
+  "name": "米炭火燒肉",
+  "address": "406台灣臺中市北屯區松竹里梅川東路五段87號1F",
+  "rating": 4.5,
+  "userRatingCount": 787,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=10449247128463608703&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.178395599999998,
+   "longitude": 120.6815676
   },
   "types": [
    "yakiniku_restaurant",
@@ -1699,87 +1858,19 @@
   ],
   "area_label": "北屯"
  },
- "18087212800480608131": {
-  "place_id": "ChIJaQFNkCAXaTQRg3-LPTawAvs",
-  "name": "龍爸爸串燒北屯店",
-  "address": "406台灣臺中市北屯區三光里北屯路289-3號",
-  "rating": 4.7,
-  "userRatingCount": 149,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=18087212800480608131&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1675075,
-   "longitude": 120.69572
-  },
-  "types": [
-   "bar_and_grill",
-   "bar",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "1237604368429701618": {
-  "place_id": "ChIJI8GjNMMXaTQR8lm5sJ3aLBE",
-  "name": "温和苑燒肉-北屯文心店",
-  "address": "406台灣臺中市北屯區平德里文心路四段504-1號",
-  "rating": 4.9,
-  "userRatingCount": 9392,
-  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=1237604368429701618&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1720641,
-   "longitude": 120.6835807
-  },
-  "types": [
-   "yakiniku_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "12666661421458614702": {
-  "place_id": "ChIJrSqlmJwZaTQRrmkvtHMFya8",
-  "name": "燒肉Smile 臺中景賢店",
-  "address": "406台灣臺中市北屯區廍子里景賢路226號",
-  "rating": 4.8,
-  "userRatingCount": 16795,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=12666661421458614702&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.166960099999997,
-   "longitude": 120.7247297
-  },
-  "types": [
-   "yakiniku_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "10449247128463608703": {
-  "place_id": "ChIJUeV0wqAXaTQRfwtYnuYuA5E",
-  "name": "米炭火燒肉",
-  "address": "406台灣臺中市北屯區松竹里梅川東路五段87號1F",
+ "9383576484454359477": {
+  "place_id": "ChIJL6Ew7sA9aTQRtWGcphgpOYI",
+  "name": "有森烤肉飯｜直火烤肉 ｜BBQ｜4/4早上僅收預約單、晚上正常營業 ｜內用外帶｜北屯美食｜外送｜團訂｜客制｜菜單更新：2025/06版本｜非預約餐點以現場供應為主｜歡迎➕官方line預約",
+  "address": "406011台灣臺中市北屯區東光里東山路一段81號",
   "rating": 4.5,
-  "userRatingCount": 787,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=10449247128463608703&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "userRatingCount": 631,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=9383576484454359477&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.178395599999998,
-   "longitude": 120.6815676
+   "latitude": 24.169982899999997,
+   "longitude": 120.7021017
   },
   "types": [
-   "yakiniku_restaurant",
-   "japanese_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -1787,82 +1878,17 @@
   ],
   "area_label": "北屯"
  },
- "5464800428473225259": {
-  "place_id": "ChIJs9v7_F0XaTQRK5CMMwnf1ks",
-  "name": "Oh ! Yaki 精緻燒肉吃到飽-台中崇德店",
-  "address": "406台灣臺中市北屯區平安里崇德路二段130號一樓",
-  "rating": 4,
-  "userRatingCount": 897,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=5464800428473225259&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "5822126476349826864": {
+  "place_id": "ChIJmxVg3fcXaTQRMGc67C5ZzFA",
+  "name": "248烤肉飯 昌平店 | 北屯美食 | 現烤 ｜台中必吃｜",
+  "address": "406台灣臺中市北屯區平福里崇德二路二段55號",
+  "rating": 4.6,
+  "userRatingCount": 739,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=5822126476349826864&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1710608,
-   "longitude": 120.68560120000001
-  },
-  "types": [
-   "yakiniku_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "3053531712491682104": {
-  "place_id": "ChIJJcJA6zgXaTQROPl0CepSYCo",
-  "name": "木木苑串焼専門の店",
-  "address": "406台灣臺中市北屯區三光里太原路三段500號",
-  "rating": 4.7,
-  "userRatingCount": 244,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=3053531712491682104&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1649025,
-   "longitude": 120.6961156
-  },
-  "types": [
-   "barbecue_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "7108567468531571093": {
-  "place_id": "ChIJJ1RQMCwXaTQRldm4J3O0pmI",
-  "name": "樂樂燒肉-台中崇德店",
-  "address": "406台灣臺中市北屯區崇德路二段256號",
-  "rating": 4.7,
-  "userRatingCount": 90,
-  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=7108567468531571093&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1747747,
-   "longitude": 120.6860856
-  },
-  "types": [
-   "yakiniku_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "6560757477984283857": {
-  "place_id": "ChIJw0uIiycXaTQR0ay9dCp-DFs",
-  "name": "金牌燒烤 洲際店",
-  "address": "406台灣臺中市北屯區崇德十路一段430號",
-  "rating": 5,
-  "userRatingCount": 296,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=6560757477984283857&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1886494,
-   "longitude": 120.68770370000001
+   "latitude": 24.176975499999998,
+   "longitude": 120.688667
   },
   "types": [
    "restaurant",
@@ -1883,6 +1909,95 @@
   "location": {
    "latitude": 24.1725855,
    "longitude": 120.68407549999999
+  },
+  "types": [
+   "yakiniku_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "7973530049759130840": {
+  "place_id": "ChIJRbKCZj8XaTQR2LTLrVWrp24",
+  "name": "屋馬燒肉 崇德店",
+  "address": "40674台灣臺中市北屯區崇德路二段369號",
+  "rating": 4.9,
+  "userRatingCount": 69234,
+  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=7973530049759130840&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1794533,
+   "longitude": 120.6857281
+  },
+  "types": [
+   "yakiniku_restaurant",
+   "bar_and_grill",
+   "japanese_restaurant",
+   "bar",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "17152604441258690411": {
+  "place_id": "ChIJy3M_1LQXaTQRawcDZtxKCu4",
+  "name": "大股熟成燒肉專門 台中北屯店",
+  "address": "406台灣臺中市北屯區平福里崇德路二段296號",
+  "rating": 4.9,
+  "userRatingCount": 1400,
+  "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=17152604441258690411&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1759209,
+   "longitude": 120.6859485
+  },
+  "types": [
+   "yakiniku_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "12835578841630151066": {
+  "place_id": "ChIJZ_hG3rkXaTQRmpHiXfMiIbI",
+  "name": "太谷燒烤",
+  "address": "406台灣臺中市北屯區松竹里昌平路二段2之24號",
+  "rating": 4.7,
+  "userRatingCount": 68,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=12835578841630151066&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.178308299999998,
+   "longitude": 120.69065169999999
+  },
+  "types": [
+   "bistro",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "12666661421458614702": {
+  "place_id": "ChIJrSqlmJwZaTQRrmkvtHMFya8",
+  "name": "燒肉Smile 臺中景賢店",
+  "address": "406台灣臺中市北屯區廍子里景賢路226號",
+  "rating": 4.8,
+  "userRatingCount": 16795,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=12666661421458614702&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.166960099999997,
+   "longitude": 120.7247297
   },
   "types": [
    "yakiniku_restaurant",
@@ -1930,26 +2045,6 @@
   "types": [
    "restaurant",
    "hot_pot_restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "6691303951401595504": {
-  "place_id": "ChIJK5uRHtsXaTQRcLJ1431J3Fw",
-  "name": "椒宴四川麻辣火鍋｜2:00最後收客點餐｜北屯宵夜｜夜間聚餐｜正宗四川風味鍋底｜",
-  "address": "406台灣臺中市北屯區平田里旅順路二段298號",
-  "rating": 4.9,
-  "userRatingCount": 501,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=6691303951401595504&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1735991,
-   "longitude": 120.6936773
-  },
-  "types": [
-   "restaurant",
    "food",
    "point_of_interest",
    "establishment"
@@ -2019,61 +2114,19 @@
   ],
   "area_label": "北屯"
  },
- "16181842927052672323": {
-  "place_id": "ChIJ7aaxRQAXaTQRQ00kNmh0keA",
-  "name": "ㄧ畝石鍋崇德店",
-  "address": "406台灣臺中市北屯區仁和里崇德十路二段101號",
-  "rating": 4.4,
-  "userRatingCount": 658,
+ "6691303951401595504": {
+  "place_id": "ChIJK5uRHtsXaTQRcLJ1431J3Fw",
+  "name": "椒宴四川麻辣火鍋｜2:00最後收客點餐｜北屯宵夜｜夜間聚餐｜正宗四川風味鍋底｜",
+  "address": "406台灣臺中市北屯區平田里旅順路二段298號",
+  "rating": 4.9,
+  "userRatingCount": 501,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=16181842927052672323&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=6691303951401595504&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1890339,
-   "longitude": 120.67971979999999
+   "latitude": 24.1735991,
+   "longitude": 120.6936773
   },
   "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "6111727066294700200": {
-  "place_id": "ChIJfULdIgAXaTQRqMiirmI30VQ",
-  "name": "老沙茶潮汕火鍋｜高質感火鍋餐廳推薦｜沙茶火鍋聚餐首選",
-  "address": "406台灣臺中市北屯區后庄里敦化路一段251號",
-  "rating": 4.8,
-  "userRatingCount": 176,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=6111727066294700200&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1898725,
-   "longitude": 120.6727413
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "2813173822032955300": {
-  "place_id": "ChIJudaaQAAZaTQRpMezsa9mCic",
-  "name": "月團圓雞湯火鍋（台中北屯店）",
-  "address": "406054台灣臺中市北屯區和平里東山路一段330號",
-  "rating": 4.2,
-  "userRatingCount": 156,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=2813173822032955300&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.175994499999998,
-   "longitude": 120.7236216
-  },
-  "types": [
-   "hot_pot_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -2123,6 +2176,67 @@
   ],
   "area_label": "北屯"
  },
+ "16181842927052672323": {
+  "place_id": "ChIJ7aaxRQAXaTQRQ00kNmh0keA",
+  "name": "ㄧ畝石鍋崇德店",
+  "address": "406台灣臺中市北屯區仁和里崇德十路二段101號",
+  "rating": 4.4,
+  "userRatingCount": 658,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=16181842927052672323&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1890339,
+   "longitude": 120.67971979999999
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "6905111701343715486": {
+  "place_id": "ChIJTQtt9F8ZaTQRnkD87IHi018",
+  "name": "拾川石鍋-東山店",
+  "address": "406台灣臺中市北屯區和平里東山路一段377-1號",
+  "rating": 4.8,
+  "userRatingCount": 4172,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=6905111701343715486&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1768032,
+   "longitude": 120.72747349999999
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "6111727066294700200": {
+  "place_id": "ChIJfULdIgAXaTQRqMiirmI30VQ",
+  "name": "老沙茶潮汕火鍋｜高質感火鍋餐廳推薦｜沙茶火鍋聚餐首選",
+  "address": "406台灣臺中市北屯區后庄里敦化路一段251號",
+  "rating": 4.8,
+  "userRatingCount": 176,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=6111727066294700200&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1898725,
+   "longitude": 120.6727413
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
  "7888595167314190777": {
   "place_id": "ChIJQThDiMwXaTQRuSGgVILreW0",
   "name": "多祥夯夯鍋｜台中北屯平價個人鍋・聚餐火鍋推薦",
@@ -2144,47 +2258,6 @@
   ],
   "area_label": "北屯"
  },
- "9514629947884462689": {
-  "place_id": "ChIJIz-fJQAXaTQRYWLy5IbBCoQ",
-  "name": "阿米石頭火鍋（最後收客 平日22:00，五六日00:00）",
-  "address": "406台灣臺中市北屯區仁和里松竹路三段601號",
-  "rating": 4.7,
-  "userRatingCount": 1389,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=9514629947884462689&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1897865,
-   "longitude": 120.67338609999997
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "11022527650032239764": {
-  "place_id": "ChIJO_B8Qq0ZaTQRlMQXc3_i95g",
-  "name": "翎軒有鍋，KTV包廂",
-  "address": "406台灣臺中市北屯區和平里軍福九路308號",
-  "rating": 4.2,
-  "userRatingCount": 177,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=11022527650032239764&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1696839,
-   "longitude": 120.72637270000001
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
  "7261047696177784977": {
   "place_id": "ChIJc_WPdCwZaTQRkWjYs2hsxGQ",
   "name": "燒瓶子。大肆の鍋 台中北屯店",
@@ -2196,27 +2269,6 @@
   "location": {
    "latitude": 24.175859799999998,
    "longitude": 120.72287399999999
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "15868451000259188656": {
-  "place_id": "ChIJqwlZ1XYXaTQRsBckLhwQONw",
-  "name": "山里見月 割烹鍋物",
-  "address": "406台灣臺中市北屯區仁和里松竹路三段118號",
-  "rating": 4.8,
-  "userRatingCount": 361,
-  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=15868451000259188656&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1823508,
-   "longitude": 120.6807186
   },
   "types": [
    "hot_pot_restaurant",
@@ -2248,37 +2300,59 @@
   ],
   "area_label": "北屯"
  },
- "6905111701343715486": {
-  "place_id": "ChIJTQtt9F8ZaTQRnkD87IHi018",
-  "name": "拾川石鍋-東山店",
-  "address": "406台灣臺中市北屯區和平里東山路一段377-1號",
+ "9514629947884462689": {
+  "place_id": "ChIJIz-fJQAXaTQRYWLy5IbBCoQ",
+  "name": "阿米石頭火鍋（最後收客 平日22:00，五六日00:00）",
+  "address": "406台灣臺中市北屯區仁和里松竹路三段601號",
+  "rating": 4.7,
+  "userRatingCount": 1389,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=9514629947884462689&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1897865,
+   "longitude": 120.67338609999997
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "2813173822032955300": {
+  "place_id": "ChIJudaaQAAZaTQRpMezsa9mCic",
+  "name": "月團圓雞湯火鍋（台中北屯店）",
+  "address": "406054台灣臺中市北屯區和平里東山路一段330號",
+  "rating": 4.2,
+  "userRatingCount": 156,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=2813173822032955300&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.175994499999998,
+   "longitude": 120.7236216
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "10658912604305185781": {
+  "place_id": "ChIJS8EiFqoZaTQR9VuLT4oQ7JM",
+  "name": "嗑肉石鍋-北屯太原店(二代店)",
+  "address": "40661台灣臺中市北屯區廍子里太原路三段1188號",
   "rating": 4.8,
-  "userRatingCount": 4172,
+  "userRatingCount": 1785,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=6905111701343715486&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=10658912604305185781&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1768032,
-   "longitude": 120.72747349999999
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "16532316200901181274": {
-  "place_id": "ChIJ89tzTN0XaTQRWn8mJf6VbuU",
-  "name": "養鍋Yang Guo石頭涮涮鍋 文心店",
-  "address": "406台灣臺中市北屯區平心里文心路四段679號",
-  "rating": 4.7,
-  "userRatingCount": 4454,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=16532316200901181274&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1720701,
-   "longitude": 120.6878936
+   "latitude": 24.1613391,
+   "longitude": 120.72474229999999
   },
   "types": [
    "hot_pot_restaurant",
@@ -2289,20 +2363,39 @@
   ],
   "area_label": "北屯"
  },
- "10992919637067043440": {
-  "place_id": "ChIJlQdr2wwXaTQRcBLMuyqyjpg",
-  "name": "联亭泡菜鍋-北屯店",
-  "address": "406台灣臺中市北屯區舊社里北屯路426-10號",
+ "18393998846576191713": {
+  "place_id": "ChIJI17mu7UXaTQR4Wge0X6cRP8",
+  "name": "湯棧 中清店",
+  "address": "406台灣臺中市北屯區新平里中清路二段1037號",
   "rating": 4.7,
-  "userRatingCount": 3294,
+  "userRatingCount": 11203,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=10992919637067043440&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=18393998846576191713&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.178511699999998,
-   "longitude": 120.70065289999998
+   "latitude": 24.1901517,
+   "longitude": 120.6611688
   },
   "types": [
-   "hot_pot_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "11022527650032239764": {
+  "place_id": "ChIJO_B8Qq0ZaTQRlMQXc3_i95g",
+  "name": "翎軒有鍋，KTV包廂",
+  "address": "406台灣臺中市北屯區和平里軍福九路308號",
+  "rating": 4.2,
+  "userRatingCount": 177,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=11022527650032239764&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1696839,
+   "longitude": 120.72637270000001
+  },
+  "types": [
    "restaurant",
    "food",
    "point_of_interest",
@@ -2325,6 +2418,204 @@
   "types": [
    "dessert_shop",
    "confectionery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "3791496202871947397": {
+  "place_id": "ChIJi23Mgu0XaTQRhcBsU7UZnjQ",
+  "name": "杏芙蒔光手作茶菓專賣店【北屯手作甜點】生日蛋糕",
+  "address": "406台灣臺中市北屯區三光里太原路三段508號",
+  "rating": 4.8,
+  "userRatingCount": 234,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=3791496202871947397&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.164769099999997,
+   "longitude": 120.6962432
+  },
+  "types": [
+   "cake_shop",
+   "wholesaler",
+   "bakery",
+   "food_store",
+   "store",
+   "food",
+   "manufacturer",
+   "service",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "16155184556877896826": {
+  "place_id": "ChIJozVZ__kXaTQRelyVucK-MuA",
+  "name": "BUTTER DAY 奶油日（營業時間以 IG 為主）",
+  "address": "406台灣臺中市北屯區仁和里崇德十路一段468號",
+  "rating": 4.5,
+  "userRatingCount": 292,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=16155184556877896826&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1884578,
+   "longitude": 120.6845147
+  },
+  "types": [
+   "brunch_restaurant",
+   "breakfast_restaurant",
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "restaurant",
+   "food",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "440434176280493739": {
+  "place_id": "ChIJveSJI_0XaTQRq_4jwIy8HAY",
+  "name": "祌（ㄔㄨㄥˉ）咖啡 Chung Café",
+  "address": "406台灣臺中市北屯區三光北一街37號",
+  "rating": 4.9,
+  "userRatingCount": 521,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=440434176280493739&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.168734399999998,
+   "longitude": 120.6972188
+  },
+  "types": [
+   "coffee_shop",
+   "cafe",
+   "food_store",
+   "food",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "2172583210255364585": {
+  "place_id": "ChIJnf92_GcXaTQR6bE_POuQJh4",
+  "name": "A B 法國人的甜點店 - 北屯店 - Atelier Baulois",
+  "address": "406台灣臺中市北屯區平福里崇德一路46號",
+  "rating": 4.4,
+  "userRatingCount": 188,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=2172583210255364585&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.176659299999997,
+   "longitude": 120.68945099999999
+  },
+  "types": [
+   "pastry_shop",
+   "dessert_shop",
+   "confectionery",
+   "bakery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "7215408343844527350": {
+  "place_id": "ChIJOajLlu8XaTQR9hw-7KhHImQ",
+  "name": "Kichi",
+  "address": "406台灣臺中市北屯區水湳里大連路一段27巷30號",
+  "rating": 4.6,
+  "userRatingCount": 1037,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=7215408343844527350&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.176111,
+   "longitude": 120.671601
+  },
+  "types": [
+   "dessert_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "8171498005434372285": {
+  "place_id": "ChIJi-kgSBwXaTQRvZC6OCT-ZnE",
+  "name": "Lenka",
+  "address": "406台灣臺中市北屯區平陽里崇德二路二段167號",
+  "rating": 4.7,
+  "userRatingCount": 432,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=8171498005434372285&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1774024,
+   "longitude": 120.6852201
+  },
+  "types": [
+   "bakery",
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "803413229880362949": {
+  "place_id": "ChIJC-AiWaAXaTQRxUfebhNMJgs",
+  "name": "七個小日子｜戚風蛋糕專賣店",
+  "address": "406台灣臺中市北屯區仁和里崇德路三段1號",
+  "rating": 4.9,
+  "userRatingCount": 2093,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=803413229880362949&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1821614,
+   "longitude": 120.68587360000001
+  },
+  "types": [
+   "cake_shop",
+   "dessert_shop",
+   "wholesaler",
+   "confectionery",
+   "bakery",
+   "food_store",
+   "store",
+   "food",
+   "manufacturer",
+   "service",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "12027873356029677436": {
+  "place_id": "ChIJvX8qrOkXaTQRfM-IRReX66Y",
+  "name": "Overture序曲",
+  "address": "406台灣臺中市北屯區北京里太原路三段150巷8弄17號",
+  "rating": 4.2,
+  "userRatingCount": 2104,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=12027873356029677436&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.163984000000003,
+   "longitude": 120.68929949999999
+  },
+  "types": [
+   "dessert_shop",
+   "cafe",
+   "confectionery",
+   "bakery",
    "food_store",
    "store",
    "food",
@@ -2356,192 +2647,30 @@
   ],
   "area_label": "北屯"
  },
- "12027873356029677436": {
-  "place_id": "ChIJvX8qrOkXaTQRfM-IRReX66Y",
-  "name": "Overture序曲",
-  "address": "406台灣臺中市北屯區北京里太原路三段150巷8弄17號",
-  "rating": 4.2,
-  "userRatingCount": 2104,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=12027873356029677436&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.163984000000003,
-   "longitude": 120.68929949999999
-  },
-  "types": [
-   "dessert_shop",
-   "cafe",
-   "bakery",
-   "confectionery",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "8171498005434372285": {
-  "place_id": "ChIJi-kgSBwXaTQRvZC6OCT-ZnE",
-  "name": "Lenka",
-  "address": "406台灣臺中市北屯區平陽里崇德二路二段167號",
-  "rating": 4.7,
-  "userRatingCount": 432,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=8171498005434372285&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1774024,
-   "longitude": 120.6852201
-  },
-  "types": [
-   "bakery",
-   "dessert_shop",
-   "confectionery",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "16155184556877896826": {
-  "place_id": "ChIJozVZ__kXaTQRelyVucK-MuA",
-  "name": "BUTTER DAY 奶油日（營業時間以 IG 為主）",
-  "address": "406台灣臺中市北屯區仁和里崇德十路一段468號",
-  "rating": 4.5,
-  "userRatingCount": 292,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=16155184556877896826&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1884578,
-   "longitude": 120.6845147
-  },
-  "types": [
-   "breakfast_restaurant",
-   "brunch_restaurant",
-   "dessert_shop",
-   "confectionery",
-   "food_store",
-   "store",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "12246873862827000572": {
-  "place_id": "ChIJsVD1MAAXaTQR_MLROuSi9ak",
-  "name": "棉花糖手作輕食館",
-  "address": "406台灣臺中市北屯區崇德路三段55號",
-  "rating": 4.9,
-  "userRatingCount": 54,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=12246873862827000572&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.183175700000003,
-   "longitude": 120.68581429999998
-  },
-  "types": [
-   "restaurant",
-   "coffee_shop",
-   "cafe",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "2172583210255364585": {
-  "place_id": "ChIJnf92_GcXaTQR6bE_POuQJh4",
-  "name": "A B 法國人的甜點店 - 北屯店 - Atelier Baulois",
-  "address": "406台灣臺中市北屯區平福里崇德一路46號",
-  "rating": 4.4,
-  "userRatingCount": 188,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=2172583210255364585&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.176659299999997,
-   "longitude": 120.68945099999999
-  },
-  "types": [
-   "pastry_shop",
-   "dessert_shop",
-   "bakery",
-   "confectionery",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "16646015663417898553": {
-  "place_id": "ChIJK9zGtRYXaTQRObacLw2HAuc",
-  "name": "點戚DIANQI 外帶店｜僅提供現金支付",
-  "address": "406031台灣臺中市北屯區舊社里松竹路二段74巷9號",
-  "rating": 4.7,
-  "userRatingCount": 279,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=16646015663417898553&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.183037,
-   "longitude": 120.70020999999998
-  },
-  "types": [
-   "dessert_shop",
-   "confectionery",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "440434176280493739": {
-  "place_id": "ChIJveSJI_0XaTQRq_4jwIy8HAY",
-  "name": "祌（ㄔㄨㄥˉ）咖啡 Chung Café",
-  "address": "406台灣臺中市北屯區三光北一街37號",
-  "rating": 4.9,
-  "userRatingCount": 521,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=440434176280493739&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.168734399999998,
-   "longitude": 120.6972188
-  },
-  "types": [
-   "coffee_shop",
-   "cafe",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "7215408343844527350": {
-  "place_id": "ChIJOajLlu8XaTQR9hw-7KhHImQ",
-  "name": "Kichi",
-  "address": "406台灣臺中市北屯區水湳里大連路一段27巷30號",
+ "227826026457004280": {
+  "place_id": "ChIJu_tILoEXaTQR-PiOYZBmKQM",
+  "name": "Cat i Cake光癒咖啡館/早午餐/甜點蛋糕（不定時休/不提供四人以上訂位）",
+  "address": "406台灣臺中市北屯區平安里柳陽西街13號",
   "rating": 4.6,
-  "userRatingCount": 1037,
+  "userRatingCount": 75,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=7215408343844527350&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=227826026457004280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.176111,
-   "longitude": 120.671601
+   "latitude": 24.1683742,
+   "longitude": 120.6889441
   },
   "types": [
-   "dessert_restaurant",
+   "brunch_restaurant",
+   "cafe",
+   "cake_shop",
+   "wholesaler",
+   "bakery",
+   "food_store",
+   "store",
    "restaurant",
    "food",
+   "manufacturer",
+   "service",
    "point_of_interest",
    "establishment"
   ],
@@ -2562,8 +2691,8 @@
   "types": [
    "dessert_shop",
    "gift_shop",
+   "confectionery",
    "bakery",
-   "confectionery",
    "food_store",
    "store",
    "food",
@@ -2572,17 +2701,17 @@
   ],
   "area_label": "北屯"
  },
- "5452943840947726242": {
-  "place_id": "ChIJG93ftXAXaTQRoufXS4i_rEs",
-  "name": "喬凱洛米花甜點",
-  "address": "406台灣臺中市北屯區松強里松竹路二段300巷26號",
-  "rating": 4.9,
-  "userRatingCount": 78,
+ "5957034179087107811": {
+  "place_id": "ChIJIYGqkwcXaTQR4wZZLwajq1I",
+  "name": "螞蟻來了甜點烘焙",
+  "address": "406台灣臺中市北屯區何源里華美西街二段470號",
+  "rating": 5,
+  "userRatingCount": 327,
   "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=5452943840947726242&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=5957034179087107811&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.184539899999997,
-   "longitude": 120.6932144
+   "latitude": 24.175543899999997,
+   "longitude": 120.6686065
   },
   "types": [
    "dessert_shop",
@@ -2595,116 +2724,49 @@
   ],
   "area_label": "北屯"
  },
- "16955905843050337327": {
-  "place_id": "ChIJNYnyiMIXaTQRL1T8K4d6T-s",
-  "name": "花火甜點工場",
-  "address": "406台灣臺中市北屯區平福里熱河路二段222號",
+ "15604596104706911208": {
+  "place_id": "ChIJ4-I-1oUXaTQR6Ot_BHupjtg",
+  "name": "午吉 甜點｜早午餐｜咖啡(無接待12歲以下及5人訂位，門口僅供機車停放，汽車請自行搜尋周邊停車場格）",
+  "address": "406台灣臺中市北屯區松竹里熱河路三段114號",
   "rating": 4.7,
-  "userRatingCount": 350,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=16955905843050337327&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "userRatingCount": 138,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=15604596104706911208&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1747493,
-   "longitude": 120.68815010000002
+   "latitude": 24.179590599999997,
+   "longitude": 120.68875839999998
   },
   "types": [
+   "brunch_restaurant",
+   "dessert_restaurant",
+   "gift_shop",
    "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "2035671633831706922": {
+  "place_id": "ChIJhfLTF9AXaTQRKsHgxZAoQBw",
+  "name": "香酥美手作烘焙坊",
+  "address": "406台灣臺中市北屯區平和里山西路二段221號",
+  "rating": 5,
+  "userRatingCount": 385,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=2035671633831706922&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1740967,
+   "longitude": 120.6761619
+  },
+  "types": [
+   "bakery",
+   "ice_cream_shop",
    "pastry_shop",
-   "bakery",
-   "confectionery",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "17932771829867255138": {
-  "place_id": "ChIJZ_6MsxUXaTQRYpVepfcA3vg",
-  "name": "Old rattan coffee 荖藤咖啡 台中文心店",
-  "address": "406019台灣臺中市北屯區平田里文心路四段805號",
-  "rating": 4.8,
-  "userRatingCount": 180,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=17932771829867255138&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1716536,
-   "longitude": 120.69124379999998
-  },
-  "types": [
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "803413229880362949": {
-  "place_id": "ChIJC-AiWaAXaTQRxUfebhNMJgs",
-  "name": "七個小日子｜戚風蛋糕專賣店",
-  "address": "406台灣臺中市北屯區仁和里崇德路三段1號",
-  "rating": 4.9,
-  "userRatingCount": 2093,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=803413229880362949&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1821614,
-   "longitude": 120.68587360000001
-  },
-  "types": [
-   "cake_shop",
-   "dessert_shop",
-   "bakery",
-   "manufacturer",
-   "confectionery",
-   "food_store",
-   "wholesaler",
-   "store",
-   "food",
-   "point_of_interest",
-   "service",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "14699070071502159019": {
-  "place_id": "ChIJCS5MT2MXaTQRqzx23FmW_cs",
-  "name": "與時製菓",
-  "address": "406台灣臺中市北屯區北屯路262巷3弄20號正門在東山路一段33巷。東光公園旁邊",
-  "rating": 4.7,
-  "userRatingCount": 47,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=14699070071502159019&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.171212699999998,
-   "longitude": 120.69897859999999
-  },
-  "types": [
-   "dessert_shop",
-   "confectionery",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "16374285385397838955": {
-  "place_id": "ChIJnWeKB5EXaTQRaySCp80lPeM",
-  "name": "九宮酪(北屯旗艦店）",
-  "address": "406台灣臺中市北屯區平昌里昌平路一段32-6號之1F",
-  "rating": 4.9,
-  "userRatingCount": 1489,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=16374285385397838955&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1673317,
-   "longitude": 120.6936315
-  },
-  "types": [
    "dessert_shop",
    "confectionery",
    "food_store",
@@ -2738,17 +2800,90 @@
   ],
   "area_label": "北屯"
  },
- "2436070615649401613": {
-  "place_id": "ChIJQ-DRP9IXaTQRDbuMbVGpziE",
-  "name": "Pingping_attic 營休日請參照IG資訊",
-  "address": "406台灣臺中市北屯區水湳里大連西路12號",
-  "rating": 4.6,
-  "userRatingCount": 87,
+ "436911110867342201": {
+  "place_id": "ChIJ-4TWpsIXaTQReVOrKVc4EAY",
+  "name": "CV甜點沙龍甜點店.露桑法式可麗露",
+  "address": "406台灣臺中市北屯區平心里瀋陽路三段99號",
+  "rating": 4.5,
+  "userRatingCount": 502,
   "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=2436070615649401613&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=436911110867342201&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1748293,
-   "longitude": 120.67047509999999
+   "latitude": 24.1730721,
+   "longitude": 120.6887486
+  },
+  "types": [
+   "dessert_shop",
+   "dessert_restaurant",
+   "confectionery",
+   "food_store",
+   "store",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "16955905843050337327": {
+  "place_id": "ChIJNYnyiMIXaTQRL1T8K4d6T-s",
+  "name": "花火甜點工場",
+  "address": "406台灣臺中市北屯區平福里熱河路二段222號",
+  "rating": 4.7,
+  "userRatingCount": 350,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=16955905843050337327&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1747493,
+   "longitude": 120.68815010000002
+  },
+  "types": [
+   "dessert_shop",
+   "pastry_shop",
+   "confectionery",
+   "bakery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "16646015663417898553": {
+  "place_id": "ChIJK9zGtRYXaTQRObacLw2HAuc",
+  "name": "點戚DIANQI 外帶店｜僅提供現金支付",
+  "address": "406031台灣臺中市北屯區舊社里松竹路二段74巷9號",
+  "rating": 4.7,
+  "userRatingCount": 279,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=16646015663417898553&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.183037,
+   "longitude": 120.70020999999998
+  },
+  "types": [
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "5452943840947726242": {
+  "place_id": "ChIJG93ftXAXaTQRoufXS4i_rEs",
+  "name": "喬凱洛米花甜點",
+  "address": "406台灣臺中市北屯區松強里松竹路二段300巷26號",
+  "rating": 4.9,
+  "userRatingCount": 78,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=5452943840947726242&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.184539899999997,
+   "longitude": 120.6932144
   },
   "types": [
    "dessert_shop",
@@ -2775,9 +2910,9 @@
   },
   "types": [
    "food_store",
-   "store",
    "restaurant",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -2797,8 +2932,31 @@
   },
   "types": [
    "food_store",
-   "store",
    "food",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "14888297878371769327": {
+  "place_id": "ChIJxUw7rkoXaTQR7xuN7gncnc4",
+  "name": "Pierre Salon",
+  "address": "406台灣臺中市北屯區平陽里崇德二路二段242號",
+  "rating": 4.9,
+  "userRatingCount": 495,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=14888297878371769327&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1777767,
+   "longitude": 120.68393729999998
+  },
+  "types": [
+   "coffee_shop",
+   "cafe",
+   "food_store",
+   "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -2842,9 +3000,33 @@
    "coffee_shop",
    "cafe",
    "food_store",
-   "store",
    "restaurant",
    "food",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "12246873862827000572": {
+  "place_id": "ChIJsVD1MAAXaTQR_MLROuSi9ak",
+  "name": "棉花糖手作輕食館",
+  "address": "406台灣臺中市北屯區崇德路三段55號",
+  "rating": 4.9,
+  "userRatingCount": 54,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=12246873862827000572&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.183175700000003,
+   "longitude": 120.68581429999998
+  },
+  "types": [
+   "restaurant",
+   "coffee_shop",
+   "cafe",
+   "food_store",
+   "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -2864,8 +3046,8 @@
   },
   "types": [
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -2906,12 +3088,12 @@
   "types": [
    "coffee_roastery",
    "cafe",
-   "food_store",
    "wholesaler",
-   "store",
+   "food_store",
    "food",
-   "point_of_interest",
+   "store",
    "service",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "北屯"
@@ -2937,6 +3119,29 @@
   ],
   "area_label": "北屯"
  },
+ "16696504509659619995": {
+  "place_id": "ChIJAcVVI84XaTQRmyL4wGPmtec",
+  "name": "TEN THOUSAND 台中漢神洲際店",
+  "address": "406台灣臺中市北屯區仁美里崇德路三段865號2F",
+  "rating": 4.2,
+  "userRatingCount": 1058,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=16696504509659619995&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.198321,
+   "longitude": 120.68621890000001
+  },
+  "types": [
+   "coffee_shop",
+   "cafe",
+   "food_store",
+   "food",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
  "3498504962300309837": {
   "place_id": "ChIJ1YQHhDQXaTQRTfHZMrovjTA",
   "name": "咖啡候機室 台中崇德店",
@@ -2953,8 +3158,8 @@
    "coffee_shop",
    "cafe",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -2999,50 +3204,7 @@
    "coffee_roastery",
    "wholesaler",
    "food",
-   "point_of_interest",
    "service",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "10835516372472725862": {
-  "place_id": "ChIJbbHoe7EXaTQRZoEqU7t8X5Y",
-  "name": "紅魚咖啡烘豆室 Red Fish Coffee",
-  "address": "406台灣臺中市北屯區平興里北屯路409-8號",
-  "rating": 4.8,
-  "userRatingCount": 150,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=10835516372472725862&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.174228499999998,
-   "longitude": 120.69837749999998
-  },
-  "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "3375294822568169109": {
-  "place_id": "ChIJdQERRugXaTQRlQ5kD8J01y4",
-  "name": "多馬咖啡 Tomar Cafe",
-  "address": "406台灣臺中市北屯區平心里昌平路一段328號",
-  "rating": 4.6,
-  "userRatingCount": 244,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=3375294822568169109&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1735907,
-   "longitude": 120.69062720000001
-  },
-  "types": [
-   "coffee_shop",
-   "cafe",
-   "food_store",
-   "store",
-   "food",
    "point_of_interest",
    "establishment"
   ],
@@ -3093,6 +3255,27 @@
   ],
   "area_label": "北屯"
  },
+ "4718978197230950048": {
+  "place_id": "ChIJb2Hxof4XaTQRoJbDDKstfUE",
+  "name": "韓國餐桌 Korean Dining Table （每日餐點售完為止）",
+  "address": "406台灣臺中市北屯區仁和里四平路276號",
+  "rating": 4.4,
+  "userRatingCount": 587,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=4718978197230950048&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1905532,
+   "longitude": 120.68108520000001
+  },
+  "types": [
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
  "6767934101509180311": {
   "place_id": "ChIJuV7spRIXaTQRlwu1DzWI7F0",
   "name": "料韓男(北屯店)",
@@ -3116,60 +3299,17 @@
   ],
   "area_label": "北屯"
  },
- "1100251177790319540": {
-  "place_id": "ChIJzUZ2JSQXaTQRtKvl553gRA8",
-  "name": "尚屋新韓式烤肉SANGOK",
-  "address": "406台灣臺中市北屯區仁美里崇德路三段865號6樓",
-  "rating": 4.3,
-  "userRatingCount": 582,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=1100251177790319540&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "1467722445836004989": {
+  "place_id": "ChIJXdcSPwEXaTQRfS7sxMllXhQ",
+  "name": "DoSiLa韓式料理～（校外人士也可以進來吃飯喔！！）",
+  "address": "406040台灣臺中市北屯區港尾里經貿路一段100號學餐B1",
+  "rating": 4.7,
+  "userRatingCount": 26,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=1467722445836004989&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.198321,
-   "longitude": 120.68621890000001
-  },
-  "types": [
-   "korean_barbecue_restaurant",
-   "korean_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "4718978197230950048": {
-  "place_id": "ChIJb2Hxof4XaTQRoJbDDKstfUE",
-  "name": "韓國餐桌 Korean Dining Table （每日餐點售完為止）",
-  "address": "406台灣臺中市北屯區仁和里四平路276號",
-  "rating": 4.4,
-  "userRatingCount": 587,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=4718978197230950048&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1905532,
-   "longitude": 120.68108520000001
-  },
-  "types": [
-   "korean_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "584811518890285427": {
-  "place_id": "ChIJI5R8zf09aTQRcxkDXPqqHQg",
-  "name": "春香飯店",
-  "address": "406台灣臺中市北屯區仁美里崇德路三段865號5樓",
-  "rating": 4.3,
-  "userRatingCount": 724,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=584811518890285427&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.198321,
-   "longitude": 120.68621890000001
+   "latitude": 24.1786027,
+   "longitude": 120.6612242
   },
   "types": [
    "korean_restaurant",
@@ -3201,6 +3341,27 @@
   ],
   "area_label": "北屯"
  },
+ "10724310521297109839": {
+  "place_id": "ChIJtSgGXAAXaTQRTwPmapln1JQ",
+  "name": "金春喜韓廚-台中水湳愛買店",
+  "address": "407台灣臺中市北屯區新平里中清路二段1199號B1",
+  "rating": 4.2,
+  "userRatingCount": 186,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=10724310521297109839&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1926443,
+   "longitude": 120.65970809999999
+  },
+  "types": [
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
  "14795089919408633073": {
   "place_id": "ChIJm0p4hpw9aTQR8XRQ2uS3Us0",
   "name": "豬樂家",
@@ -3212,27 +3373,6 @@
   "location": {
    "latitude": 24.173734,
    "longitude": 120.66936929999999
-  },
-  "types": [
-   "korean_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "1467722445836004989": {
-  "place_id": "ChIJXdcSPwEXaTQRfS7sxMllXhQ",
-  "name": "DoSiLa韓式料理～（校外人士也可以進來吃飯喔！！）",
-  "address": "406040台灣臺中市北屯區港尾里經貿路一段100號學餐B1",
-  "rating": 4.7,
-  "userRatingCount": 26,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=1467722445836004989&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1786027,
-   "longitude": 120.6612242
   },
   "types": [
    "korean_restaurant",
@@ -3264,17 +3404,17 @@
   ],
   "area_label": "北屯"
  },
- "10724310521297109839": {
-  "place_id": "ChIJtSgGXAAXaTQRTwPmapln1JQ",
-  "name": "金春喜韓廚-台中水湳愛買店",
-  "address": "407台灣臺中市北屯區新平里中清路二段1199號B1",
-  "rating": 4.2,
-  "userRatingCount": 186,
+ "584811518890285427": {
+  "place_id": "ChIJI5R8zf09aTQRcxkDXPqqHQg",
+  "name": "春香飯店",
+  "address": "406台灣臺中市北屯區仁美里崇德路三段865號5樓",
+  "rating": 4.3,
+  "userRatingCount": 724,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=10724310521297109839&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=584811518890285427&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1926443,
-   "longitude": 120.65970809999999
+   "latitude": 24.198321,
+   "longitude": 120.68621890000001
   },
   "types": [
    "korean_restaurant",
@@ -3305,17 +3445,101 @@
   ],
   "area_label": "北屯"
  },
- "4905878368794679394": {
-  "place_id": "ChIJx9t960oWaTQRYphHS2IuFUQ",
-  "name": "赤客平價韓式料理",
-  "address": "406台灣臺中市北屯區后庄里后庄路81號",
-  "rating": 4.2,
-  "userRatingCount": 625,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=4905878368794679394&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "3966837076949335870": {
+  "place_id": "ChIJXSUMmO4XaTQRPv9p5U0JDTc",
+  "name": "熊食咘韓式手作/restaurants/takeout/美食/晚餐/韓式料理/小吃",
+  "address": "406台灣臺中市北屯區新平里中清路二段927號",
+  "rating": 4.4,
+  "userRatingCount": 165,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=3966837076949335870&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.189729399999997,
-   "longitude": 120.664239
+   "latitude": 24.1881725,
+   "longitude": 120.66238419999998
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "10376665869401865528": {
+  "place_id": "ChIJpRTcGh8YaTQROD2eWqFSAZA",
+  "name": "朝鮮王韓式泡菜鍋",
+  "address": "406台灣臺中市北屯區軍功里東山路一段225-9號",
+  "rating": 4.5,
+  "userRatingCount": 554,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=10376665869401865528&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.174722199999998,
+   "longitude": 120.7156452
+  },
+  "types": [
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "4781044057099234551": {
+  "place_id": "ChIJbW5tkloXaTQR92zkJj2uWUI",
+  "name": "一朵親咕A qingu",
+  "address": "406台灣臺中市北屯區洲際一街122號",
+  "rating": 4.3,
+  "userRatingCount": 94,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=4781044057099234551&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.198519599999997,
+   "longitude": 120.6820307
+  },
+  "types": [
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "1100251177790319540": {
+  "place_id": "ChIJzUZ2JSQXaTQRtKvl553gRA8",
+  "name": "尚屋新韓式烤肉SANGOK",
+  "address": "406台灣臺中市北屯區仁美里崇德路三段865號6樓",
+  "rating": 4.3,
+  "userRatingCount": 582,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=1100251177790319540&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.198321,
+   "longitude": 120.68621890000001
+  },
+  "types": [
+   "korean_barbecue_restaurant",
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "5144011304993085763": {
+  "place_id": "ChIJL8hvs3AXaTQRQ9m0GgczY0c",
+  "name": "醬大元風味小炒",
+  "address": "406台灣臺中市北屯區三光里北屯路289-1號",
+  "rating": 4.8,
+  "userRatingCount": 56,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=5144011304993085763&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1674383,
+   "longitude": 120.6956025
   },
   "types": [
    "restaurant",
@@ -3338,6 +3562,48 @@
    "longitude": 120.68249869999998
   },
   "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "3506421767889259725": {
+  "place_id": "ChIJ4_fnd8cXaTQRzYy8IwVQqTA",
+  "name": "品詒小館",
+  "address": "406002台灣臺中市北屯區東山路一段40-15號",
+  "rating": 4.6,
+  "userRatingCount": 483,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=3506421767889259725&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1700359,
+   "longitude": 120.70009890000001
+  },
+  "types": [
+   "chinese_noodle_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "16118693849412990038": {
+  "place_id": "ChIJFWyxYwAXaTQRVvSI0acasd8",
+  "name": "珍饌熱炒食堂",
+  "address": "406台灣臺中市北屯區經貿一路28號",
+  "rating": 5,
+  "userRatingCount": 63,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=16118693849412990038&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1828009,
+   "longitude": 120.6650389
+  },
+  "types": [
+   "chinese_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -3387,122 +3653,17 @@
   ],
   "area_label": "北屯"
  },
- "16146557218712204656": {
-  "place_id": "ChIJrUgVOqgXaTQRcDXcBj4YFOA",
-  "name": "小林現炒",
-  "address": "406台灣臺中市北屯區松安里遼寧路一段295號",
-  "rating": 4.4,
-  "userRatingCount": 56,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=16146557218712204656&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.181095100000004,
-   "longitude": 120.69632399999999
-  },
-  "types": [
-   "chinese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "9677121130671890990": {
-  "place_id": "ChIJw2lw2zAXaTQRLuIfkmUKTIY",
-  "name": "品有味現炒",
-  "address": "406台灣臺中市北屯區",
-  "rating": 4.7,
-  "userRatingCount": 15,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=9677121130671890990&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1705385,
-   "longitude": 120.69110090000001
-  },
-  "types": [
-   "chinese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "7535333193888756163": {
-  "place_id": "ChIJdQdwO98XaTQRw_HyrZ3hkmg",
-  "name": "佳賓海鮮鵝肉熱炒",
-  "address": "406台灣臺中市北屯區北京里北華街一號",
-  "rating": 4.5,
-  "userRatingCount": 156,
+ "5331405377587097750": {
+  "place_id": "ChIJD6cX-c4XaTQRlrCvpPH0_Ek",
+  "name": "老麻記 江湖第一菜 重慶毛血旺",
+  "address": "406台灣臺中市北屯區平昌里文心路四段842號",
+  "rating": 4.9,
+  "userRatingCount": 251,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=7535333193888756163&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=5331405377587097750&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1624911,
-   "longitude": 120.69337420000001
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "16118693849412990038": {
-  "place_id": "ChIJFWyxYwAXaTQRVvSI0acasd8",
-  "name": "珍饌熱炒食堂",
-  "address": "406台灣臺中市北屯區經貿一路28號",
-  "rating": 5,
-  "userRatingCount": 63,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=16118693849412990038&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1828009,
-   "longitude": 120.6650389
-  },
-  "types": [
-   "chinese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "11424674802332656115": {
-  "place_id": "ChIJpbZgvvcXaTQR8-FkwzOZjJ4",
-  "name": "尚佶平價現炒",
-  "address": "406台灣臺中市北屯區北屯里漢口路五段223號",
-  "rating": 4.5,
-  "userRatingCount": 38,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=11424674802332656115&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1670008,
-   "longitude": 120.6910443
-  },
-  "types": [
-   "restaurant",
-   "snack_bar",
-   "meal_takeaway",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "4578080908111348942": {
-  "place_id": "ChIJX4nGLEoWaTQRzoT5iFSciD8",
-  "name": "豪家快炒店",
-  "address": "406台灣臺中市北屯區陳平里中清路二段712號",
-  "rating": 4.4,
-  "userRatingCount": 89,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=4578080908111348942&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1847092,
-   "longitude": 120.66485119999999
+   "latitude": 24.1712319,
+   "longitude": 120.6914851
   },
   "types": [
    "chinese_restaurant",
@@ -3533,62 +3694,19 @@
   ],
   "area_label": "北屯"
  },
- "18080577052605020540": {
-  "place_id": "ChIJQbCi6i0XaTQRfPmZyggd6_o",
-  "name": "158家常現炒",
-  "address": "406台灣臺中市北屯區平昌里北平路四段68號",
-  "rating": 4.1,
-  "userRatingCount": 19,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=18080577052605020540&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.170367199999998,
-   "longitude": 120.69120679999999
-  },
-  "types": [
-   "chinese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "11868340693561669943": {
-  "place_id": "ChIJLyUdMQAZaTQRN3kOyfrQtKQ",
-  "name": "派樂熱炒",
-  "address": "406台灣臺中市北屯區廍子里太原路三段",
-  "rating": 4.4,
-  "userRatingCount": 152,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=11868340693561669943&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.161236499999998,
-   "longitude": 120.7251832
-  },
-  "types": [
-   "chinese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "1925947346131973538": {
-  "place_id": "ChIJ8QhP3uYXaTQRonVNPuhWuho",
-  "name": "🧧福味香小館➕新韭黃鱔糊🐟",
-  "address": "406台灣臺中市北屯區北屯里興安路一段86號",
+ "7535333193888756163": {
+  "place_id": "ChIJdQdwO98XaTQRw_HyrZ3hkmg",
+  "name": "佳賓海鮮鵝肉熱炒",
+  "address": "406台灣臺中市北屯區北京里北華街一號",
   "rating": 4.5,
-  "userRatingCount": 523,
+  "userRatingCount": 156,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=1925947346131973538&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=7535333193888756163&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1672856,
-   "longitude": 120.69210690000001
+   "latitude": 24.1624911,
+   "longitude": 120.69337420000001
   },
   "types": [
-   "chinese_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -3596,61 +3714,22 @@
   ],
   "area_label": "北屯"
  },
- "5144011304993085763": {
-  "place_id": "ChIJL8hvs3AXaTQRQ9m0GgczY0c",
-  "name": "醬大元風味小炒",
-  "address": "406台灣臺中市北屯區三光里北屯路289-1號",
+ "16897973184544409446": {
+  "place_id": "ChIJNVigze4XaTQRZofYABWpgeo",
+  "name": "泰洋小館(平價泰式料理・台式口味)",
+  "address": "406台灣臺中市北屯區平昌里太原路三段119號",
   "rating": 4.8,
-  "userRatingCount": 56,
+  "userRatingCount": 962,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=5144011304993085763&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=16897973184544409446&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1674383,
-   "longitude": 120.6956025
+   "latitude": 24.1651013,
+   "longitude": 120.6894164
   },
   "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "674332446215496378": {
-  "place_id": "ChIJy3mYztoXaTQRuuIxfcm1Wwk",
-  "name": "梅川園客家現炒",
-  "address": "406台灣臺中市北屯區平和里梅川東路四段113號",
-  "rating": 4,
-  "userRatingCount": 538,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=674332446215496378&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1750688,
-   "longitude": 120.6802842
-  },
-  "types": [
-   "chinese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "16359923510795123106": {
-  "place_id": "ChIJLfzxXIkXaTQRojmBJcEfCuM",
-  "name": "大頭仔海產",
-  "address": "406台灣臺中市北屯區平昌里北平路四段68號",
-  "rating": 4.2,
-  "userRatingCount": 31,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=16359923510795123106&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1703229,
-   "longitude": 120.6911595
-  },
-  "types": [
-   "chinese_restaurant",
+   "thai_restaurant",
+   "snack_bar",
+   "meal_takeaway",
    "restaurant",
    "food",
    "point_of_interest",
@@ -3673,6 +3752,109 @@
   "types": [
    "snack_bar",
    "meal_takeaway",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "1632488489245842361": {
+  "place_id": "ChIJZTR-h_oXaTQRuZtptaHDpxY",
+  "name": "花舞食坊",
+  "address": "406台灣臺中市北屯區平昌里興安路一段127號",
+  "rating": 4.9,
+  "userRatingCount": 43,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=1632488489245842361&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1685093,
+   "longitude": 120.69317140000001
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "16146557218712204656": {
+  "place_id": "ChIJrUgVOqgXaTQRcDXcBj4YFOA",
+  "name": "小林現炒",
+  "address": "406台灣臺中市北屯區松安里遼寧路一段295號",
+  "rating": 4.4,
+  "userRatingCount": 56,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=16146557218712204656&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.181095100000004,
+   "longitude": 120.69632399999999
+  },
+  "types": [
+   "chinese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "13238200712676618552": {
+  "place_id": "ChIJd7lb3bMXaTQROLFpwGiJt7c",
+  "name": "村長食堂",
+  "address": "406台灣臺中市北屯區同榮里松竹路三段836號",
+  "rating": 4,
+  "userRatingCount": 987,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=13238200712676618552&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.194572899999997,
+   "longitude": 120.6711983
+  },
+  "types": [
+   "seafood_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "7161779122969112233": {
+  "place_id": "ChIJ-yaEQXAXaTQRqe5h6CrAY2M",
+  "name": "鹿港 蚵仔煎快炒［昌平夜市］",
+  "address": "406台灣臺中市北屯區平昌里北平路四段74-90號",
+  "rating": 4.3,
+  "userRatingCount": 66,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=7161779122969112233&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.170307599999997,
+   "longitude": 120.6906597
+  },
+  "types": [
+   "chinese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "北屯"
+ },
+ "7081029360813074460": {
+  "place_id": "ChIJwZYKn0oXaTQRHOhfz6_eRGI",
+  "name": "十二月 粥品 • 茶飲 • 私房菜｜台中一德店",
+  "address": "406台灣臺中市北屯區文昌東十一街14巷1號",
+  "rating": 4.1,
+  "userRatingCount": 46,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=7081029360813074460&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.166349999999998,
+   "longitude": 120.69300519999999
+  },
+  "types": [
    "restaurant",
    "food",
    "point_of_interest",
@@ -3725,13 +3907,13 @@
   },
   "types": [
    "restaurant",
-   "brunch_restaurant",
    "snack_bar",
-   "dessert_shop",
+   "brunch_restaurant",
    "market",
-   "meal_takeaway",
+   "dessert_shop",
    "confectionery",
    "food_store",
+   "meal_takeaway",
    "store",
    "food",
    "point_of_interest",
@@ -3753,27 +3935,6 @@
   },
   "types": [
    "chinese_noodle_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "北屯"
- },
- "15319084748578404296": {
-  "place_id": "ChIJO9V4Y6wXaTQRyLceM2pSmNQ",
-  "name": "厝秘 功夫菜 手路湯 崇德店",
-  "address": "406台灣臺中市北屯區松強里崇德八路一段18號",
-  "rating": 4.6,
-  "userRatingCount": 3474,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=15319084748578404296&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1837293,
-   "longitude": 120.68989499999999
-  },
-  "types": [
-   "taiwanese_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -3837,16 +3998,16 @@
   },
   "types": [
    "restaurant",
-   "fast_food_restaurant",
    "bagel_shop",
-   "cafe",
-   "grocery_store",
    "salad_shop",
-   "american_restaurant",
-   "health",
+   "fast_food_restaurant",
+   "cafe",
    "bakery",
+   "grocery_store",
+   "american_restaurant",
    "food_store",
    "store",
+   "health",
    "food",
    "point_of_interest",
    "establishment"
@@ -3910,17 +4071,17 @@
   },
   "types": [
    "coffee_shop",
+   "wedding_venue",
+   "cafe",
+   "event_venue",
    "meal_delivery",
    "food_delivery",
-   "cafe",
-   "wedding_venue",
-   "event_venue",
    "food_store",
    "store",
    "restaurant",
    "food",
-   "service",
    "point_of_interest",
+   "service",
    "establishment"
   ],
   "area_label": "北屯"
