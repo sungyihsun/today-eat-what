@@ -1,0 +1,332 @@
+{
+ "_note": "台中全區補完排程的狀態檔。規則見 .claude/skills/add-restaurant/TAICHUNG_SWEEP.md。",
+ "in_progress": {
+  "district": "南屯",
+  "started_at": "2026-09-29T03:22:41Z"
+ },
+ "done": {
+  "西區": {
+   "count": 20,
+   "note": "勤美一帶，手動完成"
+  },
+  "大雅": {
+   "count": 30,
+   "note": "手動完成"
+  },
+  "西屯": {
+   "count": 30,
+   "note": "手動完成"
+  },
+  "北屯": {
+   "count": 30,
+   "note": "手動完成"
+  }
+ },
+ "skipped": {},
+ "queue": [
+  {
+   "area": "台中東區",
+   "label": "台中東區",
+   "slug": "dongqu",
+   "center": [
+    24.1367,
+    120.7
+   ],
+   "landmarks": [
+    "旱溪夜市 美食",
+    "復興路 美食"
+   ]
+  },
+  {
+   "area": "台中北區",
+   "label": "台中北區",
+   "slug": "beiqu",
+   "center": [
+    24.16,
+    120.68
+   ],
+   "landmarks": [
+    "一中街 美食",
+    "忠明路 美食"
+   ]
+  },
+  {
+   "area": "台中中區",
+   "label": "台中中區",
+   "slug": "zhongqu",
+   "center": [
+    24.1405,
+    120.68
+   ],
+   "landmarks": [
+    "繼光街 美食",
+    "第二市場 美食"
+   ]
+  },
+  {
+   "area": "台中南區",
+   "label": "台中南區",
+   "slug": "nanqu",
+   "center": [
+    24.123,
+    120.664
+   ],
+   "landmarks": [
+    "忠孝夜市 美食",
+    "興大 美食"
+   ]
+  },
+  {
+   "area": "豐原",
+   "label": "豐原",
+   "slug": "fengyuan",
+   "center": [
+    24.252,
+    120.722
+   ],
+   "landmarks": [
+    "廟東夜市 美食",
+    "豐原車站 美食"
+   ]
+  },
+  {
+   "area": "大里",
+   "label": "大里",
+   "slug": "dali",
+   "center": [
+    24.099,
+    120.679
+   ],
+   "landmarks": [
+    "大里夜市 美食",
+    "中興路 美食"
+   ]
+  },
+  {
+   "area": "太平",
+   "label": "太平",
+   "slug": "taiping",
+   "center": [
+    24.126,
+    120.718
+   ],
+   "landmarks": [
+    "太平老街 美食",
+    "太平 中興路 美食"
+   ]
+  },
+  {
+   "area": "潭子",
+   "label": "潭子",
+   "slug": "tanzi",
+   "center": [
+    24.21,
+    120.705
+   ],
+   "landmarks": [
+    "潭子 中山路 美食"
+   ]
+  },
+  {
+   "area": "烏日",
+   "label": "烏日",
+   "slug": "wuri",
+   "center": [
+    24.105,
+    120.623
+   ],
+   "landmarks": [
+    "烏日 高鐵 美食",
+    "烏日 中山路 美食"
+   ]
+  },
+  {
+   "area": "沙鹿",
+   "label": "沙鹿",
+   "slug": "shalu",
+   "center": [
+    24.234,
+    120.585
+   ],
+   "landmarks": [
+    "靜宜大學 美食",
+    "沙鹿 中山路 美食"
+   ]
+  },
+  {
+   "area": "清水",
+   "label": "清水",
+   "slug": "qingshui",
+   "center": [
+    24.268,
+    120.56
+   ],
+   "landmarks": [
+    "清水 中山路 美食",
+    "高美濕地 美食"
+   ]
+  },
+  {
+   "area": "龍井",
+   "label": "龍井",
+   "slug": "longjing",
+   "center": [
+    24.193,
+    120.546
+   ],
+   "landmarks": [
+    "龍井 龍昌路 美食"
+   ]
+  },
+  {
+   "area": "梧棲",
+   "label": "梧棲",
+   "slug": "wuqi",
+   "center": [
+    24.256,
+    120.532
+   ],
+   "landmarks": [
+    "梧棲漁港 海鮮",
+    "梧棲 中正路 美食"
+   ]
+  },
+  {
+   "area": "大甲",
+   "label": "大甲",
+   "slug": "dajia",
+   "center": [
+    24.348,
+    120.625
+   ],
+   "landmarks": [
+    "大甲媽祖 美食",
+    "大甲 中山路 美食"
+   ]
+  },
+  {
+   "area": "霧峰",
+   "label": "霧峰",
+   "slug": "wufeng",
+   "center": [
+    24.061,
+    120.699
+   ],
+   "landmarks": [
+    "霧峰 中正路 美食"
+   ]
+  },
+  {
+   "area": "后里",
+   "label": "后里",
+   "slug": "houli",
+   "center": [
+    24.305,
+    120.712
+   ],
+   "landmarks": [
+    "后里 馬場 美食",
+    "后里 三豐路 美食"
+   ]
+  },
+  {
+   "area": "神岡",
+   "label": "神岡",
+   "slug": "shengang",
+   "center": [
+    24.256,
+    120.662
+   ],
+   "landmarks": [
+    "神岡 中山路 美食"
+   ]
+  },
+  {
+   "area": "大肚",
+   "label": "大肚",
+   "slug": "dadu",
+   "center": [
+    24.153,
+    120.541
+   ],
+   "landmarks": [
+    "大肚 沙田路 美食"
+   ]
+  },
+  {
+   "area": "東勢",
+   "label": "東勢",
+   "slug": "dongshi",
+   "center": [
+    24.258,
+    120.828
+   ],
+   "landmarks": [
+    "東勢 客家 美食",
+    "東勢 林場 美食"
+   ]
+  },
+  {
+   "area": "新社",
+   "label": "新社",
+   "slug": "xinshe",
+   "center": [
+    24.235,
+    120.813
+   ],
+   "landmarks": [
+    "新社 花海 美食",
+    "新社 莊園 餐廳"
+   ]
+  },
+  {
+   "area": "外埔",
+   "label": "外埔",
+   "slug": "waipu",
+   "center": [
+    24.333,
+    120.658
+   ],
+   "landmarks": [
+    "外埔 美食"
+   ]
+  },
+  {
+   "area": "石岡",
+   "label": "石岡",
+   "slug": "shigang",
+   "center": [
+    24.276,
+    120.777
+   ],
+   "landmarks": [
+    "石岡 水壩 美食"
+   ]
+  },
+  {
+   "area": "大安",
+   "label": "大安",
+   "slug": "daan",
+   "center": [
+    24.348,
+    120.587
+   ],
+   "landmarks": [
+    "大安 海水浴場 美食"
+   ]
+  },
+  {
+   "area": "和平",
+   "label": "和平",
+   "slug": "heping",
+   "center": [
+    24.148,
+    120.862
+   ],
+   "landmarks": [
+    "谷關 美食",
+    "梨山 美食"
+   ]
+  }
+ ]
+}

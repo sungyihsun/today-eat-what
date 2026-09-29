@@ -46,6 +46,28 @@ AREA_KEYWORDS = {
     "南屯": ["台中市南屯區", "台中巿南屯區", "臺中市南屯區", "臺中巿南屯區"],
 }
 
+# Taichung districts: the address rule is derived from the label so a new
+# district needs no edit here. Google's zh-TW addresses use the formal "臺"
+# (臺中市) while this project writes "台", so all four spellings are accepted.
+# Bare-direction districts use a "台中" prefix in the label (台中東區) because
+# 東區/北區/南區/中區 also exist in other cities.
+TC_DISTRICTS = {
+    "南屯", "西屯", "北屯", "大雅", "西區", "台中東區", "台中北區", "台中中區", "台中南區",
+    "豐原", "大里", "太平", "潭子", "烏日", "沙鹿", "清水", "龍井", "梧棲", "大甲", "霧峰",
+    "后里", "神岡", "大肚", "東勢", "新社", "外埔", "石岡", "大安", "和平",
+}
+
+
+def area_keywords(label):
+    if label in AREA_KEYWORDS:
+        return AREA_KEYWORDS[label]
+    if label in TC_DISTRICTS:
+        name = label[2:] if label.startswith("台中") else label
+        if not name.endswith("區"):
+            name += "區"
+        return [f"{c}{name}" for c in ("台中市", "台中巿", "臺中市", "臺中巿")]
+    return None
+
 KEY = os.environ.get("GOOGLE_PLACES_API_KEY", "").strip()
 if not KEY and SB != "<YOUR_SCRATCHPAD_DIR>":
     with open(KEY_PATH, encoding="utf-8") as key_file:
@@ -144,7 +166,7 @@ for name in wanted:
         missing.append(name)
         continue
     area_label = rec['area_label']
-    keywords = AREA_KEYWORDS.get(area_label)
+    keywords = area_keywords(area_label)
     address = d.get('formattedAddress', '')
     if keywords and not any(k in address for k in keywords):
         raise SystemExit(
