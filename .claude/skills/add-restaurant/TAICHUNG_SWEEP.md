@@ -101,9 +101,17 @@ commit（連同凍結檔）+ push DEV → 觸發 `fetch-restaurant-details.yml`�
   推 QAS 會觸發 `sync-supabase-restaurants.yml`。用 GitHub MCP（owner `sungyihsun`、repo `today-eat-what`）確認該 workflow
   對應 commit 的 run `conclusion: success`。失敗就讀 job log 處理；處理不了就在 progress 記 `failed` 與原因後結束。
   **沒有 GitHub MCP 就無法確認同步**：照常繼續，但在 `done` 紀錄加 `"sync_verified": false`，回報時明說「QAS 已推、Supabase 同步待人工確認」。
-  （之後有 MCP 的互動 session 會補查；使用者說「上PRD」之前一定會先核對所有 QAS commit 的 sync run。）
-- **絕對不要推 PRD。** 排程只到 QAS；PRD 由使用者看過後說「上PRD」再一次推上去。
-
+  （不影響 PRD：自動上 PRD 由 workflow 依「同步成功」判斷，不靠你。）
+- **上 PRD 由 workflow 自動做，你自己不要推 PRD**（不要 `git push origin PRD`、不要動 PRD 分支）。
+  `sync-supabase-restaurants.yml` 的 `promote-prd` job 會在 **Supabase 同步成功之後**，把剛同步的那個 QAS commit
+  fast-forward 到 PRD，條件是：範圍內至少有一個 commit 訊息含 `[auto-prd]`，而且這段變更只碰資料相關檔案
+  （`index.html`、`supabase/restaurants-import.csv`、`candidate-results/`、`.claude/skills/add-restaurant/`）。
+  所以：**該區的資料 commit 訊息第一行結尾要加 ` [auto-prd]`**（例：`新增台中市東區 30 家餐廳 [auto-prd]`）。
+  不含標記的 QAS 推送不會自動上 PRD。
+- 推 QAS 後等幾分鐘（背景 `sleep`），用 git 確認有沒有上 PRD：
+  `git fetch origin PRD && git merge-base --is-ancestor <你推到 QAS 的 commit> origin/PRD && echo 已上PRD`。
+  沒上就是 workflow 拒絕或同步失敗（同步失敗代表 PRD 也不會動，這是刻意的）；在 `done` 紀錄設 `"prd_promoted": false` 並在回報中說明，
+  不要自己補推。
 ## 每次觸發做幾區
 
 一次觸發最多連續做 **3 區**：一區完整結束（QAS 已推、`in_progress` 已清成 null、progress 已更新）之後，才接下一區。
@@ -118,13 +126,15 @@ commit（連同凍結檔）+ push DEV → 觸發 `fetch-restaurant-details.yml`�
 
 ## 6. 全部做完時
 
-`queue` 為空：回報「台中全區完成，QAS 待使用者上 PRD」。並停用排程：用 `mcp__Claude_Code_Remote__list_triggers` 找名稱為
+`queue` 為空：回報「台中全區完成」（並說明有幾區 `prd_promoted` 不是 true）。並停用排程：用 `mcp__Claude_Code_Remote__list_triggers` 找名稱為
 「台中餐廳補完」的 routine，`update_trigger` 設 `enabled:false`（找不到或沒有權限就只回報）。
 
 ## 已知地雷（都真的踩過）
 
 - 地址是「臺中市」不是「台中市」——`area_keywords()` 已處理，別自己寫 `"台中市"` 比對。
 - 搜尋結果不穩定 → 一律用凍結檔；不要在 fetch 前重新搜尋。
+- 自動上 PRD 會帶著「QAS 上到該 commit 為止的所有內容」一起上，所以排程執行期間，不要把沒經使用者核准的功能改動放在 QAS
+  （資料檔以外的變更 workflow 會擋下並報錯，但 `index.html` 內的功能改動擋不住）。
 - `embeddedRestaurants` 只是 DEV/離線 fallback，QAS/PRD 讀 Supabase ← CSV。`build_district.py` 兩邊都寫；不要手動只改一邊。
 - `git push` 被拒（fetch first）是因為 bot 會自己推 `candidate-results/*`：`git pull --rebase origin DEV` 再推。
 - `mcp__github__actions_run_trigger` 的 `run_workflow` 會 403，靠 push 觸發 workflow，不要試 dispatch。

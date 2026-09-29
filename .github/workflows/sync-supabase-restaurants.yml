@@ -24,3 +24,41 @@ jobs:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
         run: node scripts/import-restaurants.mjs
+
+  # Auto-promote to PRD, but only after the sync above succeeded, only for
+  # commits that opted in with "[auto-prd]" in their message (the scheduled
+  # Taichung sweep does this), and only when nothing outside the restaurant
+  # data files changed — so a half-approved feature parked on QAS can never
+  # ride along. Fast-forward only, to the exact commit that was just synced.
+  promote-prd:
+    needs: import
+    if: github.event_name == 'push'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    concurrency:
+      group: promote-prd
+      cancel-in-progress: false
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Promote this QAS commit to PRD
+        run: |
+          git fetch origin PRD
+          if git merge-base --is-ancestor "$GITHUB_SHA" origin/PRD; then
+            echo "already on PRD"; exit 0
+          fi
+          if ! git merge-base --is-ancestor origin/PRD "$GITHUB_SHA"; then
+            echo "::error::PRD is not an ancestor of this QAS commit — refusing (fast-forward only)"; exit 1
+          fi
+          if ! git log --format=%B origin/PRD.."$GITHUB_SHA" | grep -qF '[auto-prd]'; then
+            echo "no [auto-prd] marker in the commits being promoted — leaving PRD for manual promotion"; exit 0
+          fi
+          bad=$(git diff --name-only origin/PRD "$GITHUB_SHA" \
+            | grep -vE '^(index\.html|supabase/restaurants-import\.csv|candidate-results/|\.claude/skills/add-restaurant/|\.github/workflows/[a-z-]*restaurant[a-z-]*\.yml)' || true)
+          if [ -n "$bad" ]; then
+            echo "::error::files outside the restaurant-data allowlist changed — refusing to auto-promote:"; echo "$bad"; exit 1
+          fi
+          git push origin "$GITHUB_SHA:refs/heads/PRD"
+          echo "promoted $GITHUB_SHA to PRD"
