@@ -19,18 +19,14 @@ jobs:
         with:
           ref: DEV
 
-      - name: Search Google Places candidates
-        env:
-          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
-          ADD_RESTAURANT_CANDIDATES_PATH: ${{ runner.temp }}/candidates.json
-        run: |
-          test -n "$GOOGLE_PLACES_API_KEY"
-          python3 .claude/skills/add-restaurant/scripts/search_candidates.py
-
+      # No re-search here on purpose: Google's Text Search result set varies
+      # between calls, so re-running it made 6 of the 30 hand-picked 北屯
+      # places drop out. The picks are resolved against the exact candidate
+      # file they were chosen from (frozen from the search-only run).
       - name: Select and fetch 30 北屯 restaurants
         env:
           GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
-          ADD_RESTAURANT_CANDIDATES_PATH: ${{ runner.temp }}/candidates.json
+          ADD_RESTAURANT_CANDIDATES_PATH: candidate-results/search-beitun.json
           ADD_RESTAURANT_FINAL_LIST_PATH: ${{ runner.temp }}/final_list.json
           ADD_RESTAURANT_DETAILS_PATH: ${{ runner.temp }}/details.json
         run: |
@@ -63,24 +59,21 @@ jobs:
           print(json.dumps(selected, ensure_ascii=False))
           PY
           python3 .claude/skills/add-restaurant/scripts/fetch_details.py
+          python3 - <<'PY'
+          import json
+          want = sum(len(v) for v in json.load(open("${{ runner.temp }}/final_list.json", encoding="utf-8")).values())
+          got = len(json.load(open("${{ runner.temp }}/details.json", encoding="utf-8")))
+          assert got == want, f"only {got} of {want} picks resolved — check the 'missing:' line above"
+          print(f"all {got} picks resolved")
+          PY
 
-      - name: Upload candidate list
-        uses: actions/upload-artifact@v4
-        with:
-          name: restaurant-candidates-${{ github.run_number }}
-          path: ${{ runner.temp }}/candidates.json
-          if-no-files-found: error
-          retention-days: 3
-
-      - name: Publish candidate list to DEV
+      - name: Publish details to DEV
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           mkdir -p candidate-results
-          cp "${{ runner.temp }}/candidates.json" candidate-results/latest.json
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add candidate-results/latest.json
           cp "${{ runner.temp }}/final_list.json" candidate-results/final-list.json
           cp "${{ runner.temp }}/details.json" candidate-results/details.json
           git add candidate-results/final-list.json candidate-results/details.json
