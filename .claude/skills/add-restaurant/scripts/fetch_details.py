@@ -41,6 +41,7 @@ AREA_KEYWORDS = {
     # District-level (not just city-level) so "大雅" doesn't match some
     # other city's same-named road/place.
     "大雅": ["台中市大雅區", "台中巿大雅區", "臺中市大雅區", "臺中巿大雅區"],
+    "西屯": ["台中市西屯區", "台中巿西屯區", "臺中市西屯區", "臺中巿西屯區"],
 }
 
 KEY = os.environ.get("GOOGLE_PLACES_API_KEY", "").strip()

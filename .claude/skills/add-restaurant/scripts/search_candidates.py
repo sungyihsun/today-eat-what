@@ -24,15 +24,15 @@ MIN_REVIEWS = 15
 
 # EDIT: area label -> (lat, lng) center for locationBias
 AREAS = {
-    "大雅": (24.2231, 120.6459),
+    "西屯": (24.1802, 120.6470),
 }
 
 # EDIT: area label -> list of query strings to try for that area
 QUERIES = {
-    "大雅": [
-        "大雅 餐廳", "大雅 小吃", "大雅 早午餐", "大雅 日式料理", "大雅 義式料理",
-        "大雅 燒烤", "大雅 火鍋", "大雅 甜點", "大雅 咖啡廳", "大雅 韓式料理",
-        "大雅 熱炒", "大雅老街 美食",
+    "西屯": [
+        "西屯 餐廳", "逢甲夜市 美食", "逢甲 餐廳", "西屯 早午餐", "西屯 日式料理",
+        "西屯 義式料理", "西屯 燒烤", "西屯 火鍋", "西屯 甜點", "西屯 咖啡廳",
+        "西屯 韓式料理", "西屯 熱炒",
     ],
 }
 
@@ -61,6 +61,7 @@ AREA_KEYWORDS = {
     # city+district together so "大雅" doesn't match some other city's
     # same-named road/place.
     "大雅": ["台中市大雅區", "台中巿大雅區", "臺中市大雅區", "臺中巿大雅區"],
+    "西屯": ["台中市西屯區", "台中巿西屯區", "臺中市西屯區", "臺中巿西屯區"],
 }
 
 KEY = os.environ.get("GOOGLE_PLACES_API_KEY", "").strip()
