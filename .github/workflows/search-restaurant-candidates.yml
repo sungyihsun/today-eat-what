@@ -27,6 +27,43 @@ jobs:
           test -n "$GOOGLE_PLACES_API_KEY"
           python3 .claude/skills/add-restaurant/scripts/search_candidates.py
 
+      - name: Select and fetch 30 北屯 restaurants
+        env:
+          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+          ADD_RESTAURANT_CANDIDATES_PATH: ${{ runner.temp }}/candidates.json
+          ADD_RESTAURANT_FINAL_LIST_PATH: ${{ runner.temp }}/final_list.json
+          ADD_RESTAURANT_DETAILS_PATH: ${{ runner.temp }}/details.json
+        run: |
+          python3 - <<'PY'
+          import json
+          # Hand-picked from the 179 real 北屯 candidates for category variety
+          # (yakiniku, hotpot, Japanese sushi/tonkatsu/donburi, Italian,
+          # brunch, Taiwanese/Cantonese, 熱炒, izakaya, dessert, coffee,
+          # Korean hotpot, American steakhouse) rather than just top-by-rating.
+          selected = {
+              "北屯": [
+                  "肉次方 燒肉放題 台中文心崇德店", "温和苑燒肉-北屯文心店", "燒肉Smile 臺中景賢店", "一本釣 職人燒肉",
+                  "燒瓶子。大肆の鍋 台中北屯店", "十二段鍋物堂| 東山店", "養鍋Yang Guo石頭涮涮鍋 文心店", "拾川石鍋-東山店",
+                  "鮨御手作壽司", "「胖姆丼丼」日式料理製研所（台中北平店）", "雲日 食事処", "魚和米壽司 北屯店",
+                  "les aqua 水相餐聚苑", "NU PASTA 台中建和旗艦店", "Miro Pasta米羅義式廚房",
+                  "歐浮找餐-台中［北平店］", "seasoning 四季走走｜永續咖啡 · 輕食早午餐 · 藝術空間 · 親子友善",
+                  "暖日 Warmth Day！吉卜力宮崎駿、台中龍貓餐廳、親子餐廳、北屯美食、早餐、早午餐、下午茶、寵物友善餐廳",
+                  "艾初早餐 北屯太原店",
+                  "丰禾 台味風格料理 文心崇德店", "品嘉茶餐廳 北屯店",
+                  "珍饌熱炒食堂",
+                  "灸居串燒居酒屋—北屯店 （最後點餐00:00）寵物友善餐廳｜北屯燒烤推薦｜燒肉餐酒館｜慶生約會聚餐餐廳｜台中宵夜｜炙居串燒",
+                  "木木苑串焼専門の店",
+                  "七個小日子｜戚風蛋糕專賣店", "creammm.t 北屯店",
+                  "青燕焙煎所AOIWA Coffee - 賣牛肉麵的咖啡館", "紅魚咖啡烘豆室 Red Fish Coffee",
+                  "联亭泡菜鍋-北屯店",
+                  "TGI FRIDAYS 崇德餐廳",
+              ]
+          }
+          json.dump(selected, open("${{ runner.temp }}/final_list.json", "w"), ensure_ascii=False, indent=2)
+          print(json.dumps(selected, ensure_ascii=False))
+          PY
+          python3 .claude/skills/add-restaurant/scripts/fetch_details.py
+
       - name: Upload candidate list
         uses: actions/upload-artifact@v4
         with:
@@ -44,6 +81,9 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add candidate-results/latest.json
+          cp "${{ runner.temp }}/final_list.json" candidate-results/final-list.json
+          cp "${{ runner.temp }}/details.json" candidate-results/details.json
+          git add candidate-results/final-list.json candidate-results/details.json
           git diff --cached --quiet && exit 0
           git commit -m "Publish restaurant search candidates"
           git push
