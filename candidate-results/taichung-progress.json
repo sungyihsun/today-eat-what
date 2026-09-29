@@ -1,9 +1,6 @@
 {
  "_note": "台中全區補完排程的狀態檔。規則見 .claude/skills/add-restaurant/TAICHUNG_SWEEP.md。",
- "in_progress": {
-  "district": "南屯",
-  "started_at": "2026-09-29T03:22:41Z"
- },
+ "in_progress": null,
  "done": {
   "西區": {
    "count": 20,
@@ -20,6 +17,10 @@
   "北屯": {
    "count": 30,
    "note": "手動完成"
+  },
+  "南屯": {
+   "count": 30,
+   "note": "手動完成（同時驗證 build_district.py 流程）"
   }
  },
  "skipped": {},
