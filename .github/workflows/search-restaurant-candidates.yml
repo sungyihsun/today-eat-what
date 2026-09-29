@@ -27,45 +27,6 @@ jobs:
           test -n "$GOOGLE_PLACES_API_KEY"
           python3 .claude/skills/add-restaurant/scripts/search_candidates.py
 
-      - name: Select and fetch 30 西屯 restaurants
-        env:
-          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
-          ADD_RESTAURANT_CANDIDATES_PATH: ${{ runner.temp }}/candidates.json
-          ADD_RESTAURANT_FINAL_LIST_PATH: ${{ runner.temp }}/final_list.json
-          ADD_RESTAURANT_DETAILS_PATH: ${{ runner.temp }}/details.json
-        run: |
-          python3 - <<'PY'
-          import json
-          # Hand-picked from the 190 real 西屯（逢甲夜市）candidates for
-          # category variety (yakiniku, hotpot, Japanese sushi/curry/tonkatsu,
-          # izakaya, Italian, Korean, Thai, Taiwanese, brunch, dessert,
-          # coffee) rather than just top-by-rating.
-          selected = {
-              "西屯": [
-                  "屋馬燒肉 中港店", "森森燒肉 台中中科店", "石頭日式炭火燒肉", "HOME燒肉-逢甲店",
-                  "萬客什鍋 青海店", "老豆府", "十二段鍋物堂｜逢甲店", "暇嗑石鍋-西屯店",
-                  "嵐山熟成牛かつ專売-西屯青海店", "泰壽司", "Mr.38 咖哩美食餐廳（逢甲店）",
-                  "京厚屋-逢甲店 | 日式豬排 | 咖哩 | 壽喜燒 | 自助吧 | 霜淇淋",
-                  "柒息地串燒居酒屋逢甲店", "知戶酒食",
-                  "菲菲花園義式餐廳", "今鶴義式料理Jinher - 逢甲店｜生日慶生｜早午餐｜逢甲美食｜寵物友善",
-                  "Infiore義之花義式餐廳",
-                  "金韓食", "首爾韓鍋 GANGNAM Korean Restaurant 서울 강남닭갈비 맛집 (最後收客 20:30)",
-                  "可莉達Kelimda韓式料理餐廳",
-                  "泰居吧-西屯泰式料理|人氣泰式|道地泰式|泰式餐廳|人氣餐廳|平價泰式料理|泰式餐廳推薦|在地推薦美食",
-                  "泰辛火山排骨-逢甲夜市店 泰國/馬來西亞美食 ThaiSin Thai&Malaysia Restaurant(+Toilet)",
-                  "彭記鵝肉大王-西屯必吃鵝肉|特色小吃|街邊美食|平價小吃|台灣小吃|在地推薦美食",
-                  "厝秘 功夫菜 手路湯 甘肅店",
-                  "逢甲貳食早午餐", "PON HOME 澎烘（沖繩飯糰、韓式厚吐司、美式漢堡專販所）",
-                  "Peaceful Tiramisu平安提拉米蘇（逢甲總店）",
-                  "2度C NiGuo 逢甲店-西屯人氣甜點|甜點推薦|手作甜點|特色蛋糕|必吃甜點|手工甜點|熱門甜品|甜品專賣店|必吃甜品",
-                  "Frini Café", "湮云咖啡 LostCloud Cafe 精品咖啡",
-              ]
-          }
-          json.dump(selected, open("${{ runner.temp }}/final_list.json", "w"), ensure_ascii=False, indent=2)
-          print(json.dumps(selected, ensure_ascii=False))
-          PY
-          python3 .claude/skills/add-restaurant/scripts/fetch_details.py
-
       - name: Upload candidate list
         uses: actions/upload-artifact@v4
         with:
@@ -83,9 +44,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add candidate-results/latest.json
-          cp "${{ runner.temp }}/final_list.json" candidate-results/final-list.json
-          cp "${{ runner.temp }}/details.json" candidate-results/details.json
-          git add candidate-results/final-list.json candidate-results/details.json
           git diff --cached --quiet && exit 0
           git commit -m "Publish restaurant search candidates"
           git push

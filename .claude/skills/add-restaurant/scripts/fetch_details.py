@@ -42,6 +42,7 @@ AREA_KEYWORDS = {
     # other city's same-named road/place.
     "大雅": ["台中市大雅區", "台中巿大雅區", "臺中市大雅區", "臺中巿大雅區"],
     "西屯": ["台中市西屯區", "台中巿西屯區", "臺中市西屯區", "臺中巿西屯區"],
+    "北屯": ["台中市北屯區", "台中巿北屯區", "臺中市北屯區", "臺中巿北屯區"],
 }
 
 KEY = os.environ.get("GOOGLE_PLACES_API_KEY", "").strip()
