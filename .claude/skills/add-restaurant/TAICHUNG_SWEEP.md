@@ -1,6 +1,6 @@
 # 台中全區補完（排程 runbook）
 
-排程每次觸發，**只做一個行政區**，做完就結束。你是全新的 session，沒有先前對話的記憶——
+排程每次觸發**最多連續做 3 個行政區**（見〈每次觸發做幾區〉），每區都是完整做完才接下一區。你是全新的 session，沒有先前對話的記憶——
 這份文件加上 `SKILL.md` 就是全部的背景。先讀 `SKILL.md`（尤其是 Supabase CSV 那一節），再照這份做。
 
 ## 0. 開工前檢查（任何一項不符就停下來，不要硬做）
@@ -12,8 +12,8 @@ git status --short        # 必須乾淨
 cat candidate-results/taichung-progress.json
 ```
 
-- `in_progress` 不為 null 且 `started_at` 距今 < 3 小時 → 上一輪還在跑，**直接結束**（回報「上一輪進行中」）。
-- `in_progress` 不為 null 且超過 3 小時 → 上一輪中斷了。檢查它做到哪（`picks.json`、`details.json`、CSV 是否已有該區資料、
+- `in_progress` 不為 null 且 `started_at` 距今 < 75 分鐘 → 上一輪還在跑，**直接結束**（回報「上一輪進行中」）。
+- `in_progress` 不為 null 且超過 75 分鐘 → 上一輪中斷了。檢查它做到哪（`picks.json`、`details.json`、CSV 是否已有該區資料、
   DEV/QAS 是否已推），從斷點接續，不要重來，也不要重複加同一區。
 - `queue` 是空的 → 全部做完了，見 §6。
 
@@ -24,6 +24,9 @@ cat candidate-results/taichung-progress.json
 
 `queue` 每項欄位：`area`（存進每筆餐廳 `area` 欄位的值）、`label`（chip 文字與搜尋標籤）、`slug`（檔名用 ascii）、
 `center`（[lat,lng]，locationBias 中心）、`landmarks`（額外搜尋關鍵字）。
+`queue` 已經依人口過濾過：人口低於全市 `min_population_pct`（預設 1%）的區已移到 `skipped`（`reason: "population"`），
+不要再做、也不要自己加回 queue。每項的 `population_approx` 只是約略值，僅供參考。
+
 `東/北/中/南區` 這類只有方位的區名，`area` 與 `label` 都加「台中」前綴（`台中東區`），因為新竹市等別的城市也有同名區。
 
 ## 2. 搜尋（只搜尋，不挑選）
@@ -101,11 +104,17 @@ commit（連同凍結檔）+ push DEV → 觸發 `fetch-restaurant-details.yml`�
   （之後有 MCP 的互動 session 會補查；使用者說「上PRD」之前一定會先核對所有 QAS commit 的 sync run。）
 - **絕對不要推 PRD。** 排程只到 QAS；PRD 由使用者看過後說「上PRD」再一次推上去。
 
+## 每次觸發做幾區
+
+一次觸發最多連續做 **3 區**：一區完整結束（QAS 已推、`in_progress` 已清成 null、progress 已更新）之後，才接下一區。
+每區開始前先檢查——本次 session 已經跑超過 **45 分鐘**、或已做滿 3 區——是就直接結束。（排程每小時觸發一次，
+所以不要讓一次 session 拖過約 70 分鐘，否則下一次觸發只會看到「上一輪進行中」而白白結束。）
+
 ## 5. 收尾
 
 更新 `candidate-results/taichung-progress.json`：把該區從 `queue` 移到 `done`
 （`{"area", "count", "qas_commit", "finished_at"}`），`in_progress` 設回 `null`；commit + push DEV，再把 DEV fast-forward 到 QAS
-（讓 QAS 也有最新 progress 檔；這個檔在 `candidate-results/`，不影響網站）。然後結束，回報一句話：這區加了幾家、QAS 已同步。
+（讓 QAS 也有最新 progress 檔；這個檔在 `candidate-results/`，不影響網站）。然後依〈每次觸發做幾區〉決定接續下一區或結束。結束時回報：每一區一行（加了幾家、QAS 是否已同步，或為何略過）。
 
 ## 6. 全部做完時
 

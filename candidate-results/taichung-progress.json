@@ -23,7 +23,33 @@
    "note": "手動完成（同時驗證 build_district.py 流程）"
   }
  },
- "skipped": {},
+ "skipped": {
+  "台中中區": {
+   "reason": "population",
+   "population_approx": 18000,
+   "pct_of_city": 0.63
+  },
+  "新社": {
+   "reason": "population",
+   "population_approx": 24000,
+   "pct_of_city": 0.84
+  },
+  "石岡": {
+   "reason": "population",
+   "population_approx": 13000,
+   "pct_of_city": 0.46
+  },
+  "大安": {
+   "reason": "population",
+   "population_approx": 19000,
+   "pct_of_city": 0.67
+  },
+  "和平": {
+   "reason": "population",
+   "population_approx": 11000,
+   "pct_of_city": 0.39
+  }
+ },
  "queue": [
   {
    "area": "台中東區",
@@ -36,7 +62,8 @@
    "landmarks": [
     "旱溪夜市 美食",
     "復興路 美食"
-   ]
+   ],
+   "population_approx": 74000
   },
   {
    "area": "台中北區",
@@ -49,20 +76,8 @@
    "landmarks": [
     "一中街 美食",
     "忠明路 美食"
-   ]
-  },
-  {
-   "area": "台中中區",
-   "label": "台中中區",
-   "slug": "zhongqu",
-   "center": [
-    24.1405,
-    120.68
    ],
-   "landmarks": [
-    "繼光街 美食",
-    "第二市場 美食"
-   ]
+   "population_approx": 142000
   },
   {
    "area": "台中南區",
@@ -75,7 +90,8 @@
    "landmarks": [
     "忠孝夜市 美食",
     "興大 美食"
-   ]
+   ],
+   "population_approx": 124000
   },
   {
    "area": "豐原",
@@ -88,7 +104,8 @@
    "landmarks": [
     "廟東夜市 美食",
     "豐原車站 美食"
-   ]
+   ],
+   "population_approx": 166000
   },
   {
    "area": "大里",
@@ -101,7 +118,8 @@
    "landmarks": [
     "大里夜市 美食",
     "中興路 美食"
-   ]
+   ],
+   "population_approx": 215000
   },
   {
    "area": "太平",
@@ -114,7 +132,8 @@
    "landmarks": [
     "太平老街 美食",
     "太平 中興路 美食"
-   ]
+   ],
+   "population_approx": 195000
   },
   {
    "area": "潭子",
@@ -126,7 +145,8 @@
    ],
    "landmarks": [
     "潭子 中山路 美食"
-   ]
+   ],
+   "population_approx": 107000
   },
   {
    "area": "烏日",
@@ -139,7 +159,8 @@
    "landmarks": [
     "烏日 高鐵 美食",
     "烏日 中山路 美食"
-   ]
+   ],
+   "population_approx": 75000
   },
   {
    "area": "沙鹿",
@@ -152,7 +173,8 @@
    "landmarks": [
     "靜宜大學 美食",
     "沙鹿 中山路 美食"
-   ]
+   ],
+   "population_approx": 92000
   },
   {
    "area": "清水",
@@ -165,7 +187,8 @@
    "landmarks": [
     "清水 中山路 美食",
     "高美濕地 美食"
-   ]
+   ],
+   "population_approx": 86000
   },
   {
    "area": "龍井",
@@ -177,7 +200,8 @@
    ],
    "landmarks": [
     "龍井 龍昌路 美食"
-   ]
+   ],
+   "population_approx": 76000
   },
   {
    "area": "梧棲",
@@ -190,7 +214,8 @@
    "landmarks": [
     "梧棲漁港 海鮮",
     "梧棲 中正路 美食"
-   ]
+   ],
+   "population_approx": 59000
   },
   {
    "area": "大甲",
@@ -203,7 +228,8 @@
    "landmarks": [
     "大甲媽祖 美食",
     "大甲 中山路 美食"
-   ]
+   ],
+   "population_approx": 74000
   },
   {
    "area": "霧峰",
@@ -215,7 +241,8 @@
    ],
    "landmarks": [
     "霧峰 中正路 美食"
-   ]
+   ],
+   "population_approx": 64000
   },
   {
    "area": "后里",
@@ -228,7 +255,8 @@
    "landmarks": [
     "后里 馬場 美食",
     "后里 三豐路 美食"
-   ]
+   ],
+   "population_approx": 56000
   },
   {
    "area": "神岡",
@@ -240,7 +268,8 @@
    ],
    "landmarks": [
     "神岡 中山路 美食"
-   ]
+   ],
+   "population_approx": 65000
   },
   {
    "area": "大肚",
@@ -252,7 +281,8 @@
    ],
    "landmarks": [
     "大肚 沙田路 美食"
-   ]
+   ],
+   "population_approx": 58000
   },
   {
    "area": "東勢",
@@ -265,20 +295,8 @@
    "landmarks": [
     "東勢 客家 美食",
     "東勢 林場 美食"
-   ]
-  },
-  {
-   "area": "新社",
-   "label": "新社",
-   "slug": "xinshe",
-   "center": [
-    24.235,
-    120.813
    ],
-   "landmarks": [
-    "新社 花海 美食",
-    "新社 莊園 餐廳"
-   ]
+   "population_approx": 48000
   },
   {
    "area": "外埔",
@@ -290,44 +308,11 @@
    ],
    "landmarks": [
     "外埔 美食"
-   ]
-  },
-  {
-   "area": "石岡",
-   "label": "石岡",
-   "slug": "shigang",
-   "center": [
-    24.276,
-    120.777
    ],
-   "landmarks": [
-    "石岡 水壩 美食"
-   ]
-  },
-  {
-   "area": "大安",
-   "label": "大安",
-   "slug": "daan",
-   "center": [
-    24.348,
-    120.587
-   ],
-   "landmarks": [
-    "大安 海水浴場 美食"
-   ]
-  },
-  {
-   "area": "和平",
-   "label": "和平",
-   "slug": "heping",
-   "center": [
-    24.148,
-    120.862
-   ],
-   "landmarks": [
-    "谷關 美食",
-    "梨山 美食"
-   ]
+   "population_approx": 31000
   }
- ]
+ ],
+ "min_population_pct": 1.0,
+ "total_population_approx": 2850000,
+ "_population_note": "人口為約略值（2024 年量級），僅用來套 min_population_pct 門檻；低於門檻的區已移到 skipped。要改門檻請重新整理 queue。"
 }
