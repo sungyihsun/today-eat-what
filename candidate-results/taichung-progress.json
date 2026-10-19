@@ -1,8 +1,8 @@
 {
  "_note": "台中全區補完排程的狀態檔。規則見 .claude/skills/add-restaurant/TAICHUNG_SWEEP.md。",
  "in_progress": {
-  "district": "清水",
-  "started_at": "2026-10-19T08:18:19Z"
+  "district": "龍井",
+  "started_at": "2026-10-19T08:21:48Z"
  },
  "done": {
   "西區": {
@@ -96,6 +96,14 @@
    "finished_at": "2026-10-19T08:07:53Z",
    "sync_verified": true,
    "prd_promoted": true
+  },
+  "清水": {
+   "area": "清水",
+   "count": 30,
+   "qas_commit": "1f1852cf1ce62a2633b0ed29cc112f68c935e2b2",
+   "finished_at": "2026-10-19T08:21:48Z",
+   "sync_verified": true,
+   "prd_promoted": true
   }
  },
  "skipped": {
@@ -126,20 +134,6 @@
   }
  },
  "queue": [
-  {
-   "area": "清水",
-   "label": "清水",
-   "slug": "qingshui",
-   "center": [
-    24.268,
-    120.56
-   ],
-   "landmarks": [
-    "清水 中山路 美食",
-    "高美濕地 美食"
-   ],
-   "population_approx": 86000
-  },
   {
    "area": "龍井",
    "label": "龍井",
