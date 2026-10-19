@@ -1,8 +1,8 @@
 {
  "_note": "台中全區補完排程的狀態檔。規則見 .claude/skills/add-restaurant/TAICHUNG_SWEEP.md。",
  "in_progress": {
-  "district": "烏日",
-  "started_at": "2026-10-19T08:01:00Z"
+  "district": "沙鹿",
+  "started_at": "2026-10-19T08:04:28Z"
  },
  "done": {
   "西區": {
@@ -80,6 +80,14 @@
    "finished_at": "2026-10-19T08:01:00Z",
    "sync_verified": true,
    "prd_promoted": true
+  },
+  "烏日": {
+   "area": "烏日",
+   "count": 30,
+   "qas_commit": "3c729a442988e9f1e5e2cce7d11534d9ba43d479",
+   "finished_at": "2026-10-19T08:04:28Z",
+   "sync_verified": true,
+   "prd_promoted": true
   }
  },
  "skipped": {
@@ -110,20 +118,6 @@
   }
  },
  "queue": [
-  {
-   "area": "烏日",
-   "label": "烏日",
-   "slug": "wuri",
-   "center": [
-    24.105,
-    120.623
-   ],
-   "landmarks": [
-    "烏日 高鐵 美食",
-    "烏日 中山路 美食"
-   ],
-   "population_approx": 75000
-  },
   {
    "area": "沙鹿",
    "label": "沙鹿",
