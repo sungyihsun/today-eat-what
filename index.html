@@ -386,6 +386,19 @@
     font-size:13.5px; font-weight:600; flex:0 0 auto; transition:background .2s ease;
   }
   .trip-toggle-btn svg{ flex:0 0 auto; }
+  .routes-modal{ position:fixed; inset:0; z-index:900; background:rgba(22,20,15,.55); display:flex; align-items:flex-end; justify-content:center; }
+  .routes-sheet{ background:var(--paper,#faf6ec); width:min(680px,100%); max-height:88vh; border-radius:18px 18px 0 0; display:flex; flex-direction:column; }
+  .routes-head{ display:flex; justify-content:space-between; align-items:center; padding:14px 18px; border-bottom:1px solid rgba(22,20,15,.12); font-size:16px; }
+  .routes-head button{ border:0; background:none; font-size:18px; cursor:pointer; color:#201d16; }
+  .routes-body{ overflow-y:auto; padding:12px 16px 24px; display:flex; flex-direction:column; gap:12px; }
+  .route-card{ background:#fff; border:1px solid rgba(22,20,15,.12); border-radius:14px; padding:13px 14px; }
+  .route-title{ font-weight:800; font-size:15px; }
+  .route-meta{ font-size:12px; color:#6b6656; margin:3px 0 6px; }
+  .route-note{ font-size:12.5px; line-height:1.6; color:#2b4f7e; background:#e6eef9; border-radius:9px; padding:7px 10px; margin-bottom:8px; }
+  .route-stops{ display:flex; flex-wrap:wrap; gap:6px; align-items:center; font-size:12.5px; }
+  .route-stops button{ border:1px solid rgba(22,20,15,.25); background:var(--paper,#faf6ec); border-radius:999px; padding:5px 11px; cursor:pointer; font-size:12.5px; color:#201d16; }
+  .route-stops button:hover{ background:rgba(184,144,47,.2); }
+  .route-stops .arrow{ color:#8a8474; }
   .trip-toggle-btn:hover{ background:rgba(184,144,47,0.18); }
   .trip-toggle-btn.active{ background:#16140f; color:#c9a227; border-color:#16140f; }
 
@@ -591,6 +604,7 @@
       <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M21 16v-2l-8-5V3.5c0-.83-.67-1.5-1.5-1.5S10 2.67 10 3.5V9l-8 5v2l8-2.5V19l-2.5 1.5V22l4-1 4 1v-1.5L14 19v-5.5l7 2.5z"/></svg>
       <span id="tripToggleLabel">旅遊版</span>
     </button>
+    <button class="trip-toggle-btn" id="routesBtn" type="button" style="display:none;">🗺 推薦路線</button>
   </div>
   <div class="filter-row filter-row-2">
     <div class="area-toggle" id="catToggle"></div>
@@ -645,6 +659,12 @@
   </div>
 </div>
 
+<div class="routes-modal" id="routesModal" style="display:none;" role="dialog" aria-label="推薦路線">
+  <div class="routes-sheet">
+    <div class="routes-head"><b>🗺 推薦路線</b><button type="button" id="routesClose" aria-label="關閉">✕</button></div>
+    <div class="routes-body" id="routesBody"></div>
+  </div>
+</div>
 <div class="toast" id="toast"></div>
 
 <button class="picker-fab" id="pickerFab" type="button" aria-label="幫我選餐廳">
@@ -757,10 +777,19 @@ function catVisualSvg(cat){
   </svg>`;
 }
 
+// 旅遊版：「營業中」「今天」要用目的地當地時間，不是使用者手機的時區。
+// 回傳一個「牆上時鐘」Date：用 getDay/getHours 讀出來就是當地時間（只用來讀，不要拿去做時間差）。
+function wallNow(){
+  const d = new Date();
+  const tz = (typeof siteMode!=='undefined' && siteMode==='trip' && TRIP_CITIES[currentTripCity]) ? TRIP_CITIES[currentTripCity].tzOffset : null;
+  if(tz==null) return d;
+  return new Date(d.getTime() + (tz + d.getTimezoneOffset())*60000);
+}
+
 function hoursSummary(name){
   const week = HOURS[name];
   if(!week) return "營業時間請洽店家";
-  const today = (new Date().getDay()+6)%7;
+  const today = (wallNow().getDay()+6)%7;
   const ranges = week[today];
   if(!ranges || ranges.length===0) return `${DAY_NAMES[today]}公休`;
   return `${DAY_NAMES[today]} ` + ranges.map(r=>`${fmtHM(r[0])}–${fmtHM(r[1])}`).join('、');
@@ -1933,6 +1962,8 @@ const CAT_GROUPS_FUKUOKA = {
   '異國料理': ['異國料理'],
   '景點': ['景點'],
   '逛街': ['逛街'],
+  '雨天首選': ['雨天首選'],
+  '雨天首選': ['雨天首選'],
 };
 const SUB_CAT_GROUPS_FUKUOKA = {};
 // Swappable bindings — switchLocalMode()/enterTripMode()/exitTripMode()
@@ -2428,13 +2459,13 @@ searchInput.addEventListener('keydown', e=>{
 
 function currentCheckPoint(){
   if(state.rangeStart!==null){
-    const day = state.customDay!==null ? state.customDay : (new Date().getDay()+6)%7;
+    const day = state.customDay!==null ? state.customDay : (wallNow().getDay()+6)%7;
     return {day, minutes: state.rangeStart};
   }
   if(state.customDay!==null && state.customTime!==null){
     return {day: state.customDay, minutes: state.customTime};
   }
-  const now = new Date();
+  const now = wallNow();
   return {day:(now.getDay()+6)%7, minutes: now.getHours()*60+now.getMinutes()};
 }
 
@@ -3119,12 +3150,50 @@ function enterTripMode(cityCode){
   document.body.classList.add('trip-mode');
   tripToggleLabel.textContent = '回在地版';
   tripToggleBtn.classList.add('active');
+  routesBtn.style.display = city.routes ? '' : 'none';
   tripPicker.style.display = 'none';
   modeTabs.style.display = 'none';
   recomputeCategoryLists();
   renderAreaToggle();
   render();
 }
+
+const routesBtn = document.getElementById('routesBtn');
+const routesModal = document.getElementById('routesModal');
+const routesBody = document.getElementById('routesBody');
+function openRoutes(){
+  const city = TRIP_CITIES[currentTripCity];
+  if(!city || !city.routes) return;
+  routesBody.innerHTML = '';
+  city.routes.forEach(rt=>{
+    const stops = rt.stops.map(zh=>restaurants.find(r=>r.nameZh===zh)).filter(Boolean);
+    if(!stops.length) return;
+    const card = document.createElement('div');
+    card.className = 'route-card';
+    card.innerHTML = `<div class="route-title">${rt.icon} ${rt.title}</div>
+      <div class="route-meta">${rt.duration}　・　${rt.mode}</div>
+      <div class="route-note">${rt.note}</div><div class="route-stops"></div>`;
+    const wrap = card.querySelector('.route-stops');
+    stops.forEach((r,i)=>{
+      if(i) wrap.insertAdjacentHTML('beforeend','<span class="arrow">→</span>');
+      const b = document.createElement('button');
+      b.type = 'button';
+      b.textContent = r.nameZh;
+      b.addEventListener('click', ()=>{
+        routesModal.style.display = 'none';
+        searchInput.value = r.name;
+        searchInput.dispatchEvent(new Event('input'));
+        window.scrollTo({top:0, behavior:'smooth'});
+      });
+      wrap.appendChild(b);
+    });
+    routesBody.appendChild(card);
+  });
+  routesModal.style.display = 'flex';
+}
+routesBtn.addEventListener('click', openRoutes);
+document.getElementById('routesClose').addEventListener('click', ()=>{ routesModal.style.display = 'none'; });
+routesModal.addEventListener('click', e=>{ if(e.target===routesModal) routesModal.style.display = 'none'; });
 
 function exitTripMode(){
   restaurants = localRestaurants;
@@ -3141,6 +3210,8 @@ function exitTripMode(){
   document.body.classList.remove('trip-mode');
   tripToggleLabel.textContent = '旅遊版';
   tripToggleBtn.classList.remove('active');
+  routesBtn.style.display = 'none';
+  routesModal.style.display = 'none';
   recomputeCategoryLists();
   renderAreaToggle();
   render();
@@ -3189,10 +3260,46 @@ const JP_VISIBLE = true; // 福岡驗收通過，正式站開放（原本是 !PR
 
 // 旅遊版城市表：新增城市＝加一個資料陣列、一組 AREA_REGIONS、一筆 *_HOURS，
 // 再在這裡和 TRIP_COUNTRIES 各加一筆。
+// 福岡推薦路線：stops 用 nameZh 對應 fukuokaRestaurants 的項目（找不到就略過）。
+// 交通說明只寫查證過的資訊；順序是建議動線。
+const FUKUOKA_ROUTES = [
+  {title:'博多古寺神社半日', icon:'⛩', duration:'約 3–4 小時', mode:'地鐵＋步行',
+   note:'空港線「祇園」站是起點：東長寺步行約 3 分，與櫛田神社可步行串連；之後可走到運河城。',
+   stops:['東長寺','櫛田神社','博多運河城 Canal City']},
+  {title:'公園＋城跡散步', icon:'🌳', duration:'約 3 小時', mode:'地鐵＋步行',
+   note:'空港線「大濠公園」站 3 號出口即達，沿湖散步後往「赤坂」站方向（約 8 分）走到舞鶴公園，賞櫻季最熱門。',
+   stops:['大濠公園','舞鶴公園（福岡城跡）']},
+  {title:'百道海濱＋夜景', icon:'🌇', duration:'約 半天（建議傍晚）', mode:'地鐵＋巴士',
+   note:'地鐵到「西新」站轉西鐵巴士約 9 分；福岡塔傍晚上去可看日落＋夜景，週末與巨蛋活動日不建議開車。',
+   stops:['福岡塔','Seaside Momochi 海濱公園','teamLab Forest 福岡']},
+  {title:'中洲屋台夜遊', icon:'🏮', duration:'約 2–3 小時（18:00 後）', mode:'地鐵',
+   note:'中洲川端站步行約 8 分到福博相遇橋；屋台約 18:00 起營業，拍屋台＋高樓＋水面倒影。',
+   stops:['福博相遇橋（中洲屋台夜景）','博多運河城 Canal City']},
+  {title:'太宰府天滿宮一日', icon:'🎋', duration:'約 半天–1 天', mode:'電車',
+   note:'西鐵福岡（天神）→ 二日市轉太宰府線約 26–30 分、約 420–480 日圓；太宰府站步行約 4 分到參道。',
+   stops:['太宰府天滿宮','星巴克 太宰府天滿宮表參道店（隈研吾設計）']},
+  {title:'太宰府＋柳川套票', icon:'🛶', duration:'約 1 天', mode:'電車',
+   note:'有「太宰府柳川套票」；柳川從西鐵福岡（天神）特急約 50 分，再接駁巴士或步行，川下遊船約 60 分。',
+   stops:['太宰府天滿宮','柳川 立花邸御花（川下遊船）']},
+  {title:'糸島海岸一日', icon:'🌊', duration:'約 1 天', mode:'開車',
+   note:'市區開車約 30 分，大眾運輸班次少需轉乘，建議開車。夫婦岩留到傍晚：夏至前後夕陽落在雙岩之間。',
+   stops:['白絲瀑布','芥屋大門（玄武岩海蝕洞）','櫻井二見浦 夫婦岩']},
+  {title:'花海＋志賀島', icon:'🌸', duration:'約 1 天', mode:'開車',
+   note:'博多開車約 30 分到海之中道（停車場收費約 600 日圓／日），經海之中道大橋約 30 分可到志賀島；也可從博多碼頭搭渡輪約 30 分到志賀島。',
+   stops:['海之中道海濱公園（花海）','志賀島 金印公園']},
+  {title:'能古島花海', icon:'🌼', duration:'約 半天–1 天', mode:'地鐵＋渡輪',
+   note:'空港線搭到終點「姪浜」站，轉乘渡輪約 10 分，約每半小時一班；入園約 1,200 日圓。3 月油菜花／櫻花、7–8 月向日葵、10 月波斯菊、冬季水仙。',
+   stops:['能古島海島公園（花海）']},
+  {title:'天神雨天購物', icon:'☔', duration:'約 半天', mode:'地鐵',
+   note:'天神一帶的百貨與地下街可以互相串連、不用淋雨；從博多搭空港線到天神約 6 分。',
+   stops:['福岡PARCO 百貨','岩田屋 本店 百貨','天神地下街']},
+];
+
 const TRIP_CITIES = {
-  busan:   { restaurants: busanRestaurants,   regions: AREA_REGIONS_BUSAN },
+  busan:   { restaurants: busanRestaurants,   regions: AREA_REGIONS_BUSAN, tzOffset: 540 },
   fukuoka: { restaurants: fukuokaRestaurants, regions: AREA_REGIONS_FUKUOKA,
-             catGroups: CAT_GROUPS_FUKUOKA, subCatGroups: SUB_CAT_GROUPS_FUKUOKA },
+             catGroups: CAT_GROUPS_FUKUOKA, subCatGroups: SUB_CAT_GROUPS_FUKUOKA, tzOffset: 540,
+             routes: FUKUOKA_ROUTES },
 };
 
 const TRIP_COUNTRIES = [
