@@ -59,6 +59,31 @@
   ],
   "area_label": "沙鹿"
  },
+ "6669859924590353050": {
+  "place_id": "ChIJJ1TeW_cVaTQRmlrSUkMakFw",
+  "name": "兔子採櫻桃咖啡Bunny Pick Cherry-台中 海線 沙鹿 咖啡",
+  "address": "433台灣臺中市沙鹿區六路里北勢東路368號白色貨櫃屋",
+  "rating": 5,
+  "userRatingCount": 670,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=6669859924590353050&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.218289499999997,
+   "longitude": 120.57954749999999
+  },
+  "types": [
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "dessert_restaurant",
+   "store",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "沙鹿"
+ },
  "18309196191120097078": {
   "place_id": "ChIJ46bTHAAVaTQRNv-l9u1UF_4",
   "name": "嗑肉石鍋-台中沙鹿店(二代店)",
@@ -74,8 +99,8 @@
   "types": [
    "hot_pot_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -137,8 +162,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -158,8 +183,8 @@
   "types": [
    "american_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -178,8 +203,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -198,8 +223,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -241,10 +266,36 @@
    "japanese_restaurant",
    "wedding_venue",
    "event_venue",
+   "service",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "沙鹿"
+ },
+ "9289595693381269165": {
+  "place_id": "ChIJYdmyZJYVaTQRrTb9khBG64A",
+  "name": "T. T. Tora燒肉",
+  "address": "433台灣臺中市沙鹿區竹林里光華路508號",
+  "rating": 4.8,
+  "userRatingCount": 2720,
+  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=9289595693381269165&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.243755399999998,
+   "longitude": 120.57027289999999
+  },
+  "types": [
+   "yakiniku_restaurant",
+   "hot_pot_restaurant",
+   "yakitori_restaurant",
+   "bar_and_grill",
+   "bar",
+   "japanese_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
-   "service",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -270,6 +321,49 @@
   ],
   "area_label": "沙鹿"
  },
+ "9235566750732080858": {
+  "place_id": "ChIJL_0PAwAVaTQR2lbLFAdTK4A",
+  "name": "小，迷路",
+  "address": "433台灣臺中市沙鹿區北勢里北勢東路641號",
+  "rating": 4.2,
+  "userRatingCount": 890,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=9235566750732080858&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2294716,
+   "longitude": 120.5733466
+  },
+  "types": [
+   "brunch_restaurant",
+   "food_store",
+   "store",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "沙鹿"
+ },
+ "8495998713352845141": {
+  "place_id": "ChIJpQykdngVaTQRVXeS6dDZ53U",
+  "name": "烏龍麵所 沙鹿店",
+  "address": "433台灣臺中市沙鹿區北勢里北勢東路513號之1",
+  "rating": 4.9,
+  "userRatingCount": 2881,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=8495998713352845141&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2254085,
+   "longitude": 120.57592429999998
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "沙鹿"
+ },
  "3276162734187161426": {
   "place_id": "ChIJpa7SfPAUaTQRUieZHaZEdy0",
   "name": "优輕食沙鹿店",
@@ -284,8 +378,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -326,93 +420,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "沙鹿"
- },
- "890897323927147854": {
-  "place_id": "ChIJ25-Zj4AVaTQRThUGXGUaXQw",
-  "name": "伽松台式丼飯（沙鹿靜宜店）",
-  "address": "433台灣臺中市沙鹿區北勢里英才路15-1號",
-  "rating": 4.8,
-  "userRatingCount": 720,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=890897323927147854&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.226568399999998,
-   "longitude": 120.5749564
-  },
-  "types": [
-   "restaurant",
    "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "沙鹿"
- },
- "18336265385887657539": {
-  "place_id": "ChIJp1DdkR0VaTQRQ-4fATiAd_4",
-  "name": "瘋鍋火烤兩吃沙鹿店",
-  "address": "433台灣臺中市沙鹿區北勢里台灣大道七段342號",
-  "rating": 4.8,
-  "userRatingCount": 1427,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=18336265385887657539&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2299525,
-   "longitude": 120.57441569999999
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "沙鹿"
- },
- "11650146651584440161": {
-  "place_id": "ChIJz4eo2OQUaTQRYafljKeiraE",
-  "name": "來來牛排(原沙鹿市場口)",
-  "address": "433台灣臺中市沙鹿區居仁里和平街38-2號",
-  "rating": 4.4,
-  "userRatingCount": 2488,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=11650146651584440161&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2403653,
-   "longitude": 120.5614986
-  },
-  "types": [
-   "steak_house",
-   "french_restaurant",
-   "european_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "沙鹿"
- },
- "1728016376602742848": {
-  "place_id": "ChIJgx1Rg4sVaTQRQNB2Nb0l-xc",
-  "name": "久違石頭火鍋沙鹿店（收客至20:30）",
-  "address": "433台灣臺中市沙鹿區鹿寮里光大路37號",
-  "rating": 4.8,
-  "userRatingCount": 1898,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=1728016376602742848&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.244990899999998,
-   "longitude": 120.56334930000001
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -542,29 +551,6 @@
   },
   "types": [
    "brunch_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "沙鹿"
- },
- "9235566750732080858": {
-  "place_id": "ChIJL_0PAwAVaTQR2lbLFAdTK4A",
-  "name": "小，迷路",
-  "address": "433台灣臺中市沙鹿區北勢里北勢東路641號",
-  "rating": 4.2,
-  "userRatingCount": 890,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=9235566750732080858&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2294716,
-   "longitude": 120.5733466
-  },
-  "types": [
-   "brunch_restaurant",
-   "food_store",
-   "store",
    "restaurant",
    "food",
    "point_of_interest",
@@ -834,47 +820,6 @@
   ],
   "area_label": "沙鹿"
  },
- "8624013696534158310": {
-  "place_id": "ChIJ4QgvbhcVaTQR5psF2MOmrnc",
-  "name": "府壽司 MIYAKO sushi",
-  "address": "433台灣臺中市沙鹿區福興里鎮南路二段335號",
-  "rating": 4.7,
-  "userRatingCount": 1390,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=8624013696534158310&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.227359399999997,
-   "longitude": 120.56737349999999
-  },
-  "types": [
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "沙鹿"
- },
- "11565314192340787263": {
-  "place_id": "ChIJm69ik6UVaTQRP6BBdvs_gKA",
-  "name": "炭極郎本舖",
-  "address": "43342台灣臺中市沙鹿區北勢里北英路121號",
-  "rating": 4.9,
-  "userRatingCount": 908,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=11565314192340787263&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.227349,
-   "longitude": 120.57440439999998
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "沙鹿"
- },
  "11344036631311733672": {
   "place_id": "ChIJRWblJPAUaTQRqNNagDYdbp0",
   "name": "合禾町日式料理",
@@ -890,8 +835,29 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "沙鹿"
+ },
+ "8624013696534158310": {
+  "place_id": "ChIJ4QgvbhcVaTQR5psF2MOmrnc",
+  "name": "府壽司 MIYAKO sushi",
+  "address": "433台灣臺中市沙鹿區福興里鎮南路二段335號",
+  "rating": 4.7,
+  "userRatingCount": 1390,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=8624013696534158310&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.227359399999997,
+   "longitude": 120.56737349999999
+  },
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -912,8 +878,28 @@
    "seafood_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "沙鹿"
+ },
+ "11565314192340787263": {
+  "place_id": "ChIJm69ik6UVaTQRP6BBdvs_gKA",
+  "name": "炭極郎本舖",
+  "address": "43342台灣臺中市沙鹿區北勢里北英路121號",
+  "rating": 4.9,
+  "userRatingCount": 908,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=11565314192340787263&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.227349,
+   "longitude": 120.57440439999998
+  },
+  "types": [
+   "restaurant",
+   "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -933,47 +919,67 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "沙鹿"
  },
- "11318899252226966511": {
-  "place_id": "ChIJMZWj_uoVaTQR70NsWebOFJ0",
-  "name": "佶來野燒肉",
-  "address": "433台灣臺中市沙鹿區北英路97號",
-  "rating": 4.9,
-  "userRatingCount": 183,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=11318899252226966511&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "10618381925422960563": {
+  "place_id": "ChIJ8df9J_cVaTQRs49DQhoSXJM",
+  "name": "浜丼 日式丼飯．定食．烏冬",
+  "address": "433台灣臺中市沙鹿區六路里北勢東路295號",
+  "rating": 4.2,
+  "userRatingCount": 318,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=10618381925422960563&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.2270708,
-   "longitude": 120.57331019999998
+   "latitude": 24.217467000000003,
+   "longitude": 120.57947050000001
   },
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "沙鹿"
  },
- "4612593869988399952": {
-  "place_id": "ChIJH-FiMQAVaTQRUIvNqa85A0A",
-  "name": "食鮮森鐵板燒-沙鹿店",
-  "address": "433台灣臺中市沙鹿區鹿寮里成功東街42號",
-  "rating": 4.6,
-  "userRatingCount": 424,
+ "4207440554075609736": {
+  "place_id": "ChIJ_zJ-W7UVaTQRiNo_V-TUYzo",
+  "name": "潤和壽司屋",
+  "address": "433台灣臺中市沙鹿區鹿寮里光華路369號",
+  "rating": 4,
+  "userRatingCount": 697,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=4612593869988399952&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=4207440554075609736&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.2421552,
-   "longitude": 120.56247859999999
+   "latitude": 24.243330999999998,
+   "longitude": 120.56560339999999
   },
   "types": [
    "japanese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "沙鹿"
+ },
+ "890897323927147854": {
+  "place_id": "ChIJ25-Zj4AVaTQRThUGXGUaXQw",
+  "name": "伽松台式丼飯（沙鹿靜宜店）",
+  "address": "433台灣臺中市沙鹿區北勢里英才路15-1號",
+  "rating": 4.8,
+  "userRatingCount": 720,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=890897323927147854&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.226568399999998,
+   "longitude": 120.5749564
+  },
+  "types": [
    "restaurant",
    "food",
    "point_of_interest",
@@ -996,71 +1002,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "沙鹿"
- },
- "484360199375459132": {
-  "place_id": "ChIJEQO4quMUaTQRPJMc-wjLuAY",
-  "name": "忍者壽司",
-  "address": "433台灣臺中市沙鹿區興仁里四平街新平巷6-1號",
-  "rating": 4.5,
-  "userRatingCount": 986,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=484360199375459132&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.235411,
-   "longitude": 120.5597021
-  },
-  "types": [
-   "sushi_restaurant",
-   "japanese_restaurant",
-   "restaurant",
    "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "沙鹿"
- },
- "11182884275159713532": {
-  "place_id": "ChIJLQ33UAAVaTQR_EYysf-VMZs",
-  "name": "食見生活-沙鹿店/健康餐/日式炊飯餐盒",
-  "address": "433台灣臺中市沙鹿區鹿寮里成功東街94-1號",
-  "rating": 4.4,
-  "userRatingCount": 45,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=11182884275159713532&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.241577500000002,
-   "longitude": 120.56458629999999
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "沙鹿"
- },
- "10618381925422960563": {
-  "place_id": "ChIJ8df9J_cVaTQRs49DQhoSXJM",
-  "name": "浜丼 日式丼飯．定食．烏冬",
-  "address": "433台灣臺中市沙鹿區六路里北勢東路295號",
-  "rating": 4.2,
-  "userRatingCount": 318,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=10618381925422960563&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.217467000000003,
-   "longitude": 120.57947050000001
-  },
-  "types": [
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -1080,49 +1023,30 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "沙鹿"
  },
- "7788990552695035213": {
-  "place_id": "ChIJk8A-ezsVaTQRTdVCzKMNGGw",
-  "name": "牧釜燒 | 店休日詳見FB公告 | 收客至休息前半小時 |",
-  "address": "433台灣臺中市沙鹿區美仁里四平街104號1樓",
-  "rating": 4.7,
-  "userRatingCount": 534,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=7788990552695035213&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2355868,
-   "longitude": 120.5606016
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "沙鹿"
- },
- "15343634587507162498": {
-  "place_id": "ChIJv3EL3DQVaTQRgv3C_1yK79Q",
-  "name": "向上游丼",
-  "address": "433台灣臺中市沙鹿區北勢里北勢東路525號1樓",
-  "rating": 4.8,
-  "userRatingCount": 1349,
+ "8290692931099853516": {
+  "place_id": "ChIJFzQz5O8UaTQRzIIMfEt1DnM",
+  "name": "日出町 ひじまち 丼飯。拉麵（ 固定週一公休）",
+  "address": "433台灣臺中市沙鹿區鹿寮里中山路450號",
+  "rating": 4.3,
+  "userRatingCount": 541,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=15343634587507162498&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=8290692931099853516&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.2261717,
-   "longitude": 120.5753742
+   "latitude": 24.244829799999998,
+   "longitude": 120.56234269999999
   },
   "types": [
-   "japanese_restaurant",
-   "restaurant",
-   "food",
+   "deli",
+   "food_store",
+   "store",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -1144,32 +1068,98 @@
    "fast_food_restaurant",
    "meal_delivery",
    "food_delivery",
-   "food_store",
-   "japanese_restaurant",
-   "store",
    "chinese_restaurant",
-   "food",
+   "japanese_restaurant",
+   "food_store",
+   "store",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "沙鹿"
  },
- "8495998713352845141": {
-  "place_id": "ChIJpQykdngVaTQRVXeS6dDZ53U",
-  "name": "烏龍麵所 沙鹿店",
-  "address": "433台灣臺中市沙鹿區北勢里北勢東路513號之1",
-  "rating": 4.9,
-  "userRatingCount": 2881,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=8495998713352845141&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "484360199375459132": {
+  "place_id": "ChIJEQO4quMUaTQRPJMc-wjLuAY",
+  "name": "忍者壽司",
+  "address": "433台灣臺中市沙鹿區興仁里四平街新平巷6-1號",
+  "rating": 4.5,
+  "userRatingCount": 986,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=484360199375459132&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.2254085,
-   "longitude": 120.57592429999998
+   "latitude": 24.235411,
+   "longitude": 120.5597021
+  },
+  "types": [
+   "sushi_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "沙鹿"
+ },
+ "7788990552695035213": {
+  "place_id": "ChIJk8A-ezsVaTQRTdVCzKMNGGw",
+  "name": "牧釜燒 | 店休日詳見FB公告 | 收客至休息前半小時 |",
+  "address": "433台灣臺中市沙鹿區美仁里四平街104號1樓",
+  "rating": 4.7,
+  "userRatingCount": 534,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=7788990552695035213&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2355868,
+   "longitude": 120.5606016
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "沙鹿"
+ },
+ "15343634587507162498": {
+  "place_id": "ChIJv3EL3DQVaTQRgv3C_1yK79Q",
+  "name": "向上游丼",
+  "address": "433台灣臺中市沙鹿區北勢里北勢東路525號1樓",
+  "rating": 4.8,
+  "userRatingCount": 1349,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=15343634587507162498&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2261717,
+   "longitude": 120.5753742
+  },
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "沙鹿"
+ },
+ "11669975559468142683": {
+  "place_id": "ChIJBW5oGZYVaTQRW9CW7_AU9KE",
+  "name": "哈瓦魚HAWOW鮮魚夏威夷專賣",
+  "address": "433台灣臺中市沙鹿區鹿峰里中山路591號",
+  "rating": 4.5,
+  "userRatingCount": 205,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=11669975559468142683&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2512136,
+   "longitude": 120.56622639999999
+  },
+  "types": [
+   "salad_shop",
+   "hawaiian_restaurant",
+   "american_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -1190,8 +1180,8 @@
    "italian_restaurant",
    "european_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -1212,8 +1202,8 @@
    "italian_restaurant",
    "european_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -1234,8 +1224,8 @@
    "italian_restaurant",
    "european_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -1276,8 +1266,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -1295,13 +1285,13 @@
    "longitude": 120.56907980000001
   },
   "types": [
-   "german_restaurant",
    "italian_restaurant",
    "french_restaurant",
+   "german_restaurant",
    "european_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -1326,6 +1316,27 @@
   ],
   "area_label": "沙鹿"
  },
+ "11318899252226966511": {
+  "place_id": "ChIJMZWj_uoVaTQR70NsWebOFJ0",
+  "name": "佶來野燒肉",
+  "address": "433台灣臺中市沙鹿區北英路97號",
+  "rating": 4.9,
+  "userRatingCount": 183,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=11318899252226966511&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2270708,
+   "longitude": 120.57331019999998
+  },
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "沙鹿"
+ },
  "6626532201842493995": {
   "place_id": "ChIJZ8kjRzwVaTQRK0qCv-0r9ls",
   "name": "韓滋銅盤烤肉",
@@ -1343,32 +1354,6 @@
    "restaurant",
    "food",
    "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "沙鹿"
- },
- "9289595693381269165": {
-  "place_id": "ChIJYdmyZJYVaTQRrTb9khBG64A",
-  "name": "T. T. Tora燒肉",
-  "address": "433台灣臺中市沙鹿區竹林里光華路508號",
-  "rating": 4.8,
-  "userRatingCount": 2720,
-  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=9289595693381269165&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.243755399999998,
-   "longitude": 120.57027289999999
-  },
-  "types": [
-   "yakiniku_restaurant",
-   "hot_pot_restaurant",
-   "yakitori_restaurant",
-   "bar_and_grill",
-   "japanese_restaurant",
-   "bar",
-   "restaurant",
-   "point_of_interest",
-   "food",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -1408,8 +1393,8 @@
   "types": [
    "kebab_shop",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -1429,8 +1414,8 @@
   "types": [
    "barbecue_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -1450,8 +1435,29 @@
   "types": [
    "yakiniku_restaurant",
    "bar_and_grill",
-   "japanese_restaurant",
    "bar",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "沙鹿"
+ },
+ "18336265385887657539": {
+  "place_id": "ChIJp1DdkR0VaTQRQ-4fATiAd_4",
+  "name": "瘋鍋火烤兩吃沙鹿店",
+  "address": "433台灣臺中市沙鹿區北勢里台灣大道七段342號",
+  "rating": 4.8,
+  "userRatingCount": 1427,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=18336265385887657539&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2299525,
+   "longitude": 120.57441569999999
+  },
+  "types": [
+   "hot_pot_restaurant",
    "restaurant",
    "point_of_interest",
    "food",
@@ -1475,8 +1481,8 @@
    "bar_and_grill",
    "bar",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -1497,8 +1503,8 @@
    "bar_and_grill",
    "bar",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -1521,8 +1527,8 @@
    "food_store",
    "store",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -1541,8 +1547,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -1561,8 +1567,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -1583,8 +1589,8 @@
    "bar_and_grill",
    "bar",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -1603,8 +1609,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -1626,8 +1632,8 @@
    "bar_and_grill",
    "bar",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -1670,8 +1676,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -1691,8 +1697,8 @@
   "types": [
    "hot_pot_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -1732,8 +1738,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -1753,8 +1759,8 @@
   "types": [
    "hot_pot_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -1795,8 +1801,8 @@
   "types": [
    "hot_pot_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -1816,8 +1822,8 @@
   "types": [
    "restaurant",
    "hot_pot_restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -1837,8 +1843,8 @@
   "types": [
    "hot_pot_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -1858,8 +1864,8 @@
   "types": [
    "hot_pot_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -1879,8 +1885,29 @@
   "types": [
    "hot_pot_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "沙鹿"
+ },
+ "1728016376602742848": {
+  "place_id": "ChIJgx1Rg4sVaTQRQNB2Nb0l-xc",
+  "name": "久違石頭火鍋沙鹿店（收客至20:30）",
+  "address": "433台灣臺中市沙鹿區鹿寮里光大路37號",
+  "rating": 4.8,
+  "userRatingCount": 1898,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=1728016376602742848&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.244990899999998,
+   "longitude": 120.56334930000001
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -1900,8 +1927,8 @@
   "types": [
    "hot_pot_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -1920,8 +1947,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -1941,8 +1968,8 @@
   "types": [
    "chinese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -1962,8 +1989,8 @@
   "types": [
    "hot_pot_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -1983,8 +2010,8 @@
   "types": [
    "hot_pot_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -2006,8 +2033,8 @@
    "confectionery",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -2029,8 +2056,8 @@
    "confectionery",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -2052,8 +2079,35 @@
    "cafe",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "沙鹿"
+ },
+ "10625919037175939876": {
+  "place_id": "ChIJYzarPgIVaTQRJMPu1hDZdpM",
+  "name": "鳳茶人茶與甜點專賣|沙鹿伴手禮|療癒選品伴手禮|蝴蝶酥禮盒",
+  "address": "433台灣臺中市沙鹿區北勢里北勢東路888號1樓",
+  "rating": 4.7,
+  "userRatingCount": 375,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=10625919037175939876&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2295123,
+   "longitude": 120.56709509999999
+  },
+  "types": [
+   "dessert_shop",
+   "gift_shop",
+   "bakery",
+   "confectionery",
+   "clothing_store",
+   "tea_house",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -2075,8 +2129,8 @@
    "confectionery",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -2095,8 +2149,54 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "沙鹿"
+ },
+ "7224148425998437605": {
+  "place_id": "ChIJgzVMr20VaTQR5YxV4LdUQWQ",
+  "name": "法奇甜點 - FUDGE Pâtisserie",
+  "address": "433台灣臺中市沙鹿區鹿寮里中山路398-1號",
+  "rating": 4.7,
+  "userRatingCount": 636,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=7224148425998437605&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2428623,
+   "longitude": 120.5615633
+  },
+  "types": [
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "沙鹿"
+ },
+ "10268988498180729707": {
+  "place_id": "ChIJSxAhgYkVaTQRa2uitKHGgo4",
+  "name": "好室好事手感烘焙/義式冰淇淋",
+  "address": "433台灣臺中市沙鹿區興仁里鎮南路二段594號",
+  "rating": 4.9,
+  "userRatingCount": 55,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=10268988498180729707&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.234298499999998,
+   "longitude": 120.5608005
+  },
+  "types": [
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -2118,8 +2218,8 @@
    "confectionery",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -2140,8 +2240,27 @@
    "bakery",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "沙鹿"
+ },
+ "9671583721297737357": {
+  "place_id": "ChIJeycFvIwVaTQRjfZm-yZeOIY",
+  "name": "三茶一生 - 小院茶事",
+  "address": "433台灣臺中市沙鹿區洛泉里日新街45巷21號",
+  "rating": 4.9,
+  "userRatingCount": 852,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=9671583721297737357&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2357868,
+   "longitude": 120.56448549999999
+  },
+  "types": [
+   "tea_house",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -2162,18 +2281,18 @@
    "dessert_shop",
    "coffee_shop",
    "cafe",
-   "dessert_restaurant",
    "cake_shop",
    "bakery",
    "confectionery",
-   "food_store",
-   "manufacturer",
-   "store",
    "wholesaler",
-   "service",
+   "manufacturer",
+   "food_store",
+   "dessert_restaurant",
+   "store",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
+   "service",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -2204,6 +2323,26 @@
    "food",
    "point_of_interest",
    "service",
+   "establishment"
+  ],
+  "area_label": "沙鹿"
+ },
+ "6109678942558815806": {
+  "place_id": "ChIJz4xZe6kVaTQRPgbntqDwyVQ",
+  "name": "拾個月Dear Crème｜喜餅推薦 手工伴手禮 彌月蛋糕",
+  "address": "433台灣臺中市沙鹿區晉江里北勢東路476號",
+  "rating": 4.6,
+  "userRatingCount": 697,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=6109678942558815806&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2233442,
+   "longitude": 120.57750530000001
+  },
+  "types": [
+   "gift_shop",
+   "store",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -2243,14 +2382,35 @@
   },
   "types": [
    "dessert_shop",
-   "gift_shop",
    "pastry_shop",
+   "gift_shop",
    "bakery",
    "confectionery",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "沙鹿"
+ },
+ "8125606244782941850": {
+  "place_id": "ChIJ2Q6mTawVaTQRmqb7DNTzw3A",
+  "name": "十卜三分.甜品店",
+  "address": "433台灣臺中市沙鹿區鹿寮里光華路343號",
+  "rating": 4.5,
+  "userRatingCount": 145,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=8125606244782941850&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.242424,
+   "longitude": 120.56487100000001
+  },
+  "types": [
+   "dessert_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -2272,150 +2432,8 @@
    "confectionery",
    "food_store",
    "store",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "沙鹿"
- },
- "4116219991502729812": {
-  "place_id": "ChIJBX8XsmYVaTQRVLLhCkbAHzk",
-  "name": "Eileen's客製化甜點蛋糕〔滿額可外送 只接預約單〕",
-  "address": "433台灣臺中市沙鹿區埔子里正德路246號",
-  "rating": 4.9,
-  "userRatingCount": 39,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=4116219991502729812&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2010504,
-   "longitude": 120.57362649999999
-  },
-  "types": [
-   "dessert_shop",
-   "cake_shop",
-   "bakery",
-   "confectionery",
-   "food_store",
-   "manufacturer",
-   "store",
-   "wholesaler",
-   "service",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "沙鹿"
- },
- "14017076787277850410": {
-  "place_id": "ChIJvY9ipt8VaTQRKucRhxKphsI",
-  "name": "圓夢翔 X 圓夢咖啡館",
-  "address": "433台灣臺中市沙鹿區竹林里光華路528號",
-  "rating": 4.6,
-  "userRatingCount": 90,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=14017076787277850410&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2433853,
-   "longitude": 120.57030719999999
-  },
-  "types": [
-   "cafe",
    "food",
    "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "沙鹿"
- },
- "13374012782619924782": {
-  "place_id": "ChIJoTjNC94VaTQRLhmYacQJmrk",
-  "name": "甘泔鮮飲茶we drink",
-  "address": "433台灣臺中市沙鹿區竹林里中山路130-3號",
-  "rating": 5,
-  "userRatingCount": 64,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=13374012782619924782&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2369953,
-   "longitude": 120.56781639999998
-  },
-  "types": [
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "沙鹿"
- },
- "2795309125027143844": {
-  "place_id": "ChIJh0yL7n4VaTQRpKCmytbuyiY",
-  "name": "Sweet Summer Gelato 甜一夏義式冰淇淋",
-  "address": "433台灣臺中市沙鹿區晉江里北勢東路333號",
-  "rating": 4.8,
-  "userRatingCount": 96,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=2795309125027143844&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2184021,
-   "longitude": 120.5793458
-  },
-  "types": [
-   "ice_cream_shop",
-   "dessert_shop",
-   "confectionery",
-   "food_store",
-   "store",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "沙鹿"
- },
- "1209307597856594147": {
-  "place_id": "ChIJhYMHWZ8VaTQR41hsYtpSyBA",
-  "name": "緩衝茶館/咖啡/下午茶/甜點",
-  "address": "433台灣臺中市沙鹿區六路里台灣大道六段765號",
-  "rating": 4.8,
-  "userRatingCount": 133,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=1209307597856594147&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.210310699999997,
-   "longitude": 120.58108929999997
-  },
-  "types": [
-   "cafe",
-   "bistro",
-   "pub",
-   "tea_house",
-   "italian_restaurant",
-   "bar",
-   "dessert_shop",
-   "confectionery",
-   "food_store",
-   "store",
-   "european_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "沙鹿"
- },
- "2762063391697389755": {
-  "place_id": "ChIJKWCHFAAVaTQRu8g7TQXSVCY",
-  "name": "囍圓 湯圓芋圓燒麻糬台式甜湯",
-  "address": "433台灣臺中市沙鹿區晉江里北勢東路466-5號",
-  "rating": 4.6,
-  "userRatingCount": 35,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=2762063391697389755&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2221011,
-   "longitude": 120.5782858
-  },
-  "types": [
-   "dessert_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -2437,31 +2455,6 @@
    "cafe",
    "food_store",
    "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "沙鹿"
- },
- "6669859924590353050": {
-  "place_id": "ChIJJ1TeW_cVaTQRmlrSUkMakFw",
-  "name": "兔子採櫻桃咖啡Bunny Pick Cherry-台中 海線 沙鹿 咖啡",
-  "address": "433台灣臺中市沙鹿區六路里北勢東路368號白色貨櫃屋",
-  "rating": 5,
-  "userRatingCount": 670,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=6669859924590353050&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.218289499999997,
-   "longitude": 120.57954749999999
-  },
-  "types": [
-   "dessert_shop",
-   "confectionery",
-   "food_store",
-   "dessert_restaurant",
-   "store",
-   "restaurant",
    "food",
    "point_of_interest",
    "establishment"
@@ -2600,6 +2593,26 @@
   ],
   "area_label": "沙鹿"
  },
+ "14017076787277850410": {
+  "place_id": "ChIJvY9ipt8VaTQRKucRhxKphsI",
+  "name": "圓夢翔 X 圓夢咖啡館",
+  "address": "433台灣臺中市沙鹿區竹林里光華路528號",
+  "rating": 4.6,
+  "userRatingCount": 90,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=14017076787277850410&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2433853,
+   "longitude": 120.57030719999999
+  },
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "沙鹿"
+ },
  "9807088933353911654": {
   "place_id": "ChIJobFe6zYVaTQRZnU5uWzHGYg",
   "name": "維克的盒子咖啡",
@@ -2681,8 +2694,8 @@
   "types": [
    "korean_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -2702,8 +2715,8 @@
   "types": [
    "korean_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -2722,8 +2735,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -2742,8 +2755,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -2762,71 +2775,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "沙鹿"
- },
- "3533039673635032180": {
-  "place_id": "ChIJjU3QjqwVaTQRdMxgRN3gBzE",
-  "name": "黃師傅活海鮮",
-  "address": "43354台灣臺中市沙鹿區南勢里鎮南路二段29號",
-  "rating": 4.3,
-  "userRatingCount": 109,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=3533039673635032180&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2175582,
-   "longitude": 120.57020929999999
-  },
-  "types": [
-   "chinese_restaurant",
-   "restaurant",
    "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "沙鹿"
- },
- "12175249859021482119": {
-  "place_id": "ChIJAcQY8L0VaTQRh6iZUj0t96g",
-  "name": "沙鹿漁人碼頭快炒海鮮燒烤啤酒屋",
-  "address": "433台灣臺中市沙鹿區三鹿里向上路七段500號之8號",
-  "rating": 4.2,
-  "userRatingCount": 184,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=12175249859021482119&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.211068899999997,
-   "longitude": 120.558687
-  },
-  "types": [
-   "japanese_izakaya_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "沙鹿"
- },
- "18011403273624657809": {
-  "place_id": "ChIJR7SIZnEVaTQRkZ-0Ttlb9fk",
-  "name": "富哥美食熱炒",
-  "address": "433台灣臺中市沙鹿區三鹿里向上路七段27號",
-  "rating": 4.4,
-  "userRatingCount": 287,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=18011403273624657809&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2039949,
-   "longitude": 120.56599159999999
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -2852,22 +2802,64 @@
   ],
   "area_label": "沙鹿"
  },
- "9748878848373984074": {
-  "place_id": "ChIJE5nR6J0VaTQRSoumK6n5Soc",
-  "name": "將進酒台式居酒屋",
-  "address": "433台灣臺中市沙鹿區北勢里北中路28號",
-  "rating": 4.8,
-  "userRatingCount": 1343,
+ "18011403273624657809": {
+  "place_id": "ChIJR7SIZnEVaTQRkZ-0Ttlb9fk",
+  "name": "富哥美食熱炒",
+  "address": "433台灣臺中市沙鹿區三鹿里向上路七段27號",
+  "rating": 4.4,
+  "userRatingCount": 287,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=9748878848373984074&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=18011403273624657809&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.2260101,
-   "longitude": 120.56987450000001
+   "latitude": 24.2039949,
+   "longitude": 120.56599159999999
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "沙鹿"
+ },
+ "12175249859021482119": {
+  "place_id": "ChIJAcQY8L0VaTQRh6iZUj0t96g",
+  "name": "沙鹿漁人碼頭快炒海鮮燒烤啤酒屋",
+  "address": "433台灣臺中市沙鹿區三鹿里向上路七段500號之8號",
+  "rating": 4.2,
+  "userRatingCount": 184,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=12175249859021482119&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.211068899999997,
+   "longitude": 120.558687
+  },
+  "types": [
+   "japanese_izakaya_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "沙鹿"
+ },
+ "832054397001606062": {
+  "place_id": "ChIJt2JaeeYVaTQRriMVzxANjAs",
+  "name": "裕稻炒飯",
+  "address": "433台灣臺中市沙鹿區北勢里東安街3號斜對面",
+  "rating": 4.6,
+  "userRatingCount": 245,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=832054397001606062&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2248025,
+   "longitude": 120.57612569999999
+  },
+  "types": [
+   "restaurant",
+   "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -2886,8 +2878,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -2907,8 +2899,70 @@
   "types": [
    "chinese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "沙鹿"
+ },
+ "9748878848373984074": {
+  "place_id": "ChIJE5nR6J0VaTQRSoumK6n5Soc",
+  "name": "將進酒台式居酒屋",
+  "address": "433台灣臺中市沙鹿區北勢里北中路28號",
+  "rating": 4.8,
+  "userRatingCount": 1343,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=9748878848373984074&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2260101,
+   "longitude": 120.56987450000001
+  },
+  "types": [
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "沙鹿"
+ },
+ "4612593869988399952": {
+  "place_id": "ChIJH-FiMQAVaTQRUIvNqa85A0A",
+  "name": "食鮮森鐵板燒-沙鹿店",
+  "address": "433台灣臺中市沙鹿區鹿寮里成功東街42號",
+  "rating": 4.6,
+  "userRatingCount": 424,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=4612593869988399952&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2421552,
+   "longitude": 120.56247859999999
+  },
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "沙鹿"
+ },
+ "3533039673635032180": {
+  "place_id": "ChIJjU3QjqwVaTQRdMxgRN3gBzE",
+  "name": "黃師傅活海鮮",
+  "address": "43354台灣臺中市沙鹿區南勢里鎮南路二段29號",
+  "rating": 4.3,
+  "userRatingCount": 109,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=3533039673635032180&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2175582,
+   "longitude": 120.57020929999999
+  },
+  "types": [
+   "chinese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -2928,30 +2982,51 @@
   "types": [
    "chinese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "沙鹿"
  },
- "1660237924125163622": {
-  "place_id": "ChIJJYNqUwgVaTQRZsAcfphZChc",
-  "name": "摟貍台式居酒屋",
-  "address": "433台灣臺中市沙鹿區竹林里三民路30-1號",
+ "12227358156076803779": {
+  "place_id": "ChIJV5PppQ8VaTQRw-ZuqnVNsKk",
+  "name": "陳家涼麵、炒泡麵",
+  "address": "433台灣臺中市沙鹿區北勢里北勢東路537巷15號英才路上的黃媽媽娃娃機店面可直通本店店",
   "rating": 4.8,
-  "userRatingCount": 147,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=1660237924125163622&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "userRatingCount": 44,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=12227358156076803779&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.238944,
-   "longitude": 120.569992
+   "latitude": 24.226984599999998,
+   "longitude": 120.574585
   },
   "types": [
-   "japanese_izakaya_restaurant",
-   "japanese_restaurant",
+   "snack_bar",
+   "meal_takeaway",
+   "noodle_shop",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "沙鹿"
+ },
+ "17050526344707547767": {
+  "place_id": "ChIJP6XlQP8VaTQRd6K7eV-jn-w",
+  "name": "海之蚵牛排、炒飯｜沙鹿英財店",
+  "address": "433台灣臺中市沙鹿區北勢里英才路28-1號",
+  "rating": 4.3,
+  "userRatingCount": 593,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=17050526344707547767&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2265542,
+   "longitude": 120.57409039999999
+  },
+  "types": [
+   "restaurant",
+   "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -2970,48 +3045,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "沙鹿"
- },
- "3276162829791295932": {
-  "place_id": "ChIJszUi-R0VaTQRvHkMYLxEdy0",
-  "name": "食尚快炒",
-  "address": "433台灣臺中市沙鹿區三鹿里自立路303號",
-  "rating": 4.3,
-  "userRatingCount": 82,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=3276162829791295932&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2017217,
-   "longitude": 120.5652748
-  },
-  "types": [
-   "restaurant",
    "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "沙鹿"
- },
- "10771212122751714229": {
-  "place_id": "ChIJm7vkDn4VaTQRtUP_eFsIe5U",
-  "name": "達鮮美食場",
-  "address": "433台灣臺中市沙鹿區鹿寮里福安街106號",
-  "rating": 4.1,
-  "userRatingCount": 155,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=10771212122751714229&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.244423599999998,
-   "longitude": 120.5632103
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -3030,8 +3065,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -3119,8 +3154,8 @@
   "types": [
    "noodle_shop",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -3141,8 +3176,8 @@
    "deli",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -3161,8 +3196,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -3221,8 +3256,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -3242,8 +3277,8 @@
   "types": [
    "taiwanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -3262,8 +3297,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -3284,8 +3319,8 @@
    "snack_bar",
    "meal_takeaway",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -3306,8 +3341,8 @@
    "deli",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -3326,8 +3361,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "沙鹿"
@@ -3415,58 +3450,17 @@
   ],
   "area_label": "沙鹿"
  },
- "5390656745757195000": {
-  "place_id": "ChIJBTHYaB0VaTQR-Lrr1L91z0o",
-  "name": "富賦號 - 日式牛骨拉麵（已開放線上點餐服務，請多加利用）",
-  "address": "433台灣臺中市沙鹿區北勢東路500-506附近",
-  "rating": 4.5,
-  "userRatingCount": 315,
+ "11290140090305252071": {
+  "place_id": "ChIJgW4s8GkVaTQR54oKK5iirpw",
+  "name": "MR. ENERGY 能量先生 靜宜店",
+  "address": "433台灣臺中市沙鹿區北勢里北勢三街1號",
+  "rating": 4.7,
+  "userRatingCount": 124,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=5390656745757195000&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=11290140090305252071&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.2248529,
-   "longitude": 120.57646999999999
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "沙鹿"
- },
- "10375477963225966972": {
-  "place_id": "ChIJvf3_XGMVaTQRfCn6ZDwa_Y8",
-  "name": "沐鐵板燒-『靜宜店』",
-  "address": "433台灣臺中市沙鹿區北勢里北勢東路596號",
-  "rating": 4.9,
-  "userRatingCount": 2348,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=10375477963225966972&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2290022,
-   "longitude": 120.5738721
-  },
-  "types": [
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "沙鹿"
- },
- "6593144451233513718": {
-  "place_id": "ChIJ5XvbmaoVaTQR9oCcSPKNf1s",
-  "name": "香港九龍城小吃店",
-  "address": "433台灣臺中市沙鹿區43342 台灣 大道 7 段 303 巷 17 號 1 樓 靜 宜 一 街",
-  "rating": 4.6,
-  "userRatingCount": 222,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=6593144451233513718&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2279181,
-   "longitude": 120.57468390000001
+   "latitude": 24.2299403,
+   "longitude": 120.5693919
   },
   "types": [
    "restaurant",
@@ -3490,6 +3484,27 @@
   },
   "types": [
    "chinese_noodle_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "沙鹿"
+ },
+ "8601758306265035898": {
+  "place_id": "ChIJ31QCj6oVaTQRenSxAJuVX3c",
+  "name": "潮麻吉｜香雞潮牌｜沙鹿靜宜總店",
+  "address": "433台灣臺中市沙鹿區北勢里北勢東路547號",
+  "rating": 4.7,
+  "userRatingCount": 920,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=8601758306265035898&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2272216,
+   "longitude": 120.5747943
+  },
+  "types": [
+   "meal_takeaway",
    "restaurant",
    "food",
    "point_of_interest",
@@ -3552,29 +3567,6 @@
   "types": [
    "thai_restaurant",
    "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "沙鹿"
- },
- "7224148425998437605": {
-  "place_id": "ChIJgzVMr20VaTQR5YxV4LdUQWQ",
-  "name": "法奇甜點 - FUDGE Pâtisserie",
-  "address": "433台灣臺中市沙鹿區鹿寮里中山路398-1號",
-  "rating": 4.7,
-  "userRatingCount": 636,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=7224148425998437605&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2428623,
-   "longitude": 120.5615633
-  },
-  "types": [
-   "dessert_shop",
-   "confectionery",
-   "food_store",
-   "store",
    "food",
    "point_of_interest",
    "establishment"
