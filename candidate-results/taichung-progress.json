@@ -1,8 +1,8 @@
 {
  "_note": "台中全區補完排程的狀態檔。規則見 .claude/skills/add-restaurant/TAICHUNG_SWEEP.md。",
  "in_progress": {
-  "district": "豐原",
-  "started_at": "2026-10-19T07:43:31Z"
+  "district": "大里",
+  "started_at": "2026-10-19T07:48:26Z"
  },
  "done": {
   "西區": {
@@ -48,6 +48,14 @@
    "finished_at": "2026-10-19T07:33:24Z",
    "sync_verified": true,
    "prd_promoted": true
+  },
+  "豐原": {
+   "area": "豐原",
+   "count": 30,
+   "qas_commit": "a9fe61b7244b6a0e1c5f4085420795ddd67c2944",
+   "finished_at": "2026-10-19T07:48:26Z",
+   "sync_verified": true,
+   "prd_promoted": true
   }
  },
  "skipped": {
@@ -78,20 +86,6 @@
   }
  },
  "queue": [
-  {
-   "area": "豐原",
-   "label": "豐原",
-   "slug": "fengyuan",
-   "center": [
-    24.252,
-    120.722
-   ],
-   "landmarks": [
-    "廟東夜市 美食",
-    "豐原車站 美食"
-   ],
-   "population_approx": 166000
-  },
   {
    "area": "大里",
    "label": "大里",
