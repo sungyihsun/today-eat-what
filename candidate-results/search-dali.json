@@ -1,0 +1,3757 @@
+{
+ "12104869217324519708": {
+  "place_id": "ChIJ-TlpDY49aTQRHFEwN2si_ac",
+  "name": "橡本の廚坊-Pasta＆燉飯＆咖哩飯│台中義大利麵餐廳│大里美食推薦餐廳│大里咖喱飯晚餐",
+  "address": "412台灣臺中市大里區新里里新興路100號之2",
+  "rating": 4.9,
+  "userRatingCount": 50,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=12104869217324519708&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1026864,
+   "longitude": 120.67629129999999
+  },
+  "types": [
+   "restaurant",
+   "japanese_curry_restaurant",
+   "dim_sum_restaurant",
+   "brunch_restaurant",
+   "cantonese_restaurant",
+   "cat_cafe",
+   "italian_restaurant",
+   "european_restaurant",
+   "food_store",
+   "japanese_restaurant",
+   "store",
+   "chinese_restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "3867815465309074133": {
+  "place_id": "ChIJqZ6NQaA9aTQR1XKCUqw9rTU",
+  "name": "厝秘 功夫菜 手路湯 大里店",
+  "address": "412台灣臺中市大里區國光里國光路二段80號",
+  "rating": 4.7,
+  "userRatingCount": 382,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=3867815465309074133&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.102433599999998,
+   "longitude": 120.6821525
+  },
+  "types": [
+   "taiwanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "14494530008291802803": {
+  "place_id": "ChIJR690Ots9aTQRs_54Sj_qJsk",
+  "name": "全安堂x州冰棍",
+  "address": "412台灣臺中市大里區永興路277號",
+  "rating": 4.7,
+  "userRatingCount": 2234,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=14494530008291802803&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.113927,
+   "longitude": 120.6811225
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "17286709966008872177": {
+  "place_id": "ChIJDUu2Vuk8aTQR8ewpCyC75u8",
+  "name": "老點_Homies",
+  "address": "41284台灣臺中市大里區國光里德芳南路422號",
+  "rating": 4.4,
+  "userRatingCount": 2794,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=17286709966008872177&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1041756,
+   "longitude": 120.68371959999999
+  },
+  "types": [
+   "restaurant",
+   "brunch_restaurant",
+   "hamburger_restaurant",
+   "american_restaurant",
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "252342651220627287": {
+  "place_id": "ChIJRXsOmUI9aTQRV4-v502AgAM",
+  "name": "食鮮森鐵板燒-大里店",
+  "address": "412台灣臺中市大里區國光路二段219-1號",
+  "rating": 4.9,
+  "userRatingCount": 206,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=252342651220627287&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1043818,
+   "longitude": 120.68105059999999
+  },
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "11766488732755910816": {
+  "place_id": "ChIJqerBclU9aTQRoGCNMSn3SqM",
+  "name": "UNNIE CAFE",
+  "address": "412台灣臺中市大里區長榮里大里路101-5號",
+  "rating": 4.7,
+  "userRatingCount": 205,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=11766488732755910816&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1036921,
+   "longitude": 120.68622730000001
+  },
+  "types": [
+   "brunch_restaurant",
+   "cat_cafe",
+   "food_store",
+   "store",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "15051788703196509146": {
+  "place_id": "ChIJmUWhiJ89aTQR2vND6BOy4tA",
+  "name": "食久。茶事",
+  "address": "412台灣臺中市大里區立德里甲堤南路71-1號",
+  "rating": 4.6,
+  "userRatingCount": 1114,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=15051788703196509146&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.102560699999998,
+   "longitude": 120.6956089
+  },
+  "types": [
+   "restaurant",
+   "japanese_curry_restaurant",
+   "cafe",
+   "italian_restaurant",
+   "dessert_shop",
+   "confectionery",
+   "european_restaurant",
+   "food_store",
+   "japanese_restaurant",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "9295932551781243510": {
+  "place_id": "ChIJDdc5Qd08aTQRdlrpZGfJAYE",
+  "name": "樹太老日本定食-台中大里店",
+  "address": "412台灣臺中市大里區國光里德芳南路487號",
+  "rating": 4.4,
+  "userRatingCount": 2841,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=9295932551781243510&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1044637,
+   "longitude": 120.68182290000001
+  },
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "4468053517836550064": {
+  "place_id": "ChIJc05rdNk9aTQRsP8UcAC3AT4",
+  "name": "嗑肉石鍋-台中大里店(二代店)",
+  "address": "412台灣臺中市大里區德芳南路369號",
+  "rating": 4.9,
+  "userRatingCount": 5431,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=4468053517836550064&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1032521,
+   "longitude": 120.6842377
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "3850843269132302977": {
+  "place_id": "ChIJk3BlNhw9aTQRgbpV9ozxcDU",
+  "name": "SP夏帕義大利麵 台中大里店",
+  "address": "412台灣臺中市大里區長榮里東榮路189號",
+  "rating": 4.8,
+  "userRatingCount": 1331,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=3850843269132302977&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1102424,
+   "longitude": 120.68509650000001
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "15531335056864265291": {
+  "place_id": "ChIJ6-WMNoA9aTQRS0T3F_Jiitc",
+  "name": "AcornCake&CafeFood°生日蛋糕.甜點禮盒.客製蛋糕｜午茶聚會餐廳.義大利麵.燉飯.咖哩飯｜外燴包場抓周活動",
+  "address": "412台灣臺中市大里區新里里新興路100號之1",
+  "rating": 5,
+  "userRatingCount": 964,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=15531335056864265291&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1027199,
+   "longitude": 120.67637239999999
+  },
+  "types": [
+   "cake_shop",
+   "japanese_curry_restaurant",
+   "brunch_restaurant",
+   "cat_cafe",
+   "gift_shop",
+   "bakery",
+   "dessert_shop",
+   "confectionery",
+   "wholesaler",
+   "manufacturer",
+   "food_store",
+   "japanese_restaurant",
+   "store",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "service",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "7972083347957008517": {
+  "place_id": "ChIJEbyeevI8aTQRhcjIKpGHom4",
+  "name": "小春Koharu 大里旗艦店",
+  "address": "412台灣臺中市大里區新里里德芳路二段159號",
+  "rating": 4.5,
+  "userRatingCount": 2537,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=7972083347957008517&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1032396,
+   "longitude": 120.67689969999999
+  },
+  "types": [
+   "restaurant",
+   "asian_restaurant",
+   "wedding_venue",
+   "event_venue",
+   "service",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "4271791318333569796": {
+  "place_id": "ChIJOfmwnuo9aTQRBLveM5JzSDs",
+  "name": "湘春家-大里店｜大里午晚餐｜家常湯麵",
+  "address": "412台灣臺中市大里區長榮里中興路二段153之1號",
+  "rating": 4.7,
+  "userRatingCount": 699,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=4271791318333569796&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1053315,
+   "longitude": 120.6891511
+  },
+  "types": [
+   "chinese_noodle_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "11723717188066945886": {
+  "place_id": "ChIJ7_6em-48aTQRXivf6aoCs6I",
+  "name": "阿Q茶舍（大里店）",
+  "address": "412台灣臺中市大里區國光里國光路二段190號",
+  "rating": 4.2,
+  "userRatingCount": 3810,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=11723717188066945886&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1045028,
+   "longitude": 120.68172220000001
+  },
+  "types": [
+   "restaurant",
+   "hot_pot_restaurant",
+   "dim_sum_restaurant",
+   "cantonese_restaurant",
+   "tea_house",
+   "chinese_restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "17372740846022825726": {
+  "place_id": "ChIJY4Pehe48aTQR_hYcNsFfGPE",
+  "name": "品心港式飲茶 大里店",
+  "address": "412台灣臺中市大里區新里里國光路二段221號",
+  "rating": 4.6,
+  "userRatingCount": 11734,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=17372740846022825726&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.104977,
+   "longitude": 120.68076099999998
+  },
+  "types": [
+   "chinese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "2191960857228833792": {
+  "place_id": "ChIJtYPL2-s8aTQRAHSvQMloax4",
+  "name": "烤狀猿LEVEL UP(大里店)",
+  "address": "412台灣臺中市大里區國光里大里路118號",
+  "rating": 4.8,
+  "userRatingCount": 16072,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=2191960857228833792&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1029645,
+   "longitude": 120.68517469999999
+  },
+  "types": [
+   "barbecue_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "17266386358886625854": {
+  "place_id": "ChIJPzvWQgA9aTQRPnIWhOmGnu8",
+  "name": "餐桌上的時光/金城社區公園進入",
+  "address": "412台灣臺中市大里區金城里向上街5號",
+  "rating": 4.6,
+  "userRatingCount": 173,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=17266386358886625854&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.0921387,
+   "longitude": 120.698938
+  },
+  "types": [
+   "brunch_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "11512779497170928050": {
+  "place_id": "ChIJTUfXTNs9aTQRsgFGkvSbxZ8",
+  "name": "喜辰港式點心茶餐廳 台中大里店",
+  "address": "412台灣臺中市大里區國光里德芳南路472號",
+  "rating": 4.4,
+  "userRatingCount": 764,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=11512779497170928050&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1046475,
+   "longitude": 120.6828287
+  },
+  "types": [
+   "chinese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "4053147519735953261": {
+  "place_id": "ChIJ3X_ehLg8aTQRbfcd2DGsPzg",
+  "name": "晨光手作料理坊早午餐",
+  "address": "412台灣臺中市大里區長榮里大里路59之3號",
+  "rating": 4.9,
+  "userRatingCount": 4186,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=4053147519735953261&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.105501999999998,
+   "longitude": 120.6877243
+  },
+  "types": [
+   "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "6242481870329485994": {
+  "place_id": "ChIJI97eV9o9aTQRqhrO3S_AoVY",
+  "name": "時間 & 美味堡早餐～（公休時間請以公告為主）大里早午餐、大里早餐、台中早午餐",
+  "address": "412台灣臺中市大里區新里里永大街62號",
+  "rating": 4.7,
+  "userRatingCount": 147,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=6242481870329485994&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.105631799999998,
+   "longitude": 120.6798403
+  },
+  "types": [
+   "breakfast_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "11805793540187808045": {
+  "place_id": "ChIJBy_Eato9aTQRLeF-zqya1qM",
+  "name": "煙留早午餐｜熱壓三明治、義大利麵、特色小品｜",
+  "address": "412台灣臺中市大里區西榮里東明路160號",
+  "rating": 4.9,
+  "userRatingCount": 298,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=11805793540187808045&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1133944,
+   "longitude": 120.68509379999999
+  },
+  "types": [
+   "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "16028269446038136483": {
+  "place_id": "ChIJWRQaoCo9aTQRo6ZZxyPab94",
+  "name": "歐浮找餐-大里新南店",
+  "address": "412台灣臺中市大里區長榮里新南路218號一樓",
+  "rating": 4.9,
+  "userRatingCount": 1108,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=16028269446038136483&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.108614,
+   "longitude": 120.6864695
+  },
+  "types": [
+   "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "1348396632807457343": {
+  "place_id": "ChIJl3Zjct89aTQRP0LS6pd3thI",
+  "name": "來點什麼-大里店",
+  "address": "412台灣臺中市大里區東明路336號",
+  "rating": 4.6,
+  "userRatingCount": 393,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=1348396632807457343&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1130411,
+   "longitude": 120.6811708
+  },
+  "types": [
+   "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "14121988727289270129": {
+  "place_id": "ChIJW_8Dpu08aTQRcc8lDO1h-8M",
+  "name": "找晨。Find Morning 手作輕食料理",
+  "address": "412台灣臺中市大里區新里里愛心路77號",
+  "rating": 4.3,
+  "userRatingCount": 1026,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=14121988727289270129&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.102303799999998,
+   "longitude": 120.6796287
+  },
+  "types": [
+   "brunch_restaurant",
+   "breakfast_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "15950472643084738180": {
+  "place_id": "ChIJMQNokzc9aTQRhN6mElx2W90",
+  "name": "6吋盤早午餐 台中大里店",
+  "address": "412台灣臺中市大里區長榮里中興路二段117號1樓",
+  "rating": 4,
+  "userRatingCount": 34,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=15950472643084738180&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1038507,
+   "longitude": 120.68874669999998
+  },
+  "types": [
+   "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "2869470778240949347": {
+  "place_id": "ChIJ2QGd6T09aTQRY1xqPnho0ic",
+  "name": "搞岡早午餐",
+  "address": "412台灣臺中市大里區國光里勝利二路346號",
+  "rating": 4.3,
+  "userRatingCount": 607,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=2869470778240949347&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.102763799999998,
+   "longitude": 120.6826583
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "6390540667394005218": {
+  "place_id": "ChIJ52-tYZM9aTQR4hi14uDCr1g",
+  "name": "朝起饗時早午餐",
+  "address": "41257台灣臺中市大里區永隆里永隆路358號1樓",
+  "rating": 4.6,
+  "userRatingCount": 136,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=6390540667394005218&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1107893,
+   "longitude": 120.67661549999998
+  },
+  "types": [
+   "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "4240899367470518884": {
+  "place_id": "ChIJ0xitQ-w8aTQRZFJCZoGz2jo",
+  "name": "甌森廚房",
+  "address": "412台灣臺中市大里區國光路二段145號",
+  "rating": 4.1,
+  "userRatingCount": 663,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=4240899367470518884&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1025006,
+   "longitude": 120.6816614
+  },
+  "types": [
+   "restaurant",
+   "breakfast_restaurant",
+   "brunch_restaurant",
+   "coffee_shop",
+   "cafe",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "17239778589714715424": {
+  "place_id": "ChIJcaHfP7o9aTQRIJNUfkn_P-8",
+  "name": "晨始Chance Brunch早午餐（週三週四公休）｜義大利麵｜燉飯｜老宅餐廳",
+  "address": "412台灣臺中市大里區金城里塗城路673巷2弄1號",
+  "rating": 4.7,
+  "userRatingCount": 550,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=17239778589714715424&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.0882364,
+   "longitude": 120.70122429999999
+  },
+  "types": [
+   "brunch_restaurant",
+   "food_store",
+   "store",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "7800032052153982669": {
+  "place_id": "ChIJqenyEgA9aTQRzZ5MOdNHP2w",
+  "name": "50米深嵐早午餐 大里店",
+  "address": "412台灣臺中市大里區大里路379號",
+  "rating": 4.3,
+  "userRatingCount": 22,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=7800032052153982669&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.0975495,
+   "longitude": 120.67643679999999
+  },
+  "types": [
+   "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "8177686092626957907": {
+  "place_id": "ChIJs_TKPAA9aTQRU5auiyz6fHE",
+  "name": "米麥灶咖（早午餐咖啡）",
+  "address": "412台灣臺中市大里區內新里東榮路一段41號",
+  "rating": 4.7,
+  "userRatingCount": 90,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=8177686092626957907&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1092135,
+   "longitude": 120.69262429999999
+  },
+  "types": [
+   "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "16190833440602152007": {
+  "place_id": "ChIJJay3h0U9aTQRR1ybRDtlseA",
+  "name": "煦苑 Brunch Café（假日採現場制）",
+  "address": "412台灣臺中市大里區瑞城里美村街155號",
+  "rating": 4.6,
+  "userRatingCount": 539,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=16190833440602152007&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.085668,
+   "longitude": 120.7020426
+  },
+  "types": [
+   "brunch_restaurant",
+   "breakfast_restaurant",
+   "dim_sum_restaurant",
+   "cantonese_restaurant",
+   "coworking_space",
+   "dessert_shop",
+   "confectionery",
+   "event_venue",
+   "food_store",
+   "store",
+   "chinese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "service",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "2919052667277911442": {
+  "place_id": "ChIJ_S_ulJE9aTQRkqXBYe-Ogig",
+  "name": "暮香炭烤土司［大里店］",
+  "address": "412台灣臺中市大里區長榮里中興路二段163號",
+  "rating": 4.6,
+  "userRatingCount": 973,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=2919052667277911442&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1060569,
+   "longitude": 120.6892992
+  },
+  "types": [
+   "breakfast_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "12004615005516874996": {
+  "place_id": "ChIJgRZMexQ9aTQR9EQojb71mKY",
+  "name": "喜饌晨食",
+  "address": "412台灣臺中市大里區新里里爽文路556號",
+  "rating": 4.8,
+  "userRatingCount": 1242,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=12004615005516874996&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1035616,
+   "longitude": 120.6749394
+  },
+  "types": [
+   "breakfast_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "11224840771300934613": {
+  "place_id": "ChIJwbZ_Qq09aTQR1cO2sTWlxps",
+  "name": "優窩早·午食",
+  "address": "412台灣臺中市大里區東興里大明路281號",
+  "rating": 4.9,
+  "userRatingCount": 56,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=11224840771300934613&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.114986299999998,
+   "longitude": 120.68125169999999
+  },
+  "types": [
+   "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "14894892213883414285": {
+  "place_id": "ChIJde-pRAA9aTQRDadAUI1Jtc4",
+  "name": "NOV._拾壹 （無提供訂位）早午餐/輕食/咖啡/甜點",
+  "address": "412台灣臺中市大里區東湖里中湖路2號",
+  "rating": 5,
+  "userRatingCount": 85,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=14894892213883414285&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.0879406,
+   "longitude": 120.6955765
+  },
+  "types": [
+   "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "7374529593394377393": {
+  "place_id": "ChIJ1zcPod49aTQRsbLg35eXV2Y",
+  "name": "日漉料理屋",
+  "address": "412台灣臺中市大里區中興路二段206號",
+  "rating": 4.8,
+  "userRatingCount": 815,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=7374529593394377393&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1027204,
+   "longitude": 120.6886006
+  },
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "3056839868044062711": {
+  "place_id": "ChIJg3HcBmQ9aTQR968EBqoTbCo",
+  "name": "櫻花町日式料理",
+  "address": "412台灣臺中市大里區至聖路32號",
+  "rating": 4.9,
+  "userRatingCount": 128,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=3056839868044062711&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.105928799999997,
+   "longitude": 120.6821075
+  },
+  "types": [
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "11468373122849119067": {
+  "place_id": "ChIJeVyNVgA9aTQRWxsP25fYJ58",
+  "name": "喬八丼飯",
+  "address": "412013台灣臺中市大里區國光里益民路二段177號",
+  "rating": 4.9,
+  "userRatingCount": 461,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=11468373122849119067&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1076841,
+   "longitude": 120.6840814
+  },
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "3854907958697771720": {
+  "place_id": "ChIJ4SGhfck9aTQRyMIBQF1ifzU",
+  "name": "八捌日式料理",
+  "address": "412041台灣臺中市大里區大元里中興路二段88號",
+  "rating": 4.7,
+  "userRatingCount": 121,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=3854907958697771720&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.0974197,
+   "longitude": 120.68711519999998
+  },
+  "types": [
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "8025232872491544974": {
+  "place_id": "ChIJmQ4OJik9aTQRjnGlLMdaX28",
+  "name": "銘月手作食堂",
+  "address": "412台灣臺中市大里區新里里上田街9號",
+  "rating": 4.9,
+  "userRatingCount": 187,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=8025232872491544974&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.103632200000003,
+   "longitude": 120.68066699999999
+  },
+  "types": [
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "5982985681939394376": {
+  "place_id": "ChIJb92tG-o8aTQRSO8-TMfVB1M",
+  "name": "懷念日式手作壽司丼",
+  "address": "412台灣臺中市大里區長榮里德芳南路200號",
+  "rating": 4.8,
+  "userRatingCount": 1351,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=5982985681939394376&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1021825,
+   "longitude": 120.6881255
+  },
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "15436433225770370267": {
+  "place_id": "ChIJ_Zifry89aTQR24QUrTs6OdY",
+  "name": "小日子和風食堂",
+  "address": "41241台灣臺中市大里區益民路一段511號",
+  "rating": 4.6,
+  "userRatingCount": 638,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=15436433225770370267&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.106040399999998,
+   "longitude": 120.68978489999999
+  },
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "949473308281160046": {
+  "place_id": "ChIJX6IplyE9aTQRbkHQf_E0LQ0",
+  "name": "辻牧手作丼飯·烏龍麵",
+  "address": "41241台灣臺中市大里區中新里益民路一段505號",
+  "rating": 5,
+  "userRatingCount": 358,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=949473308281160046&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.106076899999998,
+   "longitude": 120.68991729999999
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "6097800630007201131": {
+  "place_id": "ChIJL6YmJ7c8aTQRa327jl29n1Q",
+  "name": "大和川日式料理(壽司/生魚片/丼飯/拉麵/宵夜最後接單時間凌晨12點半",
+  "address": "412台灣臺中市大里區瑞城里成功路478號",
+  "rating": 4.2,
+  "userRatingCount": 1040,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=6097800630007201131&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.0896883,
+   "longitude": 120.703232
+  },
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "9033991096164686972": {
+  "place_id": "ChIJXV4y-Eg9aTQRfBzwrgkvX30",
+  "name": "鮭太郎 壽司．丼",
+  "address": "412台灣臺中市大里區新仁路二段278號",
+  "rating": 4.7,
+  "userRatingCount": 184,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=9033991096164686972&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1128467,
+   "longitude": 120.69072949999999
+  },
+  "types": [
+   "japanese_restaurant",
+   "sushi_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "7989769632096575827": {
+  "place_id": "ChIJJWzzrtE8aTQRU-FRFiZd4W4",
+  "name": "樂亭日本料理",
+  "address": "412台灣臺中市大里區立德里立仁路180號",
+  "rating": 4.5,
+  "userRatingCount": 477,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=7989769632096575827&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1069098,
+   "longitude": 120.70378219999999
+  },
+  "types": [
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "18075853776809434139": {
+  "place_id": "ChIJ47dCPng9aTQRGxyhcj1V2vo",
+  "name": "小日子的貳號店",
+  "address": "412015台灣臺中市大里區長榮里德芳南路370號",
+  "rating": 4.9,
+  "userRatingCount": 277,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=18075853776809434139&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1038227,
+   "longitude": 120.6845726
+  },
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "16332837393598426571": {
+  "place_id": "ChIJlZMXccY9aTQRy62mCxPlqeI",
+  "name": "禾倉酒場",
+  "address": "412台灣臺中市大里區長榮里中興路二段309巷1號內新黃昏市場後面停車場繳費機旁邊",
+  "rating": 4.6,
+  "userRatingCount": 563,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=16332837393598426571&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1091941,
+   "longitude": 120.6886517
+  },
+  "types": [
+   "japanese_izakaya_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "17673050993995623097": {
+  "place_id": "ChIJA3GEwxE9aTQRuSp5Qj5KQ_U",
+  "name": "荀手作 壽司/便當/外送/派對盤/會議便當",
+  "address": "412台灣臺中市大里區新里里愛心路152號",
+  "rating": 4.8,
+  "userRatingCount": 105,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=17673050993995623097&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.102644599999998,
+   "longitude": 120.67805179999999
+  },
+  "types": [
+   "meal_takeaway",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "1052279888711458870": {
+  "place_id": "ChIJTavTGr49aTQRNiDvyvtymg4",
+  "name": "大勝食堂",
+  "address": "412台灣臺中市大里區東昇里新光路85號",
+  "rating": 4.6,
+  "userRatingCount": 514,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=1052279888711458870&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1097947,
+   "longitude": 120.6920564
+  },
+  "types": [
+   "ramen_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "17697316237980853682": {
+  "place_id": "ChIJv1P5LLY8aTQRsuWZolp_mfU",
+  "name": "弗卡夏手作義式料理",
+  "address": "412台灣臺中市大里區仁德里成功二路45號",
+  "rating": 4.5,
+  "userRatingCount": 4184,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=17697316237980853682&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.0935743,
+   "longitude": 120.7036384
+  },
+  "types": [
+   "cafeteria",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "8507343996802388595": {
+  "place_id": "ChIJl4so4_89aTQRc1J1j0ooEHY",
+  "name": "季.序義大利麵-大里店（燉飯/義式料理）無內用",
+  "address": "412台灣臺中市大里區益民路二段333號",
+  "rating": 4.9,
+  "userRatingCount": 16,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=8507343996802388595&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.112973,
+   "longitude": 120.68373129999999
+  },
+  "types": [
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "16175997925320964205": {
+  "place_id": "ChIJlS-8dQA9aTQRbTg2smiwfOA",
+  "name": "義享天開 Pasta&Pizza",
+  "address": "412台灣臺中市大里區長榮里新南路136號",
+  "rating": 4.9,
+  "userRatingCount": 95,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=16175997925320964205&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1081584,
+   "longitude": 120.6887852
+  },
+  "types": [
+   "italian_restaurant",
+   "european_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "4662597151260052261": {
+  "place_id": "ChIJX3wvEAA9aTQRJYua02fftEA",
+  "name": "HUN混 義大利麵 大里店",
+  "address": "41246台灣臺中市大里區內新里中興路二段478-1號",
+  "rating": 4.7,
+  "userRatingCount": 577,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=4662597151260052261&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.110252,
+   "longitude": 120.6900543
+  },
+  "types": [
+   "italian_restaurant",
+   "european_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "1417721059602615474": {
+  "place_id": "ChIJyQjuOAA9aTQRskw01MrBrBM",
+  "name": "亞丁尼義式麵屋 大里店",
+  "address": "412台灣臺中市大里區內新里中興路二段476之1號2樓",
+  "rating": 4.9,
+  "userRatingCount": 3407,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=1417721059602615474&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1099215,
+   "longitude": 120.69012959999999
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "11997505700932460880": {
+  "place_id": "ChIJ43l4qO48aTQRUKHNlt6zf6Y",
+  "name": "蘿勒廚房｜義大利麵｜披薩｜燉飯｜焗烤",
+  "address": "412台灣臺中市大里區德芳南路455號",
+  "rating": 4.7,
+  "userRatingCount": 2001,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=11997505700932460880&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1041978,
+   "longitude": 120.682685
+  },
+  "types": [
+   "restaurant",
+   "salad_shop",
+   "meal_takeaway",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "5713731231952821673": {
+  "place_id": "ChIJdWYJ7e48aTQRqV2aZkhAS08",
+  "name": "南風廚房義大利麵",
+  "address": "412台灣臺中市大里區永隆一街187號",
+  "rating": 4.4,
+  "userRatingCount": 360,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=5713731231952821673&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1044982,
+   "longitude": 120.67703370000001
+  },
+  "types": [
+   "italian_restaurant",
+   "european_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "2952952376754712370": {
+  "place_id": "ChIJGSf3ZAE9aTQRMi8cj4r--ig",
+  "name": "季序 義大利麵",
+  "address": "412台灣臺中市大里區瑞城里塗城路318號",
+  "rating": 4.6,
+  "userRatingCount": 192,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=2952952376754712370&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.0876149,
+   "longitude": 120.70577349999999
+  },
+  "types": [
+   "italian_restaurant",
+   "european_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "14802332649825977930": {
+  "place_id": "ChIJDyqNkLk8aTQRSkYLcB5zbM0",
+  "name": "兔義特 TO EAT PASTA",
+  "address": "412台灣臺中市大里區金城里上興街二段34號",
+  "rating": 4.6,
+  "userRatingCount": 246,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=14802332649825977930&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.090715499999998,
+   "longitude": 120.69844730000001
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "12801542905180707508": {
+  "place_id": "ChIJHV0ICqg8aTQRtNo3YHI3qLE",
+  "name": "非黑即白義大利麵專賣店",
+  "address": "412台灣臺中市大里區金城里中興路一段312之3號",
+  "rating": 4.7,
+  "userRatingCount": 3061,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=12801542905180707508&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.089976699999998,
+   "longitude": 120.69392939999997
+  },
+  "types": [
+   "restaurant",
+   "salad_shop",
+   "food_store",
+   "store",
+   "chinese_restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "17931465168873516241": {
+  "place_id": "ChIJ_eHkK908aTQR0ez-7JBc2fg",
+  "name": "猴子披薩（20:00最後點餐）",
+  "address": "412台灣臺中市大里區長榮里東榮路55巷7號",
+  "rating": 4.4,
+  "userRatingCount": 756,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=17931465168873516241&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.108593900000002,
+   "longitude": 120.68734819999999
+  },
+  "types": [
+   "italian_restaurant",
+   "pizza_restaurant",
+   "european_restaurant",
+   "food_store",
+   "store",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "7378866471800251557": {
+  "place_id": "ChIJH3f83_o8aTQRpaSxEPb_ZmY",
+  "name": "日漫咖啡大里永隆",
+  "address": "41283台灣臺中市大里區永隆里大明路457號2樓",
+  "rating": 4.4,
+  "userRatingCount": 1100,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=7378866471800251557&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.114838199999998,
+   "longitude": 120.67636399999999
+  },
+  "types": [
+   "italian_restaurant",
+   "brunch_restaurant",
+   "european_restaurant",
+   "food_store",
+   "store",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "17677343874558569841": {
+  "place_id": "ChIJRSWXz0A9aTQRca19Z5iKUvU",
+  "name": "隨便，坐",
+  "address": "412台灣臺中市大里區東湖里公園街421巷2號",
+  "rating": 4.8,
+  "userRatingCount": 1099,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=17677343874558569841&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.085590999999997,
+   "longitude": 120.69309790000001
+  },
+  "types": [
+   "western_restaurant",
+   "american_restaurant",
+   "dessert_restaurant",
+   "chinese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "11353727765983909608": {
+  "place_id": "ChIJmzkdVOk8aTQR6Nb1nz-LkJ0",
+  "name": "廚異料理牛排",
+  "address": "412台灣臺中市大里區國光里德芳南路430號",
+  "rating": 4.3,
+  "userRatingCount": 686,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=11353727765983909608&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1042772,
+   "longitude": 120.6836193
+  },
+  "types": [
+   "western_restaurant",
+   "steak_house",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "7920678015957793116": {
+  "place_id": "ChIJZWH9TwA9aTQRXPloobDm620",
+  "name": "築間燒肉本命 食べ放題 台中大里店",
+  "address": "412台灣臺中市大里區國光里德芳南路472-1號",
+  "rating": 4.3,
+  "userRatingCount": 2286,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=7920678015957793116&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1046232,
+   "longitude": 120.68281239999999
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "6613736165103251746": {
+  "place_id": "ChIJkWLWDK49aTQRIjEiRwC2yFs",
+  "name": "肉肉燒肉大里店",
+  "address": "412台灣臺中市大里區內新里中興路二段482號",
+  "rating": 4.8,
+  "userRatingCount": 881,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=6613736165103251746&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1110749,
+   "longitude": 120.69007510000002
+  },
+  "types": [
+   "yakiniku_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "12577169896685564637": {
+  "place_id": "ChIJ9aPn1IE9aTQR3fKtY2IVi64",
+  "name": "嘉義頂山門碳烤 台中大里店",
+  "address": "412台灣臺中市大里區仁化里仁慈街12巷2號",
+  "rating": 4.8,
+  "userRatingCount": 103,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=12577169896685564637&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.093057599999998,
+   "longitude": 120.690696
+  },
+  "types": [
+   "kebab_shop",
+   "snack_bar",
+   "meal_takeaway",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "17383079589907389953": {
+  "place_id": "ChIJXbEhAUA9aTQRAd7FmskaPfE",
+  "name": "one&one燒肉．大里店",
+  "address": "412台灣臺中市大里區東興里大明路307巷1號",
+  "rating": 4.6,
+  "userRatingCount": 1818,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=17383079589907389953&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.114637100000003,
+   "longitude": 120.68068339999999
+  },
+  "types": [
+   "yakiniku_restaurant",
+   "barbecue_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "17405372216818964800": {
+  "place_id": "ChIJpXqls0A9aTQRQJnyRtBNjPE",
+  "name": "子是燒肉/大里美食/台日便當/排骨飯燒肉飯/會議外送/團訂服務",
+  "address": "412台灣臺中市大里區長榮里益民路二段176號",
+  "rating": 4.7,
+  "userRatingCount": 607,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=17405372216818964800&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.108489,
+   "longitude": 120.68424300000001
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "15691373380773006355": {
+  "place_id": "ChIJXXV5VgA9aTQRE8z-DvT0wtk",
+  "name": "小陳豬肉串(大里店)",
+  "address": "412台灣臺中市大里區金城里中興路一段312-7號",
+  "rating": 4.9,
+  "userRatingCount": 25,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=15691373380773006355&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.0902291,
+   "longitude": 120.69393629999999
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "12336493688445610162": {
+  "place_id": "ChIJO4xIhMI8aTQRsiim6aUHNKs",
+  "name": "夜燒碳烤居酒屋(大里店)-(平價日式 美食宵夜、必吃串燒、人氣小酌聚餐)",
+  "address": "412台灣臺中市大里區中新里中興路二段362號",
+  "rating": 4.6,
+  "userRatingCount": 1586,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=12336493688445610162&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.105484999999998,
+   "longitude": 120.68946940000001
+  },
+  "types": [
+   "japanese_izakaya_restaurant",
+   "kebab_shop",
+   "yakitori_restaurant",
+   "bar_and_grill",
+   "bar",
+   "japanese_restaurant",
+   "store",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "8091964180508040431": {
+  "place_id": "ChIJP_YfE5g9aTQR79xdkoxuTHA",
+  "name": "李林烤肉之家-美群店",
+  "address": "412台灣臺中市大里區塗城里美群路11號",
+  "rating": 4.9,
+  "userRatingCount": 229,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=8091964180508040431&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.086309099999998,
+   "longitude": 120.70888989999999
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "5430731645393253693": {
+  "place_id": "ChIJ8WZqQMo9aTQRPTUjgqjVXUs",
+  "name": "夯爸碳烤",
+  "address": "412台灣臺中市大里區內新里中興路二段406-2號",
+  "rating": 4.8,
+  "userRatingCount": 61,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=5430731645393253693&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.107772999999998,
+   "longitude": 120.69021620000001
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "12694188779076478116": {
+  "place_id": "ChIJp1TMFmM9aTQRpGSaGHDRKrA",
+  "name": "黃正忠BARBECUE燒烤",
+  "address": "412台灣臺中市大里區瑞城里成功路547號",
+  "rating": 4.6,
+  "userRatingCount": 30,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=12694188779076478116&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.091871100000002,
+   "longitude": 120.7034065
+  },
+  "types": [
+   "restaurant",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "6870003120890594837": {
+  "place_id": "ChIJXSkehEc9aTQRFUaCinAnV18",
+  "name": "豪客蝦宴-台中店｜免剝殼泰國蝦・重慶烤魚・熱炒燒烤・宵夜餐廳｜",
+  "address": "412台灣臺中市大里區長榮里中興路二段420號",
+  "rating": 4.9,
+  "userRatingCount": 1202,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=6870003120890594837&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.108344799999998,
+   "longitude": 120.6901163
+  },
+  "types": [
+   "restaurant",
+   "bar_and_grill",
+   "bar",
+   "food_store",
+   "japanese_restaurant",
+   "store",
+   "chinese_restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "12139884438666521945": {
+  "place_id": "ChIJGTqiaQA9aTQRWa0CvZOIeag",
+  "name": "大無敵烤肉飯-大里成功店",
+  "address": "412台灣臺中市大里區瑞城里成功路538-1號",
+  "rating": 4.5,
+  "userRatingCount": 425,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=12139884438666521945&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.090968099999998,
+   "longitude": 120.7034215
+  },
+  "types": [
+   "restaurant",
+   "meal_delivery",
+   "food_delivery",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "10539482747244724296": {
+  "place_id": "ChIJOezVzm89aTQRSEDh0bfDQ5I",
+  "name": "ㄚ將古法碳烤 大里塗城總店（烤物採用先炸後碳烤）",
+  "address": "412台灣臺中市大里區瑞城里塗城路459號",
+  "rating": 4.5,
+  "userRatingCount": 110,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=10539482747244724296&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.087038,
+   "longitude": 120.7071488
+  },
+  "types": [
+   "kebab_shop",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "12333933647541071441": {
+  "place_id": "ChIJH3F65ts9aTQRUW7s8E3vKqs",
+  "name": "居酒屋 ·拉麵｜酉直 拉麵·炭火專門店日式·串燒·啤酒·日本清酒",
+  "address": "412台灣臺中市大里區內新里東榮路一段79號",
+  "rating": 5,
+  "userRatingCount": 608,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=12333933647541071441&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.10983,
+   "longitude": 120.6902916
+  },
+  "types": [
+   "restaurant",
+   "japanese_izakaya_restaurant",
+   "ramen_restaurant",
+   "yakitori_restaurant",
+   "japanese_restaurant",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "13181538346608997799": {
+  "place_id": "ChIJrUf4cQA9aTQRp7XRlkk77rY",
+  "name": "小蒙牛頂級麻辣鍋《烤》台中大里店（二代店）/台中美食/台中吃到飽/台中燒烤/大里美食/台中泰國蝦吃到飽",
+  "address": "412台灣臺中市大里區東湖里中興路一段155-1號",
+  "rating": 5,
+  "userRatingCount": 5668,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=13181538346608997799&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.0847884,
+   "longitude": 120.6965772
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "15853729236134850357": {
+  "place_id": "ChIJ2YprSoM9aTQRNe8KXb7CA9w",
+  "name": "赤鬼炙燒牛排 大里店",
+  "address": "412台灣臺中市大里區長榮里德芳南路212號",
+  "rating": 4.4,
+  "userRatingCount": 6832,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=15853729236134850357&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1024653,
+   "longitude": 120.68767049999998
+  },
+  "types": [
+   "steak_house",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "11104907275602074878": {
+  "place_id": "ChIJ83-gv40jaTQR_pzpsVSOHJo",
+  "name": "三十張燒烤（大里店）",
+  "address": "412台灣臺中市大里區中興路一段223號",
+  "rating": 4,
+  "userRatingCount": 105,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=11104907275602074878&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.090492599999997,
+   "longitude": 120.69262320000001
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "10386275763936688962": {
+  "place_id": "ChIJtchkru48aTQRQvuxSMd2I5A",
+  "name": "築間幸福鍋物 火烤雙饗 台中大里店",
+  "address": "412台灣臺中市大里區國光里德芳南路472-2號",
+  "rating": 4.6,
+  "userRatingCount": 6148,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=10386275763936688962&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1046879,
+   "longitude": 120.68261839999998
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "3121779427533973130": {
+  "place_id": "ChIJOwNXdwg9aTQRiuZIddnJUis",
+  "name": "論石間鍋物-台中大里店",
+  "address": "412台灣臺中市大里區長榮里中興路二段93-3號",
+  "rating": 4.8,
+  "userRatingCount": 2862,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=3121779427533973130&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1025952,
+   "longitude": 120.6883139
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "2475617035537747412": {
+  "place_id": "ChIJ3WJUP1M9aTQR1A0i05MoWyI",
+  "name": "享千葉火鍋-大里店(吃到飽火鍋)",
+  "address": "412台灣臺中市大里區中興路二段381號",
+  "rating": 4.8,
+  "userRatingCount": 7748,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=2475617035537747412&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1119326,
+   "longitude": 120.6897953
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "3299485602860031123": {
+  "place_id": "ChIJGV4UNp49aTQRk9z8o6wgyi0",
+  "name": "十二段鍋物堂 | 大里店",
+  "address": "412台灣臺中市大里區國光里德芳南路418號",
+  "rating": 4.8,
+  "userRatingCount": 8545,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=3299485602860031123&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.104124799999997,
+   "longitude": 120.68382229999999
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "4760092905925730314": {
+  "place_id": "ChIJP7EACb89aTQRCmCPI0c_D0I",
+  "name": "牛鍋私藏鍋物大里店（特約停車場）",
+  "address": "412台灣臺中市大里區內新里中興路二段482號之一",
+  "rating": 4.6,
+  "userRatingCount": 2299,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=4760092905925730314&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.111048999999998,
+   "longitude": 120.69012370000002
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "11225928580692698761": {
+  "place_id": "ChIJH72UIAA9aTQRieYXDpGCyps",
+  "name": "尚鮮吃到飽火鍋-大里熱門鍋物|特色鍋物|人氣鍋物|吃到飽推薦|火鍋吃到飽|外帶鍋物|鍋物吃到飽|在地推薦火鍋",
+  "address": "412台灣臺中市大里區新里里國光路二段159號",
+  "rating": 4.8,
+  "userRatingCount": 465,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=11225928580692698761&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.102945899999998,
+   "longitude": 120.6815166
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "13351173013450392833": {
+  "place_id": "ChIJFdKUMgA9aTQRAQV-QR7lSLk",
+  "name": "品外之鍋-自助式（平價）火鍋-大里熱門鍋物|必吃火鍋|平價火鍋|人氣鍋物|火鍋推薦|小火鍋推薦",
+  "address": "412台灣臺中市大里區仁德里成功二路136號",
+  "rating": 4.3,
+  "userRatingCount": 74,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=13351173013450392833&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.095641699999998,
+   "longitude": 120.70453839999999
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "4673513674327376768": {
+  "place_id": "ChIJIbjfCN08aTQRgMM26-yn20A",
+  "name": "八吋鍋《涮涮鍋推薦》大里區石頭火鍋｜個人涮涮鍋｜平價小火鍋｜必吃個人鍋｜精緻小火鍋｜特色｜聚會鍋物",
+  "address": "412台灣臺中市大里區內新里東榮路一段130號",
+  "rating": 4.5,
+  "userRatingCount": 1366,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=4673513674327376768&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1101229,
+   "longitude": 120.69061160000001
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "4007597166492693595": {
+  "place_id": "ChIJ4er4tnE9aTQRW7Sox2PYnTc",
+  "name": "茶汕鼎鍋物-大里個人鍋物|人氣鍋物|熱門鍋物|特色鍋物|海鮮火鍋|在地推薦火鍋",
+  "address": "412台灣臺中市大里區立德里立元路62號",
+  "rating": 4.8,
+  "userRatingCount": 281,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=4007597166492693595&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.100607399999998,
+   "longitude": 120.6968472
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "13643544743000732387": {
+  "place_id": "ChIJDVKnreQ8aTQR4_K0O6ibV70",
+  "name": "五鮮級鍋物專賣 大里中興店",
+  "address": "41259台灣臺中市大里區中新里中興路二段362-1號",
+  "rating": 4.2,
+  "userRatingCount": 1760,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=13643544743000732387&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1055966,
+   "longitude": 120.68961069999999
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "7642393009960666863": {
+  "place_id": "ChIJG_RnPxA9aTQR70aikPM7D2o",
+  "name": "鍋泰暖（原鍋泰山）。泰式南洋火鍋-台中大里店-台中火鍋",
+  "address": "412台灣臺中市大里區大明里大明路262號",
+  "rating": 4.8,
+  "userRatingCount": 2069,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=7642393009960666863&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1153238,
+   "longitude": 120.6831293
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "thai_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "10458451606706329700": {
+  "place_id": "ChIJBQ4Nf-49aTQRZBhYNlPiI5E",
+  "name": "偈亭-泡菜鍋【大里店】",
+  "address": "412台灣臺中市大里區西榮里東榮路8號",
+  "rating": 4.1,
+  "userRatingCount": 1838,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=10458451606706329700&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1101665,
+   "longitude": 120.6892104
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "5977929202043517931": {
+  "place_id": "ChIJp_pFK2c9aTQR6_s81O_e9VI",
+  "name": "湯引石鍋（大里石頭火鍋｜雞鍋｜素食鍋物）",
+  "address": "412台灣臺中市大里區仁德里仁化路571號",
+  "rating": 4.9,
+  "userRatingCount": 777,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=5977929202043517931&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.096513599999998,
+   "longitude": 120.69823280000001
+  },
+  "types": [
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "9624529673012949322": {
+  "place_id": "ChIJR2Zrf-Q8aTQRSrEkor4ykYU",
+  "name": "那個鍋 - 大里店",
+  "address": "412台灣臺中市大里區東興里大明路305號",
+  "rating": 4.1,
+  "userRatingCount": 1459,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=9624529673012949322&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1149561,
+   "longitude": 120.68062239999998
+  },
+  "types": [
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "1335736556774448861": {
+  "place_id": "ChIJT0BC4eA9aTQR3V4LRFJ9iRI",
+  "name": "老湯鍋24H(台中大里)",
+  "address": "412台灣臺中市大里區金城里中興路一段308-3號",
+  "rating": 4,
+  "userRatingCount": 611,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=1335736556774448861&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.089720699999997,
+   "longitude": 120.6942699
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "11990216649910153368": {
+  "place_id": "ChIJ2arehU89aTQRmHDeJYTOZaY",
+  "name": "傅遇鍋物 | 蔬菜自助吧放題",
+  "address": "412台灣臺中市大里區大明里大明路242號",
+  "rating": 4.8,
+  "userRatingCount": 3436,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=11990216649910153368&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.115298,
+   "longitude": 120.68372199999999
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "cafeteria",
+   "japanese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "9629371131731076092": {
+  "place_id": "ChIJUVsce-M8aTQR_GM7lQZmooU",
+  "name": "石二鍋 大里大買家店",
+  "address": "412台灣臺中市大里區大明里國光路二段710號2F",
+  "rating": 4.3,
+  "userRatingCount": 2663,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=9629371131731076092&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.115491799999997,
+   "longitude": 120.67969509999999
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "918565908018129239": {
+  "place_id": "ChIJo5j6aiU9aTQRV2k0mtNmvww",
+  "name": "六扇門時尚湯鍋 台中大里店",
+  "address": "41245台灣臺中市大里區西榮里大明路89號",
+  "rating": 4.2,
+  "userRatingCount": 2080,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=918565908018129239&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1151613,
+   "longitude": 120.68651260000001
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "6288225167272037218": {
+  "place_id": "ChIJVYH2Rgg9aTQRYsvrInlDRFc",
+  "name": "LUMONE 鹿檬｜大里旗艦店",
+  "address": "412台灣臺中市大里區大明路79號",
+  "rating": 4.5,
+  "userRatingCount": 503,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=6288225167272037218&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.115199699999998,
+   "longitude": 120.68710669999999
+  },
+  "types": [
+   "dessert_shop",
+   "cake_shop",
+   "bakery",
+   "confectionery",
+   "food_store",
+   "manufacturer",
+   "store",
+   "wholesaler",
+   "service",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "4864596530654695929": {
+  "place_id": "ChIJhcPAoZE9aTQR-VFFWcWEgkM",
+  "name": "無憂農作",
+  "address": "412台灣臺中市大里區長榮里新生西路185號",
+  "rating": 5,
+  "userRatingCount": 268,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=4864596530654695929&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.105214399999998,
+   "longitude": 120.68553059999999
+  },
+  "types": [
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "612120157729893247": {
+  "place_id": "ChIJO46_ffk9aTQRf6tYUQqwfgg",
+  "name": "瑪露連嫩仙草 - 大里門市",
+  "address": "412台灣臺中市大里區東興里大明路267號",
+  "rating": 4.8,
+  "userRatingCount": 150,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=612120157729893247&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.114961299999997,
+   "longitude": 120.6815593
+  },
+  "types": [
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "6897879812763913196": {
+  "place_id": "ChIJabJJUwA9aTQR7IshpyQxul8",
+  "name": "好蒔甜堂(原吾逅食研所)",
+  "address": "412台灣臺中市大里區金城里中興路一段234號",
+  "rating": 4.8,
+  "userRatingCount": 54,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=6897879812763913196&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.0856075,
+   "longitude": 120.6967988
+  },
+  "types": [
+   "bakery",
+   "dessert_restaurant",
+   "food_store",
+   "store",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "4144819999930114340": {
+  "place_id": "ChIJ_TN7NbM9aTQRJOHEadRbhTk",
+  "name": "日月咖啡 Bright Café（最後點餐時間為前半小時）",
+  "address": "412台灣臺中市大里區東湖里泉水街113號",
+  "rating": 5,
+  "userRatingCount": 212,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=4144819999930114340&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.0836534,
+   "longitude": 120.69498629999998
+  },
+  "types": [
+   "brunch_restaurant",
+   "pastry_shop",
+   "bakery",
+   "dessert_shop",
+   "confectionery",
+   "coffee_stand",
+   "food_store",
+   "store",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "13642273103140773727": {
+  "place_id": "ChIJY4evv-89aTQRX1-SgRsXU70",
+  "name": "Dm手作烘焙台中大里熱搜烘焙坊",
+  "address": "412台灣臺中市大里區立德里自強街107號",
+  "rating": 4.6,
+  "userRatingCount": 61,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=13642273103140773727&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1036689,
+   "longitude": 120.69768029999997
+  },
+  "types": [
+   "manufacturer",
+   "wholesaler",
+   "service",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "4431356210449779852": {
+  "place_id": "ChIJp4hUS8c9aTQRjIwUvf5Wfz0",
+  "name": "Home Life 咖啡館-大里咖啡館/自烘咖啡",
+  "address": "41253台灣臺中市大里區西榮里西榮路84號",
+  "rating": 4.9,
+  "userRatingCount": 124,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=4431356210449779852&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1129325,
+   "longitude": 120.68606140000001
+  },
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "14893799386858078590": {
+  "place_id": "ChIJc0ciUv89aTQRfkGbsaFnsc4",
+  "name": "胖加烘焙-大里中興店___｜造型麵包｜西點餐盒｜禮盒｜甜點｜生日蛋糕｜造型蛋糕｜彌月蛋糕｜乳酪蛋糕｜慕斯杯｜麵包餐盒｜必吃麵包｜杯子蛋糕｜特色烘焙坊｜人氣烘焙坊｜在地推薦麵包店",
+  "address": "412台灣臺中市大里區長榮里中興路二段476之1號1樓",
+  "rating": 4.9,
+  "userRatingCount": 1707,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=14893799386858078590&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1098715,
+   "longitude": 120.6900744
+  },
+  "types": [
+   "bakery",
+   "food_store",
+   "store",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "586387533537013917": {
+  "place_id": "ChIJKX3YpIc9aTQRnfAw3VpEIwg",
+  "name": "V&A British Sponge Cakes 英式甜點",
+  "address": "412台灣臺中市大里區金城里塗城路784巷1弄2號",
+  "rating": 5,
+  "userRatingCount": 24,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=586387533537013917&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.090729699999997,
+   "longitude": 120.69715180000001
+  },
+  "types": [
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "837421593533714938": {
+  "place_id": "ChIJT77fwoc9aTQR-pHRoYAenws",
+  "name": "朵娜現烤甜甜圈-台中大里.益民店",
+  "address": "412台灣臺中市大里區長榮里益民路二段8-1號八方雲集隔壁",
+  "rating": 4.9,
+  "userRatingCount": 52,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=837421593533714938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.106535500000003,
+   "longitude": 120.6890326
+  },
+  "types": [
+   "donut_shop",
+   "bakery",
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "11360094464816113340": {
+  "place_id": "ChIJVYw8pEY9aTQRvOY-Nropp50",
+  "name": "哩厚Liho車輪餅-東榮店",
+  "address": "412台灣臺中市大里區長榮里東榮路131號",
+  "rating": 4.7,
+  "userRatingCount": 223,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=11360094464816113340&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1101912,
+   "longitude": 120.6866563
+  },
+  "types": [
+   "dessert_shop",
+   "bakery",
+   "confectionery",
+   "food_store",
+   "store",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "17719713635962313321": {
+  "place_id": "ChIJ1WkyBFs9aTQRadotOasR6fU",
+  "name": "好事蜜吉",
+  "address": "412台灣臺中市大里區中興路二段163號",
+  "rating": 4.6,
+  "userRatingCount": 47,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=17719713635962313321&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1060657,
+   "longitude": 120.6892994
+  },
+  "types": [
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "3800703096962419238": {
+  "place_id": "ChIJO-Rd-RY9aTQRJgosZ1TPvjQ",
+  "name": "A. cake (工作室模式，訂購司康請IG訊息）",
+  "address": "412台灣臺中市大里區東昇里鐵路街122巷38弄1號",
+  "rating": 4.4,
+  "userRatingCount": 53,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=3800703096962419238&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.116694799999998,
+   "longitude": 120.6946545
+  },
+  "types": [
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "6360312342310400271": {
+  "place_id": "ChIJ9akAnzo9aTQRD7Hxf2BeRFg",
+  "name": "Hua。雞 雞蛋糕",
+  "address": "412台灣臺中市大里區大明里大明路328號",
+  "rating": 4.7,
+  "userRatingCount": 57,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=6360312342310400271&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.115308,
+   "longitude": 120.6813074
+  },
+  "types": [
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "17947004170340322331": {
+  "place_id": "ChIJd2q_qlU9aTQRG8yWozSREPk",
+  "name": "港口豆花-大里本舖",
+  "address": "412台灣臺中市大里區大明路245號",
+  "rating": 4.5,
+  "userRatingCount": 261,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=17947004170340322331&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1149703,
+   "longitude": 120.6820779
+  },
+  "types": [
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "16675848309429531139": {
+  "place_id": "ChIJnwyqbwA9aTQRA3LYW6-DbOc",
+  "name": "蜂咖啡Caf'e ＆ Bagel",
+  "address": "412台灣臺中市大里區大里里大里路326號",
+  "rating": 4.9,
+  "userRatingCount": 28,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=16675848309429531139&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.0975388,
+   "longitude": 120.67795849999997
+  },
+  "types": [
+   "coffee_shop",
+   "cafe",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "16356512490425654080": {
+  "place_id": "ChIJR5b9dKA9aTQRQJsPFHMB_uI",
+  "name": "植咖咖啡廳Plants Cafe",
+  "address": "41252台灣臺中市大里區東湖里長春路78巷29號",
+  "rating": 5,
+  "userRatingCount": 51,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=16356512490425654080&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.0894023,
+   "longitude": 120.69122209999999
+  },
+  "types": [
+   "cafe",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "service",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "10921776194371940486": {
+  "place_id": "ChIJjWtzwUc9aTQRhnDbLZXxkZc",
+  "name": "OLI CAFE 徠咖啡（全國烘豆冠軍/自烘咖啡）",
+  "address": "412台灣臺中市大里區金城里向學一路40號1樓",
+  "rating": 4.9,
+  "userRatingCount": 33,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=10921776194371940486&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.092043000000004,
+   "longitude": 120.7004867
+  },
+  "types": [
+   "coffee_roastery",
+   "cafe",
+   "coffee_stand",
+   "wholesaler",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "service",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "9243740021662446439": {
+  "place_id": "ChIJt5N6-OA9aTQRZ3NAA5NcSIA",
+  "name": "再享饗 咖啡廚房",
+  "address": "41253台灣臺中市大里區西榮路175號",
+  "rating": 4.9,
+  "userRatingCount": 202,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=9243740021662446439&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1101546,
+   "longitude": 120.6862572
+  },
+  "types": [
+   "coffee_shop",
+   "cafe",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "7427857751618918379": {
+  "place_id": "ChIJBSmsAGw9aTQR65dgR0UNFWc",
+  "name": "CAMA CAFE 大里國光店/大里咖啡/大里區熱門咖啡廳/大里必喝咖啡/大里外送咖啡/大里飲料/大里茶飲",
+  "address": "412台灣臺中市大里區國光路二段359號",
+  "rating": 4.2,
+  "userRatingCount": 100,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=7427857751618918379&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.10834,
+   "longitude": 120.6798505
+  },
+  "types": [
+   "cafe",
+   "coffee_stand",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "6262486048987873822": {
+  "place_id": "ChIJNy2-UHM9aTQRHgLDqOHR6FY",
+  "name": "聊療貓Bar 療癒系身心靈咖啡廳",
+  "address": "41274台灣臺中市大里區瑞城里塗城路511號",
+  "rating": 5,
+  "userRatingCount": 856,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=6262486048987873822&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.087463099999997,
+   "longitude": 120.70595569999999
+  },
+  "types": [
+   "coworking_space",
+   "cat_cafe",
+   "event_venue",
+   "educational_institution",
+   "medical_clinic",
+   "health",
+   "point_of_interest",
+   "service",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "895761415830223453": {
+  "place_id": "ChIJQdU5ofw9aTQRXboPAkNibgw",
+  "name": "翡翠精品莊園咖啡-大里杙棧門市",
+  "address": "412台灣臺中市大里區東湖里中興路一段157號",
+  "rating": 4.4,
+  "userRatingCount": 345,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=895761415830223453&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.085565700000004,
+   "longitude": 120.6964316
+  },
+  "types": [
+   "brunch_restaurant",
+   "coffee_shop",
+   "cafe",
+   "food_store",
+   "store",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "17679088288297566721": {
+  "place_id": "ChIJCXO96e08aTQRAcK-YCG9WPU",
+  "name": "純誠自家烘焙精品咖啡 提供免費試喝服務 耳掛現場客制",
+  "address": "412台灣臺中市大里區德芳路二段69號",
+  "rating": 4.8,
+  "userRatingCount": 70,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=17679088288297566721&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1039203,
+   "longitude": 120.67881759999999
+  },
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "12823072911713578705": {
+  "place_id": "ChIJJ7WykEU7aTQR0S6fp9-09LE",
+  "name": "咖啡法CoffeeVA_可頌專賣•自家烘焙",
+  "address": "412台灣臺中市大里區立德里新甲路11號",
+  "rating": 4.6,
+  "userRatingCount": 444,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=12823072911713578705&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1021987,
+   "longitude": 120.69788380000001
+  },
+  "types": [
+   "coffee_shop",
+   "cafe",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "12345302294745720617": {
+  "place_id": "ChIJdysvQ5o9aTQRKSciYwdTU6s",
+  "name": "善哉咖啡",
+  "address": "412台灣臺中市大里區東興里國光路二段640號號旁",
+  "rating": 5,
+  "userRatingCount": 33,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=12345302294745720617&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1130857,
+   "longitude": 120.67924430000001
+  },
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "2210413614727910151": {
+  "place_id": "ChIJo3pMEOw8aTQRB1OLqHj3rB4",
+  "name": "5J CAFE",
+  "address": "412台灣臺中市大里區國光路二段100號五街#217每週六日限定咖啡日",
+  "rating": 4.8,
+  "userRatingCount": 68,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=2210413614727910151&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1028701,
+   "longitude": 120.68217109999998
+  },
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "6700666760538734154": {
+  "place_id": "ChIJY_iHf-k8aTQRSr4txOqM_Vw",
+  "name": "濟州金先生韓食專賣",
+  "address": "412台灣臺中市大里區大里路103號",
+  "rating": 4.2,
+  "userRatingCount": 1421,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=6700666760538734154&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1034249,
+   "longitude": 120.6859403
+  },
+  "types": [
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "2613837403010617748": {
+  "place_id": "ChIJh7fITv89aTQRlNET80Q3RiQ",
+  "name": "首膳韓食｜大里美食｜深夜食堂｜一人韓食",
+  "address": "412台灣臺中市大里區祥興路547號",
+  "rating": 4.2,
+  "userRatingCount": 533,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=2613837403010617748&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.118322,
+   "longitude": 120.68116449999998
+  },
+  "types": [
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "4596618421737927858": {
+  "place_id": "ChIJM_2doe48aTQRsrS0wxl4yj8",
+  "name": "小韓館",
+  "address": "412台灣臺中市大里區國光里德芳南路483號",
+  "rating": 4.6,
+  "userRatingCount": 718,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=4596618421737927858&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1044047,
+   "longitude": 120.68196479999999
+  },
+  "types": [
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "16575461261893931544": {
+  "place_id": "ChIJ38z9Shc9aTQRGJJvdzLeB-Y",
+  "name": "釜山崔炸雞-大里益民店",
+  "address": "41256台灣臺中市大里區長榮里益民路二段92號",
+  "rating": 4.3,
+  "userRatingCount": 384,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=16575461261893931544&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1069703,
+   "longitude": 120.68535569999999
+  },
+  "types": [
+   "bistro",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "513800685983498229": {
+  "place_id": "ChIJFe5UowM9aTQR9f9lbQBjIQc",
+  "name": "饗讚平價現炒店",
+  "address": "412台灣臺中市大里區新里里爽文路529-1號",
+  "rating": 4.5,
+  "userRatingCount": 102,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=513800685983498229&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1021396,
+   "longitude": 120.6744471
+  },
+  "types": [
+   "taiwanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "10201269235682554608": {
+  "place_id": "ChIJNx6QBPo9aTQR8LL6OlIwko0",
+  "name": "田園現炒",
+  "address": "412台灣臺中市大里區大元里國中路378號",
+  "rating": 4.3,
+  "userRatingCount": 56,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=10201269235682554608&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.0945251,
+   "longitude": 120.67791749999999
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "5877473825862673895": {
+  "place_id": "ChIJ96Nn2-08aTQR52Uz7037kFE",
+  "name": "東港鎮海產",
+  "address": "412台灣臺中市大里區新里里德芳路三段38號",
+  "rating": 4.5,
+  "userRatingCount": 1724,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=5877473825862673895&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.102678599999997,
+   "longitude": 120.67355280000001
+  },
+  "types": [
+   "seafood_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "12067171287635099147": {
+  "place_id": "ChIJCXtReJA9aTQRC35I-1k0d6c",
+  "name": "一五美食",
+  "address": "412台灣臺中市大里區大新街15號",
+  "rating": 4.8,
+  "userRatingCount": 230,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=12067171287635099147&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.099507199999998,
+   "longitude": 120.67902259999998
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "4569580207291289007": {
+  "place_id": "ChIJt_KWXpI8aTQRr81A5Pxoaj8",
+  "name": "阿福師現炒",
+  "address": "412台灣臺中市大里區大里里東里路41-1號",
+  "rating": 4.1,
+  "userRatingCount": 150,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=4569580207291289007&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.0965071,
+   "longitude": 120.67925009999999
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "12799361630514969278": {
+  "place_id": "ChIJP_94V-k8aTQRvvqbypZ3oLE",
+  "name": "澎湖講美港海產",
+  "address": "412台灣臺中市大里區國光里德芳南三街41號",
+  "rating": 4.1,
+  "userRatingCount": 1151,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=12799361630514969278&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.104074,
+   "longitude": 120.68389370000001
+  },
+  "types": [
+   "seafood_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "6269169608541620139": {
+  "place_id": "ChIJi9tHdXM9aTQRq0fMIYuQAFc",
+  "name": "茗豐食堂",
+  "address": "412台灣臺中市大里區大里路240-4號",
+  "rating": 4.6,
+  "userRatingCount": 118,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=6269169608541620139&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1000554,
+   "longitude": 120.6804368
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "16147370980766282173": {
+  "place_id": "ChIJWcdxQAA9aTQRvXEGxVr8FuA",
+  "name": "品味館專業炒飯",
+  "address": "412台灣臺中市大里區金城里塗城路716號",
+  "rating": 4.9,
+  "userRatingCount": 237,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=16147370980766282173&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.089919500000004,
+   "longitude": 120.6984454
+  },
+  "types": [
+   "chinese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "8764988480684472372": {
+  "place_id": "ChIJT1EJDQA9aTQRNLiWk5V-o3k",
+  "name": "溫叨臺南-平價現炒、熱炒",
+  "address": "412台灣臺中市大里區長榮里中興路二段267號",
+  "rating": 4.6,
+  "userRatingCount": 18,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=8764988480684472372&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.109209399999997,
+   "longitude": 120.68980529999999
+  },
+  "types": [
+   "chinese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "12061884328160462311": {
+  "place_id": "ChIJy72vofw8aTQR5wXbzeNrZKc",
+  "name": "台中美食家海鮮碳烤餐廳",
+  "address": "412台灣臺中市大里區永隆里永隆路528號",
+  "rating": 4,
+  "userRatingCount": 1119,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=12061884328160462311&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1162778,
+   "longitude": 120.6762063
+  },
+  "types": [
+   "barbecue_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "8637270432528474208": {
+  "place_id": "ChIJiaMt7-88aTQRYCDYN7K_3Xc",
+  "name": "一都現炒",
+  "address": "412台灣臺中市大里區東興里益民路二段371號",
+  "rating": 4,
+  "userRatingCount": 116,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=8637270432528474208&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.114915399999997,
+   "longitude": 120.6836823
+  },
+  "types": [
+   "taiwanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "7851112775766859062": {
+  "place_id": "ChIJFZRTfe88aTQRNl0d-3jB9Gw",
+  "name": "幸福ㄟ味",
+  "address": "412台灣臺中市大里區國光里東榮路No. 471號",
+  "rating": 4.3,
+  "userRatingCount": 519,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=7851112775766859062&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1095401,
+   "longitude": 120.68101440000001
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "216180688001167869": {
+  "place_id": "ChIJ710Bowo9aTQR_fGbuzAHAAM",
+  "name": "蝦焰｜活蝦・烤魚・串燒・快炒・最後收客到11:30分",
+  "address": "412台灣臺中市大里區中興路一段308-12號",
+  "rating": 4.7,
+  "userRatingCount": 43,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=216180688001167869&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.0898647,
+   "longitude": 120.69426070000002
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "11729010462353677991": {
+  "place_id": "ChIJ9cpVpzY9aTQRp15uX9_QxaI",
+  "name": "南門礄",
+  "address": "412台灣臺中市大里區益民路二段297之1號德芳大藥局和公益彩券對面）附近停車場就在興大附中",
+  "rating": 4.7,
+  "userRatingCount": 189,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=11729010462353677991&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.111978399999998,
+   "longitude": 120.6837414
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "17059782418759409752": {
+  "place_id": "ChIJKeFXfus8aTQRWOCbJ7mFwOw",
+  "name": "巧味膳房",
+  "address": "412台灣臺中市大里區國光里大里路200號",
+  "rating": 4.1,
+  "userRatingCount": 1666,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=17059782418759409752&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.100860200000003,
+   "longitude": 120.683409
+  },
+  "types": [
+   "chinese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "18052834762057670768": {
+  "place_id": "ChIJhwpmR408aTQRcGBFbZGNiPo",
+  "name": "大里老牌炒麵",
+  "address": "412台灣臺中市大里區新里里舊街路12號",
+  "rating": 4.1,
+  "userRatingCount": 239,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=18052834762057670768&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.09912,
+   "longitude": 120.6760132
+  },
+  "types": [
+   "deli",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "1863078979202032004": {
+  "place_id": "ChIJzxdJt-k8aTQRhKHV53X82hk",
+  "name": "源記臺南虱目魚",
+  "address": "412台灣臺中市大里區長榮里大里路63之4號",
+  "rating": 4.5,
+  "userRatingCount": 528,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=1863078979202032004&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1051184,
+   "longitude": 120.687424
+  },
+  "types": [
+   "deli",
+   "food_store",
+   "store",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "1523371364936034202": {
+  "place_id": "ChIJs4WpPzA9aTQRmqcDbC8aJBU",
+  "name": "三合手作麵線",
+  "address": "412台灣臺中市大里區東榮路374號",
+  "rating": 4.6,
+  "userRatingCount": 181,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=1523371364936034202&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.110309599999997,
+   "longitude": 120.68342240000001
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "14762217398609911758": {
+  "place_id": "ChIJD1UteOQ8aTQRzh88rYLu3cw",
+  "name": "阿忠意麵(手工煎餃)",
+  "address": "412台灣臺中市大里區東興里永興路327號",
+  "rating": 4.3,
+  "userRatingCount": 468,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=14762217398609911758&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1149067,
+   "longitude": 120.68107339999999
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "10465538851009828609": {
+  "place_id": "ChIJAyuxUIw8aTQRAZd93SIQPZE",
+  "name": "大里碗粿",
+  "address": "412台灣臺中市大里區大里里大里路441-5號",
+  "rating": 4.5,
+  "userRatingCount": 105,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=10465538851009828609&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.097376699999998,
+   "longitude": 120.6734783
+  },
+  "types": [
+   "taiwanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "4418253043902760079": {
+  "place_id": "ChIJW0MY-e08aTQRj8ScCbzJUD0",
+  "name": "游記水煎包",
+  "address": "412台灣臺中市大里區新里里德芳路二段193號",
+  "rating": 4.6,
+  "userRatingCount": 75,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=4418253043902760079&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1029813,
+   "longitude": 120.6758172
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "975947751888538033": {
+  "place_id": "ChIJLfDw0gs9aTQRsUmoPk9Diw0",
+  "name": "大里薪食漟（飲料.炸物.宵）夜總店",
+  "address": "412台灣臺中市大里區東昇里新仁路二段133號",
+  "rating": 4.8,
+  "userRatingCount": 407,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=975947751888538033&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.111597699999997,
+   "longitude": 120.69345519999999
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "6282826464347913046": {
+  "place_id": "ChIJKUHUuOg8aTQRVnvhqGEVMVc",
+  "name": "大里正港肉羹大王",
+  "address": "412台灣臺中市大里區長榮里益民路二段146號",
+  "rating": 4,
+  "userRatingCount": 138,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=6282826464347913046&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.107869899999997,
+   "longitude": 120.684351
+  },
+  "types": [
+   "deli",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "141584642917209726": {
+  "place_id": "ChIJr7l0ubE9aTQRfha7insC9wE",
+  "name": "金記麵點（大里店）",
+  "address": "412002台灣臺中市大里區中興路二段199-5號",
+  "rating": 4.7,
+  "userRatingCount": 1417,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=141584642917209726&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1076357,
+   "longitude": 120.6896979
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "15639095129996315317": {
+  "place_id": "ChIJaaZfhrE9aTQRtcr4Ryk6Cdk",
+  "name": "杉盒便當製所 大里店",
+  "address": "412台灣臺中市大里區內新里東榮路一段67號",
+  "rating": 4.6,
+  "userRatingCount": 1129,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=15639095129996315317&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1095939,
+   "longitude": 120.69167819999998
+  },
+  "types": [
+   "food_store",
+   "store",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "16555088058261054124": {
+  "place_id": "ChIJe6s1p-s8aTQRrCL2WeB8v-U",
+  "name": "勝利夜市",
+  "address": "412台灣臺中市大里區國光里德芳南二街",
+  "rating": 4.1,
+  "userRatingCount": 1542,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=16555088058261054124&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.101067999999998,
+   "longitude": 120.6858518
+  },
+  "types": [
+   "market",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "11016775283668940412": {
+  "place_id": "ChIJ8Rt3Los9aTQRfPZjScBy45g",
+  "name": "塗城大夜市",
+  "address": "412台灣臺中市大里區瑞城里塗城路413號",
+  "rating": 4,
+  "userRatingCount": 258,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=11016775283668940412&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.0863069,
+   "longitude": 120.70809700000001
+  },
+  "types": [
+   "market",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "8588146635044533911": {
+  "place_id": "ChIJMUxK66g9aTQRl7bL1Nw5L3c",
+  "name": "止餓章魚燒 永隆店（15:30～售完為止）",
+  "address": "41257台灣臺中市大里區永隆里永隆路290號",
+  "rating": 4.8,
+  "userRatingCount": 276,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=8588146635044533911&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.109722599999998,
+   "longitude": 120.67670460000001
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "service",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "9140021799469357807": {
+  "place_id": "ChIJB7ksrDY9aTQR75qylGbh134",
+  "name": "臭冰屋",
+  "address": "412台灣臺中市大里區西湖里大峰路530-1號",
+  "rating": 4.7,
+  "userRatingCount": 149,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=9140021799469357807&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.0860307,
+   "longitude": 120.6879292
+  },
+  "types": [
+   "meal_takeaway",
+   "food_store",
+   "store",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "17147686202754656751": {
+  "place_id": "ChIJY3W__NQ8aTQR7-kOw7_R-O0",
+  "name": "紅心地瓜球 總店",
+  "address": "412台灣臺中市大里區新仁ㄧ街5號",
+  "rating": 4.6,
+  "userRatingCount": 589,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=17147686202754656751&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.110976500000003,
+   "longitude": 120.70973
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "3997184625164287452": {
+  "place_id": "ChIJqwBozj4jaTQR3P2RFD3aeDc",
+  "name": "在地人港式燒烤臭豆腐",
+  "address": "412台灣臺中市大里區健民里仁化路6號",
+  "rating": 4.5,
+  "userRatingCount": 93,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=3997184625164287452&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.091606499999997,
+   "longitude": 120.72954949999999
+  },
+  "types": [
+   "barbecue_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "7560126862709705125": {
+  "place_id": "ChIJwU0NIQA9aTQRpUmzjFP36mg",
+  "name": "好吃地瓜球",
+  "address": "412台灣臺中市大里區西榮里西榮路110號",
+  "rating": 4.9,
+  "userRatingCount": 54,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=7560126862709705125&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1124425,
+   "longitude": 120.6860241
+  },
+  "types": [
+   "deli",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "1941719921213383736": {
+  "place_id": "ChIJgVo5pEc9aTQROCQ5Dftf8ho",
+  "name": "呷潤餅大里店",
+  "address": "412台灣臺中市大里區金城里塗城路446號",
+  "rating": 4.6,
+  "userRatingCount": 175,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=1941719921213383736&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.088225599999998,
+   "longitude": 120.70373719999999
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "16283943803282749895": {
+  "place_id": "ChIJ_UB3ft08aTQRx3kX8Zww_OE",
+  "name": "老牌麵線糊",
+  "address": "412台灣臺中市大里區西榮里東榮路8號號",
+  "rating": 4,
+  "userRatingCount": 380,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=16283943803282749895&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1102365,
+   "longitude": 120.68906159999999
+  },
+  "types": [
+   "noodle_shop",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "15128525018810867540": {
+  "place_id": "ChIJO7Poxeg8aTQRVN_UqVlR89E",
+  "name": "布袋鮮蚵（興大附中側門對面）",
+  "address": "412台灣臺中市大里區長榮里益民路二段158號",
+  "rating": 4.3,
+  "userRatingCount": 647,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=15128525018810867540&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1081534,
+   "longitude": 120.6842497
+  },
+  "types": [
+   "deli",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "1842346874569358067": {
+  "place_id": "ChIJadPFhuc8aTQR8_rBo7hUkRk",
+  "name": "紅石頭碳烤珍珠玉米（大里益民店）",
+  "address": "412台灣臺中市大里區西榮里益民路二段269號",
+  "rating": 4.7,
+  "userRatingCount": 26,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=1842346874569358067&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1109789,
+   "longitude": 120.6837427
+  },
+  "types": [
+   "deli",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "11483342448489306948": {
+  "place_id": "ChIJxQpMWY08aTQRRJtelB0HXZ8",
+  "name": "大里七將軍廟",
+  "address": "412台灣臺中市大里區新里里新興路26號",
+  "rating": 4.8,
+  "userRatingCount": 680,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=11483342448489306948&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.098788799999998,
+   "longitude": 120.6773149
+  },
+  "types": [
+   "place_of_worship",
+   "tourist_attraction",
+   "association_or_organization",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "4533655212817767262": {
+  "place_id": "ChIJCyJcHig9aTQRXtsZTmXH6j4",
+  "name": "關東章魚小丸子 大里成功店",
+  "address": "412台灣臺中市大里區瑞城里成功路200號",
+  "rating": 4.6,
+  "userRatingCount": 56,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=4533655212817767262&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.0877798,
+   "longitude": 120.70295229999998
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "4533001195790177884": {
+  "place_id": "ChIJFQRvvcc8aTQRXJZ-GZJ06D4",
+  "name": "仁化黃昏市場",
+  "address": "412台灣臺中市大里區仁德里仁化路565號",
+  "rating": 4.1,
+  "userRatingCount": 1876,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=4533001195790177884&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.0965279,
+   "longitude": 120.6984703
+  },
+  "types": [
+   "market",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "9437661612258368418": {
+  "place_id": "ChIJJ2vafxY9aTQRohsAxTtP-YI",
+  "name": "煎包太太水煎包（原中興路）",
+  "address": "412台灣臺中市大里區立德里立仁四路12號",
+  "rating": 4.7,
+  "userRatingCount": 31,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=9437661612258368418&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.103514,
+   "longitude": 120.70059979999998
+  },
+  "types": [
+   "chinese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "7984391097752275495": {
+  "place_id": "ChIJzdJinZU8aTQRJ8pQeWZBzm4",
+  "name": "大和屋日本國際美食館",
+  "address": "412台灣臺中市大里區大元里中興路二段2-1號",
+  "rating": 4,
+  "userRatingCount": 1557,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=7984391097752275495&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.094825099999998,
+   "longitude": 120.68772500000001
+  },
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ },
+ "17606825538838613114": {
+  "place_id": "ChIJDZpf0X49aTQRekzA6IoCWPQ",
+  "name": "豐池池上便當 東榮店【大里美食｜午餐首選｜晚餐首選】",
+  "address": "412台灣臺中市大里區長榮里東榮路163號",
+  "rating": 4.2,
+  "userRatingCount": 129,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=17606825538838613114&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.110191399999998,
+   "longitude": 120.68574780000002
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大里"
+ }
+}
