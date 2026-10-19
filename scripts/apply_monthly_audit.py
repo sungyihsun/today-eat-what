@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Apply candidate-results/monthly-audit-report.json (from monthly_data_audit.py)
-to index.html (embeddedRestaurants/busanRestaurants/taiwanClothingRestaurants
+to index.html (embeddedRestaurants/busanRestaurants/fukuokaRestaurants/taiwanClothingRestaurants
 + their HOURS objects) and supabase/restaurants-import.csv.
 
 Only touches entries with photos_refreshed or hours_changed set. Businesses
@@ -100,6 +100,7 @@ html = open(INDEX_HTML_PATH, encoding='utf-8').read()
 
 for label, marker, hours_marker in [
     ('busan', 'const busanRestaurants = [', 'const BUSAN_HOURS = '),
+    ('fukuoka', 'const fukuokaRestaurants = [', 'const FUKUOKA_HOURS = '),
     ('clothing', 'const taiwanClothingRestaurants = [', 'const TAIWAN_CLOTHING_HOURS = '),
 ]:
     sec = report.get(label, {}).get('entries', {})
@@ -152,7 +153,7 @@ if csv_photo_updates or csv_hours_updates:
     print(f"[csv] updated {updated} rows in {CSV_PATH}")
 
 print()
-for label in ('csv', 'busan', 'clothing'):
+for label in ('csv', 'busan', 'fukuoka', 'clothing'):
     sec = report.get(label, {})
     closed = {name: v['business_status'] for name, v in sec.get('entries', {}).items()
               if v['business_status'] != 'OPERATIONAL'}

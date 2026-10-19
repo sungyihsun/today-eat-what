@@ -6,6 +6,7 @@ site's three data sources:
     this is what QAS/PRD actually serve via Supabase, NOT embeddedRestaurants,
     which is only the DEV/offline fallback array)
   - index.html's `const busanRestaurants = [...]` (旅遊版/釜山, front-end only)
+  - index.html's `const fukuokaRestaurants = [...]` (旅遊版/福岡, front-end only)
   - index.html's `const taiwanClothingRestaurants = [...]` (服飾, front-end only)
 
 ...does THREE checks against live Google Places data:
@@ -24,7 +25,7 @@ first, requiring the result's cid (parsed from googleMapsUri) to match the
 stored cid exactly — never silently substitutes a different business just
 because the name is similar. No match -> reported unmatched, left alone.
 
-Writes one report with three sections (csv / busan / clothing), each:
+Writes one report with four sections (csv / busan / fukuoka / clothing), each:
   {
     "entries": {name: {business_status, hours_changed, new_hours, photos_refreshed, new_photos}},
     "unmatched": {name: reason}
@@ -249,6 +250,12 @@ busan_hours = parse_hours_object(html, 'const BUSAN_HOURS = ')
 for e in busan_entries:
     e['hours'] = busan_hours.get(e['name'], [])
 
+fukuoka_m = re.search(r'const fukuokaRestaurants = \[(.*?)\n\];', html, re.S)
+fukuoka_entries = parse_js_array(fukuoka_m.group(1)) if fukuoka_m else []
+fukuoka_hours = parse_hours_object(html, 'const FUKUOKA_HOURS = ')
+for e in fukuoka_entries:
+    e['hours'] = fukuoka_hours.get(e['name'], [])
+
 clothing_m = re.search(r'const taiwanClothingRestaurants = \[(.*?)\n\];', html, re.S)
 clothing_entries = parse_js_array(clothing_m.group(1)) if clothing_m else []
 clothing_hours = parse_hours_object(html, 'const TAIWAN_CLOTHING_HOURS = ')
@@ -258,6 +265,7 @@ for e in clothing_entries:
 report = {
     'csv': audit(csv_entries, 'csv'),
     'busan': audit(busan_entries, 'busan'),
+    'fukuoka': audit(fukuoka_entries, 'fukuoka'),
     'clothing': audit(clothing_entries, 'clothing'),
 }
 
