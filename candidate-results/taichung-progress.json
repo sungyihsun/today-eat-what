@@ -1,9 +1,6 @@
 {
  "_note": "台中全區補完排程的狀態檔。規則見 .claude/skills/add-restaurant/TAICHUNG_SWEEP.md。",
- "in_progress": {
-  "district": "后里",
-  "started_at": "2026-10-19T09:24:59Z"
- },
+ "in_progress": null,
  "done": {
   "西區": {
    "count": 20,
@@ -136,6 +133,14 @@
    "finished_at": "2026-10-19T09:24:59Z",
    "sync_verified": true,
    "prd_promoted": true
+  },
+  "后里": {
+   "area": "后里",
+   "count": 30,
+   "qas_commit": "b2e777ddbec858d52c6414f87c76b2cdd7cf0a75",
+   "finished_at": "2026-10-19T09:28:24Z",
+   "sync_verified": true,
+   "prd_promoted": true
   }
  },
  "skipped": {
@@ -166,20 +171,6 @@
   }
  },
  "queue": [
-  {
-   "area": "后里",
-   "label": "后里",
-   "slug": "houli",
-   "center": [
-    24.305,
-    120.712
-   ],
-   "landmarks": [
-    "后里 馬場 美食",
-    "后里 三豐路 美食"
-   ],
-   "population_approx": 56000
-  },
   {
    "area": "神岡",
    "label": "神岡",
