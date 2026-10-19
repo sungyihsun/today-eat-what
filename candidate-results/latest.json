@@ -1412,8 +1412,8 @@
   "types": [
    "market",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "龍井"
@@ -1432,8 +1432,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "龍井"
@@ -1452,8 +1452,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "龍井"
@@ -1491,8 +1491,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "龍井"
@@ -1514,8 +1514,8 @@
    "bar_and_grill",
    "bar",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "龍井"
@@ -1559,8 +1559,8 @@
    "bar_and_grill",
    "bar",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "龍井"
@@ -1580,8 +1580,8 @@
   "types": [
    "barbecue_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "龍井"
@@ -1602,8 +1602,8 @@
    "yakitori_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "龍井"
@@ -1623,8 +1623,8 @@
   "types": [
    "asian_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "龍井"
@@ -1645,8 +1645,8 @@
    "yakitori_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "龍井"
@@ -1665,28 +1665,6 @@
   },
   "types": [
    "hot_pot_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "龍井"
- },
- "9762918839087400739": {
-  "place_id": "ChIJD-wSacc_aTQRIwfGPvXafIc",
-  "name": "丸莊鍋物行",
-  "address": "434台灣臺中市龍井區南寮里向上路六段188號",
-  "rating": 4.8,
-  "userRatingCount": 686,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=9762918839087400739&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1773387,
-   "longitude": 120.5779123
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "seafood_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -1736,6 +1714,28 @@
   ],
   "area_label": "龍井"
  },
+ "9762918839087400739": {
+  "place_id": "ChIJD-wSacc_aTQRIwfGPvXafIc",
+  "name": "丸莊鍋物行",
+  "address": "434台灣臺中市龍井區南寮里向上路六段188號",
+  "rating": 4.8,
+  "userRatingCount": 686,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=9762918839087400739&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1773387,
+   "longitude": 120.5779123
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "seafood_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "龍井"
+ },
  "13810804408255025437": {
   "place_id": "ChIJfV4q_rc_aTQRHZFwwG_Vqb8",
   "name": "養鍋Yang Guo石頭涮涮鍋 台中東海店",
@@ -1747,27 +1747,6 @@
   "location": {
    "latitude": 24.1810659,
    "longitude": 120.590451
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "龍井"
- },
- "470133341070918697": {
-  "place_id": "ChIJBwDQNKxqaTQRKYSZZ8g_hgY",
-  "name": "三媽臭臭鍋—龍井店(火鍋.美食.小吃)",
-  "address": "434台灣臺中市龍井區三德里中央路二段117號",
-  "rating": 4.7,
-  "userRatingCount": 1070,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=470133341070918697&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.205956,
-   "longitude": 120.52334700000002
   },
   "types": [
    "hot_pot_restaurant",
@@ -1799,6 +1778,27 @@
   ],
   "area_label": "龍井"
  },
+ "2576200564250564480": {
+  "place_id": "ChIJ8wKJpys_aTQRgNdQjsOAwCM",
+  "name": "貳黑鍋（炸蛋小火鍋）-東海店",
+  "address": "434台灣臺中市龍井區新庄里遊園南路135號",
+  "rating": 4.4,
+  "userRatingCount": 70,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=2576200564250564480&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.183378599999998,
+   "longitude": 120.58476989999998
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "龍井"
+ },
  "5208214396284062927": {
   "place_id": "ChIJu1WdPUIVaTQRz0yWLGZLR0g",
   "name": "讚不絕口火鍋--龍井店(沙田路)",
@@ -1820,17 +1820,17 @@
   ],
   "area_label": "龍井"
  },
- "2576200564250564480": {
-  "place_id": "ChIJ8wKJpys_aTQRgNdQjsOAwCM",
-  "name": "貳黑鍋（炸蛋小火鍋）-東海店",
-  "address": "434台灣臺中市龍井區新庄里遊園南路135號",
-  "rating": 4.4,
-  "userRatingCount": 70,
+ "470133341070918697": {
+  "place_id": "ChIJBwDQNKxqaTQRKYSZZ8g_hgY",
+  "name": "三媽臭臭鍋—龍井店(火鍋.美食.小吃)",
+  "address": "434台灣臺中市龍井區三德里中央路二段117號",
+  "rating": 4.7,
+  "userRatingCount": 1070,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=2576200564250564480&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=470133341070918697&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.183378599999998,
-   "longitude": 120.58476989999998
+   "latitude": 24.205956,
+   "longitude": 120.52334700000002
   },
   "types": [
    "hot_pot_restaurant",
@@ -1894,27 +1894,6 @@
   "location": {
    "latitude": 24.181807799999998,
    "longitude": 120.59186659999999
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "龍井"
- },
- "9101372085352281968": {
-  "place_id": "ChIJyw2yC7o_aTQRcDcUxLCRTn4",
-  "name": "蜀府麻辣火鍋串串 創始總店（晚上收客到半夜12:30太晚要來可先撥電話聯絡）正宗成都 香麻火鍋味 /台中美食/東海必吃美食/附近美食 餐廳聚餐/冷氣開放",
-  "address": "434007台灣臺中市龍井區新東里新興路25-1號",
-  "rating": 4.8,
-  "userRatingCount": 303,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=9101372085352281968&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.180511799999998,
-   "longitude": 120.58926450000001
   },
   "types": [
    "hot_pot_restaurant",
