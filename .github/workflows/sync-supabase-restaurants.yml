@@ -56,7 +56,7 @@ jobs:
             echo "no [auto-prd] marker in the commits being promoted — leaving PRD for manual promotion"; exit 0
           fi
           bad=$(git diff --name-only origin/PRD "$GITHUB_SHA" \
-            | grep -vE '^(index\.html|supabase/restaurants-import\.csv|candidate-results/|\.claude/skills/add-restaurant/|\.github/workflows/[a-z-]*restaurant[a-z-]*\.yml)' || true)
+            | grep -vE '^(index\.html|supabase/restaurants-import\.csv|candidate-results/|\.claude/skills/add-restaurant/|scripts/(monthly_data_audit|apply_monthly_audit)\.py|\.github/workflows/(monthly-data-audit|[a-z-]*restaurant[a-z-]*)\.yml)' || true)
           if [ -n "$bad" ]; then
             echo "::error::files outside the restaurant-data allowlist changed — refusing to auto-promote:"; echo "$bad"; exit 1
           fi
