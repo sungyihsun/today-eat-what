@@ -1,0 +1,38 @@
+{
+ "centers": {
+  "kusasenri": [
+   32.8818249,
+   131.0533279
+  ],
+  "asojinja": [
+   32.9480572,
+   131.11568019999999
+  ],
+  "daikanbo": [
+   32.9963701,
+   131.0673096
+  ],
+  "kurokawa": [
+   33.0780191,
+   131.14161360000003
+  ]
+ },
+ "radius": 2500,
+ "address_must_contain": [
+  "阿蘇市",
+  "南小国町",
+  "熊本市"
+ ],
+ "min_rating": 3.9,
+ "min_reviews": 25,
+ "exclude_details": [
+  "candidate-results/trip-named/kumamoto-details.json"
+ ],
+ "queries": [
+  "レストラン",
+  "カフェ",
+  "ランチ",
+  "食堂",
+  "名物 グルメ"
+ ]
+}

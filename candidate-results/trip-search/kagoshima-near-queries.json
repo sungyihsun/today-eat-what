@@ -1,0 +1,38 @@
+{
+ "centers": {
+  "sakurajima": [
+   31.592184999999997,
+   130.59985799999998
+  ],
+  "yunohira": [
+   31.591480699999998,
+   130.6299912
+  ],
+  "ibusuki": [
+   31.2298146,
+   130.6519528
+  ],
+  "chiran": [
+   31.3773583,
+   130.4427088
+  ]
+ },
+ "radius": 3000,
+ "address_must_contain": [
+  "鹿児島市",
+  "指宿市",
+  "南九州市"
+ ],
+ "min_rating": 3.9,
+ "min_reviews": 25,
+ "exclude_details": [
+  "candidate-results/trip-named/kagoshima-details.json"
+ ],
+ "queries": [
+  "レストラン",
+  "カフェ",
+  "ランチ",
+  "食堂",
+  "名物 グルメ"
+ ]
+}
