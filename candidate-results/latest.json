@@ -1,1521 +1,1052 @@
 {
- "12384875478587053846": {
-  "place_id": "ChIJ34LaYrWdbjQRFpegQKHq36s",
-  "name": "用上自然慢食餐廳(寵物友善)",
-  "address": "432台灣臺中市大肚區瑞井里大肚藍色公路51號",
-  "rating": 4.6,
-  "userRatingCount": 503,
+ "14817449403594127880": {
+  "place_id": "ChIJNUm4GgAdaTQRCDqN8rknos0",
+  "name": "福香苑餐館",
+  "address": "423台灣臺中市東勢區東新里東蘭路26-3號1樓",
+  "rating": 5,
+  "userRatingCount": 341,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=12384875478587053846&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=14817449403594127880&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1555668,
-   "longitude": 120.5693493
+   "latitude": 24.263000899999998,
+   "longitude": 120.82666730000001
   },
   "types": [
-   "pizza_restaurant",
+   "chinese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
-  "area_label": "大肚"
+  "area_label": "東勢"
  },
- "12784784531832100657": {
-  "place_id": "ChIJVxk0bwI_aTQRMdfChcutbLE",
-  "name": "秋口本位弁当專売-大肚美食、便當",
-  "address": "432台灣臺中市大肚區頂街里育樂街6號",
-  "rating": 4.6,
-  "userRatingCount": 211,
+ "9011222291282828514": {
+  "place_id": "ChIJlwjPe20daTQR4pz-L-5KDn0",
+  "name": "舒食澆蓋飯-台中東勢小餐廳",
+  "address": "423台灣臺中市東勢區廣興里中山路48號",
+  "rating": 4.8,
+  "userRatingCount": 120,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=12784784531832100657&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=9011222291282828514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1532338,
-   "longitude": 120.5442747
+   "latitude": 24.257372,
+   "longitude": 120.83008419999999
   },
   "types": [
    "restaurant",
-   "food",
+   "japanese_restaurant",
    "point_of_interest",
+   "food",
    "establishment"
   ],
-  "area_label": "大肚"
+  "area_label": "東勢"
  },
- "1689808159885416865": {
-  "place_id": "ChIJJddYwOg_aTQRodmGhJFncxc",
-  "name": "品味日初｜原型食材早午餐｜義大利麵（最後點餐15:00或售完、無訂位服務、停車導航荔枝園停車場）",
-  "address": "432台灣臺中市大肚區自強里遊園路二段175-7號",
-  "rating": 4.9,
-  "userRatingCount": 168,
+ "7857004674536957923": {
+  "place_id": "ChIJPU4_YvUcaTQR4-dbkB-wCW0",
+  "name": "一品園 客家菜&平價現炒 （東勢美食）",
+  "address": "423台灣臺中市東勢區北興里中興街60號",
+  "rating": 4.6,
+  "userRatingCount": 549,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=1689808159885416865&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=7857004674536957923&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.172509599999998,
-   "longitude": 120.58032770000001
+   "latitude": 24.258640999999997,
+   "longitude": 120.82877109999998
   },
   "types": [
-   "brunch_restaurant",
+   "chinese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
-  "area_label": "大肚"
+  "area_label": "東勢"
  },
- "16017754217482895847": {
-  "place_id": "ChIJS7FdUz0_aTQR50GVWJh-St4",
-  "name": "大眾海鮮食堂",
-  "address": "432台灣臺中市大肚區沙田路一段554號",
+ "17918423789483564656": {
+  "place_id": "ChIJmS2RlFwcaTQRcJ4TK4AHq_g",
+  "name": "月牙泉-時光的記憶、心靈的安慰-簡餐咖啡飲品",
+  "address": "423台灣臺中市東勢區中寧里豐勢路471號",
   "rating": 4.3,
-  "userRatingCount": 864,
+  "userRatingCount": 127,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=16017754217482895847&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=17918423789483564656&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1248854,
-   "longitude": 120.56229289999999
+   "latitude": 24.2576511,
+   "longitude": 120.828033
   },
   "types": [
-   "seafood_restaurant",
+   "family_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "大肚"
+  "area_label": "東勢"
  },
- "11369896204974931246": {
-  "place_id": "ChIJM1ENBd8-aTQRLr2Xrlv8yZ0",
-  "name": "鈺香園 船釣魚鮮餐廳",
-  "address": "432台灣臺中市大肚區王田里沙田路一段148號",
-  "rating": 4.6,
-  "userRatingCount": 372,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=11369896204974931246&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1191732,
-   "longitude": 120.57603119999999
-  },
-  "types": [
-   "seafood_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "9991376218349704225": {
-  "place_id": "ChIJowU6w34_aTQRIRQF6Lt_qIo",
-  "name": "亨嘉家 大肚美食 嫩蒸雞腿飯 紅油皮蛋乾麵 蒸蛋肉飯 （臨時營業時間請看fb粉專）",
-  "address": "432台灣臺中市大肚區大肚里平和街58號",
-  "rating": 4.6,
-  "userRatingCount": 161,
+ "17362110508369528062": {
+  "place_id": "ChIJU0fZFeMdaTQR_kRx2oSb8vA",
+  "name": "淞食府",
+  "address": "423台灣臺中市東勢區北興里豐勢路541號",
+  "rating": 4.9,
+  "userRatingCount": 26,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=9991376218349704225&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=17362110508369528062&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.150059499999998,
-   "longitude": 120.54362029999999
+   "latitude": 24.259335099999998,
+   "longitude": 120.82730000000001
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "2327288717702310003": {
+  "place_id": "ChIJ392ff-sdaTQRc6hrHMIwTCA",
+  "name": "拾山現炒、飯、麵飯店（東勢美食 客家 小吃）",
+  "address": "423台灣臺中市東勢區南平里三民街133號",
+  "rating": 4.8,
+  "userRatingCount": 180,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=2327288717702310003&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2556047,
+   "longitude": 120.83005539999999
+  },
+  "types": [
+   "chinese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "1580930038742481650": {
+  "place_id": "ChIJURuiaOQdaTQR8nr9fX6X8BU",
+  "name": "再咖啡Zai Cafe",
+  "address": "423台灣臺中市東勢區粵寧里新豐街11號",
+  "rating": 4.5,
+  "userRatingCount": 139,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=1580930038742481650&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2628029,
+   "longitude": 120.82468879999999
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "4516864216320984326": {
+  "place_id": "ChIJuQx2o18caTQRBkV8yBIgrz4",
+  "name": "阿木大眾餐館",
+  "address": "423台灣臺中市東勢區東安里中山路69號",
+  "rating": 4.2,
+  "userRatingCount": 746,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=4516864216320984326&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2568654,
+   "longitude": 120.82927439999999
+  },
+  "types": [
+   "asian_restaurant",
+   "taiwanese_restaurant",
+   "chinese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "1043750375149609449": {
+  "place_id": "ChIJDY9iWFwcaTQR6SH5qG8lfA4",
+  "name": "松の富複合式食堂",
+  "address": "423台灣臺中市東勢區延平里豐勢路127號",
+  "rating": 4.5,
+  "userRatingCount": 298,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=1043750375149609449&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.250028099999998,
+   "longitude": 120.8305132
+  },
+  "types": [
+   "restaurant",
+   "japanese_restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "16306970929511013177": {
+  "place_id": "ChIJmyVHBYscaTQRORsgkKn_TeI",
+  "name": "東勢牛稼莊",
+  "address": "423台灣臺中市東勢區粵寧里新豐街19號",
+  "rating": 4,
+  "userRatingCount": 2483,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=16306970929511013177&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.262917599999998,
+   "longitude": 120.8246975
+  },
+  "types": [
+   "chinese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "15429817596887024678": {
+  "place_id": "ChIJq6qqXmAcaTQRJsSFi1q5IdY",
+  "name": "仇媽媽山東餃子館",
+  "address": "423台灣臺中市東勢區中寧里豐勢路中盛巷3號",
+  "rating": 4.2,
+  "userRatingCount": 966,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=15429817596887024678&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.258099899999998,
+   "longitude": 120.8293731
+  },
+  "types": [
+   "dumpling_restaurant",
+   "chinese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "5627247154034404697": {
+  "place_id": "ChIJT0MchUIdaTQRWW2M33j_F04",
+  "name": "一福味麵食館 東勢美食「當天才可電話預訂」（11:15）後打_會依現場狀況接聽",
+  "address": "423台灣臺中市東勢區東安里中山路80號",
+  "rating": 4.6,
+  "userRatingCount": 1857,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=5627247154034404697&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2570978,
+   "longitude": 120.8290736
   },
   "types": [
    "deli",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "大肚"
+  "area_label": "東勢"
  },
- "12933625163230321323": {
-  "place_id": "ChIJx3GPkN8_aTQRq5pliI93fbM",
-  "name": "布魯諾咖啡",
-  "address": "432台灣臺中市大肚區大東里大肚藍色公路47號",
-  "rating": 4.5,
-  "userRatingCount": 899,
+ "3282469586691037664": {
+  "place_id": "ChIJlxXWfF8caTQR4Bm-pLKsjS0",
+  "name": "冠鈞熱炒平價料理",
+  "address": "423台灣臺中市東勢區中寧里第五橫街40號",
+  "rating": 4.3,
+  "userRatingCount": 229,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=12933625163230321323&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=3282469586691037664&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1556709,
-   "longitude": 120.569676
+   "latitude": 24.2572872,
+   "longitude": 120.82894879999999
+  },
+  "types": [
+   "chinese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "1389334033123830738": {
+  "place_id": "ChIJhdv_cF8caTQR0uu0LvHnRxM",
+  "name": "DIDI DOMO複合式餐飲咖啡店",
+  "address": "423台灣臺中市東勢區廣興里中山路34號",
+  "rating": 4.7,
+  "userRatingCount": 477,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=1389334033123830738&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2575264,
+   "longitude": 120.83039090000001
   },
   "types": [
    "cafe",
-   "brunch_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "大肚"
+  "area_label": "東勢"
  },
- "8604958892086817965": {
-  "place_id": "ChIJq2u6Y7w_aTQRrXSsdYX0anc",
-  "name": "惹鍋The Guo Pot大肚店",
-  "address": "432台灣臺中市大肚區頂街里榮華街42號",
-  "rating": 4.7,
-  "userRatingCount": 616,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=8604958892086817965&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.156433699999997,
-   "longitude": 120.54520939999999
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "9580141719390597833": {
-  "place_id": "ChIJBbPL8HU_aTQRyTIt0iKA84Q",
-  "name": "愛尚義式手工披薩",
-  "address": "432台灣臺中市大肚區大肚里沙田路二段584-1號",
-  "rating": 4.6,
-  "userRatingCount": 283,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=9580141719390597833&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1498511,
-   "longitude": 120.5460009
-  },
-  "types": [
-   "pizza_restaurant",
-   "food_store",
-   "store",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "5630533200327252939": {
-  "place_id": "ChIJd7-_lVE_aTQRy5uMJR2sI04",
-  "name": "食見生活-大肚店/健康餐/日式炊飯餐盒",
-  "address": "432013台灣臺中市大肚區大肚里文昌路一段22號1樓",
-  "rating": 4.4,
-  "userRatingCount": 42,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=5630533200327252939&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1511644,
-   "longitude": 120.5448215
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "12587144413277610702": {
-  "place_id": "ChIJYZiKxls_aTQRzmL0gSeFrq4",
-  "name": "小阿姨滷肉飯（大肚店 蒸蛋滷肉飯/蚵仔滷肉飯/附近美食/在地小吃",
-  "address": "432台灣臺中市大肚區沙田路二段756號",
-  "rating": 4.8,
-  "userRatingCount": 236,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=12587144413277610702&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.153620699999998,
-   "longitude": 120.5447933
-  },
-  "types": [
-   "snack_bar",
-   "meal_takeaway",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "11110470803516640493": {
-  "place_id": "ChIJvRY3KOw_aTQR7Uz1elRSMJo",
-  "name": "沙拉咖啡 Sarah Cafe",
-  "address": "432013台灣臺中市大肚區平和街28號",
-  "rating": 4.9,
-  "userRatingCount": 48,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=11110470803516640493&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1499335,
-   "longitude": 120.54383689999999
-  },
-  "types": [
-   "salad_shop",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "14753564335024042769": {
-  "place_id": "ChIJLeuTN4s9aTQREfP6T5gwv8w",
-  "name": "藏鵝奔月 大肚店",
-  "address": "432台灣臺中市大肚區頂街里沙田路三段114號",
-  "rating": 4.6,
-  "userRatingCount": 125,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=14753564335024042769&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.156878900000002,
-   "longitude": 120.5441257
-  },
-  "types": [
-   "chinese_noodle_restaurant",
-   "snack_bar",
-   "meal_takeaway",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "1955986173960515840": {
-  "place_id": "ChIJQbyiJtk_aTQRAPF93A8PJRs",
-  "name": "波蘿什錦麵",
-  "address": "432台灣臺中市大肚區大肚里文昌路一段82號",
-  "rating": 4.6,
-  "userRatingCount": 33,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=1955986173960515840&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1507132,
-   "longitude": 120.54342740000001
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "9754454307486033087": {
-  "place_id": "ChIJO-hdIHY_aTQRv-R754LIXoc",
-  "name": "大柱",
-  "address": "432台灣臺中市大肚區大肚里文昌路一段85號",
+ "14307747939924216873": {
+  "place_id": "ChIJHy1srIwcaTQRKYwCF_JUj8Y",
+  "name": "長春餐廳，喜宴合菜，客家料理",
+  "address": "423台灣臺中市東勢區東新里新豐街135號",
   "rating": 4.2,
-  "userRatingCount": 145,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=9754454307486033087&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1505819,
-   "longitude": 120.54366139999999
-  },
-  "types": [
-   "japanese_curry_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "4150504605558737344": {
-  "place_id": "ChIJ6yUI8gw_aTQRwInzzPKNmTk",
-  "name": "沙拉農場",
-  "address": "43244台灣臺中市大肚區永和里平和街28號",
-  "rating": 4.9,
-  "userRatingCount": 131,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=4150504605558737344&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1499204,
-   "longitude": 120.5437776
-  },
-  "types": [
-   "farm",
-   "point_of_interest",
-   "service",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "17129449952448845537": {
-  "place_id": "ChIJI7xmzX8_aTQR4ZaL3fkHuO0",
-  "name": "小可愛芋圓 |大肚|下午營業|養身甜湯|",
-  "address": "432台灣臺中市大肚區頂街里沙田路二段713巷5號",
-  "rating": 5,
-  "userRatingCount": 28,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=17129449952448845537&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1527085,
-   "longitude": 120.54465529999999
-  },
-  "types": [
-   "dessert_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "14393928993042220128": {
-  "place_id": "ChIJL1yful0_aTQRYER6KCiCwcc",
-  "name": "呈映咖啡館",
-  "address": "432台灣臺中市大肚區大東里育英路187巷23弄2號",
-  "rating": 4.8,
-  "userRatingCount": 108,
+  "userRatingCount": 250,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=14393928993042220128&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=14307747939924216873&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.149945499999998,
-   "longitude": 120.54919329999998
+   "latitude": 24.264813,
+   "longitude": 120.8270488
   },
   "types": [
-   "brunch_restaurant",
-   "food_store",
-   "store",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "6202793270684416890": {
-  "place_id": "ChIJAWdLwJ0_aTQRevtTqp2_FFY",
-  "name": "旻恆早餐店",
-  "address": "432台灣臺中市大肚區頂街里華昌街30-50號",
-  "rating": 4.4,
-  "userRatingCount": 143,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=6202793270684416890&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1520996,
-   "longitude": 120.54391419999999
-  },
-  "types": [
-   "breakfast_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "12868232727930478421": {
-  "place_id": "ChIJe7D_4Z0_aTQRVR9au3wllbI",
-  "name": "好口味小吃店(中式早午餐、大肚在地美食、平價小吃)",
-  "address": "432台灣臺中市大肚區大肚里沙田路二段653號",
-  "rating": 4.8,
-  "userRatingCount": 26,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=12868232727930478421&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1513292,
-   "longitude": 120.54510630000001
-  },
-  "types": [
-   "breakfast_restaurant",
-   "brunch_restaurant",
-   "snack_bar",
-   "meal_takeaway",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "15473523116216071343": {
-  "place_id": "ChIJ4f4Nua8_aTQRr7TavUr_vNY",
-  "name": "津合早餐",
-  "address": "432台灣臺中市大肚區永和里紙廠路85號",
-  "rating": 4.6,
-  "userRatingCount": 30,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=15473523116216071343&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1519133,
-   "longitude": 120.54096729999998
-  },
-  "types": [
-   "breakfast_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "8884866359806175976": {
-  "place_id": "ChIJs7T6rZw_aTQR6KoQVeFiTXs",
-  "name": "劉師傅早餐店",
-  "address": "432台灣臺中市大肚區頂街里大德三街27號",
-  "rating": 4.7,
-  "userRatingCount": 39,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=8884866359806175976&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1563026,
-   "longitude": 120.53974249999999
-  },
-  "types": [
-   "breakfast_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "5379703045090715605": {
-  "place_id": "ChIJ34fiqnI_aTQR1Se4p2qLqEo",
-  "name": "福糧中式早餐",
-  "address": "432台灣臺中市大肚區新興里沙田路二段132巷口號",
-  "rating": 4.6,
-  "userRatingCount": 469,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=5379703045090715605&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1386264,
-   "longitude": 120.55079540000001
-  },
-  "types": [
-   "breakfast_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "10872429493298345758": {
-  "place_id": "ChIJt-JPw3U_aTQRHjeHAQWh4pY",
-  "name": "麥味登 大肚旗艦店",
-  "address": "432台灣臺中市大肚區大肚里平和街1號",
-  "rating": 4.4,
-  "userRatingCount": 253,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=10872429493298345758&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.148539200000002,
-   "longitude": 120.5457206
-  },
-  "types": [
-   "breakfast_restaurant",
-   "brunch_restaurant",
-   "western_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "1910883479600566024": {
-  "place_id": "ChIJ5-cXFnY_aTQRCA_BgGbShBo",
-  "name": "真真早點",
-  "address": "432台灣臺中市大肚區平和街",
-  "rating": 4.6,
-  "userRatingCount": 109,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=1910883479600566024&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.149682,
-   "longitude": 120.54376010000001
-  },
-  "types": [
-   "breakfast_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "12394894792525126632": {
-  "place_id": "ChIJWRUVRiA_aTQR6JvMkCSDA6w",
-  "name": "一種幸福早午餐",
-  "address": "432台灣臺中市大肚區福山里王福街849號",
-  "rating": 4.2,
-  "userRatingCount": 50,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=12394894792525126632&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1249313,
-   "longitude": 120.5665951
-  },
-  "types": [
-   "brunch_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "3628030728662183670": {
-  "place_id": "ChIJ_Z_373U_aTQR9m4cwLlaWTI",
-  "name": "亞米早餐",
-  "address": "432台灣臺中市大肚區大肚里沙田路二段560號",
-  "rating": 4.7,
-  "userRatingCount": 45,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=3628030728662183670&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.149503499999998,
-   "longitude": 120.54591040000001
-  },
-  "types": [
-   "breakfast_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "6702208506044568214": {
-  "place_id": "ChIJOYC_hSQ_aTQRllJjXSAHA10",
-  "name": "麥味登 大肚育英店",
-  "address": "432台灣臺中市大肚區大肚里育英路1號",
-  "rating": 4.3,
-  "userRatingCount": 372,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=6702208506044568214&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1536154,
-   "longitude": 120.54699500000001
-  },
-  "types": [
-   "breakfast_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "7307031939373714683": {
-  "place_id": "ChIJR7bhA-w_aTQR-8zNpNXKZ2U",
-  "name": "哈囉早餐店",
-  "address": "432台灣臺中市大肚區王田里沙田路一段320巷3-1號",
-  "rating": 4.8,
-  "userRatingCount": 31,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=7307031939373714683&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.121871100000003,
-   "longitude": 120.56958200000001
-  },
-  "types": [
-   "breakfast_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "9209320225182787750": {
-  "place_id": "ChIJdZs2UEw_aTQRpijXpPMTzn8",
-  "name": "八廚職人弁當 大肚沙田店",
-  "address": "432台灣臺中市大肚區大肚里沙田路二段585號",
-  "rating": 4.3,
-  "userRatingCount": 189,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=9209320225182787750&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1500263,
-   "longitude": 120.5457321
-  },
-  "types": [
-   "restaurant",
    "chinese_restaurant",
-   "food",
+   "restaurant",
    "point_of_interest",
+   "food",
    "establishment"
   ],
-  "area_label": "大肚"
+  "area_label": "東勢"
  },
- "11895067120723879533": {
-  "place_id": "ChIJB9SDDXY_aTQRbeYsBobEE6U",
-  "name": "深海深美食坊（大肚分店）",
-  "address": "432台灣臺中市大肚區永和里平和街28號",
+ "16717891678410663664": {
+  "place_id": "ChIJzUmx818caTQR8GYgBejhAeg",
+  "name": "東口小店",
+  "address": "423台灣臺中市東勢區北興里中興街69號",
   "rating": 4.1,
-  "userRatingCount": 49,
+  "userRatingCount": 653,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=11895067120723879533&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=16717891678410663664&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.149172699999998,
-   "longitude": 120.5446793
+   "latitude": 24.258461099999998,
+   "longitude": 120.828671
   },
   "types": [
-   "taiwanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
-  "area_label": "大肚"
+  "area_label": "東勢"
  },
- "10954130483018606803": {
-  "place_id": "ChIJvzt6Hqo_aTQR0yiaB6PjBJg",
-  "name": "偷鍋野菜放題王田店",
-  "address": "432台灣臺中市大肚區王田里沙田路一段148之1號",
-  "rating": 4.7,
-  "userRatingCount": 537,
+ "3902491427546011718": {
+  "place_id": "ChIJN_oSLpccaTQRRhjj7UZvKDY",
+  "name": "峇六景觀餐廳",
+  "address": "423台灣臺中市東勢區興隆里東蘭路88-8號",
+  "rating": 4.4,
+  "userRatingCount": 727,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=10954130483018606803&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=3902491427546011718&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1192125,
-   "longitude": 120.57599069999999
+   "latitude": 24.277141699999998,
+   "longitude": 120.8172269
   },
   "types": [
-   "hot_pot_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "12734686991335692157": {
+  "place_id": "ChIJDRH8FwAdaTQRfRda7FiyurA",
+  "name": "八廚職人弁当 東勢豐勢店",
+  "address": "423台灣臺中市東勢區延平里豐勢路263號",
+  "rating": 4.5,
+  "userRatingCount": 301,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=12734686991335692157&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.252831699999998,
+   "longitude": 120.82972549999998
+  },
+  "types": [
+   "restaurant",
+   "snack_bar",
+   "meal_takeaway",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "16232724190132559660": {
+  "place_id": "ChIJuUknKB8daTQRLN-9caU4RuE",
+  "name": "布朗阿奇",
+  "address": "423台灣臺中市東勢區新盛里東關路六段1019號",
+  "rating": 4.8,
+  "userRatingCount": 113,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=16232724190132559660&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.243965199999998,
+   "longitude": 120.83306739999999
+  },
+  "types": [
+   "brunch_restaurant",
    "restaurant",
    "point_of_interest",
    "food",
    "establishment"
   ],
-  "area_label": "大肚"
+  "area_label": "東勢"
  },
- "12607441241102937367": {
-  "place_id": "ChIJTXMeQJA_aTQRF-2M_gKh9q4",
-  "name": "駱先生義大利麵",
-  "address": "432台灣臺中市大肚區大東里育英路127號",
+ "4155354793384813178": {
+  "place_id": "ChIJD-H9aaQdaTQReiJrJyvJqjk",
+  "name": "來點什麼-東勢店",
+  "address": "423台灣臺中市東勢區泰昌里東崎路五段411號",
+  "rating": 4.6,
+  "userRatingCount": 628,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=4155354793384813178&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2512458,
+   "longitude": 120.8325486
+  },
+  "types": [
+   "breakfast_restaurant",
+   "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "17615314655914361082": {
+  "place_id": "ChIJZfPXEj4daTQR-gCCgFkrdvQ",
+  "name": "巷角烘焙",
+  "address": "423台灣臺中市東勢區東安里第四橫街59號",
+  "rating": 4.9,
+  "userRatingCount": 121,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=17615314655914361082&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2564386,
+   "longitude": 120.8293981
+  },
+  "types": [
+   "food_store",
+   "food",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "11126148573349098465": {
+  "place_id": "ChIJj4gQgV8caTQR4TOxuC0FaJo",
+  "name": "好鄰居早餐",
+  "address": "423台灣臺中市東勢區北興里三民街183號",
+  "rating": 4.5,
+  "userRatingCount": 52,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=11126148573349098465&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.258450099999997,
+   "longitude": 120.8293413
+  },
+  "types": [
+   "breakfast_restaurant",
+   "asian_restaurant",
+   "chinese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "13503701950806346014": {
+  "place_id": "ChIJhzKahxsdaTQRHsmP6mDJZrs",
+  "name": "東奇早點本店(二哥的店)",
+  "address": "423台灣臺中市東勢區延平里豐勢路207號",
+  "rating": 4.6,
+  "userRatingCount": 186,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=13503701950806346014&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2514823,
+   "longitude": 120.82991119999998
+  },
+  "types": [
+   "breakfast_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "14953391375875973487": {
+  "place_id": "ChIJ3apkfsAdaTQRbyF62joehc8",
+  "name": "三民早午餐",
+  "address": "423台灣臺中市東勢區東安里三民街163號",
+  "rating": 4.6,
+  "userRatingCount": 35,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=14953391375875973487&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2574701,
+   "longitude": 120.82967980000001
+  },
+  "types": [
+   "brunch_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "1582069286179610826": {
+  "place_id": "ChIJK7hXBx0daTQRyqDKNKKj9BU",
+  "name": "鐵人早午餐",
+  "address": "423台灣臺中市東勢區南平里三民街125號",
   "rating": 4.3,
+  "userRatingCount": 82,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=1582069286179610826&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.255462299999998,
+   "longitude": 120.8300756
+  },
+  "types": [
+   "brunch_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "2527303340862412349": {
+  "place_id": "ChIJ_Q2V0BcdaTQRPRbDj__IEiM",
+  "name": "輕厚食早午餐",
+  "address": "423台灣臺中市東勢區福隆里東坑路365號",
+  "rating": 4.9,
   "userRatingCount": 16,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=12607441241102937367&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=2527303340862412349&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1510969,
-   "longitude": 120.54778229999998
+   "latitude": 24.2449583,
+   "longitude": 120.8401892
   },
   "types": [
-   "italian_restaurant",
-   "european_restaurant",
+   "brunch_restaurant",
    "restaurant",
    "point_of_interest",
    "food",
    "establishment"
   ],
-  "area_label": "大肚"
+  "area_label": "東勢"
  },
- "1460989823887759440": {
-  "place_id": "ChIJO-WkegE_aTQRUFhKEYF6RhQ",
-  "name": "阿義羊肉爐（總店） 大肚沙田路",
-  "address": "432台灣臺中市大肚區社腳里沙田路一段714號",
-  "rating": 4.7,
-  "userRatingCount": 1327,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=1460989823887759440&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.128121099999998,
-   "longitude": 120.55692649999997
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "15062318997464093561": {
-  "place_id": "ChIJW0F193U_aTQReRN3GVMbCNE",
-  "name": "振興冰店",
-  "address": "432台灣臺中市大肚區大肚里沙田路二段592號",
-  "rating": 4.4,
-  "userRatingCount": 22,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=15062318997464093561&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1500317,
-   "longitude": 120.54598469999999
-  },
-  "types": [
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "11803536499277568568": {
-  "place_id": "ChIJadhjK5s_aTQROBrMhOiVzqM",
-  "name": "日光郡社區",
-  "address": "432台灣臺中市大肚區頂街里大明三街230號",
-  "rating": 4.4,
-  "userRatingCount": 105,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=11803536499277568568&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1523222,
-   "longitude": 120.54083010000001
-  },
-  "types": [
-   "condominium_complex",
-   "service",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "686687836782674611": {
-  "place_id": "ChIJ_ba346g_aTQRs0IDB_Oahwk",
-  "name": "王田鵝肉",
-  "address": "432台灣臺中市大肚區王田里沙田路一段260號",
-  "rating": 4.4,
-  "userRatingCount": 2463,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=686687836782674611&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1208171,
-   "longitude": 120.5714891
-  },
-  "types": [
-   "chinese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "1451314779092088322": {
-  "place_id": "ChIJm_7x1k0_aTQRAvYOKRobJBQ",
-  "name": "春風串燒屋",
-  "address": "432台灣臺中市大肚區大東里沙田路二段490號",
-  "rating": 4.6,
-  "userRatingCount": 55,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=1451314779092088322&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1475898,
-   "longitude": 120.54641809999998
-  },
-  "types": [
-   "japanese_izakaya_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "4822960979832036434": {
-  "place_id": "ChIJo1oeoGU_aTQRUlx1QHWZ7kI",
-  "name": "味珍炭烤美食",
-  "address": "432台灣臺中市大肚區大肚里文昌路一段63號",
-  "rating": 4.2,
-  "userRatingCount": 15,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=4822960979832036434&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1507576,
-   "longitude": 120.544179
-  },
-  "types": [
-   "kebab_shop",
-   "service",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "2680588165085670157": {
-  "place_id": "ChIJQZ4bhKU_aTQRDSsM2btcMyU",
-  "name": "神州窯烤 雞排 串燒",
-  "address": "432台灣臺中市大肚區大肚里育英路42號",
-  "rating": 4.5,
-  "userRatingCount": 49,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=2680588165085670157&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1523799,
-   "longitude": 120.5471724
-  },
-  "types": [
-   "deli",
-   "food_store",
-   "store",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "17883097171096249914": {
-  "place_id": "ChIJNzUh1Pg_aTQROib83iCGLfg",
-  "name": "潮麻吉-大肚沙田二店",
-  "address": "432台灣臺中市大肚區大肚里沙田路二段583號",
-  "rating": 4,
-  "userRatingCount": 38,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=17883097171096249914&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.149859300000003,
-   "longitude": 120.54574179999999
-  },
-  "types": [
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "16438278818810159905": {
-  "place_id": "ChIJXV3MOgo_aTQRIeMB8n1_IOQ",
-  "name": "十九甲雞排-大肚店",
-  "address": "432台灣臺中市大肚區大肚里大肚街32號",
-  "rating": 4.5,
-  "userRatingCount": 38,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=16438278818810159905&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1496857,
-   "longitude": 120.5456732
-  },
-  "types": [
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "17663730927003840215": {
-  "place_id": "ChIJqzedOwA_aTQR1y4lELEtIvU",
-  "name": "豆炙小坊 烤肉飯&冰品&豆花&嫩仙草&現打飲品",
-  "address": "432台灣臺中市大肚區自強里中沙路164巷1弄118號",
-  "rating": 4.9,
-  "userRatingCount": 17,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=17663730927003840215&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.174531200000004,
-   "longitude": 120.57973799999999
-  },
-  "types": [
-   "snack_bar",
-   "meal_takeaway",
-   "dessert_shop",
-   "confectionery",
-   "japanese_restaurant",
-   "food_store",
-   "store",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "8780792864352431734": {
-  "place_id": "ChIJS8XiqZ4_aTQRdu4CZpak23k",
-  "name": "大肚夜市",
-  "address": "432台灣臺中市大肚區榮華街24號",
-  "rating": 4.2,
-  "userRatingCount": 1557,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=8780792864352431734&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.155350799999997,
-   "longitude": 120.54518799999998
-  },
-  "types": [
-   "market",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "14404281869219589740": {
-  "place_id": "ChIJzezm-lQ_aTQRbO5u-wpK5sc",
-  "name": "曾記滷未停",
-  "address": "43241台灣臺中市大肚區大肚里文昌路一段11號",
-  "rating": 4.1,
-  "userRatingCount": 22,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=14404281869219589740&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.151096,
-   "longitude": 120.54508080000001
-  },
-  "types": [
-   "taiwanese_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "4455397056958177089": {
-  "place_id": "ChIJJYLl-zY_aTQRQR9QgQTA1D0",
-  "name": "你有故事 我有雞排",
-  "address": "432台灣臺中市大肚區永和里沙田路二段467號",
-  "rating": 4.5,
-  "userRatingCount": 63,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=4455397056958177089&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1479607,
-   "longitude": 120.5460115
-  },
-  "types": [
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "15719567974698156113": {
-  "place_id": "ChIJ7_9UD0A9aTQRUYB9gskfJ9o",
-  "name": "珍饌全冷凍牛排海鮮專賣店(大肚店)",
-  "address": "43244台灣臺中市大肚區社腳里沙田路一段868號",
+ "16659172890746758903": {
+  "place_id": "ChIJg83r-dgdaTQR9ybH5HpFMec",
+  "name": "寮下啜COFFEEZU",
+  "address": "423台灣臺中市東勢區粵寧里豐勢路652號",
   "rating": 4.8,
-  "userRatingCount": 119,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=15719567974698156113&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.132681299999998,
-   "longitude": 120.5541632
-  },
-  "types": [
-   "manufacturer",
-   "wholesaler",
-   "service",
-   "point_of_interest",
-   "supplier",
-   "food",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "169978605314222539": {
-  "place_id": "ChIJu0ChR7o_aTQRy6krFaTiWwI",
-  "name": "藏味三分",
-  "address": "432台灣臺中市大肚區頂街里育樂街3號",
-  "rating": 4.2,
-  "userRatingCount": 53,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=169978605314222539&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1530988,
-   "longitude": 120.54433039999999
-  },
-  "types": [
-   "deli",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "9044490162547098693": {
-  "place_id": "ChIJ_fkFcp4_aTQRRYQiEeJ7hH0",
-  "name": "老先覺麻辣窯燒鍋台中大肚店",
-  "address": "432台灣臺中市大肚區大肚里自治路96號",
-  "rating": 4.5,
-  "userRatingCount": 709,
+  "userRatingCount": 929,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=9044490162547098693&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=16659172890746758903&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1518162,
-   "longitude": 120.54606729999999
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "16107289181058598104": {
-  "place_id": "ChIJEwhwsSI_aTQR2IR9iyuWiN8",
-  "name": "家珍寶",
-  "address": "432台灣臺中市大肚區福山里沙田路一段527號",
-  "rating": 4.2,
-  "userRatingCount": 205,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=16107289181058598104&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1241561,
-   "longitude": 120.5627239
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "8963428597782777250": {
-  "place_id": "ChIJz-2ltjE-aTQRoo1rxNF-ZHw",
-  "name": "饌囍堂臭臭鍋(東海向上店）",
-  "address": "432台灣臺中市大肚區自強里Section 5 of Shangshan Road1289號",
-  "rating": 4.1,
-  "userRatingCount": 730,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=8963428597782777250&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1726925,
-   "longitude": 120.5822035
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "13782082905860846611": {
-  "place_id": "ChIJe1trl1U_aTQRE7TR3GHLQ78",
-  "name": "店長鴨血-台中大肚店",
-  "address": "432台灣臺中市大肚區頂街里沙田路三段17號",
-  "rating": 4.6,
-  "userRatingCount": 31,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=13782082905860846611&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.154766799999997,
-   "longitude": 120.54394789999999
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "16590143797420763112": {
-  "place_id": "ChIJ_3kMmpk_aTQR6CfqqeIHPOY",
-  "name": "帝王食補薑母鴨 大肚店",
-  "address": "432台灣臺中市大肚區頂街里自由路827號",
-  "rating": 4.4,
-  "userRatingCount": 58,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=16590143797420763112&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.158592499999997,
-   "longitude": 120.54607449999999
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "6968874279797988387": {
-  "place_id": "ChIJq8Np450_aTQRIxy3GzxqtmA",
-  "name": "湯尼瑪麗麵包店",
-  "address": "432台灣臺中市大肚區大肚里文昌路一段20號",
-  "rating": 4.4,
-  "userRatingCount": 61,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=6968874279797988387&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.151201999999998,
-   "longitude": 120.54488099999999
-  },
-  "types": [
-   "bakery",
-   "food_store",
-   "food",
-   "store",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "14528389523417628991": {
-  "place_id": "ChIJv3q87Zs_aTQRP4HQ_Us1n8k",
-  "name": "村嫚手作蛋糕工坊",
-  "address": "432台灣臺中市大肚區頂街里沙田路三段125號",
-  "rating": 4.6,
-  "userRatingCount": 33,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=14528389523417628991&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1570273,
-   "longitude": 120.5438109
-  },
-  "types": [
-   "cake_shop",
-   "bakery",
-   "manufacturer",
-   "food_store",
-   "food",
-   "store",
-   "point_of_interest",
-   "wholesaler",
-   "service",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "3045679463258919872": {
-  "place_id": "ChIJlxVADiY_aTQRwBNAy1VtRCo",
-  "name": "H.J 甜點工作室 （預約制）",
-  "address": "432台灣臺中市大肚區遊園路二段203巷3弄26號",
-  "rating": 5,
-  "userRatingCount": 28,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=3045679463258919872&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1726869,
-   "longitude": 120.57899319999999
-  },
-  "types": [
-   "dessert_shop",
-   "confectionery",
-   "bakery",
-   "food_store",
-   "food",
-   "store",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "6143598596262012506": {
-  "place_id": "ChIJBckqwJ0_aTQRWibJhF9yQlU",
-  "name": "美二佳餅店(大肚店)",
-  "address": "432台灣臺中市大肚區大肚里文昌路一段64號",
-  "rating": 4.7,
-  "userRatingCount": 181,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=6143598596262012506&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1508373,
-   "longitude": 120.54384470000001
-  },
-  "types": [
-   "bakery",
-   "cake_shop",
-   "pastry_shop",
-   "dessert_shop",
-   "confectionery",
-   "manufacturer",
-   "food_store",
-   "food",
-   "store",
-   "point_of_interest",
-   "wholesaler",
-   "service",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "16178139916940416661": {
-  "place_id": "ChIJ6wiMWZ4_aTQRlRbN-4lMhOA",
-  "name": "哈萊餅行",
-  "address": "432台灣臺中市大肚區大肚里育英路46號",
-  "rating": 4.4,
-  "userRatingCount": 44,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=16178139916940416661&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.152292,
-   "longitude": 120.54722899999999
-  },
-  "types": [
-   "bakery",
-   "food_store",
-   "food",
-   "store",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "6346985955135657951": {
-  "place_id": "ChIJX34MohE_aTQR3xdBMhkGFVg",
-  "name": "馬蔥餅-大肚遊園店",
-  "address": "43250台灣臺中市大肚區蔗廍里遊園路二段91號",
-  "rating": 4.9,
-  "userRatingCount": 18,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=6346985955135657951&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1709148,
-   "longitude": 120.57973659999999
-  },
-  "types": [
-   "dessert_shop",
-   "confectionery",
-   "food_store",
-   "food",
-   "store",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "11882805150450227840": {
-  "place_id": "ChIJQ2DY2J0_aTQRgJrEl1M06KQ",
-  "name": "得億傳統豆花",
-  "address": "43242台灣臺中市大肚區頂街里沙田路二段689號",
-  "rating": 4.3,
-  "userRatingCount": 41,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=11882805150450227840&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1521139,
-   "longitude": 120.5449651
-  },
-  "types": [
-   "deli",
-   "food_store",
-   "food",
-   "store",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "3267768799735630507": {
-  "place_id": "ChIJv7a8L5w_aTQRq8pY9GhyWS0",
-  "name": "薏糖豆花",
-  "address": "432台灣臺中市大肚區頂街里沙田路二段761號",
-  "rating": 4.3,
-  "userRatingCount": 72,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=3267768799735630507&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1538938,
-   "longitude": 120.54429379999999
-  },
-  "types": [
-   "deli",
-   "food_store",
-   "food",
-   "store",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "11351667299192359808": {
-  "place_id": "ChIJuQH6LEQ_aTQRgEvH0EM5iZ0",
-  "name": "大碗公冰",
-  "address": "432台灣臺中市大肚區大肚里沙田路二段557號",
-  "rating": 4.1,
-  "userRatingCount": 249,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=11351667299192359808&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1494811,
-   "longitude": 120.5456056
-  },
-  "types": [
-   "dessert_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "7540609195115673513": {
-  "place_id": "ChIJKxeP6Zs_aTQRqffpcBygpWg",
-  "name": "貝塔貝果",
-  "address": "432台灣臺中市大肚區頂街里沙田路三段128號",
-  "rating": 4.6,
-  "userRatingCount": 42,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=7540609195115673513&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1571829,
-   "longitude": 120.54412980000001
-  },
-  "types": [
-   "bagel_shop",
-   "bakery",
-   "food_store",
-   "food",
-   "store",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "18351296122775827898": {
-  "place_id": "ChIJH7ZTx58_aTQRunUOJpjmrP4",
-  "name": "東陞烘焙食品材料行",
-  "address": "432台灣臺中市大肚區大東里自由路267號",
-  "rating": 4.5,
-  "userRatingCount": 63,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=18351296122775827898&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1505425,
-   "longitude": 120.549073
-  },
-  "types": [
-   "food",
-   "store",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "9495387299178484888": {
-  "place_id": "ChIJaYqziiI_aTQRmBRKnHBkxoM",
-  "name": "小時候大餅",
-  "address": "432台灣臺中市大肚區沙田路一段430號",
-  "rating": 4.1,
-  "userRatingCount": 58,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=9495387299178484888&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1232243,
-   "longitude": 120.56526059999997
-  },
-  "types": [
-   "deli",
-   "food_store",
-   "food",
-   "store",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "12748101703982377832": {
-  "place_id": "ChIJYR6KXAA_aTQRaOtrGvVa6rA",
-  "name": "鬆餅惹的禍",
-  "address": "432台灣臺中市大肚區頂街里沙田路三段260巷",
-  "rating": 5,
-  "userRatingCount": 18,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=12748101703982377832&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.159824500000003,
-   "longitude": 120.54370850000001
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "7729515604718337098": {
-  "place_id": "ChIJpYgqFOg_aTQRSjwTYX3BRGs",
-  "name": "Therethere smoothie",
-  "address": "432台灣臺中市大肚區瑞井里遊園路一段1之9號",
-  "rating": 4.6,
-  "userRatingCount": 172,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=7729515604718337098&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1533435,
-   "longitude": 120.5706241
-  },
-  "types": [
-   "juice_shop",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "4112239563844795820": {
-  "place_id": "ChIJ_WZeKiM_aTQRrL1GghicETk",
-  "name": "Starbucks星巴克 台中大肚門市",
-  "address": "432011台灣臺中市大肚區新興里沙田路二段178號",
-  "rating": 4.6,
-  "userRatingCount": 696,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=4112239563844795820&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.139396800000004,
-   "longitude": 120.55025739999999
+   "latitude": 24.2609188,
+   "longitude": 120.8254109
   },
   "types": [
    "coffee_shop",
    "cafe",
    "food_store",
+   "food",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "8689233289730514266": {
+  "place_id": "ChIJ912V0LodaTQRWt3itKNblng",
+  "name": "李饗早餐",
+  "address": "423台灣臺中市東勢區新盛里東關路六段787號",
+  "rating": 4.8,
+  "userRatingCount": 45,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=8689233289730514266&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2378422,
+   "longitude": 120.83457709999999
+  },
+  "types": [
+   "brunch_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "1829913428868580175": {
+  "place_id": "ChIJl3ZyHQ0daTQRT8NteZEoZRk",
+  "name": "一家人早午餐",
+  "address": "423台灣臺中市東勢區東安里第三橫街96號",
+  "rating": 4.6,
+  "userRatingCount": 16,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=1829913428868580175&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2557199,
+   "longitude": 120.8293674
+  },
+  "types": [
+   "breakfast_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "15714177575066779538": {
+  "place_id": "ChIJk6Idkl4caTQRkr9DSz_5E9o",
+  "name": "一心餐點",
+  "address": "423台灣臺中市東勢區延平里三民街108之5號",
+  "rating": 4.6,
+  "userRatingCount": 84,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=15714177575066779538&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2537951,
+   "longitude": 120.83066099999998
+  },
+  "types": [
+   "breakfast_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "5487044325279067847": {
+  "place_id": "ChIJEyG-TlwcaTQRx-4UA77lJUw",
+  "name": "東奇早點 台灣漢堡",
+  "address": "423台灣臺中市東勢區延平里三民街73號",
+  "rating": 4.4,
+  "userRatingCount": 255,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=5487044325279067847&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2534293,
+   "longitude": 120.83051660000001
+  },
+  "types": [
+   "breakfast_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "8830925109131914252": {
+  "place_id": "ChIJXXw892YdaTQRDKziN5m_jXo",
+  "name": "麥味登 東勢新盛店",
+  "address": "423台灣臺中市東勢區新盛里新盛街155號",
+  "rating": 4.1,
+  "userRatingCount": 72,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=8830925109131914252&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2459536,
+   "longitude": 120.8311561
+  },
+  "types": [
+   "brunch_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "13519042782566870270": {
+  "place_id": "ChIJHVC9NPUcaTQR_uw0pshJnbs",
+  "name": "鮮易寶早點",
+  "address": "423台灣臺中市東勢區粵寧里東蘭路",
+  "rating": 4.8,
+  "userRatingCount": 17,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=13519042782566870270&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.260514699999998,
+   "longitude": 120.8269745
+  },
+  "types": [
+   "breakfast_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "496076643923833537": {
+  "place_id": "ChIJ84dmCV8caTQRwbJyThRr4gY",
+  "name": "阿玉早點",
+  "address": "423台灣臺中市東勢區東安里三民街248號",
+  "rating": 4.3,
+  "userRatingCount": 333,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=496076643923833537&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2563984,
+   "longitude": 120.8300967
+  },
+  "types": [
+   "breakfast_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "1875866443032848619": {
+  "place_id": "ChIJ5QnSroQdaTQR62gMV5dqCBo",
+  "name": "豚將日本拉麵。東勢。",
+  "address": "423台灣臺中市東勢區中寧里第五橫街19號",
+  "rating": 4.1,
+  "userRatingCount": 285,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=1875866443032848619&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2574972,
+   "longitude": 120.82895719999999
+  },
+  "types": [
+   "ramen_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "7480355728275119375": {
+  "place_id": "ChIJm9K2iEkdaTQRD51l-eaPz2c",
+  "name": "哈咖食光日式咖哩食堂 Hakka Curry｜東勢美食｜家庭聚餐｜無訂位服務",
+  "address": "423台灣臺中市東勢區東新里新豐街117號",
+  "rating": 4.6,
+  "userRatingCount": 120,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=7480355728275119375&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.264759299999998,
+   "longitude": 120.8266822
+  },
+  "types": [
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "9002127002807034417": {
+  "place_id": "ChIJf7pUfF4caTQRMeJDUdD67Xw",
+  "name": "舞don食堂",
+  "address": "423台灣臺中市東勢區延平里三民街88號",
+  "rating": 4.8,
+  "userRatingCount": 20,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=9002127002807034417&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2536943,
+   "longitude": 120.83077490000001
+  },
+  "types": [
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "12652218170277527360": {
+  "place_id": "ChIJ25LcxIodaTQRQH8iPGS1la8",
+  "name": "山夯人壽司",
+  "address": "423台灣臺中市東勢區延平里豐勢路295號",
+  "rating": 4.7,
+  "userRatingCount": 57,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=12652218170277527360&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2533986,
+   "longitude": 120.82962130000001
+  },
+  "types": [
+   "sushi_restaurant",
+   "brunch_restaurant",
+   "breakfast_restaurant",
+   "meal_takeaway",
+   "japanese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "540053740468045629": {
+  "place_id": "ChIJu8DMt-AdaTQRPQc4AASofgc",
+  "name": "笈炙鐵板燒",
+  "address": "423台灣臺中市東勢區延平里三民街40號",
+  "rating": 4.2,
+  "userRatingCount": 108,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=540053740468045629&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.252529,
+   "longitude": 120.8309335
+  },
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "10691664847696833373": {
+  "place_id": "ChIJ__zsUfUcaTQRXSuAOIhsYJQ",
+  "name": "塩串燒",
+  "address": "423台灣臺中市東勢區豐勢路545號",
+  "rating": 4.9,
+  "userRatingCount": 42,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=10691664847696833373&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2595046,
+   "longitude": 120.82727949999999
+  },
+  "types": [
+   "yakitori_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "18263125003567725268": {
+  "place_id": "ChIJ9-ZAVPUdaTQR1Ho1tm2nc_0",
+  "name": "港茶米線專門店(東勢店)",
+  "address": "423台灣臺中市東勢區延平里豐勢路322號",
+  "rating": 4.7,
+  "userRatingCount": 196,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=18263125003567725268&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2531313,
+   "longitude": 120.8298596
+  },
+  "types": [
+   "chinese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "1429183894470209013": {
+  "place_id": "ChIJZ_b4dF8caTQR9S2bDC571RM",
+  "name": "佛羅倫斯咖啡美食館",
+  "address": "423台灣臺中市東勢區廣興里中山路35號",
+  "rating": 4.3,
+  "userRatingCount": 95,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=1429183894470209013&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.257198799999998,
+   "longitude": 120.83030049999999
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "2662546274879933913": {
+  "place_id": "ChIJT-AEciQdaTQR2Q1C8LpD8yQ",
+  "name": "一賞鍋物 東勢火鍋、東勢美食、晚餐首選、麻辣鴨血、車站附近、平價首選",
+  "address": "423台灣臺中市東勢區第五橫街1之2號",
+  "rating": 4.5,
+  "userRatingCount": 129,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=2662546274879933913&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2575124,
+   "longitude": 120.8296122
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "16138530437072154815": {
+  "place_id": "ChIJwfUXnEQdaTQRv_CDSu2T998",
+  "name": "詹家美味燒烤",
+  "address": "423台灣臺中市東勢區中寧里第五橫街42號",
+  "rating": 4.9,
+  "userRatingCount": 16,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=16138530437072154815&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2573389,
+   "longitude": 120.82889550000002
+  },
+  "types": [
+   "deli",
+   "food_store",
    "store",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "大肚"
+  "area_label": "東勢"
  },
- "13396232247495767212": {
-  "place_id": "ChIJ05q1AbI_aTQRrDSeuED66Lk",
-  "name": "大肚藍色公路",
-  "address": "432台灣臺中市大肚區大肚藍色公路",
-  "rating": 4.3,
-  "userRatingCount": 2971,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=13396232247495767212&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.156167,
-   "longitude": 120.5682956
-  },
-  "types": [
-   "scenic_spot",
-   "tourist_attraction",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "862087390680574440": {
-  "place_id": "ChIJPzKsB54_aTQR6OnbDuq_9gs",
-  "name": "韓老師の經典手藝茶",
-  "address": "432台灣臺中市大肚區大肚里文昌路一段48號",
-  "rating": 4.6,
-  "userRatingCount": 71,
+ "4842617336492950090": {
+  "place_id": "ChIJmbfQA18caTQRSoLPbM9uNEM",
+  "name": "炭火工坊",
+  "address": "423台灣臺中市東勢區南平里三民街220號",
+  "rating": 4.7,
+  "userRatingCount": 61,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=862087390680574440&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=4842617336492950090&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1510905,
-   "longitude": 120.5443623
+   "latitude": 24.25576,
+   "longitude": 120.8302055
   },
   "types": [
+   "kebab_shop",
+   "restaurant",
+   "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "大肚"
+  "area_label": "東勢"
  },
- "283989889663708868": {
-  "place_id": "ChIJU3QE25M_aTQRxC41zUzv8AM",
-  "name": "王田黑白切",
-  "address": "432台灣臺中市大肚區王田里沙田路一段260號",
+ "12654911622168138863": {
+  "place_id": "ChIJTXzKloIdaTQRb1RLXxJHn68",
+  "name": "早到晚到 東勢文化店",
+  "address": "423台灣臺中市東勢區北興里文化街378號",
+  "rating": 4,
+  "userRatingCount": 38,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=12654911622168138863&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2601519,
+   "longitude": 120.8263825
+  },
+  "types": [
+   "taiwanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "16368324204707731110": {
+  "place_id": "ChIJk7I-b9wdaTQRplYIHiT4J-M",
+  "name": "阿喜烤鴨",
+  "address": "423台灣臺中市東勢區廣興里第三橫街134號",
+  "rating": 4.8,
+  "userRatingCount": 37,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=16368324204707731110&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2559023,
+   "longitude": 120.8304594
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "17503263294506414174": {
+  "place_id": "ChIJMwgOC78daTQRXjAw5zoV6PI",
+  "name": "六扇門時尚湯鍋-台中東勢店",
+  "address": "423790台灣臺中市東勢區東安里第三橫街104號",
+  "rating": 4.5,
+  "userRatingCount": 1580,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=17503263294506414174&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.255830000000003,
+   "longitude": 120.82951209999999
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "2663005189777754034": {
+  "place_id": "ChIJ39y_iF4caTQRsoe5Yxzl9CQ",
+  "name": "頂好馨湯鍋-東勢店",
+  "address": "423台灣臺中市東勢區南平里忠孝街15號",
   "rating": 4.4,
-  "userRatingCount": 221,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=283989889663708868&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "userRatingCount": 328,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=2663005189777754034&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.120841,
-   "longitude": 120.57142879999999
+   "latitude": 24.253684099999997,
+   "longitude": 120.83008189999998
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "13502347404429992196": {
+  "place_id": "ChIJXRbqyGgdaTQRBKH3Am35Ybs",
+  "name": "鮮饌小館熗鍋麵",
+  "address": "423台灣臺中市東勢區上新里三民街88號",
+  "rating": 4.7,
+  "userRatingCount": 101,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=13502347404429992196&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.253076999999998,
+   "longitude": 120.8310322
   },
   "types": [
    "noodle_shop",
@@ -1524,39 +1055,19 @@
    "food",
    "establishment"
   ],
-  "area_label": "大肚"
+  "area_label": "東勢"
  },
- "12254442954027598710": {
-  "place_id": "ChIJryoc4J0_aTQRdoMam_CGEKo",
-  "name": "大肚鹿港現炒",
-  "address": "432台灣臺中市大肚區大肚里沙田路二段667號",
-  "rating": 4,
-  "userRatingCount": 120,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=12254442954027598710&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1516023,
-   "longitude": 120.54503249999999
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "6186676966830901720": {
-  "place_id": "ChIJdcRI8Z0_aTQR2AkMROx921U",
-  "name": "阿國現撈海產店",
-  "address": "432台灣臺中市大肚區大肚里文昌路一段58號No. 58",
-  "rating": 4,
-  "userRatingCount": 144,
+ "1925387917227826052": {
+  "place_id": "ChIJMThtUZsdaTQRhJsxDRxauBo",
+  "name": "原火車頭羊肉爐",
+  "address": "423台灣臺中市東勢區粵寧里東蘭路19-12號",
+  "rating": 4.8,
+  "userRatingCount": 55,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=6186676966830901720&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=1925387917227826052&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1509382,
-   "longitude": 120.5441754
+   "latitude": 24.2624687,
+   "longitude": 120.8265176
   },
   "types": [
    "restaurant",
@@ -1564,250 +1075,403 @@
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "大肚"
+  "area_label": "東勢"
  },
- "18163019756951800058": {
-  "place_id": "ChIJLzTJx50_aTQR-oiDtTwCEPw",
-  "name": "家鄉越南美食",
-  "address": "432台灣臺中市大肚區大肚里文昌路一段66號",
-  "rating": 4.2,
-  "userRatingCount": 76,
+ "8529567209562995513": {
+  "place_id": "ChIJH82foIUdaTQROXvSfS8cX3Y",
+  "name": "東勢中正薑母鴨",
+  "address": "423台灣臺中市東勢區延平里東關路七段239號",
+  "rating": 4.6,
+  "userRatingCount": 43,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=8529567209562995513&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2499837,
+   "longitude": 120.82857899999999
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "12997024691118527395": {
+  "place_id": "ChIJhSHyQycdaTQRo9MZaxi1XrQ",
+  "name": "大雪山下咖啡廳-號食咖啡 Hao Shih Cafe 自家烘焙咖啡豆",
+  "address": "423台灣臺中市東勢區第一橫街168號",
+  "rating": 4.9,
+  "userRatingCount": 124,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=18163019756951800058&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=12997024691118527395&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1508218,
-   "longitude": 120.54381500000001
+   "latitude": 24.2516009,
+   "longitude": 120.82986389999999
   },
   "types": [
-   "restaurant",
+   "coffee_roastery",
+   "food_store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "大肚"
+  "area_label": "東勢"
  },
- "1845672573378153924": {
-  "place_id": "ChIJFZFmVI4_aTQRxM3iO20lnRk",
-  "name": "路口焢肉飯",
-  "address": "432台灣臺中市大肚區大肚里文昌路一段27號",
+ "5370542035789614008": {
+  "place_id": "ChIJVVqM-y8daTQRuAuL9ob_h0o",
+  "name": "品芝烘焙 PIN ZIN",
+  "address": "423台灣臺中市東勢區廣興里第五橫街2號",
+  "rating": 4.8,
+  "userRatingCount": 79,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=5370542035789614008&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.258004,
+   "longitude": 120.8308476
+  },
+  "types": [
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "food",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "11899447269078235416": {
+  "place_id": "ChIJof9eMgAdaTQRGHnmyD5UI6U",
+  "name": "Creamy dreamy(皓皓媽媽工作室）",
+  "address": "423台灣臺中市東勢區新盛里新盛街155號",
+  "rating": 4.3,
+  "userRatingCount": 28,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=11899447269078235416&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.245969,
+   "longitude": 120.83120810000001
+  },
+  "types": [
+   "bakery",
+   "food_store",
+   "store",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "3995519777353386818": {
+  "place_id": "ChIJbT_1XV8caTQRQksyfhHwcjc",
+  "name": "喬巴咖啡",
+  "address": "423台灣臺中市東勢區第三橫街124號",
+  "rating": 4.7,
+  "userRatingCount": 273,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=3995519777353386818&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2559358,
+   "longitude": 120.8301758
+  },
+  "types": [
+   "ice_cream_shop",
+   "tea_house",
+   "chocolate_shop",
+   "candy_store",
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "liquor_store",
+   "food",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "13686800958337362959": {
+  "place_id": "ChIJFaqEkwwdaTQRD6wssfRI8b0",
+  "name": "Abbie's mini bakery (艾比手作烘焙）",
+  "address": "423台灣臺中市東勢區東關路民安巷37號",
+  "rating": 5,
+  "userRatingCount": 19,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=13686800958337362959&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2452258,
+   "longitude": 120.83227950000001
+  },
+  "types": [
+   "bakery",
+   "food_store",
+   "store",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "9030435724105023078": {
+  "place_id": "ChIJ0dIN91QdaTQRZv5GHnKNUn0",
+  "name": "初椿 Chu Chun-東勢蛋糕-甜點-麵包-伴手禮-美食",
+  "address": "423台灣臺中市東勢區粵寧里東蘭路54-56號",
+  "rating": 4.9,
+  "userRatingCount": 38,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=9030435724105023078&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2666965,
+   "longitude": 120.82344339999999
+  },
+  "types": [
+   "bakery",
+   "food_store",
+   "store",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "15941267818810861261": {
+  "place_id": "ChIJR-beUPUcaTQRzWaW6Z7COt0",
+  "name": "明妮烘焙屋東勢店",
+  "address": "423台灣臺中市東勢區北興里豐勢路533號",
   "rating": 4.6,
   "userRatingCount": 157,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=1845672573378153924&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=15941267818810861261&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1510112,
-   "longitude": 120.5447818
+   "latitude": 24.2592118,
+   "longitude": 120.82736589999999
   },
   "types": [
-   "taiwanese_restaurant",
+   "bakery",
+   "food_store",
+   "store",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "7802751836271350340": {
+  "place_id": "ChIJg82_T88daTQRRBJ7T3TxSGw",
+  "name": "梧賴咖啡",
+  "address": "423台灣臺中市東勢區東安里第三橫街49號",
+  "rating": 4.9,
+  "userRatingCount": 292,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=7802751836271350340&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.255543499999998,
+   "longitude": 120.8278232
+  },
+  "types": [
+   "cafe",
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "food",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "8529035089769198449": {
+  "place_id": "ChIJr3LDd18caTQRcfOIsjk4XXY",
+  "name": "幸福銅鑼燒_日式手作甜點",
+  "address": "423台灣臺中市東勢區東安里三民街270號",
+  "rating": 4.8,
+  "userRatingCount": 57,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=8529035089769198449&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2575218,
+   "longitude": 120.82987840000001
+  },
+  "types": [
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "16719776462982196569": {
+  "place_id": "ChIJxdFwtAcdaTQRWa39nxuUCOg",
+  "name": "玥達人手作可麗餅-東勢店",
+  "address": "423013台灣臺中市東勢區南平里豐勢路362號",
+  "rating": 4.8,
+  "userRatingCount": 84,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=16719776462982196569&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.254033000000003,
+   "longitude": 120.8296277
+  },
+  "types": [
+   "dessert_shop",
+   "confectionery",
+   "french_restaurant",
+   "european_restaurant",
+   "food_store",
+   "store",
    "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "7040018418976520368": {
+  "place_id": "ChIJU7ZjGwAdaTQRsHhN03Mrs2E",
+  "name": "時刻製造所｜藝文咖啡空間",
+  "address": "423台灣臺中市東勢區東新里三民街378巷29弄16號",
+  "rating": 5,
+  "userRatingCount": 68,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=7040018418976520368&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2615536,
+   "longitude": 120.82787970000001
+  },
+  "types": [
+   "art_studio",
+   "cafe",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "大肚"
+  "area_label": "東勢"
  },
- "3403071478745652455": {
-  "place_id": "ChIJ2Qhae0U_aTQR59zly3ojOi8",
-  "name": "大肚 炸鴨頭",
-  "address": "432台灣臺中市大肚區山陽里沙田路三段879號",
+ "15851443669187961800": {
+  "place_id": "ChIJ5RNaIzIdaTQRyCMQVwik-9s",
+  "name": "GABI.TW 咖啡自家烘焙",
+  "address": "423台灣臺中市東勢區泰昌里東崎路5段459巷1號",
+  "rating": 4.8,
+  "userRatingCount": 184,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=15851443669187961800&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2513738,
+   "longitude": 120.8317555
+  },
+  "types": [
+   "cafe",
+   "coffee_roastery",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "7173263340030786942": {
+  "place_id": "ChIJ2xG5zQIdaTQRfv3djgCNjGM",
+  "name": "二餘草堂咖啡工作室",
+  "address": "423台灣臺中市東勢區新盛里新盛六街113號",
+  "rating": 4.8,
+  "userRatingCount": 323,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=7173263340030786942&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2446487,
+   "longitude": 120.83047009999999
+  },
+  "types": [
+   "food_store",
+   "food",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "5162389444114658464": {
+  "place_id": "ChIJF-aIFgAdaTQRoDSuENl9pEc",
+  "name": "寬茶一號院",
+  "address": "423台灣臺中市東勢區新盛里東關路6段1368-5號",
   "rating": 4.5,
-  "userRatingCount": 283,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=3403071478745652455&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "userRatingCount": 288,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=5162389444114658464&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.169070599999998,
-   "longitude": 120.5420918
+   "latitude": 24.245707499999998,
+   "longitude": 120.8342383
   },
   "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "14889717538993603573": {
-  "place_id": "ChIJkebMYUM_aTQR9QOebTbnos4",
-  "name": "阿嬤古早味",
-  "address": "432台灣臺中市大肚區大肚里文昌路一段35號",
-  "rating": 4.5,
-  "userRatingCount": 32,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=14889717538993603573&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1509699,
-   "longitude": 120.5446693
-  },
-  "types": [
-   "deli",
+   "coffee_shop",
+   "cafe",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "大肚"
+  "area_label": "東勢"
  },
- "4386399592448925370": {
-  "place_id": "ChIJN1fO9p0_aTQRuh7WbjCf3zw",
-  "name": "錦昌小吃部",
-  "address": "432台灣臺中市大肚區大肚里文昌路一段19號",
-  "rating": 4.3,
-  "userRatingCount": 513,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=4386399592448925370&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "196344751701890714": {
+  "place_id": "ChIJe89RZ40caTQRmha06oKOuQI",
+  "name": "何朝宗建築師事務所咖啡",
+  "address": "423台灣臺中市東勢區下新里東蘭路西門巷3-6號",
+  "rating": 4.6,
+  "userRatingCount": 254,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=196344751701890714&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.151021,
-   "longitude": 120.545006
+   "latitude": 24.2696038,
+   "longitude": 120.82514319999999
   },
   "types": [
-   "deli",
+   "cafe",
+   "coffee_shop",
    "food_store",
+   "food",
    "store",
-   "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "大肚"
+  "area_label": "東勢"
  },
- "13497274984187576986": {
-  "place_id": "ChIJmzIGrZM_aTQRmkJEJBb0T7s",
-  "name": "追分小吃",
-  "address": "432台灣臺中市大肚區沙田路三段882號",
-  "rating": 4.7,
-  "userRatingCount": 64,
+ "7089191885606773681": {
+  "place_id": "ChIJB1Z54pUdaTQRsWMstnXeYWI",
+  "name": "神話咖啡",
+  "address": "423台灣臺中市東勢區廣興里中山路13號",
+  "rating": 4.8,
+  "userRatingCount": 93,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=13497274984187576986&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=7089191885606773681&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.169117800000002,
-   "longitude": 120.5425374
+   "latitude": 24.257432500000004,
+   "longitude": 120.8309833
   },
   "types": [
-   "chinese_restaurant",
-   "restaurant",
+   "cafe",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "大肚"
+  "area_label": "東勢"
  },
- "5820198527471763826": {
-  "place_id": "ChIJiw9zIp0_aTQRcsE0WLl_xVA",
-  "name": "一心小吃",
-  "address": "432台灣臺中市大肚區頂街里大明三街143號號",
-  "rating": 4.3,
-  "userRatingCount": 26,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=5820198527471763826&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1541452,
-   "longitude": 120.54067959999999
-  },
-  "types": [
-   "deli",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "9380080287760476429": {
-  "place_id": "ChIJffyK1p0_aTQRDWmb7FK9LII",
-  "name": "福州外省麵",
-  "address": "432台灣臺中市大肚區頂街里沙田路二段714號",
-  "rating": 4,
-  "userRatingCount": 172,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=9380080287760476429&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1526884,
-   "longitude": 120.5449898
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "15553265662888049571": {
-  "place_id": "ChIJHYlmxXU_aTQRo_u4NbdM2Nc",
-  "name": "天天麵館",
-  "address": "432台灣臺中市大肚區大東里沙田路二段491號",
-  "rating": 4,
-  "userRatingCount": 150,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=15553265662888049571&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1482142,
-   "longitude": 120.54587799999999
-  },
-  "types": [
-   "chinese_noodle_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "10539828597984332146": {
-  "place_id": "ChIJpfkxVgs_aTQRcglceET-RJI",
-  "name": "鴨饗鴨肉飯 大肚店",
-  "address": "432台灣臺中市大肚區大肚里文昌路一段24號",
+ "14113792522828556105": {
+  "place_id": "ChIJlS31Vk8daTQRSafCfIVD3sM",
+  "name": "愛麵子餐館",
+  "address": "423台灣臺中市東勢區東安里中山路45號後棟",
   "rating": 4.2,
-  "userRatingCount": 35,
+  "userRatingCount": 284,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=10539828597984332146&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=14113792522828556105&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1511955,
-   "longitude": 120.5448169
-  },
-  "types": [
-   "taiwanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "12224424085939222000": {
-  "place_id": "ChIJGzWEKqo_aTQR8PUiOvDgpak",
-  "name": "豬鱻生",
-  "address": "432台灣臺中市大肚區沙田路二段542號",
-  "rating": 4.3,
-  "userRatingCount": 103,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=12224424085939222000&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1488169,
-   "longitude": 120.5460377
-  },
-  "types": [
-   "chinese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "9441536070059651110": {
-  "place_id": "ChIJK2YtLfs_aTQRJnDxRQgTB4M",
-  "name": "888魯肉飯炒麵",
-  "address": "432台灣臺中市大肚區社腳里沙田路一段888號",
-  "rating": 4.3,
-  "userRatingCount": 490,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=9441536070059651110&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1334689,
-   "longitude": 120.5540329
+   "latitude": 24.2569598,
+   "longitude": 120.8298138
   },
   "types": [
    "restaurant",
@@ -1815,83 +1479,79 @@
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "大肚"
+  "area_label": "東勢"
  },
- "18334067177631813916": {
-  "place_id": "ChIJf0XjL5w_aTQRHJHkwvWwb_4",
-  "name": "大肚筒仔米糕",
-  "address": "432台灣臺中市大肚區頂街里沙田路二段760號",
+ "386917295906272411": {
+  "place_id": "ChIJaRPCrFwcaTQRm7TyCzubXgU",
+  "name": "新鮮快炒",
+  "address": "423台灣臺中市東勢區新盛里豐勢路22號",
+  "rating": 4.5,
+  "userRatingCount": 78,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=386917295906272411&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2471695,
+   "longitude": 120.8322424
+  },
+  "types": [
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "10384470721763491182": {
+  "place_id": "ChIJK4P3q18caTQRbj0oJxoNHZA",
+  "name": "客家人餐館",
+  "address": "423台灣臺中市東勢區東安里第三橫街111號",
+  "rating": 4,
+  "userRatingCount": 93,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=10384470721763491182&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2559665,
+   "longitude": 120.82941849999999
+  },
+  "types": [
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "7378228811021989200": {
+  "place_id": "ChIJE0krXV4caTQRULWEGAO8ZGY",
+  "name": "第二橫街小吃",
+  "address": "423台灣臺中市東勢區南平里第二橫街44號",
   "rating": 4.3,
-  "userRatingCount": 419,
+  "userRatingCount": 270,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=18334067177631813916&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=7378228811021989200&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.153712,
-   "longitude": 120.54465869999999
+   "latitude": 24.2536763,
+   "longitude": 120.8286912
   },
   "types": [
-   "deli",
-   "food_store",
-   "store",
-   "food",
+   "restaurant",
    "point_of_interest",
+   "food",
    "establishment"
   ],
-  "area_label": "大肚"
+  "area_label": "東勢"
  },
- "16709802509105446826": {
-  "place_id": "ChIJZ9kIewo_aTQRqj8phtkk5ec",
-  "name": "芳滷肉",
-  "address": "432台灣臺中市大肚區頂街里沙田路二段707號",
-  "rating": 4.4,
-  "userRatingCount": 43,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=16709802509105446826&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1525939,
-   "longitude": 120.54472410000001
-  },
-  "types": [
-   "deli",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "13307155182642974927": {
-  "place_id": "ChIJD-LQ1p0_aTQRz9BuYCKDrLg",
-  "name": "燕-大肚肉羹專門店",
-  "address": "432台灣臺中市大肚區頂街里沙田路二段693號, 707",
+ "16495281404055204156": {
+  "place_id": "ChIJV3kx9lwcaTQRPDHRjgoD6-Q",
+  "name": "東勢-你好小吃店",
+  "address": "423台灣臺中市東勢區延平里豐勢路178號",
   "rating": 4.1,
-  "userRatingCount": 253,
+  "userRatingCount": 534,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=13307155182642974927&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=16495281404055204156&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.152609500000004,
-   "longitude": 120.54460209999998
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "17852232416635720703": {
-  "place_id": "ChIJAXq0now_aTQR_xNJOczev_c",
-  "name": "66牛肉麵",
-  "address": "432台灣臺中市大肚區頂街里沙田路三段41號",
-  "rating": 4.2,
-  "userRatingCount": 114,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=17852232416635720703&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.155327999999997,
-   "longitude": 120.54390119999998
+   "latitude": 24.2501531,
+   "longitude": 120.83067050000001
   },
   "types": [
    "noodle_shop",
@@ -1900,27 +1560,368 @@
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "大肚"
+  "area_label": "東勢"
  },
- "8193416860153437632": {
-  "place_id": "ChIJcelDAHQ_aTQRwF0kRjndtHE",
-  "name": "市場旁牛肉麵",
-  "address": "432台灣臺中市大肚區頂街里沙田路二段715號",
-  "rating": 4.4,
-  "userRatingCount": 17,
+ "4954299254820772853": {
+  "place_id": "ChIJb7G4j18caTQR9RuTWuw0wUQ",
+  "name": "珍味小吃",
+  "address": "423台灣臺中市東勢區中寧里豐勢路中盛巷12號",
+  "rating": 4.3,
+  "userRatingCount": 99,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=8193416860153437632&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=4954299254820772853&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1527051,
-   "longitude": 120.54469929999998
+   "latitude": 24.2579593,
+   "longitude": 120.82895490000001
   },
   "types": [
+   "chinese_noodle_restaurant",
+   "deli",
+   "food_store",
+   "restaurant",
+   "food",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "5474012206199667897": {
+  "place_id": "ChIJW31VNo0daTQRufyuVhmZ90s",
+  "name": "幸福小吃店",
+  "address": "423台灣臺中市東勢區南平里豐勢路323號",
+  "rating": 4.8,
+  "userRatingCount": 28,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=5474012206199667897&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.254300999999998,
+   "longitude": 120.82939499999999
+  },
+  "types": [
+   "vietnamese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "15392223560101892874": {
+  "place_id": "ChIJQ_Lu1h4aaTQRCpNFw8YpnNU",
+  "name": "阿婆炒麵",
+  "address": "423台灣臺中市東勢區南平里忠孝街25號",
+  "rating": 4.2,
+  "userRatingCount": 2086,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=15392223560101892874&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2537549,
+   "longitude": 120.83027960000001
+  },
+  "types": [
+   "taiwanese_restaurant",
+   "chinese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "16974605912944026193": {
+  "place_id": "ChIJBx_pBl8caTQRUSJGeyTqkes",
+  "name": "東勢大眾肉丸/瘦肉湯",
+  "address": "423台灣臺中市東勢區東安里三民街143號",
+  "rating": 4.3,
+  "userRatingCount": 126,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=16974605912944026193&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2561954,
+   "longitude": 120.8299604
+  },
+  "types": [
+   "chinese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "15644484311793615865": {
+  "place_id": "ChIJd1g1rV8caTQR-UOh8pdfHNk",
+  "name": "東勢肉丸",
+  "address": "423台灣臺中市東勢區東安里第三橫街86號",
+  "rating": 4.1,
+  "userRatingCount": 161,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=15644484311793615865&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.255743900000002,
+   "longitude": 120.82908379999999
+  },
+  "types": [
+   "deli",
+   "food_store",
+   "store",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "13405063209455373179": {
+  "place_id": "ChIJ4V50_vUcaTQRe8s-R_dZCLo",
+  "name": "洞庭春牛肉麵",
+  "address": "423台灣臺中市東勢區廣興里第三橫街143號",
+  "rating": 4.2,
+  "userRatingCount": 683,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=13405063209455373179&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2560707,
+   "longitude": 120.83029379999999
+  },
+  "types": [
+   "chinese_noodle_restaurant",
+   "noodle_shop",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "7901494086697781063": {
+  "place_id": "ChIJ81gOm18caTQRR4d4CAK_p20",
+  "name": "盛東餃子館",
+  "address": "423台灣臺中市東勢區中寧里第五橫街7號",
+  "rating": 4.1,
+  "userRatingCount": 2307,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=7901494086697781063&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2576233,
+   "longitude": 120.82932369999999
+  },
+  "types": [
+   "dumpling_restaurant",
    "chinese_noodle_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "大肚"
+  "area_label": "東勢"
+ },
+ "16133092326012500652": {
+  "place_id": "ChIJ48gMZZodaTQRrDqOZP5B5N8",
+  "name": "吳媽媽手工水餃",
+  "address": "423台灣臺中市東勢區中寧里豐勢路453號",
+  "rating": 4.2,
+  "userRatingCount": 54,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=16133092326012500652&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2572983,
+   "longitude": 120.8281942
+  },
+  "types": [
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "3427335471082755969": {
+  "place_id": "ChIJH79a_KMdaTQRgdf7v3NXkC8",
+  "name": "上等小吃部",
+  "address": "423台灣臺中市東勢區東新里東蘭路35號",
+  "rating": 4.6,
+  "userRatingCount": 27,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=3427335471082755969&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2635547,
+   "longitude": 120.8264938
+  },
+  "types": [
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "793807307849394723": {
+  "place_id": "ChIJX5HbWSsdaTQRI-p4bIorBAs",
+  "name": "客家美食",
+  "address": "423台灣臺中市東勢區新盛里東關路六段1178號",
+  "rating": 4.2,
+  "userRatingCount": 154,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=793807307849394723&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.238714299999998,
+   "longitude": 120.8346372
+  },
+  "types": [
+   "chinese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "14149335033116643542": {
+  "place_id": "ChIJ74vIqrscaTQR1lDoCD-JXMQ",
+  "name": "檳園食坊",
+  "address": "423台灣臺中市東勢區泰興里石城街178號",
+  "rating": 4.4,
+  "userRatingCount": 2155,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=14149335033116643542&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2853595,
+   "longitude": 120.7923536
+  },
+  "types": [
+   "chinese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "17803033432540961770": {
+  "place_id": "ChIJoXtAWoscaTQR6tsBF5UUEfc",
+  "name": "東勢田媽媽- 品佳客家田園料理",
+  "address": "423台灣臺中市東勢區粵寧里東蘭路34-7號",
+  "rating": 4.1,
+  "userRatingCount": 457,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=17803033432540961770&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.264022699999998,
+   "longitude": 120.82610199999999
+  },
+  "types": [
+   "chinese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "10743519530472296913": {
+  "place_id": "ChIJ7-cI3xobaTQR0dFFYxemGJU",
+  "name": "味味香客家庭園餐廳（網訂需3天前）",
+  "address": "423台灣臺中市東勢區埤頭里石城街石山巷11之1號",
+  "rating": 4,
+  "userRatingCount": 518,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=10743519530472296913&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.284221799999997,
+   "longitude": 120.76765610000001
+  },
+  "types": [
+   "restaurant",
+   "asian_restaurant",
+   "chinese_restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "5309248520202504893": {
+  "place_id": "ChIJu3OotFwcaTQRvUrwRmY9rkk",
+  "name": "山城餐館",
+  "address": "423台灣臺中市東勢區新盛里東關路七段41號",
+  "rating": 4.2,
+  "userRatingCount": 292,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=5309248520202504893&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.247065,
+   "longitude": 120.8315878
+  },
+  "types": [
+   "chinese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "12081273515081142951": {
+  "place_id": "ChIJfTeqfoocaTQRpxK_rEBOqac",
+  "name": "3Q芋圓",
+  "address": "423台灣臺中市東勢區北興里東關路七段636號",
+  "rating": 4.6,
+  "userRatingCount": 696,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=12081273515081142951&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.260129499999998,
+   "longitude": 120.8234605
+  },
+  "types": [
+   "dessert_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "15029377951197301907": {
+  "place_id": "ChIJGVUbadgdaTQRkww0GJ4Tk9A",
+  "name": "黃牛肉水餃館",
+  "address": "423台灣臺中市東勢區延平里第一橫街157號",
+  "rating": 4.4,
+  "userRatingCount": 582,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=15029377951197301907&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2516145,
+   "longitude": 120.83099990000001
+  },
+  "types": [
+   "chinese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "4113456116228265997": {
+  "place_id": "ChIJaezXgF8caTQRDZjxLovuFTk",
+  "name": "東勢美食街",
+  "address": "423台灣臺中市東勢區中寧里豐勢路中盛巷",
+  "rating": 4,
+  "userRatingCount": 57,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=4113456116228265997&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2581551,
+   "longitude": 120.82945900000001
+  },
+  "types": [
+   "food_court",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "東勢"
  }
 }
