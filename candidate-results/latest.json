@@ -138,8 +138,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -436,8 +436,8 @@
   "types": [
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -566,8 +566,8 @@
    "cafe",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -795,8 +795,8 @@
   },
   "types": [
    "sushi_restaurant",
-   "brunch_restaurant",
    "breakfast_restaurant",
+   "brunch_restaurant",
    "meal_takeaway",
    "japanese_restaurant",
    "restaurant",
@@ -1156,8 +1156,8 @@
    "confectionery",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1197,17 +1197,17 @@
    "longitude": 120.8301758
   },
   "types": [
-   "ice_cream_shop",
-   "liquor_store",
    "chocolate_shop",
    "candy_store",
+   "liquor_store",
+   "ice_cream_shop",
    "dessert_shop",
    "confectionery",
    "tea_house",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1296,8 +1296,8 @@
    "confectionery",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1341,9 +1341,9 @@
    "french_restaurant",
    "dessert_shop",
    "confectionery",
-   "european_restaurant",
    "food_store",
    "store",
+   "european_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -1366,8 +1366,8 @@
   "types": [
    "art_studio",
    "cafe",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1387,8 +1387,8 @@
   "types": [
    "cafe",
    "coffee_roastery",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1408,8 +1408,8 @@
   "types": [
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1431,8 +1431,8 @@
    "cafe",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1454,8 +1454,8 @@
    "coffee_shop",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1474,8 +1474,8 @@
   },
   "types": [
    "cafe",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
