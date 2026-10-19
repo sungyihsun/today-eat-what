@@ -1,8 +1,8 @@
 {
  "_note": "台中全區補完排程的狀態檔。規則見 .claude/skills/add-restaurant/TAICHUNG_SWEEP.md。",
  "in_progress": {
-  "district": "大甲",
-  "started_at": "2026-10-19T09:18:01Z"
+  "district": "霧峰",
+  "started_at": "2026-10-19T09:21:32Z"
  },
  "done": {
   "西區": {
@@ -120,6 +120,14 @@
    "finished_at": "2026-10-19T08:28:38Z",
    "sync_verified": true,
    "prd_promoted": true
+  },
+  "大甲": {
+   "area": "大甲",
+   "count": 30,
+   "qas_commit": "00c32b1ebe605bdc700efa246304bbabdd7cb9ec",
+   "finished_at": "2026-10-19T09:21:32Z",
+   "sync_verified": true,
+   "prd_promoted": true
   }
  },
  "skipped": {
@@ -150,20 +158,6 @@
   }
  },
  "queue": [
-  {
-   "area": "大甲",
-   "label": "大甲",
-   "slug": "dajia",
-   "center": [
-    24.348,
-    120.625
-   ],
-   "landmarks": [
-    "大甲媽祖 美食",
-    "大甲 中山路 美食"
-   ],
-   "population_approx": 74000
-  },
   {
    "area": "霧峰",
    "label": "霧峰",
