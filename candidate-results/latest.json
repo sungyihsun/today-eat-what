@@ -13,8 +13,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -74,8 +74,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -115,8 +115,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -137,8 +137,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -180,8 +180,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -201,8 +201,8 @@
   "types": [
    "chinese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -307,8 +307,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -328,8 +328,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -414,8 +414,8 @@
   "types": [
    "hot_pot_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -435,8 +435,8 @@
   "types": [
    "brunch_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -457,8 +457,8 @@
    "brunch_restaurant",
    "breakfast_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -478,8 +478,8 @@
   "types": [
    "brunch_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -499,8 +499,8 @@
   "types": [
    "brunch_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -520,8 +520,8 @@
   "types": [
    "breakfast_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -542,8 +542,8 @@
    "brunch_restaurant",
    "breakfast_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -565,8 +565,8 @@
    "coffee_shop",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -586,8 +586,8 @@
   "types": [
    "brunch_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -607,8 +607,8 @@
   "types": [
    "brunch_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -628,8 +628,8 @@
   "types": [
    "brunch_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -648,8 +648,8 @@
   },
   "types": [
    "manufacturer",
-   "store",
    "supplier",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -669,8 +669,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -690,8 +690,8 @@
   "types": [
    "brunch_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -710,8 +710,8 @@
   },
   "types": [
    "brunch_restaurant",
-   "breakfast_restaurant",
    "sandwich_shop",
+   "breakfast_restaurant",
    "hamburger_restaurant",
    "american_restaurant",
    "dessert_shop",
@@ -719,8 +719,8 @@
    "food_store",
    "store",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -740,8 +740,8 @@
   "types": [
    "brunch_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -762,8 +762,8 @@
    "brunch_restaurant",
    "breakfast_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -783,8 +783,8 @@
   "types": [
    "brunch_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -804,8 +804,8 @@
   "types": [
    "brunch_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -825,8 +825,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -846,8 +846,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -867,8 +867,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -889,8 +889,8 @@
    "japanese_restaurant",
    "japanese_izakaya_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -910,8 +910,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -932,8 +932,8 @@
    "sushi_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -954,8 +954,8 @@
    "japanese_restaurant",
    "asian_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -975,8 +975,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -998,8 +998,8 @@
    "bar_and_grill",
    "bar",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1020,8 +1020,8 @@
    "japanese_restaurant",
    "asian_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1041,8 +1041,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1062,8 +1062,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1083,8 +1083,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1104,8 +1104,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1125,8 +1125,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1474,8 +1474,8 @@
   "types": [
    "korean_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1496,8 +1496,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1516,8 +1516,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1538,8 +1538,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1560,8 +1560,8 @@
    "bar_and_grill",
    "bar",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1580,8 +1580,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1600,16 +1600,16 @@
   },
   "types": [
    "barbecue_restaurant",
+   "bed_and_breakfast",
    "hardware_store",
    "campground",
-   "bed_and_breakfast",
    "building_materials_store",
    "lodging",
    "store",
-   "restaurant",
-   "food",
-   "point_of_interest",
    "service",
+   "restaurant",
+   "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1630,11 +1630,11 @@
    "seafood_restaurant",
    "kebab_shop",
    "bar_and_grill",
-   "bar",
    "japanese_restaurant",
+   "bar",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1655,8 +1655,8 @@
    "bar_and_grill",
    "bar",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1676,8 +1676,8 @@
   "types": [
    "barbecue_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1696,8 +1696,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1736,8 +1736,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1756,28 +1756,30 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
  },
- "6859502267433708670": {
-  "place_id": "ChIJFRKtGXMaaTQRfmxfEvjYMV8",
-  "name": "烤串串 燒烤.消夜.串燒",
-  "address": "420台灣臺中市豐原區西湳里三豐路一段391號",
-  "rating": 4.3,
-  "userRatingCount": 65,
+ "4740896528618095472": {
+  "place_id": "ChIJzXeheA8aaTQRcAMqQUYMy0E",
+  "name": "牛角日本燒肉專門店-豐原太平洋店",
+  "address": "420台灣臺中市豐原區中山里復興路2號豐原太平洋百貨8樓",
+  "rating": 4.5,
+  "userRatingCount": 2158,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=6859502267433708670&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=4740896528618095472&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.2628627,
-   "longitude": 120.71999720000001
+   "latitude": 24.2509879,
+   "longitude": 120.7206061
   },
   "types": [
+   "yakiniku_restaurant",
+   "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1797,8 +1799,8 @@
   "types": [
    "hot_pot_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1818,8 +1820,8 @@
   "types": [
    "hot_pot_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1839,8 +1841,8 @@
   "types": [
    "hot_pot_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1860,8 +1862,8 @@
   "types": [
    "hot_pot_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1881,8 +1883,8 @@
   "types": [
    "hot_pot_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1902,8 +1904,8 @@
   "types": [
    "hot_pot_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1923,8 +1925,8 @@
   "types": [
    "hot_pot_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1944,50 +1946,8 @@
   "types": [
    "hot_pot_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
-   "establishment"
-  ],
-  "area_label": "豐原"
- },
- "728040504836898823": {
-  "place_id": "ChIJqU1TmwgaaTQRB0DmWPuEGgo",
-  "name": "石二鍋 豐原源豐店",
-  "address": "420台灣臺中市豐原區下街里源豐路36號",
-  "rating": 4.5,
-  "userRatingCount": 2383,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=728040504836898823&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2520435,
-   "longitude": 120.71558440000001
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
    "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "豐原"
- },
- "16384386029834016208": {
-  "place_id": "ChIJU3cdaoYbaTQR0BUhM0kIYeM",
-  "name": "惹鍋 沒事惹惹鍋｜平價海鮮鍋物｜深夜鍋物-台中豐原店",
-  "address": "42079台灣臺中市豐原區東湳里豐原大道六段705-1號",
-  "rating": 4.8,
-  "userRatingCount": 7251,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=16384386029834016208&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2640551,
-   "longitude": 120.7237182
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -2008,29 +1968,29 @@
    "hot_pot_restaurant",
    "thai_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
  },
- "11372712056074016987": {
-  "place_id": "ChIJQzgTnWsRaTQR2xgYG1z9050",
-  "name": "築間幸福鍋物 豐原圓環西路店",
-  "address": "420台灣臺中市豐原區豐圳里圓環西路198號",
+ "16384386029834016208": {
+  "place_id": "ChIJU3cdaoYbaTQR0BUhM0kIYeM",
+  "name": "惹鍋 沒事惹惹鍋｜平價海鮮鍋物｜深夜鍋物-台中豐原店",
+  "address": "42079台灣臺中市豐原區東湳里豐原大道六段705-1號",
   "rating": 4.8,
-  "userRatingCount": 2299,
+  "userRatingCount": 7251,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=11372712056074016987&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=16384386029834016208&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.255288099999998,
-   "longitude": 120.71181670000001
+   "latitude": 24.2640551,
+   "longitude": 120.7237182
   },
   "types": [
    "hot_pot_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -2050,8 +2010,50 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "豐原"
+ },
+ "728040504836898823": {
+  "place_id": "ChIJqU1TmwgaaTQRB0DmWPuEGgo",
+  "name": "石二鍋 豐原源豐店",
+  "address": "420台灣臺中市豐原區下街里源豐路36號",
+  "rating": 4.5,
+  "userRatingCount": 2383,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=728040504836898823&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2520435,
+   "longitude": 120.71558440000001
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "豐原"
+ },
+ "11372712056074016987": {
+  "place_id": "ChIJQzgTnWsRaTQR2xgYG1z9050",
+  "name": "築間幸福鍋物 豐原圓環西路店",
+  "address": "420台灣臺中市豐原區豐圳里圓環西路198號",
+  "rating": 4.8,
+  "userRatingCount": 2299,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=11372712056074016987&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.255288099999998,
+   "longitude": 120.71181670000001
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -2071,8 +2073,8 @@
   "types": [
    "hot_pot_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -2092,8 +2094,8 @@
   "types": [
    "hot_pot_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -2113,8 +2115,8 @@
   "types": [
    "hot_pot_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -2134,8 +2136,8 @@
   "types": [
    "hot_pot_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -2155,8 +2157,8 @@
   "types": [
    "hot_pot_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -2867,8 +2869,8 @@
   "types": [
    "korean_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -2888,8 +2890,8 @@
   "types": [
    "korean_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -2910,8 +2912,8 @@
    "korean_barbecue_restaurant",
    "korean_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -2931,8 +2933,8 @@
   "types": [
    "korean_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -2952,8 +2954,8 @@
   "types": [
    "korean_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -2972,8 +2974,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -2993,8 +2995,8 @@
   "types": [
    "meal_delivery",
    "food_delivery",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3013,8 +3015,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3033,8 +3035,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3053,8 +3055,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3073,8 +3075,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3094,8 +3096,8 @@
   "types": [
    "brunch_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3307,8 +3309,8 @@
   "types": [
    "chinese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3470,8 +3472,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3492,8 +3494,8 @@
    "deli",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3512,13 +3514,13 @@
   },
   "types": [
    "snack_bar",
-   "meal_takeaway",
    "deli",
+   "meal_takeaway",
    "food_store",
    "store",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3540,8 +3542,8 @@
    "food_store",
    "store",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3562,8 +3564,8 @@
    "deli",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3585,12 +3587,12 @@
    "taiwanese_restaurant",
    "snack_bar",
    "meal_takeaway",
-   "chinese_restaurant",
-   "japanese_restaurant",
    "market",
+   "japanese_restaurant",
+   "chinese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3612,8 +3614,8 @@
    "food_store",
    "store",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3636,8 +3638,8 @@
    "food_store",
    "store",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3656,8 +3658,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3679,8 +3681,8 @@
    "meal_takeaway",
    "chinese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3700,8 +3702,8 @@
   "types": [
    "noodle_shop",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3722,8 +3724,8 @@
    "deli",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3744,8 +3746,8 @@
    "deli",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3765,8 +3767,8 @@
   "types": [
    "taiwanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3791,8 +3793,8 @@
    "food_store",
    "store",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3811,8 +3813,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3833,8 +3835,8 @@
    "deli",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3855,8 +3857,8 @@
    "snack_bar",
    "meal_takeaway",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3875,8 +3877,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3897,8 +3899,8 @@
    "deli",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3917,8 +3919,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3958,8 +3960,8 @@
   "types": [
    "vegetarian_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3979,8 +3981,8 @@
   "types": [
    "asian_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3999,8 +4001,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -4019,8 +4021,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -4039,8 +4041,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -4062,8 +4064,8 @@
    "food_store",
    "store",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -4082,8 +4084,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
