@@ -1,9 +1,6 @@
 {
  "_note": "台中全區補完排程的狀態檔。規則見 .claude/skills/add-restaurant/TAICHUNG_SWEEP.md。",
- "in_progress": {
-  "district": "沙鹿",
-  "started_at": "2026-10-19T08:04:28Z"
- },
+ "in_progress": null,
  "done": {
   "西區": {
    "count": 20,
@@ -88,6 +85,14 @@
    "finished_at": "2026-10-19T08:04:28Z",
    "sync_verified": true,
    "prd_promoted": true
+  },
+  "沙鹿": {
+   "area": "沙鹿",
+   "count": 30,
+   "qas_commit": "372916f7b29651c9f16083444322c2cb3e48a6a3",
+   "finished_at": "2026-10-19T08:07:53Z",
+   "sync_verified": true,
+   "prd_promoted": true
   }
  },
  "skipped": {
@@ -118,20 +123,6 @@
   }
  },
  "queue": [
-  {
-   "area": "沙鹿",
-   "label": "沙鹿",
-   "slug": "shalu",
-   "center": [
-    24.234,
-    120.585
-   ],
-   "landmarks": [
-    "靜宜大學 美食",
-    "沙鹿 中山路 美食"
-   ],
-   "population_approx": 92000
-  },
   {
    "area": "清水",
    "label": "清水",
