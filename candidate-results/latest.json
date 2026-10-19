@@ -267,8 +267,8 @@
    "italian_restaurant",
    "european_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "大甲"
@@ -412,27 +412,21 @@
   ],
   "area_label": "大甲"
  },
- "17815973699031905641": {
-  "place_id": "ChIJ-zPAS6sRaTQRabV_qq8NP_c",
-  "name": "95 Cafe&Bistro 早午餐/晚餐/餐酒/咖啡/甜點",
-  "address": "437台灣臺中市大甲區順天里中華街95號1F",
-  "rating": 4.6,
-  "userRatingCount": 433,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=17815973699031905641&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "2326672963142336290": {
+  "place_id": "ChIJZbPCq6EPaTQRIr-alLsASiA",
+  "name": "豐Food早餐",
+  "address": "437台灣臺中市大甲區孔門里育德路156號",
+  "rating": 4.9,
+  "userRatingCount": 28,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=2326672963142336290&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.345485999999998,
-   "longitude": 120.62070089999997
+   "latitude": 24.3477092,
+   "longitude": 120.62442089999998
   },
   "types": [
+   "breakfast_restaurant",
    "restaurant",
-   "brunch_restaurant",
-   "pub",
-   "italian_restaurant",
-   "bar",
-   "european_restaurant",
-   "food_store",
-   "store",
    "food",
    "point_of_interest",
    "establishment"
@@ -460,27 +454,6 @@
   ],
   "area_label": "大甲"
  },
- "11101490119285643499": {
-  "place_id": "ChIJIZ26dcURaTQR65iH_XFqEJo",
-  "name": "來點什麼-大甲順天店",
-  "address": "437台灣臺中市大甲區新美里順天路95號",
-  "rating": 4.4,
-  "userRatingCount": 41,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=11101490119285643499&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.3437552,
-   "longitude": 120.62150460000001
-  },
-  "types": [
-   "brunch_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大甲"
- },
  "16145675330456777047": {
   "place_id": "ChIJD5h8TQUPaTQRV_Gpaiv2EOA",
   "name": "Sunny Bagel 太陽貝果-大甲店 早午餐 義大利麵 焗烤燉飯 大甲美食",
@@ -496,65 +469,23 @@
   "types": [
    "brunch_restaurant",
    "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "大甲"
- },
- "2467430182442428057": {
-  "place_id": "ChIJgSlcYzAPaTQRmeaOjK0SPiI",
-  "name": "With Sunshine Brunch",
-  "address": "437台灣臺中市大甲區文武里信義路298號",
-  "rating": 4.1,
-  "userRatingCount": 72,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=2467430182442428057&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.352904,
-   "longitude": 120.62189400000001
-  },
-  "types": [
-   "brunch_restaurant",
-   "restaurant",
    "food",
    "point_of_interest",
    "establishment"
   ],
   "area_label": "大甲"
  },
- "12368509638723563340": {
-  "place_id": "ChIJXcamAgASaTQRTO8cOfzFpas",
-  "name": "莫尼早午餐 Morni",
-  "address": "437台灣臺中市大甲區順天里五福街49號",
-  "rating": 4.4,
-  "userRatingCount": 608,
+ "8368574380274551876": {
+  "place_id": "ChIJXSBsfc4RaTQRRAyzbA8mI3Q",
+  "name": "彤晨時光",
+  "address": "437台灣臺中市大甲區朝陽里中山路一段844之1號",
+  "rating": 4.8,
+  "userRatingCount": 25,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=12368509638723563340&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=8368574380274551876&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.3471895,
-   "longitude": 120.619965
-  },
-  "types": [
-   "brunch_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "大甲"
- },
- "15733719304740267078": {
-  "place_id": "ChIJLT8gVjoRaTQRRuS_ylhmWdo",
-  "name": "早晚見 （大甲推薦宵夜）",
-  "address": "437台灣臺中市大甲區鎮瀾街95-3號",
-  "rating": 4.7,
-  "userRatingCount": 15,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=15733719304740267078&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.3437441,
-   "longitude": 120.6234447
+   "latitude": 24.3453554,
+   "longitude": 120.6273408
   },
   "types": [
    "restaurant",
@@ -564,17 +495,17 @@
   ],
   "area_label": "大甲"
  },
- "8278888573509241055": {
-  "place_id": "ChIJLeI2i2YPaTQR3wgPT0uF5HI",
-  "name": "龍虎呷早午餐",
-  "address": "437台灣臺中市大甲區頂店里中山路一段1060號",
-  "rating": 4.4,
-  "userRatingCount": 159,
+ "13998383400521215835": {
+  "place_id": "ChIJzXxaeQARaTQRW6_KQYk_RMI",
+  "name": "初沐朝午食堂",
+  "address": "437台灣臺中市大甲區中山路ㄧ段825號",
+  "rating": 4.2,
+  "userRatingCount": 37,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=8278888573509241055&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=13998383400521215835&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.3538461,
-   "longitude": 120.6307695
+   "latitude": 24.3423936,
+   "longitude": 120.622142
   },
   "types": [
    "brunch_restaurant",
@@ -606,6 +537,117 @@
   ],
   "area_label": "大甲"
  },
+ "17815973699031905641": {
+  "place_id": "ChIJ-zPAS6sRaTQRabV_qq8NP_c",
+  "name": "95 Cafe&Bistro 早午餐/晚餐/餐酒/咖啡/甜點",
+  "address": "437台灣臺中市大甲區順天里中華街95號1F",
+  "rating": 4.6,
+  "userRatingCount": 433,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=17815973699031905641&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.345485999999998,
+   "longitude": 120.62070089999997
+  },
+  "types": [
+   "restaurant",
+   "brunch_restaurant",
+   "italian_restaurant",
+   "food_store",
+   "store",
+   "european_restaurant",
+   "food",
+   "pub",
+   "bar",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大甲"
+ },
+ "2467430182442428057": {
+  "place_id": "ChIJgSlcYzAPaTQRmeaOjK0SPiI",
+  "name": "With Sunshine Brunch",
+  "address": "437台灣臺中市大甲區文武里信義路298號",
+  "rating": 4.1,
+  "userRatingCount": 72,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=2467430182442428057&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.352904,
+   "longitude": 120.62189400000001
+  },
+  "types": [
+   "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大甲"
+ },
+ "8278888573509241055": {
+  "place_id": "ChIJLeI2i2YPaTQR3wgPT0uF5HI",
+  "name": "龍虎呷早午餐",
+  "address": "437台灣臺中市大甲區頂店里中山路一段1060號",
+  "rating": 4.4,
+  "userRatingCount": 159,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=8278888573509241055&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3538461,
+   "longitude": 120.6307695
+  },
+  "types": [
+   "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大甲"
+ },
+ "11101490119285643499": {
+  "place_id": "ChIJIZ26dcURaTQR65iH_XFqEJo",
+  "name": "來點什麼-大甲順天店",
+  "address": "437台灣臺中市大甲區新美里順天路95號",
+  "rating": 4.4,
+  "userRatingCount": 41,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=11101490119285643499&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3437552,
+   "longitude": 120.62150460000001
+  },
+  "types": [
+   "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大甲"
+ },
+ "11730610596439784864": {
+  "place_id": "ChIJPUZRENkPaTQRoP05ny-Ay6I",
+  "name": "麥町吐司工房-大甲鎮政店",
+  "address": "437台灣臺中市大甲區朝陽里鎮政路55號",
+  "rating": 4.5,
+  "userRatingCount": 37,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=11730610596439784864&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3465629,
+   "longitude": 120.625592
+  },
+  "types": [
+   "breakfast_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大甲"
+ },
  "14519080762816626280": {
   "place_id": "ChIJgSz5tPMPaTQRaH7kRAcjfsk",
   "name": "晨間廚房早午餐-大甲順天-大甲平價早午餐|人氣早餐|外帶早午餐|必吃早午餐|熱門早午餐|熱門蛋餅|在地推薦早午餐|炒泡麵推薦",
@@ -627,19 +669,20 @@
   ],
   "area_label": "大甲"
  },
- "8368574380274551876": {
-  "place_id": "ChIJXSBsfc4RaTQRRAyzbA8mI3Q",
-  "name": "彤晨時光",
-  "address": "437台灣臺中市大甲區朝陽里中山路一段844之1號",
-  "rating": 4.8,
-  "userRatingCount": 25,
+ "12368509638723563340": {
+  "place_id": "ChIJXcamAgASaTQRTO8cOfzFpas",
+  "name": "莫尼早午餐 Morni",
+  "address": "437台灣臺中市大甲區順天里五福街49號",
+  "rating": 4.4,
+  "userRatingCount": 608,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=8368574380274551876&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=12368509638723563340&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.3453554,
-   "longitude": 120.6273408
+   "latitude": 24.3471895,
+   "longitude": 120.619965
   },
   "types": [
+   "brunch_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -668,47 +711,6 @@
   ],
   "area_label": "大甲"
  },
- "13998383400521215835": {
-  "place_id": "ChIJzXxaeQARaTQRW6_KQYk_RMI",
-  "name": "初沐朝午食堂",
-  "address": "437台灣臺中市大甲區中山路ㄧ段825號",
-  "rating": 4.2,
-  "userRatingCount": 37,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=13998383400521215835&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.3423936,
-   "longitude": 120.622142
-  },
-  "types": [
-   "brunch_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大甲"
- },
- "15713489736438784111": {
-  "place_id": "ChIJ30FMr_4RaTQRbyAuYqmHEdo",
-  "name": "早稻咖啡館（建議預約，餐點供應至19:30）",
-  "address": "437台灣臺中市大甲區南陽里南陽街50號",
-  "rating": 4.4,
-  "userRatingCount": 407,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=15713489736438784111&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.3426357,
-   "longitude": 120.6257036
-  },
-  "types": [
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "大甲"
- },
  "16451518858016775474": {
   "place_id": "ChIJ-_RAlngNaTQRMt26yzyJT-Q",
   "name": "欣欣來早茶",
@@ -731,38 +733,17 @@
   ],
   "area_label": "大甲"
  },
- "11916213089110125034": {
-  "place_id": "ChIJOWeANQcOaTQR6ulEdKvkXqU",
-  "name": "葉店輕食早午餐",
-  "address": "437台灣臺中市大甲區文武里信義路293號",
+ "3603033747770343108": {
+  "place_id": "ChIJBab2gP4RaTQRxH6YmRqMADI",
+  "name": "正園晨食館",
+  "address": "437台灣臺中市大甲區大甲里光明路8-1號",
   "rating": 4.5,
-  "userRatingCount": 99,
+  "userRatingCount": 86,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=11916213089110125034&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=3603033747770343108&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.353001,
-   "longitude": 120.621433
-  },
-  "types": [
-   "brunch_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大甲"
- },
- "14873668732781256365": {
-  "place_id": "ChIJsxzgjQMOaTQRrd5CjOjiac4",
-  "name": "穀嚕嚕早餐",
-  "address": "437台灣臺中市大甲區岷山里中山路一段968號",
-  "rating": 4.5,
-  "userRatingCount": 125,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=14873668732781256365&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.350933899999998,
-   "longitude": 120.6275848
+   "latitude": 24.3437551,
+   "longitude": 120.6254951
   },
   "types": [
    "breakfast_restaurant",
@@ -794,6 +775,68 @@
   ],
   "area_label": "大甲"
  },
+ "11916213089110125034": {
+  "place_id": "ChIJOWeANQcOaTQR6ulEdKvkXqU",
+  "name": "葉店輕食早午餐",
+  "address": "437台灣臺中市大甲區文武里信義路293號",
+  "rating": 4.5,
+  "userRatingCount": 99,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=11916213089110125034&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.353001,
+   "longitude": 120.621433
+  },
+  "types": [
+   "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大甲"
+ },
+ "18142185500955472154": {
+  "place_id": "ChIJ9a8DpwEOaTQRGnGxeZf9xfs",
+  "name": "初呷-早餐",
+  "address": "437台灣臺中市大甲區孔門里新政路100號",
+  "rating": 4.2,
+  "userRatingCount": 149,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=18142185500955472154&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3495797,
+   "longitude": 120.62374439999999
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大甲"
+ },
+ "14873668732781256365": {
+  "place_id": "ChIJsxzgjQMOaTQRrd5CjOjiac4",
+  "name": "穀嚕嚕早餐",
+  "address": "437台灣臺中市大甲區岷山里中山路一段968號",
+  "rating": 4.5,
+  "userRatingCount": 125,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=14873668732781256365&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.350933899999998,
+   "longitude": 120.6275848
+  },
+  "types": [
+   "breakfast_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大甲"
+ },
  "12987325581913136018": {
   "place_id": "ChIJS_b4z7MPaTQRkptGlM4_PLQ",
   "name": "伊迦食堂（大甲總店）",
@@ -807,28 +850,6 @@
    "longitude": 120.61727810000001
   },
   "types": [
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大甲"
- },
- "1952777154581304651": {
-  "place_id": "ChIJFdmgwwgRaTQRSxVR0HmoGRs",
-  "name": "叁日咖哩 - 3日熟成",
-  "address": "437台灣臺中市大甲區大甲里鎮瀾街166號",
-  "rating": 4.9,
-  "userRatingCount": 346,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=1952777154581304651&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.3457735,
-   "longitude": 120.62419189999999
-  },
-  "types": [
-   "japanese_curry_restaurant",
    "japanese_restaurant",
    "restaurant",
    "food",
@@ -882,41 +903,20 @@
   ],
   "area_label": "大甲"
  },
- "7390720048066444273": {
-  "place_id": "ChIJhe4lgcoRaTQR8btb27kckWY",
-  "name": "敘舊燒肉 Shujo Yakiniku",
-  "address": "437台灣臺中市大甲區大甲里順天路162號",
-  "rating": 4.9,
-  "userRatingCount": 1044,
+ "4972322989262810000": {
+  "place_id": "ChIJ2wn94T8RaTQRkKuEC2o9AUU",
+  "name": "煙島食堂",
+  "address": "437台灣臺中市大甲區順天里五福街60-1號",
+  "rating": 4.7,
+  "userRatingCount": 93,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=7390720048066444273&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=4972322989262810000&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.3456832,
-   "longitude": 120.6234879
+   "latitude": 24.347445999999998,
+   "longitude": 120.6202013
   },
   "types": [
    "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大甲"
- },
- "13483421575368738": {
-  "place_id": "ChIJDb4oG6ERaTQRIlBbuRnnLwA",
-  "name": "禾日蔬食 （店休日請看FB、官方Line）打烊前 30 分鐘停止接待內用",
-  "address": "437台灣臺中市大甲區鎮瀾街95-1號",
-  "rating": 4.6,
-  "userRatingCount": 171,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=13483421575368738&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.343725799999998,
-   "longitude": 120.6234611
-  },
-  "types": [
-   "food_store",
-   "store",
    "food",
    "point_of_interest",
    "establishment"
@@ -946,19 +946,41 @@
   ],
   "area_label": "大甲"
  },
- "4972322989262810000": {
-  "place_id": "ChIJ2wn94T8RaTQRkKuEC2o9AUU",
-  "name": "煙島食堂",
-  "address": "437台灣臺中市大甲區順天里五福街60-1號",
-  "rating": 4.7,
-  "userRatingCount": 93,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=4972322989262810000&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "17286212158672314887": {
+  "place_id": "ChIJ4VLa36gPaTQRB6KzPV_25O8",
+  "name": "舒食健康餐盒-大甲店",
+  "address": "43754台灣臺中市大甲區奉化里雁門路363號",
+  "rating": 4.8,
+  "userRatingCount": 184,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=17286212158672314887&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.347445999999998,
-   "longitude": 120.6202013
+   "latitude": 24.3557331,
+   "longitude": 120.62590639999999
   },
   "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大甲"
+ },
+ "1952777154581304651": {
+  "place_id": "ChIJFdmgwwgRaTQRSxVR0HmoGRs",
+  "name": "叁日咖哩 - 3日熟成",
+  "address": "437台灣臺中市大甲區大甲里鎮瀾街166號",
+  "rating": 4.9,
+  "userRatingCount": 346,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=1952777154581304651&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3457735,
+   "longitude": 120.62419189999999
+  },
+  "types": [
+   "japanese_curry_restaurant",
+   "japanese_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -988,57 +1010,17 @@
   ],
   "area_label": "大甲"
  },
- "6955458335453563770": {
-  "place_id": "ChIJXxSpIAATaTQReku9JoHAhmA",
-  "name": "十安越式料理",
-  "address": "437台灣臺中市大甲區庄美里蔣公路300號",
-  "rating": 4.7,
-  "userRatingCount": 77,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=6955458335453563770&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.3479133,
-   "longitude": 120.61761249999999
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大甲"
- },
- "17286212158672314887": {
-  "place_id": "ChIJ4VLa36gPaTQRB6KzPV_25O8",
-  "name": "舒食健康餐盒-大甲店",
-  "address": "43754台灣臺中市大甲區奉化里雁門路363號",
-  "rating": 4.8,
-  "userRatingCount": 184,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=17286212158672314887&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.3557331,
-   "longitude": 120.62590639999999
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大甲"
- },
- "17720660722752077077": {
-  "place_id": "ChIJ7bTBsfgRaTQRFb3aDApv7PU",
-  "name": "天長地久複合式茶坊",
-  "address": "43741台灣臺中市大甲區南陽里中山路一段604號",
-  "rating": 4.5,
-  "userRatingCount": 134,
+ "7390720048066444273": {
+  "place_id": "ChIJhe4lgcoRaTQR8btb27kckWY",
+  "name": "敘舊燒肉 Shujo Yakiniku",
+  "address": "437台灣臺中市大甲區大甲里順天路162號",
+  "rating": 4.9,
+  "userRatingCount": 1044,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=17720660722752077077&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=7390720048066444273&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.341876499999998,
-   "longitude": 120.6208887
+   "latitude": 24.3456832,
+   "longitude": 120.6234879
   },
   "types": [
    "restaurant",
@@ -1048,17 +1030,77 @@
   ],
   "area_label": "大甲"
  },
- "9818954627425295516": {
-  "place_id": "ChIJc50GrCoPaTQRnNxc6TXvQ4g",
-  "name": "鐵手鐵板燒",
-  "address": "437台灣臺中市大甲區朝陽里中山路一段852號",
-  "rating": 4.7,
-  "userRatingCount": 145,
+ "15713489736438784111": {
+  "place_id": "ChIJ30FMr_4RaTQRbyAuYqmHEdo",
+  "name": "早稻咖啡館（建議預約，餐點供應至19:30）",
+  "address": "437台灣臺中市大甲區南陽里南陽街50號",
+  "rating": 4.4,
+  "userRatingCount": 407,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=9818954627425295516&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=15713489736438784111&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.3461516,
-   "longitude": 120.62783749999998
+   "latitude": 24.3426357,
+   "longitude": 120.6257036
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大甲"
+ },
+ "2883779739499613501": {
+  "place_id": "ChIJ_0k0IAASaTQRPc1X52Q-BSg",
+  "name": "泰好味料理&《MoonLight》LED工作室",
+  "address": "437台灣臺中市大甲區順天里復興路65號",
+  "rating": 4.3,
+  "userRatingCount": 230,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=2883779739499613501&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.346344,
+   "longitude": 120.61986100000001
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大甲"
+ },
+ "8554714088413039456": {
+  "place_id": "ChIJtTe4OwASaTQRYIvjeiNzuHY",
+  "name": "元寸拉麵",
+  "address": "437台灣臺中市大甲區順天里中華街123號",
+  "rating": 4.4,
+  "userRatingCount": 216,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=8554714088413039456&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3459588,
+   "longitude": 120.61988719999998
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大甲"
+ },
+ "11073536985347144190": {
+  "place_id": "ChIJo5vd9v8NaTQR_jnE0jcbrZk",
+  "name": "鍋全日式涮涮鍋 大甲總店",
+  "address": "437台灣臺中市大甲區平安里仁愛街97號",
+  "rating": 4.4,
+  "userRatingCount": 1010,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=11073536985347144190&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3489972,
+   "longitude": 120.61920300000001
   },
   "types": [
    "japanese_restaurant",
@@ -1083,8 +1125,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "大甲"
@@ -1103,8 +1145,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "大甲"
@@ -1124,8 +1166,8 @@
   "types": [
    "family_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "大甲"
@@ -1149,8 +1191,8 @@
    "food_store",
    "store",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "service",
    "establishment"
   ],
@@ -1340,8 +1382,8 @@
   "types": [
    "restaurant",
    "bar_and_grill",
-   "food",
    "bar",
+   "food",
    "point_of_interest",
    "establishment"
   ],
@@ -1461,27 +1503,6 @@
   },
   "types": [
    "hot_pot_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大甲"
- },
- "11073536985347144190": {
-  "place_id": "ChIJo5vd9v8NaTQR_jnE0jcbrZk",
-  "name": "鍋全日式涮涮鍋 大甲總店",
-  "address": "437台灣臺中市大甲區平安里仁愛街97號",
-  "rating": 4.4,
-  "userRatingCount": 1010,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=11073536985347144190&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.3489972,
-   "longitude": 120.61920300000001
-  },
-  "types": [
-   "japanese_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -1739,6 +1760,72 @@
   ],
   "area_label": "大甲"
  },
+ "9391321168122713129": {
+  "place_id": "ChIJwYvA7dwRaTQRKZSPVdisVII",
+  "name": "霏霏翔翔幸福甜點",
+  "address": "437台灣臺中市大甲區文武里育英路152號",
+  "rating": 4.7,
+  "userRatingCount": 53,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=9391321168122713129&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3527547,
+   "longitude": 120.62389129999998
+  },
+  "types": [
+   "cake_shop",
+   "bakery",
+   "wholesaler",
+   "manufacturer",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "service",
+   "establishment"
+  ],
+  "area_label": "大甲"
+ },
+ "15432168477598344054": {
+  "place_id": "ChIJ2xP9Un8PaTQRduM6nXcTKtY",
+  "name": "ME-iN Coffee Roasters 米伊咖啡",
+  "address": "437台灣臺中市大甲區平安里文昌街64號",
+  "rating": 4.9,
+  "userRatingCount": 266,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=15432168477598344054&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3488082,
+   "longitude": 120.6211806
+  },
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大甲"
+ },
+ "16302585584978259151": {
+  "place_id": "ChIJk7cZJwAOaTQRz2wI-TZrPuI",
+  "name": "一瓣心香陶藝.咖啡.茶飲",
+  "address": "437台灣臺中市大甲區文武里大甲街196號",
+  "rating": 4.8,
+  "userRatingCount": 139,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=16302585584978259151&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3531674,
+   "longitude": 120.6198417
+  },
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大甲"
+ },
  "8740073064919245641": {
   "place_id": "ChIJu42E-v4RaTQRSaN4SSX6Snk",
   "name": "杏屋乳酪蛋糕-大甲店",
@@ -1790,69 +1877,21 @@
   ],
   "area_label": "大甲"
  },
- "13728772314949273222": {
-  "place_id": "ChIJfSucuU8RaTQRhsbEqq5lhr4",
-  "name": "88脆皮雞蛋糕-大甲店",
-  "address": "437台灣臺中市大甲區順天里雁門路5號",
-  "rating": 4.3,
-  "userRatingCount": 17,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=13728772314949273222&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.3462767,
-   "longitude": 120.6223375
-  },
-  "types": [
-   "dessert_shop",
-   "confectionery",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大甲"
- },
- "9391321168122713129": {
-  "place_id": "ChIJwYvA7dwRaTQRKZSPVdisVII",
-  "name": "霏霏翔翔幸福甜點",
-  "address": "437台灣臺中市大甲區文武里育英路152號",
-  "rating": 4.7,
-  "userRatingCount": 53,
+ "4875076948992528679": {
+  "place_id": "ChIJ48hyRAATaTQRJxFl5afAp0M",
+  "name": "曲岸 chill and cafe",
+  "address": "437台灣臺中市大甲區義和里文曲路671號",
+  "rating": 4.8,
+  "userRatingCount": 99,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=9391321168122713129&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=4875076948992528679&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.3527547,
-   "longitude": 120.62389129999998
+   "latitude": 24.3409613,
+   "longitude": 120.6177954
   },
   "types": [
-   "cake_shop",
-   "bakery",
-   "wholesaler",
-   "manufacturer",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "service",
-   "establishment"
-  ],
-  "area_label": "大甲"
- },
- "1534395536340697253": {
-  "place_id": "ChIJbUhHIPIRaTQRpUCIWJxESxU",
-  "name": "Feeling18大甲鎮瀾宮門市",
-  "address": "437台灣臺中市大甲區大甲里鎮瀾街No. 135號大甲鎮瀾宮瀾宮",
-  "rating": 4.9,
-  "userRatingCount": 354,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=1534395536340697253&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.345251200000003,
-   "longitude": 120.6237059
-  },
-  "types": [
-   "bakery",
+   "coffee_shop",
+   "cafe",
    "food_store",
    "store",
    "food",
@@ -1886,17 +1925,85 @@
   ],
   "area_label": "大甲"
  },
- "15432168477598344054": {
-  "place_id": "ChIJ2xP9Un8PaTQRduM6nXcTKtY",
-  "name": "ME-iN Coffee Roasters 米伊咖啡",
-  "address": "437台灣臺中市大甲區平安里文昌街64號",
+ "1534395536340697253": {
+  "place_id": "ChIJbUhHIPIRaTQRpUCIWJxESxU",
+  "name": "Feeling18大甲鎮瀾宮門市",
+  "address": "437台灣臺中市大甲區大甲里鎮瀾街No. 135號大甲鎮瀾宮瀾宮",
   "rating": 4.9,
-  "userRatingCount": 266,
+  "userRatingCount": 354,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=15432168477598344054&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=1534395536340697253&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.3488082,
-   "longitude": 120.6211806
+   "latitude": 24.345251200000003,
+   "longitude": 120.6237059
+  },
+  "types": [
+   "bakery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大甲"
+ },
+ "4599675952053570127": {
+  "place_id": "ChIJ3QruV_sRaTQRT0oPhOhU1T8",
+  "name": "CAMA CAFE 大甲站前店",
+  "address": "437台灣臺中市大甲區大甲里中山路一段959-1號",
+  "rating": 4.6,
+  "userRatingCount": 177,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=4599675952053570127&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.344851199999997,
+   "longitude": 120.626639
+  },
+  "types": [
+   "coffee_shop",
+   "cafe",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大甲"
+ },
+ "15525419877922314238": {
+  "place_id": "ChIJxRyQOcITaTQR_hdZLB9fddc",
+  "name": "甜衷秧 - 甜點、咖啡",
+  "address": "437台灣臺中市大甲區義和里文曲路506巷2-7號",
+  "rating": 4.8,
+  "userRatingCount": 40,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=15525419877922314238&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3403204,
+   "longitude": 120.61082040000001
+  },
+  "types": [
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大甲"
+ },
+ "6535124854494918068": {
+  "place_id": "ChIJ9fC5wFcPaTQRtPX-Om5tsVo",
+  "name": "野人小築咖啡",
+  "address": "437台灣臺中市大甲區頂店里大智街10號",
+  "rating": 4.9,
+  "userRatingCount": 115,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=6535124854494918068&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.355686499999997,
+   "longitude": 120.63181429999999
   },
   "types": [
    "cafe",
@@ -1906,46 +2013,28 @@
   ],
   "area_label": "大甲"
  },
- "13493902488399732326": {
-  "place_id": "ChIJrxKCp_8RaTQRZl7TxtH4Q7s",
-  "name": "菓子烘焙坊 大甲順天店",
-  "address": "437台灣臺中市大甲區順天里順天路127號",
-  "rating": 4.7,
-  "userRatingCount": 275,
+ "5604432582570223202": {
+  "place_id": "ChIJ1VsohOURaTQRYia5g73xxk0",
+  "name": "波多芙蓉蛋塔～兩津芙蓉蛋塔",
+  "address": "437台灣臺中市大甲區大甲里蔣公路111號",
+  "rating": 4.9,
+  "userRatingCount": 42,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=13493902488399732326&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=5604432582570223202&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.3446462,
-   "longitude": 120.6219565
+   "latitude": 24.345559299999998,
+   "longitude": 120.62339059999998
   },
   "types": [
+   "cake_shop",
    "bakery",
+   "wholesaler",
+   "manufacturer",
    "food_store",
    "store",
    "food",
    "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大甲"
- },
- "17592407901593150325": {
-  "place_id": "ChIJj73_bwASaTQRdSM8JsfJJPQ",
-  "name": "菓子烘焙坊 大甲蔣公店",
-  "address": "437台灣臺中市大甲區庄美里蔣公路293號",
-  "rating": 4.7,
-  "userRatingCount": 814,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=17592407901593150325&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.3476824,
-   "longitude": 120.6178279
-  },
-  "types": [
-   "bakery",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
+   "service",
    "establishment"
   ],
   "area_label": "大甲"
@@ -1977,66 +2066,44 @@
   ],
   "area_label": "大甲"
  },
- "16302585584978259151": {
-  "place_id": "ChIJk7cZJwAOaTQRz2wI-TZrPuI",
-  "name": "一瓣心香陶藝.咖啡.茶飲",
-  "address": "437台灣臺中市大甲區文武里大甲街196號",
-  "rating": 4.8,
-  "userRatingCount": 139,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=16302585584978259151&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "17592407901593150325": {
+  "place_id": "ChIJj73_bwASaTQRdSM8JsfJJPQ",
+  "name": "菓子烘焙坊 大甲蔣公店",
+  "address": "437台灣臺中市大甲區庄美里蔣公路293號",
+  "rating": 4.7,
+  "userRatingCount": 814,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=17592407901593150325&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.3531674,
-   "longitude": 120.6198417
+   "latitude": 24.3476824,
+   "longitude": 120.6178279
   },
   "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大甲"
- },
- "3922282343188052316": {
-  "place_id": "ChIJL6bp-v4RaTQRXLmCjgK_bjY",
-  "name": "梧棲小鎮鹹蛋糕-大甲店",
-  "address": "437台灣臺中市大甲區薰風里鎮瀾街95-6號",
-  "rating": 4.4,
-  "userRatingCount": 27,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=3922282343188052316&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.343811499999997,
-   "longitude": 120.62343519999999
-  },
-  "types": [
-   "cake_shop",
    "bakery",
-   "wholesaler",
-   "manufacturer",
    "food_store",
    "store",
    "food",
    "point_of_interest",
-   "service",
    "establishment"
   ],
   "area_label": "大甲"
  },
- "6535124854494918068": {
-  "place_id": "ChIJ9fC5wFcPaTQRtPX-Om5tsVo",
-  "name": "野人小築咖啡",
-  "address": "437台灣臺中市大甲區頂店里大智街10號",
-  "rating": 4.9,
-  "userRatingCount": 115,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=6535124854494918068&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "13493902488399732326": {
+  "place_id": "ChIJrxKCp_8RaTQRZl7TxtH4Q7s",
+  "name": "菓子烘焙坊 大甲順天店",
+  "address": "437台灣臺中市大甲區順天里順天路127號",
+  "rating": 4.7,
+  "userRatingCount": 275,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=13493902488399732326&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.355686499999997,
-   "longitude": 120.63181429999999
+   "latitude": 24.3446462,
+   "longitude": 120.6219565
   },
   "types": [
-   "cafe",
+   "bakery",
+   "food_store",
+   "store",
    "food",
    "point_of_interest",
    "establishment"
@@ -2070,96 +2137,23 @@
   ],
   "area_label": "大甲"
  },
- "5604432582570223202": {
-  "place_id": "ChIJ1VsohOURaTQRYia5g73xxk0",
-  "name": "波多芙蓉蛋塔～兩津芙蓉蛋塔",
-  "address": "437台灣臺中市大甲區大甲里蔣公路111號",
-  "rating": 4.9,
-  "userRatingCount": 42,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=5604432582570223202&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.345559299999998,
-   "longitude": 120.62339059999998
-  },
-  "types": [
-   "cake_shop",
-   "bakery",
-   "wholesaler",
-   "manufacturer",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "service",
-   "establishment"
-  ],
-  "area_label": "大甲"
- },
- "8957140873715168422": {
-  "place_id": "ChIJBUbcV_4RaTQRprTs7CooTnw",
-  "name": "【鎮瀾店】紅櫻花食品",
-  "address": "437台灣臺中市大甲區大甲里鎮瀾街99號",
+ "14145546207509747743": {
+  "place_id": "ChIJiT2dlb0PaTQRHxh-VFQTT8Q",
+  "name": "維琪糕點 Vicky's homemade desserts",
+  "address": "437台灣臺中市大甲區文武里德興路172號",
   "rating": 4.8,
-  "userRatingCount": 173,
+  "userRatingCount": 27,
   "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=8957140873715168422&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=14145546207509747743&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.3444979,
-   "longitude": 120.6234837
+   "latitude": 24.351866899999997,
+   "longitude": 120.62027859999999
   },
   "types": [
    "pastry_shop",
-   "gift_shop",
    "bakery",
    "dessert_shop",
    "confectionery",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大甲"
- },
- "4875076948992528679": {
-  "place_id": "ChIJ48hyRAATaTQRJxFl5afAp0M",
-  "name": "曲岸 chill and cafe",
-  "address": "437台灣臺中市大甲區義和里文曲路671號",
-  "rating": 4.8,
-  "userRatingCount": 99,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=4875076948992528679&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.3409613,
-   "longitude": 120.6177954
-  },
-  "types": [
-   "coffee_shop",
-   "cafe",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大甲"
- },
- "4599675952053570127": {
-  "place_id": "ChIJ3QruV_sRaTQRT0oPhOhU1T8",
-  "name": "CAMA CAFE 大甲站前店",
-  "address": "437台灣臺中市大甲區大甲里中山路一段959-1號",
-  "rating": 4.6,
-  "userRatingCount": 177,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=4599675952053570127&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.344851199999997,
-   "longitude": 120.626639
-  },
-  "types": [
-   "coffee_shop",
-   "cafe",
    "food_store",
    "store",
    "food",
@@ -2181,8 +2175,8 @@
    "longitude": 120.6259284
   },
   "types": [
-   "cafe",
    "dessert_shop",
+   "cafe",
    "confectionery",
    "food_store",
    "store",
@@ -2250,8 +2244,8 @@
   },
   "types": [
    "mediterranean_restaurant",
-   "cafe",
    "dessert_shop",
+   "cafe",
    "confectionery",
    "food_store",
    "store",
@@ -2297,16 +2291,16 @@
   },
   "types": [
    "cafe",
-   "sandwich_shop",
    "cake_shop",
    "gift_shop",
+   "sandwich_shop",
    "bakery",
    "wholesaler",
-   "manufacturer",
    "food_store",
    "store",
    "restaurant",
    "food",
+   "manufacturer",
    "point_of_interest",
    "service",
    "establishment"
@@ -2473,8 +2467,8 @@
    "food_delivery",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "service",
    "establishment"
   ],
@@ -2560,13 +2554,13 @@
   },
   "types": [
    "restaurant",
-   "noodle_shop",
    "snack_bar",
+   "noodle_shop",
    "meal_takeaway",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "大甲"
@@ -2587,8 +2581,8 @@
    "deli",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "大甲"
@@ -2630,8 +2624,8 @@
    "deli",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "大甲"
@@ -2718,8 +2712,8 @@
    "deli",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "大甲"
@@ -2761,8 +2755,8 @@
    "deli",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "大甲"
@@ -2804,8 +2798,8 @@
   "types": [
    "taiwanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "大甲"
@@ -2826,8 +2820,8 @@
    "deli",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "大甲"
@@ -3026,6 +3020,26 @@
   ],
   "area_label": "大甲"
  },
+ "17720660722752077077": {
+  "place_id": "ChIJ7bTBsfgRaTQRFb3aDApv7PU",
+  "name": "天長地久複合式茶坊",
+  "address": "43741台灣臺中市大甲區南陽里中山路一段604號",
+  "rating": 4.5,
+  "userRatingCount": 134,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=17720660722752077077&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.341876499999998,
+   "longitude": 120.6208887
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大甲"
+ },
  "13901326072521440369": {
   "place_id": "ChIJezxqbgIOaTQRcTyEG2lu68A",
   "name": "山東餃子館",
@@ -3120,6 +3134,27 @@
    "longitude": 120.62284969999997
   },
   "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大甲"
+ },
+ "9818954627425295516": {
+  "place_id": "ChIJc50GrCoPaTQRnNxc6TXvQ4g",
+  "name": "鐵手鐵板燒",
+  "address": "437台灣臺中市大甲區朝陽里中山路一段852號",
+  "rating": 4.7,
+  "userRatingCount": 145,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=9818954627425295516&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3461516,
+   "longitude": 120.62783749999998
+  },
+  "types": [
+   "japanese_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
