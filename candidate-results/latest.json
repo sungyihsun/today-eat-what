@@ -35,8 +35,8 @@
   "types": [
    "restaurant",
    "japanese_restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "東勢"
@@ -97,8 +97,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -138,8 +138,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "東勢"
@@ -415,8 +415,8 @@
    "breakfast_restaurant",
    "brunch_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -436,8 +436,8 @@
   "types": [
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "東勢"
@@ -566,8 +566,8 @@
    "cafe",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "東勢"
@@ -795,8 +795,8 @@
   },
   "types": [
    "sushi_restaurant",
-   "breakfast_restaurant",
    "brunch_restaurant",
+   "breakfast_restaurant",
    "meal_takeaway",
    "japanese_restaurant",
    "restaurant",
@@ -1070,8 +1070,8 @@
   "types": [
    "noodle_shop",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1156,8 +1156,8 @@
    "confectionery",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1197,17 +1197,17 @@
    "longitude": 120.8301758
   },
   "types": [
+   "ice_cream_shop",
+   "liquor_store",
    "chocolate_shop",
    "candy_store",
-   "liquor_store",
-   "ice_cream_shop",
    "dessert_shop",
    "confectionery",
    "tea_house",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1296,8 +1296,8 @@
    "confectionery",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1351,27 +1351,6 @@
   ],
   "area_label": "東勢"
  },
- "15851443669187961800": {
-  "place_id": "ChIJ5RNaIzIdaTQRyCMQVwik-9s",
-  "name": "GABI.TW 咖啡自家烘焙",
-  "address": "423台灣臺中市東勢區泰昌里東崎路5段459巷1號",
-  "rating": 4.8,
-  "userRatingCount": 184,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=15851443669187961800&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2513738,
-   "longitude": 120.8317555
-  },
-  "types": [
-   "cafe",
-   "coffee_roastery",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "東勢"
- },
  "7040018418976520368": {
   "place_id": "ChIJU7ZjGwAdaTQRsHhN03Mrs2E",
   "name": "時刻製造所｜藝文咖啡空間",
@@ -1387,8 +1366,29 @@
   "types": [
    "art_studio",
    "cafe",
-   "food",
    "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "15851443669187961800": {
+  "place_id": "ChIJ5RNaIzIdaTQRyCMQVwik-9s",
+  "name": "GABI.TW 咖啡自家烘焙",
+  "address": "423台灣臺中市東勢區泰昌里東崎路5段459巷1號",
+  "rating": 4.8,
+  "userRatingCount": 184,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=15851443669187961800&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2513738,
+   "longitude": 120.8317555
+  },
+  "types": [
+   "cafe",
+   "coffee_roastery",
+   "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1408,8 +1408,8 @@
   "types": [
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1431,48 +1431,8 @@
    "cafe",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "東勢"
- },
- "7089191885606773681": {
-  "place_id": "ChIJB1Z54pUdaTQRsWMstnXeYWI",
-  "name": "神話咖啡",
-  "address": "423台灣臺中市東勢區廣興里中山路13號",
-  "rating": 4.8,
-  "userRatingCount": 93,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=7089191885606773681&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.257432500000004,
-   "longitude": 120.8309833
-  },
-  "types": [
-   "cafe",
    "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "東勢"
- },
- "7242005713093335244": {
-  "place_id": "ChIJIcsxMn8daTQRzBhHhtPFgGQ",
-  "name": "萬波島嶼紅茶 wanpo tea shop 台中 東勢店",
-  "address": "423台灣臺中市東勢區南平里忠孝街11號",
-  "rating": 4.6,
-  "userRatingCount": 289,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=7242005713093335244&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.253682899999998,
-   "longitude": 120.8300822
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1494,27 +1454,47 @@
    "coffee_shop",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "東勢"
  },
- "7689095665386609871": {
-  "place_id": "ChIJ4e0Rh14caTQRz1xd48QntWo",
-  "name": "85度C咖啡蛋糕飲料烘焙-台中東勢店",
-  "address": "423台灣臺中市東勢區延平里豐勢路334號",
-  "rating": 4.2,
-  "userRatingCount": 613,
+ "7089191885606773681": {
+  "place_id": "ChIJB1Z54pUdaTQRsWMstnXeYWI",
+  "name": "神話咖啡",
+  "address": "423台灣臺中市東勢區廣興里中山路13號",
+  "rating": 4.8,
+  "userRatingCount": 93,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=7689095665386609871&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=7089191885606773681&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.2534162,
-   "longitude": 120.8297925
+   "latitude": 24.257432500000004,
+   "longitude": 120.8309833
   },
   "types": [
    "cafe",
+   "point_of_interest",
    "food",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "14914080903761217191": {
+  "place_id": "ChIJxyGJRCEdaTQRp8YfVJB1-c4",
+  "name": "有機書店文旅-東勢店",
+  "address": "423台灣臺中市東勢區延平里豐勢路234號",
+  "rating": 4.7,
+  "userRatingCount": 28,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=14914080903761217191&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2511875,
+   "longitude": 120.83024069999998
+  },
+  "types": [
+   "book_store",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -1534,8 +1514,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1554,8 +1534,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1660,8 +1640,8 @@
   "types": [
    "vietnamese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1703,8 +1683,8 @@
   "types": [
    "chinese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1725,8 +1705,8 @@
    "deli",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1747,8 +1727,8 @@
    "chinese_noodle_restaurant",
    "noodle_shop",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1789,8 +1769,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1809,8 +1789,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "東勢"
