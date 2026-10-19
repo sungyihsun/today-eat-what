@@ -1,0 +1,44 @@
+name: Fetch Fukuoka named attractions
+
+# Trigger: commit candidate-results/fukuoka-nearby-queries.json to DEV.
+# Resolves the hand-written attraction queries to Place Details and publishes
+# candidate-results/fukuoka-nearby-details.json (separate from details.json so the
+# Taichung sweep's picks/details pipeline is never touched).
+on:
+  push:
+    branches: [DEV]
+    paths:
+      - candidate-results/fukuoka-nearby-queries.json
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-fukuoka-nearby
+  cancel-in-progress: true
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: DEV
+      - name: Resolve named places
+        env:
+          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+          NAMED_PLACES_IN: candidate-results/fukuoka-nearby-queries.json
+          NAMED_PLACES_OUT: candidate-results/fukuoka-nearby-details.json
+        run: |
+          test -n "$GOOGLE_PLACES_API_KEY"
+          python3 .claude/skills/add-restaurant/scripts/fetch_named_places.py
+      - name: Publish to DEV
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add candidate-results/fukuoka-nearby-details.json || true
+          git diff --cached --quiet && exit 0
+          git commit -m "Publish Fukuoka named attractions"
+          for i in 1 2 3 4 5; do git push && break; git pull --rebase -X theirs origin DEV; done
