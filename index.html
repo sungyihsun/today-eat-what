@@ -402,7 +402,7 @@
      toggle, hours toggle, load-more hover — anything using --jade) to a
      champagne gold instead of duplicating every rule for a second color
      scheme; the black comes from the toggle/picker rules above. */
-  body.busan-mode{ --jade:#a9792a; }
+  body.trip-mode{ --jade:#a9792a; }
 
   /* 本地版：餐廳／服飾 常駐雙頁籤，放在標題下方、篩選列上方，跟餐廳分類 chip
      完全分開，避免服飾分類混進 CAT_GROUPS 的燒烤/日式那排。旅遊版（釜山）啟用
@@ -1490,11 +1490,12 @@ async function loadRestaurantsFromSupabase(){
   }));
   HOURS = Object.fromEntries(rows.map(row=>[row.name, row.hours || []]));
   // Reassigns HOURS wholesale from the Supabase rows, which wipes out the
-  // BUSAN_HOURS/TAIWAN_CLOTHING_HOURS merges done at parse time
-  // (busanRestaurants/taiwanClothingRestaurants are deliberately kept out of
-  // Supabase) — re-merge so 旅遊版/服飾 restaurants keep their real opening
-  // hours instead of falling back to "營業時間請洽店家".
+  // BUSAN_HOURS/FUKUOKA_HOURS/TAIWAN_CLOTHING_HOURS merges done at parse time
+  // (the 旅遊版 city arrays and taiwanClothingRestaurants are deliberately kept
+  // out of Supabase) — re-merge so 旅遊版/服飾 restaurants keep their real
+  // opening hours instead of falling back to "營業時間請洽店家".
   Object.assign(HOURS, BUSAN_HOURS);
+  Object.assign(HOURS, FUKUOKA_HOURS);
   Object.assign(HOURS, TAIWAN_CLOTHING_HOURS);
 }
 
@@ -1705,7 +1706,7 @@ const CAT_GROUPS_CLOTHING = {
   '選品店': ['選品店'],
 };
 const SUB_CAT_GROUPS_CLOTHING = {};
-// Swappable bindings — switchLocalMode()/enterBusanMode()/exitBusanMode()
+// Swappable bindings — switchLocalMode()/enterTripMode()/exitTripMode()
 // reassign these three together (mirrors the AREA_REGIONS let-swap pattern).
 let CAT_GROUPS = CAT_GROUPS_FOOD;
 let SUB_CAT_GROUPS = SUB_CAT_GROUPS_FOOD;
@@ -2646,6 +2647,26 @@ const AREA_REGIONS_BUSAN = {
   ],
 };
 
+// ── 旅遊版：福岡 ─────────────────────────────────────────────────────
+// 跟釜山同一套：前端資料、不進 Supabase；area 是博多／天神等商圈（建資料時依
+// 距離各商圈中心最近者決定），name 是日文原名、nameZh 是中文名。
+const fukuokaRestaurants = [
+];
+
+const FUKUOKA_HOURS = {};
+Object.assign(HOURS, FUKUOKA_HOURS);
+
+const AREA_REGIONS_FUKUOKA = {
+  '福岡': [
+    {area:'博多', label:'博多', enabled:true},
+    {area:'天神', label:'天神', enabled:true},
+    {area:'中洲', label:'中洲', enabled:true},
+    {area:'大名', label:'大名', enabled:true},
+    {area:'薬院', label:'薬院', enabled:true},
+    {area:'百道', label:'百道', enabled:true},
+  ],
+};
+
 // ── 本地版：服飾 ─────────────────────────────────────────────────────
 // Same shape as embeddedRestaurants, kept as its own array (not merged into
 // embeddedRestaurants) since it's a distinct browsing mode with its own
@@ -2723,9 +2744,10 @@ Object.assign(HOURS, TAIWAN_CLOTHING_HOURS);
 const CLOTHING_ENTRY_ENABLED = false;
 if(!CLOTHING_ENTRY_ENABLED) modeTabs.style.display = 'none';
 
-let siteMode = 'local'; // 'local' | 'busan'
-let localMode = 'food'; // 'food' | 'clothing' — which local-mode dataset is active (independent of siteMode==='busan')
-let localRestaurants = null; // captured on first switch to Busan mode, restored on the way back
+let siteMode = 'local'; // 'local' | 'trip'（旅遊版，目前城市看 currentTripCity）
+let currentTripCity = null; // 'busan' | 'fukuoka' | null
+let localMode = 'food'; // 'food' | 'clothing' — which local-mode dataset is active (independent of siteMode==='trip')
+let localRestaurants = null; // captured on first switch to a trip city, restored on the way back
 let localFoodRestaurants = null; // captured on first switch to 服飾, restored on the way back to 餐廳
 
 function freshState(){
@@ -2733,8 +2755,8 @@ function freshState(){
 }
 
 // Swaps between 餐廳 (CAT_GROUPS_FOOD) and 服飾 (CAT_GROUPS_CLOTHING) within
-// 在地版 — independent of siteMode (busan mode always exits back to 'food'
-// first, see enterBusanMode). Mirrors enter/exitBusanMode's swap pattern.
+// 在地版 — independent of siteMode (trip mode always exits back to 'food'
+// first, see enterTripMode). Mirrors enter/exitTripMode's swap pattern.
 function switchLocalMode(mode){
   if(mode === localMode) return;
   if(mode === 'clothing'){
@@ -2760,16 +2782,19 @@ function switchLocalMode(mode){
   render();
 }
 
-function enterBusanMode(){
+function enterTripMode(cityCode){
+  const city = TRIP_CITIES[cityCode];
+  if(!city) return;
   if(localMode === 'clothing') switchLocalMode('food');
   if(localRestaurants === null) localRestaurants = restaurants;
-  restaurants = busanRestaurants;
-  AREA_REGIONS = AREA_REGIONS_BUSAN;
+  restaurants = city.restaurants;
+  AREA_REGIONS = city.regions;
   state = freshState();
   areaUiExpanded = false;
   areaUiRegion = null;
-  siteMode = 'busan';
-  document.body.classList.add('busan-mode');
+  siteMode = 'trip';
+  currentTripCity = cityCode;
+  document.body.classList.add('trip-mode');
   tripToggleLabel.textContent = '回在地版';
   tripToggleBtn.classList.add('active');
   tripPicker.style.display = 'none';
@@ -2779,15 +2804,16 @@ function enterBusanMode(){
   render();
 }
 
-function exitBusanMode(){
+function exitTripMode(){
   restaurants = localRestaurants;
   AREA_REGIONS = AREA_REGIONS_TAIWAN;
   state = freshState();
   areaUiExpanded = false;
   areaUiRegion = null;
   siteMode = 'local';
+  currentTripCity = null;
   modeTabs.style.display = CLOTHING_ENTRY_ENABLED ? 'flex' : 'none';
-  document.body.classList.remove('busan-mode');
+  document.body.classList.remove('trip-mode');
   tripToggleLabel.textContent = '旅遊版';
   tripToggleBtn.classList.remove('active');
   recomputeCategoryLists();
@@ -2824,11 +2850,18 @@ function renderTripCityRow(country){
       btn.disabled = true;
       btn.title = '尚未開放';
     } else {
-      btn.addEventListener('click', enterBusanMode);
+      btn.addEventListener('click', ()=>enterTripMode(city.code));
     }
     tripCityRow.appendChild(btn);
   });
 }
+
+// 旅遊版城市表：新增城市＝加一個資料陣列、一組 AREA_REGIONS、一筆 *_HOURS，
+// 再在這裡和 TRIP_COUNTRIES 各加一筆。
+const TRIP_CITIES = {
+  busan:   { restaurants: busanRestaurants,   regions: AREA_REGIONS_BUSAN },
+  fukuoka: { restaurants: fukuokaRestaurants, regions: AREA_REGIONS_FUKUOKA },
+};
 
 const TRIP_COUNTRIES = [
   {code:'KR', label:'韓國', enabled:true, cities:[
@@ -2836,15 +2869,20 @@ const TRIP_COUNTRIES = [
     {code:'seoul', label:'首爾', enabled:false},
     {code:'jeju', label:'濟州', enabled:false},
   ]},
-  {code:'JP', label:'日本', enabled:false, cities:[]},
+  {code:'JP', label:'日本', enabled:true, cities:[
+    {code:'fukuoka', label:'福岡', enabled:true},
+    {code:'tokyo', label:'東京', enabled:false},
+    {code:'osaka', label:'大阪', enabled:false},
+    {code:'kyoto', label:'京都', enabled:false},
+  ]},
   {code:'other', label:'其他', enabled:false, cities:[]},
 ];
 
-modeTabFood.addEventListener('click', ()=>{ if(CLOTHING_ENTRY_ENABLED && siteMode!=='busan') switchLocalMode('food'); });
-modeTabClothing.addEventListener('click', ()=>{ if(CLOTHING_ENTRY_ENABLED && siteMode!=='busan') switchLocalMode('clothing'); });
+modeTabFood.addEventListener('click', ()=>{ if(CLOTHING_ENTRY_ENABLED && siteMode!=='trip') switchLocalMode('food'); });
+modeTabClothing.addEventListener('click', ()=>{ if(CLOTHING_ENTRY_ENABLED && siteMode!=='trip') switchLocalMode('clothing'); });
 
 tripToggleBtn.addEventListener('click', ()=>{
-  if(siteMode==='busan'){ exitBusanMode(); return; }
+  if(siteMode==='trip'){ exitTripMode(); return; }
   const opening = tripPicker.style.display==='none';
   tripPicker.style.display = opening ? 'flex' : 'none';
   tripPicker.style.flexDirection = 'column';
