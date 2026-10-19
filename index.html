@@ -3089,7 +3089,7 @@ function renderTripCityRow(country){
 // 本機看得到。驗收通過後把 JP_VISIBLE 改成 true 就會在正式站上線。這樣排程把
 // DEV 一路推到 PRD 時，不會把還沒核准的福岡一起帶出去。
 const PRD_HOSTS = ['eat.easonsung.com', 'what-to-eat-today-7g0.pages.dev', 'sungyihsun.github.io'];
-const JP_VISIBLE = !PRD_HOSTS.includes(location.hostname);
+const JP_VISIBLE = true; // 福岡驗收通過，正式站開放（原本是 !PRD_HOSTS.includes(location.hostname)）
 
 // 旅遊版城市表：新增城市＝加一個資料陣列、一組 AREA_REGIONS、一筆 *_HOURS，
 // 再在這裡和 TRIP_COUNTRIES 各加一筆。
