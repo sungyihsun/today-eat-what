@@ -1,8 +1,8 @@
 {
  "_note": "台中全區補完排程的狀態檔。規則見 .claude/skills/add-restaurant/TAICHUNG_SWEEP.md。",
  "in_progress": {
-  "district": "霧峰",
-  "started_at": "2026-10-19T09:21:32Z"
+  "district": "后里",
+  "started_at": "2026-10-19T09:24:59Z"
  },
  "done": {
   "西區": {
@@ -128,6 +128,14 @@
    "finished_at": "2026-10-19T09:21:32Z",
    "sync_verified": true,
    "prd_promoted": true
+  },
+  "霧峰": {
+   "area": "霧峰",
+   "count": 30,
+   "qas_commit": "dddaec2ef29affb9e8252df8cde36edbbf287e1e",
+   "finished_at": "2026-10-19T09:24:59Z",
+   "sync_verified": true,
+   "prd_promoted": true
   }
  },
  "skipped": {
@@ -158,19 +166,6 @@
   }
  },
  "queue": [
-  {
-   "area": "霧峰",
-   "label": "霧峰",
-   "slug": "wufeng",
-   "center": [
-    24.061,
-    120.699
-   ],
-   "landmarks": [
-    "霧峰 中正路 美食"
-   ],
-   "population_approx": 64000
-  },
   {
    "area": "后里",
    "label": "后里",
