@@ -58,6 +58,12 @@ TC_DISTRICTS = {
 }
 
 
+# 旅遊版：福岡（商圈只是搜尋中心，地址只要在福岡市內即可；最終 area 在建資料時
+# 依距離各商圈中心最近者決定）。Google zh-TW 地址形如「福岡縣福岡市中央區…」。
+for _label in ("博多", "天神", "中洲", "大名", "薬院", "百道"):
+    AREA_KEYWORDS[_label] = ["福岡市"]
+
+
 def area_keywords(label):
     if label in AREA_KEYWORDS:
         return AREA_KEYWORDS[label]
