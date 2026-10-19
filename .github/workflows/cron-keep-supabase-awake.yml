@@ -1,0 +1,34 @@
+name: Keep Supabase awake
+
+# The free Supabase plan pauses a project after about a week without activity
+# (it happened: the QAS sync failed with ENOTFOUND and the site silently fell
+# back to its built-in data). A tiny read every 3 days counts as activity.
+# Lives on main because GitHub only fires `schedule` from the default branch.
+# Reads the URL and the public publishable key from supabase/config.js on DEV,
+# so there is nothing to keep in sync and no secret involved.
+on:
+  schedule:
+    - cron: '17 3 */3 * *'
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/cron-keep-supabase-awake.yml
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: DEV
+      - name: Ping the Supabase REST API
+        run: |
+          url=$(grep -oE "https://[a-z0-9]+\.supabase\.co" supabase/config.js | head -1)
+          key=$(grep -oE "sb_publishable_[A-Za-z0-9_-]+|eyJ[A-Za-z0-9._-]+" supabase/config.js | head -1)
+          test -n "$url" && test -n "$key" || { echo "::error::could not read url/key from supabase/config.js"; exit 1; }
+          code=$(curl -sS -m 30 -o /tmp/out.json -w '%{http_code}' \
+            -H "apikey: $key" -H "Authorization: Bearer $key" \
+            "$url/rest/v1/restaurants?select=id&limit=1")
+          echo "$url -> HTTP $code"; head -c 300 /tmp/out.json; echo
+          test "$code" = "200"

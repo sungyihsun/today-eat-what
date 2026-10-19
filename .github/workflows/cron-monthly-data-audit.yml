@@ -1,0 +1,17 @@
+name: Monthly data audit (scheduler)
+
+# GitHub only fires `schedule` from the default branch (main). The real audit
+# lives on DEV (.github/workflows/monthly-data-audit.yml, workflow_call); this
+# file only exists so the cron actually fires. It has workflow_dispatch so the
+# Actions page shows a "Run workflow" button for an on-demand run.
+on:
+  schedule:
+    - cron: '0 3 1 * *'
+  workflow_dispatch: {}
+
+jobs:
+  audit:
+    permissions:
+      contents: write
+    uses: sungyihsun/today-eat-what/.github/workflows/monthly-data-audit.yml@DEV
+    secrets: inherit
