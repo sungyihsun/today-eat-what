@@ -19,6 +19,46 @@
   ],
   "area_label": "豐原"
  },
+ "9377578891328040919": {
+  "place_id": "ChIJKYxhSYkbaTQR1y_PLlHaI4I",
+  "name": "Our space貓頭鷹複合式餐廳",
+  "address": "420台灣臺中市豐原區北陽里北陽路191號",
+  "rating": 4.6,
+  "userRatingCount": 386,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=9377578891328040919&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.251441,
+   "longitude": 120.7343489
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "豐原"
+ },
+ "2109357238966733165": {
+  "place_id": "ChIJceFMd1cbaTQRbckCpTvxRR0",
+  "name": "角地方 料理廚房",
+  "address": "420台灣臺中市豐原區西湳里豐洲路125號",
+  "rating": 4.8,
+  "userRatingCount": 1039,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=2109357238966733165&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.257247,
+   "longitude": 120.71440599999998
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "豐原"
+ },
  "13656765398993420813": {
   "place_id": "ChIJpZt3u-8baTQRDULZE8aThr0",
   "name": "森川丼丼豐橫町",
@@ -40,42 +80,23 @@
   ],
   "area_label": "豐原"
  },
- "9377578891328040919": {
-  "place_id": "ChIJKYxhSYkbaTQR1y_PLlHaI4I",
-  "name": "Our space貓頭鷹複合式餐廳",
-  "address": "420台灣臺中市豐原區北陽里北陽路191號",
-  "rating": 4.6,
-  "userRatingCount": 386,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=9377578891328040919&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.251441,
-   "longitude": 120.7343489
-  },
-  "types": [
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "豐原"
- },
- "2109357238966733165": {
-  "place_id": "ChIJceFMd1cbaTQRbckCpTvxRR0",
-  "name": "角地方 料理廚房",
-  "address": "420台灣臺中市豐原區西湳里豐洲路125號",
+ "10768749696487165544": {
+  "place_id": "ChIJVViRIUgbaTQRaI42LstIcpU",
+  "name": "知春茶食",
+  "address": "420台灣臺中市豐原區信義街67巷4號",
   "rating": 4.8,
-  "userRatingCount": 1039,
+  "userRatingCount": 873,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=2109357238966733165&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=10768749696487165544&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.257247,
-   "longitude": 120.71440599999998
+   "latitude": 24.250154499999997,
+   "longitude": 120.71864009999999
   },
   "types": [
+   "taiwanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -100,27 +121,6 @@
   ],
   "area_label": "豐原"
  },
- "10768749696487165544": {
-  "place_id": "ChIJVViRIUgbaTQRaI42LstIcpU",
-  "name": "知春茶食",
-  "address": "420台灣臺中市豐原區信義街67巷4號",
-  "rating": 4.8,
-  "userRatingCount": 873,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=10768749696487165544&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.250154499999997,
-   "longitude": 120.71864009999999
-  },
-  "types": [
-   "taiwanese_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "豐原"
- },
  "521720744590476569": {
   "place_id": "ChIJu0tpugkbaTQRGYVExUCGPQc",
   "name": "新橋五町目",
@@ -137,8 +137,72 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "豐原"
+ },
+ "12831553152862724686": {
+  "place_id": "ChIJF5ud7QAbaTQRTiLtqJvVErI",
+  "name": "澤字號港式餐廳",
+  "address": "420台灣臺中市豐原區北陽里向陽路369號",
+  "rating": 4.7,
+  "userRatingCount": 4703,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=12831553152862724686&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.250023199999998,
+   "longitude": 120.731024
+  },
+  "types": [
+   "chinese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "豐原"
+ },
+ "14145380748248970578": {
+  "place_id": "ChIJg2Ffm8obaTQRUnUHWNh8TsQ",
+  "name": "焼肉スマイル（燒肉Smile） 台中豐原店(自助吧)",
+  "address": "420台灣臺中市豐原區向陽路188號1f",
+  "rating": 4.9,
+  "userRatingCount": 4770,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=14145380748248970578&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.252235100000004,
+   "longitude": 120.7257541
+  },
+  "types": [
+   "yakiniku_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "豐原"
+ },
+ "6431206863742068913": {
+  "place_id": "ChIJN0XPMysbaTQRsWhmjpE8QFk",
+  "name": "釜燒亭-創意鍋燒",
+  "address": "420台灣臺中市豐原區中陽里豐陽路105-2號",
+  "rating": 4.6,
+  "userRatingCount": 237,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=6431206863742068913&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2518206,
+   "longitude": 120.7231943
+  },
+  "types": [
+   "chinese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -159,26 +223,88 @@
    "italian_restaurant",
    "european_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
  },
- "14145380748248970578": {
-  "place_id": "ChIJg2Ffm8obaTQRUnUHWNh8TsQ",
-  "name": "焼肉スマイル（燒肉Smile） 台中豐原店(自助吧)",
-  "address": "420台灣臺中市豐原區向陽路188號1f",
-  "rating": 4.9,
-  "userRatingCount": 4770,
+ "8395902617791384424": {
+  "place_id": "ChIJf0KJNHobaTQRaEs6jvI8hHQ",
+  "name": "宇日茶食Andayteafood",
+  "address": "420台灣臺中市豐原區富春里中正路277巷11號",
+  "rating": 4.4,
+  "userRatingCount": 581,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=14145380748248970578&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=8395902617791384424&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.252235100000004,
-   "longitude": 120.7257541
+   "latitude": 24.2510242,
+   "longitude": 120.7166304
   },
   "types": [
-   "yakiniku_restaurant",
+   "taiwanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "豐原"
+ },
+ "12364322925878674058": {
+  "place_id": "ChIJXX0p9CEbaTQRioI3LTHmlqs",
+  "name": "八玖鼎港式茶餐廳",
+  "address": "420台灣臺中市豐原區中陽里圓環東路621號",
+  "rating": 4.6,
+  "userRatingCount": 1167,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=12364322925878674058&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2509051,
+   "longitude": 120.72824819999998
+  },
+  "types": [
+   "chinese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "豐原"
+ },
+ "18242052913522684490": {
+  "place_id": "ChIJYVe_kwgaaTQRSjJmbHnKKP0",
+  "name": "德奧小館",
+  "address": "420台灣臺中市豐原區豐西里源豐路65號",
+  "rating": 4.4,
+  "userRatingCount": 426,
+  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=18242052913522684490&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2526585,
+   "longitude": 120.7159172
+  },
+  "types": [
+   "european_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "豐原"
+ },
+ "10469111664038009998": {
+  "place_id": "ChIJ35ZdAhQaaTQRjlziOJfBSZE",
+  "name": "一築金野台-台中豐原總店-拉麵壽司生魚片",
+  "address": "420台灣臺中市豐原區南村里北陽路249號",
+  "rating": 4.8,
+  "userRatingCount": 6609,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=10469111664038009998&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2512229,
+   "longitude": 120.736066
+  },
+  "types": [
    "japanese_restaurant",
    "restaurant",
    "food",
@@ -208,107 +334,23 @@
   ],
   "area_label": "豐原"
  },
- "12831553152862724686": {
-  "place_id": "ChIJF5ud7QAbaTQRTiLtqJvVErI",
-  "name": "澤字號港式餐廳",
-  "address": "420台灣臺中市豐原區北陽里向陽路369號",
-  "rating": 4.7,
-  "userRatingCount": 4703,
+ "10935553968778528454": {
+  "place_id": "ChIJDRNHCEobaTQRxkYoQ2Xkwpc",
+  "name": "大埔鐵板燒豐原店",
+  "address": "42056台灣臺中市豐原區豐原里中正路33號1樓",
+  "rating": 4.1,
+  "userRatingCount": 16,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=12831553152862724686&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=10935553968778528454&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.250023199999998,
-   "longitude": 120.731024
-  },
-  "types": [
-   "chinese_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "豐原"
- },
- "6431206863742068913": {
-  "place_id": "ChIJN0XPMysbaTQRsWhmjpE8QFk",
-  "name": "釜燒亭-創意鍋燒",
-  "address": "420台灣臺中市豐原區中陽里豐陽路105-2號",
-  "rating": 4.6,
-  "userRatingCount": 237,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=6431206863742068913&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2518206,
-   "longitude": 120.7231943
+   "latitude": 24.2530605,
+   "longitude": 120.7221061
   },
   "types": [
    "chinese_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "豐原"
- },
- "8605957700509098708": {
-  "place_id": "ChIJEanHKJMbaTQR1OLhqu6Abnc",
-  "name": "十二段鍋物堂 | 豐原店",
-  "address": "420台灣臺中市豐原區中陽里向陽路198號",
-  "rating": 4.8,
-  "userRatingCount": 4056,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=8605957700509098708&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.25211,
-   "longitude": 120.7260441
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "豐原"
- },
- "10469111664038009998": {
-  "place_id": "ChIJ35ZdAhQaaTQRjlziOJfBSZE",
-  "name": "一築金野台-台中豐原總店-拉麵壽司生魚片",
-  "address": "420台灣臺中市豐原區南村里北陽路249號",
-  "rating": 4.8,
-  "userRatingCount": 6609,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=10469111664038009998&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2512229,
-   "longitude": 120.736066
-  },
-  "types": [
-   "japanese_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "豐原"
- },
- "12364322925878674058": {
-  "place_id": "ChIJXX0p9CEbaTQRioI3LTHmlqs",
-  "name": "八玖鼎港式茶餐廳",
-  "address": "420台灣臺中市豐原區中陽里圓環東路621號",
-  "rating": 4.6,
-  "userRatingCount": 1167,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=12364322925878674058&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2509051,
-   "longitude": 120.72824819999998
-  },
-  "types": [
-   "chinese_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -330,50 +372,8 @@
    "asian_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
-   "establishment"
-  ],
-  "area_label": "豐原"
- },
- "8395902617791384424": {
-  "place_id": "ChIJf0KJNHobaTQRaEs6jvI8hHQ",
-  "name": "宇日茶食Andayteafood",
-  "address": "420台灣臺中市豐原區富春里中正路277巷11號",
-  "rating": 4.4,
-  "userRatingCount": 581,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=8395902617791384424&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2510242,
-   "longitude": 120.7166304
-  },
-  "types": [
-   "taiwanese_restaurant",
-   "restaurant",
    "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "豐原"
- },
- "10935553968778528454": {
-  "place_id": "ChIJDRNHCEobaTQRxkYoQ2Xkwpc",
-  "name": "大埔鐵板燒豐原店",
-  "address": "42056台灣臺中市豐原區豐原里中正路33號1樓",
-  "rating": 4.1,
-  "userRatingCount": 16,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=10935553968778528454&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2530605,
-   "longitude": 120.7221061
-  },
-  "types": [
-   "chinese_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -393,23 +393,23 @@
   "types": [
    "indian_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
  },
- "17773288429410705723": {
-  "place_id": "ChIJ63aFs_MbaTQRO-GV3ahnp_Y",
-  "name": "嗑肉石鍋-台中豐原店(二代店)",
-  "address": "420台灣臺中市豐原區中陽里自成街46號",
+ "8605957700509098708": {
+  "place_id": "ChIJEanHKJMbaTQR1OLhqu6Abnc",
+  "name": "十二段鍋物堂 | 豐原店",
+  "address": "420台灣臺中市豐原區中陽里向陽路198號",
   "rating": 4.8,
-  "userRatingCount": 6293,
+  "userRatingCount": 4056,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=17773288429410705723&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=8605957700509098708&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.251320399999997,
-   "longitude": 120.725918
+   "latitude": 24.25211,
+   "longitude": 120.7260441
   },
   "types": [
    "hot_pot_restaurant",
@@ -825,8 +825,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -846,8 +846,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -867,8 +867,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -889,8 +889,8 @@
    "japanese_restaurant",
    "japanese_izakaya_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -910,8 +910,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -932,8 +932,8 @@
    "sushi_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -954,8 +954,8 @@
    "japanese_restaurant",
    "asian_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -975,8 +975,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -998,8 +998,8 @@
    "bar_and_grill",
    "bar",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1020,8 +1020,8 @@
    "japanese_restaurant",
    "asian_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1041,8 +1041,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1062,8 +1062,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1083,8 +1083,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1104,8 +1104,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1125,8 +1125,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1147,8 +1147,8 @@
    "italian_restaurant",
    "european_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1169,8 +1169,8 @@
    "italian_restaurant",
    "european_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1191,8 +1191,8 @@
    "italian_restaurant",
    "european_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1212,8 +1212,8 @@
   "types": [
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1232,13 +1232,13 @@
   },
   "types": [
    "italian_restaurant",
-   "japanese_restaurant",
-   "food_store",
-   "store",
    "european_restaurant",
+   "food_store",
+   "japanese_restaurant",
+   "store",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1259,8 +1259,8 @@
    "italian_restaurant",
    "european_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1279,8 +1279,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1300,29 +1300,8 @@
   "types": [
    "restaurant",
    "cafe",
-   "point_of_interest",
    "food",
-   "establishment"
-  ],
-  "area_label": "豐原"
- },
- "18242052913522684490": {
-  "place_id": "ChIJYVe_kwgaaTQRSjJmbHnKKP0",
-  "name": "德奧小館",
-  "address": "420台灣臺中市豐原區豐西里源豐路65號",
-  "rating": 4.4,
-  "userRatingCount": 426,
-  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=18242052913522684490&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2526585,
-   "longitude": 120.7159172
-  },
-  "types": [
-   "european_restaurant",
-   "restaurant",
    "point_of_interest",
-   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1343,8 +1322,8 @@
    "italian_restaurant",
    "european_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1363,14 +1342,14 @@
   },
   "types": [
    "salad_shop",
-   "meal_delivery",
    "burrito_restaurant",
-   "food_delivery",
+   "meal_delivery",
    "american_restaurant",
    "korean_restaurant",
+   "food_delivery",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1390,8 +1369,8 @@
   "types": [
    "pizza_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1414,8 +1393,8 @@
    "italian_restaurant",
    "european_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1435,8 +1414,8 @@
   "types": [
    "pizza_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1455,8 +1434,8 @@
   },
   "types": [
    "wholesaler",
-   "service",
    "point_of_interest",
+   "service",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1622,15 +1601,15 @@
   "types": [
    "barbecue_restaurant",
    "hardware_store",
-   "bed_and_breakfast",
    "campground",
-   "lodging",
+   "bed_and_breakfast",
    "building_materials_store",
+   "lodging",
    "store",
-   "service",
    "restaurant",
    "food",
    "point_of_interest",
+   "service",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1649,10 +1628,10 @@
   },
   "types": [
    "seafood_restaurant",
-   "bar_and_grill",
    "kebab_shop",
-   "japanese_restaurant",
+   "bar_and_grill",
    "bar",
+   "japanese_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -1783,21 +1762,19 @@
   ],
   "area_label": "豐原"
  },
- "4740896528618095472": {
-  "place_id": "ChIJzXeheA8aaTQRcAMqQUYMy0E",
-  "name": "牛角日本燒肉專門店-豐原太平洋店",
-  "address": "420台灣臺中市豐原區中山里復興路2號豐原太平洋百貨8樓",
-  "rating": 4.5,
-  "userRatingCount": 2158,
+ "6859502267433708670": {
+  "place_id": "ChIJFRKtGXMaaTQRfmxfEvjYMV8",
+  "name": "烤串串 燒烤.消夜.串燒",
+  "address": "420台灣臺中市豐原區西湳里三豐路一段391號",
+  "rating": 4.3,
+  "userRatingCount": 65,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=4740896528618095472&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=6859502267433708670&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.2509879,
-   "longitude": 120.7206061
+   "latitude": 24.2628627,
+   "longitude": 120.71999720000001
   },
   "types": [
-   "yakiniku_restaurant",
-   "japanese_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -1820,8 +1797,8 @@
   "types": [
    "hot_pot_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1841,8 +1818,8 @@
   "types": [
    "hot_pot_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1862,8 +1839,29 @@
   "types": [
    "hot_pot_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "豐原"
+ },
+ "17773288429410705723": {
+  "place_id": "ChIJ63aFs_MbaTQRO-GV3ahnp_Y",
+  "name": "嗑肉石鍋-台中豐原店(二代店)",
+  "address": "420台灣臺中市豐原區中陽里自成街46號",
+  "rating": 4.8,
+  "userRatingCount": 6293,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=17773288429410705723&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.251320399999997,
+   "longitude": 120.725918
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1883,8 +1881,8 @@
   "types": [
    "hot_pot_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1904,8 +1902,8 @@
   "types": [
    "hot_pot_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1925,8 +1923,8 @@
   "types": [
    "hot_pot_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1946,8 +1944,50 @@
   "types": [
    "hot_pot_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "豐原"
+ },
+ "728040504836898823": {
+  "place_id": "ChIJqU1TmwgaaTQRB0DmWPuEGgo",
+  "name": "石二鍋 豐原源豐店",
+  "address": "420台灣臺中市豐原區下街里源豐路36號",
+  "rating": 4.5,
+  "userRatingCount": 2383,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=728040504836898823&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2520435,
+   "longitude": 120.71558440000001
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "豐原"
+ },
+ "16384386029834016208": {
+  "place_id": "ChIJU3cdaoYbaTQR0BUhM0kIYeM",
+  "name": "惹鍋 沒事惹惹鍋｜平價海鮮鍋物｜深夜鍋物-台中豐原店",
+  "address": "42079台灣臺中市豐原區東湳里豐原大道六段705-1號",
+  "rating": 4.8,
+  "userRatingCount": 7251,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=16384386029834016208&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2640551,
+   "longitude": 120.7237182
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -1968,71 +2008,8 @@
    "hot_pot_restaurant",
    "thai_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "豐原"
- },
- "16384386029834016208": {
-  "place_id": "ChIJU3cdaoYbaTQR0BUhM0kIYeM",
-  "name": "惹鍋 沒事惹惹鍋｜平價海鮮鍋物｜深夜鍋物-台中豐原店",
-  "address": "42079台灣臺中市豐原區東湳里豐原大道六段705-1號",
-  "rating": 4.8,
-  "userRatingCount": 7251,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=16384386029834016208&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2640551,
-   "longitude": 120.7237182
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
    "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "豐原"
- },
- "8298857944322641900": {
-  "place_id": "ChIJ4WibGZ0RaTQR7I_HxFR3K3M",
-  "name": "涮乃葉 豐原成功店",
-  "address": "420台灣臺中市豐原區豐圳里成功路500號5樓",
-  "rating": 4.2,
-  "userRatingCount": 946,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=8298857944322641900&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.252252,
-   "longitude": 120.70633029999998
-  },
-  "types": [
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "豐原"
- },
- "728040504836898823": {
-  "place_id": "ChIJqU1TmwgaaTQRB0DmWPuEGgo",
-  "name": "石二鍋 豐原源豐店",
-  "address": "420台灣臺中市豐原區下街里源豐路36號",
-  "rating": 4.5,
-  "userRatingCount": 2383,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=728040504836898823&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2520435,
-   "longitude": 120.71558440000001
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -2052,8 +2029,29 @@
   "types": [
    "hot_pot_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "豐原"
+ },
+ "8298857944322641900": {
+  "place_id": "ChIJ4WibGZ0RaTQR7I_HxFR3K3M",
+  "name": "涮乃葉 豐原成功店",
+  "address": "420台灣臺中市豐原區豐圳里成功路500號5樓",
+  "rating": 4.2,
+  "userRatingCount": 946,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=8298857944322641900&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.252252,
+   "longitude": 120.70633029999998
+  },
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -2073,8 +2071,8 @@
   "types": [
    "hot_pot_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -2094,8 +2092,8 @@
   "types": [
    "hot_pot_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -2115,8 +2113,8 @@
   "types": [
    "hot_pot_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -2136,8 +2134,8 @@
   "types": [
    "hot_pot_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -2157,8 +2155,31 @@
   "types": [
    "hot_pot_restaurant",
    "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "豐原"
+ },
+ "17728065590394244492": {
+  "place_id": "ChIJPbBmCY0RaTQRjE1GJrq9BvY",
+  "name": "蔓點甜品創意坊",
+  "address": "420台灣臺中市豐原區西勢里中興路286-2號",
+  "rating": 4.9,
+  "userRatingCount": 53,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=17728065590394244492&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2453833,
+   "longitude": 120.71032939999999
+  },
+  "types": [
+   "wholesaler",
+   "manufacturer",
+   "supplier",
    "food",
    "point_of_interest",
+   "service",
    "establishment"
   ],
   "area_label": "豐原"
@@ -2182,57 +2203,51 @@
    "confectionery",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
  },
- "17728065590394244492": {
-  "place_id": "ChIJPbBmCY0RaTQRjE1GJrq9BvY",
-  "name": "蔓點甜品創意坊",
-  "address": "420台灣臺中市豐原區西勢里中興路286-2號",
+ "214710424094094258": {
+  "place_id": "ChIJna4LGgwaaTQRsrOzPf7N-gI",
+  "name": "D&a彤媽手作工坊.造型蛋糕.客制蛋糕.千層蛋糕.提拉米蘇.甜點.咖啡.專賣店請先電洽預約",
+  "address": "420台灣臺中市豐原區大湳里源豐路327號",
   "rating": 4.9,
-  "userRatingCount": 53,
+  "userRatingCount": 47,
   "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=17728065590394244492&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=214710424094094258&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.2453833,
-   "longitude": 120.71032939999999
+   "latitude": 24.2570277,
+   "longitude": 120.7187603
   },
   "types": [
-   "manufacturer",
-   "wholesaler",
-   "supplier",
-   "service",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "豐原"
- },
- "17951855804133857902": {
-  "place_id": "ChIJpXsW66_iw6sRbtpuqL3NIfk",
-  "name": "MIMIAN瞇瞇眼_豐原店 (全生乳波士頓派專門店、台中鮮奶油生日蛋糕)自取請先來電",
-  "address": "420台灣臺中市豐原區翁子里圓環北路二段399號",
-  "rating": 5,
-  "userRatingCount": 2837,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=17951855804133857902&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.257818999999998,
-   "longitude": 120.72873489999998
-  },
-  "types": [
-   "cake_shop",
-   "bakery",
    "dessert_shop",
    "confectionery",
+   "coffee_stand",
    "food_store",
-   "manufacturer",
    "store",
-   "wholesaler",
-   "service",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "豐原"
+ },
+ "10930032621875597119": {
+  "place_id": "ChIJ9_d3SFQbaTQRP49TgsJGr5c",
+  "name": "駿咖啡 JIUN COFFEE WORKSHOP",
+  "address": "420台灣臺中市豐原區頂街里博愛街17巷8號",
+  "rating": 4.6,
+  "userRatingCount": 728,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=10930032621875597119&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.251146799999997,
+   "longitude": 120.7211938
+  },
+  "types": [
+   "food_store",
+   "store",
    "point_of_interest",
    "food",
    "establishment"
@@ -2256,138 +2271,6 @@
    "confectionery",
    "food_store",
    "store",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "豐原"
- },
- "5797480551517532979": {
-  "place_id": "ChIJHxx7NkobaTQRMzNwYdjJdFA",
-  "name": "2度C NiGuo 豐原店",
-  "address": "420台灣臺中市豐原區頂街里博愛街29號",
-  "rating": 4.9,
-  "userRatingCount": 327,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=5797480551517532979&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.250928899999998,
-   "longitude": 120.72103200000001
-  },
-  "types": [
-   "cake_shop",
-   "bakery",
-   "food_store",
-   "manufacturer",
-   "store",
-   "wholesaler",
-   "service",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "豐原"
- },
- "10930032621875597119": {
-  "place_id": "ChIJ9_d3SFQbaTQRP49TgsJGr5c",
-  "name": "駿咖啡 JIUN COFFEE WORKSHOP",
-  "address": "420台灣臺中市豐原區頂街里博愛街17巷8號",
-  "rating": 4.6,
-  "userRatingCount": 728,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=10930032621875597119&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.251146799999997,
-   "longitude": 120.7211938
-  },
-  "types": [
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "豐原"
- },
- "214710424094094258": {
-  "place_id": "ChIJna4LGgwaaTQRsrOzPf7N-gI",
-  "name": "D&a彤媽手作工坊.造型蛋糕.客制蛋糕.千層蛋糕.提拉米蘇.甜點.咖啡.專賣店請先電洽預約",
-  "address": "420台灣臺中市豐原區大湳里源豐路327號",
-  "rating": 4.9,
-  "userRatingCount": 47,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=214710424094094258&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2570277,
-   "longitude": 120.7187603
-  },
-  "types": [
-   "dessert_shop",
-   "coffee_stand",
-   "confectionery",
-   "food_store",
-   "store",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "豐原"
- },
- "4098098923379554279": {
-  "place_id": "ChIJs4hD4g0aaTQR5_dyFkJf3zg",
-  "name": "昆榮商行（營業時間與公休日請參照FB/IG）",
-  "address": "420台灣臺中市豐原區豐原里三豐路一段61巷32弄18號",
-  "rating": 4.8,
-  "userRatingCount": 131,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=4098098923379554279&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2564277,
-   "longitude": 120.72187860000001
-  },
-  "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "豐原"
- },
- "16502170898737214768": {
-  "place_id": "ChIJqXVFdWURaTQRMDUFCgB9A-U",
-  "name": "THE YUAN豐原店",
-  "address": "420台灣臺中市豐原區西安里中正路477號",
-  "rating": 4.6,
-  "userRatingCount": 138,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=16502170898737214768&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2503906,
-   "longitude": 120.71128780000001
-  },
-  "types": [
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "豐原"
- },
- "4145122853897654130": {
-  "place_id": "ChIJgfaCqQIbaTQRck_sGEZvhjk",
-  "name": "小旅行 Cafe",
-  "address": "420台灣臺中市豐原區中山里復興路2號B1",
-  "rating": 4.8,
-  "userRatingCount": 55,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=4145122853897654130&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2509879,
-   "longitude": 120.7206061
-  },
-  "types": [
-   "cafe",
    "food",
    "point_of_interest",
    "establishment"
@@ -2411,23 +2294,77 @@
    "confectionery",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
  },
- "7721302539414369769": {
-  "place_id": "ChIJ8_b40gQaaTQR6XUdGcCTJ2s",
-  "name": "金崴的派",
-  "address": "420台灣臺中市豐原區陽明里自強南街35號",
-  "rating": 4.6,
-  "userRatingCount": 61,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=7721302539414369769&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "17951855804133857902": {
+  "place_id": "ChIJpXsW66_iw6sRbtpuqL3NIfk",
+  "name": "MIMIAN瞇瞇眼_豐原店 (全生乳波士頓派專門店、台中鮮奶油生日蛋糕)自取請先來電",
+  "address": "420台灣臺中市豐原區翁子里圓環北路二段399號",
+  "rating": 5,
+  "userRatingCount": 2837,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=17951855804133857902&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.246772,
-   "longitude": 120.723327
+   "latitude": 24.257818999999998,
+   "longitude": 120.72873489999998
+  },
+  "types": [
+   "cake_shop",
+   "bakery",
+   "dessert_shop",
+   "confectionery",
+   "wholesaler",
+   "manufacturer",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "service",
+   "establishment"
+  ],
+  "area_label": "豐原"
+ },
+ "5797480551517532979": {
+  "place_id": "ChIJHxx7NkobaTQRMzNwYdjJdFA",
+  "name": "2度C NiGuo 豐原店",
+  "address": "420台灣臺中市豐原區頂街里博愛街29號",
+  "rating": 4.9,
+  "userRatingCount": 327,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=5797480551517532979&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.250928899999998,
+   "longitude": 120.72103200000001
+  },
+  "types": [
+   "cake_shop",
+   "bakery",
+   "wholesaler",
+   "manufacturer",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "service",
+   "establishment"
+  ],
+  "area_label": "豐原"
+ },
+ "4098098923379554279": {
+  "place_id": "ChIJs4hD4g0aaTQR5_dyFkJf3zg",
+  "name": "昆榮商行（營業時間與公休日請參照FB/IG）",
+  "address": "420台灣臺中市豐原區豐原里三豐路一段61巷32弄18號",
+  "rating": 4.8,
+  "userRatingCount": 131,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=4098098923379554279&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2564277,
+   "longitude": 120.72187860000001
   },
   "types": [
    "cafe",
@@ -2451,47 +2388,98 @@
   },
   "types": [
    "bakery",
-   "gift_shop",
    "cake_shop",
+   "gift_shop",
    "dessert_shop",
    "confectionery",
-   "food_store",
-   "manufacturer",
-   "store",
    "wholesaler",
+   "manufacturer",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
    "service",
+   "establishment"
+  ],
+  "area_label": "豐原"
+ },
+ "7721302539414369769": {
+  "place_id": "ChIJ8_b40gQaaTQR6XUdGcCTJ2s",
+  "name": "金崴的派",
+  "address": "420台灣臺中市豐原區陽明里自強南街35號",
+  "rating": 4.6,
+  "userRatingCount": 61,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=7721302539414369769&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.246772,
+   "longitude": 120.723327
+  },
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "豐原"
+ },
+ "4145122853897654130": {
+  "place_id": "ChIJgfaCqQIbaTQRck_sGEZvhjk",
+  "name": "小旅行 Cafe",
+  "address": "420台灣臺中市豐原區中山里復興路2號B1",
+  "rating": 4.8,
+  "userRatingCount": 55,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=4145122853897654130&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2509879,
+   "longitude": 120.7206061
+  },
+  "types": [
+   "cafe",
    "point_of_interest",
    "food",
    "establishment"
   ],
   "area_label": "豐原"
  },
- "15145113585440778412": {
-  "place_id": "ChIJcxj4uxAaaTQRrOgjT5BALtI",
-  "name": "鴻鼎菓子_豐原旗艦店",
-  "address": "420台灣臺中市豐原區翁子里圓環北路二段399號",
-  "rating": 4.8,
-  "userRatingCount": 3047,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=15145113585440778412&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "4113864338962096928": {
+  "place_id": "ChIJBQAwABEaaTQRIKP78dFhFzk",
+  "name": "羅勒手作烘焙Basil Bakery（鹿角蕨森林系）",
+  "address": "420台灣臺中市豐原區中陽里向陽路193號",
+  "rating": 4.6,
+  "userRatingCount": 156,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=4113864338962096928&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.257818999999998,
-   "longitude": 120.72873489999998
+   "latitude": 24.2521599,
+   "longitude": 120.72647740000001
   },
   "types": [
-   "gift_shop",
-   "pastry_shop",
-   "health_food_store",
    "bakery",
-   "dessert_shop",
-   "confectionery",
    "food_store",
-   "manufacturer",
    "store",
-   "wholesaler",
-   "supplier",
-   "health",
-   "service",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "豐原"
+ },
+ "16502170898737214768": {
+  "place_id": "ChIJqXVFdWURaTQRMDUFCgB9A-U",
+  "name": "THE YUAN豐原店",
+  "address": "420台灣臺中市豐原區西安里中正路477號",
+  "rating": 4.6,
+  "userRatingCount": 138,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=16502170898737214768&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2503906,
+   "longitude": 120.71128780000001
+  },
+  "types": [
+   "food_store",
+   "store",
    "point_of_interest",
    "food",
    "establishment"
@@ -2512,8 +2500,8 @@
   },
   "types": [
    "cafe",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -2536,26 +2524,135 @@
    "confectionery",
    "food_store",
    "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "豐原"
+ },
+ "10477595514051950795": {
+  "place_id": "ChIJqxGcmQ8aaTQRy_hKe5vlZ5E",
+  "name": "幸福旅行 咖啡館 豐原",
+  "address": "420台灣臺中市豐原區頂街里向陽路6巷7號",
+  "rating": 4.6,
+  "userRatingCount": 124,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=10477595514051950795&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2515628,
+   "longitude": 120.721199
+  },
+  "types": [
+   "cafe",
    "point_of_interest",
    "food",
    "establishment"
   ],
   "area_label": "豐原"
  },
- "4113864338962096928": {
-  "place_id": "ChIJBQAwABEaaTQRIKP78dFhFzk",
-  "name": "羅勒手作烘焙Basil Bakery（鹿角蕨森林系）",
-  "address": "420台灣臺中市豐原區中陽里向陽路193號",
+ "2569919617191227197": {
+  "place_id": "ChIJU_6xfjMbaTQRPa_9m0YwqiM",
+  "name": "兩津芙蓉蛋撻-豐原店",
+  "address": "420台灣臺中市豐原區府前街52號",
   "rating": 4.6,
-  "userRatingCount": 156,
+  "userRatingCount": 119,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=4113864338962096928&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=2569919617191227197&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.2521599,
-   "longitude": 120.72647740000001
+   "latitude": 24.2496539,
+   "longitude": 120.71921689999998
   },
   "types": [
    "bakery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "豐原"
+ },
+ "4566947405748571306": {
+  "place_id": "ChIJa6QmmA8aaTQRqgyJA3gOYT8",
+  "name": "Amazing 63義大利咖啡店.(深耕豐原18年）",
+  "address": "420台灣臺中市豐原區頂街里向陽路6巷3號",
+  "rating": 4.8,
+  "userRatingCount": 384,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=4566947405748571306&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2516429,
+   "longitude": 120.7211815
+  },
+  "types": [
+   "cafe",
+   "food_store",
+   "store",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "豐原"
+ },
+ "15096256761126575912": {
+  "place_id": "ChIJV7c7gwUaaTQRKN8JdYqtgNE",
+  "name": "咖啡葉",
+  "address": "420台灣臺中市豐原區西安里西安街95-5號",
+  "rating": 4.7,
+  "userRatingCount": 1092,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=15096256761126575912&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2490413,
+   "longitude": 120.7120745
+  },
+  "types": [
+   "coffee_shop",
+   "cafe",
+   "food_store",
+   "store",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "豐原"
+ },
+ "9355924404013838057": {
+  "place_id": "ChIJQ_b6vxoaaTQR6S6n9qzr1oE",
+  "name": "私藏小巷自家焙煎咖啡工作室",
+  "address": "420台灣臺中市豐原區中陽里同安街49巷6號",
+  "rating": 4.9,
+  "userRatingCount": 159,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=9355924404013838057&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2483215,
+   "longitude": 120.72489870000001
+  },
+  "types": [
+   "cafe",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "豐原"
+ },
+ "11724315269984911482": {
+  "place_id": "ChIJxTkgJfkbaTQReoAjtp4itaI",
+  "name": "楊二咖啡廳",
+  "address": "420台灣臺中市豐原區豐西里豐社路32號",
+  "rating": 5,
+  "userRatingCount": 36,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=11724315269984911482&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2518849,
+   "longitude": 120.7121323
+  },
+  "types": [
+   "cafe",
+   "dessert_shop",
+   "confectionery",
    "food_store",
    "store",
    "point_of_interest",
@@ -2580,117 +2677,8 @@
    "food_store",
    "store",
    "restaurant",
-   "food",
    "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "豐原"
- },
- "4566947405748571306": {
-  "place_id": "ChIJa6QmmA8aaTQRqgyJA3gOYT8",
-  "name": "Amazing 63義大利咖啡店.(深耕豐原18年）",
-  "address": "420台灣臺中市豐原區頂街里向陽路6巷3號",
-  "rating": 4.8,
-  "userRatingCount": 384,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=4566947405748571306&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2516429,
-   "longitude": 120.7211815
-  },
-  "types": [
-   "cafe",
-   "food_store",
-   "store",
    "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "豐原"
- },
- "15096256761126575912": {
-  "place_id": "ChIJV7c7gwUaaTQRKN8JdYqtgNE",
-  "name": "咖啡葉",
-  "address": "420台灣臺中市豐原區西安里西安街95-5號",
-  "rating": 4.7,
-  "userRatingCount": 1092,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=15096256761126575912&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2490413,
-   "longitude": 120.7120745
-  },
-  "types": [
-   "coffee_shop",
-   "cafe",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "豐原"
- },
- "9355924404013838057": {
-  "place_id": "ChIJQ_b6vxoaaTQR6S6n9qzr1oE",
-  "name": "私藏小巷自家焙煎咖啡工作室",
-  "address": "420台灣臺中市豐原區中陽里同安街49巷6號",
-  "rating": 4.9,
-  "userRatingCount": 159,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=9355924404013838057&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2483215,
-   "longitude": 120.72489870000001
-  },
-  "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "豐原"
- },
- "11724315269984911482": {
-  "place_id": "ChIJxTkgJfkbaTQReoAjtp4itaI",
-  "name": "楊二咖啡廳",
-  "address": "420台灣臺中市豐原區豐西里豐社路32號",
-  "rating": 5,
-  "userRatingCount": 36,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=11724315269984911482&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2518849,
-   "longitude": 120.7121323
-  },
-  "types": [
-   "cafe",
-   "dessert_shop",
-   "confectionery",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "豐原"
- },
- "10477595514051950795": {
-  "place_id": "ChIJqxGcmQ8aaTQRy_hKe5vlZ5E",
-  "name": "幸福旅行 咖啡館 豐原",
-  "address": "420台灣臺中市豐原區頂街里向陽路6巷7號",
-  "rating": 4.6,
-  "userRatingCount": 124,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=10477595514051950795&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2515628,
-   "longitude": 120.721199
-  },
-  "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
    "establishment"
   ],
   "area_label": "豐原"
@@ -2709,8 +2697,8 @@
   },
   "types": [
    "cafe",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -2729,8 +2717,8 @@
   },
   "types": [
    "cafe",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -2749,8 +2737,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -2768,12 +2756,12 @@
    "longitude": 120.7238275
   },
   "types": [
-   "cafe",
    "coffee_stand",
+   "cafe",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -2793,9 +2781,9 @@
   "types": [
    "cafe",
    "wholesaler",
-   "food",
-   "point_of_interest",
    "service",
+   "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -2814,8 +2802,8 @@
   },
   "types": [
    "cafe",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -2836,8 +2824,8 @@
    "cafe",
    "brunch_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -2858,8 +2846,8 @@
    "coffee_roastery",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3319,8 +3307,8 @@
   "types": [
    "chinese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3524,13 +3512,13 @@
   },
   "types": [
    "snack_bar",
-   "deli",
    "meal_takeaway",
+   "deli",
    "food_store",
    "store",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3552,8 +3540,8 @@
    "food_store",
    "store",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3574,8 +3562,8 @@
    "deli",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3597,12 +3585,12 @@
    "taiwanese_restaurant",
    "snack_bar",
    "meal_takeaway",
-   "market",
-   "japanese_restaurant",
    "chinese_restaurant",
+   "japanese_restaurant",
+   "market",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3624,8 +3612,8 @@
    "food_store",
    "store",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3648,8 +3636,8 @@
    "food_store",
    "store",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3668,8 +3656,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3691,8 +3679,8 @@
    "meal_takeaway",
    "chinese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3756,8 +3744,8 @@
    "deli",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3777,8 +3765,8 @@
   "types": [
    "taiwanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3803,8 +3791,8 @@
    "food_store",
    "store",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3867,8 +3855,8 @@
    "snack_bar",
    "meal_takeaway",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3909,8 +3897,8 @@
    "deli",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3929,8 +3917,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3970,8 +3958,8 @@
   "types": [
    "vegetarian_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -3991,8 +3979,8 @@
   "types": [
    "asian_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
@@ -4011,8 +3999,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "豐原"
