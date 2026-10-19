@@ -88,5 +88,425 @@
   "expect": [
    "南小国町"
   ]
+ },
+ {
+  "key": "pick-aMP-qb3k",
+  "place_id": "ChIJq6pWfnL0QDURDLSaMP-qb3k",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-45A-I4Qc",
+  "place_id": "ChIJsQqXa2j1QDURjvZ45A-I4Qc",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-LAs4SNsg",
+  "place_id": "ChIJ3_82hgj0QDUR5J5LAs4SNsg",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-Zei9eMes",
+  "place_id": "ChIJifvcE4v1QDURQ_lZei9eMes",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-4ihVqkQw",
+  "place_id": "ChIJDzOdeKL1QDUR4pt4ihVqkQw",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-LVDqdhyM",
+  "place_id": "ChIJZ4ufX3L0QDURVlVLVDqdhyM",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-stVy1YVk",
+  "place_id": "ChIJX1bP8if1QDURlWlstVy1YVk",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-1_PccUlg",
+  "place_id": "ChIJUUiHsQf0QDURZ4d1_PccUlg",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-DxYgft5k",
+  "place_id": "ChIJFX0P6X31QDURbWADxYgft5k",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-yGZ3c6NE",
+  "place_id": "ChIJX_2CSA30QDURsO1yGZ3c6NE",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-kMRxj_Xs",
+  "place_id": "ChIJVVWR3XL0QDUR0bkkMRxj_Xs",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-GID96v7U",
+  "place_id": "ChIJw4ffyXL0QDURI9_GID96v7U",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-Qlr0Rw-g",
+  "place_id": "ChIJFdpCeQv0QDURGqzQlr0Rw-g",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-qPoB6KRA",
+  "place_id": "ChIJ0zlOuN31QDUR7-hqPoB6KRA",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-edN6N2nc",
+  "place_id": "ChIJU8zfMw30QDUR6H9edN6N2nc",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-RQ9Zh8O4",
+  "place_id": "ChIJAXb-LyP1QDURkEmRQ9Zh8O4",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-Jg3JT0ic",
+  "place_id": "ChIJ1bkowQL1QDURkZfJg3JT0ic",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-bU6g3vlk",
+  "place_id": "ChIJC7fCYqz1QDURIggbU6g3vlk",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-gPVR9vtY",
+  "place_id": "ChIJuTwuJuj1QDUROv1gPVR9vtY",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-esXSG0tg",
+  "place_id": "ChIJd2Geyhv1QDUR7kcesXSG0tg",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-u-_LY3-w",
+  "place_id": "ChIJWZj1IBP1QDURUD-u-_LY3-w",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-RfB6j-4Q",
+  "place_id": "ChIJf3jB_Qz0QDUREQ1RfB6j-4Q",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-VFwx_9ik",
+  "place_id": "ChIJge2jkwz0QDURjkrVFwx_9ik",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-3AVBULZs",
+  "place_id": "ChIJM1tf7sHzQDURFVx3AVBULZs",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-pL61Wn2s",
+  "place_id": "ChIJm4yJYAD1QDUR8FwpL61Wn2s",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-WuCXCmOw",
+  "place_id": "ChIJh8FXb130QDURgtnWuCXCmOw",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-vKSHNCFw",
+  "place_id": "ChIJ__8D8RL0QDURQAKvKSHNCFw",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-Yx3mKtUM",
+  "place_id": "ChIJM5Q7HuzzQDURgsaYx3mKtUM",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-_b-255C4",
+  "place_id": "ChIJqdXQ8Qz0QDUR8TG_b-255C4",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-Vy7e24wk",
+  "place_id": "ChIJDwJkFg30QDUR6MhVy7e24wk",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-dP25OKc0",
+  "place_id": "ChIJRa8DR8fzQDURMBRdP25OKc0",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-ruLjyTc0",
+  "place_id": "ChIJ2xCLmoHzQDUR1ERruLjyTc0",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-aYVo6MOI",
+  "place_id": "ChIJZ9rt1wj0QDUR7FfaYVo6MOI",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-dv9FZQGA",
+  "place_id": "ChIJmyPPPwn0QDURhbidv9FZQGA",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-5aBeDCWo",
+  "place_id": "ChIJy4DSjiz1QDURREv5aBeDCWo",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-S7yinYyk",
+  "place_id": "ChIJW7Upqhv1QDURHmOS7yinYyk",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-W_YGNPWY",
+  "place_id": "ChIJka4roHL0QDURkhnW_YGNPWY",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-_Z0Hpuuk",
+  "place_id": "ChIJg5mYhlj0QDURbWW_Z0Hpuuk",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-6IDPWc7Q",
+  "place_id": "ChIJk2Kl_JP1QDURAjh6IDPWc7Q",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-mix2GKZ0",
+  "place_id": "ChIJCV3vIu31QDUROgMmix2GKZ0",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-VXQI05n0",
+  "place_id": "ChIJmylUSxb1QDURQz8VXQI05n0",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-yYCRK6dI",
+  "place_id": "ChIJJaFyyUv1QDUReVCyYCRK6dI",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-unLxJ_FQ",
+  "place_id": "ChIJxbBu7ozzQDURRMxunLxJ_FQ",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-_nKctx2o",
+  "place_id": "ChIJwUVXmgj0QDURT7s_nKctx2o",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-D8ynORZs",
+  "place_id": "ChIJX88TtUb1QDURKnmD8ynORZs",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-Gfu8AFK0",
+  "place_id": "ChIJPcWpYwj0QDURvu2Gfu8AFK0",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-ubYcMTwc",
+  "place_id": "ChIJabst4vj1QDURo1jubYcMTwc",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-McjiaWPg",
+  "place_id": "ChIJIVq-uw70QDUR-MhMcjiaWPg",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-C2D-MNLs",
+  "place_id": "ChIJwcFh8Kr1QDURLgJC2D-MNLs",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-qhSdYPKE",
+  "place_id": "ChIJa38wJdf1QDURMX1qhSdYPKE",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-c7T4dhUQ",
+  "place_id": "ChIJ50j7msLzQDURBvGc7T4dhUQ",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-iUJwOYdI",
+  "place_id": "ChIJZ54wv_L1QDUR9ZyiUJwOYdI",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-EIYZh5mI",
+  "place_id": "ChIJl-aPLAn0QDURZNhEIYZh5mI",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-KJdWSl0A",
+  "place_id": "ChIJU5HPl0b1QDURDNfKJdWSl0A",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-RvcT-8eA",
+  "place_id": "ChIJfwFYHQDzQDURdYWRvcT-8eA",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-Iyq1XqW8",
+  "place_id": "ChIJV-MoNWP1QDUR5QWIyq1XqW8",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-gZozHYBg",
+  "place_id": "ChIJP727MHz1QDURTvYgZozHYBg",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-zS37gB34",
+  "place_id": "ChIJiacPMwn0QDURiGxzS37gB34",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-oHb050_Y",
+  "place_id": "ChIJBRDPbgz0QDURaK9oHb050_Y",
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "pick-8HcteSls",
+  "place_id": "ChIJz2M421j0QDURzHm8HcteSls",
+  "expect": [
+   "熊本市"
+  ]
  }
 ]
