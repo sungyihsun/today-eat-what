@@ -14,8 +14,8 @@
   "types": [
    "chinese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "烏日"
@@ -125,13 +125,13 @@
    "dessert_shop",
    "coffee_shop",
    "cafe",
+   "dessert_restaurant",
    "confectionery",
    "food_store",
-   "dessert_restaurant",
    "store",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "烏日"
@@ -172,8 +172,8 @@
   "types": [
    "chinese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "烏日"
@@ -192,8 +192,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "烏日"
@@ -277,8 +277,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "烏日"
@@ -384,8 +384,8 @@
   "types": [
    "chicken_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "烏日"
@@ -404,8 +404,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "烏日"
@@ -493,8 +493,8 @@
    "food_store",
    "store",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "烏日"
@@ -974,8 +974,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "烏日"
@@ -995,8 +995,8 @@
   "types": [
    "kebab_shop",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "烏日"
@@ -1017,8 +1017,8 @@
    "kebab_shop",
    "store",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "烏日"
@@ -1038,8 +1038,8 @@
   "types": [
    "kebab_shop",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "烏日"
@@ -1059,8 +1059,8 @@
   "types": [
    "barbecue_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "烏日"
@@ -1080,8 +1080,8 @@
   "types": [
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "烏日"
@@ -1121,8 +1121,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "烏日"
@@ -1490,8 +1490,8 @@
   "types": [
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "烏日"
@@ -1513,8 +1513,8 @@
    "confectionery",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "烏日"
@@ -1559,8 +1559,8 @@
    "confectionery",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "烏日"
@@ -1743,8 +1743,8 @@
   },
   "types": [
    "cafe",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "烏日"
@@ -1765,8 +1765,8 @@
    "cafe",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "烏日"
@@ -1788,8 +1788,8 @@
    "cafe",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "烏日"
@@ -1812,8 +1812,8 @@
    "coffee_stand",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "烏日"
@@ -1833,8 +1833,8 @@
   "types": [
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "烏日"
@@ -1853,8 +1853,8 @@
   },
   "types": [
    "cafe",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "烏日"
@@ -1880,8 +1880,8 @@
    "food_store",
    "store",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "烏日"
@@ -1901,9 +1901,9 @@
   "types": [
    "coffee_roastery",
    "wholesaler",
-   "food",
-   "point_of_interest",
    "service",
+   "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "烏日"
@@ -1925,8 +1925,8 @@
    "cafe",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "烏日"
