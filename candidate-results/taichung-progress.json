@@ -1,8 +1,8 @@
 {
  "_note": "台中全區補完排程的狀態檔。規則見 .claude/skills/add-restaurant/TAICHUNG_SWEEP.md。",
  "in_progress": {
-  "district": "台中北區",
-  "started_at": "2026-10-19T07:26:24Z"
+  "district": "台中南區",
+  "started_at": "2026-10-19T07:29:57Z"
  },
  "done": {
   "西區": {
@@ -30,6 +30,14 @@
    "count": 30,
    "qas_commit": "198f39eece1d437daaa8d0a0f2e756459308de70",
    "finished_at": "2026-10-19T07:26:15Z",
+   "sync_verified": true,
+   "prd_promoted": true
+  },
+  "台中北區": {
+   "area": "台中北區",
+   "count": 30,
+   "qas_commit": "04f2a58c1865c3d4f339618240cf083208f5452e",
+   "finished_at": "2026-10-19T07:29:57Z",
    "sync_verified": true,
    "prd_promoted": true
   }
@@ -62,20 +70,6 @@
   }
  },
  "queue": [
-  {
-   "area": "台中北區",
-   "label": "台中北區",
-   "slug": "beiqu",
-   "center": [
-    24.16,
-    120.68
-   ],
-   "landmarks": [
-    "一中街 美食",
-    "忠明路 美食"
-   ],
-   "population_approx": 142000
-  },
   {
    "area": "台中南區",
    "label": "台中南區",
