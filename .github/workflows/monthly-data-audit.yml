@@ -7,9 +7,12 @@ name: Monthly restaurant data audit (photos, hours, closures)
 # watching a scheduled job to type "上QAS"/"上PRD" by hand. Closed
 # businesses are only ever flagged in the run log for a human to remove —
 # never auto-deleted.
+# The real job lives here on DEV. GitHub only fires `schedule` from the repo's
+# default branch (main), so main carries a tiny stub
+# (cron-monthly-data-audit.yml) that calls this workflow; a `schedule:` here
+# would never fire, which is why the 10/1 run silently never happened.
 on:
-  schedule:
-    - cron: '0 3 1 * *'
+  workflow_call: {}
   workflow_dispatch: {}
 
 permissions:
