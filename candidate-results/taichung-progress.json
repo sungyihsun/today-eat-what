@@ -1,8 +1,8 @@
 {
  "_note": "台中全區補完排程的狀態檔。規則見 .claude/skills/add-restaurant/TAICHUNG_SWEEP.md。",
  "in_progress": {
-  "district": "大里",
-  "started_at": "2026-10-19T07:48:26Z"
+  "district": "太平",
+  "started_at": "2026-10-19T07:51:57Z"
  },
  "done": {
   "西區": {
@@ -56,6 +56,14 @@
    "finished_at": "2026-10-19T07:48:26Z",
    "sync_verified": true,
    "prd_promoted": true
+  },
+  "大里": {
+   "area": "大里",
+   "count": 30,
+   "qas_commit": "b95d1185be03d826e5bbb81b3f156ab4f7f59fbb",
+   "finished_at": "2026-10-19T07:51:57Z",
+   "sync_verified": true,
+   "prd_promoted": true
   }
  },
  "skipped": {
@@ -86,20 +94,6 @@
   }
  },
  "queue": [
-  {
-   "area": "大里",
-   "label": "大里",
-   "slug": "dali",
-   "center": [
-    24.099,
-    120.679
-   ],
-   "landmarks": [
-    "大里夜市 美食",
-    "中興路 美食"
-   ],
-   "population_approx": 215000
-  },
   {
    "area": "太平",
    "label": "太平",
