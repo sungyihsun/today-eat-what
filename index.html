@@ -4494,9 +4494,39 @@ const AREA_REGIONS_KAGOSHIMA = {
     {area:'近郊', label:'近郊（櫻島・指宿・知覽）', enabled:true},
   ],
 };
-const KUMAMOTO_ROUTES = [];
-const YUFUIN_ROUTES = [];
-const KAGOSHIMA_ROUTES = [];
+const KUMAMOTO_ROUTES = [
+  {title:'熊本城半日＋下通美食', icon:'🏯', duration:'約 5 小時（含午餐、點心、晚餐）', mode:'電車（市電）＋步行',
+   note:'JR 熊本站搭市電約 14–17 分到「熊本城・市役所前」，步行約 7–10 分到熊本城；午餐、點心與晚餐都在下通商店街一帶，步行即可。',
+   stops:['熊本城','桜の馬場 城彩苑','京都勝牛 熊本下通店','下通商店街','熊本Milk 下通店','和牛のたか 空 下通店（燒肉）']},
+  {title:'熊本名物：拉麵、馬刺、商店街', icon:'🍜', duration:'約 3–4 小時', mode:'電車（市電）＋步行',
+   note:'市電「通町筋」站旁就是上通、下通商店街；先吃熊本拉麵，逛完商店街，晚上吃馬肉刺身。',
+   stops:['上通商店街','熊本拉麵 桂花本店','下通商店街','馬肉刺身 おしょうしな 下通本店']},
+  {title:'水前寺庭園半日', icon:'⛲', duration:'約 3–4 小時', mode:'電車（市電）',
+   note:'熊本站前搭市電到「水前寺公園」站約 25–31 分，步行約 3–6 分；庭園 8:30–17:00（最後入園 16:30）。庭園附近可吃午餐、喝咖啡。',
+   stops:['水前寺成趣園','熊本拉麵 豚美','moanin（咖啡）','肥後Dining そろ']},
+  {title:'熊本站雨天購物美食', icon:'☔', duration:'約 3 小時', mode:'步行（站內）',
+   note:'肥後よかモン市場在熊本站 AMU PLAZA 內，下雨天不用淋雨，吃飯、喝咖啡、買伴手禮一次完成。',
+   stops:['肥後よかモン市場','迴轉壽司 めっけもん AMU PLAZA熊本店','licht coffeecakes']},
+];
+const YUFUIN_ROUTES = [
+  {title:'由布院經典半日（步行）', icon:'🏞', duration:'約 5 小時', mode:'步行',
+   note:'由布院站 → 湯之坪街道 → 金鱗湖是經典散步路線（站到金鱗湖約 20–30 分，估算）；午餐吃肉烏龍麵，湖畔咖啡館休息，晚餐吃鰻魚和牛。順序可依營業時間調整。',
+   stops:['由布院站','肉烏龍麵 いのうえ 湯布院店','湯之坪街道','由布院 Floral Village（フローラルヴィレッジ）','鰻與和牛 かねや 湯布院店','金鱗湖','茶房 天井棧敷']},
+  {title:'由布院甜點散步', icon:'🍮', duration:'約 3 小時', mode:'步行',
+   note:'由布院的甜點集中在站前到湯之坪街道一帶：抹茶冰淇淋、捲蛋糕、牛奶布丁、可樂餅，邊走邊吃。',
+   stops:['抹茶冰淇淋專門 telato','B-speak（捲蛋糕）','由布院Milch（牛奶甜點）','湯之坪街道','湯布院金賞可樂餅 2號店','金鱗湖']},
+];
+const KAGOSHIMA_ROUTES = [
+  {title:'城山＋天文館美食散步', icon:'🌋', duration:'約 5 小時', mode:'電車（市電）＋步行',
+   note:'市電「天文館通」站一帶是鹿兒島最熱鬧的商圈：先到照國神社與城山展望台，下山吃黑豚午餐，再逛天文館、吃白熊刨冰（天文館むじゃき是白熊發祥店），晚餐吃薩摩料理。',
+   stops:['照國神社','城山展望台','黑豚豬排與涮涮鍋 福屋 本店','天文館','天文館むじゃき 本店（白熊）','薩摩酒飯店 和總']},
+  {title:'鹿兒島中央站黑豚美食', icon:'🐖', duration:'約 3 小時', mode:'步行（站周邊）',
+   note:'鹿兒島中央站周邊就能吃到黑豚豬排、涮涮鍋與白熊；摩天輪在 AMU PLAZA 屋頂。',
+   stops:['AMU WE 摩天輪（アミュラン）','豬排 黑田','天文館むじゃき AMU PLAZA店（白熊）','黑豚・黑牛涮涮鍋 SATSUMA']},
+  {title:'仙巖園＋港邊水族館', icon:'🐋', duration:'約 半天–1 天', mode:'巴士',
+   note:'搭 Kagoshima City View 觀光巴士或一般巴士到「仙巖園前」（班次請先確認）；仙巖園以櫻島為借景，之後到港邊的水族館與 Dolphin Port 吃迴轉壽司。',
+   stops:['仙巖園','鹿兒島水族館 Io World','迴轉壽司 めっけもん Dolphin Port店','明石屋 本店（和菓子）']},
+];
 
 const TRIP_CITIES = {
   busan:   { restaurants: busanRestaurants,   regions: AREA_REGIONS_BUSAN, tzOffset: 540 },
