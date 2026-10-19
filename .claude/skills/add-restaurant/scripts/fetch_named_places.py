@@ -61,21 +61,29 @@ def hours(oh):
 
 results, bad = {}, []
 for q in json.load(open(IN, encoding="utf-8")):
-    data = call("https://places.googleapis.com/v1/places:searchText",
-                {"textQuery": q["query"], "languageCode": LANG,
-                 "locationBias": {"circle": {"center": {"latitude": q["lat"], "longitude": q["lng"]}, "radius": 20000.0}}},
-                "places.id,places.displayName,places.formattedAddress,places.rating,places.userRatingCount")
-    hits = data.get("places", [])
-    print(f"[{q['key']}] {q['query']}:")
-    for h in hits[:4]:
-        print("   ", h.get("displayName", {}).get("text"), "|", h.get("formattedAddress"), "|", h.get("rating"), h.get("userRatingCount"))
-    pick = next((h for h in hits if any(k in h.get("formattedAddress", "") for k in q["expect"])), None)
-    if not pick:
-        bad.append(q["key"])
-        continue
+    if q.get("place_id"):
+        pick = {"id": q["place_id"]}  # already chosen from a frozen search result
+        print(f"[{q['key']}] place_id {q['place_id']}")
+    else:
+        data = call("https://places.googleapis.com/v1/places:searchText",
+                    {"textQuery": q["query"], "languageCode": LANG,
+                     "locationBias": {"circle": {"center": {"latitude": q["lat"], "longitude": q["lng"]}, "radius": 20000.0}}},
+                    "places.id,places.displayName,places.formattedAddress,places.rating,places.userRatingCount")
+        hits = data.get("places", [])
+        print(f"[{q['key']}] {q['query']}:")
+        for h in hits[:4]:
+            print("   ", h.get("displayName", {}).get("text"), "|", h.get("formattedAddress"), "|", h.get("rating"), h.get("userRatingCount"))
+        pick = next((h for h in hits if any(k in h.get("formattedAddress", "") for k in q["expect"])), None)
+        if not pick:
+            bad.append(q["key"])
+            continue
     d = call(f"https://places.googleapis.com/v1/places/{pick['id']}?languageCode={LANG}", None,
              "id,displayName,formattedAddress,rating,userRatingCount,priceLevel,nationalPhoneNumber,"
              "regularOpeningHours,parkingOptions,photos,primaryType,types,googleMapsUri,location")
+    if not any(k in d.get("formattedAddress", "") for k in q["expect"]):
+        bad.append(q["key"])
+        print("   ADDRESS MISMATCH", d.get("formattedAddress"))
+        continue
     d["_photo_urls"] = [u for u in (photo_url(p["name"]) for p in d.get("photos", [])[:3]) if u]
     d["_hoursweek"] = hours(d.get("regularOpeningHours"))
     d["_query_key"] = q["key"]
