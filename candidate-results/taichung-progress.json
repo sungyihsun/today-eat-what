@@ -1,8 +1,8 @@
 {
  "_note": "台中全區補完排程的狀態檔。規則見 .claude/skills/add-restaurant/TAICHUNG_SWEEP.md。",
  "in_progress": {
-  "district": "龍井",
-  "started_at": "2026-10-19T08:21:48Z"
+  "district": "梧棲",
+  "started_at": "2026-10-19T08:25:14Z"
  },
  "done": {
   "西區": {
@@ -104,6 +104,14 @@
    "finished_at": "2026-10-19T08:21:48Z",
    "sync_verified": true,
    "prd_promoted": true
+  },
+  "龍井": {
+   "area": "龍井",
+   "count": 30,
+   "qas_commit": "c0deb9329d53219535a6c47af8d264313d1c2490",
+   "finished_at": "2026-10-19T08:25:14Z",
+   "sync_verified": true,
+   "prd_promoted": true
   }
  },
  "skipped": {
@@ -134,19 +142,6 @@
   }
  },
  "queue": [
-  {
-   "area": "龍井",
-   "label": "龍井",
-   "slug": "longjing",
-   "center": [
-    24.193,
-    120.546
-   ],
-   "landmarks": [
-    "龍井 龍昌路 美食"
-   ],
-   "population_approx": 76000
-  },
   {
    "area": "梧棲",
    "label": "梧棲",
