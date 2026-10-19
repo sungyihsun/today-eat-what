@@ -1,0 +1,2515 @@
+{
+ "ChIJoTqT3OitRjUReuf6N-6Kx7I": {
+  "name": "ごはんやえびす",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上３０５６",
+  "rating": 4.7,
+  "userRatingCount": 90,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.264219,
+   "longitude": 131.3576352
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=12882418014862632826&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "食堂",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJSW_58XeuRjURSDsxBc1AqQ4": {
+  "name": "la porte（ラ・ポルテ）",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上２７９８−２",
+  "rating": 4.3,
+  "userRatingCount": 172,
+  "types": [
+   "western_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2605816,
+   "longitude": 131.3620346
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=1056446836894677832&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "ランチ"
+  ]
+ },
+ "ChIJQRhYRNetRjURCFjUN_BbNSI": {
+  "name": "お食事処玉",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上３０４９−８ 立花ビル",
+  "rating": 4.6,
+  "userRatingCount": 145,
+  "types": [
+   "japanese_izakaya_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.265080999999995,
+   "longitude": 131.3584957
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=2464977458342156296&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJAQAAAH2uRjURxMPpIwgzF2M": {
+  "name": "かっぱ食堂",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上川上１６１１−１",
+  "rating": 4.1,
+  "userRatingCount": 342,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2675937,
+   "longitude": 131.3682706
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=7140231844274488260&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "食堂",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJ5Xi83B2nRjURWeT7WKXylcQ": {
+  "name": "レストラン リボン",
+  "address": "日本、〒874-0910 大分県別府市石垣西２丁目１−３５",
+  "rating": 4.2,
+  "userRatingCount": 2142,
+  "types": [
+   "western_restaurant",
+   "japanese_curry_restaurant",
+   "family_restaurant",
+   "coffee_shop",
+   "cafe",
+   "food_store",
+   "japanese_restaurant",
+   "store",
+   "chinese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2920969,
+   "longitude": 131.4957135
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=14165494994940191833&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "ランチ"
+  ]
+ },
+ "ChIJB43T8NmtRjUR32rCeIuEGUM": {
+  "name": "まる",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上３７２８−５０",
+  "rating": 4.5,
+  "userRatingCount": 233,
+  "types": [
+   "japanese_izakaya_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2626091,
+   "longitude": 131.356427
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=4835041409520265951&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン"
+  ]
+ },
+ "ChIJa4vUGxevRjURMgngvJ-fbaQ": {
+  "name": "お食事処 だるま",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１４７４−３",
+  "rating": 4.7,
+  "userRatingCount": 195,
+  "types": [
+   "restaurant",
+   "snack_bar",
+   "meal_takeaway",
+   "japanese_restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2684778,
+   "longitude": 131.3659987
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=11848301703099058482&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "食堂"
+  ]
+ },
+ "ChIJde6qrnKvRjUR92zAJBspk9Q": {
+  "name": "utu to so 湯布院",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上２３２７−１",
+  "rating": 4.9,
+  "userRatingCount": 29,
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2556121,
+   "longitude": 131.36528239999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=15317631954174635255&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン"
+  ]
+ },
+ "ChIJd3NzjpWtRjURfnJ8N2WBCCo": {
+  "name": "レストラン南の風",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上３６１６",
+  "rating": 4,
+  "userRatingCount": 238,
+  "types": [
+   "italian_restaurant",
+   "breakfast_restaurant",
+   "brunch_restaurant",
+   "cafeteria",
+   "european_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2643637,
+   "longitude": 131.35195489999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=3028813021129241214&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン"
+  ]
+ },
+ "ChIJh3x6Y1ytRjURFXBuQYh0T0M": {
+  "name": "ビストロスリジェ",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上野田３０５２−３",
+  "rating": 4.8,
+  "userRatingCount": 73,
+  "types": [
+   "french_restaurant",
+   "european_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2642844,
+   "longitude": 131.3582123
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=4850223452263444501&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "ランチ"
+  ]
+ },
+ "ChIJ2ckiQANLQTUR-8EOKqoKpao": {
+  "name": "農家レストラン べべんこ",
+  "address": "日本、〒879-4911 大分県玖珠郡九重町田野２４０７−１",
+  "rating": 4,
+  "userRatingCount": 1013,
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.1692786,
+   "longitude": 131.249273
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=12296246083571335675&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "ランチ",
+   "食堂",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJP3lcjz1JQTUR3ZUuTxsp92s": {
+  "name": "お茶や食堂",
+  "address": "日本、〒879-4724 大分県玖珠郡九重町町田１８７７",
+  "rating": 4.4,
+  "userRatingCount": 159,
+  "types": [
+   "japanese_izakaya_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.1962237,
+   "longitude": 131.1651552
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=7779732078575130077&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "ランチ",
+   "食堂",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJ95eT0WpKQTURpaFBFpiOUfY": {
+  "name": "いこい",
+  "address": "日本、〒879-4911 大分県玖珠郡九重町田野１６２４−９",
+  "rating": 4.5,
+  "userRatingCount": 30,
+  "types": [
+   "yakitori_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.157582999999995,
+   "longitude": 131.2209762
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=17749124390303408549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "ランチ",
+   "食堂",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJsRtuWGpNQTUREN3h0QhCLqM": {
+  "name": "味百華ようよう",
+  "address": "日本、〒879-4801 大分県玖珠郡九重町右田724番地の2",
+  "rating": 4.9,
+  "userRatingCount": 33,
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.226327,
+   "longitude": 131.2051177
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=11758408282759355664&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "カフェ",
+   "ランチ",
+   "食堂",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJxf6MLYlLQTURDfPcJ9V4mdc": {
+  "name": "橋の駅 しらとり",
+  "address": "日本、〒879-4911 大分県玖珠郡九重町田野",
+  "rating": 4.4,
+  "userRatingCount": 28,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.1743624,
+   "longitude": 131.2307547
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=15535581246483395341&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "カフェ",
+   "ランチ",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJ3Wrdag9MQTURyHB5PmbJrt8": {
+  "name": "レストラン青山",
+  "address": "日本、〒879-4802 大分県玖珠郡九重町野上１２９５−５",
+  "rating": 4.3,
+  "userRatingCount": 533,
+  "types": [
+   "western_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2249694,
+   "longitude": 131.21172289999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=16118041557377577160&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "ランチ"
+  ]
+ },
+ "ChIJwUFBKG1KQTURor7yIvyAQoI": {
+  "name": "くじゅう野の花の郷",
+  "address": "日本、〒879-4911 大分県玖珠郡九重町田野１６７２−１８",
+  "rating": 4.2,
+  "userRatingCount": 603,
+  "types": [
+   "tourist_attraction",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.1522222,
+   "longitude": 131.2211111
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=9386206393799982754&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "ランチ",
+   "食堂",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJmaG_UV1KQTURyuE2r49hroA": {
+  "name": "フーズ＆ギャラリーWeed(ウィード)",
+  "address": "日本、〒879-4911 大分県玖珠郡九重町田野１７２３",
+  "rating": 4,
+  "userRatingCount": 31,
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.1562,
+   "longitude": 131.230258
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=9272455952550257098&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "カフェ",
+   "ランチ"
+  ]
+ },
+ "ChIJP16mqTVKQTURBeRqwC6WI20": {
+  "name": "峠の茶屋",
+  "address": "日本、〒879-4911 大分県玖珠郡九重町田野９７５−２",
+  "rating": 4.1,
+  "userRatingCount": 262,
+  "types": [
+   "chicken_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.176511999999995,
+   "longitude": 131.218502
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=7864294501859910661&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "ランチ",
+   "食堂",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJw2ImSWtKQTUROp_1iD63TjM": {
+  "name": "tanetone",
+  "address": "日本、〒879-4911 大分県玖珠郡玖珠郡九重町田野１６２４−９２",
+  "rating": 4.4,
+  "userRatingCount": 133,
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.155539,
+   "longitude": 131.221045
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=3697093823331409722&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "カフェ",
+   "ランチ"
+  ]
+ },
+ "ChIJPfRUE0tKQTURaQP_LT-nmnY": {
+  "name": "桂茶屋(九酔渓)",
+  "address": "日本、〒879-4911 大分県玖珠郡九重町田野９５３",
+  "rating": 3.9,
+  "userRatingCount": 1644,
+  "types": [
+   "store",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.175710599999995,
+   "longitude": 131.215788
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=8546327132685402985&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "ランチ",
+   "食堂",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJv3xGJDNKQTURD57HWcBSxDA": {
+  "name": "やまめ料理専門店 渓流の味 たなべ",
+  "address": "日本、〒879-4723 大分県玖珠郡九重町町田３６８４",
+  "rating": 4.4,
+  "userRatingCount": 380,
+  "types": [
+   "seafood_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.1801503,
+   "longitude": 131.2135381
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=3514024595349282319&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "ランチ",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJF7mXS1GzRjUR8cs989xJ-lE": {
+  "name": "スパ＆レストラン 湯平テラス",
+  "address": "日本、〒879-5112 大分県由布市湯布院町湯平２５４−１３",
+  "rating": 4.5,
+  "userRatingCount": 49,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.1900814,
+   "longitude": 131.32523899999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=5907115074572372977&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン"
+  ]
+ },
+ "ChIJmaG_UV1KQTUR9NqB9Z8tY5U": {
+  "name": "けやきの森",
+  "address": "日本、〒879-4911 大分県玖珠郡九重町田野１６６６−１",
+  "rating": 4.4,
+  "userRatingCount": 123,
+  "types": [
+   "cafe",
+   "coffee_shop",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.1554618,
+   "longitude": 131.2313702
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=10764497699387595508&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "カフェ",
+   "ランチ"
+  ]
+ },
+ "ChIJE7O31aGnRjURR1KqS1dgfUc": {
+  "name": "Otto e Sette Oita(オット エ セッテ オオイタ)",
+  "address": "日本、〒874-0043 大分県別府市井田２",
+  "rating": 4.4,
+  "userRatingCount": 219,
+  "types": [
+   "italian_restaurant",
+   "european_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.316023799999996,
+   "longitude": 131.4785463
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=5151379476829590087&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "カフェ",
+   "ランチ"
+  ]
+ },
+ "ChIJ8xuiHiynRjUR3BzlD-Q9HNU": {
+  "name": "La fonte",
+  "address": "日本、〒874-0840 大分県別府市小倉町３０−３８",
+  "rating": 4.7,
+  "userRatingCount": 55,
+  "types": [
+   "italian_restaurant",
+   "western_restaurant",
+   "european_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.308544499999996,
+   "longitude": 131.4639852
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=15356216879155059932&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "カフェ",
+   "ランチ"
+  ]
+ },
+ "ChIJXSAoWHanRjURXa30-V4QJK0": {
+  "name": "お食事処 燈（あかり）",
+  "address": "日本、〒874-0842 大分県別府市小倉町２８−１７",
+  "rating": 4.1,
+  "userRatingCount": 324,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.307800199999996,
+   "longitude": 131.46281439999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=12476114867829648733&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "ランチ",
+   "食堂",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJC8Qs9qunRjURBxBpMLV0iYM": {
+  "name": "Bistro Petit Choux ビストロ プティシュー",
+  "address": "日本、〒874-0833 大分県別府市鶴見３丁目１−１ つるみサンクビル",
+  "rating": 4.6,
+  "userRatingCount": 78,
+  "types": [
+   "bistro",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.3025513,
+   "longitude": 131.4762905
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=9478235212328013831&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "ランチ"
+  ]
+ },
+ "ChIJKZfIMKanRjUR1ea8EyspRus": {
+  "name": "バレーナ",
+  "address": "日本、〒874-0840 大分県別府市馬場１−３ 安東ビル 1階",
+  "rating": 4.3,
+  "userRatingCount": 119,
+  "types": [
+   "western_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.3066759,
+   "longitude": 131.4762821
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=16953283112274290389&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "ランチ"
+  ]
+ },
+ "ChIJyYTktR-nRjURkd4Rw4868sg": {
+  "name": "アブタール 別府鉄輪店",
+  "address": "日本、〒874-0041 大分県別府市鉄輪３３１−１１",
+  "rating": 4.8,
+  "userRatingCount": 248,
+  "types": [
+   "indian_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.3151846,
+   "longitude": 131.4723939
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=14479700141077028497&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "カフェ",
+   "ランチ"
+  ]
+ },
+ "ChIJO8aoTRanRjURbp5kDh8Xaq0": {
+  "name": "レストラン東洋軒",
+  "address": "日本、〒874-0919 大分県別府市石垣東７丁目８−２２",
+  "rating": 4.3,
+  "userRatingCount": 4763,
+  "types": [
+   "chinese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.300920999999995,
+   "longitude": 131.499537
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=12495825538245762670&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "ランチ",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJbQp5iHanRjURoVMhtyuQIqY": {
+  "name": "Atelier",
+  "address": "日本、〒874-0000 大分県別府市鉄輪 Resort & Spa 4F ANA InterContinental",
+  "rating": 4.7,
+  "userRatingCount": 35,
+  "types": [
+   "french_restaurant",
+   "european_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.318138399999995,
+   "longitude": 131.461141
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=11971289276934607777&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "ランチ"
+  ]
+ },
+ "ChIJsRsiZQqnRjURhi10YjY3QzE": {
+  "name": "どけび",
+  "address": "日本、〒874-0840 大分県別府市北中７−２",
+  "rating": 4.3,
+  "userRatingCount": 244,
+  "types": [
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.3120934,
+   "longitude": 131.48195959999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=3549741638017625478&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJeyy9IK-nRjURAHJIOI3VVQo": {
+  "name": "食欲気分",
+  "address": "日本、〒874-0840 大分県別府市鶴見２６５７−１",
+  "rating": 4.6,
+  "userRatingCount": 47,
+  "types": [
+   "japanese_izakaya_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.3059036,
+   "longitude": 131.4758326
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=744736115911062016&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJi_U_5qSnRjURsVKIVl7Tgq4": {
+  "name": "くいちん",
+  "address": "日本、〒874-0840 大分県別府市火売８−１",
+  "rating": 4.9,
+  "userRatingCount": 55,
+  "types": [
+   "japanese_izakaya_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.308956,
+   "longitude": 131.4683494
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=12574845511704007345&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJF2OElHyfRjURUkcwm59k8ig": {
+  "name": "ダイニングキッチン プエルタ・デル・ソル",
+  "address": "日本、〒874-0919 大分県別府市石垣東１０丁目８−１８",
+  "rating": 4.5,
+  "userRatingCount": 165,
+  "types": [
+   "south_american_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.3063729,
+   "longitude": 131.4991376
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=2950531342547306322&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "ランチ"
+  ]
+ },
+ "ChIJb0l6yz2nRjUR1sxl-25bEUA": {
+  "name": "Bistro le jiu 慈雨",
+  "address": "日本、〒874-0920 大分県別府市北浜１丁目４−２２",
+  "rating": 4.7,
+  "userRatingCount": 70,
+  "types": [
+   "bistro",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2782942,
+   "longitude": 131.5045543
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=4616571625253752022&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン"
+  ]
+ },
+ "ChIJAQAAAD-mRjURoMRk34L90QU": {
+  "name": "WAGYU STEAK THE PEAK／GALLERIA MIDOBARU",
+  "address": "日本、〒874-0831 大分県別府市堀田町５−６６５",
+  "rating": 4.2,
+  "userRatingCount": 33,
+  "types": [
+   "steak_house",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.287259,
+   "longitude": 131.46048059999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=419394978857665696&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン"
+  ]
+ },
+ "ChIJd9_v1X2nRjURqoHL0oTXu6M": {
+  "name": "ゴールテイストレストラン 別府店",
+  "address": "日本、〒874-0924 大分県別府市餅ケ浜町５−５−５０",
+  "rating": 4.7,
+  "userRatingCount": 139,
+  "types": [
+   "sri_lankan_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2930937,
+   "longitude": 131.5016503
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=11798260614299353514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン"
+  ]
+ },
+ "ChIJ893QBz6nRjURgAIXBradiKE": {
+  "name": "おしゃれ小屋",
+  "address": "日本、〒874-0922 大分県別府市船小路町３−２６",
+  "rating": 4,
+  "userRatingCount": 475,
+  "types": [
+   "coffee_shop",
+   "cafe",
+   "food_store",
+   "store",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.3022438,
+   "longitude": 131.5019237
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=11639726642050826880&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "カフェ",
+   "ランチ"
+  ]
+ },
+ "ChIJTxwVSACnRjURTqf9sOkoG0o": {
+  "name": "豊後前 霧翠（むすい）",
+  "address": "日本、〒874-0041 大分県別府市鉄輪４９９−１８",
+  "rating": 4.8,
+  "userRatingCount": 38,
+  "types": [
+   "sushi_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.318177,
+   "longitude": 131.4610272
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=5339906767339759438&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン"
+  ]
+ },
+ "ChIJaRUSMKKnRjURL55ds7-9viI": {
+  "name": "レストラン 三ツ星",
+  "address": "日本、〒874-0041 大分県別府市鉄輪みゆき坂 1",
+  "rating": 4.4,
+  "userRatingCount": 291,
+  "types": [
+   "french_restaurant",
+   "european_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.315667,
+   "longitude": 131.47557899999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=2503647073910234671&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン"
+  ]
+ },
+ "ChIJxw3qWhWvRjURlpSF3NjD_uA": {
+  "name": "風の丘 カフェ",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上２４８５−３",
+  "rating": 4.8,
+  "userRatingCount": 135,
+  "types": [
+   "coffee_shop",
+   "cafe",
+   "food_store",
+   "food",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2606815,
+   "longitude": 131.3653505
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=16212611044760458390&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJlWONB_2vRjURfSNgymBgsQI": {
+  "name": "湯布珈琲",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１５２４−２７",
+  "rating": 4.4,
+  "userRatingCount": 263,
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2671142,
+   "longitude": 131.364186
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=194042227782067069&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJnUYI4YSuRjURpILVAHbj3RA": {
+  "name": "テテオ",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１２７２−１７５",
+  "rating": 4.5,
+  "userRatingCount": 194,
+  "types": [
+   "cafe",
+   "western_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2756271,
+   "longitude": 131.3686009
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=1215377570419540644&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ",
+   "ランチ"
+  ]
+ },
+ "ChIJF3qXA36uRjURm0y0FiRV9eg": {
+  "name": "Cafe DUO",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１１５９−１",
+  "rating": 4.4,
+  "userRatingCount": 244,
+  "types": [
+   "cafe",
+   "ice_cream_shop",
+   "dessert_restaurant",
+   "coffee_shop",
+   "cake_shop",
+   "snack_bar",
+   "meal_takeaway",
+   "dessert_shop",
+   "confectionery",
+   "bakery",
+   "manufacturer",
+   "food_store",
+   "restaurant",
+   "food",
+   "store",
+   "point_of_interest",
+   "wholesaler",
+   "service",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2686512,
+   "longitude": 131.3657134
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=16786416799581490331&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJ1dHrGHStRjURdcHJT-m_CCk": {
+  "name": "Cafe ゆる",
+  "address": "日本、〒879-5114 大分県由布市湯布院町川北４−１ 一休ビル 2F",
+  "rating": 4.1,
+  "userRatingCount": 132,
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2627381,
+   "longitude": 131.35549659999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=2956824164155638133&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJsXgFE0WtRjUR_thpmiHTJFE": {
+  "name": "cafe e-denn（カフェ エーデン）",
+  "address": "日本、〒879-5114 大分県由布市湯布院町川北９１８−３２",
+  "rating": 4.9,
+  "userRatingCount": 70,
+  "types": [
+   "coffee_shop",
+   "cafe",
+   "food_store",
+   "food",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.261126499999996,
+   "longitude": 131.3363528
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=5847030357511756030&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJ-Xmf9L-tRjUR1jjiROVJ6nY": {
+  "name": "喫茶 間",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上３０７７−２",
+  "rating": 4.9,
+  "userRatingCount": 103,
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2653099,
+   "longitude": 131.3566351
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=8568742490077804758&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJoYbrcwCvRjURg_KxPxEc9ao": {
+  "name": "喫茶ウカ",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１５６１",
+  "rating": 4.3,
+  "userRatingCount": 27,
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.266601099999995,
+   "longitude": 131.3696908
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=12318783216150508163&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJiR3SSX-uRjURa0VYx-oI9sI": {
+  "name": "コミチカフェ",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上３００１−８",
+  "rating": 4.3,
+  "userRatingCount": 72,
+  "types": [
+   "cafe",
+   "coffee_shop",
+   "food_store",
+   "food",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.266003999999995,
+   "longitude": 131.36231999999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=14048425892088661355&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJxyfTGkuzRjUROZDoIbKZQy4": {
+  "name": "CAFE 森の交茶店",
+  "address": "日本、〒879-5113 大分県由布市湯布院町川西１７５０−１３７",
+  "rating": 4.8,
+  "userRatingCount": 70,
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2240722,
+   "longitude": 131.3017733
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=3333677139536416825&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJd5g6ujWpRjURxq3LSgdA8H4": {
+  "name": "木馬",
+  "address": "日本、〒879-5101 大分県由布市湯布院町塚原４−３５",
+  "rating": 4.8,
+  "userRatingCount": 68,
+  "types": [
+   "coffee_shop",
+   "cafe",
+   "food_store",
+   "food",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.3023537,
+   "longitude": 131.38291999999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=9146881243253288390&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJCYNqsaJLQTURe7haw8iDS1M": {
+  "name": "OLGA chiffon オルガ シフォン",
+  "address": "日本、〒879-4911 大分県玖珠郡九重町田野1666ｰ1 オルガシフォン",
+  "rating": 5,
+  "userRatingCount": 55,
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.1561551,
+   "longitude": 131.23024569999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=6002035826695518331&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJcRn_fgBLQTUR9Cr7UY1Oijg": {
+  "name": "マウンテンマーケット・オオイタ",
+  "address": "日本、〒879-4911 大分県玖珠郡九重町田野１６９９−２０",
+  "rating": 4.8,
+  "userRatingCount": 29,
+  "types": [
+   "coffee_shop",
+   "cafe",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.151814099999996,
+   "longitude": 131.2539694
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=4074155181782805236&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJR_GfzeBJQTUR94GTc8-36vc": {
+  "name": "bakery cafe Humpty Dumpty",
+  "address": "日本、〒879-4724 大分県玖珠郡九重町菅原１８５０−１９",
+  "rating": 4.7,
+  "userRatingCount": 91,
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.195168699999996,
+   "longitude": 131.1627355
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=17864292973543653879&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJ-bcJo7VJQTURryP2Bn_wyBw": {
+  "name": "ベリージュファーム",
+  "address": "日本、〒879-4723 大分県玖珠郡九重町町田３２８５",
+  "rating": 4.3,
+  "userRatingCount": 244,
+  "types": [
+   "cafe",
+   "pizza_restaurant",
+   "farm",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "service",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.1718185,
+   "longitude": 131.1693784
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=2074172056772420527&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJhZWASAC1RjURO53q5bHwY3M": {
+  "name": "黒岳珈琲",
+  "address": "日本、〒879-5423 大分県由布市庄内町阿蘇野２９７２−６",
+  "rating": 4.2,
+  "userRatingCount": 33,
+  "types": [
+   "coffee_shop",
+   "rv_park",
+   "campground",
+   "cafe",
+   "lodging",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "service",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.1251059,
+   "longitude": 131.2932425
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=8314753983913303355&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJ89M28kNLQTUR-pgoSGiuLII": {
+  "name": "ミルクランドファーム",
+  "address": "日本、〒879-4911 大分県玖珠郡九重町田野１７２６−８",
+  "rating": 4.3,
+  "userRatingCount": 330,
+  "types": [
+   "ice_cream_shop",
+   "dessert_shop",
+   "confectionery",
+   "korean_restaurant",
+   "food_store",
+   "store",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.1617533,
+   "longitude": 131.2402094
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=9380063886816352506&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJhecS3gKnRjURAwfAJ8bIwbs": {
+  "name": "50CAFE",
+  "address": "日本、〒874-0045 大分県別府市鉄輪３２１−１",
+  "rating": 4.4,
+  "userRatingCount": 122,
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.3156483,
+   "longitude": 131.4740213
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=13529315508993656579&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJGXhYXLSnRjUR4SCcniJWnHI": {
+  "name": "SUNLINE COFFEE",
+  "address": "日本、〒874-0920 大分県別府市北浜２丁目１２−９",
+  "rating": 4.4,
+  "userRatingCount": 43,
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2801172,
+   "longitude": 131.5071769
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=8258570523380556001&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJk1y7AACnRjURzSwiHnOTX0M": {
+  "name": "おうちごはん22CAFE",
+  "address": "日本、〒874-0933 大分県別府市野口元町１１−２２",
+  "rating": 4.3,
+  "userRatingCount": 29,
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2846343,
+   "longitude": 131.50047849999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=4854761045964762317&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJqy-KYcynRjURrSy71Ikun6A": {
+  "name": "SHIYACOFFEE",
+  "address": "日本、〒874-0034 大分県別府市上人仲町６−３１",
+  "rating": 4.8,
+  "userRatingCount": 205,
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.3150246,
+   "longitude": 131.4937713
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=11574020736879897773&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJW3gKcZ-nRjUR0rQJ3tE1PB4": {
+  "name": "ここちカフェ むすびの",
+  "address": "日本、〒874-0046 大分県別府市鉄輪上１組",
+  "rating": 4.3,
+  "userRatingCount": 237,
+  "types": [
+   "cafe",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.317111,
+   "longitude": 131.4783216
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=2178675495230092498&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJQcF5OeymRjURK0fsU00wdsk": {
+  "name": "CAFE MAME",
+  "address": "日本、〒874-0908 大分県別府市上田の湯町３−２２",
+  "rating": 4.7,
+  "userRatingCount": 84,
+  "types": [
+   "cafe",
+   "coffee_shop",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.276143399999995,
+   "longitude": 131.49458869999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=14516843557553981227&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJHWMZGv-nRjURztnWX2ILmqs": {
+  "name": "cafe…TEMPUS",
+  "address": "日本、〒874-0000 大分県別府市桜ケ丘９丁目 アイワビル",
+  "rating": 4.1,
+  "userRatingCount": 60,
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.3124186,
+   "longitude": 131.4890313
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=12365208244041734606&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJkytBBWOnRjURkfxU6hTHl4Y": {
+  "name": "海の見える丘のアトリエ",
+  "address": "日本、〒874-0021 大分県別府市亀川４８４−３",
+  "rating": 4.7,
+  "userRatingCount": 171,
+  "types": [
+   "cafe",
+   "art_gallery",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.323002599999995,
+   "longitude": 131.4910198
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=9698439215210364049&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJ5YUkr32nRjURWoMKL2E49bQ": {
+  "name": "Phew.Coffee Stand",
+  "address": "日本、〒874-0033 大分県別府市上人南２−１",
+  "rating": 4.9,
+  "userRatingCount": 66,
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.3124132,
+   "longitude": 131.4983163
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=13039390286173340506&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJm340_aGnRjURfjftKDKh3M4": {
+  "name": "Cafe雲の峰",
+  "address": "日本、〒874-0930 大分県別府市光町２０−１４",
+  "rating": 4.6,
+  "userRatingCount": 115,
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.274887299999996,
+   "longitude": 131.49567389999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=14905966103496570750&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJXYJcKqynRjURt1V4MJJ_LDY": {
+  "name": "BYCA",
+  "address": "日本、〒874-0933 大分県別府市野口元町６−３",
+  "rating": 4.7,
+  "userRatingCount": 246,
+  "types": [
+   "coffee_shop",
+   "cafe",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2825542,
+   "longitude": 131.50021049999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=3903635242878522807&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJIRwBdummRjURK7VnAjoeqm4": {
+  "name": "森のカフェ",
+  "address": "日本、〒874-0909 大分県別府市田の湯町１−３１",
+  "rating": 4.5,
+  "userRatingCount": 52,
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.276373299999996,
+   "longitude": 131.4987822
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=7974219324710171947&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJBT9uXaenRjURb0qUG-iEYpA": {
+  "name": "SUNNY",
+  "address": "日本、〒874-0840 大分県別府市鶴見７−１",
+  "rating": 4.3,
+  "userRatingCount": 100,
+  "types": [
+   "cafe",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.3098368,
+   "longitude": 131.4804408
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=10404024221609249391&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJpStBcwCnRjURQErnrtbWxXk": {
+  "name": "CHERIE STORAGE CAFE -シェリストレージカフェ-",
+  "address": "日本、〒874-0919 大分県別府市石垣東２丁目２−１３",
+  "rating": 4.3,
+  "userRatingCount": 53,
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2908632,
+   "longitude": 131.49848509999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=8774655666547018304&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJWTRRfACnRjURiBrGNsnWYMc": {
+  "name": "ベルシュ",
+  "address": "日本、〒874-0833 大分県別府市鶴見１丁目１１−７−１",
+  "rating": 4.7,
+  "userRatingCount": 83,
+  "types": [
+   "cafe",
+   "french_restaurant",
+   "european_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2973655,
+   "longitude": 131.4802311
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=14366718971007605384&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ",
+   "ランチ"
+  ]
+ },
+ "ChIJVeZKRyKvRjUR75ToQkGd-IQ": {
+  "name": "curry Kany’s",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上２７０１",
+  "rating": 4.9,
+  "userRatingCount": 33,
+  "types": [
+   "restaurant",
+   "japanese_curry_restaurant",
+   "japanese_restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2649432,
+   "longitude": 131.3657368
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=9581581110851704047&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "ランチ"
+  ]
+ },
+ "ChIJdSPGWdetRjURI8Bm9gFvFQc": {
+  "name": "ＤＩＮＩＮＧ・十和蔵",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上",
+  "rating": 4.3,
+  "userRatingCount": 47,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2645426,
+   "longitude": 131.3657375
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=510436186995998755&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "ランチ"
+  ]
+ },
+ "ChIJuYFk0h-vRjURGye3pdr8ygw": {
+  "name": "湯布院伊料理店coji coji（コジコジ）",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上２５４６−６",
+  "rating": 4.7,
+  "userRatingCount": 85,
+  "types": [
+   "italian_restaurant",
+   "european_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2603806,
+   "longitude": 131.3628566
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=921827089764001563&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "ランチ"
+  ]
+ },
+ "ChIJj2-iVQCtRjURmzKLf68LpBs": {
+  "name": "タベルサイノウ",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上３０５６−２５ 大島ビル 1F",
+  "rating": 4.5,
+  "userRatingCount": 66,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2642519,
+   "longitude": 131.3576809
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=1991729783591613083&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "ランチ"
+  ]
+ },
+ "ChIJP96G8hlKQTURqx9N-DPygm4": {
+  "name": "あいのせ茶屋",
+  "address": "日本、〒879-4911 大分県玖珠郡九重町田野６８５−４",
+  "rating": 4,
+  "userRatingCount": 290,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.1597967,
+   "longitude": 131.2094591
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=7963193396167516075&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "ランチ",
+   "食堂"
+  ]
+ },
+ "ChIJF4Ov-wBMQTUR4_V_aEQawVo": {
+  "name": "ル·ラパン",
+  "address": "日本、〒879-4802 大分県玖珠郡九重町野上４−５",
+  "rating": 4.7,
+  "userRatingCount": 127,
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2242768,
+   "longitude": 131.2034421
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=6539537015031985635&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "ランチ"
+  ]
+ },
+ "ChIJFUvHlrenRjURM4Ue_EbVyy8": {
+  "name": "丞氣屋（じょうきや）",
+  "address": "日本、〒874-0840 大分県別府市北中 1組",
+  "rating": 4.5,
+  "userRatingCount": 98,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.3135107,
+   "longitude": 131.4793306
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=3444080840909161779&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "ランチ",
+   "食堂",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJPcsTL6KnRjURKYYAXPDG9kI": {
+  "name": "茶寮 大路",
+  "address": "日本、〒874-0041 大分県別府市鉄輪５",
+  "rating": 4.5,
+  "userRatingCount": 98,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.3154908,
+   "longitude": 131.4759339
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=4825262786412054057&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "ランチ"
+  ]
+ },
+ "ChIJe94JujanRjUROO2rXjOBEwE": {
+  "name": "珈琲もんじろう",
+  "address": "日本、〒874-0035 大分県別府市上人西4組１",
+  "rating": 4.5,
+  "userRatingCount": 92,
+  "types": [
+   "western_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.3127582,
+   "longitude": 131.4931441
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=77547676227071288&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "ランチ"
+  ]
+ },
+ "ChIJ1TerGAunRjURl7kwF9CuOQw": {
+  "name": "すてーき 南蛮館",
+  "address": "日本、〒874-0042 大分県別府市鉄輪東２−２",
+  "rating": 4.3,
+  "userRatingCount": 137,
+  "types": [
+   "steak_house",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.3125594,
+   "longitude": 131.4820731
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=880927410893142423&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "ランチ"
+  ]
+ },
+ "ChIJN4OANeSmRjURGFofA-GmM8A": {
+  "name": "道々の輩",
+  "address": "日本、〒874-0931 大分県別府市西野口町１５−４２",
+  "rating": 4.2,
+  "userRatingCount": 133,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2841452,
+   "longitude": 131.4949962
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=13849596764444645912&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "ランチ"
+  ]
+ },
+ "ChIJY7AOi6GnRjUR0maoHMSWp-U": {
+  "name": "いやさか",
+  "address": "日本、〒874-0041 大分県別府市鉄輪 風呂本5組",
+  "rating": 4.4,
+  "userRatingCount": 45,
+  "types": [
+   "japanese_izakaya_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.3157488,
+   "longitude": 131.4768755
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=16548361124834731730&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "ランチ"
+  ]
+ },
+ "ChIJP0bMQdSvRjURiriOErWGCsk": {
+  "name": "まんぷく食堂",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１４７９−１ 2F",
+  "rating": 4.1,
+  "userRatingCount": 193,
+  "types": [
+   "japanese_curry_restaurant",
+   "ramen_restaurant",
+   "coffee_shop",
+   "cafe",
+   "food_store",
+   "japanese_restaurant",
+   "store",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.268353499999996,
+   "longitude": 131.3662344
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=14486539263649167498&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "食堂"
+  ]
+ },
+ "ChIJ90gCx72nRjUR0y-TJMiF4Gk": {
+  "name": "食堂トンボ",
+  "address": "日本、〒874-0944 大分県別府市元町４−１９",
+  "rating": 4.8,
+  "userRatingCount": 36,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2777676,
+   "longitude": 131.5041051
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=7629244863419199443&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "食堂"
+  ]
+ },
+ "ChIJq3poM4OnRjUR95aabL9unCQ": {
+  "name": "豊後や食堂",
+  "address": "日本、〒874-0923 大分県別府市新港町３−８ セコロ21Y.A",
+  "rating": 3.9,
+  "userRatingCount": 155,
+  "types": [
+   "japanese_izakaya_restaurant",
+   "chicken_restaurant",
+   "meal_takeaway",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2981897,
+   "longitude": 131.5014827
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=2638105250172147447&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "食堂",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJO4dZZX6uRjURkvoELx8Ojsk": {
+  "name": "茄子屋",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１５０３−６",
+  "rating": 4.4,
+  "userRatingCount": 205,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2671669,
+   "longitude": 131.36533319999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=14523561375412058770&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "食堂"
+  ]
+ },
+ "ChIJLaGfUuymRjURhILmdVDNjPs": {
+  "name": "だるま食堂",
+  "address": "日本、〒874-0902 大分県別府市青山町１−４",
+  "rating": 4.6,
+  "userRatingCount": 101,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.275741,
+   "longitude": 131.49384999999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=18126088345718522500&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "食堂"
+  ]
+ },
+ "ChIJTxMB-I2nRjUR1sN-OwEEOJ4": {
+  "name": "湯煙食堂",
+  "address": "日本、〒874-0920 大分県別府市中央町６−２２",
+  "rating": 4.1,
+  "userRatingCount": 31,
+  "types": [
+   "japanese_izakaya_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2769657,
+   "longitude": 131.4992579
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=11400866860028052438&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "食堂"
+  ]
+ },
+ "ChIJ55QtJQqnRjURxXQis-_nuhY": {
+  "name": "ひかり食堂",
+  "address": "日本、〒874-0845 大分県別府市北中２",
+  "rating": 4.2,
+  "userRatingCount": 331,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.3144819,
+   "longitude": 131.47653219999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=1637876431191176389&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "食堂",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJpWWmk9tOQTURMUe-2cGjp2U": {
+  "name": "魚屋",
+  "address": "日本、〒879-4721 大分県玖珠郡九重町粟野１１４６−８",
+  "rating": 4.2,
+  "userRatingCount": 270,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2502261,
+   "longitude": 131.1667044
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=7325003371918542641&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "食堂",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJjzNnB_WnRjURTmsCgJyBtW0": {
+  "name": "食事処 暖だまり",
+  "address": "日本、〒874-0033 大分県別府市上人南８１９−５",
+  "rating": 4.7,
+  "userRatingCount": 48,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.312547099999996,
+   "longitude": 131.49924719999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=7905367230081297230&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "食堂"
+  ]
+ },
+ "ChIJ5T6d1hynRjURIj-CEPIoiZ8": {
+  "name": "つどい",
+  "address": "日本、〒874-0910 大分県別府市石垣西４丁目５−１６",
+  "rating": 4.4,
+  "userRatingCount": 68,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.294874,
+   "longitude": 131.49159699999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=11495764543964069666&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "食堂"
+  ]
+ },
+ "ChIJ_ZCcQOymRjURzNrmSEJ9MR4": {
+  "name": "お食事・お弁当 大黒屋",
+  "address": "日本、〒874-0908 大分県別府市上田の湯町３−６",
+  "rating": 4.3,
+  "userRatingCount": 140,
+  "types": [
+   "japanese_izakaya_restaurant",
+   "food_store",
+   "japanese_restaurant",
+   "store",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.275828,
+   "longitude": 131.49485199999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=2175657818641062604&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "食堂"
+  ]
+ },
+ "ChIJ1wf4P92mRjURTkhAY1lzotU": {
+  "name": "和食堂 生一本 別府駅前店",
+  "address": "日本、〒874-0934 大分県別府市駅前本町１−５",
+  "rating": 4.4,
+  "userRatingCount": 339,
+  "types": [
+   "japanese_izakaya_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.279753899999996,
+   "longitude": 131.5025296
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=15393993304060217422&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "食堂"
+  ]
+ },
+ "ChIJpxrIbRWnRjURPBCa-FG_5tw": {
+  "name": "味しげ",
+  "address": "日本、〒874-0033 大分県別府市北石垣１ 別府市上人南19組",
+  "rating": 4.4,
+  "userRatingCount": 110,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.3122952,
+   "longitude": 131.4942944
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=15917620291771699260&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "食堂"
+  ]
+ },
+ "ChIJdR1GbiGnRjURLjn-XUFF7oI": {
+  "name": "関あじ関さばの郷 佐賀関食堂",
+  "address": "日本、〒874-0022 大分県別府市亀川東町２０−４５",
+  "rating": 4.1,
+  "userRatingCount": 734,
+  "types": [
+   "seafood_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.3261629,
+   "longitude": 131.4970287
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=9434554416439900462&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "食堂"
+  ]
+ },
+ "ChIJy025jtumRjURad8fV6hzU_U": {
+  "name": "お食事処 とよ常 別府本店",
+  "address": "日本、〒874-0920 大分県別府市北浜２丁目１２−２４",
+  "rating": 4.2,
+  "userRatingCount": 4759,
+  "types": [
+   "japanese_restaurant",
+   "seafood_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.279755,
+   "longitude": 131.5070402
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=17677600129212735337&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "名物 グルメ"
+  ]
+ },
+ "ChIJXbaUM9etRjURUcjoW4O9v4A": {
+  "name": "鰻一 × 豊後肉汁うどん 由布院駅前店",
+  "address": "日本、〒879-5114 大分県由布市湯布院町川北２−１１ 1F",
+  "rating": 4.7,
+  "userRatingCount": 189,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2631659,
+   "longitude": 131.3559496
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=9277342129286858833&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "名物 グルメ"
+  ]
+ },
+ "ChIJGzvUVlqvRjURZry45vEY66M": {
+  "name": "湯布院囲炉裏焼き 四方山（よもやま）",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１５２４−１ 湯の坪横丁内",
+  "rating": 4.3,
+  "userRatingCount": 209,
+  "types": [
+   "japanese_izakaya_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2677422,
+   "longitude": 131.3644158
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=11811561874946309222&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "名物 グルメ"
+  ]
+ },
+ "ChIJ3-MFqdtOQTURmyz8fBe_wHs": {
+  "name": "春日うどん",
+  "address": "日本、〒879-4721 大分県玖珠郡九重町粟野１１４０−１",
+  "rating": 4.2,
+  "userRatingCount": 926,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.249369699999995,
+   "longitude": 131.1674473
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=8917337369795636379&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "名物 グルメ"
+  ]
+ },
+ "ChIJIyWSfQynRjURAZYEV-jRWeA": {
+  "name": "別府甘味茶屋",
+  "address": "日本、〒874-0835 大分県別府市実相寺町２７−３",
+  "rating": 4.3,
+  "userRatingCount": 2325,
+  "types": [
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "japanese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.3105797,
+   "longitude": 131.4866968
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=16166183133245642241&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "名物 グルメ"
+  ]
+ },
+ "ChIJD-MRi6GnRjURhoBsDb8vCX0": {
+  "name": "地獄蒸し工房 鉄輪",
+  "address": "日本、〒874-0041 大分県別府市風呂本５組",
+  "rating": 3.9,
+  "userRatingCount": 3953,
+  "types": [
+   "tourist_attraction",
+   "japanese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.3154852,
+   "longitude": 131.4762201
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=9009785027141861510&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "名物 グルメ"
+  ]
+ },
+ "ChIJYf9rAaOnRjURzEmrWzO-lxg": {
+  "name": "味処よね田",
+  "address": "日本、〒874-0041 大分県別府市御幸 ５組２",
+  "rating": 4.4,
+  "userRatingCount": 273,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.315767099999995,
+   "longitude": 131.4734935
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=1772094106184141260&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "名物 グルメ"
+  ]
+ },
+ "ChIJAXeAaMWnRjURaSWEg4xQCc8": {
+  "name": "岡本屋売店",
+  "address": "日本、〒874-0840 大分県別府市明礬３組",
+  "rating": 4.1,
+  "userRatingCount": 4842,
+  "types": [
+   "cafe",
+   "snack_bar",
+   "meal_takeaway",
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "japanese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.3180542,
+   "longitude": 131.4526114
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=14918543805073597801&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "名物 グルメ"
+  ]
+ },
+ "ChIJ___rBAunRjURV_lPsWixDTo": {
+  "name": "亀正くるくる寿司",
+  "address": "日本、〒874-0835 大分県別府市実相寺町２８−34番地",
+  "rating": 4.2,
+  "userRatingCount": 3734,
+  "types": [
+   "sushi_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.3121219,
+   "longitude": 131.4841769
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=4183194692106582359&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "名物 グルメ"
+  ]
+ },
+ "ChIJAQAlJ56nRjURZgnYJA1tePQ": {
+  "name": "ひでさん 鉄輪店",
+  "address": "日本、〒874-0041 大分県別府市鉄輪７８４−９",
+  "rating": 4.5,
+  "userRatingCount": 518,
+  "types": [
+   "chicken_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.3183273,
+   "longitude": 131.4810657
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=17615949845679835494&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "名物 グルメ"
+  ]
+ },
+ "ChIJq_bs6menRjURupumseR6RGk": {
+  "name": "海鮮料理 えいたろう",
+  "address": "日本、〒874-0023 大分県別府市上人ケ浜町６−２４ 潮騒の宿 晴海",
+  "rating": 4.3,
+  "userRatingCount": 425,
+  "types": [
+   "seafood_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.3173248,
+   "longitude": 131.5002088
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=7585322795050376122&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "名物 グルメ"
+  ]
+ },
+ "ChIJ89vq9-emRjURvSAlwJJP-VA": {
+  "name": "とよ常 別府駅前店",
+  "address": "日本、〒874-0934 大分県別府市駅前本町５−３０ 別府駅前ビル 1階",
+  "rating": 4.2,
+  "userRatingCount": 1332,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2802891,
+   "longitude": 131.5019099
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=5834782283942666429&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "名物 グルメ"
+  ]
+ }
+}

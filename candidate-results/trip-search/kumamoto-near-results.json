@@ -1,0 +1,2218 @@
+{
+ "ChIJ3YMHLMHYQDUR0hdnzgt4rcA": {
+  "name": "ニュー草千里",
+  "address": "日本、〒869-2231 熊本県阿蘇市永草２３９１−１５",
+  "rating": 3.9,
+  "userRatingCount": 2237,
+  "types": [
+   "restaurant",
+   "tourist_attraction",
+   "food_court",
+   "coffee_shop",
+   "cafe",
+   "food_store",
+   "food",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.8861255,
+   "longitude": 131.0542104
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=13883885218355943378&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "ランチ",
+   "食堂",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJMeic0sMnQTUReEfSDv0gzos": {
+  "name": "レストラン 阿蘇カランドリエ",
+  "address": "日本、〒869-2612 熊本県阿蘇市一の宮町宮地４５１８−４",
+  "rating": 4.5,
+  "userRatingCount": 40,
+  "types": [
+   "restaurant",
+   "western_restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9380521,
+   "longitude": 131.10741629999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=10074025687721854840&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "ランチ",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJrzRoOgMmQTURlPZhYCQXjIw": {
+  "name": "trattoria La Luce",
+  "address": "日本、〒869-2612 熊本県阿蘇市一の宮町宮地１８５８",
+  "rating": 4.6,
+  "userRatingCount": 194,
+  "types": [
+   "italian_restaurant",
+   "european_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9495176,
+   "longitude": 131.1168813
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=10127495107052697236&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "カフェ",
+   "ランチ",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJVVVhaQMmQTURV1DqGpOoPqQ": {
+  "name": "山部商店食事処れん",
+  "address": "日本、〒869-2612 熊本県阿蘇市一の宮町宮地３１８４−２",
+  "rating": 4.8,
+  "userRatingCount": 64,
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9505464,
+   "longitude": 131.1161892
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=11835082220541464663&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "カフェ",
+   "ランチ",
+   "食堂",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJ1S9MkyknQTURhqIVQsVFWbI": {
+  "name": "和み食堂",
+  "address": "日本、〒869-2612 熊本県阿蘇市一の宮町宮地４５４０−６",
+  "rating": 4.1,
+  "userRatingCount": 176,
+  "types": [
+   "japanese_izakaya_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9381111,
+   "longitude": 131.1111874
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=12851379725198008966&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "ランチ",
+   "食堂",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJ3Qi33agnQTURWJuguQs73z0": {
+  "name": "焼肉 やよい食堂",
+  "address": "日本、〒869-2612 熊本県阿蘇市一の宮町宮地３０７９",
+  "rating": 4,
+  "userRatingCount": 116,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9484774,
+   "longitude": 131.11703079999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=4458347077665069912&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "ランチ",
+   "食堂",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJ28ztOAMmQTURU3nNHHcTk-4": {
+  "name": "阿蘇はなびし",
+  "address": "日本、〒869-2612 熊本県阿蘇市一の宮町宮地1861番地",
+  "rating": 4.2,
+  "userRatingCount": 673,
+  "types": [
+   "restaurant",
+   "japanese_restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9493332,
+   "longitude": 131.1168692
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=17191105604908579155&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "ランチ",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJfzrBXqsoQTURii33WtErnlc": {
+  "name": "青空食堂",
+  "address": "日本、〒869-2612 熊本県阿蘇市一の宮町宮地５３８−１ 四季彩いちのみや内",
+  "rating": 4.2,
+  "userRatingCount": 255,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9539849,
+   "longitude": 131.124368
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=6313531905794321802&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "ランチ",
+   "食堂",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJAZ0IXPAnQTUR-9yN9-y2rbQ": {
+  "name": "マサラキッチン ASO SPICE CURRY MASALA KITCHEN",
+  "address": "日本、〒869-2612 熊本県阿蘇市一の宮町宮地１８６９−２ １０２",
+  "rating": 4.6,
+  "userRatingCount": 99,
+  "types": [
+   "restaurant",
+   "japanese_curry_restaurant",
+   "japanese_restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9486025,
+   "longitude": 131.11724479999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=13019263226679778555&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJ3d50bPInQTURHm_qF9r5PuE": {
+  "name": "あか牛丼専門店 ごとう屋 門前町店",
+  "address": "日本、〒869-2612 熊本県阿蘇市一の宮町宮地３０７５−１",
+  "rating": 4.2,
+  "userRatingCount": 583,
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9484304,
+   "longitude": 131.1171444
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=16230684822189272862&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "食堂",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJi6iXMSAmQTUR0xW8jpdAbKQ": {
+  "name": "まかない家MATSU(予約不可)",
+  "address": "日本、〒869-2612 熊本県阿蘇市一の宮町宮地２３１１−５",
+  "rating": 4.2,
+  "userRatingCount": 286,
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.938077,
+   "longitude": 131.11786999999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=11847915739383862739&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "ランチ",
+   "食堂"
+  ]
+ },
+ "ChIJITtALgMmQTURs1HWbqEK_5s": {
+  "name": "まーぼー",
+  "address": "日本、〒869-2612 熊本県阿蘇市一の宮町宮地１８７０−１",
+  "rating": 4.5,
+  "userRatingCount": 559,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9488737,
+   "longitude": 131.11717840000003
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=11240714883405599155&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJD6e85P8mQTURXwEslJl77lU": {
+  "name": "コーヒープラザイースト／ヒガシ写真場",
+  "address": "日本、〒869-2225 熊本県阿蘇市黒川１５６１",
+  "rating": 4.4,
+  "userRatingCount": 487,
+  "types": [
+   "restaurant",
+   "coffee_shop",
+   "cafe",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "service",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9359059,
+   "longitude": 131.0790781
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=6192022437227135327&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "ランチ",
+   "食堂"
+  ]
+ },
+ "ChIJsfCnqlomQTUR8mT6hesrqcc": {
+  "name": "olmo coppia",
+  "address": "日本、〒869-2224 熊本県阿蘇市蔵原６２７−１",
+  "rating": 4.7,
+  "userRatingCount": 211,
+  "types": [
+   "western_restaurant",
+   "coffee_shop",
+   "cafe",
+   "food_store",
+   "store",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.940683299999996,
+   "longitude": 131.08972219999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=14387078775176848626&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "ランチ"
+  ]
+ },
+ "ChIJ0XSsqPsnQTUR87pqL_hml-I": {
+  "name": "親子で営む阿蘇のおでんと酒処（Izakaya (Japanese pub)）おでんDining KeiBon",
+  "address": "日本、〒869-2301 熊本県阿蘇市内牧２４０−５",
+  "rating": 4.8,
+  "userRatingCount": 56,
+  "types": [
+   "japanese_izakaya_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.975282199999995,
+   "longitude": 131.0400486
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=16327632190188468979&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJu9s6uSEmQTURaXJMfWRKlsE": {
+  "name": "こすぎ",
+  "address": "日本、〒869-2612 熊本県阿蘇市一の宮町宮地２３１４",
+  "rating": 4.5,
+  "userRatingCount": 63,
+  "types": [
+   "yakiniku_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.937892,
+   "longitude": 131.1168851
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=13949418691286037097&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン"
+  ]
+ },
+ "ChIJKR0-qFomQTURVQReiAsPmZ0": {
+  "name": "隠れ茶房 茶蔵 (さくら)",
+  "address": "日本、〒869-2224 熊本県阿蘇市蔵原６２５−１",
+  "rating": 4.2,
+  "userRatingCount": 382,
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9410313,
+   "longitude": 131.08922719999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=11356124477598336085&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "カフェ",
+   "ランチ"
+  ]
+ },
+ "ChIJnyigZaMoQTURJwxJXt40ZE4": {
+  "name": "なごみ野",
+  "address": "日本、〒869-2611 熊本県阿蘇市一の宮町坂梨５６９−７",
+  "rating": 4.5,
+  "userRatingCount": 137,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9387494,
+   "longitude": 131.1283841
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=5648697962298674215&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJa8h7-0whQTURprzyWQBprS0": {
+  "name": "おーくら亭",
+  "address": "日本、〒869-2307 熊本県阿蘇市小里９４−３",
+  "rating": 4.6,
+  "userRatingCount": 132,
+  "types": [
+   "japanese_izakaya_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9776889,
+   "longitude": 131.0373646
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=3291402352907697318&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "ランチ",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJ89cpZLMmQTUR_5_Q0UfaGis": {
+  "name": "DINING SOL",
+  "address": "日本、〒869-2301 熊本県阿蘇市内牧",
+  "rating": 4.3,
+  "userRatingCount": 70,
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9744595,
+   "longitude": 131.0409779
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=3106034895023022079&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン"
+  ]
+ },
+ "ChIJDRbYOesnQTUR0tIvgtnHCEQ": {
+  "name": "食堂すぴいかん。",
+  "address": "日本、〒869-2301 熊本県阿蘇市内牧１１２",
+  "rating": 4.4,
+  "userRatingCount": 168,
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9743278,
+   "longitude": 131.0432463
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=4902387931398787794&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "ランチ",
+   "食堂",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJy3_ERAAnQTURe2eWpQTXGQg": {
+  "name": "鉄板 虎次",
+  "address": "日本、〒869-2301 熊本県阿蘇市内牧２１８−６",
+  "rating": 4.8,
+  "userRatingCount": 45,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9746156,
+   "longitude": 131.04103999999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=583734041679128443&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン"
+  ]
+ },
+ "ChIJY7zcEIkhQTURFsz_VqXB9bg": {
+  "name": "ごはん屋OKAGE",
+  "address": "日本、〒869-2612 熊本県阿蘇市永草２５６７ Garden A号 5UD",
+  "rating": 4.1,
+  "userRatingCount": 221,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9349649,
+   "longitude": 131.0319785
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=13327771588146220054&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "ランチ",
+   "食堂",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJ-ci6q0whQTURW3UpLfIY2Nk": {
+  "name": "お食事処 いまきん食堂",
+  "address": "日本、〒869-2301 熊本県阿蘇市内牧290−３６５",
+  "rating": 4.3,
+  "userRatingCount": 3588,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9749614,
+   "longitude": 131.0392853
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=15697323929618707803&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "食堂",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJA1riCLMmQTURMfEG6JLnEyo": {
+  "name": "和楽 わらく",
+  "address": "日本、〒869-2301 熊本県阿蘇市内牧２５５−１２",
+  "rating": 4.3,
+  "userRatingCount": 98,
+  "types": [
+   "japanese_izakaya_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.975360099999996,
+   "longitude": 131.04172610000003
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=3032021592294486321&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン"
+  ]
+ },
+ "ChIJsx_IKGIhQTURXFRAFzxYymM": {
+  "name": "レストラン北山",
+  "address": "日本、〒869-2304 熊本県阿蘇市西湯浦１４５２−８８５",
+  "rating": 4.1,
+  "userRatingCount": 902,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9969418,
+   "longitude": 131.01387789999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=7190656770161792092&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "ランチ"
+  ]
+ },
+ "ChIJq6qqqrMmQTURMFULdlRwOZI": {
+  "name": "ひろ勝",
+  "address": "日本、〒869-2301 熊本県阿蘇市内牧１０９",
+  "rating": 4.4,
+  "userRatingCount": 53,
+  "types": [
+   "japanese_izakaya_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9748561,
+   "longitude": 131.0431442
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=10536576311270004016&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "食堂"
+  ]
+ },
+ "ChIJy0PMbAAxQTURV5BeZcA5uUY": {
+  "name": "NOMU",
+  "address": "日本、〒869-2402 熊本県阿蘇郡南小国町満願寺６６０４",
+  "rating": 5,
+  "userRatingCount": 33,
+  "types": [
+   "japanese_restaurant",
+   "bar",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.0777022,
+   "longitude": 131.14089909999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=5096167951843627095&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "カフェ",
+   "ランチ",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJ8RTKaQ4xQTURd0BYCfMlW6s": {
+  "name": "食彩 花あかり",
+  "address": "日本、〒869-2402 熊本県阿蘇郡南小国町満願寺６４７５−１３",
+  "rating": 4.7,
+  "userRatingCount": 172,
+  "types": [
+   "western_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.0717527,
+   "longitude": 131.1517198
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=12347504529130406007&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "カフェ",
+   "ランチ",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJv46gpjkxQTURw3fnsKw1Tnc": {
+  "name": "褐~aka~",
+  "address": "日本、〒869-2402 熊本県阿蘇郡南小国町満願寺６７３３−１ Au Kurokawa A 3",
+  "rating": 4.7,
+  "userRatingCount": 46,
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.079060399999996,
+   "longitude": 131.1385545
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=8596867754515462083&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "カフェ"
+  ]
+ },
+ "ChIJLy5HUgQxQTURpVSy9OjBHeM": {
+  "name": "豚皇",
+  "address": "日本、〒869-2402 熊本県阿蘇郡南小国町満願寺６７３３−１ Au Kurokawa内",
+  "rating": 4.7,
+  "userRatingCount": 56,
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.0789808,
+   "longitude": 131.13832879999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=16365449827216151717&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "カフェ"
+  ]
+ },
+ "ChIJoTtVuOowQTURJ38O-31eQN4": {
+  "name": "いろり家",
+  "address": "日本、〒869-2402 熊本県阿蘇郡南小国町満願寺６６９４",
+  "rating": 4.3,
+  "userRatingCount": 109,
+  "types": [
+   "japanese_izakaya_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.0781924,
+   "longitude": 131.1410611
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=16014904170105437991&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJRbXIZoUwQTURW_v6NkH1oPI": {
+  "name": "お食事処 禪墅（ぜんや）",
+  "address": "日本、〒869-2402 熊本県阿蘇郡南小国町満願寺５９３９",
+  "rating": 4.9,
+  "userRatingCount": 261,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.073015999999996,
+   "longitude": 131.129719
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=17483243413896362843&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "ランチ",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJ_3LEPDgxQTURFvrKUeqrVsI": {
+  "name": "黒川温泉 予祝 よしゅく",
+  "address": "日本、〒869-2402 熊本県阿蘇郡南小国町満願寺６６００−１ 2階",
+  "rating": 4.6,
+  "userRatingCount": 52,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.0772572,
+   "longitude": 131.1415125
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=14003569114238089750&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "カフェ",
+   "ランチ"
+  ]
+ },
+ "ChIJhVRBpuswQTURLb1Nsf2u7Lg": {
+  "name": "わろく屋",
+  "address": "日本、〒869-2402 熊本県阿蘇郡南小国町満願寺６６００−１",
+  "rating": 4.1,
+  "userRatingCount": 261,
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.0772788,
+   "longitude": 131.1414713
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=13325217802107075885&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "ランチ",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJC1D1Z-owQTURpDHkimUWqDo": {
+  "name": "すみよし食堂",
+  "address": "日本、〒869-2402 熊本県阿蘇郡南小国町満願寺６６０３",
+  "rating": 3.9,
+  "userRatingCount": 186,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.0776089,
+   "longitude": 131.1408834
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=4226652875664929188&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "ランチ",
+   "食堂",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJc03cgWU6QTUR7FVOhgzqcGQ": {
+  "name": "ピッツェリア トレパッソ",
+  "address": "日本、〒869-2402 熊本県阿蘇郡南小国町満願寺７９１０−１",
+  "rating": 4.3,
+  "userRatingCount": 670,
+  "types": [
+   "italian_restaurant",
+   "pizza_restaurant",
+   "european_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.083207699999996,
+   "longitude": 131.1076039
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=7237541940698174956&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "ランチ"
+  ]
+ },
+ "ChIJyZfr2ZQwQTURvIeOEFRi4ns": {
+  "name": "｢山のいぶき｣自然薯料理やまたけ",
+  "address": "日本、〒869-2402 熊本県阿蘇郡南小国町満願寺６９９４",
+  "rating": 4.2,
+  "userRatingCount": 446,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.077238099999995,
+   "longitude": 131.1395485
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=8926805524596295612&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "ランチ",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJVR7Xn5IxQTUR0sAfzmIIdsI": {
+  "name": "憩い家 楽庵",
+  "address": "日本、〒869-2402 熊本県阿蘇郡南小国町満願寺7058‐9",
+  "rating": 4.8,
+  "userRatingCount": 141,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.0768657,
+   "longitude": 131.1264225
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=14012396511067881682&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "ランチ",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJw6unjJkwQTURtyCmzF4UL1E": {
+  "name": "辻の茶屋",
+  "address": "日本、〒869-2402 熊本県阿蘇郡南小国町満願寺",
+  "rating": 4.4,
+  "userRatingCount": 181,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.0797331,
+   "longitude": 131.1287657
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=5849916838370484407&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "レストラン",
+   "ランチ",
+   "食堂",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJsw0ZwIHZQDUR9Fu6F7R3Pm4": {
+  "name": "草千里珈琲焙煎所",
+  "address": "日本、〒869-2231 熊本県阿蘇市永草２３９１−１５",
+  "rating": 4.2,
+  "userRatingCount": 880,
+  "types": [
+   "coffee_shop",
+   "cafe",
+   "food_store",
+   "store",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.8860479,
+   "longitude": 131.0543251
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=7943918408104041460&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJo8RyAPzZQDURjFCdBIY1cJM": {
+  "name": "cafe & shop GRASS LAND",
+  "address": "日本、〒869-2232 熊本県阿蘇市赤水１９３０−１ 阿蘇火山博物館内",
+  "rating": 4.1,
+  "userRatingCount": 103,
+  "types": [
+   "cafe",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.885419299999995,
+   "longitude": 131.05220459999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=10624050370686308492&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJnT5LrGgnQTURYx84PSe37Ws": {
+  "name": "aso coffee shop",
+  "address": "日本、〒869-2222 熊本県阿蘇市西町３７",
+  "rating": 4.9,
+  "userRatingCount": 165,
+  "types": [
+   "coffee_shop",
+   "cafe",
+   "food_store",
+   "store",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9381303,
+   "longitude": 131.1010099
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=7777073510697410403&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJPy5bfQAnQTURWe3ACJjbgCY": {
+  "name": "Pon de Cherry",
+  "address": "日本、〒869-2226 熊本県阿蘇市乙姫２１３８−１１",
+  "rating": 4.5,
+  "userRatingCount": 30,
+  "types": [
+   "cafe",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.926891399999995,
+   "longitude": 131.04094519999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=2774458816488598873&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJ-3sVL_AnQTURNXjShPo6nlw": {
+  "name": "AIÜEO",
+  "address": "日本、〒869-2612 熊本県阿蘇市一の宮町宮地字小堀５９１１−１",
+  "rating": 4.8,
+  "userRatingCount": 48,
+  "types": [
+   "cafe",
+   "bar",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9314232,
+   "longitude": 131.1091529
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=6673836545454274613&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJa4s-XKQnQTURsg7SHK80B3Q": {
+  "name": "マルカケコーヒー",
+  "address": "日本、〒869-2612 熊本県阿蘇市一の宮町宮地１８６３−４",
+  "rating": 4.7,
+  "userRatingCount": 27,
+  "types": [
+   "cafeteria",
+   "cafe",
+   "meal_takeaway",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9488756,
+   "longitude": 131.11683539999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=8360709159944064690&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ",
+   "ランチ"
+  ]
+ },
+ "ChIJGX2IGrcnQTURtgyvOttMqN8": {
+  "name": "Yamakaze 岳風",
+  "address": "日本、〒869-2612 熊本県阿蘇市一の宮町宮地３０８０",
+  "rating": 4.7,
+  "userRatingCount": 53,
+  "types": [
+   "hamburger_restaurant",
+   "american_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.948496,
+   "longitude": 131.11696709999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=16116215771011419318&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ",
+   "ランチ"
+  ]
+ },
+ "ChIJv4m4VGMnQTURxrHO0BZl_Z0": {
+  "name": "ZeroCafe",
+  "address": "日本、〒869-2612 熊本県阿蘇市一の宮町宮地 宮園3054-27",
+  "rating": 4.7,
+  "userRatingCount": 50,
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9465007,
+   "longitude": 131.1164326
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=11384366581729374662&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJkaBpnQMmQTURA6aYd_TXLDU": {
+  "name": "ティアンティアン",
+  "address": "日本、〒869-2612 熊本県阿蘇市一の宮町宮地３２０４",
+  "rating": 4.1,
+  "userRatingCount": 157,
+  "types": [
+   "cafe",
+   "coffee_shop",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9514983,
+   "longitude": 131.1157552
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=3831674827963934211&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJC_jTG_cnQTURi6co1dyMW7I": {
+  "name": "komeko",
+  "address": "日本、〒869-2612 熊本県阿蘇市一の宮町宮地３２０４",
+  "rating": 4.6,
+  "userRatingCount": 137,
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.951540099999995,
+   "longitude": 131.1158604
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=12852020841728747403&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJVwpgUAAnQTURWiDOrKa3Vuw": {
+  "name": "cafe ta-ta D plus",
+  "address": "日本、〒869-2221 熊本県阿蘇市役犬原４０８−１",
+  "rating": 5,
+  "userRatingCount": 37,
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.951436199999996,
+   "longitude": 131.09655039999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=17030000967439753306&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJQ_5BzFwpQTURg7Qel1i26z8": {
+  "name": "More Than Pickles！",
+  "address": "日本、〒869-2611 熊本県阿蘇市一の宮町坂梨１４３５−１",
+  "rating": 4.5,
+  "userRatingCount": 41,
+  "types": [
+   "coffee_shop",
+   "cafe",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9389529,
+   "longitude": 131.1468304
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=4605975535525213315&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJhabs9zovQTURUyxNU3-b6Os": {
+  "name": "サンノポタリー（器と珈琲焙煎所）",
+  "address": "日本、〒869-2602 熊本県阿蘇市一の宮町三野８７０",
+  "rating": 4.8,
+  "userRatingCount": 155,
+  "types": [
+   "cafe",
+   "art_gallery",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9700708,
+   "longitude": 131.1429403
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=16999007764670655571&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJhV2DFQ0mQTURp4RKUsP-jsQ": {
+  "name": "ヒバリカフェ",
+  "address": "日本、〒869-2613 熊本県阿蘇市一の宮町中通640ｰ1 ひばり工房内",
+  "rating": 4.5,
+  "userRatingCount": 790,
+  "types": [
+   "cafe",
+   "hot_dog_restaurant",
+   "coffee_shop",
+   "cafeteria",
+   "american_restaurant",
+   "food_store",
+   "store",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9558353,
+   "longitude": 131.1017365
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=14163537992979481767&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJcZSieV4nQTURvDbiX22NyKc": {
+  "name": "COCON-coffee&candle-",
+  "address": "日本、〒869-2225 熊本県阿蘇市黒川１４１５−５",
+  "rating": 5,
+  "userRatingCount": 51,
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9350929,
+   "longitude": 131.05492479999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=12090068700575708860&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJGxtTTi0mQTURoI8QEWgqpzo": {
+  "name": "珈琲と紅茶 瑞季",
+  "address": "日本、〒869-2612 熊本県阿蘇市一の宮町宮地５９７７−７３",
+  "rating": 4.8,
+  "userRatingCount": 151,
+  "types": [
+   "cafe",
+   "coffee_shop",
+   "tea_house",
+   "food_store",
+   "store",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9236985,
+   "longitude": 131.1111784
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=4226393401761763232&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJBWAKY7omQTURr4QuAZJevPg": {
+  "name": "カフェ shop&café zen ( 喫茶店 スイーツ )",
+  "address": "日本、〒869-2301 熊本県阿蘇市内牧１２８７",
+  "rating": 4,
+  "userRatingCount": 83,
+  "types": [
+   "cafe",
+   "coffee_shop",
+   "food_store",
+   "store",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9723134,
+   "longitude": 131.04971469999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=17923304598205793455&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJzdTWJrkhQTURKZOG3fQNsD0": {
+  "name": "Rider’s Cafe TORQUE",
+  "address": "日本、〒869-2235 熊本県阿蘇市狩尾１３６０−２",
+  "rating": 4.6,
+  "userRatingCount": 101,
+  "types": [
+   "cafe",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.948472599999995,
+   "longitude": 131.0090242
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=4445068177554445097&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ",
+   "ランチ"
+  ]
+ },
+ "ChIJq7aMq0whQTUR9lgyTruVHnI": {
+  "name": "おしま屋KAGUカフェ",
+  "address": "日本、〒869-2301 熊本県阿蘇市内牧290−３６５",
+  "rating": 4.2,
+  "userRatingCount": 128,
+  "types": [
+   "cafe",
+   "coffee_shop",
+   "furniture_store",
+   "home_improvement_store",
+   "home_goods_store",
+   "food_store",
+   "store",
+   "point_of_interest",
+   "food",
+   "service",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9750677,
+   "longitude": 131.0391816
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=8223174601328449782&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJSd8ClEgkQTURK_2sBCdx4fw": {
+  "name": "阿蘇大観峰茶店",
+  "address": "日本、〒869-2313 熊本県阿蘇市山田２０９０−８",
+  "rating": 3.9,
+  "userRatingCount": 405,
+  "types": [
+   "cafe",
+   "japanese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9984533,
+   "longitude": 131.0706847
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=18221969979713846571&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJdWzdoI4hQTUR0-yyelXW9Do": {
+  "name": "人空間（ヒトクウカン）",
+  "address": "日本、〒869-2237 熊本県阿蘇市的石１０５７−３",
+  "rating": 4.8,
+  "userRatingCount": 33,
+  "types": [
+   "cafe",
+   "vegan_restaurant",
+   "vegetarian_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.932853,
+   "longitude": 130.99326159999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=4248256011136330963&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ",
+   "ランチ"
+  ]
+ },
+ "ChIJ1eAsuokxQTURyMusxB5Nak8": {
+  "name": "Hidamarinoie Cafe",
+  "address": "日本、〒869-2402 熊本県阿蘇郡南小国町満願寺",
+  "rating": 4.6,
+  "userRatingCount": 66,
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.077718499999996,
+   "longitude": 131.1420383
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=5722471071071652808&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJp8I7bgAxQTUREQ-w2ajdrFw": {
+  "name": "SLOW WALK CAFE",
+  "address": "日本、〒869-2402 熊本県阿蘇郡南小国町満願寺６６９５",
+  "rating": 4.9,
+  "userRatingCount": 69,
+  "types": [
+   "coffee_shop",
+   "cafe",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.0783463,
+   "longitude": 131.1406762
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=6677956064760041233&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJ5_Q4SwAxQTUReEdreT6pt0k": {
+  "name": "Au Pan & Coffee",
+  "address": "日本、〒869-2402 熊本県阿蘇郡南小国町満願寺６７３３−１ Au Kurokawa C棟 Au Pan & Coffee",
+  "rating": 4.5,
+  "userRatingCount": 152,
+  "types": [
+   "bakery",
+   "coffee_roastery",
+   "coffee_stand",
+   "cafe",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.0792909,
+   "longitude": 131.1378671
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=5311900371296929656&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJXWrF9T47QTURemVEHINDtE0": {
+  "name": "花カフェ",
+  "address": "日本、〒869-2401 熊本県阿蘇郡南小国町赤馬場４２７５",
+  "rating": 4.7,
+  "userRatingCount": 60,
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.0650304,
+   "longitude": 131.0678403
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=5599174467122390394&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJiQmsI1U6QTUR04UIDYUQzA8": {
+  "name": "森の時間",
+  "address": "日本、〒869-2401 熊本県阿蘇郡南小国町赤馬場２３４４",
+  "rating": 4.2,
+  "userRatingCount": 94,
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.086490999999995,
+   "longitude": 131.0809219
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=1138302969453250003&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ",
+   "ランチ"
+  ]
+ },
+ "ChIJT3Pbk0w7QTURAzBB1kCjT8w": {
+  "name": "ワンCAFFE",
+  "address": "日本、〒869-2402 熊本県阿蘇郡南小国町満願寺７２９５−２",
+  "rating": 4.9,
+  "userRatingCount": 149,
+  "types": [
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.0838885,
+   "longitude": 131.11665600000003
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=14722165205765271555&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJhVRBpuswQTURtIdW2O78d2o": {
+  "name": "白玉っ子甘味茶屋",
+  "address": "日本、〒869-2402 熊本県阿蘇郡南小国町満願寺６６００−２",
+  "rating": 3.9,
+  "userRatingCount": 209,
+  "types": [
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "japanese_restaurant",
+   "store",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.0772182,
+   "longitude": 131.1412514
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=7671878593010894772&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJ_18xdeI7QTUR0Yw6Etx69Qk": {
+  "name": "喫茶竹の熊",
+  "address": "日本、〒869-2401 熊本県阿蘇郡南小国町赤馬場２０８２",
+  "rating": 4.6,
+  "userRatingCount": 164,
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.0917169,
+   "longitude": 131.0766277
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=717614801252682961&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJ75yf7uowQTURUYthARgethQ": {
+  "name": "黒川温泉 湯音",
+  "address": "日本、〒869-2402 熊本県阿蘇郡南小国町満願寺６６０２",
+  "rating": 4.1,
+  "userRatingCount": 111,
+  "types": [
+   "coffee_shop",
+   "cafe",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.0775601,
+   "longitude": 131.1409262
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=1492413414971116369&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "カフェ"
+  ]
+ },
+ "ChIJo1QeKjYmQTURdsKwj367saE": {
+  "name": "もちとこ",
+  "address": "日本、〒869-2222 熊本県阿蘇市西町８８５",
+  "rating": 4.6,
+  "userRatingCount": 176,
+  "types": [
+   "cafe",
+   "coffee_shop",
+   "general_store",
+   "food_store",
+   "japanese_restaurant",
+   "store",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.933918,
+   "longitude": 131.099932
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=11651299863235183222&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "ランチ"
+  ]
+ },
+ "ChIJSd9ftxsnQTURbVqJOnAYSNQ": {
+  "name": "なか田~看板のない定食屋~",
+  "address": "日本、〒869-2225 熊本県阿蘇市黒川１３５１",
+  "rating": 4.4,
+  "userRatingCount": 361,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.933645999999996,
+   "longitude": 131.0723245
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=15296503004661373549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "ランチ",
+   "食堂",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJo4qcCAMnQTURZHPCRT42B1M": {
+  "name": "麺カフェ志",
+  "address": "日本、〒869-2225 熊本県阿蘇市黒川２１４０−４",
+  "rating": 4.5,
+  "userRatingCount": 155,
+  "types": [
+   "cafe",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9335403,
+   "longitude": 131.0685579
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=5982810271071236964&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "ランチ"
+  ]
+ },
+ "ChIJxbsimbkmQTURLIJGlA6m7_k": {
+  "name": "なぽれおん食堂",
+  "address": "日本、〒869-2301 熊本県阿蘇市内牧１０３９−２",
+  "rating": 3.9,
+  "userRatingCount": 276,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9683648,
+   "longitude": 131.0521595
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=18009796016425304620&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "ランチ",
+   "食堂"
+  ]
+ },
+ "ChIJvUdQqac7QTURfYlGBKV31iA": {
+  "name": "二八手打ちそば ゆみ田",
+  "address": "日本、〒869-2402 熊本県阿蘇郡南小国町満願寺７２３２",
+  "rating": 3.9,
+  "userRatingCount": 46,
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.0833891,
+   "longitude": 131.11727489999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=2366210204854815101&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "ランチ"
+  ]
+ },
+ "ChIJ6-iDuU8xQTUR_yzGbrOKF2Y": {
+  "name": "八菜家",
+  "address": "日本、〒869-2402 熊本県阿蘇郡南小国町満願寺 字瀬の本5621-55",
+  "rating": 4.1,
+  "userRatingCount": 492,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.0706138,
+   "longitude": 131.1889069
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=7356501019595255039&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "ランチ",
+   "食堂",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJA_YvLkw6QTURicn51zY1yTg": {
+  "name": "あっぷるみんとハーブ農園・自然食レストラン 風のもり",
+  "address": "日本、〒869-2401 熊本県阿蘇郡阿蘇郡南小国町満願寺３１２",
+  "rating": 4.5,
+  "userRatingCount": 125,
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.094986999999996,
+   "longitude": 131.084418
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=4091860246110783881&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "ランチ"
+  ]
+ },
+ "ChIJ9wh99Qg7QTURL-bd8EJndxY": {
+  "name": "レストラン プチトマト",
+  "address": "日本、〒869-2401 熊本県阿蘇郡南小国町赤馬場３２３０−１",
+  "rating": 4.6,
+  "userRatingCount": 154,
+  "types": [
+   "italian_restaurant",
+   "european_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.0869751,
+   "longitude": 131.0686146
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=1618876128269559343&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "ランチ"
+  ]
+ },
+ "ChIJ9TvSQcUhQTURqOL8b-XnP28": {
+  "name": "葵食堂",
+  "address": "日本、〒869-2231 熊本県阿蘇市永草２６５９−１",
+  "rating": 4,
+  "userRatingCount": 98,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9348575,
+   "longitude": 131.0313948
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=8016380834355143336&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "食堂"
+  ]
+ },
+ "ChIJEYOPLAAnQTURnjdtjI2QR70": {
+  "name": "お食事処 伸",
+  "address": "日本、〒869-2301 熊本県阿蘇市内牧２４４",
+  "rating": 4.6,
+  "userRatingCount": 59,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9749469,
+   "longitude": 131.04019820000002
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=13639028934135592862&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "食堂",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJs_6RsSovQTURyZHbj0bTIwI": {
+  "name": "お食事処 峠",
+  "address": "日本、〒869-2611 熊本県阿蘇市一の宮町坂梨４０２９",
+  "rating": 4.3,
+  "userRatingCount": 240,
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9416169,
+   "longitude": 131.1596319
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=154199112275431881&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "食堂",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJ18YR-B8mQTURtFL8c9IXU60": {
+  "name": "来来",
+  "address": "日本、〒869-2612 熊本県阿蘇市一の宮町宮地２２７４",
+  "rating": 3.9,
+  "userRatingCount": 97,
+  "types": [
+   "ramen_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.938105,
+   "longitude": 131.1194964
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=12489352384285004468&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "食堂"
+  ]
+ },
+ "ChIJUbI-dVUmQTURxlsfWzmyOJ0": {
+  "name": "坊中亭",
+  "address": "日本、〒869-2225 熊本県阿蘇市黒川１４４０",
+  "rating": 3.9,
+  "userRatingCount": 141,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.937250999999996,
+   "longitude": 131.08030589999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=11329000822062144454&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "食堂"
+  ]
+ },
+ "ChIJ0d2ezxslQTURqUS6-AsBXwk": {
+  "name": "阿蘇大観峰売店",
+  "address": "日本、〒869-2313 熊本県阿蘇市山田２０９０−１",
+  "rating": 3.9,
+  "userRatingCount": 72,
+  "types": [
+   "fast_food_restaurant",
+   "barbecue_restaurant",
+   "store",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9983922,
+   "longitude": 131.0707174
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=675259620058088617&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "食堂",
+   "名物 グルメ"
+  ]
+ },
+ "ChIJMdwKJ7A7QTURYDKUn326mZY": {
+  "name": "ふれあい食堂",
+  "address": "日本、〒869-2401 熊本県阿蘇郡南小国町赤馬場１４２−１",
+  "rating": 4.2,
+  "userRatingCount": 50,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.0977842,
+   "longitude": 131.0714023
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=10851909825836888672&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "食堂"
+  ]
+ },
+ "ChIJJcno_E4xQTURklVGjXBRjwQ": {
+  "name": "せのもと茶屋",
+  "address": "日本、〒869-2402 熊本県阿蘇郡南小国町満願寺５６２１−４９",
+  "rating": 4.1,
+  "userRatingCount": 279,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.0724079,
+   "longitude": 131.1871654
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=328570841669719442&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "食堂"
+  ]
+ },
+ "ChIJIVFbxqw7QTURdsP8ZpkOGdw": {
+  "name": "田舎料理四季の里比良",
+  "address": "日本、〒869-2402 熊本県阿蘇郡南小国町満願寺50",
+  "rating": 4.3,
+  "userRatingCount": 56,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.0912952,
+   "longitude": 131.0789943
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=15859723614782538614&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "食堂"
+  ]
+ },
+ "ChIJGZR0sQQnQTUREXaBz3-22PQ": {
+  "name": "山賊旅路",
+  "address": "日本、〒869-2225 熊本県阿蘇市黒川２１２７",
+  "rating": 4.2,
+  "userRatingCount": 1200,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9336062,
+   "longitude": 131.07008679999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=17643052200282387985&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "名物 グルメ"
+  ]
+ },
+ "ChIJAQAEU7MmQTURx-jqO-Ltt7I": {
+  "name": "めしのやまいち",
+  "address": "日本、〒869-2301 熊本県阿蘇市内牧２３５",
+  "rating": 4.5,
+  "userRatingCount": 733,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9750637,
+   "longitude": 131.0395015
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=12878023215412865223&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "名物 グルメ"
+  ]
+ },
+ "ChIJcRD324IgQTUR_NnCZcOsrbI": {
+  "name": "あそ路",
+  "address": "日本、〒869-2237 熊本県阿蘇市的石１４７６−１",
+  "rating": 4.2,
+  "userRatingCount": 1067,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9281206,
+   "longitude": 131.0081247
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=12875136864947984892&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "名物 グルメ"
+  ]
+ },
+ "ChIJnfy2-zQnQTURf5-Q9xoyPXw": {
+  "name": "ひめ路",
+  "address": "日本、〒869-2226 熊本県阿蘇市乙姫１７３２−１",
+  "rating": 4,
+  "userRatingCount": 528,
+  "types": [
+   "japanese_restaurant",
+   "noodle_shop",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9344804,
+   "longitude": 131.04147450000002
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=8952366725686402943&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "名物 グルメ"
+  ]
+ },
+ "ChIJz1Mv3ncnQTURFMdZY264xwA": {
+  "name": "あか牛丼専門店 ごとう屋阿蘇店",
+  "address": "日本、〒869-2225 熊本県阿蘇市黒川１４−３",
+  "rating": 4.3,
+  "userRatingCount": 684,
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9340658,
+   "longitude": 131.0664043
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=56216304618161940&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "名物 グルメ"
+  ]
+ },
+ "ChIJF0y78y0nQTUR0jj8pxGpxY0": {
+  "name": "らーめんのくろかわ",
+  "address": "日本、〒869-2612 熊本県阿蘇市一の宮町宮地１８４８−４",
+  "rating": 4.7,
+  "userRatingCount": 368,
+  "types": [
+   "ramen_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9501679,
+   "longitude": 131.1180027
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=10215757223057701074&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "名物 グルメ"
+  ]
+ },
+ "ChIJkaBpnQMmQTURepbmE-Y0fwY": {
+  "name": "かんざらしの店 結",
+  "address": "日本、〒869-2612 熊本県阿蘇市一の宮町宮地３２０４",
+  "rating": 4.3,
+  "userRatingCount": 263,
+  "types": [
+   "snack_bar",
+   "meal_takeaway",
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "japanese_restaurant",
+   "store",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9514814,
+   "longitude": 131.1160421
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=468151049050822266&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "名物 グルメ"
+  ]
+ },
+ "ChIJY1hrMgAhQTURzJttjgdX9yY": {
+  "name": "あか牛丼専門店 ごとう屋 総本店",
+  "address": "日本、〒869-2301 熊本県阿蘇市内牧３９７−１",
+  "rating": 4.5,
+  "userRatingCount": 135,
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.9732804,
+   "longitude": 131.03588109999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=2807808582654729164&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "名物 グルメ"
+  ]
+ },
+ "ChIJcX-wFaUmQTURsUJCnhBh_dI": {
+  "name": "ASO MILK FACTORY",
+  "address": "日本、〒869-2307 熊本県阿蘇市小里７８１",
+  "rating": 3.9,
+  "userRatingCount": 2129,
+  "types": [
+   "cafeteria",
+   "confectionery",
+   "food_store",
+   "store",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 32.976074800000006,
+   "longitude": 131.051105
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=15203414641075176113&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "名物 グルメ"
+  ]
+ },
+ "ChIJg05g25QwQTUR3RZTzOSqjS8": {
+  "name": "そば屋 沙羅",
+  "address": "日本、〒869-2402 熊本県阿蘇郡南小国町満願寺７１８８",
+  "rating": 4.4,
+  "userRatingCount": 737,
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.082116,
+   "longitude": 131.120254
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=3426582791156078301&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "名物 グルメ"
+  ]
+ },
+ "ChIJ-5y4keowQTURr7iXIhCtQRw": {
+  "name": "どらどら",
+  "address": "日本、〒869-2402 熊本県阿蘇郡南小国町満願寺 北黒川６６１２−２",
+  "rating": 4.2,
+  "userRatingCount": 148,
+  "types": [
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "japanese_restaurant",
+   "store",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.0781273,
+   "longitude": 131.1409684
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=2036098791359625391&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "名物 グルメ"
+  ]
+ }
+}
