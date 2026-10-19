@@ -22,8 +22,8 @@ OUT_PATH = os.environ.get("ADD_RESTAURANT_CANDIDATES_PATH", f"{SB}/candidates.js
 MIN_RATING = 4.0
 MIN_REVIEWS = 15
 
-AREAS = {'神岡': (24.256, 120.662)}
-QUERIES = {'神岡': ['神岡 餐廳', '神岡 早午餐', '神岡 日式料理', '神岡 義式料理', '神岡 燒烤', '神岡 火鍋', '神岡 甜點', '神岡 咖啡廳', '神岡 韓式料理', '神岡 熱炒', '神岡 小吃', '神岡 中山路 美食']}
+AREAS = {'大肚': (24.153, 120.541)}
+QUERIES = {'大肚': ['大肚 餐廳', '大肚 早午餐', '大肚 日式料理', '大肚 義式料理', '大肚 燒烤', '大肚 火鍋', '大肚 甜點', '大肚 咖啡廳', '大肚 韓式料理', '大肚 熱炒', '大肚 小吃', '大肚 沙田路 美食']}
 
 # area_label -> substring(s) that MUST appear in a candidate's real
 # formattedAddress for it to be kept under that label. locationBias only

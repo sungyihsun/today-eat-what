@@ -1,8 +1,8 @@
 {
  "_note": "台中全區補完排程的狀態檔。規則見 .claude/skills/add-restaurant/TAICHUNG_SWEEP.md。",
  "in_progress": {
-  "district": "神岡",
-  "started_at": "2026-10-19T09:39:52Z"
+  "district": "大肚",
+  "started_at": "2026-10-19T09:43:23Z"
  },
  "done": {
   "西區": {
@@ -144,6 +144,14 @@
    "finished_at": "2026-10-19T09:28:24Z",
    "sync_verified": true,
    "prd_promoted": true
+  },
+  "神岡": {
+   "area": "神岡",
+   "count": 26,
+   "qas_commit": "a6fee7c6f57521f3fba24fc5916c0d18a10ac35a",
+   "finished_at": "2026-10-19T09:43:23Z",
+   "sync_verified": true,
+   "prd_promoted": true
   }
  },
  "skipped": {
@@ -174,19 +182,6 @@
   }
  },
  "queue": [
-  {
-   "area": "神岡",
-   "label": "神岡",
-   "slug": "shengang",
-   "center": [
-    24.256,
-    120.662
-   ],
-   "landmarks": [
-    "神岡 中山路 美食"
-   ],
-   "population_approx": 65000
-  },
   {
    "area": "大肚",
    "label": "大肚",
