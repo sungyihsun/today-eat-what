@@ -1,9 +1,6 @@
 {
  "_note": "台中全區補完排程的狀態檔。規則見 .claude/skills/add-restaurant/TAICHUNG_SWEEP.md。",
- "in_progress": {
-  "district": "太平",
-  "started_at": "2026-10-19T07:51:57Z"
- },
+ "in_progress": null,
  "done": {
   "西區": {
    "count": 20,
@@ -64,6 +61,14 @@
    "finished_at": "2026-10-19T07:51:57Z",
    "sync_verified": true,
    "prd_promoted": true
+  },
+  "太平": {
+   "area": "太平",
+   "count": 30,
+   "qas_commit": "8cd468ae5f80bd5bab7296f5b0730b4dd569b49b",
+   "finished_at": "2026-10-19T07:55:38Z",
+   "sync_verified": true,
+   "prd_promoted": true
   }
  },
  "skipped": {
@@ -94,20 +99,6 @@
   }
  },
  "queue": [
-  {
-   "area": "太平",
-   "label": "太平",
-   "slug": "taiping",
-   "center": [
-    24.126,
-    120.718
-   ],
-   "landmarks": [
-    "太平老街 美食",
-    "太平 中興路 美食"
-   ],
-   "population_approx": 195000
-  },
   {
    "area": "潭子",
    "label": "潭子",
