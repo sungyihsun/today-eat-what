@@ -117,8 +117,8 @@
   "types": [
    "taiwanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "清水"
@@ -138,8 +138,8 @@
   "types": [
    "korean_restaurant",
    "family_restaurant",
-   "snack_bar",
    "meal_delivery",
+   "snack_bar",
    "meal_takeaway",
    "food_delivery",
    "restaurant",
@@ -187,8 +187,8 @@
    "italian_restaurant",
    "european_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "清水"
@@ -229,8 +229,8 @@
    "italian_restaurant",
    "european_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "清水"
@@ -291,12 +291,12 @@
   "types": [
    "taiwanese_restaurant",
    "asian_restaurant",
+   "chinese_restaurant",
    "deli",
    "food_store",
-   "store",
-   "chinese_restaurant",
    "restaurant",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -318,8 +318,8 @@
    "coffee_shop",
    "cafe",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -359,8 +359,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "清水"
@@ -379,8 +379,8 @@
   },
   "types": [
    "asian_restaurant",
-   "noodle_shop",
    "chinese_restaurant",
+   "noodle_shop",
    "restaurant",
    "food",
    "point_of_interest",
@@ -621,9 +621,9 @@
    "dessert_shop",
    "confectionery",
    "food_store",
-   "store",
    "restaurant",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -979,8 +979,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "清水"
@@ -1057,8 +1057,8 @@
   "types": [
    "kebab_shop",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "清水"
@@ -1097,8 +1097,8 @@
   "types": [
    "kebab_shop",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "清水"
@@ -1117,8 +1117,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "清水"
@@ -1137,8 +1137,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "清水"
@@ -1158,8 +1158,8 @@
   "types": [
    "barbecue_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "清水"
@@ -1199,8 +1199,8 @@
    "bar_and_grill",
    "bar",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "清水"
@@ -1220,8 +1220,8 @@
   "types": [
    "barbecue_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "清水"
@@ -1240,8 +1240,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "清水"
@@ -1260,8 +1260,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "清水"
@@ -1281,8 +1281,8 @@
   "types": [
    "barbecue_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "清水"
@@ -1302,9 +1302,9 @@
   "types": [
    "deli",
    "food_store",
+   "food",
    "store",
    "point_of_interest",
-   "food",
    "establishment"
   ],
   "area_label": "清水"
@@ -1532,13 +1532,13 @@
   },
   "types": [
    "restaurant",
-   "hot_pot_restaurant",
    "taiwanese_restaurant",
    "snack_bar",
    "meal_takeaway",
+   "hot_pot_restaurant",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -1580,8 +1580,8 @@
    "dessert_shop",
    "confectionery",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -1604,8 +1604,8 @@
    "confectionery",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "清水"
@@ -1626,8 +1626,8 @@
    "bakery",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "清水"
@@ -1650,8 +1650,8 @@
    "confectionery",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "清水"
@@ -1672,8 +1672,8 @@
    "bakery",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "清水"
@@ -1696,8 +1696,8 @@
    "confectionery",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "清水"
@@ -1719,13 +1719,13 @@
    "bakery",
    "dessert_shop",
    "confectionery",
-   "food_store",
-   "manufacturer",
-   "store",
    "wholesaler",
-   "service",
-   "point_of_interest",
+   "manufacturer",
+   "food_store",
+   "store",
    "food",
+   "point_of_interest",
+   "service",
    "establishment"
   ],
   "area_label": "清水"
@@ -1747,8 +1747,8 @@
    "coffee_roastery",
    "cafe",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -1773,8 +1773,8 @@
    "confectionery",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "清水"
@@ -1793,8 +1793,8 @@
   },
   "types": [
    "cafe",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "清水"
@@ -1813,14 +1813,14 @@
   },
   "types": [
    "bakery",
-   "gift_shop",
    "pastry_shop",
+   "gift_shop",
    "dessert_shop",
    "confectionery",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "清水"
@@ -1864,8 +1864,8 @@
    "confectionery",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "清水"
@@ -1889,8 +1889,8 @@
    "confectionery",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "清水"
@@ -1910,8 +1910,8 @@
   "types": [
    "dessert_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "清水"
@@ -1933,8 +1933,8 @@
    "bakery",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "清水"
@@ -1955,8 +1955,8 @@
    "coffee_shop",
    "cafe",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -2058,8 +2058,8 @@
    "coffee_shop",
    "cafe",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -2081,8 +2081,8 @@
    "coffee_shop",
    "cafe",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -2123,11 +2123,11 @@
   "types": [
    "cafe",
    "manufacturer",
-   "supplier",
-   "store",
    "restaurant",
    "food",
+   "store",
    "point_of_interest",
+   "supplier",
    "establishment"
   ],
   "area_label": "清水"
@@ -2148,8 +2148,8 @@
    "coffee_shop",
    "cafe",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -2190,8 +2190,8 @@
   "types": [
    "meal_takeaway",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "清水"
@@ -2502,8 +2502,8 @@
   "types": [
    "chinese_noodle_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "清水"
@@ -2523,8 +2523,8 @@
   "types": [
    "taiwanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "清水"
@@ -2545,8 +2545,8 @@
    "deli",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "清水"
@@ -2567,8 +2567,8 @@
    "deli",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "清水"
@@ -2611,8 +2611,8 @@
    "deli",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "清水"
@@ -2633,8 +2633,8 @@
    "deli",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "清水"
@@ -2653,8 +2653,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "清水"
@@ -2695,8 +2695,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "清水"
@@ -2717,8 +2717,8 @@
    "snack_bar",
    "meal_takeaway",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "清水"
@@ -2740,8 +2740,8 @@
    "food_store",
    "store",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "清水"
@@ -2928,14 +2928,14 @@
   },
   "types": [
    "restaurant",
-   "chinese_noodle_restaurant",
    "dim_sum_restaurant",
-   "cantonese_restaurant",
    "tea_house",
-   "food_store",
-   "store",
+   "cantonese_restaurant",
+   "chinese_noodle_restaurant",
    "chinese_restaurant",
+   "food_store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -2956,8 +2956,8 @@
   "types": [
    "deli",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -2978,8 +2978,8 @@
   "types": [
    "deli",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -3059,8 +3059,8 @@
   "types": [
    "restaurant",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
