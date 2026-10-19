@@ -1,100 +1,58 @@
 {
- "11275453592583357666": {
-  "place_id": "ChIJz9VZRPA7aTQR4kRVc011epw",
-  "name": "霧峰春風滿麵",
-  "address": "413台灣臺中市霧峰區中正里四德路56號",
-  "rating": 4.7,
-  "userRatingCount": 212,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=11275453592583357666&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0653056,
-   "longitude": 120.69677670000002
-  },
-  "types": [
-   "chinese_noodle_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "3959527402652604367": {
-  "place_id": "ChIJL7D_Jlo7aTQRz5eIuTER8zY",
-  "name": "峰之饌複合式餐廳",
-  "address": "412台灣臺中市霧峰區本鄉里草湖路2號",
+ "256588191455789756": {
+  "place_id": "ChIJh7YmRwAbaTQRvEJIxZmVjwM",
+  "name": "家常飯朴老師 - 后里店 집밥박선생",
+  "address": "421台灣臺中市后里區后里里三豐路四段152號",
   "rating": 4.6,
-  "userRatingCount": 3038,
+  "userRatingCount": 914,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=3959527402652604367&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=256588191455789756&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.0680187,
-   "longitude": 120.69856519999999
+   "latitude": 24.3115706,
+   "longitude": 120.72321869999999
   },
   "types": [
-   "family_restaurant",
+   "korean_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "霧峰"
+  "area_label": "后里"
  },
- "12295488689281845735": {
-  "place_id": "ChIJH1S9n207aTQR50l6kNFZoqo",
-  "name": "囍联堂複合式餐廳",
-  "address": "41351台灣臺中市霧峰區中正里振興街28號",
+ "8300243929256899325": {
+  "place_id": "ChIJiw3I9KMaaTQR_TJziOBjMHM",
+  "name": "木野御丼食堂",
+  "address": "421台灣臺中市后里區厚里里甲后路一段740號",
   "rating": 4.9,
-  "userRatingCount": 1675,
+  "userRatingCount": 1965,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=12295488689281845735&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=8300243929256899325&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.0662532,
-   "longitude": 120.69721570000002
+   "latitude": 24.3094929,
+   "longitude": 120.719112
   },
   "types": [
-   "tea_house",
-   "chinese_restaurant",
+   "japanese_restaurant",
+   "tonkatsu_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "霧峰"
+  "area_label": "后里"
  },
- "9115245600630990443": {
-  "place_id": "ChIJ-57pDlo7aTQRa2YNQpTbf34",
-  "name": "糧-私房手作廚房",
-  "address": "413台灣臺中市霧峰區甲寅里民主街69號1樓",
-  "rating": 4.4,
-  "userRatingCount": 619,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=9115245600630990443&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "3084593490806828074": {
+  "place_id": "ChIJt8ey0lcbaTQRKuwF4G-tzio",
+  "name": "飯丸屋-台中后里店（公休日詳見IG）",
+  "address": "421台灣臺中市后里區墩西里公安路13號旁空地",
+  "rating": 5,
+  "userRatingCount": 42,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=3084593490806828074&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.0680826,
-   "longitude": 120.7000152
-  },
-  "types": [
-   "taiwanese_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "2975537658147461173": {
-  "place_id": "ChIJaWGmA1o7aTQRNVitKbw7Syk",
-  "name": "燒金爐Golden Stove Kitchen",
-  "address": "413台灣臺中市霧峰區甲寅里民主街59號",
-  "rating": 4.4,
-  "userRatingCount": 790,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=2975537658147461173&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.067857,
-   "longitude": 120.6999835
+   "latitude": 24.3037374,
+   "longitude": 120.7128597
   },
   "types": [
    "japanese_restaurant",
@@ -103,40 +61,210 @@
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "霧峰"
+  "area_label": "后里"
  },
- "17404204617854648387": {
-  "place_id": "ChIJ55f-cAA7aTQRQ4BwdeMniPE",
-  "name": "嚨麥北方館手路菜",
-  "address": "41359台灣臺中市霧峰區中正里振德街18號",
-  "rating": 4.8,
-  "userRatingCount": 92,
+ "2408580754765378367": {
+  "place_id": "ChIJL7EDBaQaaTQRP_OhbG__bCE",
+  "name": "膳禾軒私房料理溯源餐廳",
+  "address": "421台灣臺中市后里區厚里里成功路265巷11號",
+  "rating": 4.5,
+  "userRatingCount": 599,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=17404204617854648387&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=2408580754765378367&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.0659135,
-   "longitude": 120.69796989999999
+   "latitude": 24.3103556,
+   "longitude": 120.71835390000001
+  },
+  "types": [
+   "brunch_restaurant",
+   "taiwanese_restaurant",
+   "chinese_restaurant",
+   "food_store",
+   "store",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "16025275902816487755": {
+  "place_id": "ChIJRzSi3Z8aaTQRSwkBL4c3Zd4",
+  "name": "汶萊咖啡&家庭美食",
+  "address": "421台灣臺中市后里區墩西里四村路51號",
+  "rating": 4.5,
+  "userRatingCount": 176,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=16025275902816487755&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3042378,
+   "longitude": 120.712464
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "17534892575338989292": {
+  "place_id": "ChIJxWFSPWobaTQR7Aa3t-RzWPM",
+  "name": "汍樂滿盛燒肉丼 后里店",
+  "address": "421台灣臺中市后里區墩東里文明路22號1樓",
+  "rating": 4.8,
+  "userRatingCount": 1107,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=17534892575338989292&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3062756,
+   "longitude": 120.7214537
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "11519412710391027849": {
+  "place_id": "ChIJEcLne38baTQRiRj639Ms3Z8",
+  "name": "バイク牛丼専売-后里必買 丼飯 日式 辣椒醬 伴手禮 醬料 過節送禮 辣椒 胡麻醬 獨門 手工 特製 自製 首選 外帶 XO醬 紅油炒手 手作雞肉餅",
+  "address": "421台灣臺中市后里區民生路224號",
+  "rating": 4.8,
+  "userRatingCount": 25,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=11519412710391027849&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3063428,
+   "longitude": 120.7137876
+  },
+  "types": [
+   "japanese_restaurant",
+   "supplier",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "14731060541135107788": {
+  "place_id": "ChIJEbJaBGAbaTQRzLYhf4M9b8w",
+  "name": "牧釜燒 后里總店",
+  "address": "421台灣臺中市后里區墩東里成功路586號",
+  "rating": 4.3,
+  "userRatingCount": 860,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=14731060541135107788&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.304026999999998,
+   "longitude": 120.7174922
+  },
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "8227126913937929393": {
+  "place_id": "ChIJO3VY1FkRaTQRsXRTy1agLHI",
+  "name": "時時香RICE BAR_台中麗寶店",
+  "address": "421台灣臺中市后里區福容路201號B區1樓",
+  "rating": 4.6,
+  "userRatingCount": 1614,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=8227126913937929393&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3254405,
+   "longitude": 120.7007367
   },
   "types": [
    "chinese_restaurant",
    "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "8117856177143752101": {
+  "place_id": "ChIJtSvMLWIbaTQRpSVd0C5rqHA",
+  "name": "芊江食堂",
+  "address": "421台灣臺中市后里區后里里三豐路269巷13號",
+  "rating": 4.8,
+  "userRatingCount": 33,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=8117856177143752101&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.307884800000004,
+   "longitude": 120.72160579999999
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "13464599245050928015": {
+  "place_id": "ChIJ74gCURoRaTQRj9tAxKzd27o",
+  "name": "明月館（麗寶店）",
+  "address": "421台灣臺中市后里區福容路201號麗寶Outlet Mall二期C棟2樓",
+  "rating": 4.3,
+  "userRatingCount": 562,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=13464599245050928015&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3265535,
+   "longitude": 120.7025659
+  },
+  "types": [
+   "korean_barbecue_restaurant",
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "14072426835217371929": {
+  "place_id": "ChIJTX8dG6UaaTQRGVPO0KVNS8M",
+  "name": "沐莯小館 Mumu Bistro（提供場地租借、義式自助餐）",
+  "address": "421台灣臺中市后里區后里里成功路62號",
+  "rating": 4.3,
+  "userRatingCount": 600,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=14072426835217371929&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.312504999999998,
+   "longitude": 120.721539
+  },
+  "types": [
+   "restaurant",
    "point_of_interest",
    "food",
    "establishment"
   ],
-  "area_label": "霧峰"
+  "area_label": "后里"
  },
- "10459678661773238602": {
-  "place_id": "ChIJD7qKliw7aTQRSiG6O1M-KJE",
-  "name": "森釧鍋物（平日中午最後收客14:00/平日晚上最後收客20:30，假日全天營業）",
-  "address": "413台灣臺中市霧峰區中正里振德街16號",
-  "rating": 4.9,
-  "userRatingCount": 5999,
+ "14119220503417875950": {
+  "place_id": "ChIJqzFBEIIbaTQR7m2isz2M8cM",
+  "name": "座上嗑好嗑鍋煮 - 后里總店",
+  "address": "421台灣臺中市后里區義德里甲后路一段456巷18號",
+  "rating": 4.8,
+  "userRatingCount": 3388,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=10459678661773238602&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=14119220503417875950&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.0656671,
-   "longitude": 120.69801890000001
+   "latitude": 24.3097493,
+   "longitude": 120.7245213
   },
   "types": [
    "hot_pot_restaurant",
@@ -145,64 +273,22 @@
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "霧峰"
+  "area_label": "后里"
  },
- "1570633789460595053": {
-  "place_id": "ChIJtZ9Ig087aTQRbUEGJRwDzBU",
-  "name": "韓棧食堂-(星期五公休）",
-  "address": "413台灣臺中市霧峰區本堂里樹仁五街2號",
-  "rating": 4.3,
-  "userRatingCount": 311,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=1570633789460595053&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0629128,
-   "longitude": 120.6966787
-  },
-  "types": [
-   "korean_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "2669737267475688954": {
-  "place_id": "ChIJ83R6UVo7aTQR-q2CX-bPDCU",
-  "name": "珍饌複合式餐飲",
-  "address": "413台灣臺中市霧峰區曾厝街22號",
-  "rating": 4.5,
-  "userRatingCount": 328,
+ "3058824154118985666": {
+  "place_id": "ChIJ6Skr78EbaTQRwpeloFwgcyo",
+  "name": "美如家 ru's kitchen",
+  "address": "421台灣臺中市后里區義里里梅里路50巷3號",
+  "rating": 4.6,
+  "userRatingCount": 398,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=2669737267475688954&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=3058824154118985666&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.066392999999998,
-   "longitude": 120.6981706
+   "latitude": 24.3084828,
+   "longitude": 120.7310323
   },
   "types": [
    "taiwanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "17490802747329126319": {
-  "place_id": "ChIJIb7uOYs7aTQRr5_6rm3Qu_I",
-  "name": "五路鍋聖 霧峰店",
-  "address": "413台灣臺中市霧峰區本堂里樹仁路22號",
-  "rating": 4.9,
-  "userRatingCount": 231,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=17490802747329126319&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0643169,
-   "longitude": 120.6970116
-  },
-  "types": [
-   "hot_pot_restaurant",
    "snack_bar",
    "meal_takeaway",
    "restaurant",
@@ -210,66 +296,40 @@
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "霧峰"
+  "area_label": "后里"
  },
- "5841184813435556918": {
-  "place_id": "ChIJJ0BMn7w7aTQRNpQ70KMOEFE",
-  "name": "瀧錸私廚（原基隆港）",
-  "address": "413015台灣臺中市霧峰區本堂里樹仁路150-8號",
+ "1745484721924255631": {
+  "place_id": "ChIJdx4zbwAbaTQRj68qSxs1ORg",
+  "name": "正兄弟當歸鴨(后里店)",
+  "address": "421台灣臺中市后里區厚里里甲后路一段766號",
+  "rating": 4.8,
+  "userRatingCount": 413,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=1745484721924255631&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3095982,
+   "longitude": 120.7186955
+  },
+  "types": [
+   "chinese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "12957803366710528043": {
+  "place_id": "ChIJU9faaugbaTQRK0gkNoJd07M",
+  "name": "菲力屋FilletHome_精緻平價牛排餐廳",
+  "address": "421台灣臺中市后里區墩東里民生路195號",
   "rating": 4.4,
-  "userRatingCount": 293,
+  "userRatingCount": 289,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=5841184813435556918&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=12957803366710528043&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.0598237,
-   "longitude": 120.6962809
-  },
-  "types": [
-   "seafood_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "15903387963035675407": {
-  "place_id": "ChIJu2IrR7E7aTQRD-v2tRcvtNw",
-  "name": "熊轉家餐酒館",
-  "address": "413台灣臺中市霧峰區本堂里樹仁路276號",
-  "rating": 4.5,
-  "userRatingCount": 416,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=15903387963035675407&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.057037200000003,
-   "longitude": 120.69691979999999
-  },
-  "types": [
-   "asian_fusion_restaurant",
-   "bistro",
-   "fusion_restaurant",
-   "asian_restaurant",
-   "liquor_store",
-   "store",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "13497543398908345698": {
-  "place_id": "ChIJfbGG_EY7aTQRYr1ZUDXoULs",
-  "name": "霧峰鴉片工場",
-  "address": "413台灣臺中市霧峰區甲寅里中正路1180號",
-  "rating": 4.2,
-  "userRatingCount": 376,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=13497543398908345698&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0712312,
-   "longitude": 120.69965339999999
+   "latitude": 24.3058892,
+   "longitude": 120.7141894
   },
   "types": [
    "restaurant",
@@ -277,19 +337,61 @@
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "霧峰"
+  "area_label": "后里"
  },
- "6381579535154419352": {
-  "place_id": "ChIJ-cR2Rpg7aTQRmBbIssbsj1g",
-  "name": "茉莫 La monmon",
-  "address": "413台灣臺中市霧峰區甲寅里民生路156-11號",
-  "rating": 4.5,
-  "userRatingCount": 415,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=6381579535154419352&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "737651938513665916": {
+  "place_id": "ChIJlYf0vWwbaTQRfD_8ooeqPAo",
+  "name": "八廚職人弁当 后里甲后店",
+  "address": "421台灣臺中市后里區后里里甲后路一段338號",
+  "rating": 4.6,
+  "userRatingCount": 616,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=737651938513665916&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.069875399999997,
-   "longitude": 120.70265520000001
+   "latitude": 24.3092053,
+   "longitude": 120.72683289999999
+  },
+  "types": [
+   "buffet_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "14046789717294028627": {
+  "place_id": "ChIJ9YWyAtgbaTQRU5frJdM48MI",
+  "name": "惹鍋 后里店",
+  "address": "421台灣臺中市后里區后里里三豐路四段135號",
+  "rating": 4.8,
+  "userRatingCount": 5300,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=14046789717294028627&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.312390399999998,
+   "longitude": 120.72308380000001
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "12784024510369139248": {
+  "place_id": "ChIJOSjRrMwbaTQRMIpwPI_6abE",
+  "name": "春坂 Harusaka-寵物友善餐廳",
+  "address": "42151台灣臺中市后里區墩東里民生路218號",
+  "rating": 4.6,
+  "userRatingCount": 554,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=12784024510369139248&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3062787,
+   "longitude": 120.7138584
   },
   "types": [
    "brunch_restaurant",
@@ -298,19 +400,401 @@
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "霧峰"
+  "area_label": "后里"
  },
- "12983218612963758517": {
-  "place_id": "ChIJUWngcWk7aTQRtdHxWoqoLbQ",
-  "name": "烏龍麵所 霧峰店",
-  "address": "413台灣臺中市霧峰區本堂里林森路758號",
-  "rating": 4.6,
-  "userRatingCount": 1568,
+ "1086699907284299642": {
+  "place_id": "ChIJ78B5NN8baTQRem8h3867FA8",
+  "name": "娃娃現炒Mỹ Dung-台越小吃",
+  "address": "421台灣臺中市后里區民生路203號",
+  "rating": 4.7,
+  "userRatingCount": 119,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=12983218612963758517&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=1086699907284299642&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.0653603,
-   "longitude": 120.69613369999999
+   "latitude": 24.3058825,
+   "longitude": 120.7140601
+  },
+  "types": [
+   "vietnamese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "15841565871811990421": {
+  "place_id": "ChIJabk9CZAbaTQRlRNOazqM2Ns",
+  "name": "您好吾賣｜早午餐．便當．私房麵",
+  "address": "421台灣臺中市后里區后里里三豐路四段172號B棟",
+  "rating": 4.8,
+  "userRatingCount": 301,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=15841565871811990421&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3118819,
+   "longitude": 120.7233233
+  },
+  "types": [
+   "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "13696749357835977090": {
+  "place_id": "ChIJyQNfVaMRaTQRgoFf8_igFL4",
+  "name": "Happy Yooo Cafe (最後點餐：關店前一小時)",
+  "address": "421台灣臺中市后里區月眉里九甲六路586號",
+  "rating": 4.7,
+  "userRatingCount": 362,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=13696749357835977090&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3164008,
+   "longitude": 120.70614299999998
+  },
+  "types": [
+   "coffee_shop",
+   "cafe",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "17039532087376242174": {
+  "place_id": "ChIJyfECi3sbaTQR_mXudieUeOw",
+  "name": "金吉村早午餐后里店",
+  "address": "421台灣臺中市后里區厚里里民生路46-2號",
+  "rating": 4.6,
+  "userRatingCount": 104,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=17039532087376242174&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3086087,
+   "longitude": 120.7166197
+  },
+  "types": [
+   "breakfast_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "8303157702138909966": {
+  "place_id": "ChIJd93wkbIRaTQRDtUJJvC9OnM",
+  "name": "濰樂輕食早午餐 親子友善 寵物友善 店休以FB公告",
+  "address": "421台灣臺中市后里區中和里公安路141-1號",
+  "rating": 4.5,
+  "userRatingCount": 326,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=8303157702138909966&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3058589,
+   "longitude": 120.70815809999999
+  },
+  "types": [
+   "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "723561579177518410": {
+  "place_id": "ChIJH75QJ6sbaTQRSiX_M2ybCgo",
+  "name": "小光點食堂",
+  "address": "421台灣臺中市后里區廣福里三豐路三段936號",
+  "rating": 4.9,
+  "userRatingCount": 486,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=723561579177518410&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.30508,
+   "longitude": 120.72472929999999
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "7351459919937571600": {
+  "place_id": "ChIJwbbs2BURaTQREItm9NihBWY",
+  "name": "奧司卡早午餐(Oscar Brunch)",
+  "address": "421台灣臺中市后里區墩北里甲后路一段858號",
+  "rating": 4.4,
+  "userRatingCount": 103,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=7351459919937571600&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3099696,
+   "longitude": 120.7167675
+  },
+  "types": [
+   "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "9794098956945212593": {
+  "place_id": "ChIJVYkMgVIRaTQRsUS-Jxyh64c",
+  "name": "亮宅Brunch2.0",
+  "address": "421台灣臺中市后里區月眉里安眉路133號",
+  "rating": 4,
+  "userRatingCount": 507,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=9794098956945212593&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.321746599999997,
+   "longitude": 120.70122109999998
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "17648744586911762184": {
+  "place_id": "ChIJx4ZOx88baTQRCEd52rHv7PQ",
+  "name": "找餐店brunch-后里店",
+  "address": "421台灣臺中市后里區厚里里復興街49號",
+  "rating": 4.2,
+  "userRatingCount": 135,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=17648744586911762184&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.307837,
+   "longitude": 120.7201365
+  },
+  "types": [
+   "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "18031659950274263941": {
+  "place_id": "ChIJxUPaSQEbaTQRhTu8XjBTPfo",
+  "name": "混 蛋吐司早午餐（僅接受團體預訂）",
+  "address": "421台灣臺中市后里區義德里甲后路一段355巷5號",
+  "rating": 4.7,
+  "userRatingCount": 117,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=18031659950274263941&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3087567,
+   "longitude": 120.7245878
+  },
+  "types": [
+   "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "1605126011603336084": {
+  "place_id": "ChIJYbZdVbARaTQRlDtbbZqNRhY",
+  "name": "喵阿姨複合式餐飲 簡餐 西式 下午茶 飲料 宵夜 外送",
+  "address": "421台灣臺中市后里區墩西里公安路71號",
+  "rating": 4.1,
+  "userRatingCount": 159,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=1605126011603336084&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3045044,
+   "longitude": 120.7111451
+  },
+  "types": [
+   "western_restaurant",
+   "meal_delivery",
+   "food_delivery",
+   "tea_house",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "12337540509074027704": {
+  "place_id": "ChIJ54L2_pwbaTQRuHRZ1bm_N6s",
+  "name": "笩云田",
+  "address": "421台灣臺中市后里區厚里里九甲路269號",
+  "rating": 4.8,
+  "userRatingCount": 222,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=12337540509074027704&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.317192199999997,
+   "longitude": 120.7185002
+  },
+  "types": [
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "16129130784351219693": {
+  "place_id": "ChIJIwRAr6kbaTQR7W8SGf4u1t8",
+  "name": "瑜軒早午餐 （炒麵、炒米粉、手工肉包、饅頭）",
+  "address": "42151台灣臺中市后里區墩東里成功路426號",
+  "rating": 4.6,
+  "userRatingCount": 71,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=16129130784351219693&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.307652599999997,
+   "longitude": 120.7175538
+  },
+  "types": [
+   "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "12469162591547100273": {
+  "place_id": "ChIJMW3uZnUQaTQRcQzBA1BdC60",
+  "name": "加家早餐店",
+  "address": "421台灣臺中市后里區墩西里中山路50號",
+  "rating": 4.2,
+  "userRatingCount": 174,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=12469162591547100273&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.304381799999998,
+   "longitude": 120.7114914
+  },
+  "types": [
+   "breakfast_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "1586282573297497609": {
+  "place_id": "ChIJv8wEgwYbaTQRCTbKjpibAxY",
+  "name": "蟲蟲蛋餅",
+  "address": "421台灣臺中市后里區墩西里中山路82號",
+  "rating": 4.6,
+  "userRatingCount": 177,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=1586282573297497609&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.305138799999998,
+   "longitude": 120.7119201
+  },
+  "types": [
+   "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "16012926140390071080": {
+  "place_id": "ChIJQRF_YuYbaTQRKFuEDHxXOd4",
+  "name": "卯食mouth后里店",
+  "address": "421台灣臺中市后里區義德里中興街115巷1弄47號",
+  "rating": 4.2,
+  "userRatingCount": 166,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=16012926140390071080&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3083465,
+   "longitude": 120.72512739999998
+  },
+  "types": [
+   "breakfast_restaurant",
+   "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "8636022408842660541": {
+  "place_id": "ChIJgYXaaAAbaTQRvUphD6BQ2Xc",
+  "name": "王老五食堂-肉蛋吐司",
+  "address": "421台灣臺中市后里區墩北里四村路154號",
+  "rating": 4.4,
+  "userRatingCount": 35,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=8636022408842660541&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3067228,
+   "longitude": 120.7139189
+  },
+  "types": [
+   "breakfast_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "11140222835006150282": {
+  "place_id": "ChIJn2BQZrsaaTQRipY8H6UFmpo",
+  "name": "早安餐屋Breakfast",
+  "address": "421台灣臺中市后里區義德里甲后路一段331巷1號",
+  "rating": 4.3,
+  "userRatingCount": 56,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=11140222835006150282&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.308767399999997,
+   "longitude": 120.72517260000001
+  },
+  "types": [
+   "breakfast_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "8644027314571539745": {
+  "place_id": "ChIJNUOc_L0RaTQRIXXPaQvB9Xc",
+  "name": "令和盛和食屋",
+  "address": "421台灣臺中市后里區中和里主和路5巷5號",
+  "rating": 4.5,
+  "userRatingCount": 63,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=8644027314571539745&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3039237,
+   "longitude": 120.70726899999998
   },
   "types": [
    "japanese_restaurant",
@@ -319,61 +803,19 @@
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "霧峰"
+  "area_label": "后里"
  },
- "3991383165832958310": {
-  "place_id": "ChIJpf87XFo7aTQRZpHykdc9ZDc",
-  "name": "貴州風味小吃",
-  "address": "413台灣臺中市霧峰區本鄉里中正路981號",
-  "rating": 4.4,
-  "userRatingCount": 654,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=3991383165832958310&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0663002,
-   "longitude": 120.69875390000001
-  },
-  "types": [
-   "chinese_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "8095090685990074572": {
-  "place_id": "ChIJg_IXOUs7aTQRzPgC2xaKV3A",
-  "name": "阿鍋家-鍋燒煮義(霧峰店)",
-  "address": "41351台灣臺中市霧峰區中正里振興街30號",
+ "11540754191554663717": {
+  "place_id": "ChIJfQGrfvkbaTQRJVW3q8r-KKA",
+  "name": "頌禮來複合式餐館",
+  "address": "421台灣臺中市后里區甲后路一段331巷20號",
   "rating": 4.8,
-  "userRatingCount": 455,
+  "userRatingCount": 495,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=8095090685990074572&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=11540754191554663717&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.0662884,
-   "longitude": 120.69721539999999
-  },
-  "types": [
-   "chinese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "16281433662313445513": {
-  "place_id": "ChIJE6dRrQo7aTQRibhHNKdF8-E",
-  "name": "九湯屋日本拉麵 台中霧峰店",
-  "address": "413台灣臺中市霧峰區本堂里樹仁路97號",
-  "rating": 4.6,
-  "userRatingCount": 68,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=16281433662313445513&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0619778,
-   "longitude": 120.69684070000001
+   "latitude": 24.3084448,
+   "longitude": 120.72509880000001
   },
   "types": [
    "ramen_restaurant",
@@ -383,696 +825,41 @@
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "霧峰"
+  "area_label": "后里"
  },
- "2879993002789816770": {
-  "place_id": "ChIJS0PriHI7aTQRwsnljmDK9yc",
-  "name": "墨啡 早午餐 咖啡廳 霧峰店",
-  "address": "413台灣臺中市霧峰區甲寅里錦州路34號",
+ "13040015418168371190": {
+  "place_id": "ChIJ78F4FXUQaTQR9ueKEe9w97Q",
+  "name": "酒樂",
+  "address": "421台灣臺中市后里區墩西里公安路89號",
   "rating": 4.8,
-  "userRatingCount": 262,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=2879993002789816770&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0696209,
-   "longitude": 120.70034379999998
-  },
-  "types": [
-   "brunch_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "15488285969709235278": {
-  "place_id": "ChIJwSvZ6EQ7aTQRTnwvbAdy8dY",
-  "name": "NU PASTA 台中霧峰店",
-  "address": "41341台灣臺中市霧峰區本堂里樹仁路107號",
-  "rating": 4.7,
-  "userRatingCount": 1684,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=15488285969709235278&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0617794,
-   "longitude": 120.69682479999999
-  },
-  "types": [
-   "italian_restaurant",
-   "european_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "5837818541690739524": {
-  "place_id": "ChIJifPzf1s7aTQRRFuqmAgZBFE",
-  "name": "Butter巴特手作晨食霧峰店Brunch&cafe",
-  "address": "413台灣臺中市霧峰區甲寅里中正路1096號",
-  "rating": 4.8,
-  "userRatingCount": 1415,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=5837818541690739524&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.069193799999997,
-   "longitude": 120.69935129999999
-  },
-  "types": [
-   "brunch_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "8896663764131441178": {
-  "place_id": "ChIJfXueO1g7aTQRGuokk45Md3s",
-  "name": "晨家早午餐mornhome-霧峰店",
-  "address": "413台灣臺中市霧峰區甲寅里中正路1199號",
-  "rating": 4.4,
-  "userRatingCount": 1197,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=8896663764131441178&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0717388,
-   "longitude": 120.69939930000001
-  },
-  "types": [
-   "brunch_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "1116645385165421540": {
-  "place_id": "ChIJwVKrSxc7aTQR5Dvdwg8ffw8",
-  "name": "WAGA221 cafe",
-  "address": "413台灣臺中市霧峰區本堂里樹仁路221號",
-  "rating": 4.7,
-  "userRatingCount": 69,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=1116645385165421540&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0572843,
-   "longitude": 120.6965309
-  },
-  "types": [
-   "brunch_restaurant",
-   "food_store",
-   "store",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "1524884291337997899": {
-  "place_id": "ChIJ0Xa5fAk7aTQRS07GDC96KRU",
-  "name": "GOGOBUS 元氣巴士早午餐 （霧峰樹仁店）",
-  "address": "413台灣臺中市霧峰區本堂里樹仁路77號",
-  "rating": 4.4,
-  "userRatingCount": 174,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=1524884291337997899&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0626359,
-   "longitude": 120.696933
-  },
-  "types": [
-   "brunch_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "17779382712502072615": {
-  "place_id": "ChIJ-ctxK1s7aTQRJzVouGAOvfY",
-  "name": "小璐早午餐",
-  "address": "413台灣臺中市霧峰區本堂里育仁街32號",
-  "rating": 4.6,
-  "userRatingCount": 137,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=17779382712502072615&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0634539,
-   "longitude": 120.6973845
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "3421355201873403011": {
-  "place_id": "ChIJHyzWguk7aTQRg1wZ0m0Yey8",
-  "name": "早安工廠",
-  "address": "413台灣臺中市霧峰區甲寅里振興街118巷7號",
-  "rating": 4.4,
-  "userRatingCount": 337,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=3421355201873403011&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.068935099999997,
-   "longitude": 120.69814269999999
-  },
-  "types": [
-   "brunch_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "958914821515526686": {
-  "place_id": "ChIJPzToAuEjaTQRHkJKGvO_Tg0",
-  "name": "寶蓁早午餐咖啡館",
-  "address": "413台灣臺中市霧峰區吉峰里吉峰路155-10號",
-  "rating": 4.9,
-  "userRatingCount": 114,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=958914821515526686&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0774413,
-   "longitude": 120.7138339
-  },
-  "types": [
-   "brunch_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "10044966346332657081": {
-  "place_id": "ChIJ4-OitkU7aTQRuVXp5avjZos",
-  "name": "Hi Li Ho 利賀早午餐",
-  "address": "413台灣臺中市霧峰區本堂里中正路742號",
-  "rating": 4.5,
-  "userRatingCount": 448,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=10044966346332657081&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.059484599999998,
-   "longitude": 120.69822429999999
-  },
-  "types": [
-   "breakfast_restaurant",
-   "brunch_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "9783200237305518707": {
-  "place_id": "ChIJi3gZrfE7aTQRc9ocP8joxIc",
-  "name": "早安山丘 霧峰中正店-霧峰必吃早午餐|人氣早午餐|早午餐推薦|熱門早午餐|炒泡麵推薦|在地推薦早午餐|平價早午餐|外帶早午餐",
-  "address": "413台灣臺中市霧峰區甲寅里中正路1165號",
-  "rating": 4.2,
-  "userRatingCount": 127,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=9783200237305518707&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0707516,
-   "longitude": 120.6992818
-  },
-  "types": [
-   "breakfast_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "14727476369489239670": {
-  "place_id": "ChIJ9w05Als7aTQRdp5dgbqBYsw",
-  "name": "貝司堡BASKETBALL早午餐（霧峰總店）",
-  "address": "413台灣臺中市霧峰區中正里振興東街2號",
-  "rating": 4.3,
-  "userRatingCount": 415,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=14727476369489239670&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0655572,
-   "longitude": 120.69722759999999
-  },
-  "types": [
-   "brunch_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "11138249143649172575": {
-  "place_id": "ChIJwR2A3Ks7aTQRX_wBS5UCk5o",
-  "name": "蕃茄村台中霧峰樹仁店-早餐 早午餐",
-  "address": "413台灣臺中市霧峰區本堂里育賢路25號",
-  "rating": 4.3,
-  "userRatingCount": 74,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=11138249143649172575&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0608149,
-   "longitude": 120.69703810000001
-  },
-  "types": [
-   "brunch_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "7002493456949825471": {
-  "place_id": "ChIJ13R6Kcs7aTQRv899w7LaLWE",
-  "name": "找餐店-霧峰樹仁店",
-  "address": "413台灣臺中市霧峰區本堂里樹仁五街12號",
-  "rating": 4.3,
-  "userRatingCount": 29,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=7002493456949825471&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0629741,
-   "longitude": 120.69626379999998
-  },
-  "types": [
-   "brunch_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "10237161704774412236": {
-  "place_id": "ChIJSwC1AKM7aTQRzKdP6VS0EY4",
-  "name": "微時光蔬食咖啡館",
-  "address": "413台灣臺中市霧峰區本堂里樹仁路262號",
-  "rating": 4.9,
-  "userRatingCount": 77,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=10237161704774412236&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0570575,
-   "longitude": 120.696673
-  },
-  "types": [
-   "vegetarian_restaurant",
-   "food_store",
-   "store",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "16625662882167908343": {
-  "place_id": "ChIJHYj9KQA7aTQR9-cDB044uuY",
-  "name": "麥味登 霧峰中正店",
-  "address": "413台灣臺中市霧峰區本堂里中正路677號",
-  "rating": 4.4,
-  "userRatingCount": 238,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=16625662882167908343&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0584594,
-   "longitude": 120.69770829999999
-  },
-  "types": [
-   "breakfast_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "13665253332711946561": {
-  "place_id": "ChIJBfIZmQA9aTQRQbkEJoG7pL0",
-  "name": "早點相遇 早午餐 x 炒泡麵",
-  "address": "413台灣臺中市霧峰區柳豐三街25號",
-  "rating": 4.8,
-  "userRatingCount": 38,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=13665253332711946561&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0436014,
-   "longitude": 120.68779269999997
-  },
-  "types": [
-   "breakfast_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "14598841199710846384": {
-  "place_id": "ChIJj-qDhFk7aTQRsD0aIbmAmco",
-  "name": "桔品晨食館(振興店）",
-  "address": "41351台灣臺中市霧峰區甲寅里振興街118巷1號",
-  "rating": 4.5,
-  "userRatingCount": 60,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=14598841199710846384&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0689817,
-   "longitude": 120.69797229999999
-  },
-  "types": [
-   "brunch_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "4947950364495605438": {
-  "place_id": "ChIJW81D-ZY7aTQRvm4GIqSmqkQ",
-  "name": "暖晨早午餐",
-  "address": "41359台灣臺中市霧峰區坑口里中正路523號",
-  "rating": 4.7,
-  "userRatingCount": 29,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=4947950364495605438&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0452704,
-   "longitude": 120.6920464
-  },
-  "types": [
-   "brunch_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "3644317109510674705": {
-  "place_id": "ChIJsacUE-07aTQRERlDSRo3kzI",
-  "name": "拾季和食",
-  "address": "413台灣臺中市霧峰區本堂里樹仁路223號",
-  "rating": 4.8,
-  "userRatingCount": 215,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=3644317109510674705&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0572368,
-   "longitude": 120.6966473
-  },
-  "types": [
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "306062887324781187": {
-  "place_id": "ChIJ7xVuHrEjaTQRg4rsDZNaPwQ",
-  "name": "食堂大河(預約請Line，電話5點後接聽)",
-  "address": "413台灣臺中市霧峰區吉峰里吉峰東路62號",
-  "rating": 4.9,
-  "userRatingCount": 114,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=306062887324781187&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0744229,
-   "longitude": 120.7148093
-  },
-  "types": [
-   "japanese_restaurant",
-   "deli",
-   "tonkatsu_restaurant",
-   "food_store",
-   "store",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "13481203231725705660": {
-  "place_id": "ChIJU9ehKkU7aTQRvNnbq-naFrs",
-  "name": "鮮丼屋",
-  "address": "413台灣臺中市霧峰區本堂里育仁街2-20號",
-  "rating": 4.3,
-  "userRatingCount": 160,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=13481203231725705660&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0634351,
-   "longitude": 120.69773529999999
-  },
-  "types": [
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "11973795817517827129": {
-  "place_id": "ChIJfxNX-Bc7aTQROUQ1LNt3K6Y",
-  "name": "瀧澤屋料理食堂",
-  "address": "413台灣臺中市霧峰區南柳里柳豐二街47號",
-  "rating": 4,
-  "userRatingCount": 346,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=11973795817517827129&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0439479,
-   "longitude": 120.68691969999999
-  },
-  "types": [
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "13704737799050164537": {
-  "place_id": "ChIJgQrbbiY7aTQROflA3GoCMb4",
-  "name": "嶼米屋",
-  "address": "413台灣臺中市霧峰區中正里振德街20號",
-  "rating": 4.9,
-  "userRatingCount": 485,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=13704737799050164537&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0659742,
-   "longitude": 120.6979695
-  },
-  "types": [
-   "asian_fusion_restaurant",
-   "fusion_restaurant",
-   "asian_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "1213972778567116821": {
-  "place_id": "ChIJ6YbtUwA7aTQRFah8ac_l2BA",
-  "name": "松泉日式燒肉飯",
-  "address": "413台灣臺中市霧峰區本堂里樹仁路153-6號",
-  "rating": 4.7,
-  "userRatingCount": 53,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=1213972778567116821&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.059959799999998,
-   "longitude": 120.6965251
-  },
-  "types": [
-   "chinese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "9329111865307769927": {
-  "place_id": "ChIJf0u_uHs7aTQRRyyNUdCpd4E",
-  "name": "月月與朋Moon&Friend",
-  "address": "413台灣臺中市霧峰區甲寅里德泰街17號",
-  "rating": 4.7,
-  "userRatingCount": 160,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=9329111865307769927&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0686187,
-   "longitude": 120.6997822
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "1413676492546758635": {
-  "place_id": "ChIJVVVVVVg7aTQR69eRrUdjnhM",
-  "name": "超吉飯桶-霧峰店",
-  "address": "413台灣臺中市霧峰區甲寅里中正路1101號",
-  "rating": 4.5,
-  "userRatingCount": 942,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=1413676492546758635&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0689209,
-   "longitude": 120.6991049
-  },
-  "types": [
-   "japanese_restaurant",
-   "bistro",
-   "fast_food_restaurant",
-   "meal_delivery",
-   "food_delivery",
-   "food_store",
-   "store",
-   "chinese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "7332911229101438826": {
-  "place_id": "ChIJzQfW5NI7aTQRancQVOm7w2U",
-  "name": "煬丹食堂-霧峰商務便當|午餐首選|會議餐盒|外帶餐盒|雞腿便當|在地推薦便當|家常便當|日常便當",
-  "address": "41354台灣臺中市霧峰區吉峰里吉峰路88-1號",
-  "rating": 4.4,
-  "userRatingCount": 19,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=7332911229101438826&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0763101,
-   "longitude": 120.70621859999999
-  },
-  "types": [
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "969484846595094766": {
-  "place_id": "ChIJo1vdbpc7aTQR7rhs2FRNdA0",
-  "name": "AEGO | 台中日式咖啡酒吧 -| 預約制 |-",
-  "address": "413台灣臺中市霧峰區本堂里大同路11-1號",
-  "rating": 5,
-  "userRatingCount": 57,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=969484846595094766&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0618002,
-   "longitude": 120.69943219999999
-  },
-  "types": [
-   "pub",
-   "western_restaurant",
-   "cafe",
-   "italian_restaurant",
-   "cocktail_bar",
-   "french_restaurant",
-   "bar",
-   "european_restaurant",
-   "food_store",
-   "store",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "10393895779685271104": {
-  "place_id": "ChIJxZ1oNlQjaTQRQIaSdCSJPpA",
-  "name": "麥香屋",
-  "address": "413台灣臺中市霧峰區吉峰里吉峰東路69號",
-  "rating": 4.3,
-  "userRatingCount": 285,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=10393895779685271104&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.073634,
-   "longitude": 120.7152813
-  },
-  "types": [
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "18094294999150436992": {
-  "place_id": "ChIJ0_lQP_Q7aTQRgCJ9HW_ZG_s",
-  "name": "凱豐壽司涼麵",
-  "address": "413台灣臺中市霧峰區本鄉里民主街37號",
-  "rating": 4.2,
-  "userRatingCount": 33,
+  "userRatingCount": 32,
   "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=18094294999150436992&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=13040015418168371190&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.067021699999998,
-   "longitude": 120.6999205
+   "latitude": 24.3048878,
+   "longitude": 120.71029979999999
   },
   "types": [
-   "meal_delivery",
-   "food_delivery",
+   "japanese_izakaya_restaurant",
+   "japanese_restaurant",
+   "restaurant",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "霧峰"
+  "area_label": "后里"
  },
- "5598223400919320014": {
-  "place_id": "ChIJxXHtYFQjaTQRzkUTwYXisE0",
-  "name": "采舍食堂",
-  "address": "413台灣臺中市霧峰區吉峰里吉峰東路69之3號",
+ "15492685674754866908": {
+  "place_id": "ChIJSxZRoaMaaTQR3P6LlIkTAdc",
+  "name": "王記食堂",
+  "address": "421台灣臺中市后里區厚里里復興街55號",
   "rating": 4.3,
-  "userRatingCount": 393,
+  "userRatingCount": 142,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=5598223400919320014&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=15492685674754866908&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.07359,
-   "longitude": 120.7152809
+   "latitude": 24.307854499999998,
+   "longitude": 120.72026240000001
   },
   "types": [
    "restaurant",
@@ -1080,19 +867,190 @@
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "霧峰"
+  "area_label": "后里"
  },
- "4821815553205786258": {
-  "place_id": "ChIJ_T5uuE8jaTQRktZI1bKH6kI",
-  "name": "（6/26週五晚上休息）法洛米風味廚房『焗烤 義大利麵 燴飯 起士燉飯 烏龍麵 』 🫰🏻義大利麵免費加大🫰🏻飯類免費加大🫰🏻",
-  "address": "413台灣臺中市霧峰區本堂里樹仁路81號",
-  "rating": 4.3,
-  "userRatingCount": 147,
+ "2737019149330641198": {
+  "place_id": "ChIJc3Zp0z0baTQRLnFLO2rY-yU",
+  "name": "湯掌櫃私房料理（營業時間以粉絲專頁公告為主）",
+  "address": "421台灣臺中市后里區廣福里內東路廣成巷143號",
+  "rating": 4.9,
+  "userRatingCount": 362,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=4821815553205786258&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=2737019149330641198&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.062421999999998,
-   "longitude": 120.69694449999999
+   "latitude": 24.302803899999997,
+   "longitude": 120.7311225
+  },
+  "types": [
+   "restaurant",
+   "dessert_restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "10067057338101409834": {
+  "place_id": "ChIJP6UYdQAbaTQRKigGu09ftYs",
+  "name": "拾月叁食",
+  "address": "421台灣臺中市后里區后里里三豐路四段158號",
+  "rating": 4.7,
+  "userRatingCount": 184,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=10067057338101409834&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3116238,
+   "longitude": 120.7232631
+  },
+  "types": [
+   "dim_sum_restaurant",
+   "cantonese_restaurant",
+   "food_store",
+   "store",
+   "chinese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "6796068183485919946": {
+  "place_id": "ChIJbW2-Iu0baTQRyjIDegF8UF4",
+  "name": "TY.ᐟ CAFE 天奕創意料理咖啡",
+  "address": "421台灣臺中市后里區眉山里甲后路二段72號",
+  "rating": 4.4,
+  "userRatingCount": 353,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=6796068183485919946&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3119521,
+   "longitude": 120.7052365
+  },
+  "types": [
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "4500798584011445476": {
+  "place_id": "ChIJJXx5VHUQaTQR5FSVRXcMdj4",
+  "name": "福音路86",
+  "address": "421台灣臺中市后里區墩北里福音路86號",
+  "rating": 4.1,
+  "userRatingCount": 54,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=4500798584011445476&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3059171,
+   "longitude": 120.7116705
+  },
+  "types": [
+   "french_restaurant",
+   "european_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "10271336354211219877": {
+  "place_id": "ChIJOY5x3mMbaTQRpclQif4di44",
+  "name": "PizzaRunning后里店",
+  "address": "421788台灣臺中市后里區后里里甲后路一段477號",
+  "rating": 4.4,
+  "userRatingCount": 50,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=10271336354211219877&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.308924200000003,
+   "longitude": 120.72140979999998
+  },
+  "types": [
+   "meal_takeaway",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "15901888198221988394": {
+  "place_id": "ChIJOwdnb7saaTQRKoL_gBDbrtw",
+  "name": "神州窯烤",
+  "address": "421台灣臺中市后里區后里里甲后路一段311號",
+  "rating": 4.2,
+  "userRatingCount": 595,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=15901888198221988394&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3090116,
+   "longitude": 120.72571209999998
+  },
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "5929370849270899312": {
+  "place_id": "ChIJnahd3T8baTQRcCJZTF9bSVI",
+  "name": "炭匠燒烤",
+  "address": "421台灣臺中市后里區義德里三豐路三段1082巷3號",
+  "rating": 4.6,
+  "userRatingCount": 94,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=5929370849270899312&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3077434,
+   "longitude": 120.7228392
+  },
+  "types": [
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "12664652348468768024": {
+  "place_id": "ChIJr8o_NTcRaTQRGC1M8jXiwa8",
+  "name": "米燒肉 台中麗寶店",
+  "address": "421台灣臺中市后里區福容路201號D區1F",
+  "rating": 4.6,
+  "userRatingCount": 440,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=12664652348468768024&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.326908,
+   "longitude": 120.70246110000001
+  },
+  "types": [
+   "bar_and_grill",
+   "restaurant",
+   "food",
+   "bar",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "1313143207628381202": {
+  "place_id": "ChIJ3eHuaHUQaTQREhzoPco4ORI",
+  "name": "后里公安路碳烤店",
+  "address": "42151台灣臺中市后里區墩西里公安路73號",
+  "rating": 4.5,
+  "userRatingCount": 113,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=1313143207628381202&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3045212,
+   "longitude": 120.7111058
   },
   "types": [
    "snack_bar",
@@ -1102,318 +1060,64 @@
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "霧峰"
+  "area_label": "后里"
  },
- "18288156829900433962": {
-  "place_id": "ChIJN53Usx07aTQRKmrZ8r2VzP0",
-  "name": "Ginno pizza taco",
-  "address": "413台灣臺中市霧峰區本堂里樹仁路154-1號",
-  "rating": 4.9,
-  "userRatingCount": 201,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=18288156829900433962&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0594578,
-   "longitude": 120.6960884
-  },
-  "types": [
-   "american_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "3424817622358920474": {
-  "place_id": "ChIJB_k9C9w7aTQRGo0zaXtlhy8",
-  "name": "峰巢堂料理廳",
-  "address": "413台灣臺中市霧峰區甲寅里中正路1091號",
-  "rating": 4.7,
-  "userRatingCount": 171,
+ "2233322206585447992": {
+  "place_id": "ChIJPcWwYMURaTQROGaE2LZa_h4",
+  "name": "泰香 BBQ",
+  "address": "421台灣臺中市后里區眉山里甲后路二段589號",
+  "rating": 4.8,
+  "userRatingCount": 292,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=3424817622358920474&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=2233322206585447992&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.0685589,
-   "longitude": 120.6989676
+   "latitude": 24.3143386,
+   "longitude": 120.68864629999999
   },
   "types": [
+   "thai_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "霧峰"
+  "area_label": "后里"
  },
- "271067105663906613": {
-  "place_id": "ChIJif-GC5QjaTQRNfNjrxgGwwM",
-  "name": "Pasta",
-  "address": "413台灣臺中市霧峰區吉峰里吉峰東路45-1號",
-  "rating": 4.1,
-  "userRatingCount": 102,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=271067105663906613&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.075251899999998,
-   "longitude": 120.7145948
-  },
-  "types": [
-   "italian_restaurant",
-   "european_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "15731820515792190152": {
-  "place_id": "ChIJAVCOzHo7aTQRyPr-iWinUto",
-  "name": "胖子與貓",
-  "address": "413台灣臺中市霧峰區六股里柳豐一街66號",
-  "rating": 4.9,
-  "userRatingCount": 1062,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=15731820515792190152&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0430848,
-   "longitude": 120.6876415
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "13874498518572431277": {
-  "place_id": "ChIJkSh3JVs7aTQRrXcxdOQejMA",
-  "name": "小母雞義式廚房",
-  "address": "413台灣臺中市霧峰區甲寅里中正路1134號",
-  "rating": 4,
-  "userRatingCount": 209,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=13874498518572431277&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0699881,
-   "longitude": 120.69945229999999
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "17134393369034780606": {
-  "place_id": "ChIJjThmgVQjaTQRvm8gu_yXye0",
-  "name": "披薩堡",
-  "address": "413台灣臺中市霧峰區吉峰里吉峰東路45-1號",
-  "rating": 4.4,
-  "userRatingCount": 207,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=17134393369034780606&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.075251899999998,
-   "longitude": 120.7145948
-  },
-  "types": [
-   "pizza_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "4181642700661957799": {
-  "place_id": "ChIJ777Fj1g7aTQRp6SPhuEtCDo",
-  "name": "法蔓田園咖啡",
-  "address": "413台灣臺中市霧峰區甲寅里草湖路166號",
-  "rating": 4.2,
-  "userRatingCount": 781,
+ "11281207509344261194": {
+  "place_id": "ChIJyyjNqxwQaTQRShTvl3Xmjpw",
+  "name": "燒肉同話 台中麗寶店",
+  "address": "421台灣臺中市后里區福容路201號B區1F",
+  "rating": 4.6,
+  "userRatingCount": 4453,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=4181642700661957799&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=11281207509344261194&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.072540999999998,
-   "longitude": 120.6950784
-  },
-  "types": [
-   "coffee_shop",
-   "cafe",
-   "italian_restaurant",
-   "pizza_restaurant",
-   "european_restaurant",
-   "food_store",
-   "store",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "5432768782261795189": {
-  "place_id": "ChIJa4ncm3I7aTQRdbmLZWwSZUs",
-  "name": "萬萬燒肉｜最後收客22:30",
-  "address": "41341台灣臺中市霧峰區本堂里育群路15號",
-  "rating": 4.9,
-  "userRatingCount": 1355,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=5432768782261795189&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0641569,
-   "longitude": 120.6979515
+   "latitude": 24.3249069,
+   "longitude": 120.70049399999999
   },
   "types": [
    "bar_and_grill",
    "yakiniku_restaurant",
-   "bar",
    "japanese_restaurant",
    "restaurant",
    "food",
+   "bar",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "霧峰"
+  "area_label": "后里"
  },
- "4766437931619802179": {
-  "place_id": "ChIJt_zSSXA7aTQRQ1wljgvKJUI",
-  "name": "咕嚕咕嚕原味串燒-霧峰店",
-  "address": "413台灣臺中市霧峰區本堂里四德路42號",
-  "rating": 4.7,
-  "userRatingCount": 62,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=4766437931619802179&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.065121899999998,
-   "longitude": 120.69712299999999
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "3061490315704005243": {
-  "place_id": "ChIJwwhZJf87aTQRe_LVvjiZfCo",
-  "name": "成大器烤肉飯 台中霧峰店",
-  "address": "413台灣臺中市霧峰區中正里中正路957號",
+ "2589261601497530874": {
+  "place_id": "ChIJKxh6CAsRaTQR-sHRQ7Xn7iM",
+  "name": "麗寶樂園 聚燒韓國炭烤",
+  "address": "421台灣臺中市后里區月眉里福容路3號",
   "rating": 4.3,
-  "userRatingCount": 332,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=3061490315704005243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0658563,
-   "longitude": 120.69873129999999
-  },
-  "types": [
-   "chinese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "12370650446182906774": {
-  "place_id": "ChIJm55XQEQ7aTQRlntCzQlhras",
-  "name": "大雄碳烤",
-  "address": "413台灣臺中市霧峰區本堂里育成路31號",
-  "rating": 4.6,
-  "userRatingCount": 118,
+  "userRatingCount": 749,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=12370650446182906774&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=2589261601497530874&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.0596766,
-   "longitude": 120.6964149
-  },
-  "types": [
-   "barbecue_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "6083697465535747955": {
-  "place_id": "ChIJ3XwiPR07aTQRc9czspyibVQ",
-  "name": "刺青哥炭烤黃金雞霧峰店",
-  "address": "413台灣臺中市霧峰區本堂里四德路105號",
-  "rating": 4.3,
-  "userRatingCount": 37,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=6083697465535747955&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0653415,
-   "longitude": 120.69623790000001
-  },
-  "types": [
-   "snack_bar",
-   "meal_takeaway",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "5426773652957892188": {
-  "place_id": "ChIJu8NfYAA7aTQRXA4BleLFT0s",
-  "name": "舊正碳烤大腸包小腸",
-  "address": "413台灣臺中市霧峰區舊正里中正路45巷2號",
-  "rating": 5,
-  "userRatingCount": 18,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=5426773652957892188&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0146189,
-   "longitude": 120.69555150000001
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "3755120100030835328": {
-  "place_id": "ChIJ6SmBYVQjaTQRgGpE49XdHDQ",
-  "name": "阿里巴巴串烤",
-  "address": "413台灣臺中市霧峰區吉峰里吉峰東路59號 號",
-  "rating": 4.6,
-  "userRatingCount": 91,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=3755120100030835328&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.074079599999997,
-   "longitude": 120.71522669999999
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "1110050094227053702": {
-  "place_id": "ChIJuz5cDmQ7aTQRhtxK7a2wZw8",
-  "name": "金家韓食館",
-  "address": "413台灣臺中市霧峰區本堂里樹仁路42號",
-  "rating": 4.4,
-  "userRatingCount": 63,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=1110050094227053702&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0638702,
-   "longitude": 120.6969382
+   "latitude": 24.3233382,
+   "longitude": 120.69741130000001
   },
   "types": [
    "korean_restaurant",
@@ -1422,271 +1126,124 @@
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "霧峰"
+  "area_label": "后里"
  },
- "7934847742591487174": {
-  "place_id": "ChIJ90QwdkQ7aTQRxsz5M_s9Hm4",
-  "name": "霧峰宵夜食為天",
-  "address": "413台灣臺中市霧峰區本堂里林森路435號",
-  "rating": 4.8,
-  "userRatingCount": 495,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=7934847742591487174&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.060161299999997,
-   "longitude": 120.69468769999999
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "8010228649959221789": {
-  "place_id": "ChIJU-buwxc7aTQRHep5YoQMKm8",
-  "name": "【翹腳鍋Qiao jiao hotpot】霧峰在地火鍋 訂位請提前30分鐘（不定期店休，可撥打電話確認）",
-  "address": "413台灣臺中市霧峰區本堂里四德路53號",
-  "rating": 5,
-  "userRatingCount": 116,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=8010228649959221789&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.064675599999998,
-   "longitude": 120.697472
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "10053037260432213459": {
-  "place_id": "ChIJxYWENDI7aTQR0wXUBSCQg4s",
-  "name": "一瓢石頭麻辣火鍋｜平價火鍋（共鍋服務）",
-  "address": "413台灣臺中市霧峰區本堂里樹仁五街6號",
-  "rating": 4.9,
-  "userRatingCount": 166,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=10053037260432213459&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.062946999999998,
-   "longitude": 120.6965428
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "2576886200885668854": {
-  "place_id": "ChIJMWD0XAA7aTQR9mtlxljwwiM",
-  "name": "億品鍋-霧峰店",
-  "address": "413台灣臺中市霧峰區本堂里四德路79號",
-  "rating": 4.7,
-  "userRatingCount": 1097,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=2576886200885668854&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.065026,
-   "longitude": 120.69682839999999
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "16661646551342106864": {
-  "place_id": "ChIJZ6r6mi47aTQR8Mjb4UIPOuc",
-  "name": "五鮮級鍋物專賣 霧峰林森店｜需現場候位",
-  "address": "41352台灣臺中市霧峰區本堂里林森路34號",
-  "rating": 4.7,
-  "userRatingCount": 1990,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=16661646551342106864&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0551237,
-   "longitude": 120.69640239999998
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "13345823211170973465": {
-  "place_id": "ChIJab8aWxc9aTQRGUcCWYDjNbk",
-  "name": "鼎拾八平價小火鍋／台中霧峰美食／台中霧峰小吃／台中霧峰小火鍋／台中霧峰團體訂餐／台中霧峰推薦美食／附近美食",
-  "address": "413台灣臺中市霧峰區南柳里柳豐六街36號1樓",
-  "rating": 4.9,
-  "userRatingCount": 1587,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=13345823211170973465&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.044155099999998,
-   "longitude": 120.68711399999998
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "6954260965076817476": {
-  "place_id": "ChIJtxz6S0Q7aTQRRNbEooB_gmA",
-  "name": "小胖鮮鍋（霧峰店）",
-  "address": "413台灣臺中市霧峰區本堂里育群路199號",
+ "12177821211831772939": {
+  "place_id": "ChIJE0c6-aMaaTQRCydzDd9PAKk",
+  "name": "天晴烤肉趣（天晴串燒）",
+  "address": "421台灣臺中市后里區厚里里甲后路一段796號",
   "rating": 4.5,
-  "userRatingCount": 2316,
+  "userRatingCount": 24,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=6954260965076817476&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=12177821211831772939&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.059639699999998,
-   "longitude": 120.69735899999999
+   "latitude": 24.3096952,
+   "longitude": 120.7181731
   },
   "types": [
-   "hot_pot_restaurant",
-   "seafood_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "5831719239401023658": {
+  "place_id": "ChIJVy6WdaEaaTQRqihPHsBt7lA",
+  "name": "乙吉松烤肉便當店-后里",
+  "address": "421台灣臺中市后里區墩東里民生路92號",
+  "rating": 4.1,
+  "userRatingCount": 234,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=5831719239401023658&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3073157,
+   "longitude": 120.71627720000001
+  },
+  "types": [
+   "deli",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "13852143703433727915": {
+  "place_id": "ChIJ2bynrd8baTQRq8_UdE6zPMA",
+  "name": "一米鐵板燒-后里店",
+  "address": "421台灣臺中市后里區墩南里三豐路三段755號",
+  "rating": 4.2,
+  "userRatingCount": 666,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=13852143703433727915&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3026266,
+   "longitude": 120.7223122
+  },
+  "types": [
    "japanese_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "霧峰"
+  "area_label": "后里"
  },
- "3392342977525344585": {
-  "place_id": "ChIJU6AKCHk9aTQRSWmw8_YFFC8",
-  "name": "日上石頭鍋物（平價小火鍋）",
-  "address": "413台灣臺中市霧峰區吉峰里中正路1228-1號",
-  "rating": 5,
-  "userRatingCount": 949,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=3392342977525344585&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0746833,
-   "longitude": 120.70016280000002
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "5663287444805973263": {
-  "place_id": "ChIJ6-fv65o7aTQRD_WW-OwJmE4",
-  "name": "六扇門時尚湯鍋-霧峰中正店",
-  "address": "413台灣臺中市霧峰區甲寅里中正路1066號",
-  "rating": 4.5,
-  "userRatingCount": 1388,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=5663287444805973263&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0687639,
-   "longitude": 120.69940869999998
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "17099033997245751974": {
-  "place_id": "ChIJoycISUQ7aTQRpiIpcNP4S-0",
-  "name": "鍋SIS（育群店）",
-  "address": "413台灣臺中市霧峰區本堂里育群路202號",
-  "rating": 4.3,
-  "userRatingCount": 212,
+ "13102473426584301365": {
+  "place_id": "ChIJq5oxfQAbaTQRNW-NXilW1bU",
+  "name": "維縈家鄉碳烤雞排-后里店",
+  "address": "42142台灣臺中市后里區后里里甲后路一段485號",
+  "rating": 4.7,
+  "userRatingCount": 215,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=17099033997245751974&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=13102473426584301365&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.059494599999997,
-   "longitude": 120.69703439999999
+   "latitude": 24.3089709,
+   "longitude": 120.72117109999999
   },
   "types": [
-   "hot_pot_restaurant",
+   "snack_bar",
+   "meal_takeaway",
    "restaurant",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "霧峰"
+  "area_label": "后里"
  },
- "17120316639318736053": {
-  "place_id": "ChIJn2fML1s7aTQRtXzNsEaVl-0",
-  "name": "丸三涮涮鍋",
-  "address": "413台灣臺中市霧峰區本堂里樹仁路40號號",
-  "rating": 4.4,
-  "userRatingCount": 137,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=17120316639318736053&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0639128,
-   "longitude": 120.69694439999999
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "1112009727062879691": {
-  "place_id": "ChIJtTVMPFo7aTQRy61cgPSmbg8",
-  "name": "鍋sir 餐廳（中正店）",
-  "address": "413台灣臺中市霧峰區本鄉里中正路1039號",
+ "18073050307864470909": {
+  "place_id": "ChIJJwBkWpcbaTQRfaUG-H9f0Po",
+  "name": "浪人鐵板燒 后里店",
+  "address": "421台灣臺中市后里區后里里三豐路四段236號",
   "rating": 4.5,
-  "userRatingCount": 261,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=1112009727062879691&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "userRatingCount": 289,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=18073050307864470909&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.067536099999998,
-   "longitude": 120.6988942
+   "latitude": 24.3129431,
+   "longitude": 120.72362140000001
   },
   "types": [
    "restaurant",
-   "chinese_restaurant",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "霧峰"
+  "area_label": "后里"
  },
- "4772714971324650770": {
-  "place_id": "ChIJZVYVpno7aTQREpX-v_oWPEI",
-  "name": "三媽臭臭鍋霧峰店",
-  "address": "413台灣臺中市霧峰區甲寅里中正路1100號",
+ "15646125044205610674": {
+  "place_id": "ChIJTZIHbRkbaTQRsuY3u9QzItk",
+  "name": "洄饗極の鍋物后里店",
+  "address": "421台灣臺中市后里區墩南里三豐路三段509號",
   "rating": 4.6,
-  "userRatingCount": 1110,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=4772714971324650770&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "userRatingCount": 870,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=15646125044205610674&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.069297199999998,
-   "longitude": 120.6993787
+   "latitude": 24.2963257,
+   "longitude": 120.7236797
   },
   "types": [
    "hot_pot_restaurant",
@@ -1695,45 +1252,358 @@
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "霧峰"
+  "area_label": "后里"
  },
- "12701671404136625712": {
-  "place_id": "ChIJe3jeeAA7aTQRMPZMgdhmRbA",
-  "name": "台北江麻辣臭豆腐霧峰店",
-  "address": "413台灣臺中市霧峰區本堂里四德路59號",
-  "rating": 4.9,
-  "userRatingCount": 325,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=12701671404136625712&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "17571550011275948275": {
+  "place_id": "ChIJQ3CWCmERaTQR8zAdH6Ov2vM",
+  "name": "鍋潮-自助火鍋吃到飽",
+  "address": "42150台灣臺中市后里區墩西里公安路一段99號",
+  "rating": 4.7,
+  "userRatingCount": 169,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=17571550011275948275&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.06468,
-   "longitude": 120.69733690000001
+   "latitude": 24.3027019,
+   "longitude": 120.72008110000002
   },
   "types": [
+   "hot_pot_restaurant",
    "restaurant",
-   "chinese_restaurant",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "霧峰"
+  "area_label": "后里"
  },
- "14398624228553780755": {
-  "place_id": "ChIJEy3do9E7aTQRE-5H3XIw0sc",
-  "name": "日染樹梢 • 底片咖啡廳｜甜點｜寫真紀念照",
-  "address": "413台灣臺中市霧峰區坑口里中正路573-12號",
-  "rating": 4.8,
-  "userRatingCount": 407,
+ "15913936488664240658": {
+  "place_id": "ChIJ373NJAARaTQREpL1uOuo2dw",
+  "name": "汕頭泉成沙茶潮鍋（台中麗寶店）",
+  "address": "421台灣臺中市后里區月眉里福容路201號",
+  "rating": 4.9,
+  "userRatingCount": 1789,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=14398624228553780755&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=15913936488664240658&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.050140199999998,
-   "longitude": 120.69404269999998
+   "latitude": 24.3242215,
+   "longitude": 120.6991794
   },
   "types": [
-   "coffee_shop",
-   "cafe",
+   "restaurant",
+   "hot_pot_restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "9586114435912039759": {
+  "place_id": "ChIJe1MNiLwbaTQRT_3HQEq4CIU",
+  "name": "鍋全日式涮涮鍋 后里店",
+  "address": "421台灣臺中市后里區墩東里成功路578號",
+  "rating": 4.5,
+  "userRatingCount": 360,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=9586114435912039759&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3040941,
+   "longitude": 120.71747029999999
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "1694285221279679152": {
+  "place_id": "ChIJK5W5GgoQaTQRsMKRmm5Pgxc",
+  "name": "菇八豆日式涮涮鍋",
+  "address": "421台灣臺中市后里區后里里甲后路一段999號",
+  "rating": 4.8,
+  "userRatingCount": 1101,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=1694285221279679152&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3109632,
+   "longitude": 120.70881739999999
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "3202114250403321745": {
+  "place_id": "ChIJc9Piq74RaTQRkZeB-fExcCw",
+  "name": "8鍋臭臭鍋-后里店",
+  "address": "421台灣臺中市后里區墩北里大圳路425號",
+  "rating": 4.6,
+  "userRatingCount": 163,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=3202114250403321745&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.307168299999997,
+   "longitude": 120.7097215
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "12957750342461186935": {
+  "place_id": "ChIJ16mssSYbaTQRd2OYikgt07M",
+  "name": "紅鍋匠四川麻辣火鍋",
+  "address": "421台灣臺中市后里區厚里里成功路215號",
+  "rating": 4.7,
+  "userRatingCount": 595,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=12957750342461186935&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.311631700000003,
+   "longitude": 120.7185578
+  },
+  "types": [
+   "restaurant",
+   "hot_pot_restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "16963279243753185515": {
+  "place_id": "ChIJ-0KWaXsRaTQR62CqzZisaes",
+  "name": "丹生炊事｜台中麗寶門市",
+  "address": "421台灣臺中市后里區月眉里福容路88號",
+  "rating": 4.5,
+  "userRatingCount": 209,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=16963279243753185515&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.323646699999998,
+   "longitude": 120.6965099
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "15943892491173813529": {
+  "place_id": "ChIJDTY4LyERaTQRGd1uEb8VRN0",
+  "name": "新這一鍋 台中麗寶殿",
+  "address": "421台灣臺中市后里區月眉里福容路201號二期C區1樓",
+  "rating": 4.9,
+  "userRatingCount": 7426,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=15943892491173813529&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3268389,
+   "longitude": 120.70307760000001
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "396220558155422935": {
+  "place_id": "ChIJVVmP1IIbaTQR15yPlX-ofwU",
+  "name": "一畝石鍋后里店",
+  "address": "421台灣臺中市后里區后里里三豐路四段223號",
+  "rating": 4.8,
+  "userRatingCount": 102,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=396220558155422935&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3143289,
+   "longitude": 120.7236263
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "8999747591758030122": {
+  "place_id": "ChIJee5KqBwQaTQRKiXqgsCG5Xw",
+  "name": "這一小鍋 台中麗寶店【經典店】",
+  "address": "421台灣臺中市后里區月眉里福容路201號1樓",
+  "rating": 4.8,
+  "userRatingCount": 12875,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=8999747591758030122&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.324970099999998,
+   "longitude": 120.70045119999999
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "7523986461115618880": {
+  "place_id": "ChIJkaXxHgARaTQRQBalldKRamg",
+  "name": "餐食光",
+  "address": "421台灣臺中市后里區墩西里公安路103-1號",
+  "rating": 4.6,
+  "userRatingCount": 68,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=7523986461115618880&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3050227,
+   "longitude": 120.7099454
+  },
+  "types": [
+   "family_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "466806073664797354": {
+  "place_id": "ChIJDwvsqqQaaTQRqvrIl6ZtegY",
+  "name": "鍋癮GOiN-台中后里店(前大呼過癮）",
+  "address": "421台灣臺中市后里區后里里甲后路一段425號",
+  "rating": 4.1,
+  "userRatingCount": 583,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=466806073664797354&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3087979,
+   "longitude": 120.72290950000001
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "170650261474668032": {
+  "place_id": "ChIJ1zAYADgbaTQRAG4GOIJFXgI",
+  "name": "六扇門時尚湯鍋 后里三豐店",
+  "address": "421台灣臺中市后里區后里里三豐路四段2號",
+  "rating": 4.1,
+  "userRatingCount": 1658,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=170650261474668032&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3090661,
+   "longitude": 120.7225619
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "11032910657169912407": {
+  "place_id": "ChIJzw2O0ewRaTQRV_I7r8nFHJk",
+  "name": "星野肉肉鍋(台中麗寶OUTLET店)",
+  "address": "421台灣臺中市后里區月眉里福容路201號二期C區2F",
+  "rating": 4.6,
+  "userRatingCount": 7582,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=11032910657169912407&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.326261499999998,
+   "longitude": 120.7028274
+  },
+  "types": [
+   "restaurant",
+   "hot_pot_restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "509280301348905760": {
+  "place_id": "ChIJD8doizERaTQRIGMBXbxTEQc",
+  "name": "集客人間茶館-台中麗寶店",
+  "address": "421台灣臺中市后里區月眉里福容路201號B區3樓",
+  "rating": 4.6,
+  "userRatingCount": 166,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=509280301348905760&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3242215,
+   "longitude": 120.6991794
+  },
+  "types": [
+   "tea_house",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "4872463826811811574": {
+  "place_id": "ChIJIbIPH58aaTQR9vYO-gh4nkM",
+  "name": "法米耶工坊",
+  "address": "421台灣臺中市后里區墩南里公安路一段247號",
+  "rating": 4.6,
+  "userRatingCount": 78,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=4872463826811811574&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.302491000000003,
+   "longitude": 120.71616929999998
+  },
+  "types": [
+   "bakery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "6569129497646381655": {
+  "place_id": "ChIJJwXQihEbaTQRV7rALnk8Kls",
+  "name": "山柒仔-甜點工作室（柒風蛋糕專賣）",
+  "address": "421台灣臺中市后里區義里里大山路40號",
+  "rating": 4.8,
+  "userRatingCount": 178,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=6569129497646381655&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3077151,
+   "longitude": 120.72997210000001
+  },
+  "types": [
    "dessert_shop",
+   "bakery",
    "confectionery",
    "food_store",
    "store",
@@ -1742,177 +1612,95 @@
    "service",
    "establishment"
   ],
-  "area_label": "霧峰"
+  "area_label": "后里"
  },
- "5868799449481079985": {
-  "place_id": "ChIJIf7DqdM7aTQRsexTTAEqclE",
-  "name": "三五鯛魚燒-霧峰店｜日式點心・人氣下午茶・甜點美食推薦・千層鯛魚燒",
-  "address": "413台灣臺中市霧峰區本鄉里民生路96號",
-  "rating": 4.9,
-  "userRatingCount": 74,
+ "2525998504248688692": {
+  "place_id": "ChIJIWtob2AbaTQRNEDpnEEmDiM",
+  "name": "午後の可麗餅-台中后里店（公休請看IG自介）",
+  "address": "421011台灣臺中市后里區墩西里公安路001鄰號28號",
+  "rating": 5,
+  "userRatingCount": 121,
   "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=5868799449481079985&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=2525998504248688692&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.067327100000004,
-   "longitude": 120.70148629999998
+   "latitude": 24.3042832,
+   "longitude": 120.7122162
   },
   "types": [
+   "french_restaurant",
    "dessert_shop",
    "confectionery",
+   "european_restaurant",
    "food_store",
    "store",
+   "restaurant",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "霧峰"
+  "area_label": "后里"
  },
- "5780654798001819384": {
-  "place_id": "ChIJO15Pb447aTQR-E4OXOkCOVA",
-  "name": "東榮手作烘焙",
-  "address": "413台灣臺中市霧峰區本堂里樹仁路67號",
-  "rating": 4.7,
-  "userRatingCount": 49,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=5780654798001819384&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.063099599999997,
-   "longitude": 120.69710089999998
-  },
-  "types": [
-   "bakery",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "10183030743581073517": {
-  "place_id": "ChIJucWhpLc7aTQRbSAIYIJkUY0",
-  "name": "樂夫雞蛋糕",
-  "address": "413台灣臺中市霧峰區萊園路17號",
+ "2337759009817887969": {
+  "place_id": "ChIJd8uLoKMaaTQR4QSq9m5jcSA",
+  "name": "倪菓手作千層蛋糕·彌月禮盒·創始店",
+  "address": "421台灣臺中市后里區后里里復興街63號",
   "rating": 4.9,
-  "userRatingCount": 91,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=10183030743581073517&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "userRatingCount": 735,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=2337759009817887969&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.0644404,
-   "longitude": 120.69971520000001
+   "latitude": 24.3079549,
+   "longitude": 120.72049419999999
   },
   "types": [
+   "cake_shop",
    "bakery",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "2054805760621877921": {
-  "place_id": "ChIJZZyFGFo7aTQRoRpL1PMihBw",
-  "name": "桂田食品行",
-  "address": "413台灣臺中市霧峰區中正里中正路926號",
-  "rating": 4.1,
-  "userRatingCount": 898,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=2054805760621877921&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.064749900000002,
-   "longitude": 120.6987673
-  },
-  "types": [
-   "bakery",
+   "dessert_shop",
+   "confectionery",
    "wholesaler",
    "manufacturer",
    "food_store",
-   "supplier",
    "store",
    "food",
    "point_of_interest",
    "service",
    "establishment"
   ],
-  "area_label": "霧峰"
+  "area_label": "后里"
  },
- "11877093931096929159": {
-  "place_id": "ChIJcRfOz0Q7aTQRh_P6tgDq06Q",
-  "name": "三大甜品屋",
-  "address": "413台灣臺中市霧峰區本堂里樹仁路66號",
-  "rating": 4,
-  "userRatingCount": 587,
+ "12939291835298050505": {
+  "place_id": "ChIJeYjwZ0MbaTQRyXENcF6ZkbM",
+  "name": "金水麵包店",
+  "address": "421台灣臺中市后里區厚里里甲后路一段538號",
+  "rating": 4.9,
+  "userRatingCount": 51,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=11877093931096929159&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=12939291835298050505&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.062984399999998,
-   "longitude": 120.696783
+   "latitude": 24.3089722,
+   "longitude": 120.72302649999999
   },
   "types": [
-   "dessert_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "1041979078069165884": {
-  "place_id": "ChIJfdmk9HI7aTQRPJ-za3PadQ4",
-  "name": "敘 MODERN •",
-  "address": "413台灣臺中市霧峰區南柳里柳豐路500號亞洲大學現代美術館 敘MODERN ·",
-  "rating": 4.1,
-  "userRatingCount": 286,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=1041979078069165884&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.047162999999998,
-   "longitude": 120.6879634
-  },
-  "types": [
-   "coffee_shop",
-   "cafe",
-   "dessert_shop",
-   "confectionery",
+   "bakery",
    "food_store",
    "store",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "霧峰"
+  "area_label": "后里"
  },
- "7750221413929041547": {
-  "place_id": "ChIJI4QN_tk7aTQRi77dQ1BRjms",
-  "name": "塊樂洋菓咖啡",
-  "address": "413台灣臺中市霧峰區坑口里和平路2-1號",
-  "rating": 5,
-  "userRatingCount": 23,
+ "1058594042482645952": {
+  "place_id": "ChIJ8U20FMAbaTQRwNuFR6zhsA4",
+  "name": "只有雞蛋糕",
+  "address": "421台灣臺中市后里區墩東里三豐路三段877號",
+  "rating": 4.9,
+  "userRatingCount": 86,
   "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=7750221413929041547&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=1058594042482645952&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.043408499999998,
-   "longitude": 120.69553529999999
-  },
-  "types": [
-   "garden",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "1096226181541454012": {
-  "place_id": "ChIJozrR3q47aTQRvOBCcOeTNg8",
-  "name": "OH!品康現烤甜甜圈(團購/外送/提前告知會安排時間製作)",
-  "address": "413台灣臺中市霧峰區德泰街51號",
-  "rating": 5,
-  "userRatingCount": 52,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=1096226181541454012&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0685181,
-   "longitude": 120.70049470000001
+   "latitude": 24.305909099999997,
+   "longitude": 120.7216531
   },
   "types": [
    "dessert_shop",
@@ -1923,40 +1711,153 @@
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "霧峰"
+  "area_label": "后里"
  },
- "17129580302652927945": {
-  "place_id": "ChIJEYLzKUQ7aTQRye8nY4d-uO0",
-  "name": "菓羽鹿 台中霧峰店",
-  "address": "413台灣臺中市霧峰區本堂里樹仁路62號",
+ "136965743928560366": {
+  "place_id": "ChIJdUCLF0QQaTQR7kpCUZ6Z5gE",
+  "name": "Michelle的廚房 法式鹹派",
+  "address": "421台灣臺中市后里區聯合里水門路41號",
   "rating": 4.6,
-  "userRatingCount": 57,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=17129580302652927945&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "userRatingCount": 429,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=136965743928560366&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.063007,
-   "longitude": 120.6967863
+   "latitude": 24.3067818,
+   "longitude": 120.68236239999999
   },
   "types": [
-   "juice_shop",
+   "bakery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "3410151876522106370": {
+  "place_id": "ChIJHSQkbHsRaTQRAl47XhBLUy8",
+  "name": "那個。木頭甜點工作室（預訂制）",
+  "address": "421台灣臺中市后里區眉山里安眉路143-11號",
+  "rating": 5,
+  "userRatingCount": 26,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=3410151876522106370&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3158419,
+   "longitude": 120.68603920000001
+  },
+  "types": [
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "9137068299964452831": {
+  "place_id": "ChIJh99SU6obaTQR3w_dYzVjzX4",
+  "name": "玥達人手作可麗餅 台中后里店",
+  "address": "421002台灣臺中市后里區義德里甲后路一段363號",
+  "rating": 4.9,
+  "userRatingCount": 97,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=9137068299964452831&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3086871,
+   "longitude": 120.7244491
+  },
+  "types": [
+   "french_restaurant",
+   "dessert_shop",
+   "confectionery",
+   "european_restaurant",
+   "food_store",
+   "store",
    "restaurant",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "霧峰"
+  "area_label": "后里"
  },
- "3932284356316519287": {
-  "place_id": "ChIJewn67Vo7aTQRd1sStslHkjY",
-  "name": "金芳珍餅店",
-  "address": "413台灣臺中市霧峰區中正里中正路934號",
-  "rating": 4.1,
-  "userRatingCount": 113,
+ "4320013195806229044": {
+  "place_id": "ChIJ9Qn7REUbaTQRNMIH-RzF8zs",
+  "name": "小熊燒 后里店",
+  "address": "421台灣臺中市后里區墩東里文明路92號",
+  "rating": 4.8,
+  "userRatingCount": 20,
   "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=3932284356316519287&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=4320013195806229044&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.0652437,
-   "longitude": 120.69887899999999
+   "latitude": 24.3068518,
+   "longitude": 120.7198166
+  },
+  "types": [
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "9929919668327353772": {
+  "place_id": "ChIJdeSx2UARaTQRrA3RzlMpzok",
+  "name": "那個咖啡屋",
+  "address": "421台灣臺中市后里區墩西里福音路97號",
+  "rating": 4.7,
+  "userRatingCount": 54,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=9929919668327353772&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.306058099999998,
+   "longitude": 120.71084460000002
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "8294898874006301564": {
+  "place_id": "ChIJ96DK5nsbaTQRfOvu4JNmHXM",
+  "name": "花花同樂會鬆餅",
+  "address": "42149台灣臺中市后里區墩東里文明路31巷25號",
+  "rating": 4.7,
+  "userRatingCount": 96,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=8294898874006301564&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.305642499999998,
+   "longitude": 120.7204248
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "13196235537643469215": {
+  "place_id": "ChIJvZPpOqAaaTQRn_mfCU5yIrc",
+  "name": "僑美食品行",
+  "address": "421台灣臺中市后里區墩東里民生路212號",
+  "rating": 4.6,
+  "userRatingCount": 25,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=13196235537643469215&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3062205,
+   "longitude": 120.7139191
   },
   "types": [
    "pastry_shop",
@@ -1969,107 +1870,145 @@
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "霧峰"
+  "area_label": "后里"
  },
- "2318586889256007084": {
-  "place_id": "ChIJS43O7So7aTQRrHX7yn1GLSA",
-  "name": "意象 in think",
-  "address": "413台灣臺中市霧峰區南柳里新厝路250號",
-  "rating": 4.7,
-  "userRatingCount": 29,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=2318586889256007084&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0592146,
-   "longitude": 120.68327749999999
-  },
-  "types": [
-   "coffee_roastery",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "7184863589040870681": {
-  "place_id": "ChIJCTqsuuI9aTQRGVVrAF7DtWM",
-  "name": "古珀咖啡",
-  "address": "41350台灣臺中市霧峰區吉峰里錦州路320號",
-  "rating": 5,
-  "userRatingCount": 52,
+ "13604881921506453414": {
+  "place_id": "ChIJiwfPewAbaTQRpqeGngZAzrw",
+  "name": "四口之家/咖啡/文創（后里森林園區內）",
+  "address": "421台灣臺中市后里區后里森林園區四口之家",
+  "rating": 4.8,
+  "userRatingCount": 62,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=7184863589040870681&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=13604881921506453414&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.0771542,
-   "longitude": 120.70825769999999
+   "latitude": 24.3045021,
+   "longitude": 120.7263516
   },
   "types": [
+   "coffee_shop",
    "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "11858758814777891977": {
-  "place_id": "ChIJ0a-TJuk7aTQRiVzex0_GkqQ",
-  "name": "溫咖好-手作坊（台灣咖啡豆）",
-  "address": "413台灣臺中市霧峰區坑口里和平路17號",
-  "rating": 5,
-  "userRatingCount": 402,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=11858758814777891977&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.043433600000004,
-   "longitude": 120.69617170000001
-  },
-  "types": [
-   "cafe",
-   "coffee_stand",
    "food_store",
    "store",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "霧峰"
+  "area_label": "后里"
  },
- "15531254298430854572": {
-  "place_id": "ChIJgRJpzkc7aTQRrNU6Dn8Zitc",
-  "name": "議蘆會館",
-  "address": "41341台灣臺中市霧峰區本堂里中正路734號民主議政園區內",
+ "10784946213762959145": {
+  "place_id": "ChIJMYedh6EaaTQRKQcJuXDTq5U",
+  "name": "伊豆咖啡簡餐",
+  "address": "421台灣臺中市后里區墩東里文明路37號",
   "rating": 4.2,
-  "userRatingCount": 2229,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=15531254298430854572&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "userRatingCount": 523,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=10784946213762959145&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.0545631,
-   "longitude": 120.69898719999998
+   "latitude": 24.306374599999998,
+   "longitude": 120.72039410000001
   },
   "types": [
-   "bed_and_breakfast",
-   "lodging",
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "14353228342325914017": {
+  "place_id": "ChIJWzoIpbwaaTQRoalndCHpMMc",
+  "name": "雅淇亞咖啡-YaChiYa Coffee",
+  "address": "421台灣臺中市后里區義德里甲后路一段11號1-1",
+  "rating": 4.8,
+  "userRatingCount": 69,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=14353228342325914017&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.307998899999998,
+   "longitude": 120.72427669999999
+  },
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "1053736943853453206": {
+  "place_id": "ChIJxbPkJKAaaTQRlj8X4Sqgnw4",
+  "name": "栗子咖啡 Chestnut Cafe",
+  "address": "421台灣臺中市后里區墩東里民生路213號",
+  "rating": 4.5,
+  "userRatingCount": 88,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=1053736943853453206&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3060247,
+   "longitude": 120.7139415
+  },
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "12582116940633113044": {
+  "place_id": "ChIJeR5wLgAbaTQR1IHc0LGonK4",
+  "name": "Starbucks星巴克 台中后里門市",
+  "address": "421台灣臺中市后里區后里里三豐路四段115號",
+  "rating": 4.5,
+  "userRatingCount": 167,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=12582116940633113044&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3117844,
+   "longitude": 120.72288130000001
+  },
+  "types": [
+   "coffee_shop",
+   "cafe",
    "food_store",
    "store",
-   "chinese_restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "4628699422583804737": {
+  "place_id": "ChIJxaxQRlgbaTQRQdMp15lxPEA",
+  "name": "永德堂薏仁牛奶-后里店",
+  "address": "421台灣臺中市后里區后里里復興街102號",
+  "rating": 5,
+  "userRatingCount": 147,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=4628699422583804737&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3084001,
+   "longitude": 120.7216018
+  },
+  "types": [
    "restaurant",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "霧峰"
+  "area_label": "后里"
  },
- "4003646035338695095": {
-  "place_id": "ChIJyVyakes7aTQRt5HDXtvOjzc",
-  "name": "Louisa Coffee 路易莎咖啡(霧峰樹仁門市)",
-  "address": "413台灣臺中市霧峰區本堂里樹仁路52號",
-  "rating": 4,
-  "userRatingCount": 325,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=4003646035338695095&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "1833637199977350618": {
+  "place_id": "ChIJIdGyAaAaaTQR2oWXf1Fjchk",
+  "name": "濃咖啡 PEI CAFE（採預約制）",
+  "address": "421台灣臺中市后里區墩北里中山路99號",
+  "rating": 4.1,
+  "userRatingCount": 21,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=1833637199977350618&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.0636404,
-   "longitude": 120.69689170000001
+   "latitude": 24.306049599999998,
+   "longitude": 120.71215690000001
   },
   "types": [
    "food_store",
@@ -2078,61 +2017,106 @@
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "霧峰"
+  "area_label": "后里"
  },
- "8538871727999488974": {
-  "place_id": "ChIJf0FEMBU7aTQRzhMJgpgqgHY",
-  "name": "心咖啡",
-  "address": "413台灣臺中市霧峰區南柳里福新路186-188號",
-  "rating": 4.8,
-  "userRatingCount": 54,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=8538871727999488974&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "12624223835787429939": {
+  "place_id": "ChIJsSkFRQMQaTQRMwghUbFAMq8",
+  "name": "恩典景觀咖啡廳",
+  "address": "421台灣臺中市后里區永豐里月眉北路486號",
+  "rating": 4.1,
+  "userRatingCount": 8693,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=12624223835787429939&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.0542542,
-   "longitude": 120.6871832
+   "latitude": 24.332516299999998,
+   "longitude": 120.70166409999999
   },
   "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "1132328196810261500": {
-  "place_id": "ChIJlwoC7kY7aTQR_MMI5H7Wtg8",
-  "name": "熊與貓咖啡書房",
-  "address": "413台灣臺中市霧峰區本堂里蘭生街50號",
-  "rating": 4.7,
-  "userRatingCount": 113,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=1132328196810261500&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0561007,
-   "longitude": 120.6968325
-  },
-  "types": [
-   "book_store",
-   "cafe",
+   "restaurant",
+   "bed_and_breakfast",
+   "barbecue_area",
+   "lodging",
+   "food_store",
    "store",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "霧峰"
+  "area_label": "后里"
  },
- "13235721716485881954": {
-  "place_id": "ChIJF9w9bRMjaTQRYoAQeca6rrc",
-  "name": "韓吉韓式料理-霧峰店",
-  "address": "413台灣臺中市霧峰區吉峰里吉峰東路76-6號",
-  "rating": 4.8,
-  "userRatingCount": 835,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=13235721716485881954&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "11607729129329340380": {
+  "place_id": "ChIJHV9saTMbaTQR3C-hiiTwFqE",
+  "name": "dreams夢想小茶館",
+  "address": "421台灣臺中市后里區厚里里甲后路一段555號",
+  "rating": 4.9,
+  "userRatingCount": 344,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=11607729129329340380&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.0731628,
-   "longitude": 120.71520559999998
+   "latitude": 24.3092252,
+   "longitude": 120.7196918
+  },
+  "types": [
+   "tea_house",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "6532529260979368869": {
+  "place_id": "ChIJXcWZ_Z8aaTQRpTOFhcA0qFo",
+  "name": "蘭亭茶藝館",
+  "address": "421台灣臺中市后里區墩西里中山路96號",
+  "rating": 4.2,
+  "userRatingCount": 384,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=6532529260979368869&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.305504799999998,
+   "longitude": 120.71209369999998
+  },
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "4044005410708576710": {
+  "place_id": "ChIJVUS21BARaTQRxtkKt34xHzg",
+  "name": "品皇咖啡后里店",
+  "address": "421台灣臺中市后里區墩北里甲后路一段891號",
+  "rating": 5,
+  "userRatingCount": 39,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=4044005410708576710&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3105856,
+   "longitude": 120.71147439999999
+  },
+  "types": [
+   "cafe",
+   "wholesaler",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "service",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "10697148908028043394": {
+  "place_id": "ChIJFd3gbmQRaTQRgiB4hEHoc5Q",
+  "name": "韓姜熙의小廚房 台中麗寶店",
+  "address": "421台灣臺中市后里區福容路201號3樓",
+  "rating": 4.1,
+  "userRatingCount": 548,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=10697148908028043394&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3242977,
+   "longitude": 120.6991781
   },
   "types": [
    "korean_restaurant",
@@ -2141,19 +2125,19 @@
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "霧峰"
+  "area_label": "后里"
  },
- "4852897226857725022": {
-  "place_id": "ChIJW-Ms4V07aTQRXjxV6lD0WEM",
-  "name": "熱火快炒",
-  "address": "413台灣臺中市霧峰區本堂里樹仁路100號",
-  "rating": 4.3,
-  "userRatingCount": 306,
+ "6474369696989422758": {
+  "place_id": "ChIJybviv-YbaTQRpqSbze-U2Vk",
+  "name": "如是我聞韓式海苔飯捲",
+  "address": "421台灣臺中市后里區墩東里文明路48號",
+  "rating": 4.5,
+  "userRatingCount": 70,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=4852897226857725022&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=6474369696989422758&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.061925,
-   "longitude": 120.6965889
+   "latitude": 24.3063301,
+   "longitude": 120.72099879999998
   },
   "types": [
    "restaurant",
@@ -2161,62 +2145,80 @@
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "霧峰"
+  "area_label": "后里"
  },
- "12306510144447773621": {
-  "place_id": "ChIJnflixnc7aTQRtfuMEMaByao",
-  "name": "快炒初爐",
-  "address": "413台灣臺中市霧峰區北柳里四德路384號",
-  "rating": 4.9,
-  "userRatingCount": 90,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=12306510144447773621&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0650707,
-   "longitude": 120.67946629999999
-  },
-  "types": [
-   "taiwanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "6783827552512329683": {
-  "place_id": "ChIJHzNTvyw7aTQR00cBfTf_JF4",
-  "name": "秘醬滷味 霧峰中正店|冷滷味|炒滷味",
-  "address": "413台灣臺中市霧峰區本堂里中正路877-1號",
-  "rating": 4.9,
-  "userRatingCount": 146,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=6783827552512329683&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0639753,
-   "longitude": 120.69847519999999
-  },
-  "types": [
-   "snack_bar",
-   "meal_takeaway",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "511769723128908752": {
-  "place_id": "ChIJQzt8I1o7aTQR0AvmCdorGgc",
-  "name": "霧峰老地方海產",
-  "address": "41351台灣臺中市霧峰區草湖路1-2號",
-  "rating": 4.1,
-  "userRatingCount": 252,
+ "14573685851404380341": {
+  "place_id": "ChIJt40kjEURaTQRtSgYMREiQMo",
+  "name": "涓豆腐 台中麗寶店",
+  "address": "42145台灣臺中市后里區月眉里福容路201號1樓",
+  "rating": 4,
+  "userRatingCount": 1306,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=511769723128908752&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=14573685851404380341&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.067738499999997,
-   "longitude": 120.69870979999999
+   "latitude": 24.325463799999998,
+   "longitude": 120.70068040000001
+  },
+  "types": [
+   "korean_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "8889164476867780348": {
+  "place_id": "ChIJuVwGLaUaaTQR_J65sf6nXHs",
+  "name": "璉興麵食",
+  "address": "421台灣臺中市后里區厚里里柑宅路15-5號",
+  "rating": 4.1,
+  "userRatingCount": 186,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=8889164476867780348&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.307519499999998,
+   "longitude": 120.71878330000001
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "1501334152999860405": {
+  "place_id": "ChIJqwu0WnAaaTQRtfi3LnXP1RQ",
+  "name": "橋邊蟹腳專賣店",
+  "address": "421台灣臺中市后里區廣福里三豐路三段778號",
+  "rating": 4.2,
+  "userRatingCount": 187,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=1501334152999860405&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3011533,
+   "longitude": 120.7230216
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "10751968227887072554": {
+  "place_id": "ChIJn0SnQrsaaTQRKsV-CyOqNpU",
+  "name": "兩兄妹炒飯炒麵（水云茶堂-后里店）",
+  "address": "421台灣臺中市后里區義德里甲后路一段418號",
+  "rating": 4,
+  "userRatingCount": 40,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=10751968227887072554&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3091363,
+   "longitude": 120.72530820000001
   },
   "types": [
    "chinese_restaurant",
@@ -2225,40 +2227,19 @@
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "霧峰"
+  "area_label": "后里"
  },
- "15835616448893976092": {
-  "place_id": "ChIJ60Q7zyU7aTQRHH6oc0Jpw9s",
-  "name": "富善雞湯麵舖-霧峰中正店",
-  "address": "413台灣臺中市霧峰區甲寅里中正路1066號1樓",
-  "rating": 4.6,
-  "userRatingCount": 209,
+ "4763407018180477779": {
+  "place_id": "ChIJ-e4ba7saaTQRUwNAB3IFG0I",
+  "name": "客庄美食館",
+  "address": "421台灣臺中市后里區義德里甲后路一段456巷20號",
+  "rating": 4.4,
+  "userRatingCount": 246,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=15835616448893976092&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=4763407018180477779&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.0687756,
-   "longitude": 120.69940170000001
-  },
-  "types": [
-   "chinese_noodle_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "6636486614872517704": {
-  "place_id": "ChIJRyakwxc7aTQRSGwcJGqJGVw",
-  "name": "一品現炒",
-  "address": "413台灣臺中市霧峰區南柳里柳豐路393號號",
-  "rating": 4.5,
-  "userRatingCount": 77,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=6636486614872517704&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.045291499999998,
-   "longitude": 120.6882038
+   "latitude": 24.309799299999998,
+   "longitude": 120.72455529999999
   },
   "types": [
    "restaurant",
@@ -2266,42 +2247,81 @@
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "霧峰"
+  "area_label": "后里"
  },
- "7731576172447349142": {
-  "place_id": "ChIJ800A6UQ7aTQRljmZsJATTGs",
-  "name": "西港牛肉麵",
-  "address": "413台灣臺中市霧峰區本堂里樹仁路103號 號",
-  "rating": 4,
-  "userRatingCount": 197,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=7731576172447349142&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0618825,
-   "longitude": 120.6968504
-  },
-  "types": [
-   "deli",
-   "food_store",
-   "store",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "17934563790249442109": {
-  "place_id": "ChIJZ4TQONs6aTQRPbtm775e5Pg",
-  "name": "阿發海產",
-  "address": "413台灣臺中市霧峰區萬豐里中正路120-8號",
+ "4563489027762025130": {
+  "place_id": "ChIJD4lYp7waaTQRqvIlpBfFVD8",
+  "name": "鄉之味",
+  "address": "421台灣臺中市后里區義德里甲后路355巷16號",
   "rating": 4.3,
-  "userRatingCount": 203,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=17934563790249442109&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "userRatingCount": 139,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=4563489027762025130&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.0216522,
-   "longitude": 120.69651520000001
+   "latitude": 24.3085372,
+   "longitude": 120.7244647
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "11877553246966420156": {
+  "place_id": "ChIJX2hOqaobaTQRvJI4hr-L1aQ",
+  "name": "廝廚手做食堂（6/20-6/21休息）",
+  "address": "421台灣臺中市后里區墩西里公安路一段290號",
+  "rating": 4.6,
+  "userRatingCount": 60,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=11877553246966420156&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.303543299999998,
+   "longitude": 120.713958
+  },
+  "types": [
+   "snack_bar",
+   "meal_takeaway",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "17881796483034982445": {
+  "place_id": "ChIJxaykwkobaTQRLSgh1SjnKPg",
+  "name": "火少爺專業炒飯",
+  "address": "421台灣臺中市后里區義德里甲后路一段456巷16弄1號",
+  "rating": 4,
+  "userRatingCount": 135,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=17881796483034982445&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3096271,
+   "longitude": 120.72470000000001
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "6194497704221402414": {
+  "place_id": "ChIJW5V3r6MaaTQRLuUWltdG91U",
+  "name": "富樂砂鍋 私廚 預約制",
+  "address": "421台灣臺中市后里區墩東里復興街28號",
+  "rating": 4.1,
+  "userRatingCount": 785,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=6194497704221402414&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.307520099999998,
+   "longitude": 120.7202475
   },
   "types": [
    "seafood_restaurant",
@@ -2310,102 +2330,19 @@
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "霧峰"
+  "area_label": "后里"
  },
- "3287044156710088817": {
-  "place_id": "ChIJQU6hHAA7aTQRcXC6uT7tnS0",
-  "name": "黑貓琴快炒",
-  "address": "413台灣臺中市霧峰區北勢里丁台路630號之3號",
-  "rating": 4.6,
-  "userRatingCount": 62,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=3287044156710088817&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "1079201498294406201": {
+  "place_id": "ChIJ19z4F6QaaTQROUzoegsY-g4",
+  "name": "阿富美食館",
+  "address": "421台灣臺中市后里區厚里里成功路227號",
+  "rating": 4.1,
+  "userRatingCount": 621,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=1079201498294406201&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.038301699999998,
-   "longitude": 120.66680190000001
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "15127313452634865436": {
-  "place_id": "ChIJzdD61hE7aTQRHP9J7m8D79E",
-  "name": "燒破灶麵館（後方有嘟嘟房停車場）",
-  "address": "413台灣臺中市霧峰區本鄉里中正路975號",
-  "rating": 4.7,
-  "userRatingCount": 280,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=15127313452634865436&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0661009,
-   "longitude": 120.69872439999999
-  },
-  "types": [
-   "chinese_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "15798151139360436837": {
-  "place_id": "ChIJGSv68M07aTQRZfKCUcJOPts",
-  "name": "火食麵館",
-  "address": "413台灣臺中市霧峰區本堂里樹仁路122號",
-  "rating": 4.8,
-  "userRatingCount": 183,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=15798151139360436837&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0612644,
-   "longitude": 120.6964963
-  },
-  "types": [
-   "noodle_shop",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "9599218132762030608": {
-  "place_id": "ChIJCcYz_0Q7aTQREPLEbAhGN4U",
-  "name": "道地越南小吃",
-  "address": "413台灣臺中市霧峰區本堂里育群路156-5號",
-  "rating": 4.3,
-  "userRatingCount": 1129,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=9599218132762030608&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0607091,
-   "longitude": 120.69720869999999
-  },
-  "types": [
-   "vietnamese_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "8246702311626876142": {
-  "place_id": "ChIJo_6-MkU7aTQR7qTpPA8scnI",
-  "name": "霧峰 度小月擔仔麵 🏮",
-  "address": "413台灣臺中市霧峰區本堂里中正路831-843號",
-  "rating": 4.2,
-  "userRatingCount": 273,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=8246702311626876142&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0630089,
-   "longitude": 120.69836450000001
+   "latitude": 24.3111633,
+   "longitude": 120.7183757
   },
   "types": [
    "taiwanese_restaurant",
@@ -2414,41 +2351,60 @@
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "霧峰"
+  "area_label": "后里"
  },
- "17630105167343823168": {
-  "place_id": "ChIJa81LVwA7aTQRQKlOzD23qvQ",
-  "name": "天心坊湯包-霧峰中正店",
-  "address": "413台灣臺中市霧峰區中正路785號",
-  "rating": 4.9,
-  "userRatingCount": 19,
+ "601431495858527532": {
+  "place_id": "ChIJu_fJGwgbaTQRLB1hS8K2WAg",
+  "name": "后里祥好 鍋燒/麵食/飯",
+  "address": "421台灣臺中市后里區甲后路一段355號巷1號",
+  "rating": 4.6,
+  "userRatingCount": 98,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=17630105167343823168&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=601431495858527532&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.0618008,
-   "longitude": 120.6981434
+   "latitude": 24.3087864,
+   "longitude": 120.7245855
   },
   "types": [
-   "snack_bar",
-   "meal_takeaway",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
-  "area_label": "霧峰"
+  "area_label": "后里"
  },
- "13336303114733842793": {
-  "place_id": "ChIJ-0OdBGQ7aTQRaXGlKgYRFLk",
-  "name": "吳媽媽古早味",
-  "address": "413台灣臺中市霧峰區本堂里樹仁路135號",
+ "2673193962853622144": {
+  "place_id": "ChIJkYWm_KkRaTQRgOGb-74XGSU",
+  "name": "仁古早味什錦麵（仁仁有麵吃）",
+  "address": "421台灣臺中市后里區墩西里公安路46號",
   "rating": 4.4,
-  "userRatingCount": 24,
+  "userRatingCount": 190,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=13336303114733842793&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=2673193962853622144&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.0607546,
-   "longitude": 120.69665699999999
+   "latitude": 24.304411599999998,
+   "longitude": 120.7119491
+  },
+  "types": [
+   "noodle_shop",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "9954959102283686617": {
+  "place_id": "ChIJwUujFDYbaTQR2SIpVY8eJ4o",
+  "name": "榮光飲食堂",
+  "address": "421台灣臺中市后里區后里里后里路27巷35號",
+  "rating": 4.7,
+  "userRatingCount": 57,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=9954959102283686617&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.310578099999997,
+   "longitude": 120.7213469
   },
   "types": [
    "restaurant",
@@ -2456,19 +2412,41 @@
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "霧峰"
+  "area_label": "后里"
  },
- "14465798160643357343": {
-  "place_id": "ChIJz5Rk3Fg7aTQRn3qltcjWwMg",
-  "name": "林記大腸麵線/滷肉飯小吃鋪",
-  "address": "413台灣臺中市霧峰區甲寅里中正路1142-1號",
-  "rating": 4.7,
-  "userRatingCount": 43,
+ "13949834432583514386": {
+  "place_id": "ChIJB1ka9KMaaTQREjmnzYHEl8E",
+  "name": "后里魷魚羹蝦仁羹蒜肉飯",
+  "address": "421台灣臺中市后里區厚里里甲后路一段756號",
+  "rating": 4.3,
+  "userRatingCount": 202,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=14465798160643357343&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=13949834432583514386&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.0703058,
-   "longitude": 120.6996589
+   "latitude": 24.3095704,
+   "longitude": 120.71877719999999
+  },
+  "types": [
+   "restaurant",
+   "food_court",
+   "chinese_restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "15440845389107063457": {
+  "place_id": "ChIJxwPUYzcQaTQRoWp0gRLnSNY",
+  "name": "長林肉圓、臭豆腐",
+  "address": "421台灣臺中市后里區墩北里甲后路一段655號",
+  "rating": 4.4,
+  "userRatingCount": 956,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=15440845389107063457&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3095786,
+   "longitude": 120.71742169999999
   },
   "types": [
    "deli",
@@ -2478,60 +2456,40 @@
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "霧峰"
+  "area_label": "后里"
  },
- "11772207840162997393": {
-  "place_id": "ChIJqduR6Vo7aTQRkeT7pqhIX6M",
-  "name": "霧峰鄒記餡餅（霧峰市區）",
-  "address": "413台灣臺中市霧峰區中正里萊園路13號本店不定時排休假日，請先看“最新動態”,手機無回應即休假中",
-  "rating": 4.5,
-  "userRatingCount": 484,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=11772207840162997393&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0645638,
-   "longitude": 120.6992732
-  },
-  "types": [
-   "taiwanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "2732643143829356173": {
-  "place_id": "ChIJbZdIdFs7aTQRjf7aDXZM7CU",
-  "name": "霧峰大餅",
-  "address": "413台灣臺中市霧峰區中正里中潭公路759-761號",
-  "rating": 4.6,
-  "userRatingCount": 41,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=2732643143829356173&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.066591600000002,
-   "longitude": 120.69595500000001
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "13867340532633865907": {
-  "place_id": "ChIJJ7uiPUQ7aTQRs44E-72wcsA",
-  "name": "樹仁擔仔麵",
-  "address": "413台灣臺中市霧峰區本堂里樹仁路167-1號",
+ "14056397871566054028": {
+  "place_id": "ChIJhza9Z3UQaTQRjGJA5GNbEsM",
+  "name": "管江胡麵館（原銘記牛肉麵",
+  "address": "421台灣臺中市后里區墩西里中山路39號",
   "rating": 4.2,
-  "userRatingCount": 41,
+  "userRatingCount": 881,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=13867340532633865907&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=14056397871566054028&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.0592407,
-   "longitude": 120.6964786
+   "latitude": 24.304705199999997,
+   "longitude": 120.711441
+  },
+  "types": [
+   "chinese_noodle_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "8400602079038686499": {
+  "place_id": "ChIJCQaDF6AaaTQRI0WCJBXvlHQ",
+  "name": "正老牌鮮肉湯包",
+  "address": "421台灣臺中市后里區墩北里民生路231號",
+  "rating": 4.1,
+  "userRatingCount": 113,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=8400602079038686499&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3063982,
+   "longitude": 120.7130668
   },
   "types": [
    "restaurant",
@@ -2539,243 +2497,516 @@
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "霧峰"
+  "area_label": "后里"
  },
- "9148889244499253772": {
-  "place_id": "ChIJfRYINTY7aTQRDBrFg0ti934",
-  "name": "究香一碗",
-  "address": "413台灣臺中市霧峰區本堂里中正路767-1號",
+ "11709851156409960678": {
+  "place_id": "ChIJ5ZYTXkcbaTQR5kiD1pW_gaI",
+  "name": "后里Hi 后里總店",
+  "address": "421台灣臺中市后里區墩東里文明路31巷1號",
+  "rating": 4.3,
+  "userRatingCount": 90,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=11709851156409960678&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3062455,
+   "longitude": 120.7207055
+  },
+  "types": [
+   "deli",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "4863695464721922061": {
+  "place_id": "ChIJZ635W6MaaTQRDbhtlkFRf0M",
+  "name": "珍珍小吃",
+  "address": "421台灣臺中市后里區后里里三豐路三段1138號",
+  "rating": 4.1,
+  "userRatingCount": 252,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=4863695464721922061&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.308588,
+   "longitude": 120.722433
+  },
+  "types": [
+   "deli",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "2961999895758613212": {
+  "place_id": "ChIJx4nU9pMbaTQR3KpvOzYjGyk",
+  "name": "后里湯餃",
+  "address": "421台灣臺中市后里區甲后路一段513號",
+  "rating": 4.3,
+  "userRatingCount": 188,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=2961999895758613212&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.309073899999998,
+   "longitude": 120.7205978
+  },
+  "types": [
+   "dumpling_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "3746659686669769328": {
+  "place_id": "ChIJsVmYYfkbaTQRcFo6ZiLP_jM",
+  "name": "巷口意麵",
+  "address": "421台灣臺中市后里區墩西里四村路85號",
+  "rating": 4.6,
+  "userRatingCount": 128,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=3746659686669769328&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.304975199999998,
+   "longitude": 120.7127986
+  },
+  "types": [
+   "noodle_shop",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "14432493240662742761": {
+  "place_id": "ChIJAadP96MaaTQR6dbtwCKESsg",
+  "name": "后里一修麻辣大腸麵線",
+  "address": "421台灣臺中市后里區厚里里甲后路一段772號",
+  "rating": 4.2,
+  "userRatingCount": 773,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=14432493240662742761&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3096158,
+   "longitude": 120.7185601
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "8426764430734679520": {
+  "place_id": "ChIJgbeV2t0baTQR4F3WU5rh8XQ",
+  "name": "腸旺蚵仔麵線蚵仔煎",
+  "address": "421台灣臺中市后里區后里里甲后路一段443-1號",
+  "rating": 4.5,
+  "userRatingCount": 45,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=8426764430734679520&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3087913,
+   "longitude": 120.72215080000001
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "6577118330592632163": {
+  "place_id": "ChIJO_xl1VQbaTQRYx2vTEaeRls",
+  "name": "紅豆阿嬤（四村店）",
+  "address": "421台灣臺中市后里區墩西里四村路95號",
   "rating": 4.4,
-  "userRatingCount": 86,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=9148889244499253772&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.060886099999998,
-   "longitude": 120.6980193
-  },
-  "types": [
-   "noodle_shop",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "15949983791111239079": {
-  "place_id": "ChIJX5Of7lo7aTQRp3VsWsC5Wd0",
-  "name": "大湯匙茶飯館",
-  "address": "413台灣臺中市霧峰區中正里中正路926之1號",
-  "rating": 4.1,
-  "userRatingCount": 248,
+  "userRatingCount": 465,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=15949983791111239079&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=6577118330592632163&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.0647837,
-   "longitude": 120.69877369999999
-  },
-  "types": [
-   "taiwanese_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "6729580023459350713": {
-  "place_id": "ChIJ0bC5nRg7aTQRuQjcYWBFZF0",
-  "name": "家粥-霧峰中正店",
-  "address": "413台灣臺中市霧峰區本鄉里中正路1033號",
-  "rating": 4.6,
-  "userRatingCount": 34,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=6729580023459350713&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0673073,
-   "longitude": 120.6988762
+   "latitude": 24.305163399999998,
+   "longitude": 120.7128841
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
-  "area_label": "霧峰"
+  "area_label": "后里"
  },
- "2995815146864152428": {
-  "place_id": "ChIJWcOsLng7aTQRbI-S6QBGkyk",
-  "name": "麵屋黑心",
-  "address": "413台灣臺中市霧峰區本堂里育群路264號",
-  "rating": 4.6,
-  "userRatingCount": 1132,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=2995815146864152428&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.058097900000003,
-   "longitude": 120.6966545
-  },
-  "types": [
-   "ramen_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "12239893944786316708": {
-  "place_id": "ChIJe8qZ4IU7aTQRpG1xa7HW3Kk",
-  "name": "霧峰區農會黑翅鳶麵食館",
-  "address": "413台灣臺中市霧峰區六股里中正路369號",
-  "rating": 4.6,
-  "userRatingCount": 182,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=12239893944786316708&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.039552999999998,
-   "longitude": 120.6926153
-  },
-  "types": [
-   "chinese_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "8410002614517648599": {
-  "place_id": "ChIJoTGhB0U7aTQR10xu3tFUtnQ",
-  "name": "霧峰鵝霸王快餐便當",
-  "address": "413台灣臺中市霧峰區本堂里中正路776號",
-  "rating": 4.2,
-  "userRatingCount": 152,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=8410002614517648599&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0605087,
-   "longitude": 120.6983149
-  },
-  "types": [
-   "restaurant",
-   "taiwanese_restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "14469920605227390394": {
-  "place_id": "ChIJmYjchLQ7aTQRuhWvIiB8z8g",
-  "name": "樂霧拉麵",
-  "address": "413台灣臺中市霧峰區本堂里樹仁路78號",
-  "rating": 4.8,
-  "userRatingCount": 295,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=14469920605227390394&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0626078,
-   "longitude": 120.69673290000001
-  },
-  "types": [
-   "ramen_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "2624186449705094554": {
-  "place_id": "ChIJ6ZwMat07aTQRms0QJ6z7aiQ",
-  "name": "清爸食堂",
-  "address": "413台灣臺中市霧峰區甲寅里德維街44號",
-  "rating": 4.5,
-  "userRatingCount": 191,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=2624186449705094554&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.0694651,
-   "longitude": 120.7006866
-  },
-  "types": [
-   "chinese_restaurant",
-   "taiwanese_restaurant",
-   "noodle_shop",
-   "chinese_noodle_restaurant",
-   "family_restaurant",
-   "meal_delivery",
-   "food_delivery",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "霧峰"
- },
- "11153215226820368366": {
-  "place_id": "ChIJlfrNGkU7aTQR7hcbEiguyJo",
-  "name": "霧峰牛家莊",
-  "address": "413台灣臺中市霧峰區本堂里中正路823號",
+ "8871584545524884964": {
+  "place_id": "ChIJO8nH9qMaaTQR5CXb9iMzHns",
+  "name": "鬍鬚伯小吃",
+  "address": "421台灣臺中市后里區厚里里甲后路一段760號",
   "rating": 4,
-  "userRatingCount": 185,
+  "userRatingCount": 157,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=11153215226820368366&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=8871584545524884964&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.0627013,
-   "longitude": 120.6983056
+   "latitude": 24.3095338,
+   "longitude": 120.71873129999999
+  },
+  "types": [
+   "chinese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "1735466306589603792": {
+  "place_id": "ChIJp6zsQRQQaTQR0LfuM2mdFRg",
+  "name": "月眉糖廠-協力旺雞排",
+  "address": "421台灣臺中市后里區眉山里甲后路二段510號",
+  "rating": 4.9,
+  "userRatingCount": 691,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=1735466306589603792&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3138352,
+   "longitude": 120.69298780000001
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "5140056059186440126": {
+  "place_id": "ChIJh15wWKMaaTQRvudmrcAlVUc",
+  "name": "后里協力旺｜雞排、雞酥羹",
+  "address": "421台灣臺中市后里區后里里甲后路一段435號",
+  "rating": 4,
+  "userRatingCount": 147,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=5140056059186440126&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3087694,
+   "longitude": 120.72266309999999
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "16554055898761987616": {
+  "place_id": "ChIJ89VDpeoaaTQRIAar_SHSu-U",
+  "name": "春蘭餐館",
+  "address": "421台灣臺中市后里區廣福里寺山路13號",
+  "rating": 4.1,
+  "userRatingCount": 365,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=16554055898761987616&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.300214,
+   "longitude": 120.735901
+  },
+  "types": [
+   "chinese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "10346454271879703675": {
+  "place_id": "ChIJ12PscaMaaTQRe2w2qFf9lY8",
+  "name": "香蕉樹餐飲店（無任何分店）",
+  "address": "421台灣臺中市后里區后里里復興街85號",
+  "rating": 4.2,
+  "userRatingCount": 1138,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=10346454271879703675&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3083371,
+   "longitude": 120.72116059999999
+  },
+  "types": [
+   "deli",
+   "taiwanese_restaurant",
+   "food_store",
+   "store",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "17964122182127205060": {
+  "place_id": "ChIJQUgwpwoQaTQRxDpoV_JhTfk",
+  "name": "民生麵館",
+  "address": "421台灣臺中市后里區墩北里民生路253號",
+  "rating": 4.4,
+  "userRatingCount": 137,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=17964122182127205060&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3069003,
+   "longitude": 120.71185349999999
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "6170080563398707189": {
+  "place_id": "ChIJ1_L7VLsaaTQR9Qfs-JSHoFU",
+  "name": "豐原排骨酥麵",
+  "address": "421台灣臺中市后里區后里里甲后路一段395號",
+  "rating": 4,
+  "userRatingCount": 285,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=6170080563398707189&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3088408,
+   "longitude": 120.7237199
+  },
+  "types": [
+   "noodle_shop",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "9289105925561391953": {
+  "place_id": "ChIJJRGVhQgaaTQRURsQnp-I6YA",
+  "name": "Kiss Me春米點心美食",
+  "address": "421台灣臺中市后里區墩南里三豐路三段103號",
+  "rating": 4.4,
+  "userRatingCount": 687,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=9289105925561391953&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.286670599999997,
+   "longitude": 120.72282179999999
+  },
+  "types": [
+   "snack_bar",
+   "meal_takeaway",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "1936343713436223051": {
+  "place_id": "ChIJ8-22mKQaaTQRS0ZtIllG3xo",
+  "name": "泰國美食",
+  "address": "42143台灣臺中市后里區后里里三豐路269巷15號",
+  "rating": 4.5,
+  "userRatingCount": 169,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=1936343713436223051&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.307879099999997,
+   "longitude": 120.7215437
+  },
+  "types": [
+   "thai_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "15323929847047950658": {
+  "place_id": "ChIJTSPnuKQaaTQRQpFMmAGJqdQ",
+  "name": "金燕便當",
+  "address": "421台灣臺中市后里區后里里三豐路四段63號",
+  "rating": 4.1,
+  "userRatingCount": 88,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=15323929847047950658&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3104525,
+   "longitude": 120.722581
+  },
+  "types": [
+   "restaurant",
+   "meal_takeaway",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "4386472460618788253": {
+  "place_id": "ChIJqR3LQaMaaTQRnW03YHbh3zw",
+  "name": "鄭爌肉飯",
+  "address": "421台灣臺中市后里區后里里三豐路三段955號",
+  "rating": 4.2,
+  "userRatingCount": 1651,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=4386472460618788253&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.307965799999998,
+   "longitude": 120.7219385
+  },
+  "types": [
+   "snack_bar",
+   "buffet_restaurant",
+   "meal_takeaway",
+   "food_store",
+   "store",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "505397386754479159": {
+  "place_id": "ChIJ9RODqFIbaTQRN1Tp2z6IAwc",
+  "name": "三木食麵",
+  "address": "421台灣臺中市后里區后里里三豐路四段36號",
+  "rating": 4.2,
+  "userRatingCount": 112,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=505397386754479159&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.309580399999998,
+   "longitude": 120.72272109999999
   },
   "types": [
    "chinese_noodle_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
-  "area_label": "霧峰"
+  "area_label": "后里"
  },
- "2618570098980308786": {
-  "place_id": "ChIJSYrpQgA7aTQRMkcumaEHVyQ",
-  "name": "粥大福-霧峰中正店",
-  "address": "413台灣臺中市霧峰區本堂里中正路910號",
-  "rating": 4.1,
-  "userRatingCount": 595,
+ "1395713575001445920": {
+  "place_id": "ChIJ0xL_S40baTQRINYmBhqSXhM",
+  "name": "石一籠湯包 后里店",
+  "address": "421台灣臺中市后里區三豐路四段85號",
+  "rating": 4.4,
+  "userRatingCount": 61,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=2618570098980308786&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=1395713575001445920&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.064294200000003,
-   "longitude": 120.69879639999999
+   "latitude": 24.3108804,
+   "longitude": 120.7227147
   },
   "types": [
+   "chinese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
-  "area_label": "霧峰"
+  "area_label": "后里"
  },
- "11940764323283826320": {
-  "place_id": "ChIJFyoP5Tw7aTQRkHb9G-MdtqU",
-  "name": "玉鳳越南小吃",
-  "address": "413台灣臺中市霧峰區中正路546號",
-  "rating": 4.5,
-  "userRatingCount": 248,
+ "17114077700685150933": {
+  "place_id": "ChIJN2WJ5dobaTQR1brFl_5qge0",
+  "name": "品客手桿牛肉麵",
+  "address": "421台灣臺中市后里區墩南里三豐路三段805號",
+  "rating": 4.2,
+  "userRatingCount": 76,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=11940764323283826320&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=17114077700685150933&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.0449233,
-   "longitude": 120.692408
+   "latitude": 24.3041047,
+   "longitude": 120.7220024
   },
   "types": [
-   "vietnamese_restaurant",
+   "chinese_noodle_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
-  "area_label": "霧峰"
+  "area_label": "后里"
+ },
+ "16014104828156603326": {
+  "place_id": "ChIJW2Hl7-AbaTQRvmskrn6HPd4",
+  "name": "舞奇雞經典炸雞專賣 后里三豐店",
+  "address": "421台灣臺中市后里區后里里三豐路三段1126號",
+  "rating": 4.8,
+  "userRatingCount": 50,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=16014104828156603326&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3084606,
+   "longitude": 120.7223861
+  },
+  "types": [
+   "snack_bar",
+   "meal_takeaway",
+   "chinese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "12587596316060853787": {
+  "place_id": "ChIJvz_9VAAbaTQRG6bSUiggsK4",
+  "name": "冒熹·湯滷專賣",
+  "address": "421台灣臺中市后里區西湳里三豐路三段997號",
+  "rating": 4.3,
+  "userRatingCount": 135,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=12587596316060853787&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.308702399999998,
+   "longitude": 120.72213070000001
+  },
+  "types": [
+   "chinese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "9459660469381940218": {
+  "place_id": "ChIJKzCHK6UaaTQR-sNQ1RN3R4M",
+  "name": "后里容記手工牛肉麵",
+  "address": "421台灣臺中市后里區后里里三豐路三段951巷29號",
+  "rating": 4.3,
+  "userRatingCount": 95,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=9459660469381940218&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3079797,
+   "longitude": 120.72128989999999
+  },
+  "types": [
+   "chinese_noodle_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
  }
 }
