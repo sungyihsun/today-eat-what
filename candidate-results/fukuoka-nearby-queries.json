@@ -1,11 +1,119 @@
 [
- {"key":"dazaifu","query":"太宰府天満宮","lat":33.5216,"lng":130.5344,"expect":["太宰府市"]},
- {"key":"dazaifu-starbucks","query":"スターバックス コーヒー 太宰府天満宮表参道店","lat":33.5216,"lng":130.5344,"expect":["太宰府市"]},
- {"key":"meotoiwa","query":"桜井二見ヶ浦 夫婦岩","lat":33.5036,"lng":130.1580,"expect":["糸島市"]},
- {"key":"keya","query":"芥屋の大門","lat":33.5800,"lng":130.1100,"expect":["糸島市"]},
- {"key":"shiraito","query":"白糸の滝","lat":33.4400,"lng":130.2100,"expect":["糸島市"]},
- {"key":"nokonoshima","query":"能古島アイランドパーク","lat":33.6400,"lng":130.3100,"expect":["福岡市"]},
- {"key":"uminonakamichi","query":"国営海の中道海浜公園","lat":33.6600,"lng":130.3600,"expect":["福岡市"]},
- {"key":"yanagawa","query":"柳川藩主立花邸 御花","lat":33.1600,"lng":130.4000,"expect":["柳川市"]},
- {"key":"fukuhaku","query":"福博であい橋","lat":33.5920,"lng":130.4070,"expect":["福岡市"]}
+ {
+  "key": "dazaifu",
+  "query": "太宰府天満宮",
+  "lat": 33.5216,
+  "lng": 130.5344,
+  "expect": [
+   "太宰府市"
+  ]
+ },
+ {
+  "key": "dazaifu-starbucks",
+  "query": "スターバックス コーヒー 太宰府天満宮表参道店",
+  "lat": 33.5216,
+  "lng": 130.5344,
+  "expect": [
+   "太宰府市"
+  ]
+ },
+ {
+  "key": "meotoiwa",
+  "query": "桜井二見ヶ浦 夫婦岩",
+  "lat": 33.5036,
+  "lng": 130.158,
+  "expect": [
+   "糸島市"
+  ]
+ },
+ {
+  "key": "keya",
+  "query": "芥屋の大門",
+  "lat": 33.58,
+  "lng": 130.11,
+  "expect": [
+   "糸島市"
+  ]
+ },
+ {
+  "key": "shiraito",
+  "query": "白糸の滝",
+  "lat": 33.44,
+  "lng": 130.21,
+  "expect": [
+   "糸島市"
+  ]
+ },
+ {
+  "key": "nokonoshima",
+  "query": "能古島アイランドパーク",
+  "lat": 33.64,
+  "lng": 130.31,
+  "expect": [
+   "福岡市"
+  ]
+ },
+ {
+  "key": "uminonakamichi",
+  "query": "国営海の中道海浜公園",
+  "lat": 33.66,
+  "lng": 130.36,
+  "expect": [
+   "福岡市"
+  ]
+ },
+ {
+  "key": "yanagawa",
+  "query": "柳川藩主立花邸 御花",
+  "lat": 33.16,
+  "lng": 130.4,
+  "expect": [
+   "柳川市"
+  ]
+ },
+ {
+  "key": "fukuhaku",
+  "query": "福博であい橋",
+  "lat": 33.592,
+  "lng": 130.407,
+  "expect": [
+   "福岡市"
+  ]
+ },
+ {
+  "key": "miyajidake",
+  "query": "宮地嶽神社",
+  "lat": 33.75,
+  "lng": 130.49,
+  "expect": [
+   "福津市"
+  ]
+ },
+ {
+  "key": "aishima",
+  "query": "相島 猫島",
+  "lat": 33.7,
+  "lng": 130.43,
+  "expect": [
+   "新宮町"
+  ]
+ },
+ {
+  "key": "aburayama",
+  "query": "油山展望台",
+  "lat": 33.53,
+  "lng": 130.37,
+  "expect": [
+   "福岡市"
+  ]
+ },
+ {
+  "key": "shikanoshima",
+  "query": "志賀島 金印公園",
+  "lat": 33.67,
+  "lng": 130.3,
+  "expect": [
+   "福岡市"
+  ]
+ }
 ]

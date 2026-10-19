@@ -1,0 +1,42 @@
+name: Search Fukuoka trip candidates
+
+# Trigger: commit candidate-results/fukuoka-search-queries.json to DEV.
+# Runs search_trip_candidates.py and publishes candidate-results/fukuoka-search-results.json.
+# Separate from search-restaurant-candidates.yml so the Taichung sweep is never touched.
+on:
+  push:
+    branches: [DEV]
+    paths:
+      - candidate-results/fukuoka-search-queries.json
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: search-fukuoka-trip
+  cancel-in-progress: true
+
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: DEV
+      - name: Search
+        env:
+          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+          TRIP_SEARCH_IN: candidate-results/fukuoka-search-queries.json
+          TRIP_SEARCH_OUT: candidate-results/fukuoka-search-results.json
+        run: |
+          test -n "$GOOGLE_PLACES_API_KEY"
+          python3 .claude/skills/add-restaurant/scripts/search_trip_candidates.py
+      - name: Publish to DEV
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add candidate-results/fukuoka-search-results.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Publish Fukuoka trip search results"
+          for i in 1 2 3 4 5; do git push && break; git pull --rebase -X theirs origin DEV; done
