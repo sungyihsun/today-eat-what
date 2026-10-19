@@ -1,9 +1,6 @@
 {
  "_note": "台中全區補完排程的狀態檔。規則見 .claude/skills/add-restaurant/TAICHUNG_SWEEP.md。",
- "in_progress": {
-  "district": "台中南區",
-  "started_at": "2026-10-19T07:29:57Z"
- },
+ "in_progress": null,
  "done": {
   "西區": {
    "count": 20,
@@ -40,6 +37,14 @@
    "finished_at": "2026-10-19T07:29:57Z",
    "sync_verified": true,
    "prd_promoted": true
+  },
+  "台中南區": {
+   "area": "台中南區",
+   "count": 30,
+   "qas_commit": "0eedfe0e25f5b5244ba689bca7d64a99971de29d",
+   "finished_at": "2026-10-19T07:33:24Z",
+   "sync_verified": true,
+   "prd_promoted": true
   }
  },
  "skipped": {
@@ -70,20 +75,6 @@
   }
  },
  "queue": [
-  {
-   "area": "台中南區",
-   "label": "台中南區",
-   "slug": "nanqu",
-   "center": [
-    24.123,
-    120.664
-   ],
-   "landmarks": [
-    "忠孝夜市 美食",
-    "興大 美食"
-   ],
-   "population_approx": 124000
-  },
   {
    "area": "豐原",
    "label": "豐原",
