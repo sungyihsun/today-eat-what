@@ -77,8 +77,8 @@
    "coffee_shop",
    "cafe",
    "food_store",
-   "food",
    "store",
+   "food",
    "point_of_interest",
    "establishment"
   ],
@@ -99,8 +99,8 @@
   "types": [
    "taiwanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "外埔"
@@ -139,8 +139,8 @@
   },
   "types": [
    "cafe",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "外埔"
@@ -179,12 +179,12 @@
   },
   "types": [
    "restaurant",
-   "food_court",
    "farmers_market",
+   "food_court",
    "market",
+   "food",
    "store",
    "point_of_interest",
-   "food",
    "establishment"
   ],
   "area_label": "外埔"
@@ -204,8 +204,8 @@
   "types": [
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "外埔"
@@ -225,8 +225,8 @@
   "types": [
    "western_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "外埔"
@@ -268,8 +268,8 @@
    "restaurant",
    "deli",
    "food_store",
-   "food",
    "store",
+   "food",
    "point_of_interest",
    "establishment"
   ],
@@ -411,8 +411,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "外埔"
@@ -597,8 +597,8 @@
   "types": [
    "deli",
    "food_store",
-   "food",
    "store",
+   "food",
    "point_of_interest",
    "establishment"
   ],
@@ -621,8 +621,8 @@
    "confectionery",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "外埔"
@@ -643,8 +643,8 @@
    "bakery",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "外埔"
@@ -663,8 +663,8 @@
   },
   "types": [
    "coffee_roastery",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "外埔"
@@ -686,8 +686,8 @@
    "cafe",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "外埔"
@@ -707,8 +707,8 @@
   "types": [
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "外埔"
@@ -748,8 +748,8 @@
    "snack_bar",
    "meal_takeaway",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "外埔"
@@ -787,29 +787,50 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "外埔"
  },
- "17049251379725238942": {
-  "place_id": "ChIJacq0kv8RaTQRnoLcjswbm-w",
-  "name": "御珍欣二代目",
-  "address": "438台灣臺中市外埔區大東里甲后路五段130巷15號",
-  "rating": 4,
-  "userRatingCount": 95,
+ "12114533180418948164": {
+  "place_id": "ChIJj9VUzFARaTQRRPyN9r13H6g",
+  "name": "麵拾光",
+  "address": "438台灣臺中市外埔區大東里甲后路五段256號",
+  "rating": 4.8,
+  "userRatingCount": 24,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=17049251379725238942&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=12114533180418948164&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.3432838,
-   "longitude": 120.63743050000001
+   "latitude": 24.343908600000002,
+   "longitude": 120.63554409999999
   },
   "types": [
-   "chinese_restaurant",
+   "noodle_shop",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "外埔"
+ },
+ "9707048839168005302": {
+  "place_id": "ChIJTXGXPlEPaTQRthT6M31dtoY",
+  "name": "有間炸物店",
+  "address": "438台灣臺中市外埔區馬鳴里大馬路71號",
+  "rating": 4.4,
+  "userRatingCount": 16,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=9707048839168005302&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.340102899999998,
+   "longitude": 120.66317370000002
+  },
+  "types": [
+   "meal_takeaway",
+   "restaurant",
+   "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "外埔"
@@ -851,27 +872,6 @@
    "restaurant",
    "food",
    "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "外埔"
- },
- "9707048839168005302": {
-  "place_id": "ChIJTXGXPlEPaTQRthT6M31dtoY",
-  "name": "有間炸物店",
-  "address": "438台灣臺中市外埔區馬鳴里大馬路71號",
-  "rating": 4.4,
-  "userRatingCount": 16,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=9707048839168005302&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.340102899999998,
-   "longitude": 120.66317370000002
-  },
-  "types": [
-   "meal_takeaway",
-   "restaurant",
-   "point_of_interest",
-   "food",
    "establishment"
   ],
   "area_label": "外埔"
