@@ -1,8 +1,8 @@
 {
  "_note": "台中全區補完排程的狀態檔。規則見 .claude/skills/add-restaurant/TAICHUNG_SWEEP.md。",
  "in_progress": {
-  "district": "大肚",
-  "started_at": "2026-10-19T09:43:23Z"
+  "district": "東勢",
+  "started_at": "2026-10-19T09:46:48Z"
  },
  "done": {
   "西區": {
@@ -152,6 +152,14 @@
    "finished_at": "2026-10-19T09:43:23Z",
    "sync_verified": true,
    "prd_promoted": true
+  },
+  "大肚": {
+   "area": "大肚",
+   "count": 20,
+   "qas_commit": "c3f78996c33454589ac72500892de31c9658e855",
+   "finished_at": "2026-10-19T09:46:48Z",
+   "sync_verified": true,
+   "prd_promoted": true
   }
  },
  "skipped": {
@@ -182,19 +190,6 @@
   }
  },
  "queue": [
-  {
-   "area": "大肚",
-   "label": "大肚",
-   "slug": "dadu",
-   "center": [
-    24.153,
-    120.541
-   ],
-   "landmarks": [
-    "大肚 沙田路 美食"
-   ],
-   "population_approx": 58000
-  },
   {
    "area": "東勢",
    "label": "東勢",
