@@ -1,0 +1,3243 @@
+{
+ "ChIJoTqT3OitRjUReuf6N-6Kx7I": {
+  "name": "ごはんやえびす",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上３０５６",
+  "rating": 4.7,
+  "userRatingCount": 90,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.264219,
+   "longitude": 131.3576352
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=12882418014862632826&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 ランチ",
+   "由布院 朝食",
+   "由布院 地鶏",
+   "由布院 ラーメン",
+   "由布院 和食",
+   "湯布院 レストラン"
+  ]
+ },
+ "ChIJbQfUGdqtRjURdUlKM3BZd3U": {
+  "name": "由布岳一望のカフェ 湯布院千家",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上２８５０−７",
+  "rating": 4.5,
+  "userRatingCount": 533,
+  "types": [
+   "cafe",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2609895,
+   "longitude": 131.3611473
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=8464332363097852277&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 ランチ",
+   "由布院 カフェ",
+   "由布院 スイーツ",
+   "由布院 食べ歩き",
+   "由布院 朝食"
+  ]
+ },
+ "ChIJZR3Q4OitRjURUmqOfi1_J_I": {
+  "name": "由布院 甘味茶屋",
+  "address": "日本、〒879-5103 大分県由布市湯布院町川南１１３−１２",
+  "rating": 4.6,
+  "userRatingCount": 433,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2576891,
+   "longitude": 131.3572905
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=17449055114643794514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 ランチ",
+   "由布院 だんご汁",
+   "由布院 蕎麦",
+   "由布院 朝食",
+   "由布院 和食"
+  ]
+ },
+ "ChIJnfW4D9etRjUR2HdYcG2tytg": {
+  "name": "シエスタオーガニックカフェ",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上３０５２−３",
+  "rating": 4.8,
+  "userRatingCount": 495,
+  "types": [
+   "cafe",
+   "health_food_store",
+   "massage_spa",
+   "massage",
+   "home_goods_store",
+   "spa",
+   "grocery_store",
+   "food_store",
+   "store",
+   "medical_clinic",
+   "health",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "service",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.264324,
+   "longitude": 131.35813009999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=15621488943035873240&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 ランチ",
+   "由布院 カフェ",
+   "由布院 朝食"
+  ]
+ },
+ "ChIJv90CUtetRjURu8MEzUlofDY": {
+  "name": "食楽処 和（なごみ）",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上３７２６−１",
+  "rating": 4.3,
+  "userRatingCount": 331,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.263875999999996,
+   "longitude": 131.356405
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=3926127641341772731&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 ランチ",
+   "由布院 豊後牛",
+   "由布院 だんご汁",
+   "由布院 洋食",
+   "由布院 地鶏",
+   "由布院 和食",
+   "湯布院 レストラン"
+  ]
+ },
+ "ChIJOVqoRG2tRjURI6sKkSlQw20": {
+  "name": "おむすびCafé TABIMUSUBI＜たびむすび＞",
+  "address": "日本、〒879-5114 大分県由布市湯布院町川北６−６",
+  "rating": 4.5,
+  "userRatingCount": 379,
+  "types": [
+   "restaurant",
+   "breakfast_restaurant",
+   "brunch_restaurant",
+   "coffee_shop",
+   "cafe",
+   "cafeteria",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2625285,
+   "longitude": 131.35548989999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=7909253510049999651&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 ランチ",
+   "由布院 カフェ",
+   "由布院 朝食",
+   "湯布院 レストラン"
+  ]
+ },
+ "ChIJsdO5hBGtRjUR2qiyicleCxA": {
+  "name": "J-tapas",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上３７２８",
+  "rating": 4.9,
+  "userRatingCount": 102,
+  "types": [
+   "bar_and_grill",
+   "western_restaurant",
+   "bar",
+   "spanish_restaurant",
+   "european_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2624408,
+   "longitude": 131.3564222
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=1156121949042288858&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 ランチ",
+   "由布院 洋食",
+   "湯布院 レストラン"
+  ]
+ },
+ "ChIJwdevqH2uRjURB1XIos4hA0w": {
+  "name": "山家料理 湯の岳庵",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上２６３３−１",
+  "rating": 4.4,
+  "userRatingCount": 890,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.266122599999996,
+   "longitude": 131.36864409999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=5477258743190672647&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 ランチ",
+   "由布院 豊後牛",
+   "由布院 蕎麦",
+   "由布院 和食",
+   "湯布院 レストラン"
+  ]
+ },
+ "ChIJh3x6Y1ytRjURFXBuQYh0T0M": {
+  "name": "ビストロスリジェ",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上野田３０５２−３",
+  "rating": 4.8,
+  "userRatingCount": 73,
+  "types": [
+   "french_restaurant",
+   "european_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2642844,
+   "longitude": 131.3582123
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=4850223452263444501&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 ランチ",
+   "由布院 洋食",
+   "湯布院 レストラン"
+  ]
+ },
+ "ChIJQRhYRNetRjURCFjUN_BbNSI": {
+  "name": "お食事処玉",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上３０４９−８ 立花ビル",
+  "rating": 4.6,
+  "userRatingCount": 145,
+  "types": [
+   "japanese_izakaya_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.265080999999995,
+   "longitude": 131.3584957
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=2464977458342156296&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 ランチ",
+   "由布院 洋食",
+   "由布院 居酒屋",
+   "由布院 和食",
+   "湯布院 レストラン"
+  ]
+ },
+ "ChIJLbM9BwutRjURVF7a4iVVk1E": {
+  "name": "和牛専門店 YUFUYA",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上３７２８−１０ 2階 部分（裏通りが入口です",
+  "rating": 4.7,
+  "userRatingCount": 1063,
+  "types": [
+   "yakiniku_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2618633,
+   "longitude": 131.3562385
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=5878135559856741972&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 ランチ",
+   "由布院 豊後牛"
+  ]
+ },
+ "ChIJwdevqH2uRjURoerEsBnw5Vg": {
+  "name": "茶房 天井棧敷",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上２６３３−１",
+  "rating": 4.5,
+  "userRatingCount": 860,
+  "types": [
+   "cafe",
+   "dim_sum_restaurant",
+   "cantonese_restaurant",
+   "coffee_shop",
+   "food_store",
+   "store",
+   "chinese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2660745,
+   "longitude": 131.3683461
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=6405790038134942369&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 ランチ",
+   "由布院 カフェ",
+   "由布院 朝食"
+  ]
+ },
+ "ChIJR_lTwmatRjURjr0rA2jR980": {
+  "name": "ゆるりん",
+  "address": "1F, 5-6 湯布院町川北 由布市 大分県 879-5114 日本",
+  "rating": 4.4,
+  "userRatingCount": 579,
+  "types": [
+   "tonkatsu_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2626591,
+   "longitude": 131.3556486
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=14841561341682761102&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 ランチ",
+   "由布院 洋食",
+   "由布院 ラーメン",
+   "由布院 和食"
+  ]
+ },
+ "ChIJSW_58XeuRjURSDsxBc1AqQ4": {
+  "name": "la porte（ラ・ポルテ）",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上２７９８−２",
+  "rating": 4.3,
+  "userRatingCount": 172,
+  "types": [
+   "western_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2605816,
+   "longitude": 131.3620346
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=1056446836894677832&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 ランチ",
+   "由布院 洋食",
+   "湯布院 レストラン"
+  ]
+ },
+ "ChIJ6c6fwXutRjURTWoWOtJCAu8": {
+  "name": "七輪炭火焼 啓修庵",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１５４２−１",
+  "rating": 4.7,
+  "userRatingCount": 751,
+  "types": [
+   "yakiniku_restaurant",
+   "yakitori_restaurant",
+   "brunch_restaurant",
+   "barbecue_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2663369,
+   "longitude": 131.3656636
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=17222401395703310925&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 ランチ",
+   "由布院 豊後牛",
+   "由布院 洋食",
+   "由布院 地鶏",
+   "湯布院 レストラン"
+  ]
+ },
+ "ChIJFb3b4tmtRjURZj9eG0mxZy0": {
+  "name": "陽だまり食堂",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上２９１４−１",
+  "rating": 4.3,
+  "userRatingCount": 446,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2630291,
+   "longitude": 131.35682409999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=3271778581857845094&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 ランチ",
+   "由布院 豊後牛",
+   "由布院 だんご汁",
+   "由布院 朝食",
+   "由布院 和食"
+  ]
+ },
+ "ChIJKe-IbrSvRjURQdpCmcDiPvU": {
+  "name": "ロッソ エ ビアンコ",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１６０８−６",
+  "rating": 4.8,
+  "userRatingCount": 489,
+  "types": [
+   "italian_restaurant",
+   "european_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2674076,
+   "longitude": 131.36817539999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=17671811304681298497&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 ランチ",
+   "由布院 ラーメン",
+   "湯布院 レストラン"
+  ]
+ },
+ "ChIJj2-iVQCtRjURmzKLf68LpBs": {
+  "name": "タベルサイノウ",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上３０５６−２５ 大島ビル 1F",
+  "rating": 4.5,
+  "userRatingCount": 66,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2642519,
+   "longitude": 131.3576809
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=1991729783591613083&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 ランチ",
+   "由布院 洋食",
+   "由布院 和食",
+   "湯布院 レストラン"
+  ]
+ },
+ "ChIJmSPGWdetRjURLZU-IRKMjyQ": {
+  "name": "ゆふいん山椒郎",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上２８５０−５",
+  "rating": 4.2,
+  "userRatingCount": 372,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2610507,
+   "longitude": 131.361335
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=2634478316530079021&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 ランチ",
+   "由布院 豊後牛",
+   "由布院 和食",
+   "湯布院 レストラン"
+  ]
+ },
+ "ChIJgV0cZn2uRjURaHmrhaM4Hhc": {
+  "name": "レストラン ランプシャ（洋灯舎）",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１５６１",
+  "rating": 4.3,
+  "userRatingCount": 382,
+  "types": [
+   "french_restaurant",
+   "japanese_restaurant",
+   "european_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2667377,
+   "longitude": 131.3696201
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=1665831187147094376&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 ランチ",
+   "由布院 洋食",
+   "由布院 朝食",
+   "湯布院 レストラン"
+  ]
+ },
+ "ChIJ8RYhfIeuRjURGstyZ9HLzzc": {
+  "name": "CAFE LA RUCHE",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１５９２−１ CAFE LA RUCHE 2Ｆ",
+  "rating": 4.3,
+  "userRatingCount": 958,
+  "types": [
+   "cafe",
+   "coffee_shop",
+   "art_gallery",
+   "breakfast_restaurant",
+   "bakery",
+   "food_store",
+   "restaurant",
+   "food",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.267373299999996,
+   "longitude": 131.3688473
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=4021657092509322010&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 ランチ",
+   "由布院 カフェ",
+   "由布院 朝食",
+   "金鱗湖 カフェ"
+  ]
+ },
+ "ChIJxw3qWhWvRjURlpSF3NjD_uA": {
+  "name": "風の丘 カフェ",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上２４８５−３",
+  "rating": 4.8,
+  "userRatingCount": 135,
+  "types": [
+   "coffee_shop",
+   "cafe",
+   "food_store",
+   "food",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2606815,
+   "longitude": 131.3653505
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=16212611044760458390&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 ランチ",
+   "由布院 カフェ",
+   "由布院 スイーツ",
+   "由布院 洋食",
+   "由布院 朝食"
+  ]
+ },
+ "ChIJlWONB_2vRjURfSNgymBgsQI": {
+  "name": "湯布珈琲",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１５２４−２７",
+  "rating": 4.4,
+  "userRatingCount": 263,
+  "types": [
+   "cafe",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2671142,
+   "longitude": 131.364186
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=194042227782067069&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 カフェ"
+  ]
+ },
+ "ChIJ1dHrGHStRjURdcHJT-m_CCk": {
+  "name": "Cafe ゆる",
+  "address": "日本、〒879-5114 大分県由布市湯布院町川北４−１ 一休ビル 2F",
+  "rating": 4.1,
+  "userRatingCount": 132,
+  "types": [
+   "cafe",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2627381,
+   "longitude": 131.35549659999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=2956824164155638133&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 カフェ"
+  ]
+ },
+ "ChIJkULXEdatRjURc8kTluFJQeU": {
+  "name": "カフェ アナハタ",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上３０３７−１８",
+  "rating": 4.7,
+  "userRatingCount": 230,
+  "types": [
+   "cafe",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2658242,
+   "longitude": 131.3603148
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=16519566141406038387&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 カフェ",
+   "由布院 朝食"
+  ]
+ },
+ "ChIJsXgFE0WtRjUR_thpmiHTJFE": {
+  "name": "cafe e-denn（カフェ エーデン）",
+  "address": "日本、〒879-5114 大分県由布市湯布院町川北９１８−３２",
+  "rating": 4.9,
+  "userRatingCount": 70,
+  "types": [
+   "coffee_shop",
+   "cafe",
+   "food_store",
+   "store",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.261126499999996,
+   "longitude": 131.3363528
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=5847030357511756030&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 カフェ",
+   "由布院 朝食"
+  ]
+ },
+ "ChIJiR3SSX-uRjURa0VYx-oI9sI": {
+  "name": "コミチカフェ",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上３００１−８",
+  "rating": 4.3,
+  "userRatingCount": 72,
+  "types": [
+   "cafe",
+   "coffee_shop",
+   "food_store",
+   "store",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.266003999999995,
+   "longitude": 131.36231999999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=14048425892088661355&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 カフェ",
+   "由布院 朝食"
+  ]
+ },
+ "ChIJAxSl0wGtRjURDwrREZyaquo": {
+  "name": "ヨロずメイカー青鹿",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上３７３１−７",
+  "rating": 5,
+  "userRatingCount": 91,
+  "types": [
+   "coffee_shop",
+   "cafe",
+   "food_store",
+   "store",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.262194199999996,
+   "longitude": 131.3559066
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=16909497746020436495&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 カフェ"
+  ]
+ },
+ "ChIJV0kSgYeuRjURZAsaXzXh5qs": {
+  "name": "キャラバンコーヒー 由布院館",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１６１４−３",
+  "rating": 4.5,
+  "userRatingCount": 439,
+  "types": [
+   "coffee_shop",
+   "cafe",
+   "food_store",
+   "store",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2678337,
+   "longitude": 131.3688867
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=12386835444474186596&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 カフェ"
+  ]
+ },
+ "ChIJQ5BiYgGtRjURr7xJ0AJid_o": {
+  "name": "あーでん珈琲豆屋",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上２９２０−１",
+  "rating": 4.9,
+  "userRatingCount": 39,
+  "types": [
+   "coffee_roastery",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2630857,
+   "longitude": 131.35696339999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=18048001795934502063&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 カフェ"
+  ]
+ },
+ "ChIJnUYI4YSuRjURpILVAHbj3RA": {
+  "name": "テテオ",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１２７２−１７５",
+  "rating": 4.5,
+  "userRatingCount": 194,
+  "types": [
+   "cafe",
+   "western_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2756271,
+   "longitude": 131.3686009
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=1215377570419540644&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 カフェ",
+   "由布院 スイーツ",
+   "由布院 洋食"
+  ]
+ },
+ "ChIJbYxfwcKvRjURM18yNYSE5f4": {
+  "name": "パンとエスプレッソとゆふいんと",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１５２４−１ 湯の坪横丁内",
+  "rating": 4.2,
+  "userRatingCount": 188,
+  "types": [
+   "cafeteria",
+   "bakery",
+   "food_store",
+   "store",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.267652399999996,
+   "longitude": 131.3642902
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=18367232358663479091&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 カフェ",
+   "由布院 食べ歩き",
+   "由布院 朝食"
+  ]
+ },
+ "ChIJVZfwNI-vRjURa8__8tVwAkA": {
+  "name": "茶房 月東",
+  "address": "日本、〒879-5103 大分県由布市湯布院町川南２４５−３",
+  "rating": 4.8,
+  "userRatingCount": 40,
+  "types": [
+   "coffee_shop",
+   "cafe",
+   "food_store",
+   "store",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2566475,
+   "longitude": 131.36446
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=4612373032588005227&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 カフェ"
+  ]
+ },
+ "ChIJz3bL0JatRjURNtRAQ0iFOc4": {
+  "name": "ゆふいん文学の森",
+  "address": "日本、〒879-5114 大分県由布市湯布院町川北 字平原1354番26",
+  "rating": 4.7,
+  "userRatingCount": 148,
+  "types": [
+   "cafe",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.258831900000004,
+   "longitude": 131.33389739999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=14860054990898123830&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 カフェ"
+  ]
+ },
+ "ChIJn0SVMX-uRjURl5eLXEaea7Q": {
+  "name": "Nicol’s",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上２７３１−１ 玉の湯 内",
+  "rating": 4.3,
+  "userRatingCount": 152,
+  "types": [
+   "cafe",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2656862,
+   "longitude": 131.3630953
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=13000658774372620183&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 カフェ"
+  ]
+ },
+ "ChIJF3qXA36uRjURm0y0FiRV9eg": {
+  "name": "Cafe DUO",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１１５９−１",
+  "rating": 4.4,
+  "userRatingCount": 244,
+  "types": [
+   "cafe",
+   "ice_cream_shop",
+   "dessert_restaurant",
+   "coffee_shop",
+   "cake_shop",
+   "snack_bar",
+   "meal_takeaway",
+   "dessert_shop",
+   "confectionery",
+   "bakery",
+   "manufacturer",
+   "food_store",
+   "restaurant",
+   "food",
+   "store",
+   "point_of_interest",
+   "wholesaler",
+   "service",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2686512,
+   "longitude": 131.3657134
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=16786416799581490331&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 カフェ"
+  ]
+ },
+ "ChIJ-Xmf9L-tRjUR1jjiROVJ6nY": {
+  "name": "喫茶 間",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上３０７７−２",
+  "rating": 4.9,
+  "userRatingCount": 103,
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2653099,
+   "longitude": 131.3566351
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=8568742490077804758&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 カフェ",
+   "由布院 朝食"
+  ]
+ },
+ "ChIJJxS7hQStRjUR8nWngcD_n7U": {
+  "name": "Trace∞",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上３０５２−４",
+  "rating": 4.8,
+  "userRatingCount": 71,
+  "types": [
+   "coffee_shop",
+   "cafe",
+   "food_store",
+   "food",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2642814,
+   "longitude": 131.35800469999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=13087460244435990002&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 カフェ",
+   "由布院 スイーツ"
+  ]
+ },
+ "ChIJm6p3jy-vRjURfXMZRHzySL8": {
+  "name": "HOMME BLUE CAFE",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１５３５−２",
+  "rating": 4.7,
+  "userRatingCount": 45,
+  "types": [
+   "general_store",
+   "food_store",
+   "food",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2672875,
+   "longitude": 131.3644295
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=13783533275099788157&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 カフェ"
+  ]
+ },
+ "ChIJrbhbkX2uRjURrbqyrKlQijQ": {
+  "name": "由布まぶし「心」金鱗湖本店",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１４９２−１",
+  "rating": 4.1,
+  "userRatingCount": 2747,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2671853,
+   "longitude": 131.3678529
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=3785927126435412653&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 豊後牛",
+   "由布院 食べ歩き"
+  ]
+ },
+ "ChIJy4bzG9qtRjURc71lZQwySTs": {
+  "name": "由布まぶし 心 湯布院駅前支店",
+  "address": "日本、〒879-5114 大分県由布市湯布院町川北５−３",
+  "rating": 4.1,
+  "userRatingCount": 3019,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2629646,
+   "longitude": 131.3556746
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=4272000750359788915&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 豊後牛",
+   "由布院 食べ歩き"
+  ]
+ },
+ "ChIJq6qWRtetRjURT7_KCCWUBvU": {
+  "name": "七厘焼き和作",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上３０６４−４",
+  "rating": 4.4,
+  "userRatingCount": 621,
+  "types": [
+   "yakiniku_restaurant",
+   "barbecue_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2639317,
+   "longitude": 131.356976
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=17655962275934814031&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 豊後牛",
+   "由布院 地鶏"
+  ]
+ },
+ "ChIJLzlLEACtRjURQlpv72kRxmc": {
+  "name": "肉うどんいのうえ湯布院店",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上３０５２−３",
+  "rating": 5,
+  "userRatingCount": 150,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2643456,
+   "longitude": 131.3582324
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=7477683377981577794&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 豊後牛",
+   "由布院 居酒屋",
+   "由布院 和食",
+   "湯布院 レストラン"
+  ]
+ },
+ "ChIJZ3wyW7yvRjURzrYfLvcqeus": {
+  "name": "KOHAKU湯の坪店",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１５０５−６ 2F",
+  "rating": 4.8,
+  "userRatingCount": 169,
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2673572,
+   "longitude": 131.3647269
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=16967921787190884046&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 豊後牛"
+  ]
+ },
+ "ChIJ15doMiepRjURSQXsnMmOQCY": {
+  "name": "宮崎鶏・豊後牛炭火焼 塚原の里",
+  "address": "日本、〒879-5101 大分県由布市湯布院町塚原９３１−１０８",
+  "rating": 4.5,
+  "userRatingCount": 587,
+  "types": [
+   "chicken_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.3062866,
+   "longitude": 131.39938139999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=2756359968523027785&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 豊後牛",
+   "由布院 地鶏"
+  ]
+ },
+ "ChIJk2I5vtKvRjURIW3eY9fof58": {
+  "name": "あか牛専門店 幸",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１６１４−２",
+  "rating": 4.9,
+  "userRatingCount": 45,
+  "types": [
+   "japanese_izakaya_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2678061,
+   "longitude": 131.3688654
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=11493160785863929121&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 豊後牛",
+   "由布院 蕎麦"
+  ]
+ },
+ "ChIJoSs9KgCtRjURtHgPPIyjdhI": {
+  "name": "湯布院RoastBeef1129",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上２９８９−６",
+  "rating": 4.6,
+  "userRatingCount": 62,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2658098,
+   "longitude": 131.3609035
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=1330430562632956084&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 豊後牛",
+   "湯布院 レストラン"
+  ]
+ },
+ "ChIJRYv1HV2tRjUR_aMAakUz3Ig": {
+  "name": "AMBER the Dining NYOZE",
+  "address": "日本、〒879-5103 大分県由布市湯布院町川南３４１−１",
+  "rating": 4.9,
+  "userRatingCount": 402,
+  "types": [
+   "yakiniku_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2571414,
+   "longitude": 131.35662829999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=9861813657258730493&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 豊後牛"
+  ]
+ },
+ "ChIJb5bihmSvRjURikvE-qe3BG0": {
+  "name": "鰻・和牛かねや 湯布院店",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１５０３−７",
+  "rating": 4.9,
+  "userRatingCount": 2027,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2672282,
+   "longitude": 131.3654714
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=7855605582135577482&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 豊後牛",
+   "湯布院 レストラン"
+  ]
+ },
+ "ChIJVVVRo9etRjURRBjzLelL2p8": {
+  "name": "割烹サトウ",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上２９５５−１８",
+  "rating": 4.2,
+  "userRatingCount": 324,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.263629,
+   "longitude": 131.35921299999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=11518602461823834180&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 豊後牛",
+   "由布院 地鶏",
+   "由布院 和食"
+  ]
+ },
+ "ChIJKd_RhdmtRjUR5sA-1J5MCdo": {
+  "name": "地鶏屋膳",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上２９１２−２",
+  "rating": 4.4,
+  "userRatingCount": 49,
+  "types": [
+   "chicken_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2614173,
+   "longitude": 131.3564403
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=15711173020108112102&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 豊後牛",
+   "由布院 居酒屋",
+   "由布院 地鶏"
+  ]
+ },
+ "ChIJ6QUgJuGtRjURUdJfLDqnjH8": {
+  "name": "焼肉五番館",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上",
+  "rating": 4.2,
+  "userRatingCount": 217,
+  "types": [
+   "yakiniku_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.262525,
+   "longitude": 131.35588339999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=9190904807850758737&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 豊後牛"
+  ]
+ },
+ "ChIJUb6sWIeuRjURNt0VjKcwbIM": {
+  "name": "レストラン夢鹿",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１４６９−２",
+  "rating": 4.3,
+  "userRatingCount": 59,
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2683551,
+   "longitude": 131.36710309999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=9469997612621225270&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 豊後牛",
+   "由布院 洋食",
+   "由布院 朝食"
+  ]
+ },
+ "ChIJL3yz6jmvRjUR0W_D83zuCZs": {
+  "name": "由布院うまいもん研究所",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１５２４−２７",
+  "rating": 4.1,
+  "userRatingCount": 40,
+  "types": [
+   "meal_takeaway",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2671503,
+   "longitude": 131.36421239999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=11171722571102253009&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 豊後牛",
+   "由布院 スイーツ",
+   "由布院 食べ歩き",
+   "由布院 ラーメン"
+  ]
+ },
+ "ChIJ4VdvOH6uRjURUZZii95asx0": {
+  "name": "湯布院神楽",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１５２０−１ 湯布院旬菜浪漫 ２F",
+  "rating": 4.2,
+  "userRatingCount": 246,
+  "types": [
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2683142,
+   "longitude": 131.3643622
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=2140154159798851153&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 だんご汁"
+  ]
+ },
+ "ChIJYfmhkn2uRjURn5lfvROWPdE": {
+  "name": "石臼挽手打ち蕎麦 温川 nurukawa soba",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１４９０−１",
+  "rating": 4.3,
+  "userRatingCount": 328,
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.267611699999996,
+   "longitude": 131.367823
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=15077372139031992735&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 蕎麦",
+   "由布院 ラーメン"
+  ]
+ },
+ "ChIJcYcZ0X6uRjURRuxAs5kzXAI": {
+  "name": "花野そば",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上２７１５−４",
+  "rating": 4.1,
+  "userRatingCount": 397,
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.265311499999996,
+   "longitude": 131.3640292
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=170067621163625542&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 蕎麦",
+   "由布院 ラーメン"
+  ]
+ },
+ "ChIJde6qrnKvRjUR92zAJBspk9Q": {
+  "name": "utu to so 湯布院",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上２３２７−１",
+  "rating": 4.9,
+  "userRatingCount": 29,
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2556121,
+   "longitude": 131.36528239999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=15317631954174635255&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 蕎麦",
+   "由布院 和食",
+   "湯布院 レストラン"
+  ]
+ },
+ "ChIJlVY5gn2uRjURKOANrQwJa_E": {
+  "name": "古式手打そば 泉",
+  "address": "日本、〒879-5102 大分県由布市湯布院町湯布院町川上１５９９−１",
+  "rating": 4,
+  "userRatingCount": 603,
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2673957,
+   "longitude": 131.3685307
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=17396007935696298024&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 蕎麦"
+  ]
+ },
+ "ChIJJ29bHIWuRjUR5oAlTnoR6mg": {
+  "name": "Murata 不生庵",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１２６６−１８",
+  "rating": 4.1,
+  "userRatingCount": 423,
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2750256,
+   "longitude": 131.36865129999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=7559874141489561830&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 蕎麦"
+  ]
+ },
+ "ChIJa4vUGxevRjURMgngvJ-fbaQ": {
+  "name": "お食事処 だるま",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１４７４−３",
+  "rating": 4.7,
+  "userRatingCount": 195,
+  "types": [
+   "restaurant",
+   "snack_bar",
+   "meal_takeaway",
+   "japanese_restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2684778,
+   "longitude": 131.3659987
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=11848301703099058482&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 蕎麦"
+  ]
+ },
+ "ChIJAYTkBX6uRjUR4erZmcROpi8": {
+  "name": "こはるうどん",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１４７６",
+  "rating": 4.1,
+  "userRatingCount": 643,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2682928,
+   "longitude": 131.3657847
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=3433518372218333921&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 蕎麦"
+  ]
+ },
+ "ChIJ_Q-f4BWvRjURzYDYH8Iq7G4": {
+  "name": "いちごとさつまいもと湯布院と...",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１５０３−１",
+  "rating": 4.7,
+  "userRatingCount": 58,
+  "types": [
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "japanese_restaurant",
+   "store",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2673205,
+   "longitude": 131.3656495
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=7992810451922092237&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 スイーツ"
+  ]
+ },
+ "ChIJbdxiRNetRjURUm0hN3FObVw": {
+  "name": "由布院 ときの色",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上２９３９−４",
+  "rating": 4.5,
+  "userRatingCount": 71,
+  "types": [
+   "pastry_shop",
+   "bakery",
+   "cafeteria",
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "dessert_restaurant",
+   "store",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2637722,
+   "longitude": 131.3570249
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=6660065672114040146&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 スイーツ",
+   "由布院 チーズケーキ",
+   "由布院 食べ歩き"
+  ]
+ },
+ "ChIJqdpUQwCtRjURWeO89XJpNgw": {
+  "name": "湯布院Mana Mana",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上３０３７−１７",
+  "rating": 4.9,
+  "userRatingCount": 139,
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2657108,
+   "longitude": 131.36009740000003
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=880006719667495769&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 スイーツ"
+  ]
+ },
+ "ChIJM8C0UX-uRjURfuTMkHBJBYc": {
+  "name": "由布院ミルヒ",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上３０１５−１",
+  "rating": 4.5,
+  "userRatingCount": 1774,
+  "types": [
+   "dessert_shop",
+   "pastry_shop",
+   "bakery",
+   "confectionery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2662305,
+   "longitude": 131.3615926
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=9729263317818336382&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 スイーツ",
+   "由布院 プリン",
+   "由布院 チーズケーキ",
+   "由布院 食べ歩き"
+  ]
+ },
+ "ChIJo_-LRNetRjURHTDDYEaFULE": {
+  "name": "CARANDONEL",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上２９３９−４",
+  "rating": 4.5,
+  "userRatingCount": 163,
+  "types": [
+   "pastry_shop",
+   "bakery",
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2637534,
+   "longitude": 131.35700409999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=12776858680167706653&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 スイーツ",
+   "由布院 チーズケーキ",
+   "由布院 食べ歩き"
+  ]
+ },
+ "ChIJJ4sVrQuvRjURD5AsJv2mszI": {
+  "name": "WOODSTOCK NEST Sweets&Goodies 大分・由布院店",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上1542番地1",
+  "rating": 4.2,
+  "userRatingCount": 84,
+  "types": [
+   "dessert_restaurant",
+   "meal_takeaway",
+   "store",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.266394,
+   "longitude": 131.3658484
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=3653447328924995599&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 スイーツ",
+   "由布院 チーズケーキ"
+  ]
+ },
+ "ChIJj6fzfgqvRjURwll3yT_kM5M": {
+  "name": "レモネード&スイーツlimo",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１０７９−１５",
+  "rating": 4.6,
+  "userRatingCount": 48,
+  "types": [
+   "meal_takeaway",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2665554,
+   "longitude": 131.3627763
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=10607072510001764802&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 スイーツ"
+  ]
+ },
+ "ChIJ_9dCGNqtRjURqwhJSL1Tr2g": {
+  "name": "YURARI",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上3037ｰ12",
+  "rating": 4.5,
+  "userRatingCount": 110,
+  "types": [
+   "dessert_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2660368,
+   "longitude": 131.3602588
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=7543339973295540395&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 スイーツ"
+  ]
+ },
+ "ChIJPZKwHNqtRjUR_7R33Ux6Llk": {
+  "name": "由布院ミルヒドーナツ＆カフェ",
+  "address": "日本、〒879-5114 大分県由布市湯布院町川北井出ノ口5−２６",
+  "rating": 4.3,
+  "userRatingCount": 722,
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.262919,
+   "longitude": 131.3559075
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=6426208188855989503&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 スイーツ",
+   "由布院 チーズケーキ",
+   "由布院 食べ歩き"
+  ]
+ },
+ "ChIJ6RFYRNetRjURXrGkOx28wdk": {
+  "name": "抹茶ジェラート専門店 telato(テラート)",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上２９３９−４",
+  "rating": 4.6,
+  "userRatingCount": 518,
+  "types": [
+   "ice_cream_shop",
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.263739099999995,
+   "longitude": 131.3569628
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=15691029410476241246&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 スイーツ"
+  ]
+ },
+ "ChIJfTBCXtetRjUReNpMgzE1uF0": {
+  "name": "銀の彩",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上２９３５−３",
+  "rating": 4.6,
+  "userRatingCount": 132,
+  "types": [
+   "cake_shop",
+   "bakery",
+   "wholesaler",
+   "manufacturer",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "service",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2631519,
+   "longitude": 131.3571938
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=6753206128014580344&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 スイーツ"
+  ]
+ },
+ "ChIJLwwOpnWtRjUR3Qe_Vbi_L90": {
+  "name": "Mamiy シフォンケーキ専門店",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上２９８９−６",
+  "rating": 4.4,
+  "userRatingCount": 40,
+  "types": [
+   "pastry_shop",
+   "bakery",
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2657546,
+   "longitude": 131.36092779999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=15938168404720945117&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 スイーツ"
+  ]
+ },
+ "ChIJ8UyHBrKvRjURtXHdC2OUuVQ": {
+  "name": "朝霧坂りんご園",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１５０２−１ 夢市場店内",
+  "rating": 4.6,
+  "userRatingCount": 68,
+  "types": [
+   "dessert_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2673687,
+   "longitude": 131.36585159999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=6105073922999153077&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 スイーツ"
+  ]
+ },
+ "ChIJx80L44SuRjURkZv4K8lb6vw": {
+  "name": "テオムラタ（theomurata）",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１２７２−１７５",
+  "rating": 4.3,
+  "userRatingCount": 100,
+  "types": [
+   "chocolate_shop",
+   "candy_store",
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.27574620000001,
+   "longitude": 131.36857129999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=18224479761692400529&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 スイーツ"
+  ]
+ },
+ "ChIJDZ7IQn6uRjURHZSNGiGlIf8": {
+  "name": "ゆふいんソフトクリーム",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１５０７−１",
+  "rating": 4.5,
+  "userRatingCount": 63,
+  "types": [
+   "ice_cream_shop",
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.267613,
+   "longitude": 131.3648973
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=18384156715501065245&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 スイーツ",
+   "由布院 食べ歩き"
+  ]
+ },
+ "ChIJKQKOj32uRjURiyYjqnMVRUA": {
+  "name": "今泉堂 imaizumido",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１６０８−１",
+  "rating": 4.5,
+  "userRatingCount": 257,
+  "types": [
+   "cafeteria",
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "japanese_restaurant",
+   "store",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2674709,
+   "longitude": 131.36806239999999
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=4631131378340275851&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 スイーツ",
+   "由布院 食べ歩き"
+  ]
+ },
+ "ChIJO7RnQNetRjUR0hEidDDEOvo": {
+  "name": "B-speak",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上３０４０−２",
+  "rating": 4,
+  "userRatingCount": 1263,
+  "types": [
+   "cake_shop",
+   "donut_shop",
+   "bakery",
+   "manufacturer",
+   "food_store",
+   "food",
+   "store",
+   "point_of_interest",
+   "wholesaler",
+   "service",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2653853,
+   "longitude": 131.35938439999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=18030939770517066194&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 スイーツ",
+   "由布院 チーズケーキ"
+  ]
+ },
+ "ChIJG4GIwk2vRjURP_Ufw_5NASo": {
+  "name": "SNOOPYChocolat 由布院店",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１５４０ 1540番地2",
+  "rating": 4.4,
+  "userRatingCount": 112,
+  "types": [
+   "pastry_shop",
+   "dessert_shop",
+   "confectionery",
+   "bakery",
+   "food_store",
+   "food",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2666465,
+   "longitude": 131.3657949
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=3026786181160367423&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 スイーツ"
+  ]
+ },
+ "ChIJKfMnGbWvRjURBBDKRw0ufJs": {
+  "name": "バー山猫",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上２６２９",
+  "rating": 4.6,
+  "userRatingCount": 42,
+  "types": [
+   "bar",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.266117,
+   "longitude": 131.3683336
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=11203880607564828676&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 スイーツ"
+  ]
+ },
+ "ChIJDxsFin2uRjURaXV0U98o2lU": {
+  "name": "菓匠 花より",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１４８８−１",
+  "rating": 4.1,
+  "userRatingCount": 382,
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2680278,
+   "longitude": 131.3676409
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=6186301977789756777&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 スイーツ",
+   "由布院 食べ歩き"
+  ]
+ },
+ "ChIJAQD_An-uRjUR1JG_Ny2mwsg": {
+  "name": "チーズ工房湯布院",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１１０１−６",
+  "rating": 4.4,
+  "userRatingCount": 44,
+  "types": [
+   "store",
+   "food_store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2670117,
+   "longitude": 131.36347139999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=14466307666206495188&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 チーズケーキ"
+  ]
+ },
+ "ChIJvysEOYWuRjURNhcb93tBK1s": {
+  "name": "Tan's bar",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１２６４−２",
+  "rating": 4.8,
+  "userRatingCount": 54,
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.275822,
+   "longitude": 131.3696378
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=6569416482132530998&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 チーズケーキ"
+  ]
+ },
+ "ChIJMSNEu9CvRjURCQmOuH67y7Y": {
+  "name": "湯の坪街道",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１５０５−６",
+  "rating": 4.3,
+  "userRatingCount": 552,
+  "types": [
+   "tourist_attraction",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.267386099999996,
+   "longitude": 131.3645627
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=13171827688111737097&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 食べ歩き"
+  ]
+ },
+ "ChIJWax-bn6uRjUReLLmqHrObCU": {
+  "name": "湯布院フローラルヴィレッジ",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１５０３−３",
+  "rating": 4.1,
+  "userRatingCount": 12471,
+  "types": [
+   "tourist_attraction",
+   "gift_shop",
+   "zoo",
+   "cafe",
+   "hotel",
+   "store",
+   "food",
+   "lodging",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2674871,
+   "longitude": 131.36553569999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=2696757303103107704&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 食べ歩き"
+  ]
+ },
+ "ChIJ3zNlDMmvRjURerPyE6u7kyg": {
+  "name": "川上湯の坪 湯の坪街道",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上湯の坪街道",
+  "rating": 4.7,
+  "userRatingCount": 55,
+  "types": [
+   "tourist_attraction",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2667633,
+   "longitude": 131.3631178
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=2923886926542058362&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 食べ歩き"
+  ]
+ },
+ "ChIJEfdxE9atRjURVTHqnzr0hDo": {
+  "name": "由布院ピクルス",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１４８２−１",
+  "rating": 4.5,
+  "userRatingCount": 44,
+  "types": [
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2656609,
+   "longitude": 131.3599668
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=4216763683753832789&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 食べ歩き"
+  ]
+ },
+ "ChIJg8kh-H6uRjURISKPf0GgqKI": {
+  "name": "SNOOPY茶屋 由布院店",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１５４０−２",
+  "rating": 4.2,
+  "userRatingCount": 1693,
+  "types": [
+   "cafe",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2665748,
+   "longitude": 131.36561709999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=11720794233405121057&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 食べ歩き"
+  ]
+ },
+ "ChIJZ3lu1X2uRjURlqmRo-o9zls": {
+  "name": "湯布院醤油屋本店",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１０９８−１",
+  "rating": 4.2,
+  "userRatingCount": 311,
+  "types": [
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2667078,
+   "longitude": 131.363215
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=6615292980629711254&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 食べ歩き"
+  ]
+ },
+ "ChIJVyuzbn6uRjURv21N9d1-J_8": {
+  "name": "GABUGABU",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１５１０−２",
+  "rating": 4.1,
+  "userRatingCount": 114,
+  "types": [
+   "chicken_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2677993,
+   "longitude": 131.3653302
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=18385803495531703743&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 食べ歩き"
+  ]
+ },
+ "ChIJLWUDP3-uRjURqOjtY4mdTTo": {
+  "name": "湯布院金賞コロッケ 2号店",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１０７９−８",
+  "rating": 4.1,
+  "userRatingCount": 880,
+  "types": [
+   "deli",
+   "meal_takeaway",
+   "food_store",
+   "restaurant",
+   "food",
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2664551,
+   "longitude": 131.3625478
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=4201187240819157160&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 食べ歩き"
+  ]
+ },
+ "ChIJszlTE3-uRjUR5YoD9N3WgFY": {
+  "name": "トラットリア・ディアナ",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上３００９−７",
+  "rating": 4.6,
+  "userRatingCount": 222,
+  "types": [
+   "italian_restaurant",
+   "european_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2670478,
+   "longitude": 131.3623708
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=6233218133050755813&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 洋食",
+   "湯布院 レストラン"
+  ]
+ },
+ "ChIJ46daXn6uRjURVf_M1SQF31s": {
+  "name": "レストラン＆バー・ラルコル",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１５３６−１",
+  "rating": 4,
+  "userRatingCount": 148,
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2670665,
+   "longitude": 131.3647015
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=6620015633021861717&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 洋食"
+  ]
+ },
+ "ChIJd3NzjpWtRjURfnJ8N2WBCCo": {
+  "name": "レストラン南の風",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上３６１６",
+  "rating": 4,
+  "userRatingCount": 238,
+  "types": [
+   "italian_restaurant",
+   "breakfast_restaurant",
+   "brunch_restaurant",
+   "cafeteria",
+   "european_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2643637,
+   "longitude": 131.35195489999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=3028813021129241214&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 洋食",
+   "由布院 朝食"
+  ]
+ },
+ "ChIJdSPGWdetRjURI8Bm9gFvFQc": {
+  "name": "ＤＩＮＩＮＧ・十和蔵",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上",
+  "rating": 4.3,
+  "userRatingCount": 47,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2645426,
+   "longitude": 131.3657375
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=510436186995998755&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 洋食",
+   "由布院 和食"
+  ]
+ },
+ "ChIJuYFk0h-vRjURGye3pdr8ygw": {
+  "name": "湯布院伊料理店coji coji（コジコジ）",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上２５４６−６",
+  "rating": 4.7,
+  "userRatingCount": 85,
+  "types": [
+   "italian_restaurant",
+   "european_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2603806,
+   "longitude": 131.3628566
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=921827089764001563&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 洋食",
+   "湯布院 レストラン"
+  ]
+ },
+ "ChIJQUsIXtetRjURhXxfMbeaueg": {
+  "name": "夢どり",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上２９３１−８",
+  "rating": 4.5,
+  "userRatingCount": 140,
+  "types": [
+   "japanese_izakaya_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2630434,
+   "longitude": 131.35764319999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=16769604799088786565&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 洋食",
+   "由布院 居酒屋",
+   "由布院 地鶏",
+   "由布院 ラーメン"
+  ]
+ },
+ "ChIJAQAAAH2uRjURxMPpIwgzF2M": {
+  "name": "かっぱ食堂",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上川上１６１１−１",
+  "rating": 4.1,
+  "userRatingCount": 342,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2675937,
+   "longitude": 131.3682706
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=7140231844274488260&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 洋食",
+   "由布院 和食"
+  ]
+ },
+ "ChIJVVXBUn6uRjURX4xWdmFNuVk": {
+  "name": "原っぱカフェ Harappa Cafe",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１５２５−１２",
+  "rating": 4.6,
+  "userRatingCount": 227,
+  "types": [
+   "restaurant",
+   "japanese_curry_restaurant",
+   "vegan_restaurant",
+   "vegetarian_restaurant",
+   "japanese_restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2678752,
+   "longitude": 131.3636902
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=6465283821059607647&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 洋食"
+  ]
+ },
+ "ChIJ9-gB2wKvRjURp2Ppj9-HJ_s": {
+  "name": "榎屋茶房",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１０８６−１",
+  "rating": 4.9,
+  "userRatingCount": 26,
+  "types": [
+   "coffee_shop",
+   "cafe",
+   "food_store",
+   "store",
+   "food",
+   "bar",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.266118399999996,
+   "longitude": 131.3629718
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=18097583021873521575&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 朝食",
+   "由布院 和食"
+  ]
+ },
+ "ChIJy4bzG9qtRjUR737WqAbAAx8": {
+  "name": "喫茶・飲食 四季彩",
+  "address": "日本、〒879-5114 大分県由布市湯布院町川北５−１７ 2F",
+  "rating": 4,
+  "userRatingCount": 56,
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.262803,
+   "longitude": 131.3557641
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=2234840974940864239&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 朝食"
+  ]
+ },
+ "ChIJQwgfo-atRjUR26_P6-vX4yg": {
+  "name": "GEMS YUFUIN (HOTEL/CAFE)",
+  "address": "日本、〒879-5114 大分県由布市湯布院町川北２−１１",
+  "rating": 4.4,
+  "userRatingCount": 74,
+  "types": [
+   "hotel",
+   "public_bath",
+   "cafe",
+   "food",
+   "bar",
+   "lodging",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2631807,
+   "longitude": 131.3560564
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=2946435989503979483&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 朝食"
+  ]
+ },
+ "ChIJ0e75TdetRjURddLW_nXfIWU": {
+  "name": "こちょぱん",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上３７２５−１３",
+  "rating": 4.5,
+  "userRatingCount": 147,
+  "types": [
+   "bakery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2639248,
+   "longitude": 131.3563579
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=7287351369941832309&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 朝食"
+  ]
+ },
+ "ChIJrQiI-niuRjUROK8n0O-vRj8": {
+  "name": "グランマ",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上２７９４−２",
+  "rating": 4.5,
+  "userRatingCount": 160,
+  "types": [
+   "bakery",
+   "cafe",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2634172,
+   "longitude": 131.3630321
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=4559525117283512120&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 朝食"
+  ]
+ },
+ "ChIJB43T8NmtRjUR32rCeIuEGUM": {
+  "name": "まる",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上３７２８−５０",
+  "rating": 4.5,
+  "userRatingCount": 233,
+  "types": [
+   "japanese_izakaya_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2626091,
+   "longitude": 131.356427
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=4835041409520265951&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 居酒屋"
+  ]
+ },
+ "ChIJFcZpJtetRjURu44oA53nAJw": {
+  "name": "居酒屋ぐっさん",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上３０７５−１",
+  "rating": 4.6,
+  "userRatingCount": 124,
+  "types": [
+   "japanese_izakaya_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2652177,
+   "longitude": 131.3569311
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=11241239331465629371&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 居酒屋"
+  ]
+ },
+ "ChIJ_cBQtjutRjUR91DzPRh1ktQ": {
+  "name": "福蔵",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１０２５−２６",
+  "rating": 4.7,
+  "userRatingCount": 152,
+  "types": [
+   "japanese_izakaya_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2671595,
+   "longitude": 131.3607688
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=15317434029619499255&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 居酒屋",
+   "由布院 地鶏"
+  ]
+ },
+ "ChIJBcSgidmtRjURSheiOSvoTSQ": {
+  "name": "城戸崎家の食卓",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上３７２８−１０",
+  "rating": 4.5,
+  "userRatingCount": 97,
+  "types": [
+   "japanese_izakaya_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2618286,
+   "longitude": 131.35632049999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=2616002230920288074&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 居酒屋",
+   "由布院 地鶏",
+   "由布院 和食"
+  ]
+ },
+ "ChIJ_6UX9NmtRjURSnGYcI0ohlU": {
+  "name": "漁師町ものがたり傘姉妹",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上３７２８−６",
+  "rating": 4.6,
+  "userRatingCount": 80,
+  "types": [
+   "japanese_izakaya_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2623532,
+   "longitude": 131.3564554
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=6162657728047640906&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 居酒屋"
+  ]
+ },
+ "ChIJzyp6Ul-tRjURqQVqYQarUjQ": {
+  "name": "もも焼き ひろすえ",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上３０４９−８ 立花ビル １F",
+  "rating": 5,
+  "userRatingCount": 30,
+  "types": [
+   "japanese_izakaya_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.265104799999996,
+   "longitude": 131.35848819999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=3770263881955018153&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 居酒屋",
+   "由布院 地鶏"
+  ]
+ },
+ "ChIJC_eYFdetRjURwqrEAhOzG4w": {
+  "name": "龍庵",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上３０５６−１６",
+  "rating": 4.2,
+  "userRatingCount": 107,
+  "types": [
+   "japanese_izakaya_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2642455,
+   "longitude": 131.3574056
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=10095859883913292482&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 居酒屋",
+   "由布院 地鶏"
+  ]
+ },
+ "ChIJVVXpM9etRjURAahVrixZ-MU": {
+  "name": "CARNE 湯布院 串焼き",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上３７２５−５",
+  "rating": 4.6,
+  "userRatingCount": 274,
+  "types": [
+   "yakitori_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.264856,
+   "longitude": 131.3563542
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=14265249868134328321&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 居酒屋",
+   "由布院 地鶏"
+  ]
+ },
+ "ChIJXWmBT9etRjUR7oSm1j32QEE": {
+  "name": "鮨Ｄｉｎｉｎｇ 潮",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上３０６４−１",
+  "rating": 4.6,
+  "userRatingCount": 207,
+  "types": [
+   "japanese_izakaya_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2638365,
+   "longitude": 131.356773
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=4702028756429473006&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 居酒屋",
+   "由布院 和食"
+  ]
+ },
+ "ChIJ4_aTKdqtRjUREblVxmqSmE8": {
+  "name": "月花",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上３７３０−６",
+  "rating": 4.5,
+  "userRatingCount": 51,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.261292,
+   "longitude": 131.3560766
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=5735495112748022033&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 居酒屋"
+  ]
+ },
+ "ChIJ2TJ6INqtRjURdX_j159kcaE": {
+  "name": "八縁",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上３７３１−１５",
+  "rating": 4.4,
+  "userRatingCount": 40,
+  "types": [
+   "japanese_izakaya_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2621269,
+   "longitude": 131.3561586
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=11633189950159290229&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 居酒屋"
+  ]
+ },
+ "ChIJGzvUVlqvRjURZry45vEY66M": {
+  "name": "湯布院囲炉裏焼き 四方山（よもやま）",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１５２４−１ 湯の坪横丁内",
+  "rating": 4.3,
+  "userRatingCount": 209,
+  "types": [
+   "japanese_izakaya_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2677422,
+   "longitude": 131.3644158
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=11811561874946309222&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 居酒屋",
+   "由布院 地鶏",
+   "由布院 和食"
+  ]
+ },
+ "ChIJ3b72K1qtRjURLx9suwSGDrY": {
+  "name": "鉄板居酒屋 源",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上３７２３−２",
+  "rating": 4.2,
+  "userRatingCount": 101,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2652394,
+   "longitude": 131.35624479999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=13118570119459249967&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 居酒屋"
+  ]
+ },
+ "ChIJOStiF9etRjURb_8nrtlwL5c": {
+  "name": "鳥やす",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上３０５５−８",
+  "rating": 4.5,
+  "userRatingCount": 71,
+  "types": [
+   "yakitori_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2645899,
+   "longitude": 131.3575645
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=10894050103864590191&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 居酒屋",
+   "由布院 地鶏"
+  ]
+ },
+ "ChIJU6Ywd9-oRjURyG975Hqf2eA": {
+  "name": "高天原",
+  "address": "日本、〒879-5101 大分県由布市湯布院町塚原１２３６−１",
+  "rating": 4.2,
+  "userRatingCount": 295,
+  "types": [
+   "yakiniku_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.3071258,
+   "longitude": 131.4021739
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=16202156484610191304&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 地鶏"
+  ]
+ },
+ "ChIJ0cbAFe2vRjURaAlVth9rvHU": {
+  "name": "やきとり家",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１５１２−６",
+  "rating": 4.8,
+  "userRatingCount": 91,
+  "types": [
+   "chicken_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2678262,
+   "longitude": 131.365523
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=8483773582006356328&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 地鶏"
+  ]
+ },
+ "ChIJR2-VQgCtRjURxD9tyUyTeyc": {
+  "name": "炭火焼かとー",
+  "address": "日本、〒879-5103 大分県由布市湯布院町川南１６９６−１",
+  "rating": 4.9,
+  "userRatingCount": 26,
+  "types": [
+   "yakitori_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2515684,
+   "longitude": 131.3446587
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=2845029547620777924&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 地鶏"
+  ]
+ },
+ "ChIJc6VCPwCtRjURnEK4ZsQAuZI": {
+  "name": "焼鳥わらび",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上２９１５−１５",
+  "rating": 4.2,
+  "userRatingCount": 34,
+  "types": [
+   "yakitori_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.261893199999996,
+   "longitude": 131.356697
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=10572482443765891740&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 地鶏"
+  ]
+ },
+ "ChIJDSSZD9etRjURZKWd-nhuPJM": {
+  "name": "地鶏ラーメン 福助",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上３０５２−３",
+  "rating": 4.4,
+  "userRatingCount": 467,
+  "types": [
+   "ramen_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2643226,
+   "longitude": 131.3580751
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=10609476288057812324&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 地鶏",
+   "由布院 ラーメン"
+  ]
+ },
+ "ChIJcVWqItqtRjURuo9NJVJ09Vc": {
+  "name": "ラーメン 侍",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上３０５６−１ モトヤマビル 1F",
+  "rating": 4.3,
+  "userRatingCount": 1239,
+  "types": [
+   "ramen_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2641877,
+   "longitude": 131.3575152
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=6338099946755821498&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 ラーメン"
+  ]
+ },
+ "ChIJo7rxiymvRjURDFrdjM6JORM": {
+  "name": "ラーメンごくまる ゆふいんホテル秀峰館店",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上２４１５−２",
+  "rating": 4.4,
+  "userRatingCount": 114,
+  "types": [
+   "ramen_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.260169,
+   "longitude": 131.36234299999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=1385289880612723212&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 ラーメン"
+  ]
+ },
+ "ChIJEfdxE9atRjURD9xGgk8K2xo": {
+  "name": "ラーメン天国",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上２",
+  "rating": 4.3,
+  "userRatingCount": 596,
+  "types": [
+   "ramen_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2659261,
+   "longitude": 131.36014880000002
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=1935151801490136079&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 ラーメン"
+  ]
+ },
+ "ChIJD2micZ6xRjUR7KR3VZmC-ms": {
+  "name": "日輪食堂",
+  "address": "日本、〒879-5436 大分県由布市庄内町西１０２２−１",
+  "rating": 4.1,
+  "userRatingCount": 453,
+  "types": [
+   "ramen_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.1913932,
+   "longitude": 131.37655429999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=7780674901311464684&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 ラーメン"
+  ]
+ },
+ "ChIJVXNav3WwRjURrZ6hPnXAle8": {
+  "name": "めし屋賛辞",
+  "address": "日本、〒879-5413 大分県由布市庄内町大龍１４７４ 1",
+  "rating": 4.3,
+  "userRatingCount": 378,
+  "types": [
+   "ramen_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.1796812,
+   "longitude": 131.4397311
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=17263916356389150381&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 ラーメン"
+  ]
+ },
+ "ChIJofSe7nyuRjURIpwX6K6EmwI": {
+  "name": "ばんから",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１７７０",
+  "rating": 4.6,
+  "userRatingCount": 392,
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2641829,
+   "longitude": 131.369585
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=187889696219044898&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 ラーメン"
+  ]
+ },
+ "ChIJAQAk8tmtRjURlaHsgMgcU80": {
+  "name": "盆地うどん 麺一",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上２９１２−１",
+  "rating": 4.2,
+  "userRatingCount": 281,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.262298,
+   "longitude": 131.356723
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=14795200848324239765&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 ラーメン"
+  ]
+ },
+ "ChIJU2ukTsetRjURB9_5bRneWNk": {
+  "name": "由布岳ドライブイン",
+  "address": "日本、〒879-5114 大分県由布市湯布院町川北６４５−１２",
+  "rating": 4.6,
+  "userRatingCount": 37,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.264801,
+   "longitude": 131.341925
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=15661511904981540615&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 ラーメン"
+  ]
+ },
+ "ChIJ_8JL9ISuRjUR8EZb286J8to": {
+  "name": "山椒カレーうどん 菊すけ",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１２６９−３６",
+  "rating": 4.6,
+  "userRatingCount": 677,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2752637,
+   "longitude": 131.367598
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=15776823966168729328&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 ラーメン"
+  ]
+ },
+ "ChIJ4_-zYdetRjUR6xay7zVcRxQ": {
+  "name": "たけお",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上２９３１−４",
+  "rating": 4.5,
+  "userRatingCount": 265,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.262878,
+   "longitude": 131.3575296
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=1461237990829463275&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 ラーメン"
+  ]
+ },
+ "ChIJQ0zJJ9qtRjURD8A3p_sz9xk": {
+  "name": "舌つづみ僖楽",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上３７３３",
+  "rating": 4.6,
+  "userRatingCount": 84,
+  "types": [
+   "sushi_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2625544,
+   "longitude": 131.3561975
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=1871021326130987023&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 和食"
+  ]
+ },
+ "ChIJOw2_R6OtRjURoWVtawxxT2Y": {
+  "name": "寿司ゆふいん",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上２９２２−１",
+  "rating": 4.6,
+  "userRatingCount": 200,
+  "types": [
+   "japanese_restaurant",
+   "japanese_izakaya_restaurant",
+   "sushi_restaurant",
+   "seafood_restaurant",
+   "meal_takeaway",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2626935,
+   "longitude": 131.3571642
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=7372235413184669089&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 和食"
+  ]
+ },
+ "ChIJXbaUM9etRjURUcjoW4O9v4A": {
+  "name": "鰻一 × 豊後肉汁うどん 由布院駅前店",
+  "address": "日本、〒879-5114 大分県由布市湯布院町川北２−１１ 1F",
+  "rating": 4.7,
+  "userRatingCount": 189,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2631659,
+   "longitude": 131.3559496
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=9277342129286858833&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "由布院 和食"
+  ]
+ },
+ "ChIJLZnHRdetRjUR-er3gdsqEJQ": {
+  "name": "La Verveine",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上３０６４−３",
+  "rating": 4.5,
+  "userRatingCount": 92,
+  "types": [
+   "french_restaurant",
+   "european_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.264060799999996,
+   "longitude": 131.3567133
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=10669074639507417849&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "湯布院 レストラン"
+  ]
+ },
+ "ChIJJyjCO5itRjURFbzbVoiVAdk": {
+  "name": "Pizzeria 櫟の丘",
+  "address": "日本、〒879-5114 大分県由布市湯布院町川北８９３−１",
+  "rating": 4.3,
+  "userRatingCount": 1468,
+  "types": [
+   "italian_restaurant",
+   "european_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2632675,
+   "longitude": 131.32994069999998
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=15636943794012404757&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "湯布院 レストラン"
+  ]
+ },
+ "ChIJCRbPLRmvRjURsM-64cpuBPw": {
+  "name": "和牛うどんの諏訪 湯布院本店",
+  "address": "日本、〒879-5102 大分県由布市湯布院町川上１５２４−１ 2階 湯の坪横丁",
+  "rating": 4,
+  "userRatingCount": 25,
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "location": {
+   "latitude": 33.2675638,
+   "longitude": 131.3643475
+  },
+  "googleMapsUri": "https://maps.google.com/?cid=18159761415114248112&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "queries": [
+   "湯布院 レストラン"
+  ]
+ }
+}
