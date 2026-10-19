@@ -14,8 +14,8 @@
   "types": [
    "chinese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -35,8 +35,8 @@
   "types": [
    "restaurant",
    "japanese_restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -97,8 +97,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "東勢"
@@ -118,8 +118,8 @@
   "types": [
    "chinese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -246,8 +246,8 @@
   "types": [
    "deli",
    "food_store",
-   "food",
    "store",
+   "food",
    "point_of_interest",
    "establishment"
   ],
@@ -268,8 +268,8 @@
   "types": [
    "chinese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -310,8 +310,8 @@
   "types": [
    "chinese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -330,8 +330,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -393,8 +393,8 @@
   "types": [
    "brunch_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -415,8 +415,8 @@
    "breakfast_restaurant",
    "brunch_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "東勢"
@@ -435,8 +435,8 @@
   },
   "types": [
    "food_store",
-   "food",
    "store",
+   "food",
    "point_of_interest",
    "establishment"
   ],
@@ -459,8 +459,8 @@
    "asian_restaurant",
    "chinese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -480,8 +480,8 @@
   "types": [
    "breakfast_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -501,8 +501,8 @@
   "types": [
    "brunch_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -522,8 +522,8 @@
   "types": [
    "brunch_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -543,8 +543,8 @@
   "types": [
    "brunch_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -565,8 +565,8 @@
    "coffee_shop",
    "cafe",
    "food_store",
-   "food",
    "store",
+   "food",
    "point_of_interest",
    "establishment"
   ],
@@ -587,8 +587,8 @@
   "types": [
    "brunch_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -608,8 +608,8 @@
   "types": [
    "breakfast_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -629,8 +629,8 @@
   "types": [
    "breakfast_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -650,8 +650,8 @@
   "types": [
    "breakfast_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -671,8 +671,8 @@
   "types": [
    "brunch_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -692,8 +692,8 @@
   "types": [
    "breakfast_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -713,8 +713,8 @@
   "types": [
    "breakfast_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -735,8 +735,8 @@
    "ramen_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -755,8 +755,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -775,8 +775,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -795,13 +795,13 @@
   },
   "types": [
    "sushi_restaurant",
-   "brunch_restaurant",
    "breakfast_restaurant",
+   "brunch_restaurant",
    "meal_takeaway",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -821,8 +821,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -954,6 +954,26 @@
   ],
   "area_label": "東勢"
  },
+ "16368324204707731110": {
+  "place_id": "ChIJk7I-b9wdaTQRplYIHiT4J-M",
+  "name": "阿喜烤鴨",
+  "address": "423台灣臺中市東勢區廣興里第三橫街134號",
+  "rating": 4.8,
+  "userRatingCount": 37,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=16368324204707731110&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2559023,
+   "longitude": 120.8304594
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
  "12654911622168138863": {
   "place_id": "ChIJTXzKloIdaTQRb1RLXxJHn68",
   "name": "早到晚到 東勢文化店",
@@ -975,19 +995,39 @@
   ],
   "area_label": "東勢"
  },
- "16368324204707731110": {
-  "place_id": "ChIJk7I-b9wdaTQRplYIHiT4J-M",
-  "name": "阿喜烤鴨",
-  "address": "423台灣臺中市東勢區廣興里第三橫街134號",
-  "rating": 4.8,
-  "userRatingCount": 37,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=16368324204707731110&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "7114527082353944290": {
+  "place_id": "ChIJbVxdZl8caTQR4maa4K_gu2I",
+  "name": "東勢夜市",
+  "address": "423台灣臺中市東勢區廣興里中山路13號",
+  "rating": 4.1,
+  "userRatingCount": 745,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=7114527082353944290&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.2559023,
-   "longitude": 120.8304594
+   "latitude": 24.255446799999998,
+   "longitude": 120.82739
   },
   "types": [
+   "market",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "2663005189777754034": {
+  "place_id": "ChIJ39y_iF4caTQRsoe5Yxzl9CQ",
+  "name": "頂好馨湯鍋-東勢店",
+  "address": "423台灣臺中市東勢區南平里忠孝街15號",
+  "rating": 4.4,
+  "userRatingCount": 328,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=2663005189777754034&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.253684099999997,
+   "longitude": 120.83008189999998
+  },
+  "types": [
+   "hot_pot_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -1015,27 +1055,6 @@
   ],
   "area_label": "東勢"
  },
- "2663005189777754034": {
-  "place_id": "ChIJ39y_iF4caTQRsoe5Yxzl9CQ",
-  "name": "頂好馨湯鍋-東勢店",
-  "address": "423台灣臺中市東勢區南平里忠孝街15號",
-  "rating": 4.4,
-  "userRatingCount": 328,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=2663005189777754034&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.253684099999997,
-   "longitude": 120.83008189999998
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "東勢"
- },
  "13502347404429992196": {
   "place_id": "ChIJXRbqyGgdaTQRBKH3Am35Ybs",
   "name": "鮮饌小館熗鍋麵",
@@ -1051,8 +1070,8 @@
   "types": [
    "noodle_shop",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1113,8 +1132,8 @@
   "types": [
    "coffee_roastery",
    "food_store",
-   "food",
    "store",
+   "food",
    "point_of_interest",
    "establishment"
   ],
@@ -1136,8 +1155,8 @@
    "dessert_shop",
    "confectionery",
    "food_store",
-   "food",
    "store",
+   "food",
    "point_of_interest",
    "establishment"
   ],
@@ -1159,8 +1178,8 @@
    "bakery",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1178,16 +1197,16 @@
    "longitude": 120.8301758
   },
   "types": [
-   "ice_cream_shop",
-   "tea_house",
    "chocolate_shop",
    "candy_store",
+   "liquor_store",
+   "ice_cream_shop",
    "dessert_shop",
    "confectionery",
+   "tea_house",
    "food_store",
-   "liquor_store",
-   "food",
    "store",
+   "food",
    "point_of_interest",
    "establishment"
   ],
@@ -1209,8 +1228,8 @@
    "bakery",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1231,8 +1250,8 @@
    "bakery",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1253,8 +1272,8 @@
    "bakery",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1276,8 +1295,8 @@
    "dessert_shop",
    "confectionery",
    "food_store",
-   "food",
    "store",
+   "food",
    "point_of_interest",
    "establishment"
   ],
@@ -1300,8 +1319,8 @@
    "confectionery",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1319,34 +1338,13 @@
    "longitude": 120.8296277
   },
   "types": [
+   "french_restaurant",
    "dessert_shop",
    "confectionery",
-   "french_restaurant",
    "european_restaurant",
    "food_store",
    "store",
    "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "東勢"
- },
- "7040018418976520368": {
-  "place_id": "ChIJU7ZjGwAdaTQRsHhN03Mrs2E",
-  "name": "時刻製造所｜藝文咖啡空間",
-  "address": "423台灣臺中市東勢區東新里三民街378巷29弄16號",
-  "rating": 5,
-  "userRatingCount": 68,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=7040018418976520368&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2615536,
-   "longitude": 120.82787970000001
-  },
-  "types": [
-   "art_studio",
-   "cafe",
    "food",
    "point_of_interest",
    "establishment"
@@ -1374,6 +1372,27 @@
   ],
   "area_label": "東勢"
  },
+ "7040018418976520368": {
+  "place_id": "ChIJU7ZjGwAdaTQRsHhN03Mrs2E",
+  "name": "時刻製造所｜藝文咖啡空間",
+  "address": "423台灣臺中市東勢區東新里三民街378巷29弄16號",
+  "rating": 5,
+  "userRatingCount": 68,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=7040018418976520368&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2615536,
+   "longitude": 120.82787970000001
+  },
+  "types": [
+   "art_studio",
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
  "7173263340030786942": {
   "place_id": "ChIJ2xG5zQIdaTQRfv3djgCNjGM",
   "name": "二餘草堂咖啡工作室",
@@ -1388,8 +1407,8 @@
   },
   "types": [
    "food_store",
-   "food",
    "store",
+   "food",
    "point_of_interest",
    "establishment"
   ],
@@ -1411,31 +1430,8 @@
    "coffee_shop",
    "cafe",
    "food_store",
-   "food",
    "store",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "東勢"
- },
- "196344751701890714": {
-  "place_id": "ChIJe89RZ40caTQRmha06oKOuQI",
-  "name": "何朝宗建築師事務所咖啡",
-  "address": "423台灣臺中市東勢區下新里東蘭路西門巷3-6號",
-  "rating": 4.6,
-  "userRatingCount": 254,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=196344751701890714&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2696038,
-   "longitude": 120.82514319999999
-  },
-  "types": [
-   "cafe",
-   "coffee_shop",
-   "food_store",
    "food",
-   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -1461,6 +1457,69 @@
   ],
   "area_label": "東勢"
  },
+ "7242005713093335244": {
+  "place_id": "ChIJIcsxMn8daTQRzBhHhtPFgGQ",
+  "name": "萬波島嶼紅茶 wanpo tea shop 台中 東勢店",
+  "address": "423台灣臺中市東勢區南平里忠孝街11號",
+  "rating": 4.6,
+  "userRatingCount": 289,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=7242005713093335244&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.253682899999998,
+   "longitude": 120.8300822
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "196344751701890714": {
+  "place_id": "ChIJe89RZ40caTQRmha06oKOuQI",
+  "name": "何朝宗建築師事務所咖啡",
+  "address": "423台灣臺中市東勢區下新里東蘭路西門巷3-6號",
+  "rating": 4.6,
+  "userRatingCount": 254,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=196344751701890714&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2696038,
+   "longitude": 120.82514319999999
+  },
+  "types": [
+   "cafe",
+   "coffee_shop",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
+ "7689095665386609871": {
+  "place_id": "ChIJ4e0Rh14caTQRz1xd48QntWo",
+  "name": "85度C咖啡蛋糕飲料烘焙-台中東勢店",
+  "address": "423台灣臺中市東勢區延平里豐勢路334號",
+  "rating": 4.2,
+  "userRatingCount": 613,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=7689095665386609871&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2534162,
+   "longitude": 120.8297925
+  },
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "東勢"
+ },
  "14113792522828556105": {
   "place_id": "ChIJlS31Vk8daTQRSafCfIVD3sM",
   "name": "愛麵子餐館",
@@ -1475,8 +1534,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1515,8 +1574,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1535,8 +1594,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1578,9 +1637,9 @@
    "chinese_noodle_restaurant",
    "deli",
    "food_store",
+   "store",
    "restaurant",
    "food",
-   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -1601,8 +1660,8 @@
   "types": [
    "vietnamese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1644,8 +1703,8 @@
   "types": [
    "chinese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1666,8 +1725,8 @@
    "deli",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1688,8 +1747,8 @@
    "chinese_noodle_restaurant",
    "noodle_shop",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1730,8 +1789,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1750,8 +1809,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1813,8 +1872,8 @@
   "types": [
    "chinese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1835,8 +1894,8 @@
    "restaurant",
    "asian_restaurant",
    "chinese_restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1856,8 +1915,8 @@
   "types": [
    "chinese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
