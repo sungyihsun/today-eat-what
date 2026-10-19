@@ -397,6 +397,25 @@
   .route-thumbs .arrow{ align-self:center; color:#8a8474; flex:0 0 auto; padding-bottom:18px; }
   .route-go{ width:100%; border:0; background:#16140f; color:#c9a227; border-radius:10px; padding:9px; font-weight:700; font-size:13.5px; cursor:pointer; }
   .route-go:hover{ background:#2a261b; }
+  .view-toggle-btn.lodge-only + .lodge-only{ margin-left:0; }
+  #planCount{ display:inline-block; min-width:18px; padding:0 5px; border-radius:999px; background:#16140f; color:#c9a227; font-size:11.5px; line-height:18px; text-align:center; }
+  .view-toggle-btn.active #planCount{ background:#c9a227; color:#16140f; }
+  .card-lodge{ font-size:12px; color:#2b4f7e; font-weight:600; margin-top:2px; }
+  .plan-add{ border:1px solid rgba(22,20,15,.3); background:none; border-radius:999px; padding:3px 10px; font-size:12px; cursor:pointer; color:#201d16; font-weight:600; }
+  .plan-add.on{ background:#16140f; color:#c9a227; border-color:#16140f; }
+  .plan-row{ display:flex; align-items:center; gap:8px; padding:9px 0; border-bottom:1px dashed rgba(22,20,15,.15); font-size:13px; }
+  .plan-row .no{ flex:0 0 26px; height:26px; border-radius:50%; background:#16140f; color:#c9a227; font-weight:800; display:flex; align-items:center; justify-content:center; font-size:13px; }
+  .plan-row .mid{ flex:1 1 auto; min-width:0; }
+  .plan-row .mid .n{ font-weight:700; }
+  .plan-row .mid .l{ font-size:11.5px; color:#2b4f7e; }
+  .plan-row .mid .h{ font-size:11.5px; color:#6b6656; }
+  .plan-row button{ border:1px solid rgba(22,20,15,.25); background:#fff; border-radius:8px; width:28px; height:28px; cursor:pointer; flex:0 0 auto; }
+  .plan-sum{ background:#e6eef9; color:#2b4f7e; border-radius:10px; padding:9px 12px; font-size:12.5px; line-height:1.6; margin:10px 0; }
+  .plan-actions{ display:flex; flex-wrap:wrap; gap:8px; }
+  .plan-actions button, .lodge-actions button{ border:1px solid rgba(22,20,15,.3); background:var(--paper,#faf6ec); border-radius:999px; padding:7px 14px; cursor:pointer; font-size:13px; font-weight:600; color:#201d16; }
+  .plan-actions button.primary{ background:#16140f; color:#c9a227; border-color:#16140f; }
+  .lodge-actions{ display:flex; flex-direction:column; gap:8px; align-items:flex-start; }
+  .lodge-note{ font-size:12px; color:#6b6656; line-height:1.6; }
   .grid{ display:grid; grid-template-columns:repeat(auto-fill, minmax(280px,1fr)); gap:20px; }
   .load-more-wrap{ text-align:center; margin-top:28px; }
   .load-more-btn{
@@ -657,6 +676,10 @@
   <div class="result-row">
     <div class="result-count" id="resultCount"></div>
     <button class="view-toggle-btn" id="viewToggleBtn" type="button" aria-pressed="false">🗺 地圖模式</button>
+    <button class="view-toggle-btn lodge-only" id="mealBreakfastBtn" type="button" style="display:none;margin-left:0;">🌅 住宿早餐</button>
+    <button class="view-toggle-btn lodge-only" id="mealDinnerBtn" type="button" style="display:none;margin-left:0;">🌙 住宿晚餐</button>
+    <button class="view-toggle-btn lodge-only" id="planBtn" type="button" style="display:none;margin-left:0;">🗓 我的行程 <span id="planCount">0</span></button>
+    <button class="view-toggle-btn lodge-only" id="lodgeBtn" type="button" style="display:none;margin-left:0;">🏨 住宿</button>
     <div class="cat-select-wrap sort-select-wrap">
       <select class="cat-select" id="sortSelect" aria-label="排序方式">
         <option value="default">預設排序</option>
@@ -692,6 +715,18 @@
   <div class="routes-sheet">
     <div class="routes-head"><b>🗺 推薦路線</b><button type="button" id="routesClose" aria-label="關閉">✕</button></div>
     <div class="routes-body" id="routesBody"></div>
+  </div>
+</div>
+<div class="routes-modal" id="lodgeModal" style="display:none;" role="dialog" aria-label="住宿設定">
+  <div class="routes-sheet">
+    <div class="routes-head"><b>🏨 住宿設定</b><button type="button" id="lodgeClose" aria-label="關閉">✕</button></div>
+    <div class="routes-body" id="lodgeBody"></div>
+  </div>
+</div>
+<div class="routes-modal" id="planModal" style="display:none;" role="dialog" aria-label="我的行程">
+  <div class="routes-sheet">
+    <div class="routes-head"><b>🗓 我的行程（從住宿出發）</b><button type="button" id="planClose" aria-label="關閉">✕</button></div>
+    <div class="routes-body" id="planBody"></div>
   </div>
 </div>
 <div class="toast" id="toast"></div>
@@ -2902,10 +2937,169 @@ function parkingBadge(r){
   }
 }
 
+// ── 住宿・行程（旅遊版）─────────────────────────────────────────────
+// 住宿位置存在瀏覽器 localStorage（不進資料庫）。預設值只是這次旅遊的住宿，使用者可改。
+const DEFAULT_LODGING = {
+  fukuoka: {name:'住宿（福岡市西區今津 1115-2）', lat:33.6045675, lng:130.2725049},
+};
+const MEAL_MODES = {
+  breakfast: {label:'早餐', start:480, end:540},   // 08:00–09:00 都有營業
+  dinner:    {label:'晚餐', start:1140, end:1200}, // 19:00–20:00 都有營業
+};
+const NON_FOOD_CATS = ['景點','逛街','超市・便利商店'];
+let lodging = null;      // {name, lat, lng}，只在旅遊版且該城市有預設時才有值
+let mealMode = null;     // 'breakfast' | 'dinner' | null
+let itinerary = [];      // 我的行程：店名陣列（依行程順序）
+let pickingLodging = false;
+function lsGet(k){ try{ return JSON.parse(localStorage.getItem(k)); }catch(e){ return null; } }
+function lsSet(k,v){ try{ localStorage.setItem(k, JSON.stringify(v)); }catch(e){} }
+function lodgeKm(r){ return lodging ? haversineKm(lodging.lat, lodging.lng, r.lat, r.lng) : null; }
+// 直線距離 ×1.35（道路繞行）÷ 時速 40 公里；只是估算，出發前請用 Google 地圖確認。
+function driveMin(km){ return Math.max(2, Math.round(km*1.35/40*60)); }
+function lodgeText(km){ return `離住宿 ${fmtDistance(km)}・開車約 ${driveMin(km)} 分（估算）`; }
+function legText(a, b){ const km = haversineKm(a.lat,a.lng,b.lat,b.lng); return `${fmtDistance(km)}・開車約 ${driveMin(km)} 分`; }
+function savePlan(){ if(currentTripCity) lsSet('plan:'+currentTripCity, itinerary); updatePlanUi(); }
+function updatePlanUi(){
+  const c = document.getElementById('planCount'); if(c) c.textContent = itinerary.length;
+}
+function setupLodgingUi(){
+  const on = siteMode==='trip' && !!lodging;
+  document.querySelectorAll('.lodge-only').forEach(b=>{ b.style.display = on ? '' : 'none'; });
+  const opt = [...sortSelect.options].find(o=>o.value==='lodging');
+  if(on && !opt){ const o=document.createElement('option'); o.value='lodging'; o.textContent='距離住宿：近到遠'; sortSelect.appendChild(o); }
+  if(!on && opt){ opt.remove(); }
+  updatePlanUi(); updateMealButtons();
+}
+function updateMealButtons(){
+  document.getElementById('mealBreakfastBtn').classList.toggle('active', mealMode==='breakfast');
+  document.getElementById('mealDinnerBtn').classList.toggle('active', mealMode==='dinner');
+}
+function setMealMode(kind){
+  if(mealMode===kind){
+    mealMode = null;
+    state.rangeStart = null; state.rangeEnd = null; state.onlyOpen = false;
+    if(state.sort==='lodging') state.sort = 'default';
+    sortSelect.value = state.sort;
+    hoursToggle.classList.remove('active');
+  } else {
+    mealMode = kind;
+    const m = MEAL_MODES[kind];
+    state.rangeStart = m.start; state.rangeEnd = m.end; state.customTime = null; state.onlyOpen = true;
+    state.sort = 'lodging'; sortSelect.value = 'lodging';
+    state.cats = []; state.area = 'all';
+    hoursToggle.classList.add('active');
+    timeSelectRow.classList.add('visible');
+  }
+  renderMealPresets(); updateHoursLabel(); updateMealButtons(); render();
+}
+document.getElementById('mealBreakfastBtn').addEventListener('click', ()=>setMealMode('breakfast'));
+document.getElementById('mealDinnerBtn').addEventListener('click', ()=>setMealMode('dinner'));
+
+function togglePlan(name){
+  const i = itinerary.indexOf(name);
+  if(i>=0) itinerary.splice(i,1); else itinerary.push(name);
+  savePlan();
+}
+function planTotals(list){
+  if(!lodging || !list.length) return null;
+  let km = 0, prev = lodging;
+  list.forEach(r=>{ km += haversineKm(prev.lat,prev.lng,r.lat,r.lng); prev = r; });
+  km += haversineKm(prev.lat,prev.lng,lodging.lat,lodging.lng);
+  return {km, min: driveMin(km)};
+}
+function autoOrderPlan(){
+  // 最近鄰：從住宿出發，每次去離目前位置最近的下一站（簡單貪婪法，不是最佳解）。
+  const left = itinerary.map(n=>restaurants.find(r=>r.name===n)).filter(Boolean);
+  const out = []; let cur = lodging;
+  while(left.length){
+    let bi = 0, bd = Infinity;
+    left.forEach((r,i)=>{ const d = haversineKm(cur.lat,cur.lng,r.lat,r.lng); if(d<bd){ bd=d; bi=i; } });
+    const [r] = left.splice(bi,1); out.push(r.name); cur = r;
+  }
+  itinerary = out; savePlan();
+}
+const planModal = document.getElementById('planModal'), planBody = document.getElementById('planBody');
+function renderPlan(){
+  planBody.innerHTML = '';
+  const list = itinerary.map(n=>restaurants.find(r=>r.name===n)).filter(Boolean);
+  if(!list.length){
+    planBody.innerHTML = '<div class="lodge-note">行程還是空的。在卡片右下角按「➕ 行程」就能把景點或餐廳加進來，再回到這裡排順序、看從住宿出發的來回距離。</div>';
+    return;
+  }
+  let prev = lodging;
+  list.forEach((r,i)=>{
+    const row = document.createElement('div'); row.className = 'plan-row';
+    row.innerHTML = `<span class="no">${i+1}</span><div class="mid"><div class="n"></div><div class="l"></div><div class="h"></div></div>`;
+    row.querySelector('.n').textContent = r.nameZh || r.name;
+    row.querySelector('.l').textContent = `${i===0 ? '從住宿出發' : '從上一站'}：${legText(prev, r)}`;
+    row.querySelector('.h').textContent = `今天營業：${hoursSummary(r.name).replace(/^\S+\s/,'')}`;
+    [['↑',-1],['↓',1],['✕',0]].forEach(([t,d])=>{
+      const b = document.createElement('button'); b.type='button'; b.textContent=t;
+      b.addEventListener('click', ()=>{
+        if(d===0) itinerary.splice(i,1);
+        else { const j=i+d; if(j<0||j>=itinerary.length) return; [itinerary[i],itinerary[j]]=[itinerary[j],itinerary[i]]; }
+        savePlan(); renderPlan(); render();
+      });
+      row.appendChild(b);
+    });
+    planBody.appendChild(row); prev = r;
+  });
+  const tot = planTotals(list);
+  const sum = document.createElement('div'); sum.className='plan-sum';
+  sum.textContent = `全程（住宿 → ${list.length} 站 → 回住宿）約 ${tot.km.toFixed(1)} 公里、開車約 ${tot.min} 分鐘（直線距離估算，不含停留與停車時間；實際路況請以 Google 地圖為準）。`;
+  planBody.appendChild(sum);
+  const act = document.createElement('div'); act.className='plan-actions';
+  const mk = (txt, cls, fn)=>{ const b=document.createElement('button'); b.type='button'; b.textContent=txt; if(cls) b.className=cls; b.addEventListener('click', fn); act.appendChild(b); };
+  mk('🧭 自動排序（最近的先去）','', ()=>{ autoOrderPlan(); renderPlan(); render(); });
+  mk('🗺 看行程卡片／地圖','primary', ()=>{
+    planModal.style.display='none';
+    startRoute({title:'我的行程', note:`從住宿出發，共 ${list.length} 站；地圖模式會畫出住宿 → 各站 → 回住宿的路線。`, duration:`約 ${tot.km.toFixed(1)} 公里`, mode:`開車約 ${tot.min} 分（估算）`}, list.map(r=>r.name), true);
+  });
+  mk('🗑 清空','', ()=>{ itinerary=[]; savePlan(); renderPlan(); render(); });
+  planBody.appendChild(act);
+}
+document.getElementById('planBtn').addEventListener('click', ()=>{ renderPlan(); planModal.style.display='flex'; });
+document.getElementById('planClose').addEventListener('click', ()=>{ planModal.style.display='none'; });
+planModal.addEventListener('click', e=>{ if(e.target===planModal) planModal.style.display='none'; });
+
+const lodgeModal = document.getElementById('lodgeModal'), lodgeBody = document.getElementById('lodgeBody');
+function setLodging(l){
+  lodging = l; lsSet('lodging:'+currentTripCity, l);
+  lastMapKey = ''; setupLodgingUi(); render();
+}
+function renderLodgeModal(){
+  lodgeBody.innerHTML = '';
+  const cur = document.createElement('div'); cur.className='lodge-note';
+  cur.innerHTML = '<b></b><br>座標：<span></span>';
+  cur.querySelector('b').textContent = lodging.name;
+  cur.querySelector('span').textContent = `${lodging.lat.toFixed(5)}, ${lodging.lng.toFixed(5)}`;
+  lodgeBody.appendChild(cur);
+  const act = document.createElement('div'); act.className='lodge-actions';
+  const mk = (txt, fn)=>{ const b=document.createElement('button'); b.type='button'; b.textContent=txt; b.addEventListener('click', fn); act.appendChild(b); };
+  mk('📍 用我目前的位置當住宿', ()=>{
+    if(!navigator.geolocation){ showToast('這個瀏覽器不支援定位功能'); return; }
+    navigator.geolocation.getCurrentPosition(p=>{ setLodging({name:'住宿（我設定的位置）', lat:p.coords.latitude, lng:p.coords.longitude}); lodgeModal.style.display='none'; showToast('已更新住宿位置'); },
+      ()=>showToast('無法取得位置，請確認已允許定位權限'), {timeout:10000});
+  });
+  mk('🗺 在地圖上點選住宿位置', ()=>{
+    lodgeModal.style.display='none'; pickingLodging = true;
+    showToast('請在地圖上點一下住宿的位置');
+    if(!mapMode) viewToggleBtn.click(); else render();
+  });
+  mk('↩ 還原預設住宿', ()=>{ const d = DEFAULT_LODGING[currentTripCity]; if(d){ setLodging({...d}); renderLodgeModal(); } });
+  lodgeBody.appendChild(act);
+  const n = document.createElement('div'); n.className='lodge-note'; n.style.marginTop='12px';
+  n.textContent = '開啟「住宿早餐」「住宿晚餐」會只顯示當天該時段有營業的餐廳，並依離住宿距離排序；「距離住宿」是直線距離換算的開車時間估算。住宿位置只存在這個瀏覽器，不會上傳。';
+  lodgeBody.appendChild(n);
+}
+document.getElementById('lodgeBtn').addEventListener('click', ()=>{ if(!lodging) return; renderLodgeModal(); lodgeModal.style.display='flex'; });
+document.getElementById('lodgeClose').addEventListener('click', ()=>{ lodgeModal.style.display='none'; });
+lodgeModal.addEventListener('click', e=>{ if(e.target===lodgeModal) lodgeModal.style.display='none'; });
+
 // ── 地圖模式 ────────────────────────────────────────────────────────
 // Leaflet + OpenStreetMap，第一次切到地圖才從 CDN 載入，離線或載入失敗時回到列表。
 let activeRoute = null; // {title, note, names:[店名…]}：選了推薦路線後，列表／地圖只顯示該路線的店，依行程順序排列
-let routeLine = null;
+let routeLine = null, lodgeMarker = null;
 let mapMode = false, leafletMap = null, markerLayer = null, userMarker = null, lastMapKey = '', leafletPromise = null;
 const mapView = document.getElementById('mapView');
 const viewToggleBtn = document.getElementById('viewToggleBtn');
@@ -2946,6 +3140,12 @@ function updateMap(list, cp, filterKey){
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {maxZoom:19, attribution:'&copy; OpenStreetMap'}).addTo(leafletMap);
     markerLayer = L.markerClusterGroup({maxClusterRadius:45, showCoverageOnHover:false});
     leafletMap.addLayer(markerLayer);
+    leafletMap.on('click', e=>{
+      if(!pickingLodging) return;
+      pickingLodging = false;
+      setLodging({name:'住宿（我在地圖上設定的位置）', lat:e.latlng.lat, lng:e.latlng.lng});
+      showToast('已更新住宿位置');
+    });
   }
   markerLayer.clearLayers();
   const pts = [];
@@ -2973,19 +3173,34 @@ function updateMap(list, cp, filterKey){
     b.textContent = isMarket ? '營業時間僅供參考' : (open ? '營業中' : '目前休息');
     pop.appendChild(b);
     const h = document.createElement('div'); h.textContent = hoursSummary(r.name); pop.appendChild(h);
+    if(lodging){ const ld=document.createElement('div'); ld.style.cssText='color:#2b4f7e;font-weight:600;'; ld.textContent='🏨 '+lodgeText(lodgeKm(r)); pop.appendChild(ld); }
     if(r.transport){ const tr=document.createElement('div'); tr.textContent = `${r.transport.mode}：${r.transport.note}`; tr.style.cssText='margin-top:4px;color:#2b4f7e;'; pop.appendChild(tr); }
     const links = document.createElement('div'); links.style.marginTop='6px';
     if(r.mapsUrl){ const a=document.createElement('a'); a.href=r.mapsUrl; a.target='_blank'; a.rel='noopener'; a.textContent='📍 Google 地圖'; links.appendChild(a); }
     const lb = document.createElement('button'); lb.type='button'; lb.className='lnk'; lb.textContent='在列表中查看';
     lb.addEventListener('click', ()=>{ leafletMap.closePopup(); setMapMode(false); searchInput.value = r.name; searchInput.dispatchEvent(new Event('input')); window.scrollTo({top:0, behavior:'smooth'}); });
     links.appendChild(lb);
+    if(lodging){
+      const pb = document.createElement('button'); pb.type='button'; pb.className='lnk';
+      pb.textContent = itinerary.includes(r.name) ? '✓ 已在行程' : '➕ 加入行程';
+      pb.addEventListener('click', ()=>{ togglePlan(r.name); pb.textContent = itinerary.includes(r.name) ? '✓ 已在行程' : '➕ 加入行程'; });
+      links.appendChild(pb);
+    }
     pop.appendChild(links);
     m.bindPopup(pop, {minWidth:270, maxWidth:300});
     markerLayer.addLayer(m);
     pts.push([r.lat, r.lng]);
   });
   if(routeLine){ leafletMap.removeLayer(routeLine); routeLine = null; }
-  if(activeRoute && pts.length > 1) routeLine = L.polyline(pts, {color:'#b8902f', weight:3, dashArray:'6 8', opacity:.9}).addTo(leafletMap);
+  if(activeRoute && pts.length > 0){
+    const line = (activeRoute.isPlan && lodging) ? [[lodging.lat,lodging.lng], ...pts, [lodging.lat,lodging.lng]] : pts;
+    if(line.length > 1) routeLine = L.polyline(line, {color:'#b8902f', weight:3, dashArray:'6 8', opacity:.9}).addTo(leafletMap);
+  }
+  if(lodgeMarker){ leafletMap.removeLayer(lodgeMarker); lodgeMarker = null; }
+  if(lodging){
+    lodgeMarker = L.marker([lodging.lat, lodging.lng], {icon:L.divIcon({className:'', html:'<div style="font-size:26px;line-height:26px;filter:drop-shadow(0 1px 2px rgba(0,0,0,.5))">🏨</div>', iconSize:[26,26], iconAnchor:[13,13]}), zIndexOffset:1000}).bindTooltip(lodging.name).addTo(leafletMap);
+    if(mealMode || state.sort==='lodging' || (activeRoute && activeRoute.isPlan)) pts.push([lodging.lat, lodging.lng]);
+  }
   if(userMarker){ leafletMap.removeLayer(userMarker); userMarker = null; }
   if(userLocation){
     userMarker = L.circleMarker([userLocation.lat, userLocation.lng], {radius:8, color:'#fff', weight:3, fillColor:'#2b6fd6', fillOpacity:1}).bindTooltip('你的位置').addTo(leafletMap);
@@ -3008,11 +3223,13 @@ function render(){
     const favOk = !state.onlyFav || favorites.has(r.name);
     const sharedOk = !state.viewingShared || sharedFavorites.has(r.name);
     const routeOk = !activeRoute || activeRoute.names.includes(r.name);
-    return areaOk && catOk && qOk && openOk && favOk && sharedOk && routeOk;
+    const mealOk = !mealMode || !r.cat.some(c=>NON_FOOD_CATS.includes(c));
+    return areaOk && catOk && qOk && openOk && favOk && sharedOk && routeOk && mealOk;
   });
 
   const PRICE_RANK = {'$':1,'$$':2,'$$$':3,'$$$$':4};
   if(activeRoute) filtered.sort((a,b)=> activeRoute.names.indexOf(a.name) - activeRoute.names.indexOf(b.name));
+  else if(state.sort==='lodging' && lodging) filtered.sort((a,b)=> lodgeKm(a) - lodgeKm(b));
   else if(state.sort==='rating_desc') filtered.sort((a,b)=> b.rating - a.rating);
   else if(state.sort==='price_asc') filtered.sort((a,b)=> PRICE_RANK[a.price] - PRICE_RANK[b.price]);
   else if(state.sort==='price_desc') filtered.sort((a,b)=> PRICE_RANK[b.price] - PRICE_RANK[a.price]);
@@ -3024,7 +3241,7 @@ function render(){
     else filtered.sort((a,b)=> getDefaultSortRank(a.name) - getDefaultSortRank(b.name));
   }
 
-  const filterKey = JSON.stringify([state.area, state.cats, state.subCat, state.q, state.onlyOpen, state.onlyFav, state.sort, state.viewingShared, state.customDay, state.customTime, state.rangeStart, state.rangeEnd, activeRoute && activeRoute.title]);
+  const filterKey = JSON.stringify([state.area, state.cats, state.subCat, state.q, state.onlyOpen, state.onlyFav, state.sort, state.viewingShared, state.customDay, state.customTime, state.rangeStart, state.rangeEnd, activeRoute && activeRoute.title, mealMode, lodging && lodging.lat]);
   if(filterKey !== lastFilterKey){ visibleCount = PAGE_SIZE; lastFilterKey = filterKey; }
 
   resultCount.textContent = activeRoute ? `路線共 ${filtered.length} 站` : `共找到 ${filtered.length} 間餐廳`;
@@ -3082,6 +3299,7 @@ function render(){
         ${r.nameZh ? `<div class="card-name-zh">${r.nameZh}</div>` : ''}
         <div class="card-area">${r.area}</div>
         <div class="card-rating"><span class="stars">★ ${r.rating.toFixed(1)}</span>${userLocation ? `<span class="distance">· 距離你 ${fmtDistance(haversineKm(userLocation.lat, userLocation.lng, r.lat, r.lng))}</span>` : ''}</div>
+        ${lodging ? `<div class="card-lodge">🏨 ${lodgeText(lodgeKm(r))}</div>` : ''}
       </div>
       <div class="card-body">
         <div class="card-hours"><b>營業：</b>${hoursSummary(r.name)}${isMarket ? '（夜市攤況隨天氣、攤商調整，資料僅供參考）' : ''}</div>
@@ -3095,9 +3313,12 @@ function render(){
         <div class="links">
           ${r.phone ? `<a href="tel:${r.phone.replace(/-/g,'')}">📞 致電</a>` : ''}
           <a href="${r.mapsUrl}" target="_blank" rel="noopener">📍 Google 地圖</a>
+          ${lodging ? `<button type="button" class="plan-add${itinerary.includes(r.name)?' on':''}" data-plan>${itinerary.includes(r.name)?'✓ 已在行程':'➕ 行程'}</button>` : ''}
         </div>
       </div>
     `;
+    const planBtnEl = card.querySelector('[data-plan]');
+    if(planBtnEl) planBtnEl.addEventListener('click', ()=>{ togglePlan(r.name); render(); });
     const favBtn = card.querySelector('[data-fav-btn]');
     const isFav = favorites.has(r.name);
     favBtn.textContent = isFav ? '♥' : '♡';
@@ -3799,10 +4020,17 @@ function enterTripMode(cityCode){
   ALL_CAT_GROUPS = Object.assign({}, CAT_GROUPS, SUB_CAT_GROUPS);
   state = freshState();
   activeRoute = null;
+  mealMode = null; pickingLodging = false;
   areaUiExpanded = false;
   areaUiRegion = null;
   siteMode = 'trip';
   currentTripCity = cityCode;
+  const defLodge = DEFAULT_LODGING[cityCode];
+  const savedLodge = lsGet('lodging:'+cityCode);
+  lodging = (savedLodge && typeof savedLodge.lat==='number') ? savedLodge : (defLodge ? {...defLodge} : null);
+  const savedPlan = lsGet('plan:'+cityCode);
+  itinerary = Array.isArray(savedPlan) ? savedPlan : [];
+  setupLodgingUi();
   document.body.classList.add('trip-mode');
   tripToggleLabel.textContent = '回在地版';
   tripToggleBtn.classList.add('active');
@@ -3827,10 +4055,11 @@ function renderRouteBanner(){
   const x = document.createElement('button'); x.type='button'; x.textContent = '✕ 結束路線'; x.addEventListener('click', ()=>stopRoute()); el.appendChild(x);
   const n = document.createElement('div'); n.className='rb-note'; n.textContent = `${activeRoute.duration}　・　${activeRoute.mode}。${activeRoute.note}`; el.appendChild(n);
 }
-function startRoute(rt, names){
+function startRoute(rt, names, isPlan){
   state = freshState();
+  mealMode = null; updateMealButtons(); sortSelect.value = 'default';
   searchInput.value = '';
-  activeRoute = {title: rt.title, note: rt.note, duration: rt.duration, mode: rt.mode, names};
+  activeRoute = {title: rt.title, note: rt.note, duration: rt.duration, mode: rt.mode, names, isPlan: !!isPlan};
   routesModal.style.display = 'none';
   lastMapKey = '';
   render();
@@ -3885,6 +4114,7 @@ function exitTripMode(){
   ALL_CAT_GROUPS = Object.assign({}, CAT_GROUPS, SUB_CAT_GROUPS);
   state = freshState();
   activeRoute = null;
+  mealMode = null; pickingLodging = false; lodging = null; itinerary = [];
   areaUiExpanded = false;
   areaUiRegion = null;
   siteMode = 'local';
@@ -3895,6 +4125,7 @@ function exitTripMode(){
   tripToggleBtn.classList.remove('active');
   routesBtn.style.display = 'none';
   routesModal.style.display = 'none';
+  setupLodgingUi();
   recomputeCategoryLists();
   renderAreaToggle();
   render();
