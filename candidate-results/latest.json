@@ -13,15 +13,15 @@
   },
   "types": [
    "restaurant",
-   "taiwanese_restaurant",
    "brunch_restaurant",
+   "taiwanese_restaurant",
    "italian_restaurant",
    "event_venue",
    "food_store",
    "store",
    "european_restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -40,8 +40,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -81,8 +81,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -102,8 +102,8 @@
   "types": [
    "dessert_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -146,8 +146,8 @@
    "tonkatsu_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -167,8 +167,8 @@
   "types": [
    "noodle_shop",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -189,8 +189,8 @@
    "italian_restaurant",
    "european_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -230,8 +230,8 @@
   },
   "types": [
    "cafe",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -251,8 +251,8 @@
   "types": [
    "european_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -271,8 +271,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -293,8 +293,8 @@
    "restaurant",
    "tonkatsu_restaurant",
    "japanese_restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -334,11 +334,11 @@
   "types": [
    "restaurant",
    "brunch_restaurant",
-   "dessert_restaurant",
    "food_store",
+   "dessert_restaurant",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -384,8 +384,8 @@
    "italian_restaurant",
    "european_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -447,8 +447,8 @@
   "types": [
    "brunch_restaurant",
    "japanese_curry_restaurant",
-   "food_store",
    "japanese_restaurant",
+   "food_store",
    "store",
    "restaurant",
    "food",
@@ -559,8 +559,8 @@
    "cafe",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -643,15 +643,15 @@
   },
   "types": [
    "cafe",
-   "breakfast_restaurant",
    "brunch_restaurant",
+   "breakfast_restaurant",
    "dessert_shop",
    "confectionery",
    "food_store",
    "store",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -801,8 +801,8 @@
    "restaurant",
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -929,8 +929,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -1060,8 +1060,8 @@
    "restaurant",
    "italian_restaurant",
    "european_restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -1082,8 +1082,8 @@
    "italian_restaurant",
    "european_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -1103,11 +1103,11 @@
   "types": [
    "restaurant",
    "brunch_restaurant",
-   "meal_takeaway",
    "italian_restaurant",
+   "meal_takeaway",
    "european_restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -1128,8 +1128,8 @@
    "italian_restaurant",
    "european_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -1148,8 +1148,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -1171,8 +1171,8 @@
    "italian_restaurant",
    "european_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -1192,8 +1192,8 @@
   "types": [
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -1212,8 +1212,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -1235,8 +1235,8 @@
    "vegetarian_restaurant",
    "european_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -1255,8 +1255,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -1301,8 +1301,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -1323,8 +1323,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -1345,8 +1345,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -1367,8 +1367,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -1408,16 +1408,16 @@
    "longitude": 120.66705009999998
   },
   "types": [
-   "japanese_izakaya_restaurant",
    "kebab_shop",
+   "japanese_izakaya_restaurant",
    "yakitori_restaurant",
    "bar_and_grill",
-   "bar",
    "japanese_restaurant",
+   "bar",
    "store",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -1436,8 +1436,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -1457,8 +1457,8 @@
   "types": [
    "thai_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -1478,8 +1478,8 @@
   "types": [
    "seafood_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -1500,8 +1500,8 @@
    "food_store",
    "store",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -1520,8 +1520,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -1540,8 +1540,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -1900,20 +1900,20 @@
   },
   "types": [
    "cafe",
+   "dessert_restaurant",
    "pastry_shop",
    "cake_shop",
    "bakery",
    "dessert_shop",
    "confectionery",
-   "wholesaler",
-   "manufacturer",
    "food_store",
-   "dessert_restaurant",
+   "manufacturer",
    "store",
-   "restaurant",
-   "food",
-   "point_of_interest",
+   "wholesaler",
    "service",
+   "restaurant",
+   "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -1933,13 +1933,13 @@
   "types": [
    "cake_shop",
    "bakery",
-   "wholesaler",
-   "manufacturer",
    "food_store",
+   "manufacturer",
    "store",
-   "food",
-   "point_of_interest",
+   "wholesaler",
    "service",
+   "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -1962,8 +1962,8 @@
    "confectionery",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -1985,8 +1985,8 @@
    "confectionery",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -2009,8 +2009,8 @@
    "confectionery",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -2033,8 +2033,8 @@
    "confectionery",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -2054,13 +2054,13 @@
   "types": [
    "coffee_shop",
    "cafe",
-   "botanical_garden",
    "bakery",
+   "botanical_garden",
    "food_store",
    "store",
    "service",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -2082,8 +2082,8 @@
    "confectionery",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -2105,8 +2105,8 @@
    "cafe",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -2127,8 +2127,8 @@
    "bakery",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -2152,8 +2152,8 @@
    "confectionery",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -2176,8 +2176,8 @@
    "food_store",
    "store",
    "service",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -2201,8 +2201,8 @@
    "food_store",
    "store",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -2224,8 +2224,8 @@
    "cafe",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -2244,8 +2244,8 @@
   },
   "types": [
    "cafe",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -2264,8 +2264,8 @@
   },
   "types": [
    "cafe",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -2286,8 +2286,8 @@
    "cafe",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -2309,8 +2309,8 @@
    "cafe",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -2329,8 +2329,8 @@
   },
   "types": [
    "cafe",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -2351,8 +2351,8 @@
    "coffee_roastery",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -2433,8 +2433,8 @@
   "types": [
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -2454,8 +2454,8 @@
   "types": [
    "seafood_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -2474,28 +2474,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
-   "establishment"
-  ],
-  "area_label": "台中南區"
- },
- "14070888095833717135": {
-  "place_id": "ChIJeW8EXr89aTQRj_lwIizWRcM",
-  "name": "翃緯現炒",
-  "address": "402台灣臺中市南區永興里工學路3號",
-  "rating": 4.5,
-  "userRatingCount": 108,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=14070888095833717135&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.116720299999997,
-   "longitude": 120.6681315
-  },
-  "types": [
-   "restaurant",
    "point_of_interest",
-   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -2516,8 +2496,28 @@
    "deli",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "台中南區"
+ },
+ "14070888095833717135": {
+  "place_id": "ChIJeW8EXr89aTQRj_lwIizWRcM",
+  "name": "翃緯現炒",
+  "address": "402台灣臺中市南區永興里工學路3號",
+  "rating": 4.5,
+  "userRatingCount": 108,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=14070888095833717135&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.116720299999997,
+   "longitude": 120.6681315
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -2536,29 +2536,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
-   "establishment"
-  ],
-  "area_label": "台中南區"
- },
- "886218884685978773": {
-  "place_id": "ChIJ_d1BW088aTQRlVzzVmF7TAw",
-  "name": "連煜現炒",
-  "address": "402台灣臺中市南區樹德里大慶街二段96之3號",
-  "rating": 4.5,
-  "userRatingCount": 443,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=886218884685978773&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1171464,
-   "longitude": 120.64963689999999
-  },
-  "types": [
-   "chinese_restaurant",
-   "restaurant",
    "point_of_interest",
-   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -2577,8 +2556,28 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "台中南區"
+ },
+ "5869272085849965901": {
+  "place_id": "ChIJN1Ha8k08aTQRTQU0h93Xc1E",
+  "name": "100啦海鮮平價料理",
+  "address": "402台灣臺中市南區崇倫里建國南路一段187號",
+  "rating": 4.4,
+  "userRatingCount": 85,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=5869272085849965901&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1223198,
+   "longitude": 120.65402809999999
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -2598,48 +2597,29 @@
   "types": [
    "chinese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "台中南區"
  },
- "5869272085849965901": {
-  "place_id": "ChIJN1Ha8k08aTQRTQU0h93Xc1E",
-  "name": "100啦海鮮平價料理",
-  "address": "402台灣臺中市南區崇倫里建國南路一段187號",
-  "rating": 4.4,
-  "userRatingCount": 85,
+ "886218884685978773": {
+  "place_id": "ChIJ_d1BW088aTQRlVzzVmF7TAw",
+  "name": "連煜現炒",
+  "address": "402台灣臺中市南區樹德里大慶街二段96之3號",
+  "rating": 4.5,
+  "userRatingCount": 443,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=5869272085849965901&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=886218884685978773&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.1223198,
-   "longitude": 120.65402809999999
+   "latitude": 24.1171464,
+   "longitude": 120.64963689999999
   },
   "types": [
+   "chinese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
-   "establishment"
-  ],
-  "area_label": "台中南區"
- },
- "1999436539214163306": {
-  "place_id": "ChIJc67bQ_g8aTQRau3LXvBsvxs",
-  "name": "蝦威夷美食現炒餐廳 釣蝦場",
-  "address": "402台灣臺中市南區永和里高工路388號",
-  "rating": 4.3,
-  "userRatingCount": 2091,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=1999436539214163306&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1141827,
-   "longitude": 120.6675845
-  },
-  "types": [
-   "restaurant",
    "point_of_interest",
-   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -2658,49 +2638,28 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "台中南區"
  },
- "3705390085515980857": {
-  "place_id": "ChIJLePolK09aTQROTBvmaYwbDM",
-  "name": "洒洒叫生炒花枝",
-  "address": "402台灣臺中市南區西川里三民西路338號",
-  "rating": 4.1,
-  "userRatingCount": 251,
+ "1999436539214163306": {
+  "place_id": "ChIJc67bQ_g8aTQRau3LXvBsvxs",
+  "name": "蝦威夷美食現炒餐廳 釣蝦場",
+  "address": "402台灣臺中市南區永和里高工路388號",
+  "rating": 4.3,
+  "userRatingCount": 2091,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=3705390085515980857&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=1999436539214163306&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.129901,
-   "longitude": 120.65570499999998
+   "latitude": 24.1141827,
+   "longitude": 120.6675845
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
-   "establishment"
-  ],
-  "area_label": "台中南區"
- },
- "17495928134044117014": {
-  "place_id": "ChIJs7QZVhA9aTQRFmh2xfAFzvI",
-  "name": "傳統小吃（沒有賣炒飯、炒麵）",
-  "address": "402台灣臺中市南區長春里復興路三段435號",
-  "rating": 4.6,
-  "userRatingCount": 317,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=17495928134044117014&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1335125,
-   "longitude": 120.68031419999998
-  },
-  "types": [
-   "chinese_restaurant",
-   "restaurant",
    "point_of_interest",
-   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -2722,48 +2681,28 @@
    "snack_bar",
    "meal_takeaway",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "台中南區"
  },
- "11332710229785894072": {
-  "place_id": "ChIJ4cxRs0M8aTQRuNzSJOnfRZ0",
-  "name": "上福平價現炒店",
-  "address": "402台灣臺中市南區樹義里福田二街389號",
-  "rating": 4,
-  "userRatingCount": 113,
+ "3705390085515980857": {
+  "place_id": "ChIJLePolK09aTQROTBvmaYwbDM",
+  "name": "洒洒叫生炒花枝",
+  "address": "402台灣臺中市南區西川里三民西路338號",
+  "rating": 4.1,
+  "userRatingCount": 251,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=11332710229785894072&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=3705390085515980857&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.108434499999998,
-   "longitude": 120.65068459999999
+   "latitude": 24.129901,
+   "longitude": 120.65570499999998
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
-   "establishment"
-  ],
-  "area_label": "台中南區"
- },
- "12992844559443925343": {
-  "place_id": "ChIJbQzIkFA8aTQRX5mFq0nbT7Q",
-  "name": "阿筆師美食料理",
-  "address": "402台灣臺中市南區工學里德富路258號",
-  "rating": 4.3,
-  "userRatingCount": 324,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=12992844559443925343&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.115524900000004,
-   "longitude": 120.658532
-  },
-  "types": [
-   "restaurant",
    "point_of_interest",
-   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -2782,8 +2721,69 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "台中南區"
+ },
+ "12992844559443925343": {
+  "place_id": "ChIJbQzIkFA8aTQRX5mFq0nbT7Q",
+  "name": "阿筆師美食料理",
+  "address": "402台灣臺中市南區工學里德富路258號",
+  "rating": 4.3,
+  "userRatingCount": 324,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=12992844559443925343&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.115524900000004,
+   "longitude": 120.658532
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "台中南區"
+ },
+ "17495928134044117014": {
+  "place_id": "ChIJs7QZVhA9aTQRFmh2xfAFzvI",
+  "name": "傳統小吃（沒有賣炒飯、炒麵）",
+  "address": "402台灣臺中市南區長春里復興路三段435號",
+  "rating": 4.6,
+  "userRatingCount": 317,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=17495928134044117014&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1335125,
+   "longitude": 120.68031419999998
+  },
+  "types": [
+   "chinese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "台中南區"
+ },
+ "11332710229785894072": {
+  "place_id": "ChIJ4cxRs0M8aTQRuNzSJOnfRZ0",
+  "name": "上福平價現炒店",
+  "address": "402台灣臺中市南區樹義里福田二街389號",
+  "rating": 4,
+  "userRatingCount": 113,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=11332710229785894072&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.108434499999998,
+   "longitude": 120.65068459999999
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -2806,8 +2806,8 @@
    "taiwanese_restaurant",
    "meal_takeaway",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -2847,8 +2847,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -2869,8 +2869,8 @@
    "restaurant",
    "cantonese_restaurant",
    "chinese_restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -2891,8 +2891,8 @@
    "deli",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -2912,8 +2912,8 @@
   "types": [
    "noodle_shop",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -2933,8 +2933,8 @@
   "types": [
    "korean_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -2954,8 +2954,8 @@
   "types": [
    "taiwanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -2976,8 +2976,8 @@
    "deli",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -2997,8 +2997,8 @@
   "types": [
    "thai_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
@@ -3019,8 +3019,8 @@
    "deli",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "台中南區"
