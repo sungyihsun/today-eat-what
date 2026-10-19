@@ -13,8 +13,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "外埔"
@@ -35,8 +35,8 @@
    "italian_restaurant",
    "european_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "外埔"
@@ -55,8 +55,8 @@
   },
   "types": [
    "cafe",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "外埔"
@@ -78,8 +78,8 @@
    "cafe",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "外埔"
@@ -119,8 +119,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "外埔"
@@ -139,8 +139,8 @@
   },
   "types": [
    "cafe",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "外埔"
@@ -159,8 +159,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "外埔"
@@ -179,11 +179,11 @@
   },
   "types": [
    "restaurant",
-   "farmers_market",
    "food_court",
+   "farmers_market",
    "market",
-   "food",
    "store",
+   "food",
    "point_of_interest",
    "establishment"
   ],
@@ -204,8 +204,8 @@
   "types": [
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "外埔"
@@ -246,8 +246,8 @@
   "types": [
    "vietnamese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "外埔"
@@ -269,8 +269,8 @@
    "deli",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "外埔"
@@ -289,8 +289,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "外埔"
@@ -309,8 +309,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "外埔"
@@ -329,8 +329,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "外埔"
@@ -349,8 +349,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "外埔"
@@ -411,8 +411,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "外埔"
@@ -515,8 +515,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "外埔"
@@ -535,8 +535,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "外埔"
@@ -598,8 +598,8 @@
    "deli",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "外埔"
@@ -621,8 +621,8 @@
    "confectionery",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "外埔"
@@ -643,8 +643,8 @@
    "bakery",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "外埔"
@@ -663,8 +663,8 @@
   },
   "types": [
    "coffee_roastery",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "外埔"
@@ -686,8 +686,8 @@
    "cafe",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "外埔"
@@ -707,8 +707,8 @@
   "types": [
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "外埔"
@@ -787,29 +787,49 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "外埔"
  },
- "12114533180418948164": {
-  "place_id": "ChIJj9VUzFARaTQRRPyN9r13H6g",
-  "name": "麵拾光",
-  "address": "438台灣臺中市外埔區大東里甲后路五段256號",
-  "rating": 4.8,
-  "userRatingCount": 24,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=12114533180418948164&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "17008416999802156131": {
+  "place_id": "ChIJH6j9kNoRaTQRYzTsmCUJCuw",
+  "name": "協力旺香雞排-外埔店",
+  "address": "438台灣臺中市外埔區六分里甲后路三段1005號",
+  "rating": 4.3,
+  "userRatingCount": 106,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=17008416999802156131&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.343908600000002,
-   "longitude": 120.63554409999999
+   "latitude": 24.3313965,
+   "longitude": 120.6535656
   },
   "types": [
-   "noodle_shop",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "外埔"
+ },
+ "13929817197957507399": {
+  "place_id": "ChIJ09Q189ARaTQRR2liLvCmUME",
+  "name": "半斤小吃店",
+  "address": "438台灣臺中市外埔區六分里六分路278號",
+  "rating": 4.5,
+  "userRatingCount": 76,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=13929817197957507399&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.332297300000004,
+   "longitude": 120.6559225
+  },
+  "types": [
+   "taiwanese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "外埔"
@@ -835,47 +855,6 @@
   ],
   "area_label": "外埔"
  },
- "17008416999802156131": {
-  "place_id": "ChIJH6j9kNoRaTQRYzTsmCUJCuw",
-  "name": "協力旺香雞排-外埔店",
-  "address": "438台灣臺中市外埔區六分里甲后路三段1005號",
-  "rating": 4.3,
-  "userRatingCount": 106,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=17008416999802156131&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.3313965,
-   "longitude": 120.6535656
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "外埔"
- },
- "13929817197957507399": {
-  "place_id": "ChIJ09Q189ARaTQRR2liLvCmUME",
-  "name": "半斤小吃店",
-  "address": "438台灣臺中市外埔區六分里六分路278號",
-  "rating": 4.5,
-  "userRatingCount": 76,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=13929817197957507399&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.332297300000004,
-   "longitude": 120.6559225
-  },
-  "types": [
-   "taiwanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "外埔"
- },
  "6135994527216336246": {
   "place_id": "ChIJ2UXditARaTQRdn14OoNuJ1U",
   "name": "老李牛肉麵",
@@ -891,8 +870,8 @@
   "types": [
    "noodle_shop",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "外埔"
