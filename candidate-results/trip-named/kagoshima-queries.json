@@ -1,0 +1,92 @@
+[
+ {
+  "key": "sakurajima",
+  "query": "桜島港",
+  "lat": 31.59,
+  "lng": 130.599,
+  "expect": [
+   "鹿児島市"
+  ]
+ },
+ {
+  "key": "yunohira",
+  "query": "桜島 湯之平展望所",
+  "lat": 31.58,
+  "lng": 130.66,
+  "expect": [
+   "鹿児島市"
+  ]
+ },
+ {
+  "key": "sengan",
+  "query": "仙巌園",
+  "lat": 31.6182,
+  "lng": 130.5766,
+  "expect": [
+   "鹿児島市"
+  ]
+ },
+ {
+  "key": "shiroyama",
+  "query": "城山展望台",
+  "lat": 31.599,
+  "lng": 130.548,
+  "expect": [
+   "鹿児島市"
+  ]
+ },
+ {
+  "key": "tenmonkan",
+  "query": "天文館",
+  "lat": 31.588,
+  "lng": 130.555,
+  "expect": [
+   "鹿児島市"
+  ]
+ },
+ {
+  "key": "amuran",
+  "query": "アミュラン 観覧車",
+  "lat": 31.584,
+  "lng": 130.541,
+  "expect": [
+   "鹿児島市"
+  ]
+ },
+ {
+  "key": "terukuni",
+  "query": "照國神社",
+  "lat": 31.593,
+  "lng": 130.556,
+  "expect": [
+   "鹿児島市"
+  ]
+ },
+ {
+  "key": "aquarium",
+  "query": "かごしま水族館",
+  "lat": 31.6025,
+  "lng": 130.5655,
+  "expect": [
+   "鹿児島市"
+  ]
+ },
+ {
+  "key": "ibusuki",
+  "query": "指宿 砂むし会館 砂楽",
+  "lat": 31.23,
+  "lng": 130.64,
+  "expect": [
+   "指宿市"
+  ]
+ },
+ {
+  "key": "chiran",
+  "query": "知覧武家屋敷庭園",
+  "lat": 31.37,
+  "lng": 130.44,
+  "expect": [
+   "南九州市"
+  ]
+ }
+]

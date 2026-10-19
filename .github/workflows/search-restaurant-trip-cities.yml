@@ -1,0 +1,51 @@
+name: Search trip city candidates
+
+# Trigger: commit candidate-results/trip-search/<city>-queries.json to DEV.
+# Runs search_trip_candidates.py for each changed queries file and publishes
+# candidate-results/trip-search/<city>-results.json. Independent of the Taichung sweep.
+on:
+  push:
+    branches: [DEV]
+    paths:
+      - candidate-results/trip-search/*-queries.json
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: search-trip-cities
+  cancel-in-progress: false
+
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: DEV
+          fetch-depth: 0
+      - name: Search each changed queries file
+        env:
+          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+        run: |
+          test -n "$GOOGLE_PLACES_API_KEY"
+          if [ "${{ github.event_name }}" = "push" ]; then
+            files=$(git diff --name-only "${{ github.event.before }}" "${{ github.sha }}" -- 'candidate-results/trip-search/*-queries.json' || true)
+          else
+            files=$(ls candidate-results/trip-search/*-queries.json)
+          fi
+          for f in $files; do
+            [ -f "$f" ] || continue
+            out="${f%-queries.json}-results.json"
+            echo "== $f -> $out"
+            TRIP_SEARCH_IN="$f" TRIP_SEARCH_OUT="$out" python3 .claude/skills/add-restaurant/scripts/search_trip_candidates.py
+          done
+      - name: Publish to DEV
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add candidate-results/trip-search/*-results.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Publish trip city search results"
+          for i in 1 2 3 4 5; do git push && break; git pull --rebase -X theirs origin DEV; done

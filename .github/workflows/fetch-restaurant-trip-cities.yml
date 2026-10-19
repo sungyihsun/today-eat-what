@@ -1,0 +1,54 @@
+name: Fetch trip city place details
+
+# Trigger: commit candidate-results/trip-named/<city>-queries.json to DEV
+# ([{key, query+lat+lng+expect | place_id+expect}, ...]).
+# Resolves each entry to Place Details and publishes candidate-results/trip-named/<city>-details.json.
+on:
+  push:
+    branches: [DEV]
+    paths:
+      - candidate-results/trip-named/*-queries.json
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-trip-cities
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: DEV
+          fetch-depth: 0
+      - name: Resolve each changed queries file
+        env:
+          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+        run: |
+          test -n "$GOOGLE_PLACES_API_KEY"
+          if [ "${{ github.event_name }}" = "push" ]; then
+            files=$(git diff --name-only "${{ github.event.before }}" "${{ github.sha }}" -- 'candidate-results/trip-named/*-queries.json' || true)
+          else
+            files=$(ls candidate-results/trip-named/*-queries.json)
+          fi
+          rc=0
+          for f in $files; do
+            [ -f "$f" ] || continue
+            out="${f%-queries.json}-details.json"
+            echo "== $f -> $out"
+            NAMED_PLACES_IN="$f" NAMED_PLACES_OUT="$out" python3 .claude/skills/add-restaurant/scripts/fetch_named_places.py || rc=1
+          done
+          exit $rc
+      - name: Publish to DEV
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add candidate-results/trip-named/*-details.json || true
+          git diff --cached --quiet && exit 0
+          git commit -m "Publish trip city place details"
+          for i in 1 2 3 4 5; do git push && break; git pull --rebase -X theirs origin DEV; done

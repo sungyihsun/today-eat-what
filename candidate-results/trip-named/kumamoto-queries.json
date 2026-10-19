@@ -1,0 +1,92 @@
+[
+ {
+  "key": "castle",
+  "query": "熊本城",
+  "lat": 32.8064,
+  "lng": 130.7059,
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "sakuranobaba",
+  "query": "桜の馬場 城彩苑",
+  "lat": 32.8052,
+  "lng": 130.705,
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "suizenji",
+  "query": "水前寺成趣園",
+  "lat": 32.7878,
+  "lng": 130.7338,
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "kamitori",
+  "query": "上通アーケード",
+  "lat": 32.8044,
+  "lng": 130.708,
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "shimotori",
+  "query": "下通アーケード",
+  "lat": 32.8023,
+  "lng": 130.7103,
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "kumamon",
+  "query": "くまモンスクエア",
+  "lat": 32.804,
+  "lng": 130.709,
+  "expect": [
+   "熊本市"
+  ]
+ },
+ {
+  "key": "kusasenri",
+  "query": "草千里ヶ浜",
+  "lat": 32.883,
+  "lng": 131.09,
+  "expect": [
+   "阿蘇市"
+  ]
+ },
+ {
+  "key": "asojinja",
+  "query": "阿蘇神社",
+  "lat": 32.95,
+  "lng": 131.12,
+  "expect": [
+   "阿蘇市"
+  ]
+ },
+ {
+  "key": "daikanbo",
+  "query": "大観峰",
+  "lat": 33.0,
+  "lng": 131.1,
+  "expect": [
+   "阿蘇市"
+  ]
+ },
+ {
+  "key": "kurokawa",
+  "query": "黒川温泉",
+  "lat": 33.07,
+  "lng": 131.15,
+  "expect": [
+   "南小国町"
+  ]
+ }
+]

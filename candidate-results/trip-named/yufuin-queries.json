@@ -1,0 +1,65 @@
+[
+ {
+  "key": "kinrinko",
+  "query": "金鱗湖",
+  "lat": 33.2655,
+  "lng": 131.3705,
+  "expect": [
+   "由布市"
+  ]
+ },
+ {
+  "key": "yunotsubo",
+  "query": "湯の坪街道",
+  "lat": 33.2668,
+  "lng": 131.364,
+  "expect": [
+   "由布市"
+  ]
+ },
+ {
+  "key": "yufuin-sta",
+  "query": "由布院駅",
+  "lat": 33.2638,
+  "lng": 131.3568,
+  "expect": [
+   "由布市"
+  ]
+ },
+ {
+  "key": "floral",
+  "query": "由布院フローラルヴィレッジ",
+  "lat": 33.263,
+  "lng": 131.364,
+  "expect": [
+   "由布市"
+  ]
+ },
+ {
+  "key": "yufudake",
+  "query": "由布岳",
+  "lat": 33.282,
+  "lng": 131.39,
+  "expect": [
+   "由布市"
+  ]
+ },
+ {
+  "key": "kokonoe",
+  "query": "九重夢大吊橋",
+  "lat": 33.18,
+  "lng": 131.24,
+  "expect": [
+   "九重町"
+  ]
+ },
+ {
+  "key": "beppu-umi",
+  "query": "別府 海地獄",
+  "lat": 33.317,
+  "lng": 131.475,
+  "expect": [
+   "別府市"
+  ]
+ }
+]
