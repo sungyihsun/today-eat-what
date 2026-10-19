@@ -22,27 +22,8 @@ OUT_PATH = os.environ.get("ADD_RESTAURANT_CANDIDATES_PATH", f"{SB}/candidates.js
 MIN_RATING = 4.0
 MIN_REVIEWS = 15
 
-# EDIT: area label -> (lat, lng) center for locationBias
-AREAS = {
-    "博多": (33.5897, 130.4207),
-    "天神": (33.5910, 130.3990),
-    "中洲": (33.5922, 130.4075),
-    "大名": (33.5875, 130.3932),
-    "薬院": (33.5820, 130.4018),
-    "百道": (33.5890, 130.3560),
-}
-
-# EDIT: area label -> list of query strings to try for that area
-_COMMON = ["餐廳", "拉麵", "居酒屋", "燒肉", "壽司", "咖啡廳", "甜點", "燒鳥", "天婦羅", "烏龍麵"]
-_SPECIAL = {
-    "博多": ["もつ鍋", "水炊き", "明太子", "豚骨拉麵", "景點", "購物中心"],
-    "天神": ["もつ鍋", "景點", "百貨公司", "購物中心", "鰻魚"],
-    "中洲": ["屋台", "屋台 拉麵", "もつ鍋", "水炊き", "景點"],
-    "大名": ["早午餐", "服飾 購物", "景點"],
-    "薬院": ["早午餐", "義大利麵", "景點"],
-    "百道": ["福岡塔 景點", "西新 美食", "海邊 咖啡廳", "購物中心", "景點"],
-}
-QUERIES = {_l: [f"{_l} {c}" for c in _COMMON + _SPECIAL[_l]] for _l in AREAS}
+AREAS = {'台中東區': (24.1367, 120.7)}
+QUERIES = {'台中東區': ['台中東區 餐廳', '台中東區 早午餐', '台中東區 日式料理', '台中東區 義式料理', '台中東區 燒烤', '台中東區 火鍋', '台中東區 甜點', '台中東區 咖啡廳', '台中東區 韓式料理', '台中東區 熱炒', '台中東區 小吃', '旱溪夜市 美食', '復興路 美食']}
 
 # area_label -> substring(s) that MUST appear in a candidate's real
 # formattedAddress for it to be kept under that label. locationBias only
