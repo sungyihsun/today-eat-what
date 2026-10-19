@@ -38,7 +38,18 @@ def search(q, lat, lng, radius):
         return []
 
 
-found = {}
+# Optional lodging anchor: resolve an address to a point and use it as the (only) search center,
+# e.g. {"anchor": {"query": "福岡県福岡市西区今津1115-2", "fallback": [lat, lng]}}
+anchor = cfg.get("anchor")
+if anchor:
+    pts = search(anchor["query"], anchor["fallback"][0], anchor["fallback"][1], 5000)
+    loc = (pts[0].get("location") if pts else None)
+    print("anchor hit:", pts[0].get("displayName", {}).get("text") if pts else None, pts[0].get("formattedAddress") if pts else None, loc)
+    lat, lng = (loc["latitude"], loc["longitude"]) if loc else anchor["fallback"]
+    cfg["centers"] = {"anchor": [lat, lng]}
+    print("anchor center:", lat, lng)
+
+found = {"_anchor": {"center": cfg["centers"].get("anchor")}} if anchor else {}
 for q in cfg["queries"]:
     n = 0
     for label, (lat, lng) in cfg["centers"].items():
