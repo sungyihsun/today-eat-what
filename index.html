@@ -397,7 +397,7 @@
   .route-thumbs .arrow{ align-self:center; color:#8a8474; flex:0 0 auto; padding-bottom:18px; }
   .route-go{ width:100%; border:0; background:#16140f; color:#c9a227; border-radius:10px; padding:9px; font-weight:700; font-size:13.5px; cursor:pointer; }
   .route-go:hover{ background:#2a261b; }
-  .view-toggle-btn.lodge-only + .lodge-only{ margin-left:0; }
+  .view-toggle-btn.lodge-only + .lodge-only, .view-toggle-btn.plan-only{ margin-left:0; }
   #planCount{ display:inline-block; min-width:18px; padding:0 5px; border-radius:999px; background:#16140f; color:#c9a227; font-size:11.5px; line-height:18px; text-align:center; }
   .view-toggle-btn.active #planCount{ background:#c9a227; color:#16140f; }
   .card-lodge{ font-size:12px; color:#2b4f7e; font-weight:600; margin-top:2px; }
@@ -678,7 +678,7 @@
     <button class="view-toggle-btn" id="viewToggleBtn" type="button" aria-pressed="false">🗺 地圖模式</button>
     <button class="view-toggle-btn lodge-only" id="mealBreakfastBtn" type="button" style="display:none;margin-left:0;">🌅 住宿早餐</button>
     <button class="view-toggle-btn lodge-only" id="mealDinnerBtn" type="button" style="display:none;margin-left:0;">🌙 住宿晚餐</button>
-    <button class="view-toggle-btn lodge-only" id="planBtn" type="button" style="display:none;margin-left:0;">🗓 我的行程 <span id="planCount">0</span></button>
+    <button class="view-toggle-btn plan-only" id="planBtn" type="button" style="display:none;margin-left:0;">🗓 我的行程 <span id="planCount">0</span></button>
     <button class="view-toggle-btn lodge-only" id="lodgeBtn" type="button" style="display:none;margin-left:0;">🏨 住宿</button>
     <div class="cat-select-wrap sort-select-wrap">
       <select class="cat-select" id="sortSelect" aria-label="排序方式">
@@ -725,7 +725,7 @@
 </div>
 <div class="routes-modal" id="planModal" style="display:none;" role="dialog" aria-label="我的行程">
   <div class="routes-sheet">
-    <div class="routes-head"><b>🗓 我的行程（從住宿出發）</b><button type="button" id="planClose" aria-label="關閉">✕</button></div>
+    <div class="routes-head"><b>🗓 我的行程</b><button type="button" id="planClose" aria-label="關閉">✕</button></div>
     <div class="routes-body" id="planBody"></div>
   </div>
 </div>
@@ -2971,6 +2971,7 @@ function updatePlanUi(){
 function setupLodgingUi(){
   const on = siteMode==='trip' && !!lodging;
   document.querySelectorAll('.lodge-only').forEach(b=>{ b.style.display = on ? '' : 'none'; });
+  document.querySelectorAll('.plan-only').forEach(b=>{ b.style.display = siteMode==='trip' ? '' : 'none'; });
   const opt = [...sortSelect.options].find(o=>o.value==='lodging');
   if(on && !opt){ const o=document.createElement('option'); o.value='lodging'; o.textContent='距離：近到遠（從住宿）'; sortSelect.appendChild(o); }
   if(!on && opt){ opt.remove(); }
@@ -3007,16 +3008,18 @@ function togglePlan(name){
   savePlan();
 }
 function planTotals(list){
-  if(!lodging || !list.length) return null;
-  let km = 0, prev = lodging;
+  if(!list.length) return null;
+  let km = 0, prev = lodging || list[0];
   list.forEach(r=>{ km += haversineKm(prev.lat,prev.lng,r.lat,r.lng); prev = r; });
-  km += haversineKm(prev.lat,prev.lng,lodging.lat,lodging.lng);
+  if(lodging) km += haversineKm(prev.lat,prev.lng,lodging.lat,lodging.lng);
   return {km};
 }
 function autoOrderPlan(){
-  // 最近鄰：從住宿出發，每次去離目前位置最近的下一站（簡單貪婪法，不是最佳解）。
+  // 最近鄰：從住宿（沒有住宿就從第一站）出發，每次去離目前位置最近的下一站（簡單貪婪法，不是最佳解）。
   const left = itinerary.map(n=>restaurants.find(r=>r.name===n)).filter(Boolean);
-  const out = []; let cur = lodging;
+  const out = [];
+  let cur = lodging;
+  if(!cur){ const f = left.shift(); out.push(f.name); cur = f; }  // 沒有住宿：以目前第一站為起點
   while(left.length){
     let bi = 0, bd = Infinity;
     left.forEach((r,i)=>{ const d = haversineKm(cur.lat,cur.lng,r.lat,r.lng); if(d<bd){ bd=d; bi=i; } });
@@ -3029,15 +3032,15 @@ function renderPlan(){
   planBody.innerHTML = '';
   const list = itinerary.map(n=>restaurants.find(r=>r.name===n)).filter(Boolean);
   if(!list.length){
-    planBody.innerHTML = '<div class="lodge-note">行程還是空的。在卡片右下角按「➕ 行程」就能把景點或餐廳加進來，再回到這裡排順序、看從住宿出發的來回距離。</div>';
+    planBody.innerHTML = '<div class="lodge-note">行程還是空的。在卡片右下角按「➕ 行程」就能把景點或餐廳加進來，再回到這裡排順序、看各站之間的距離。</div>';
     return;
   }
-  let prev = lodging;
+  let prev = lodging || list[0];
   list.forEach((r,i)=>{
     const row = document.createElement('div'); row.className = 'plan-row';
     row.innerHTML = `<span class="no">${i+1}</span><div class="mid"><div class="n"></div><div class="l"></div><div class="h"></div></div>`;
     row.querySelector('.n').textContent = r.nameZh || r.name;
-    row.querySelector('.l').textContent = `${i===0 ? '從住宿出發' : '從上一站'}：${legText(prev, r)}`;
+    row.querySelector('.l').textContent = (i===0 && !lodging) ? '第一站' : `${i===0 ? '從住宿出發' : '從上一站'}：${legText(prev, r)}`;
     row.querySelector('.h').textContent = `今天營業：${hoursSummary(r.name).replace(/^\S+\s/,'')}`;
     [['↑',-1],['↓',1],['✕',0]].forEach(([t,d])=>{
       const b = document.createElement('button'); b.type='button'; b.textContent=t;
@@ -3052,14 +3055,16 @@ function renderPlan(){
   });
   const tot = planTotals(list);
   const sum = document.createElement('div'); sum.className='plan-sum';
-  sum.textContent = `全程（住宿 → ${list.length} 站 → 回住宿）約 ${tot.km.toFixed(1)} 公里（直線距離加總，實際路程請以 Google 地圖為準）。`;
+  sum.textContent = lodging
+    ? `全程（住宿 → ${list.length} 站 → 回住宿）約 ${tot.km.toFixed(1)} 公里（直線距離加總，實際路程請以 Google 地圖為準）。`
+    : `${list.length} 站，各站之間直線距離加總約 ${tot.km.toFixed(1)} 公里（實際路程請以 Google 地圖為準）。`;
   planBody.appendChild(sum);
   const act = document.createElement('div'); act.className='plan-actions';
   const mk = (txt, cls, fn)=>{ const b=document.createElement('button'); b.type='button'; b.textContent=txt; if(cls) b.className=cls; b.addEventListener('click', fn); act.appendChild(b); };
   mk('🧭 自動排序（最近的先去）','', ()=>{ autoOrderPlan(); renderPlan(); render(); });
   mk('🗺 看行程卡片／地圖','primary', ()=>{
     planModal.style.display='none';
-    startRoute({title:'我的行程', note:`從住宿出發，共 ${list.length} 站；地圖模式會畫出住宿 → 各站 → 回住宿的路線。`, duration:`約 ${tot.km.toFixed(1)} 公里`, mode:'直線距離加總'}, list.map(r=>r.name), true);
+    startRoute({title:'我的行程', note: lodging ? `從住宿出發，共 ${list.length} 站；地圖模式會畫出住宿 → 各站 → 回住宿的路線。` : `共 ${list.length} 站；地圖模式會依順序畫出路線。`, duration:`約 ${tot.km.toFixed(1)} 公里`, mode:'直線距離加總'}, list.map(r=>r.name), true);
   });
   mk('🗑 清空','', ()=>{ itinerary=[]; savePlan(); renderPlan(); render(); });
   planBody.appendChild(act);
@@ -3186,7 +3191,7 @@ function updateMap(list, cp, filterKey){
     const lb = document.createElement('button'); lb.type='button'; lb.className='lnk'; lb.textContent='在列表中查看';
     lb.addEventListener('click', ()=>{ leafletMap.closePopup(); setMapMode(false); searchInput.value = r.name; searchInput.dispatchEvent(new Event('input')); window.scrollTo({top:0, behavior:'smooth'}); });
     links.appendChild(lb);
-    if(lodging){
+    if(siteMode==='trip'){
       const pb = document.createElement('button'); pb.type='button'; pb.className='lnk';
       pb.textContent = itinerary.includes(r.name) ? '✓ 已在行程' : '➕ 加入行程';
       pb.addEventListener('click', ()=>{ togglePlan(r.name); pb.textContent = itinerary.includes(r.name) ? '✓ 已在行程' : '➕ 加入行程'; });
@@ -3318,7 +3323,7 @@ function render(){
         <div class="links">
           ${r.phone ? `<a href="tel:${r.phone.replace(/-/g,'')}">📞 致電</a>` : ''}
           <a href="${r.mapsUrl}" target="_blank" rel="noopener">📍 Google 地圖</a>
-          ${lodging ? `<button type="button" class="plan-add${itinerary.includes(r.name)?' on':''}" data-plan>${itinerary.includes(r.name)?'✓ 已在行程':'➕ 行程'}</button>` : ''}
+          ${siteMode==='trip' ? `<button type="button" class="plan-add${itinerary.includes(r.name)?' on':''}" data-plan>${itinerary.includes(r.name)?'✓ 已在行程':'➕ 行程'}</button>` : ''}
         </div>
       </div>
     `;
