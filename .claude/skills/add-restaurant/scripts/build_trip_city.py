@@ -12,9 +12,11 @@ CONFIG.json:
   "hours":   "FUKUOKA_HOURS",               # index.html 裡的 const 營業時間物件名稱
   "centers": {"博多": [lat, lng], ...},      # 商圈中心；每家店的 area = 距離最近的商圈
   "entries": {                              # key = details.json 裡的 Google 原名
-     "<raw name>": {"zh": "中文名", "cats": ["細分類"], "tags": ["標籤"], "name": "（選填）去掉雜訊的原名"}
+     "<raw name>": {"zh": "中文名", "cats": ["細分類"], "tags": ["標籤"], "name": "（選填）去掉雜訊的原名",
+                    "area": "（選填）強制 area，例如近郊一日遊景點", "transport": {"mode": "地鐵", "note": "…"}}
   },
-  "details": "candidate-results/details.json"   # 選填
+  "skip": ["raw name", ...],               # 選填：details 裡有但不收錄
+  "details": "candidate-results/details.json"   # 選填；可為檔案路徑陣列（依序合併）
 }
 
 語意是「整批取代」：每次執行都會用這份 config 重建該陣列與營業時間表（可重複執行）。
@@ -63,10 +65,19 @@ def js_hours(week):
 
 def main(cfg_path):
     cfg = json.load(open(cfg_path, encoding="utf-8"))
-    details = json.load(open(cfg.get("details", "candidate-results/details.json"), encoding="utf-8"))
+    srcs = cfg.get("details", "candidate-results/details.json")
+    details = {}
+    for src in ([srcs] if isinstance(srcs, str) else srcs):
+        details.update(json.load(open(src, encoding="utf-8")))
     html = open(INDEX, encoding="utf-8").read()
-    known = set(re.findall(r"'([^']+)'", re.search(r"const CAT_GROUPS_FOOD = \{(.*?)\n\};", html, re.S).group(1)))
+    known = set()
+    for const in ("CAT_GROUPS_FOOD", "CAT_GROUPS_FUKUOKA"):
+        m = re.search(r"const %s = \{(.*?)\n\};" % const, html, re.S)
+        if m:
+            known |= set(re.findall(r"'([^']+)'", m.group(1)))
 
+    skip = set(cfg.get("skip", []))  # 刻意不收錄的店（details 裡有但不上站）
+    details = {k: v for k, v in details.items() if k not in skip}
     missing = [n for n in details if n not in cfg["entries"]]
     if missing:
         sys.exit(f"config has no entry for: {missing[:5]}")
@@ -87,7 +98,7 @@ def main(cfg_path):
         seen_cids.add(cid)
         loc = d["location"]
         pos = (loc["latitude"], loc["longitude"])
-        area = min(cfg["centers"], key=lambda k: hav(pos, cfg["centers"][k]))
+        area = c.get("area") or min(cfg["centers"], key=lambda k: hav(pos, cfg["centers"][k]))
         tier, sub = parking_tier(d.get("parkingOptions"))
         rating, count = d.get("rating", 0), d.get("userRatingCount", 0)
         cats = c["cats"]
@@ -99,6 +110,7 @@ def main(cfg_path):
             "tags": c["tags"], "phone": (d.get("nationalPhoneNumber") or "").replace(" ", "-"),
             "parkingTier": tier, "parkingSub": sub, "photos": d.get("_photo_urls", []),
             "mapsUrl": d.get("googleMapsUri", ""), "hours": d.get("_hoursweek", [[] for _ in range(7)]),
+            "transport": c.get("transport"),
         })
 
     lines = []
@@ -109,6 +121,8 @@ def main(cfg_path):
                  f"phone:{js_str(e['phone'])}", f"parkingTier:{js_str(e['parkingTier'])}"]
         if e["parkingSub"]:
             parts.append(f"parkingSub:{js_str(e['parkingSub'])}")
+        if e["transport"]:
+            parts.append(f"transport:{{mode:{js_str(e['transport']['mode'])},note:{js_str(e['transport']['note'])}}}")
         parts += [f"photos:{js_arr(e['photos'])}", f"mapsUrl:{js_str(e['mapsUrl'])}"]
         lines.append("  {" + ", ".join(parts) + "}")
     hours_obj = "{" + ",".join(f"{js_str(e['name'])}:{js_hours(e['hours'])}" for e in entries) + "}"
