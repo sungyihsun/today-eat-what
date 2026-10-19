@@ -1,9 +1,6 @@
 {
  "_note": "台中全區補完排程的狀態檔。規則見 .claude/skills/add-restaurant/TAICHUNG_SWEEP.md。",
- "in_progress": {
-  "district": "外埔",
-  "started_at": "2026-10-19T09:58:42Z"
- },
+ "in_progress": null,
  "done": {
   "西區": {
    "count": 20,
@@ -168,6 +165,14 @@
    "finished_at": "2026-10-19T09:50:11Z",
    "sync_verified": true,
    "prd_promoted": true
+  },
+  "外埔": {
+   "area": "外埔",
+   "count": 20,
+   "qas_commit": "a82804fedb091b80046fc12b226d284b034823b3",
+   "finished_at": "2026-10-19T10:02:10Z",
+   "sync_verified": true,
+   "prd_promoted": true
   }
  },
  "skipped": {
@@ -197,21 +202,7 @@
    "pct_of_city": 0.39
   }
  },
- "queue": [
-  {
-   "area": "外埔",
-   "label": "外埔",
-   "slug": "waipu",
-   "center": [
-    24.333,
-    120.658
-   ],
-   "landmarks": [
-    "外埔 美食"
-   ],
-   "population_approx": 31000
-  }
- ],
+ "queue": [],
  "min_population_pct": 1.0,
  "total_population_approx": 2850000,
  "_population_note": "人口為約略值（2024 年量級），僅用來套 min_population_pct 門檻；低於門檻的區已移到 skipped。要改門檻請重新整理 queue。"
