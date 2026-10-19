@@ -25,7 +25,7 @@ first, requiring the result's cid (parsed from googleMapsUri) to match the
 stored cid exactly — never silently substitutes a different business just
 because the name is similar. No match -> reported unmatched, left alone.
 
-Writes one report with four sections (csv / busan / fukuoka / clothing), each:
+Writes one report with sections (csv / busan / fukuoka / kumamoto / yufuin / kagoshima / clothing), each:
   {
     "entries": {name: {business_status, hours_changed, new_hours, photos_refreshed, new_photos}},
     "unmatched": {name: reason}
@@ -256,6 +256,17 @@ fukuoka_hours = parse_hours_object(html, 'const FUKUOKA_HOURS = ')
 for e in fukuoka_entries:
     e['hours'] = fukuoka_hours.get(e['name'], [])
 
+extra_trip = {}
+for _label, _arr, _hrs in (('kumamoto', 'kumamotoRestaurants', 'KUMAMOTO_HOURS'),
+                           ('yufuin', 'yufuinRestaurants', 'YUFUIN_HOURS'),
+                           ('kagoshima', 'kagoshimaRestaurants', 'KAGOSHIMA_HOURS')):
+    _m = re.search(r'const %s = \[(.*?)\n\];' % _arr, html, re.S)
+    _entries = parse_js_array(_m.group(1)) if _m else []
+    _h = parse_hours_object(html, 'const %s = ' % _hrs)
+    for e in _entries:
+        e['hours'] = _h.get(e['name'], [])
+    extra_trip[_label] = _entries
+
 clothing_m = re.search(r'const taiwanClothingRestaurants = \[(.*?)\n\];', html, re.S)
 clothing_entries = parse_js_array(clothing_m.group(1)) if clothing_m else []
 clothing_hours = parse_hours_object(html, 'const TAIWAN_CLOTHING_HOURS = ')
@@ -268,6 +279,8 @@ report = {
     'fukuoka': audit(fukuoka_entries, 'fukuoka'),
     'clothing': audit(clothing_entries, 'clothing'),
 }
+for _label, _entries in extra_trip.items():
+    report[_label] = audit(_entries, _label)
 
 os.makedirs(os.path.dirname(OUT_PATH), exist_ok=True)
 json.dump(report, open(OUT_PATH, 'w'), ensure_ascii=False, indent=1)

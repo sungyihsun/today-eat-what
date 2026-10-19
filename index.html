@@ -2177,6 +2177,7 @@ async function loadRestaurantsFromSupabase(){
   // opening hours instead of falling back to "營業時間請洽店家".
   Object.assign(HOURS, BUSAN_HOURS);
   Object.assign(HOURS, FUKUOKA_HOURS);
+  Object.assign(HOURS, KUMAMOTO_HOURS, YUFUIN_HOURS, KAGOSHIMA_HOURS);
   Object.assign(HOURS, TAIWAN_CLOTHING_HOURS);
 }
 
@@ -4095,7 +4096,7 @@ function enterTripMode(cityCode){
   document.body.classList.add('trip-mode');
   tripToggleLabel.textContent = '回在地版';
   tripToggleBtn.classList.add('active');
-  routesBtn.style.display = city.routes ? '' : 'none';
+  routesBtn.style.display = (city.routes && city.routes.length) ? '' : 'none';
   tripPicker.style.display = 'none';
   modeTabs.style.display = 'none';
   recomputeCategoryLists();
@@ -4271,11 +4272,58 @@ const FUKUOKA_ROUTES = [
    stops:['福岡PARCO 百貨','京都勝牛 天神西通店','岩田屋 本店 百貨','天神地下街','元祖牛雜鍋 樂天地 天神西通店']},
 ];
 
+// ── 旅遊版：熊本／由布院／鹿兒島（資料由 build_trip_city.py 寫入；只在前端，不進 Supabase）──
+const kumamotoRestaurants = [
+];
+const KUMAMOTO_HOURS = {};
+const yufuinRestaurants = [
+];
+const YUFUIN_HOURS = {};
+const kagoshimaRestaurants = [
+];
+const KAGOSHIMA_HOURS = {};
+Object.assign(HOURS, KUMAMOTO_HOURS, YUFUIN_HOURS, KAGOSHIMA_HOURS);
+
+const AREA_REGIONS_KUMAMOTO = {
+  '熊本': [
+    {area:'熊本城', label:'熊本城周邊', enabled:true},
+    {area:'下通・上通', label:'下通・上通', enabled:true},
+    {area:'熊本站', label:'熊本站', enabled:true},
+    {area:'水前寺', label:'水前寺', enabled:true},
+    {area:'近郊', label:'近郊（阿蘇・黑川）', enabled:true},
+  ],
+};
+const AREA_REGIONS_YUFUIN = {
+  '由布院': [
+    {area:'由布院站', label:'由布院站周邊', enabled:true},
+    {area:'金鱗湖・湯之坪', label:'金鱗湖・湯之坪', enabled:true},
+    {area:'近郊', label:'近郊', enabled:true},
+  ],
+};
+const AREA_REGIONS_KAGOSHIMA = {
+  '鹿兒島': [
+    {area:'天文館', label:'天文館', enabled:true},
+    {area:'鹿兒島中央站', label:'鹿兒島中央站', enabled:true},
+    {area:'港・水族館', label:'港・水族館', enabled:true},
+    {area:'城山', label:'城山', enabled:true},
+    {area:'近郊', label:'近郊（櫻島・指宿・知覽）', enabled:true},
+  ],
+};
+const KUMAMOTO_ROUTES = [];
+const YUFUIN_ROUTES = [];
+const KAGOSHIMA_ROUTES = [];
+
 const TRIP_CITIES = {
   busan:   { restaurants: busanRestaurants,   regions: AREA_REGIONS_BUSAN, tzOffset: 540 },
   fukuoka: { restaurants: fukuokaRestaurants, regions: AREA_REGIONS_FUKUOKA,
              catGroups: CAT_GROUPS_FUKUOKA, subCatGroups: SUB_CAT_GROUPS_FUKUOKA, tzOffset: 540,
              routes: FUKUOKA_ROUTES },
+  kumamoto: { restaurants: kumamotoRestaurants, regions: AREA_REGIONS_KUMAMOTO,
+              catGroups: CAT_GROUPS_FUKUOKA, subCatGroups: SUB_CAT_GROUPS_FUKUOKA, tzOffset: 540, routes: KUMAMOTO_ROUTES },
+  yufuin:   { restaurants: yufuinRestaurants, regions: AREA_REGIONS_YUFUIN,
+              catGroups: CAT_GROUPS_FUKUOKA, subCatGroups: SUB_CAT_GROUPS_FUKUOKA, tzOffset: 540, routes: YUFUIN_ROUTES },
+  kagoshima:{ restaurants: kagoshimaRestaurants, regions: AREA_REGIONS_KAGOSHIMA,
+              catGroups: CAT_GROUPS_FUKUOKA, subCatGroups: SUB_CAT_GROUPS_FUKUOKA, tzOffset: 540, routes: KAGOSHIMA_ROUTES },
 };
 
 const TRIP_COUNTRIES = [
@@ -4286,6 +4334,9 @@ const TRIP_COUNTRIES = [
   ]},
   {code:'JP', label:'日本', enabled:JP_VISIBLE, cities:[
     {code:'fukuoka', label:'福岡', enabled:true},
+    {code:'kumamoto', label:'熊本', enabled:true},
+    {code:'yufuin', label:'由布院', enabled:true},
+    {code:'kagoshima', label:'鹿兒島', enabled:true},
     {code:'tokyo', label:'東京', enabled:false},
     {code:'osaka', label:'大阪', enabled:false},
     {code:'kyoto', label:'京都', enabled:false},

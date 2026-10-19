@@ -101,6 +101,9 @@ html = open(INDEX_HTML_PATH, encoding='utf-8').read()
 for label, marker, hours_marker in [
     ('busan', 'const busanRestaurants = [', 'const BUSAN_HOURS = '),
     ('fukuoka', 'const fukuokaRestaurants = [', 'const FUKUOKA_HOURS = '),
+    ('kumamoto', 'const kumamotoRestaurants = [', 'const KUMAMOTO_HOURS = '),
+    ('yufuin', 'const yufuinRestaurants = [', 'const YUFUIN_HOURS = '),
+    ('kagoshima', 'const kagoshimaRestaurants = [', 'const KAGOSHIMA_HOURS = '),
     ('clothing', 'const taiwanClothingRestaurants = [', 'const TAIWAN_CLOTHING_HOURS = '),
 ]:
     sec = report.get(label, {}).get('entries', {})
@@ -153,7 +156,7 @@ if csv_photo_updates or csv_hours_updates:
     print(f"[csv] updated {updated} rows in {CSV_PATH}")
 
 print()
-for label in ('csv', 'busan', 'fukuoka', 'clothing'):
+for label in ('csv', 'busan', 'fukuoka', 'kumamoto', 'yufuin', 'kagoshima', 'clothing'):
     sec = report.get(label, {})
     closed = {name: v['business_status'] for name, v in sec.get('entries', {}).items()
               if v['business_status'] != 'OPERATIONAL'}
