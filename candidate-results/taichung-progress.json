@@ -1,9 +1,6 @@
 {
  "_note": "台中全區補完排程的狀態檔。規則見 .claude/skills/add-restaurant/TAICHUNG_SWEEP.md。",
- "in_progress": {
-  "district": "東勢",
-  "started_at": "2026-10-19T09:46:48Z"
- },
+ "in_progress": null,
  "done": {
   "西區": {
    "count": 20,
@@ -160,6 +157,14 @@
    "finished_at": "2026-10-19T09:46:48Z",
    "sync_verified": true,
    "prd_promoted": true
+  },
+  "東勢": {
+   "area": "東勢",
+   "count": 27,
+   "qas_commit": "261ceecfa6bb5e3863faaf673e90ed263f1aa981",
+   "finished_at": "2026-10-19T09:50:11Z",
+   "sync_verified": true,
+   "prd_promoted": true
   }
  },
  "skipped": {
@@ -190,20 +195,6 @@
   }
  },
  "queue": [
-  {
-   "area": "東勢",
-   "label": "東勢",
-   "slug": "dongshi",
-   "center": [
-    24.258,
-    120.828
-   ],
-   "landmarks": [
-    "東勢 客家 美食",
-    "東勢 林場 美食"
-   ],
-   "population_approx": 48000
-  },
   {
    "area": "外埔",
    "label": "外埔",
