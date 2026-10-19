@@ -376,13 +376,27 @@
   .view-toggle-btn:hover{ background:rgba(184,144,47,0.18); }
   .view-toggle-btn.active{ background:#16140f; color:#c9a227; border-color:#16140f; }
   .map-view{ width:100%; height:68vh; min-height:420px; border-radius:16px; overflow:hidden; border:1px solid rgba(22,20,15,0.15); background:#ece8dc; z-index:0; }
-  .map-pop{ font-size:13px; line-height:1.55; min-width:190px; }
+  .map-pop{ font-size:13px; line-height:1.55; min-width:250px; }
   .map-pop .t{ font-weight:800; font-size:14px; }
   .map-pop .z{ color:#6b6656; }
   .map-pop .b{ display:inline-block; font-size:11px; font-weight:700; padding:1px 8px; border-radius:999px; margin:3px 0; }
   .map-pop .b.open{ background:#e4f4e8; color:#2c6b41; }
   .map-pop .b.closed{ background:#f6e3e1; color:#a7332a; }
   .map-pop a, .map-pop button.lnk{ color:#8a6a1f; font-weight:700; margin-right:10px; font-size:12.5px; background:none; border:0; padding:0; cursor:pointer; text-decoration:underline; }
+  .map-pop-photos{ display:flex; gap:4px; margin:0 0 7px; }
+  .map-pop-photos img{ flex:1 1 0; min-width:0; height:62px; object-fit:cover; border-radius:7px; background:#ece8dc; }
+  .route-banner{ display:flex; align-items:center; gap:10px; flex-wrap:wrap; background:#16140f; color:#c9a227; border-radius:14px; padding:11px 16px; margin:0 0 14px; font-size:14px; }
+  .route-banner b{ font-size:15px; color:#fff; }
+  .route-banner .rb-note{ flex:1 1 100%; font-size:12.5px; color:#e8dfc4; line-height:1.55; }
+  .route-banner button{ margin-left:auto; border:1px solid #c9a227; background:none; color:#c9a227; border-radius:999px; padding:5px 13px; cursor:pointer; font-size:12.5px; font-weight:600; }
+  .route-no{ position:absolute; left:12px; top:12px; z-index:3; width:30px; height:30px; border-radius:50%; background:#16140f; color:#c9a227; font-weight:800; font-size:15px; display:flex; align-items:center; justify-content:center; border:2px solid #c9a227; }
+  .route-thumbs{ display:flex; align-items:flex-start; gap:4px; overflow-x:auto; padding:2px 0 8px; }
+  .route-thumb{ flex:0 0 auto; width:78px; text-align:center; font-size:11px; line-height:1.3; color:#201d16; }
+  .route-thumb img, .route-thumb .ph{ width:78px; height:58px; object-fit:cover; border-radius:9px; background:#ece8dc; display:block; margin-bottom:3px; }
+  .route-thumb .ph{ display:flex; align-items:center; justify-content:center; font-size:20px; }
+  .route-thumbs .arrow{ align-self:center; color:#8a8474; flex:0 0 auto; padding-bottom:18px; }
+  .route-go{ width:100%; border:0; background:#16140f; color:#c9a227; border-radius:10px; padding:9px; font-weight:700; font-size:13.5px; cursor:pointer; }
+  .route-go:hover{ background:#2a261b; }
   .grid{ display:grid; grid-template-columns:repeat(auto-fill, minmax(280px,1fr)); gap:20px; }
   .load-more-wrap{ text-align:center; margin-top:28px; }
   .load-more-btn{
@@ -695,6 +709,7 @@
 </div>
 
 <main>
+  <div class="route-banner" id="routeBanner" style="display:none;"></div>
   <div class="map-view" id="mapView" style="display:none;"></div>
   <div class="grid" id="grid"></div>
   <div class="load-more-wrap" id="loadMoreWrap" style="display:none;">
@@ -2865,6 +2880,8 @@ function parkingBadge(r){
 
 // ── 地圖模式 ────────────────────────────────────────────────────────
 // Leaflet + OpenStreetMap，第一次切到地圖才從 CDN 載入，離線或載入失敗時回到列表。
+let activeRoute = null; // {title, note, names:[店名…]}：選了推薦路線後，列表／地圖只顯示該路線的店，依行程順序排列
+let routeLine = null;
 let mapMode = false, leafletMap = null, markerLayer = null, userMarker = null, lastMapKey = '', leafletPromise = null;
 const mapView = document.getElementById('mapView');
 const viewToggleBtn = document.getElementById('viewToggleBtn');
@@ -2916,6 +2933,12 @@ function updateMap(list, cp, filterKey){
     const m = L.circleMarker([r.lat, r.lng], {radius:9, color:'#fff', weight:2, fillColor:color, fillOpacity:.95});
     const pop = document.createElement('div');
     pop.className = 'map-pop';
+    const phs = (r.photos && r.photos.length ? r.photos : (r.photo ? [r.photo] : [])).slice(0,3);
+    if(phs.length){
+      const row = document.createElement('div'); row.className = 'map-pop-photos';
+      phs.forEach(u=>{ const im=document.createElement('img'); im.src=u; im.alt=r.name; im.loading='lazy'; im.referrerPolicy='no-referrer'; im.addEventListener('error', ()=>im.remove(), {once:true}); row.appendChild(im); });
+      pop.appendChild(row);
+    }
     const t = document.createElement('div'); t.className='t'; t.textContent = r.name; pop.appendChild(t);
     if(r.nameZh){ const z=document.createElement('div'); z.className='z'; z.textContent=r.nameZh; pop.appendChild(z); }
     const info = document.createElement('div');
@@ -2933,10 +2956,12 @@ function updateMap(list, cp, filterKey){
     lb.addEventListener('click', ()=>{ leafletMap.closePopup(); setMapMode(false); searchInput.value = r.name; searchInput.dispatchEvent(new Event('input')); window.scrollTo({top:0, behavior:'smooth'}); });
     links.appendChild(lb);
     pop.appendChild(links);
-    m.bindPopup(pop);
+    m.bindPopup(pop, {minWidth:270, maxWidth:300});
     markerLayer.addLayer(m);
     pts.push([r.lat, r.lng]);
   });
+  if(routeLine){ leafletMap.removeLayer(routeLine); routeLine = null; }
+  if(activeRoute && pts.length > 1) routeLine = L.polyline(pts, {color:'#b8902f', weight:3, dashArray:'6 8', opacity:.9}).addTo(leafletMap);
   if(userMarker){ leafletMap.removeLayer(userMarker); userMarker = null; }
   if(userLocation){
     userMarker = L.circleMarker([userLocation.lat, userLocation.lng], {radius:8, color:'#fff', weight:3, fillColor:'#2b6fd6', fillOpacity:1}).bindTooltip('你的位置').addTo(leafletMap);
@@ -2958,11 +2983,13 @@ function render(){
     const openOk = !state.onlyOpen || isOpenForFilter(r, cp);
     const favOk = !state.onlyFav || favorites.has(r.name);
     const sharedOk = !state.viewingShared || sharedFavorites.has(r.name);
-    return areaOk && catOk && qOk && openOk && favOk && sharedOk;
+    const routeOk = !activeRoute || activeRoute.names.includes(r.name);
+    return areaOk && catOk && qOk && openOk && favOk && sharedOk && routeOk;
   });
 
   const PRICE_RANK = {'$':1,'$$':2,'$$$':3,'$$$$':4};
-  if(state.sort==='rating_desc') filtered.sort((a,b)=> b.rating - a.rating);
+  if(activeRoute) filtered.sort((a,b)=> activeRoute.names.indexOf(a.name) - activeRoute.names.indexOf(b.name));
+  else if(state.sort==='rating_desc') filtered.sort((a,b)=> b.rating - a.rating);
   else if(state.sort==='price_asc') filtered.sort((a,b)=> PRICE_RANK[a.price] - PRICE_RANK[b.price]);
   else if(state.sort==='price_desc') filtered.sort((a,b)=> PRICE_RANK[b.price] - PRICE_RANK[a.price]);
   else if(state.sort==='distance' && userLocation) filtered.sort((a,b)=>
@@ -2973,10 +3000,11 @@ function render(){
     else filtered.sort((a,b)=> getDefaultSortRank(a.name) - getDefaultSortRank(b.name));
   }
 
-  const filterKey = JSON.stringify([state.area, state.cats, state.subCat, state.q, state.onlyOpen, state.onlyFav, state.sort, state.viewingShared, state.customDay, state.customTime, state.rangeStart, state.rangeEnd]);
+  const filterKey = JSON.stringify([state.area, state.cats, state.subCat, state.q, state.onlyOpen, state.onlyFav, state.sort, state.viewingShared, state.customDay, state.customTime, state.rangeStart, state.rangeEnd, activeRoute && activeRoute.title]);
   if(filterKey !== lastFilterKey){ visibleCount = PAGE_SIZE; lastFilterKey = filterKey; }
 
-  resultCount.textContent = `共找到 ${filtered.length} 間餐廳`;
+  resultCount.textContent = activeRoute ? `路線共 ${filtered.length} 站` : `共找到 ${filtered.length} 間餐廳`;
+  renderRouteBanner();
   grid.innerHTML = '';
   mapView.style.display = mapMode ? 'block' : 'none';
   grid.style.display = mapMode ? 'none' : '';
@@ -3017,6 +3045,7 @@ function render(){
     card.className = 'card';
     card.innerHTML = `
       <div class="card-photo">
+        ${activeRoute ? `<span class="route-no">${activeRoute.names.indexOf(r.name)+1}</span>` : ''}
         <div class="card-photo-track">${photoTrackHtml}</div>
         ${photoDotsHtml}
         <span class="card-open-badge ${badgeClass}"><span class="dot"></span>${badgeText}</span>
@@ -3682,6 +3711,7 @@ function enterTripMode(cityCode){
   SUB_CAT_GROUPS = city.subCatGroups || SUB_CAT_GROUPS_FOOD;
   ALL_CAT_GROUPS = Object.assign({}, CAT_GROUPS, SUB_CAT_GROUPS);
   state = freshState();
+  activeRoute = null;
   areaUiExpanded = false;
   areaUiRegion = null;
   siteMode = 'trip';
@@ -3700,6 +3730,30 @@ function enterTripMode(cityCode){
 const routesBtn = document.getElementById('routesBtn');
 const routesModal = document.getElementById('routesModal');
 const routesBody = document.getElementById('routesBody');
+function renderRouteBanner(){
+  const el = document.getElementById('routeBanner');
+  if(!activeRoute){ el.style.display = 'none'; return; }
+  el.style.display = 'flex';
+  el.innerHTML = '';
+  const t = document.createElement('b'); t.textContent = `🗺 ${activeRoute.title}`; el.appendChild(t);
+  const meta = document.createElement('span'); meta.textContent = `${activeRoute.names.length} 站・依行程順序排列`; el.appendChild(meta);
+  const x = document.createElement('button'); x.type='button'; x.textContent = '✕ 結束路線'; x.addEventListener('click', ()=>stopRoute()); el.appendChild(x);
+  const n = document.createElement('div'); n.className='rb-note'; n.textContent = `${activeRoute.duration}　・　${activeRoute.mode}。${activeRoute.note}`; el.appendChild(n);
+}
+function startRoute(rt, names){
+  state = freshState();
+  searchInput.value = '';
+  activeRoute = {title: rt.title, note: rt.note, duration: rt.duration, mode: rt.mode, names};
+  routesModal.style.display = 'none';
+  lastMapKey = '';
+  render();
+  window.scrollTo({top:0, behavior:'smooth'});
+}
+function stopRoute(){
+  activeRoute = null;
+  lastMapKey = '';
+  render();
+}
 function openRoutes(){
   const city = TRIP_CITIES[currentTripCity];
   if(!city || !city.routes) return;
@@ -3710,22 +3764,24 @@ function openRoutes(){
     const card = document.createElement('div');
     card.className = 'route-card';
     card.innerHTML = `<div class="route-title">${rt.icon} ${rt.title}</div>
-      <div class="route-meta">${rt.duration}　・　${rt.mode}</div>
-      <div class="route-note">${rt.note}</div><div class="route-stops"></div>`;
-    const wrap = card.querySelector('.route-stops');
+      <div class="route-meta">${rt.duration}　・　${rt.mode}　・　${stops.length} 站</div>
+      <div class="route-note">${rt.note}</div><div class="route-thumbs"></div>`;
+    const wrap = card.querySelector('.route-thumbs');
     stops.forEach((r,i)=>{
       if(i) wrap.insertAdjacentHTML('beforeend','<span class="arrow">→</span>');
-      const b = document.createElement('button');
-      b.type = 'button';
-      b.textContent = r.nameZh;
-      b.addEventListener('click', ()=>{
-        routesModal.style.display = 'none';
-        searchInput.value = r.name;
-        searchInput.dispatchEvent(new Event('input'));
-        window.scrollTo({top:0, behavior:'smooth'});
-      });
-      wrap.appendChild(b);
+      const th = document.createElement('div'); th.className = 'route-thumb';
+      const u = (r.photos && r.photos[0]) || r.photo;
+      if(u){
+        const im = document.createElement('img'); im.src = u; im.alt = r.nameZh; im.loading = 'lazy'; im.referrerPolicy = 'no-referrer';
+        im.addEventListener('error', ()=>{ const ph=document.createElement('div'); ph.className='ph'; ph.textContent='📍'; im.replaceWith(ph); }, {once:true});
+        th.appendChild(im);
+      } else { const ph=document.createElement('div'); ph.className='ph'; ph.textContent='📍'; th.appendChild(ph); }
+      const nm = document.createElement('div'); nm.textContent = `${i+1}. ${r.nameZh.replace(/（.*?）/g,'')}`; th.appendChild(nm);
+      wrap.appendChild(th);
     });
+    const go = document.createElement('button'); go.type='button'; go.className='route-go'; go.textContent = '查看行程卡片 →';
+    go.addEventListener('click', ()=>startRoute(rt, stops.map(r=>r.name)));
+    card.appendChild(go);
     routesBody.appendChild(card);
   });
   routesModal.style.display = 'flex';
@@ -3741,6 +3797,7 @@ function exitTripMode(){
   SUB_CAT_GROUPS = SUB_CAT_GROUPS_FOOD;
   ALL_CAT_GROUPS = Object.assign({}, CAT_GROUPS, SUB_CAT_GROUPS);
   state = freshState();
+  activeRoute = null;
   areaUiExpanded = false;
   areaUiRegion = null;
   siteMode = 'local';
