@@ -77,8 +77,8 @@
    "coffee_shop",
    "cafe",
    "food_store",
-   "food",
    "store",
+   "food",
    "point_of_interest",
    "establishment"
   ],
@@ -99,8 +99,8 @@
   "types": [
    "taiwanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "外埔"
@@ -309,8 +309,8 @@
    "restaurant",
    "deli",
    "food_store",
-   "food",
    "store",
+   "food",
    "point_of_interest",
    "establishment"
   ],
@@ -516,8 +516,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "外埔"
@@ -556,47 +556,6 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "外埔"
- },
- "5245106538795217040": {
-  "place_id": "ChIJnVSInEIRaTQRkLD3dZtcykg",
-  "name": "外埔日船章魚小丸子",
-  "address": "438台灣臺中市外埔區大同里甲后路三段932號號（旁",
-  "rating": 4.6,
-  "userRatingCount": 22,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=5245106538795217040&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.3301293,
-   "longitude": 120.6552548
-  },
-  "types": [
-   "meal_takeaway",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "外埔"
- },
- "13782196251546971256": {
-  "place_id": "ChIJoTJpCtARaTQReGwtNngyRL8",
-  "name": "外埔-逢甲阿郎",
-  "address": "438台灣臺中市外埔區六分里甲后路三段949號",
-  "rating": 4.3,
-  "userRatingCount": 87,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=13782196251546971256&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.3305248,
-   "longitude": 120.654427
-  },
-  "types": [
-   "restaurant",
    "food",
    "point_of_interest",
    "establishment"
@@ -618,29 +577,7 @@
   "types": [
    "food_store",
    "store",
-   "point_of_interest",
    "food",
-   "establishment"
-  ],
-  "area_label": "外埔"
- },
- "1094128399909678572": {
-  "place_id": "ChIJ4XUI2toRaTQR7G1Il_sfLw8",
-  "name": "巷仔口香雞排",
-  "address": "438台灣臺中市外埔區大同里中山路23號",
-  "rating": 4.6,
-  "userRatingCount": 45,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=1094128399909678572&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.3306045,
-   "longitude": 120.65208349999999
-  },
-  "types": [
-   "deli",
-   "food_store",
-   "food",
-   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -771,8 +708,8 @@
    "snack_bar",
    "meal_takeaway",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "外埔"
@@ -835,27 +772,6 @@
   ],
   "area_label": "外埔"
  },
- "17049251379725238942": {
-  "place_id": "ChIJacq0kv8RaTQRnoLcjswbm-w",
-  "name": "御珍欣二代目",
-  "address": "438台灣臺中市外埔區大東里甲后路五段130巷15號",
-  "rating": 4,
-  "userRatingCount": 95,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=17049251379725238942&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.3432838,
-   "longitude": 120.63743050000001
-  },
-  "types": [
-   "chinese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "外埔"
- },
  "13929817197957507399": {
   "place_id": "ChIJ09Q189ARaTQRR2liLvCmUME",
   "name": "半斤小吃店",
@@ -877,23 +793,65 @@
   ],
   "area_label": "外埔"
  },
- "12114533180418948164": {
-  "place_id": "ChIJj9VUzFARaTQRRPyN9r13H6g",
-  "name": "麵拾光",
-  "address": "438台灣臺中市外埔區大東里甲后路五段256號",
-  "rating": 4.8,
-  "userRatingCount": 24,
+ "1094128399909678572": {
+  "place_id": "ChIJ4XUI2toRaTQR7G1Il_sfLw8",
+  "name": "巷仔口香雞排",
+  "address": "438台灣臺中市外埔區大同里中山路23號",
+  "rating": 4.6,
+  "userRatingCount": 45,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=12114533180418948164&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=1094128399909678572&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.343908600000002,
-   "longitude": 120.63554409999999
+   "latitude": 24.3306045,
+   "longitude": 120.65208349999999
   },
   "types": [
-   "noodle_shop",
-   "restaurant",
-   "point_of_interest",
+   "deli",
+   "food_store",
+   "store",
    "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "外埔"
+ },
+ "13782196251546971256": {
+  "place_id": "ChIJoTJpCtARaTQReGwtNngyRL8",
+  "name": "外埔-逢甲阿郎",
+  "address": "438台灣臺中市外埔區六分里甲后路三段949號",
+  "rating": 4.3,
+  "userRatingCount": 87,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=13782196251546971256&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3305248,
+   "longitude": 120.654427
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "外埔"
+ },
+ "5245106538795217040": {
+  "place_id": "ChIJnVSInEIRaTQRkLD3dZtcykg",
+  "name": "外埔日船章魚小丸子",
+  "address": "438台灣臺中市外埔區大同里甲后路三段932號號（旁",
+  "rating": 4.6,
+  "userRatingCount": 22,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=5245106538795217040&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3301293,
+   "longitude": 120.6552548
+  },
+  "types": [
+   "meal_takeaway",
+   "restaurant",
+   "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "外埔"
@@ -931,6 +889,27 @@
    "longitude": 120.6519664
   },
   "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "外埔"
+ },
+ "12114533180418948164": {
+  "place_id": "ChIJj9VUzFARaTQRRPyN9r13H6g",
+  "name": "麵拾光",
+  "address": "438台灣臺中市外埔區大東里甲后路五段256號",
+  "rating": 4.8,
+  "userRatingCount": 24,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=12114533180418948164&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.343908600000002,
+   "longitude": 120.63554409999999
+  },
+  "types": [
+   "noodle_shop",
    "restaurant",
    "food",
    "point_of_interest",
