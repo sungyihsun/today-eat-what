@@ -14,8 +14,8 @@
   "types": [
    "chinese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "東勢"
@@ -35,8 +35,8 @@
   "types": [
    "restaurant",
    "japanese_restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -118,8 +118,8 @@
   "types": [
    "chinese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "東勢"
@@ -268,8 +268,8 @@
   "types": [
    "chinese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "東勢"
@@ -310,8 +310,8 @@
   "types": [
    "chinese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "東勢"
@@ -330,8 +330,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1070,8 +1070,8 @@
   "types": [
    "noodle_shop",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1341,9 +1341,9 @@
    "french_restaurant",
    "dessert_shop",
    "confectionery",
+   "european_restaurant",
    "food_store",
    "store",
-   "european_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -1554,8 +1554,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1574,8 +1574,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1640,8 +1640,8 @@
   "types": [
    "vietnamese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1683,8 +1683,8 @@
   "types": [
    "chinese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1705,8 +1705,8 @@
    "deli",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1727,8 +1727,8 @@
    "chinese_noodle_restaurant",
    "noodle_shop",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1769,8 +1769,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1789,8 +1789,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1852,8 +1852,8 @@
   "types": [
    "chinese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1874,8 +1874,8 @@
    "restaurant",
    "asian_restaurant",
    "chinese_restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "東勢"
@@ -1895,8 +1895,8 @@
   "types": [
    "chinese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "東勢"
