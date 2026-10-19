@@ -1468,5 +1468,89 @@
    "糸島市",
    "柳川市"
   ]
+ },
+ {
+  "key": "pick-nPLLeKZ0",
+  "place_id": "ChIJ7bYr16uTQTURrOsnPLLeKZ0",
+  "expect": [
+   "福岡市"
+  ]
+ },
+ {
+  "key": "pick-snJfDX78",
+  "place_id": "ChIJC9lghieTQTURbnjsnJfDX78",
+  "expect": [
+   "福岡市"
+  ]
+ },
+ {
+  "key": "pick-M3qjDZPY",
+  "place_id": "ChIJaTR0g6CTQTUR2_tM3qjDZPY",
+  "expect": [
+   "福岡市"
+  ]
+ },
+ {
+  "key": "pick-SYphyq10",
+  "place_id": "ChIJTWSJW6qTQTURGEaSYphyq10",
+  "expect": [
+   "福岡市"
+  ]
+ },
+ {
+  "key": "pick-wI37URAs",
+  "place_id": "ChIJJcmpQaaTQTUR4iiwI37URAs",
+  "expect": [
+   "福岡市"
+  ]
+ },
+ {
+  "key": "pick-4YTdVVxU",
+  "place_id": "ChIJI4QEtGGTQTURP714YTdVVxU",
+  "expect": [
+   "福岡市"
+  ]
+ },
+ {
+  "key": "pick-rwSuUij8",
+  "place_id": "ChIJzdLPu7mTQTURLavrwSuUij8",
+  "expect": [
+   "福岡市"
+  ]
+ },
+ {
+  "key": "pick-sYOvbm48",
+  "place_id": "ChIJB-cqUK-TQTURWLrsYOvbm48",
+  "expect": [
+   "福岡市"
+  ]
+ },
+ {
+  "key": "pick-7bkulJP4",
+  "place_id": "ChIJFwFgV6GTQTUR1Op7bkulJP4",
+  "expect": [
+   "福岡市"
+  ]
+ },
+ {
+  "key": "pick-aNF7ILfs",
+  "place_id": "ChIJY_xn9aSTQTUREkLaNF7ILfs",
+  "expect": [
+   "福岡市"
+  ]
+ },
+ {
+  "key": "pick-U_PuvTd8",
+  "place_id": "ChIJQXV0WKSTQTURhXAU_PuvTd8",
+  "expect": [
+   "福岡市"
+  ]
+ },
+ {
+  "key": "pick-zXDA7J_w",
+  "place_id": "ChIJBXyiXSKTQTURVuXzXDA7J_w",
+  "expect": [
+   "福岡市"
+  ]
  }
 ]
