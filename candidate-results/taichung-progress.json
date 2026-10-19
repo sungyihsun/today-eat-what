@@ -1,6 +1,9 @@
 {
  "_note": "台中全區補完排程的狀態檔。規則見 .claude/skills/add-restaurant/TAICHUNG_SWEEP.md。",
- "in_progress": null,
+ "in_progress": {
+  "district": "大甲",
+  "started_at": "2026-10-19T09:18:01Z"
+ },
  "done": {
   "西區": {
    "count": 20,
