@@ -1,8 +1,8 @@
 {
  "_note": "台中全區補完排程的狀態檔。規則見 .claude/skills/add-restaurant/TAICHUNG_SWEEP.md。",
  "in_progress": {
-  "district": "潭子",
-  "started_at": "2026-10-19T07:57:29Z"
+  "district": "烏日",
+  "started_at": "2026-10-19T08:01:00Z"
  },
  "done": {
   "西區": {
@@ -72,6 +72,14 @@
    "finished_at": "2026-10-19T07:55:38Z",
    "sync_verified": true,
    "prd_promoted": true
+  },
+  "潭子": {
+   "area": "潭子",
+   "count": 30,
+   "qas_commit": "bf459c93845557043c41f0ce708d91c18d6eaf1a",
+   "finished_at": "2026-10-19T08:01:00Z",
+   "sync_verified": true,
+   "prd_promoted": true
   }
  },
  "skipped": {
@@ -102,19 +110,6 @@
   }
  },
  "queue": [
-  {
-   "area": "潭子",
-   "label": "潭子",
-   "slug": "tanzi",
-   "center": [
-    24.21,
-    120.705
-   ],
-   "landmarks": [
-    "潭子 中山路 美食"
-   ],
-   "population_approx": 107000
-  },
   {
    "area": "烏日",
    "label": "烏日",
