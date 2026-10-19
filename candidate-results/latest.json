@@ -33,8 +33,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "神岡"
@@ -97,8 +97,8 @@
   "types": [
    "chinese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "神岡"
@@ -140,8 +140,8 @@
   "types": [
    "taiwanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "神岡"
@@ -201,12 +201,12 @@
   },
   "types": [
    "restaurant",
+   "dumpling_restaurant",
    "noodle_shop",
    "snack_bar",
-   "dumpling_restaurant",
    "meal_takeaway",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "神岡"
@@ -246,8 +246,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "神岡"
@@ -309,8 +309,8 @@
   "types": [
    "chinese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "神岡"
@@ -331,8 +331,8 @@
    "deli",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "神岡"
@@ -352,8 +352,8 @@
   "types": [
    "chinese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "神岡"
@@ -372,8 +372,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "神岡"
@@ -392,8 +392,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "神岡"
@@ -411,6 +411,48 @@
    "longitude": 120.68265790000001
   },
   "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "神岡"
+ },
+ "2990103389199931649": {
+  "place_id": "ChIJ39VhhVARaTQRARn0sjD7fik",
+  "name": "早ㄤㄤ早餐神岡店【每周日休】",
+  "address": "429014台灣臺中市神岡區圳堵里三民路656號",
+  "rating": 4.9,
+  "userRatingCount": 18,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=2990103389199931649&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2734235,
+   "longitude": 120.6592556
+  },
+  "types": [
+   "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "神岡"
+ },
+ "6799596999059599037": {
+  "place_id": "ChIJ-3YR5NIQaTQRvW7C4HEFXV4",
+  "name": "神岡早午餐",
+  "address": "429台灣臺中市神岡區社南里中山路873號",
+  "rating": 4.4,
+  "userRatingCount": 223,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=6799596999059599037&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.252204199999998,
+   "longitude": 120.67437910000001
+  },
+  "types": [
+   "brunch_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -461,90 +503,6 @@
   ],
   "area_label": "神岡"
  },
- "2990103389199931649": {
-  "place_id": "ChIJ39VhhVARaTQRARn0sjD7fik",
-  "name": "早ㄤㄤ早餐神岡店【每周日休】",
-  "address": "429014台灣臺中市神岡區圳堵里三民路656號",
-  "rating": 4.9,
-  "userRatingCount": 18,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=2990103389199931649&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2734235,
-   "longitude": 120.6592556
-  },
-  "types": [
-   "brunch_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "神岡"
- },
- "6799596999059599037": {
-  "place_id": "ChIJ-3YR5NIQaTQRvW7C4HEFXV4",
-  "name": "神岡早午餐",
-  "address": "429台灣臺中市神岡區社南里中山路873號",
-  "rating": 4.4,
-  "userRatingCount": 223,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=6799596999059599037&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.252204199999998,
-   "longitude": 120.67437910000001
-  },
-  "types": [
-   "brunch_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "神岡"
- },
- "16899487612309117195": {
-  "place_id": "ChIJJZLfzfwRaTQRC5nMMXIKh-o",
-  "name": "微笑早午餐",
-  "address": "429台灣臺中市神岡區北庄里中山路1128號",
-  "rating": 4.6,
-  "userRatingCount": 18,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=16899487612309117195&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2563657,
-   "longitude": 120.6711888
-  },
-  "types": [
-   "breakfast_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "神岡"
- },
- "4110531507470076495": {
-  "place_id": "ChIJTbENhSkRaTQRTwrOpKCKCzk",
-  "name": "健健美中西式早餐",
-  "address": "429台灣臺中市神岡區北庄里中山路1396號",
-  "rating": 4.7,
-  "userRatingCount": 31,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=4110531507470076495&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.258432199999998,
-   "longitude": 120.6637727
-  },
-  "types": [
-   "breakfast_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "神岡"
- },
  "18090439517444036773": {
   "place_id": "ChIJxRW36TQXaTQRpdjw0-QmDvs",
   "name": "金吉村神岡總店",
@@ -567,20 +525,42 @@
   ],
   "area_label": "神岡"
  },
- "10899300396687439621": {
-  "place_id": "ChIJc21YJO4XaTQRBTfUvPYXQpc",
-  "name": "蕃茄村台中神岡中山店 早餐 早午餐",
-  "address": "429台灣臺中市神岡區社南里中山路687號",
-  "rating": 4.4,
-  "userRatingCount": 74,
+ "6883508891181875308": {
+  "place_id": "ChIJ7w-mx_sRaTQRbIAju90ih18",
+  "name": "弘爺漢堡-好神店",
+  "address": "429台灣臺中市神岡區北庄里中山路1320-3號",
+  "rating": 4.5,
+  "userRatingCount": 27,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=10899300396687439621&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=6883508891181875308&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.248525599999997,
-   "longitude": 120.6798612
+   "latitude": 24.2582065,
+   "longitude": 120.6648414
   },
   "types": [
    "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "神岡"
+ },
+ "11917790740332254342": {
+  "place_id": "ChIJaREkET0RaTQRhpTxAIl_ZKU",
+  "name": "Chick 輕客小吃餐店",
+  "address": "429台灣臺中市神岡區神岡里中正路39號",
+  "rating": 4.7,
+  "userRatingCount": 49,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=11917790740332254342&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.257638999999998,
+   "longitude": 120.657432
+  },
+  "types": [
+   "snack_bar",
+   "meal_takeaway",
    "restaurant",
    "food",
    "point_of_interest",
@@ -610,80 +590,17 @@
   ],
   "area_label": "神岡"
  },
- "6883508891181875308": {
-  "place_id": "ChIJ7w-mx_sRaTQRbIAju90ih18",
-  "name": "弘爺漢堡-好神店",
-  "address": "429台灣臺中市神岡區北庄里中山路1320-3號",
-  "rating": 4.5,
-  "userRatingCount": 27,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=6883508891181875308&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2582065,
-   "longitude": 120.6648414
-  },
-  "types": [
-   "brunch_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "神岡"
- },
- "4289021730181009262": {
-  "place_id": "ChIJ713zNusRaTQRbs9eFYqqhTs",
-  "name": "LuLu早午餐",
-  "address": "429台灣臺中市神岡區豐洲里豐洲路141號",
-  "rating": 4.8,
-  "userRatingCount": 80,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=4289021730181009262&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2584204,
-   "longitude": 120.7108007
-  },
-  "types": [
-   "brunch_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "神岡"
- },
- "10263149568011373572": {
-  "place_id": "ChIJJXQeLgAXaTQRBIwF1icIbo4",
-  "name": "麥味登 神岡珍饌門市",
-  "address": "429台灣臺中市神岡區社口里中山路697-1號",
-  "rating": 4.3,
-  "userRatingCount": 239,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=10263149568011373572&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2488149,
-   "longitude": 120.67954859999998
-  },
-  "types": [
-   "brunch_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "神岡"
- },
- "16392931026493419776": {
-  "place_id": "ChIJXQsdOykRaTQRALGeRepjf-M",
-  "name": "神圳美早餐店",
-  "address": "429台灣臺中市神岡區神岡里神圳路7-13號",
-  "rating": 4.4,
-  "userRatingCount": 24,
+ "16899487612309117195": {
+  "place_id": "ChIJJZLfzfwRaTQRC5nMMXIKh-o",
+  "name": "微笑早午餐",
+  "address": "429台灣臺中市神岡區北庄里中山路1128號",
+  "rating": 4.6,
+  "userRatingCount": 18,
   "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=16392931026493419776&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=16899487612309117195&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.260335500000004,
-   "longitude": 120.66113399999998
+   "latitude": 24.2563657,
+   "longitude": 120.6711888
   },
   "types": [
    "breakfast_restaurant",
@@ -694,21 +611,103 @@
   ],
   "area_label": "神岡"
  },
- "11917790740332254342": {
-  "place_id": "ChIJaREkET0RaTQRhpTxAIl_ZKU",
-  "name": "Chick 輕客小吃餐店",
-  "address": "429台灣臺中市神岡區神岡里中正路39號",
-  "rating": 4.7,
-  "userRatingCount": 49,
+ "14912081595939703110": {
+  "place_id": "ChIJVVVVVbwWaTQRRkmgMzRb8s4",
+  "name": "大胖腳庫飯",
+  "address": "42951台灣臺中市神岡區庄前里三民南路17號",
+  "rating": 4.2,
+  "userRatingCount": 270,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=11917790740332254342&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=14912081595939703110&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.257638999999998,
-   "longitude": 120.657432
+   "latitude": 24.2515001,
+   "longitude": 120.65659099999998
   },
   "types": [
-   "snack_bar",
-   "meal_takeaway",
+   "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "神岡"
+ },
+ "9847816503538467291": {
+  "place_id": "ChIJ-dVdS8EXaTQR28GjGu94qog",
+  "name": "社口小籠包＆蒸餃",
+  "address": "429台灣臺中市神岡區中山路",
+  "rating": 4.8,
+  "userRatingCount": 50,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=9847816503538467291&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2471681,
+   "longitude": 120.68197769999999
+  },
+  "types": [
+   "breakfast_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "神岡"
+ },
+ "9514835266039011849": {
+  "place_id": "ChIJW1mr6C0RaTQRCVqdQEN8C4Q",
+  "name": "冬瓜伯麵店",
+  "address": "429台灣臺中市神岡區神岡里三民路2號",
+  "rating": 4.9,
+  "userRatingCount": 46,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=9514835266039011849&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2590097,
+   "longitude": 120.65561539999999
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "神岡"
+ },
+ "11041002618156377850": {
+  "place_id": "ChIJQ8FAGgARaTQR-mZeK2KFOZk",
+  "name": "麥味登-神岡豐盛店",
+  "address": "429台灣臺中市神岡區大社里豐社路88號",
+  "rating": 4.6,
+  "userRatingCount": 108,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=11041002618156377850&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2511653,
+   "longitude": 120.6997468
+  },
+  "types": [
+   "breakfast_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "神岡"
+ },
+ "4110531507470076495": {
+  "place_id": "ChIJTbENhSkRaTQRTwrOpKCKCzk",
+  "name": "健健美中西式早餐",
+  "address": "429台灣臺中市神岡區北庄里中山路1396號",
+  "rating": 4.7,
+  "userRatingCount": 31,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=4110531507470076495&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.258432199999998,
+   "longitude": 120.6637727
+  },
+  "types": [
+   "breakfast_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -772,8 +771,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "神岡"
@@ -811,9 +810,9 @@
   },
   "types": [
    "food_store",
+   "food",
    "store",
    "point_of_interest",
-   "food",
    "establishment"
   ],
   "area_label": "神岡"
@@ -833,8 +832,8 @@
   "types": [
    "kebab_shop",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "神岡"
@@ -873,8 +872,8 @@
   "types": [
    "barbecue_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "神岡"
@@ -894,8 +893,8 @@
   "types": [
    "korean_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "神岡"
@@ -916,8 +915,8 @@
    "snack_bar",
    "meal_takeaway",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "神岡"
@@ -937,13 +936,13 @@
   "types": [
    "snack_bar",
    "meal_delivery",
-   "food_delivery",
    "meal_takeaway",
+   "food_delivery",
    "food_store",
    "store",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "神岡"
@@ -962,8 +961,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "神岡"
@@ -1064,8 +1063,8 @@
    "longitude": 120.68170810000001
   },
   "types": [
-   "japanese_restaurant",
    "chinese_restaurant",
+   "japanese_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -1108,8 +1107,8 @@
   "types": [
    "bakery",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -1130,8 +1129,8 @@
   "types": [
    "bakery",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -1152,8 +1151,8 @@
   "types": [
    "bakery",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -1175,8 +1174,8 @@
    "dessert_shop",
    "confectionery",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -1196,10 +1195,10 @@
   },
   "types": [
    "store",
-   "bakery",
    "ice_cream_shop",
    "dessert_shop",
    "confectionery",
+   "bakery",
    "food_store",
    "food",
    "point_of_interest",
@@ -1224,8 +1223,8 @@
    "dessert_shop",
    "confectionery",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -1269,8 +1268,8 @@
    "dessert_shop",
    "confectionery",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -1311,11 +1310,11 @@
   "types": [
    "dessert_shop",
    "food_court",
-   "bakery",
    "confectionery",
+   "bakery",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -1336,8 +1335,8 @@
   "types": [
    "bakery",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -1356,11 +1355,11 @@
    "longitude": 120.67987520000001
   },
   "types": [
-   "bakery",
    "confectionery",
+   "bakery",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -1420,8 +1419,8 @@
   "types": [
    "bakery",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -1442,8 +1441,8 @@
   "types": [
    "deli",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -1681,9 +1680,9 @@
   },
   "types": [
    "restaurant",
-   "brunch_restaurant",
-   "chinese_noodle_restaurant",
    "breakfast_restaurant",
+   "chinese_noodle_restaurant",
+   "brunch_restaurant",
    "snack_bar",
    "meal_takeaway",
    "chinese_restaurant",
@@ -1728,8 +1727,8 @@
   "types": [
    "chinese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "神岡"
@@ -1749,8 +1748,8 @@
   "types": [
    "deli",
    "food_store",
-   "food",
    "store",
+   "food",
    "point_of_interest",
    "establishment"
   ],
@@ -1773,8 +1772,8 @@
    "food_store",
    "store",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "神岡"
@@ -1815,8 +1814,8 @@
   "types": [
    "chinese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "神岡"
@@ -1836,8 +1835,8 @@
   "types": [
    "chinese_noodle_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "神岡"
@@ -1857,8 +1856,8 @@
   "types": [
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "神岡"
@@ -1877,8 +1876,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "神岡"
@@ -1981,8 +1980,8 @@
   "types": [
    "vietnamese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "神岡"
@@ -2005,8 +2004,8 @@
    "food_store",
    "store",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "神岡"
@@ -2026,8 +2025,8 @@
   "types": [
    "chinese_noodle_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "神岡"
@@ -2046,8 +2045,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "神岡"
