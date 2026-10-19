@@ -81,8 +81,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "博多"
@@ -154,8 +154,8 @@
    "steak_house",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "博多"
@@ -222,8 +222,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "博多"
@@ -242,12 +242,12 @@
   },
   "types": [
    "chicken_restaurant",
-   "japanese_izakaya_restaurant",
    "hot_pot_restaurant",
+   "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -288,8 +288,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "博多"
@@ -333,8 +333,8 @@
    "seafood_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "博多"
@@ -442,8 +442,8 @@
   "types": [
    "noodle_shop",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -510,8 +510,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "天神"
@@ -601,8 +601,8 @@
    "noodle_shop",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -671,8 +671,8 @@
    "yakitori_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "博多"
@@ -693,8 +693,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "博多"
@@ -716,8 +716,8 @@
    "yakitori_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "博多"
@@ -733,28 +733,6 @@
   "location": {
    "latitude": 33.5881527,
    "longitude": 130.4191437
-  },
-  "types": [
-   "japanese_izakaya_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "博多"
- },
- "3945324608715872373": {
-  "place_id": "ChIJS4M3aIGRQTURddgdEtSbwDY",
-  "name": "肉寿司と野菜巻き串 博多もん 本店",
-  "address": "日本、〒812-0012 福岡県福岡市博多区博多駅中央街５−２１ 5階",
-  "rating": 4.7,
-  "userRatingCount": 3175,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=3945324608715872373&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.5890935,
-   "longitude": 130.42170769999998
   },
   "types": [
    "japanese_izakaya_restaurant",
@@ -782,23 +760,23 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "博多"
  },
- "7461969880359269054": {
-  "place_id": "ChIJeXlySfGRQTURvnJ6KxI-jmc",
-  "name": "九州の酒と肴 博多 又",
-  "address": "日本、〒812-0013 福岡県福岡市博多区博多駅東２丁目７−２７ ＴＥＲＡＳＯ―Ⅰ 1階",
-  "rating": 4.6,
-  "userRatingCount": 1110,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=7461969880359269054&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "3945324608715872373": {
+  "place_id": "ChIJS4M3aIGRQTURddgdEtSbwDY",
+  "name": "肉寿司と野菜巻き串 博多もん 本店",
+  "address": "日本、〒812-0012 福岡県福岡市博多区博多駅中央街５−２１ 5階",
+  "rating": 4.7,
+  "userRatingCount": 3175,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=3945324608715872373&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 33.5867438,
-   "longitude": 130.4243028
+   "latitude": 33.5890935,
+   "longitude": 130.42170769999998
   },
   "types": [
    "japanese_izakaya_restaurant",
@@ -826,8 +804,30 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "博多"
+ },
+ "7461969880359269054": {
+  "place_id": "ChIJeXlySfGRQTURvnJ6KxI-jmc",
+  "name": "九州の酒と肴 博多 又",
+  "address": "日本、〒812-0013 福岡県福岡市博多区博多駅東２丁目７−２７ ＴＥＲＡＳＯ―Ⅰ 1階",
+  "rating": 4.6,
+  "userRatingCount": 1110,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=7461969880359269054&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.5867438,
+   "longitude": 130.4243028
+  },
+  "types": [
+   "japanese_izakaya_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "博多"
@@ -849,8 +849,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "博多"
@@ -905,54 +905,6 @@
   ],
   "area_label": "博多"
  },
- "18169259372093678716": {
-  "place_id": "ChIJVVXFAMmRQTURfKSUUSItJvw",
-  "name": "浪漫座 博多 総本店",
-  "address": "日本、〒812-0013 福岡県福岡市博多区博多駅東１丁目１−３３ Ｂ１",
-  "rating": 4,
-  "userRatingCount": 918,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=18169259372093678716&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.5923163,
-   "longitude": 130.42179339999998
-  },
-  "types": [
-   "japanese_izakaya_restaurant",
-   "chicken_restaurant",
-   "food_store",
-   "japanese_restaurant",
-   "store",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "博多"
- },
- "11638302204396507482": {
-  "place_id": "ChIJwRBIs8CRQTURWhGzSTGOg6E",
-  "name": "肴やだんじ",
-  "address": "日本、〒812-0011 福岡県福岡市博多区博多駅前２丁目１１−２２",
-  "rating": 4.6,
-  "userRatingCount": 1901,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=11638302204396507482&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.5917964,
-   "longitude": 130.4159365
-  },
-  "types": [
-   "japanese_izakaya_restaurant",
-   "seafood_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "博多"
- },
  "7561051545393915502": {
   "place_id": "ChIJqzKNB8CRQTURbmafA1JA7mg",
   "name": "焼肉・冷麺 大東園本店",
@@ -970,8 +922,8 @@
    "barbecue_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -990,11 +942,11 @@
   },
   "types": [
    "yakiniku_restaurant",
-   "korean_restaurant",
    "japanese_restaurant",
+   "korean_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "博多"
@@ -1015,8 +967,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -1038,8 +990,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "博多"
@@ -1060,8 +1012,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "博多"
@@ -1082,8 +1034,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "博多"
@@ -1101,14 +1053,14 @@
    "longitude": 130.4198965
   },
   "types": [
-   "yakiniku_restaurant",
    "steak_house",
    "snack_bar",
    "meal_takeaway",
+   "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "博多"
@@ -1129,8 +1081,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "博多"
@@ -1149,11 +1101,11 @@
   },
   "types": [
    "yakiniku_restaurant",
-   "korean_restaurant",
    "japanese_restaurant",
+   "korean_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "博多"
@@ -1174,8 +1126,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "博多"
@@ -1194,16 +1146,16 @@
   },
   "types": [
    "yakiniku_restaurant",
-   "japanese_izakaya_restaurant",
    "banquet_hall",
+   "japanese_izakaya_restaurant",
    "steak_house",
    "korean_barbecue_restaurant",
+   "japanese_restaurant",
    "korean_restaurant",
    "event_venue",
-   "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -1224,8 +1176,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -1246,11 +1198,11 @@
    "yakiniku_restaurant",
    "japanese_izakaya_restaurant",
    "korean_barbecue_restaurant",
-   "korean_restaurant",
    "japanese_restaurant",
+   "korean_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "博多"
@@ -1272,8 +1224,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "薬院"
@@ -1294,8 +1246,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "博多"
@@ -1316,8 +1268,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -1726,14 +1678,14 @@
   },
   "types": [
    "cafe",
-   "brunch_restaurant",
-   "breakfast_restaurant",
    "coffee_shop",
+   "breakfast_restaurant",
+   "brunch_restaurant",
    "food_store",
    "store",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "博多"
@@ -1869,8 +1821,8 @@
    "food_store",
    "store",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "博多"
@@ -1891,12 +1843,12 @@
    "coffee_shop",
    "brunch_restaurant",
    "cafe",
-   "dessert_restaurant",
    "food_store",
+   "dessert_restaurant",
    "store",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "天神"
@@ -1918,8 +1870,8 @@
    "cafe",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "天神"
@@ -1964,8 +1916,8 @@
    "cafe",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -2068,8 +2020,8 @@
    "confectionery",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "博多"
@@ -2088,8 +2040,8 @@
   },
   "types": [
    "cafe",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "博多"
@@ -2108,15 +2060,15 @@
   },
   "types": [
    "pastry_shop",
-   "bakery",
    "meal_takeaway",
+   "bakery",
    "dessert_shop",
    "confectionery",
    "food_store",
    "store",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "百道"
@@ -2139,8 +2091,8 @@
    "confectionery",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "博多"
@@ -2162,8 +2114,8 @@
    "confectionery",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "博多"
@@ -2182,8 +2134,8 @@
   },
   "types": [
    "cafe",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "博多"
@@ -2206,13 +2158,13 @@
    "bakery",
    "dessert_shop",
    "confectionery",
-   "food_store",
-   "manufacturer",
-   "store",
    "wholesaler",
+   "manufacturer",
+   "food_store",
+   "store",
    "service",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "博多"
@@ -2236,8 +2188,8 @@
    "food_store",
    "store",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "博多"
@@ -2256,14 +2208,14 @@
   },
   "types": [
    "gift_shop",
-   "japanese_restaurant",
    "dessert_shop",
    "confectionery",
+   "japanese_restaurant",
    "food_store",
    "store",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "博多"
@@ -2284,36 +2236,11 @@
    "confectionery",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "博多"
- },
- "3014829751132556256": {
-  "place_id": "ChIJkQR6uTORQTUR4AuJdq_T1ik",
-  "name": "カヌレ ルクレール",
-  "address": "日本、〒812-0012 福岡県福岡市博多区博多駅中央街１−１",
-  "rating": 4.1,
-  "userRatingCount": 221,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=3014829751132556256&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.5904458,
-   "longitude": 130.4208694
-  },
-  "types": [
-   "pastry_shop",
-   "bakery",
-   "dessert_shop",
-   "confectionery",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "百道"
  },
  "2979580775563942249": {
   "place_id": "ChIJsb6CnimRQTURaVkSy-2YWSk",
@@ -2332,8 +2259,8 @@
    "confectionery",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "博多"
@@ -2357,8 +2284,8 @@
    "confectionery",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "博多"
@@ -2379,8 +2306,8 @@
    "bakery",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "博多"
@@ -2400,13 +2327,13 @@
   "types": [
    "cafe",
    "coffee_shop",
-   "dessert_restaurant",
    "meal_takeaway",
+   "dessert_restaurant",
    "food_store",
    "store",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "博多"
@@ -2427,11 +2354,36 @@
    "confectionery",
    "food_store",
    "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "博多"
+ },
+ "3014829751132556256": {
+  "place_id": "ChIJkQR6uTORQTUR4AuJdq_T1ik",
+  "name": "カヌレ ルクレール",
+  "address": "日本、〒812-0012 福岡県福岡市博多区博多駅中央街１−１",
+  "rating": 4.1,
+  "userRatingCount": 221,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=3014829751132556256&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.5904458,
+   "longitude": 130.4208694
+  },
+  "types": [
+   "pastry_shop",
+   "bakery",
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
    "point_of_interest",
    "food",
    "establishment"
   ],
-  "area_label": "博多"
+  "area_label": "百道"
  },
  "6096856771968774471": {
   "place_id": "ChIJBVmI6seRQTURRzGie-5inFQ",
@@ -2449,8 +2401,8 @@
    "yakitori_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "博多"
@@ -2469,12 +2421,12 @@
   },
   "types": [
    "yakitori_restaurant",
-   "japanese_izakaya_restaurant",
    "hot_pot_restaurant",
+   "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "博多"
@@ -2497,8 +2449,8 @@
    "chicken_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "博多"
@@ -2517,13 +2469,13 @@
   },
   "types": [
    "japanese_izakaya_restaurant",
-   "yakiniku_restaurant",
-   "yakitori_restaurant",
    "chicken_restaurant",
+   "yakitori_restaurant",
+   "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "博多"
@@ -2542,13 +2494,13 @@
   },
   "types": [
    "japanese_izakaya_restaurant",
-   "yakiniku_restaurant",
-   "yakitori_restaurant",
    "chicken_restaurant",
+   "yakitori_restaurant",
+   "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "博多"
@@ -2567,13 +2519,13 @@
   },
   "types": [
    "japanese_izakaya_restaurant",
-   "yakiniku_restaurant",
-   "yakitori_restaurant",
    "chicken_restaurant",
+   "yakitori_restaurant",
+   "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "博多"
@@ -2598,8 +2550,8 @@
    "meal_takeaway",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "博多"
@@ -2620,8 +2572,8 @@
    "yakitori_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -2643,8 +2595,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -2663,14 +2615,14 @@
   },
   "types": [
    "yakitori_restaurant",
-   "japanese_izakaya_restaurant",
    "banquet_hall",
+   "japanese_izakaya_restaurant",
    "seafood_restaurant",
-   "event_venue",
    "japanese_restaurant",
+   "event_venue",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -2693,8 +2645,8 @@
    "chicken_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "博多"
@@ -2716,8 +2668,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "博多"
@@ -2737,8 +2689,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "天神"
@@ -2758,11 +2710,11 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
-  "area_label": "薬院"
+  "area_label": "大名"
  },
  "17175338040109247455": {
   "place_id": "ChIJY3Su9WuRQTUR3yv32fIOW-4",
@@ -2779,8 +2731,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -2801,8 +2753,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -2822,8 +2774,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -2864,8 +2816,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -2885,8 +2837,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "薬院"
@@ -3118,8 +3070,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "薬院"
@@ -3161,8 +3113,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "薬院"
@@ -3182,8 +3134,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "薬院"
@@ -3224,8 +3176,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "薬院"
@@ -3246,23 +3198,23 @@
    "meal_takeaway",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "薬院"
  },
- "15499953752796295670": {
-  "place_id": "ChIJzSUQOL2RQTUR9vFn3tDlGtc",
-  "name": "博多もつ鍋 楽天地 博多駅前店",
-  "address": "日本、〒812-0011 福岡県福岡市博多区博多駅前３丁目２０−５ 寿ビル",
+ "7778947596219488076": {
+  "place_id": "ChIJqcBG7Y6RQTURTJcKx59f9Gs",
+  "name": "もつ鍋専門店 博多もつ鍋もつ焼き楽天地 4階離れ ヨドバシ博多駅店",
+  "address": "日本、〒812-0012 福岡県福岡市博多区博多駅中央街６−１２ ヨドバシカメラマルチメディア博多 ４階",
   "rating": 4.8,
-  "userRatingCount": 24291,
+  "userRatingCount": 11935,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=15499953752796295670&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=7778947596219488076&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 33.5888011,
-   "longitude": 130.415981
+   "latitude": 33.5879076,
+   "longitude": 130.4215863
   },
   "types": [
    "japanese_izakaya_restaurant",
@@ -3298,17 +3250,17 @@
   ],
   "area_label": "博多"
  },
- "7778947596219488076": {
-  "place_id": "ChIJqcBG7Y6RQTURTJcKx59f9Gs",
-  "name": "もつ鍋専門店 博多もつ鍋もつ焼き楽天地 4階離れ ヨドバシ博多駅店",
-  "address": "日本、〒812-0012 福岡県福岡市博多区博多駅中央街６−１２ ヨドバシカメラマルチメディア博多 ４階",
+ "15499953752796295670": {
+  "place_id": "ChIJzSUQOL2RQTUR9vFn3tDlGtc",
+  "name": "博多もつ鍋 楽天地 博多駅前店",
+  "address": "日本、〒812-0011 福岡県福岡市博多区博多駅前３丁目２０−５ 寿ビル",
   "rating": 4.8,
-  "userRatingCount": 11935,
+  "userRatingCount": 24291,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=7778947596219488076&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=15499953752796295670&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 33.5879076,
-   "longitude": 130.4215863
+   "latitude": 33.5888011,
+   "longitude": 130.415981
   },
   "types": [
    "japanese_izakaya_restaurant",
@@ -3317,6 +3269,68 @@
    "meal_takeaway",
    "food_delivery",
    "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "博多"
+ },
+ "13982062886264028619": {
+  "place_id": "ChIJPag14R2RQTURy73wah1ECsI",
+  "name": "博多もつ鍋 おおやま 博多1番街店",
+  "address": "日本、〒812-0012 福岡県福岡市博多区博多駅中央街１−１ JR博多シティ B１F",
+  "rating": 4.2,
+  "userRatingCount": 988,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=13982062886264028619&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.5903543,
+   "longitude": 130.4198638
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "博多"
+ },
+ "8527420890669997766": {
+  "place_id": "ChIJM4QStLORQTURxl6hrh58V3Y",
+  "name": "博多もつ鍋 カフェ 楽天地 中洲キャナル前店",
+  "address": "日本、〒812-0038 福岡県福岡市博多区祇園町８−３３ シーサーパーキング 1階-C",
+  "rating": 4.9,
+  "userRatingCount": 1811,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=8527420890669997766&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.59073490000001,
+   "longitude": 130.41115059999998
+  },
+  "types": [
+   "cafe",
+   "buffet_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "中洲"
+ },
+ "15727058165972822859": {
+  "place_id": "ChIJR1LW7_6RQTURS2u3kBO8Qdo",
+  "name": "博多もつ鍋 おおやま 博多デイトス店",
+  "address": "日本、〒812-0012 福岡県福岡市博多区博多駅中央街１−１ 博多デイトス 地下1F",
+  "rating": 4.4,
+  "userRatingCount": 665,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=15727058165972822859&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.5908784,
+   "longitude": 130.4216258
+  },
+  "types": [
    "restaurant",
    "food",
    "point_of_interest",
@@ -3351,26 +3365,6 @@
   ],
   "area_label": "博多"
  },
- "14020168797997069110": {
-  "place_id": "ChIJZUMnt8eRQTURNnOhXz2lkcI",
-  "name": "もつ鍋 田しゅう 博多",
-  "address": "日本、〒812-0012 福岡県福岡市博多区博多駅中央街２−１ 博多バスターミナル 1F",
-  "rating": 4.6,
-  "userRatingCount": 1849,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=14020168797997069110&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.591477399999995,
-   "longitude": 130.4194046
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "博多"
- },
  "5958543089105966311": {
   "place_id": "ChIJYfq2r7iRQTUR5xQFrV7_sFI",
   "name": "もつ鍋 一藤 博多店",
@@ -3382,6 +3376,26 @@
   "location": {
    "latitude": 33.590323399999996,
    "longitude": 130.416589
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "博多"
+ },
+ "14020168797997069110": {
+  "place_id": "ChIJZUMnt8eRQTURNnOhXz2lkcI",
+  "name": "もつ鍋 田しゅう 博多",
+  "address": "日本、〒812-0012 福岡県福岡市博多区博多駅中央街２−１ 博多バスターミナル 1F",
+  "rating": 4.6,
+  "userRatingCount": 1849,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=14020168797997069110&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.591477399999995,
+   "longitude": 130.4194046
   },
   "types": [
    "restaurant",
@@ -3411,19 +3425,26 @@
   ],
   "area_label": "博多"
  },
- "15727058165972822859": {
-  "place_id": "ChIJR1LW7_6RQTURS2u3kBO8Qdo",
-  "name": "博多もつ鍋 おおやま 博多デイトス店",
-  "address": "日本、〒812-0012 福岡県福岡市博多区博多駅中央街１−１ 博多デイトス 地下1F",
-  "rating": 4.4,
-  "userRatingCount": 665,
+ "14090410130192157493": {
+  "place_id": "ChIJSzh4HZqRQTURNUur9Vsxi8M",
+  "name": "博多もつ鍋 いちたか 博多駅前通り店",
+  "address": "日本、〒812-0038 福岡県福岡市博多区祇園町８−１３ 第一プリンスビル ２階",
+  "rating": 4.7,
+  "userRatingCount": 818,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=15727058165972822859&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=14090410130192157493&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 33.5908784,
-   "longitude": 130.4216258
+   "latitude": 33.5912933,
+   "longitude": 130.4113705
   },
   "types": [
+   "japanese_izakaya_restaurant",
+   "hot_pot_restaurant",
+   "asian_grocery_store",
+   "grocery_store",
+   "food_store",
+   "japanese_restaurant",
+   "store",
    "restaurant",
    "food",
    "point_of_interest",
@@ -3431,66 +3452,28 @@
   ],
   "area_label": "博多"
  },
- "18198862724559790209": {
-  "place_id": "ChIJuY5BZLiRQTURgeB77TlZj_w",
-  "name": "博多もつ鍋一慶 JRJP博多ビル店",
-  "address": "日本、〒812-0012 福岡県福岡市博多区博多駅中央街８−１ 地下１階",
-  "rating": 4,
-  "userRatingCount": 546,
+ "10177576789562551086": {
+  "place_id": "ChIJ___8H46RQTURLusiwCoEPo0",
+  "name": "元祖 もつ鍋 楽天地 天神 本店",
+  "address": "日本、〒810-0001 福岡県福岡市中央区天神１丁目１−１ アクロス福岡 地下2階",
+  "rating": 4.7,
+  "userRatingCount": 22082,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=18198862724559790209&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=10177576789562551086&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 33.588218399999995,
-   "longitude": 130.41907799999998
+   "latitude": 33.5919086,
+   "longitude": 130.40261329999998
   },
   "types": [
    "japanese_izakaya_restaurant",
+   "hot_pot_restaurant",
+   "meal_delivery",
+   "meal_takeaway",
+   "food_delivery",
    "japanese_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "博多"
- },
- "8527420890669997766": {
-  "place_id": "ChIJM4QStLORQTURxl6hrh58V3Y",
-  "name": "博多もつ鍋 カフェ 楽天地 中洲キャナル前店",
-  "address": "日本、〒812-0038 福岡県福岡市博多区祇園町８−３３ シーサーパーキング 1階-C",
-  "rating": 4.9,
-  "userRatingCount": 1811,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=8527420890669997766&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.59073490000001,
-   "longitude": 130.41115059999998
-  },
-  "types": [
-   "cafe",
-   "buffet_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "中洲"
- },
- "10946781410584731017": {
-  "place_id": "ChIJaRMgauqRQTURiZ3Aw7HH6pc",
-  "name": "博多もつ鍋 おおやま 本店",
-  "address": "日本、〒812-0025 福岡県福岡市博多区店屋町７−２８",
-  "rating": 4.5,
-  "userRatingCount": 2991,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=10946781410584731017&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.596672399999996,
-   "longitude": 130.4097118
-  },
-  "types": [
-   "restaurant",
-   "point_of_interest",
-   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -3521,70 +3504,42 @@
   ],
   "area_label": "博多"
  },
- "3313114713214011479": {
-  "place_id": "ChIJj6VmeZSRQTURV8g9LUeM-i0",
-  "name": "博多もつ鍋 安明（あんめい）",
-  "address": "日本、〒812-0018 福岡県福岡市博多区住吉２丁目１５−３３",
-  "rating": 4.7,
-  "userRatingCount": 794,
+ "10946781410584731017": {
+  "place_id": "ChIJaRMgauqRQTURiZ3Aw7HH6pc",
+  "name": "博多もつ鍋 おおやま 本店",
+  "address": "日本、〒812-0025 福岡県福岡市博多区店屋町７−２８",
+  "rating": 4.5,
+  "userRatingCount": 2991,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=3313114713214011479&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=10946781410584731017&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 33.5879142,
-   "longitude": 130.4119716
+   "latitude": 33.596672399999996,
+   "longitude": 130.4097118
   },
   "types": [
-   "japanese_izakaya_restaurant",
-   "hot_pot_restaurant",
-   "seafood_restaurant",
-   "japanese_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "博多"
+  "area_label": "中洲"
  },
- "15612670545824113259": {
-  "place_id": "ChIJzW_S6b6RQTURa-IMVyRZq9g",
-  "name": "もつ鍋ながまさ博多本店",
-  "address": "日本、〒812-0011 福岡県福岡市博多区博多駅前３丁目１８−８ ブルグ博多駅前-1F 北",
-  "rating": 4.6,
-  "userRatingCount": 1043,
+ "18198862724559790209": {
+  "place_id": "ChIJuY5BZLiRQTURgeB77TlZj_w",
+  "name": "博多もつ鍋一慶 JRJP博多ビル店",
+  "address": "日本、〒812-0012 福岡県福岡市博多区博多駅中央街８−１ 地下１階",
+  "rating": 4,
+  "userRatingCount": 546,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=15612670545824113259&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=18198862724559790209&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 33.5885137,
-   "longitude": 130.4147695
+   "latitude": 33.588218399999995,
+   "longitude": 130.41907799999998
   },
   "types": [
    "japanese_izakaya_restaurant",
-   "hot_pot_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "博多"
- },
- "18075760330551842592": {
-  "place_id": "ChIJ7dW6MJGRQTURINejS0AA2vo",
-  "name": "博多もつ鍋やま中 博多店",
-  "address": "日本、〒812-0013 福岡県福岡市博多区博多駅東２丁目４−６ ハカタベビル ２階",
-  "rating": 4.4,
-  "userRatingCount": 641,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=18075760330551842592&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.5887907,
-   "longitude": 130.4236257
-  },
-  "types": [
-   "restaurant",
-   "japanese_izakaya_restaurant",
-   "hot_pot_restaurant",
-   "japanese_restaurant",
    "food",
    "point_of_interest",
    "establishment"
@@ -3607,8 +3562,8 @@
    "chicken_restaurant",
    "hot_pot_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -3629,8 +3584,8 @@
    "japanese_restaurant",
    "japanese_izakaya_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "博多"
@@ -3651,8 +3606,8 @@
    "hot_pot_restaurant",
    "chicken_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -3674,8 +3629,8 @@
    "chicken_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "博多"
@@ -3698,8 +3653,8 @@
    "chicken_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "博多"
@@ -3720,8 +3675,8 @@
    "hot_pot_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -3743,8 +3698,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -3767,8 +3722,8 @@
    "chicken_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "博多"
@@ -3787,12 +3742,12 @@
   },
   "types": [
    "chicken_restaurant",
-   "hot_pot_restaurant",
    "japanese_izakaya_restaurant",
+   "hot_pot_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "博多"
@@ -3812,8 +3767,8 @@
   "types": [
    "hot_pot_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -3834,8 +3789,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -3857,8 +3812,8 @@
    "chicken_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "博多"
@@ -3878,8 +3833,8 @@
   "types": [
    "hot_pot_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -3900,8 +3855,8 @@
    "hot_pot_restaurant",
    "chicken_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "博多"
@@ -3923,8 +3878,8 @@
    "chicken_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "博多"
@@ -3943,13 +3898,13 @@
   },
   "types": [
    "chicken_restaurant",
-   "japanese_izakaya_restaurant",
    "banquet_hall",
-   "event_venue",
+   "japanese_izakaya_restaurant",
    "japanese_restaurant",
+   "event_venue",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -4228,6 +4183,25 @@
   ],
   "area_label": "薬院"
  },
+ "11987662105208201261": {
+  "place_id": "ChIJz9-VcEuRQTURLaBY3Cu7XKY",
+  "name": "博多旧市街エリア",
+  "address": "日本、〒812-0011 福岡県福岡市博多区博多駅前１丁目７",
+  "rating": 4.3,
+  "userRatingCount": 207,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=11987662105208201261&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.5950481,
+   "longitude": 130.41642439999998
+  },
+  "types": [
+   "tourist_attraction",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "博多"
+ },
  "15633986162349195200": {
   "place_id": "ChIJa2avE8GRQTURwD8yDpUT99g",
   "name": "東長寺",
@@ -4325,25 +4299,6 @@
   "location": {
    "latitude": 33.5897402,
    "longitude": 130.4109402
-  },
-  "types": [
-   "tourist_attraction",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "博多"
- },
- "11987662105208201261": {
-  "place_id": "ChIJz9-VcEuRQTURLaBY3Cu7XKY",
-  "name": "博多旧市街エリア",
-  "address": "日本、〒812-0011 福岡県福岡市博多区博多駅前１丁目７",
-  "rating": 4.3,
-  "userRatingCount": 207,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=11987662105208201261&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.5950481,
-   "longitude": 130.41642439999998
   },
   "types": [
    "tourist_attraction",
@@ -4451,25 +4406,6 @@
   ],
   "area_label": "博多"
  },
- "6064470157016905212": {
-  "place_id": "ChIJQfBI8pSRQTUR_DXzE3pTKVQ",
-  "name": "中洲 歓楽街",
-  "address": "日本、〒810-0801 福岡県福岡市博多区中洲３丁目２",
-  "rating": 4.2,
-  "userRatingCount": 63,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=6064470157016905212&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.5925116,
-   "longitude": 130.4072812
-  },
-  "types": [
-   "tourist_attraction",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "薬院"
- },
  "1353508457548761201": {
   "place_id": "ChIJTc06SryRQTURcUiuXMWgyBI",
   "name": "住吉神社",
@@ -4487,6 +4423,27 @@
    "tourist_attraction",
    "place_of_worship",
    "association_or_organization",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "博多"
+ },
+ "13916042039097259051": {
+  "place_id": "ChIJi2cC3pWRQTURK3TLE4G2H8E",
+  "name": "博多町家寄進高灯篭",
+  "address": "日本、〒810-0801 福岡県福岡市博多区住吉１丁目４−８",
+  "rating": 4,
+  "userRatingCount": 97,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=13916042039097259051&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.5890582,
+   "longitude": 130.4095977
+  },
+  "types": [
+   "historical_landmark",
+   "tourist_attraction",
+   "historical_place",
    "point_of_interest",
    "establishment"
   ],
@@ -4741,14 +4698,14 @@
   "types": [
    "shopping_mall",
    "cafe",
-   "clothing_store",
    "home_goods_store",
-   "sports_activity_location",
+   "clothing_store",
    "store",
-   "restaurant",
-   "food",
-   "point_of_interest",
+   "sports_activity_location",
    "service",
+   "restaurant",
+   "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "大名"
@@ -4834,8 +4791,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "天神"
@@ -4862,32 +4819,6 @@
   ],
   "area_label": "天神"
  },
- "10177576789562551086": {
-  "place_id": "ChIJ___8H46RQTURLusiwCoEPo0",
-  "name": "元祖 もつ鍋 楽天地 天神 本店",
-  "address": "日本、〒810-0001 福岡県福岡市中央区天神１丁目１−１ アクロス福岡 地下2階",
-  "rating": 4.7,
-  "userRatingCount": 22082,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=10177576789562551086&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.5919086,
-   "longitude": 130.40261329999998
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "japanese_izakaya_restaurant",
-   "meal_takeaway",
-   "meal_delivery",
-   "food_delivery",
-   "japanese_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "中洲"
- },
  "2217577324741115024": {
   "place_id": "ChIJk_92eaCRQTURkLwn39Nqxh4",
   "name": "和牛一頭焼肉 房家 福岡ワンビル店",
@@ -4904,11 +4835,11 @@
    "yakiniku_restaurant",
    "japanese_izakaya_restaurant",
    "korean_barbecue_restaurant",
-   "japanese_restaurant",
    "korean_restaurant",
+   "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "天神"
@@ -4918,7 +4849,7 @@
   "name": "牛かつもと村 福岡天神西通り店",
   "address": "日本、〒810-0041 福岡県福岡市中央区大名１丁目１４−５",
   "rating": 4.8,
-  "userRatingCount": 13893,
+  "userRatingCount": 13894,
   "priceLevel": "PRICE_LEVEL_MODERATE",
   "googleMapsUri": "https://maps.google.com/?cid=1811178168326031592&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
@@ -4995,8 +4926,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "天神"
@@ -5107,8 +5038,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "天神"
@@ -5154,8 +5085,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "天神"
@@ -5175,8 +5106,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "天神"
@@ -5198,8 +5129,53 @@
    "noodle_shop",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "天神"
+ },
+ "17221783609492668209": {
+  "place_id": "ChIJixx_lCGRQTURMX90qvIQAO8",
+  "name": "博多らーめんShinShin 福岡PARCO店",
+  "address": "日本、〒810-0001 福岡県福岡市中央区天神２丁目１１−１ 福岡PARCO本館 B1",
+  "rating": 4.3,
+  "userRatingCount": 1177,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=17221783609492668209&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.590874,
+   "longitude": 130.39855
+  },
+  "types": [
+   "ramen_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "天神"
+ },
+ "12285443927923850002": {
+  "place_id": "ChIJ3xiXK8SRQTUREnvhTymqfqo",
+  "name": "麺や兼虎 福岡PARCO店",
+  "address": "日本、〒810-0001 福岡県福岡市中央区天神２丁目１１−１ 福岡PARCO本館 B1F",
+  "rating": 4.3,
+  "userRatingCount": 691,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=12285443927923850002&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.590742299999995,
+   "longitude": 130.3986649
+  },
+  "types": [
+   "ramen_restaurant",
+   "noodle_shop",
+   "japanese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "天神"
@@ -5227,17 +5203,17 @@
   ],
   "area_label": "大名"
  },
- "17221783609492668209": {
-  "place_id": "ChIJixx_lCGRQTURMX90qvIQAO8",
-  "name": "博多らーめんShinShin 福岡PARCO店",
-  "address": "日本、〒810-0001 福岡県福岡市中央区天神２丁目１１−１ 福岡PARCO本館 B1",
-  "rating": 4.3,
-  "userRatingCount": 1177,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=17221783609492668209&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "14676902590179524907": {
+  "place_id": "ChIJLfIi_IWRQTURK0Gp6iTVrss",
+  "name": "元祖 赤のれん 節ちゃんラーメン 本店",
+  "address": "日本、〒810-0041 福岡県福岡市中央区大名２丁目６−４ プラスゲート天神 1Ｆ",
+  "rating": 4.1,
+  "userRatingCount": 2807,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=14676902590179524907&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 33.590874,
-   "longitude": 130.39855
+   "latitude": 33.589182099999995,
+   "longitude": 130.3957931
   },
   "types": [
    "ramen_restaurant",
@@ -5247,27 +5223,26 @@
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "天神"
+  "area_label": "大名"
  },
- "12285443927923850002": {
-  "place_id": "ChIJ3xiXK8SRQTUREnvhTymqfqo",
-  "name": "麺や兼虎 福岡PARCO店",
-  "address": "日本、〒810-0001 福岡県福岡市中央区天神２丁目１１−１ 福岡PARCO本館 B1F",
-  "rating": 4.3,
-  "userRatingCount": 691,
+ "9175139054263349506": {
+  "place_id": "ChIJadeaHQCRQTURAjEunlukVH8",
+  "name": "麺屋 優光 福岡天神店",
+  "address": "日本、〒810-0021 福岡県福岡市中央区今泉１丁目２０−２１ 天神KPビル １階",
+  "rating": 4.2,
+  "userRatingCount": 220,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=12285443927923850002&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=9175139054263349506&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 33.590742299999995,
-   "longitude": 130.3986649
+   "latitude": 33.5865517,
+   "longitude": 130.3984252
   },
   "types": [
    "ramen_restaurant",
-   "noodle_shop",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "天神"
@@ -5288,11 +5263,11 @@
    "ramen_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
-  "area_label": "大名"
+  "area_label": "天神"
  },
  "17608571919461280924": {
   "place_id": "ChIJAx9o8iyRQTURnGxo1d02XvQ",
@@ -5310,26 +5285,51 @@
    "ramen_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "天神"
  },
- "14676902590179524907": {
-  "place_id": "ChIJLfIi_IWRQTURK0Gp6iTVrss",
-  "name": "元祖 赤のれん 節ちゃんラーメン 本店",
-  "address": "日本、〒810-0041 福岡県福岡市中央区大名２丁目６−４ プラスゲート天神 1Ｆ",
-  "rating": 4.1,
-  "userRatingCount": 2807,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=14676902590179524907&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "8482334052289930925": {
+  "place_id": "ChIJYWEnUoWRQTURrebwFOFNt3U",
+  "name": "大砲ラーメン 天神今泉店",
+  "address": "日本、〒810-0021 福岡県福岡市中央区今泉１丁目２３−８",
+  "rating": 4,
+  "userRatingCount": 2794,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=8482334052289930925&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 33.589182099999995,
-   "longitude": 130.3957931
+   "latitude": 33.587238299999996,
+   "longitude": 130.4003656
   },
   "types": [
    "ramen_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "天神"
+ },
+ "6570948651014743187": {
+  "place_id": "ChIJMY-U-oWRQTURk-QQ1fuyMFs",
+  "name": "一蘭 天神西通り店",
+  "address": "日本、〒810-0041 福岡県福岡市中央区大名２丁目１−５７",
+  "rating": 4.1,
+  "userRatingCount": 3763,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=6570948651014743187&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.588915199999995,
+   "longitude": 130.3961798
+  },
+  "types": [
+   "ramen_restaurant",
+   "noodle_shop",
+   "snack_bar",
+   "meal_takeaway",
    "japanese_restaurant",
    "restaurant",
    "food",
@@ -5354,30 +5354,30 @@
    "ramen_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "天神"
  },
- "9175139054263349506": {
-  "place_id": "ChIJadeaHQCRQTURAjEunlukVH8",
-  "name": "麺屋 優光 福岡天神店",
-  "address": "日本、〒810-0021 福岡県福岡市中央区今泉１丁目２０−２１ 天神KPビル １階",
-  "rating": 4.2,
-  "userRatingCount": 220,
+ "3588437947322497805": {
+  "place_id": "ChIJqRRdrY-RQTURDXuw_EyxzDE",
+  "name": "博多担々麺 とり田 福岡PARCO店",
+  "address": "日本、〒810-0001 福岡県福岡市中央区天神２丁目１１−１ 福岡パルコ本館 B1",
+  "rating": 4.1,
+  "userRatingCount": 520,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=9175139054263349506&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=3588437947322497805&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 33.5865517,
-   "longitude": 130.3984252
+   "latitude": 33.5906382,
+   "longitude": 130.3987379
   },
   "types": [
    "ramen_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "天神"
@@ -5399,96 +5399,28 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "天神"
  },
- "2074204726871553574": {
-  "place_id": "ChIJkaEQeACRQTURJnadoDUOyRw",
-  "name": "長浜ナンバーワン天神うまか横丁店",
-  "address": "日本、〒810-0021 福岡県福岡市中央区今泉１丁目１２−２３ 2F",
-  "rating": 4.4,
-  "userRatingCount": 117,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=2074204726871553574&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.587013999999996,
-   "longitude": 130.4007418
-  },
-  "types": [
-   "ramen_restaurant",
-   "chinese_noodle_restaurant",
-   "noodle_shop",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "天神"
- },
- "8210582181085458595": {
-  "place_id": "ChIJs46ojsiRQTURozDA_v3Y8XE",
-  "name": "名島亭 ソラリアステージ店",
-  "address": "日本、〒810-0001 福岡県福岡市中央区天神２丁目１１−３ SOLARIA STAGE 専門店街 B2F",
-  "rating": 4,
-  "userRatingCount": 21,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=8210582181085458595&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.5900764,
-   "longitude": 130.3990067
-  },
-  "types": [
-   "ramen_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "天神"
- },
- "12700724872355130356": {
-  "place_id": "ChIJX7dGbk6RQTUR9Cuy5voJQrA",
-  "name": "中華酒場 博多黒白（こくはく）天神春吉本店",
-  "address": "日本、〒810-0003 福岡県福岡市中央区春吉３丁目２２−２３ 2 RAN TERRACE 階C",
+ "4245062791991075319": {
+  "place_id": "ChIJ75v7hYaRQTUR9yHbNR5-6To",
+  "name": "三味(333) 天神大名本店",
+  "address": "日本、〒810-0041 福岡県福岡市中央区大名１丁目１１−２７ イルモンド大名TWO 1F",
   "rating": 4.5,
-  "userRatingCount": 39,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=12700724872355130356&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.5891543,
-   "longitude": 130.4051523
-  },
-  "types": [
-   "japanese_izakaya_restaurant",
-   "ramen_restaurant",
-   "chinese_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "天神"
- },
- "768492725730724373": {
-  "place_id": "ChIJJSbuYdORQTURFcqm-Q88qgo",
-  "name": "元祖トマトラーメンと辛麺 三味(333) 天神大名中心店",
-  "address": "日本、〒810-0041 福岡県福岡市中央区大名１丁目１２−５８ パサージュビル 2F",
-  "rating": 4.6,
-  "userRatingCount": 2985,
+  "userRatingCount": 3756,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=768492725730724373&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=4245062791991075319&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 33.5884207,
-   "longitude": 130.39626289999998
+   "latitude": 33.58724840000001,
+   "longitude": 130.394892
   },
   "types": [
    "ramen_restaurant",
+   "italian_restaurant",
+   "european_restaurant",
    "japanese_restaurant",
    "restaurant",
    "food",
@@ -5513,8 +5445,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "天神"
@@ -5535,8 +5467,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "天神"
@@ -5579,8 +5511,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "天神"
@@ -5602,8 +5534,8 @@
    "yakitori_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "天神"
@@ -5624,8 +5556,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "天神"
@@ -5646,8 +5578,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "天神"
@@ -5692,8 +5624,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "天神"
@@ -5716,8 +5648,8 @@
    "seafood_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "天神"
@@ -5739,8 +5671,8 @@
    "hot_pot_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "天神"
@@ -5761,8 +5693,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "天神"
@@ -5784,8 +5716,8 @@
    "yakitori_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "天神"
@@ -5806,13 +5738,13 @@
    "japanese_izakaya_restaurant",
    "hot_pot_restaurant",
    "banquet_hall",
-   "chicken_restaurant",
    "seafood_restaurant",
-   "event_venue",
+   "chicken_restaurant",
    "japanese_restaurant",
+   "event_venue",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "天神"
@@ -5833,8 +5765,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "天神"
@@ -5854,11 +5786,11 @@
   "types": [
    "yakiniku_restaurant",
    "korean_barbecue_restaurant",
-   "japanese_restaurant",
    "korean_restaurant",
+   "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "天神"
@@ -5879,15 +5811,15 @@
    "yakiniku_restaurant",
    "butcher_shop",
    "korean_barbecue_restaurant",
-   "japanese_restaurant",
    "korean_restaurant",
-   "food_store",
    "manufacturer",
+   "food_store",
+   "japanese_restaurant",
    "store",
-   "service",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
+   "service",
    "establishment"
   ],
   "area_label": "天神"
@@ -5908,8 +5840,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "天神"
@@ -5930,11 +5862,11 @@
    "yakiniku_restaurant",
    "japanese_izakaya_restaurant",
    "korean_barbecue_restaurant",
-   "japanese_restaurant",
    "korean_restaurant",
+   "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "天神"
@@ -5956,8 +5888,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "薬院"
@@ -5975,12 +5907,12 @@
    "longitude": 130.3990307
   },
   "types": [
-   "japanese_izakaya_restaurant",
    "yakiniku_restaurant",
+   "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "天神"
@@ -5999,19 +5931,19 @@
   },
   "types": [
    "yakiniku_restaurant",
-   "butcher_shop",
    "japanese_izakaya_restaurant",
+   "butcher_shop",
    "steak_house",
    "korean_barbecue_restaurant",
-   "japanese_restaurant",
    "korean_restaurant",
-   "food_store",
    "manufacturer",
+   "food_store",
+   "japanese_restaurant",
    "store",
-   "service",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
+   "service",
    "establishment"
   ],
   "area_label": "天神"
@@ -6030,20 +5962,20 @@
   },
   "types": [
    "yakiniku_restaurant",
-   "butcher_shop",
    "japanese_izakaya_restaurant",
+   "butcher_shop",
    "snack_bar",
-   "meal_takeaway",
    "bar_and_grill",
-   "japanese_restaurant",
+   "meal_takeaway",
    "bar",
-   "food_store",
    "manufacturer",
+   "food_store",
+   "japanese_restaurant",
    "store",
-   "service",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
+   "service",
    "establishment"
   ],
   "area_label": "大名"
@@ -6064,8 +5996,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -6086,8 +6018,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "天神"
@@ -6110,8 +6042,8 @@
    "steak_house",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "天神"
@@ -6130,12 +6062,12 @@
   },
   "types": [
    "yakiniku_restaurant",
-   "dessert_restaurant",
    "buffet_restaurant",
    "japanese_restaurant",
+   "dessert_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "天神"
@@ -6225,8 +6157,8 @@
    "sushi_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "天神"
@@ -6478,8 +6410,8 @@
   },
   "types": [
    "cafe",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "天神"
@@ -6501,8 +6433,8 @@
    "cafe",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "天神"
@@ -6524,8 +6456,8 @@
    "cafe",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "天神"
@@ -6544,8 +6476,8 @@
   },
   "types": [
    "cafe",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -6567,8 +6499,8 @@
    "cafe",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "天神"
@@ -6591,8 +6523,8 @@
    "australian_restaurant",
    "bar",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "薬院"
@@ -6611,8 +6543,8 @@
   },
   "types": [
    "cafe",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "天神"
@@ -6636,8 +6568,8 @@
    "food_store",
    "store",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "天神"
@@ -6656,8 +6588,8 @@
   },
   "types": [
    "cafe",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "天神"
@@ -6676,12 +6608,12 @@
   },
   "types": [
    "cafe",
-   "coffee_stand",
    "coffee_shop",
+   "coffee_stand",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "天神"
@@ -6703,8 +6635,8 @@
    "coffee_shop",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "天神"
@@ -6726,8 +6658,8 @@
    "book_store",
    "store",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "天神"
@@ -6750,8 +6682,8 @@
    "tea_house",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "天神"
@@ -6770,8 +6702,8 @@
   },
   "types": [
    "cafe",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "天神"
@@ -6790,19 +6722,19 @@
   },
   "types": [
    "cake_shop",
+   "dessert_restaurant",
    "pastry_shop",
    "bakery",
    "dessert_shop",
    "confectionery",
-   "wholesaler",
-   "manufacturer",
    "food_store",
-   "dessert_restaurant",
+   "manufacturer",
    "store",
-   "restaurant",
-   "food",
-   "point_of_interest",
+   "wholesaler",
    "service",
+   "restaurant",
+   "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "百道"
@@ -6845,12 +6777,12 @@
    "cafe",
    "french_restaurant",
    "ice_cream_shop",
+   "dessert_restaurant",
    "dessert_shop",
    "confectionery",
-   "european_restaurant",
    "food_store",
-   "dessert_restaurant",
    "store",
+   "european_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -6946,21 +6878,21 @@
   },
   "types": [
    "dessert_restaurant",
-   "pastry_shop",
    "cake_shop",
+   "pastry_shop",
    "gift_shop",
-   "bakery",
    "meal_takeaway",
+   "bakery",
    "dessert_shop",
    "confectionery",
    "wholesaler",
    "manufacturer",
    "food_store",
    "store",
+   "service",
    "restaurant",
    "food",
    "point_of_interest",
-   "service",
    "establishment"
   ],
   "area_label": "天神"
@@ -6979,21 +6911,21 @@
   },
   "types": [
    "dessert_restaurant",
-   "pastry_shop",
    "cake_shop",
+   "pastry_shop",
    "gift_shop",
-   "bakery",
    "meal_takeaway",
+   "bakery",
    "dessert_shop",
    "confectionery",
    "wholesaler",
    "manufacturer",
    "food_store",
    "store",
+   "service",
    "restaurant",
    "food",
    "point_of_interest",
-   "service",
    "establishment"
   ],
   "area_label": "天神"
@@ -7012,8 +6944,8 @@
   },
   "types": [
    "cafe",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "百道"
@@ -7039,7 +6971,7 @@
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "天神"
+  "area_label": "大名"
  },
  "12536739815821171872": {
   "place_id": "ChIJe7SfSdSTQTURoFyEo3By-60",
@@ -7103,17 +7035,17 @@
   },
   "types": [
    "dessert_shop",
+   "dessert_restaurant",
+   "tea_house",
    "dim_sum_restaurant",
    "cantonese_restaurant",
-   "confectionery",
-   "tea_house",
-   "food_store",
-   "dessert_restaurant",
-   "store",
    "chinese_restaurant",
+   "confectionery",
+   "food_store",
+   "store",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "百道"
@@ -7155,8 +7087,8 @@
    "yakitori_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "天神"
@@ -7220,8 +7152,8 @@
   },
   "types": [
    "yakitori_restaurant",
-   "chicken_restaurant",
    "japanese_izakaya_restaurant",
+   "chicken_restaurant",
    "japanese_restaurant",
    "restaurant",
    "food",
@@ -7270,8 +7202,8 @@
    "yakitori_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "天神"
@@ -7314,8 +7246,8 @@
    "yakitori_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "天神"
@@ -7337,8 +7269,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "天神"
@@ -7360,8 +7292,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "天神"
@@ -7381,8 +7313,8 @@
   "types": [
    "chicken_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "天神"
@@ -7426,8 +7358,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "天神"
@@ -7449,8 +7381,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "天神"
@@ -7472,8 +7404,8 @@
    "yakitori_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "天神"
@@ -7494,8 +7426,8 @@
    "yakitori_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "天神"
@@ -7515,8 +7447,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -7537,11 +7469,11 @@
    "japanese_izakaya_restaurant",
    "banquet_hall",
    "seafood_restaurant",
-   "event_venue",
    "japanese_restaurant",
+   "event_venue",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "天神"
@@ -7561,8 +7493,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "天神"
@@ -7581,8 +7513,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "天神"
@@ -7629,7 +7561,7 @@
    "food",
    "establishment"
   ],
-  "area_label": "薬院"
+  "area_label": "中洲"
  },
  "17343565129493272760": {
   "place_id": "ChIJd2UPQo6RQTURuFhMWpi4sPA",
@@ -7647,8 +7579,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "天神"
@@ -7668,8 +7600,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "天神"
@@ -7685,6 +7617,27 @@
   "location": {
    "latitude": 33.5914826,
    "longitude": 130.39848999999998
+  },
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "天神"
+ },
+ "3003860866724612999": {
+  "place_id": "ChIJ4dOM6d-RQTURh0vRC4vbryk",
+  "name": "萬田うどん 天神",
+  "address": "日本、〒810-0001 福岡県福岡市中央区天神１丁目１１−１ ONE FUKUOKA BLDG B2F",
+  "rating": 4,
+  "userRatingCount": 149,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=3003860866724612999&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.591008099999996,
+   "longitude": 130.3997905
   },
   "types": [
    "japanese_restaurant",
@@ -7716,17 +7669,17 @@
   ],
   "area_label": "天神"
  },
- "3003860866724612999": {
-  "place_id": "ChIJ4dOM6d-RQTURh0vRC4vbryk",
-  "name": "萬田うどん 天神",
-  "address": "日本、〒810-0001 福岡県福岡市中央区天神１丁目１１−１ ONE FUKUOKA BLDG B2F",
-  "rating": 4,
-  "userRatingCount": 149,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=3003860866724612999&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "3703786428322777822": {
+  "place_id": "ChIJgwt9tpmRQTUR3ooXECJ-ZjM",
+  "name": "めん処 三喜",
+  "address": "日本、〒810-0003 福岡県福岡市中央区春吉１丁目７−１ めん処 三喜",
+  "rating": 4.5,
+  "userRatingCount": 473,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=3703786428322777822&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 33.591008099999996,
-   "longitude": 130.3997905
+   "latitude": 33.583397,
+   "longitude": 130.408015
   },
   "types": [
    "japanese_restaurant",
@@ -7762,66 +7715,22 @@
   ],
   "area_label": "天神"
  },
- "1327037870611182822": {
-  "place_id": "ChIJORY5aNeRQTUR5jRFkemVahI",
-  "name": "博多一口餃子 たけとら 今泉店",
-  "address": "日本、〒810-0021 福岡県福岡市中央区今泉１丁目１２−８",
-  "rating": 4.8,
-  "userRatingCount": 4132,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=1327037870611182822&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.5868272,
-   "longitude": 130.40092719999998
-  },
-  "types": [
-   "japanese_izakaya_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "天神"
- },
- "3703786428322777822": {
-  "place_id": "ChIJgwt9tpmRQTUR3ooXECJ-ZjM",
-  "name": "めん処 三喜",
-  "address": "日本、〒810-0003 福岡県福岡市中央区春吉１丁目７−１ めん処 三喜",
+ "15226368577787685470": {
+  "place_id": "ChIJMz3kmVSRQTURXmo0eoztTtM",
+  "name": "博多 もつ鍋 おおやま ワンビル店",
+  "address": "日本、〒810-0001 福岡県福岡市中央区天神１丁目１１−１ ONE FUKUOKA BLDG 地下1階",
   "rating": 4.5,
-  "userRatingCount": 473,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=3703786428322777822&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.583397,
-   "longitude": 130.408015
-  },
-  "types": [
-   "japanese_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "天神"
- },
- "8010646367363975354": {
-  "place_id": "ChIJTU-oSZGRQTURusgAzG2IK28",
-  "name": "宇どんヤかまわん",
-  "address": "日本、〒810-0003 福岡県福岡市中央区春吉３丁目２１−３０",
-  "rating": 4.1,
-  "userRatingCount": 365,
+  "userRatingCount": 454,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=8010646367363975354&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=15226368577787685470&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 33.589432599999995,
-   "longitude": 130.4053346
+   "latitude": 33.591301099999995,
+   "longitude": 130.3993155
   },
   "types": [
-   "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "天神"
@@ -7879,6 +7788,28 @@
   ],
   "area_label": "天神"
  },
+ "14312855333653581182": {
+  "place_id": "ChIJMY-U-oWRQTURfg362xd6ocY",
+  "name": "もつ鍋 一藤 天神西通り店/別邸店",
+  "address": "日本、〒810-0041 福岡県福岡市中央区大名２丁目６−４ プラスゲート天神ビル ２階～３階",
+  "rating": 4.7,
+  "userRatingCount": 3400,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=14312855333653581182&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.589144,
+   "longitude": 130.39583059999998
+  },
+  "types": [
+   "japanese_izakaya_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "天神"
+ },
  "12025926133850561941": {
   "place_id": "ChIJi-XxToSRQTURld0_Rxqs5KY",
   "name": "もつ鍋 の元祖 楽天地 福岡 天神 総本店（今泉）",
@@ -7906,68 +7837,6 @@
   ],
   "area_label": "天神"
  },
- "15226368577787685470": {
-  "place_id": "ChIJMz3kmVSRQTURXmo0eoztTtM",
-  "name": "博多 もつ鍋 おおやま ワンビル店",
-  "address": "日本、〒810-0001 福岡県福岡市中央区天神１丁目１１−１ ONE FUKUOKA BLDG 地下1階",
-  "rating": 4.5,
-  "userRatingCount": 454,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=15226368577787685470&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.591301099999995,
-   "longitude": 130.3993155
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "天神"
- },
- "13313967498552193756": {
-  "place_id": "ChIJRfkwcnqRQTUR3LJMRua2xLg",
-  "name": "博多らまい もつ鍋 天神店",
-  "address": "日本、〒810-0021 福岡県福岡市中央区今泉１丁目１６−１",
-  "rating": 4.7,
-  "userRatingCount": 54,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=13313967498552193756&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.5856037,
-   "longitude": 130.3993185
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "天神"
- },
- "13751321332485016468": {
-  "place_id": "ChIJyWHFEY-RQTURlEsF7-SB1r4",
-  "name": "博多 もつ鍋五郎",
-  "address": "日本、〒810-0001 福岡県福岡市中央区天神２丁目８−１２７ 2階",
-  "rating": 4.6,
-  "userRatingCount": 166,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=13751321332485016468&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.5904145,
-   "longitude": 130.39745109999998
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "天神"
- },
  "14788169052997258663": {
   "place_id": "ChIJS8MfiVWRQTURp41TEmchOs0",
   "name": "博多もつ麺堂 福岡",
@@ -7982,78 +7851,6 @@
   },
   "types": [
    "ramen_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "天神"
- },
- "12185550356662408095": {
-  "place_id": "ChIJ_2CFTZGRQTURn1N_0XzFG6k",
-  "name": "元祖 もつ鍋 楽天地 天神 西 中洲 店",
-  "address": "日本、〒810-0003 福岡県福岡市中央区春吉３丁目１１−１４ 的野ビル ２階",
-  "rating": 4.8,
-  "userRatingCount": 12866,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=12185550356662408095&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.589751299999996,
-   "longitude": 130.405573
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "ramen_restaurant",
-   "japanese_izakaya_restaurant",
-   "meal_takeaway",
-   "meal_delivery",
-   "food_delivery",
-   "japanese_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "中洲"
- },
- "8649791703636498940": {
-  "place_id": "ChIJDdzTtJqRQTUR_Nlf1Lk7Cng",
-  "name": "もつ鍋 こうづき 今泉店",
-  "address": "日本、〒810-0021 福岡県福岡市中央区今泉１丁目１１−７ ＫＹビル今泉 3F",
-  "rating": 4.6,
-  "userRatingCount": 883,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=8649791703636498940&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.586590199999996,
-   "longitude": 130.4007181
-  },
-  "types": [
-   "japanese_izakaya_restaurant",
-   "hot_pot_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "天神"
- },
- "14312855333653581182": {
-  "place_id": "ChIJMY-U-oWRQTURfg362xd6ocY",
-  "name": "もつ鍋 一藤 天神西通り店/別邸店",
-  "address": "日本、〒810-0041 福岡県福岡市中央区大名２丁目６−４ プラスゲート天神ビル ２階～３階",
-  "rating": 4.7,
-  "userRatingCount": 3400,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=14312855333653581182&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.589144,
-   "longitude": 130.39583059999998
-  },
-  "types": [
-   "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
    "food",
@@ -8089,6 +7886,28 @@
   ],
   "area_label": "天神"
  },
+ "13313967498552193756": {
+  "place_id": "ChIJRfkwcnqRQTUR3LJMRua2xLg",
+  "name": "博多らまい もつ鍋 天神店",
+  "address": "日本、〒810-0021 福岡県福岡市中央区今泉１丁目１６−１",
+  "rating": 4.7,
+  "userRatingCount": 54,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=13313967498552193756&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.5856037,
+   "longitude": 130.3993185
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "天神"
+ },
  "2129495366255247255": {
   "place_id": "ChIJ29wTL4WRQTURl_97yMB8jR0",
   "name": "もつ鍋 一藤 今泉本店",
@@ -8109,6 +7928,82 @@
   ],
   "area_label": "天神"
  },
+ "8649791703636498940": {
+  "place_id": "ChIJDdzTtJqRQTUR_Nlf1Lk7Cng",
+  "name": "もつ鍋 こうづき 今泉店",
+  "address": "日本、〒810-0021 福岡県福岡市中央区今泉１丁目１１−７ ＫＹビル今泉 3F",
+  "rating": 4.6,
+  "userRatingCount": 883,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=8649791703636498940&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.586590199999996,
+   "longitude": 130.4007181
+  },
+  "types": [
+   "japanese_izakaya_restaurant",
+   "hot_pot_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "天神"
+ },
+ "12185550356662408095": {
+  "place_id": "ChIJ_2CFTZGRQTURn1N_0XzFG6k",
+  "name": "元祖 もつ鍋 楽天地 天神 西 中洲 店",
+  "address": "日本、〒810-0003 福岡県福岡市中央区春吉３丁目１１−１４ 的野ビル ２階",
+  "rating": 4.8,
+  "userRatingCount": 12866,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=12185550356662408095&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.589751299999996,
+   "longitude": 130.405573
+  },
+  "types": [
+   "japanese_izakaya_restaurant",
+   "ramen_restaurant",
+   "hot_pot_restaurant",
+   "meal_delivery",
+   "meal_takeaway",
+   "food_delivery",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "中洲"
+ },
+ "15917641000006467444": {
+  "place_id": "ChIJc7p3sLiRQTURdD-UeyfS5tw",
+  "name": "元祖もつ鍋もつ焼き楽天地 薬院 渡辺通り店",
+  "address": "日本、〒810-0004 福岡県福岡市中央区渡辺通２丁目１−８２ 2階",
+  "rating": 4.8,
+  "userRatingCount": 8462,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=15917641000006467444&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.582543099999995,
+   "longitude": 130.40560929999998
+  },
+  "types": [
+   "japanese_izakaya_restaurant",
+   "hot_pot_restaurant",
+   "meal_delivery",
+   "meal_takeaway",
+   "food_delivery",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "薬院"
+ },
  "10860600966552903587": {
   "place_id": "ChIJa1p_vYaRQTURo1-mggmbuJY",
   "name": "もつ鍋 田しゅう 福岡大名本店",
@@ -8120,6 +8015,26 @@
   "location": {
    "latitude": 33.5863521,
    "longitude": 130.3947695
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "天神"
+ },
+ "5320634417265588490": {
+  "place_id": "ChIJBXMu8oaRQTURCjnVBNCw1kk",
+  "name": "博多もつ鍋前田屋 大名店",
+  "address": "日本、〒810-0041 福岡県福岡市中央区大名１丁目１２−２８",
+  "rating": 4.6,
+  "userRatingCount": 983,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=5320634417265588490&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.587385,
+   "longitude": 130.39405299999999
   },
   "types": [
    "restaurant",
@@ -8151,17 +8066,17 @@
   ],
   "area_label": "天神"
  },
- "5320634417265588490": {
-  "place_id": "ChIJBXMu8oaRQTURCjnVBNCw1kk",
-  "name": "博多もつ鍋前田屋 大名店",
-  "address": "日本、〒810-0041 福岡県福岡市中央区大名１丁目１２−２８",
-  "rating": 4.6,
-  "userRatingCount": 983,
+ "5216555909062477568": {
+  "place_id": "ChIJNyuhL5eRQTURAEei9vXtZEg",
+  "name": "一慶 春吉本店",
+  "address": "日本、〒810-0003 福岡県福岡市中央区春吉２丁目１０−１４",
+  "rating": 4.2,
+  "userRatingCount": 764,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=5320634417265588490&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=5216555909062477568&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 33.587385,
-   "longitude": 130.39405299999999
+   "latitude": 33.587284,
+   "longitude": 130.40631199999999
   },
   "types": [
    "restaurant",
@@ -8170,6 +8085,27 @@
    "establishment"
   ],
   "area_label": "天神"
+ },
+ "7239237451253925271": {
+  "place_id": "ChIJEQXSUpGRQTURl8WxVhvwdmQ",
+  "name": "博多麺もつ屋",
+  "address": "日本、〒810-0003 福岡県福岡市中央区春吉３丁目１１−１１−１７",
+  "rating": 4.4,
+  "userRatingCount": 1055,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=7239237451253925271&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.589805600000005,
+   "longitude": 130.4057268
+  },
+  "types": [
+   "noodle_shop",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "中洲"
  },
  "14845679848884416945": {
   "place_id": "ChIJzzt7apKRQTURsTHusSpzBs4",
@@ -8272,6 +8208,25 @@
   ],
   "area_label": "天神"
  },
+ "6064470157016905212": {
+  "place_id": "ChIJQfBI8pSRQTUR_DXzE3pTKVQ",
+  "name": "中洲 歓楽街",
+  "address": "日本、〒810-0801 福岡県福岡市博多区中洲３丁目２",
+  "rating": 4.2,
+  "userRatingCount": 63,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=6064470157016905212&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.5925116,
+   "longitude": 130.4072812
+  },
+  "types": [
+   "tourist_attraction",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "薬院"
+ },
  "7492788786502814575": {
   "place_id": "ChIJ8ReJ0yySQTURb8uH7LO7-2c",
   "name": "舞鶴公園",
@@ -8286,8 +8241,8 @@
   },
   "types": [
    "park",
-   "tourist_attraction",
    "city_park",
+   "tourist_attraction",
    "point_of_interest",
    "establishment"
   ],
@@ -8489,8 +8444,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "天神"
@@ -8510,8 +8465,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "天神"
@@ -8532,8 +8487,8 @@
    "meal_takeaway",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -8553,8 +8508,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "天神"
@@ -8574,8 +8529,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "天神"
@@ -8595,8 +8550,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "大名"
@@ -8616,8 +8571,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "天神"
@@ -8637,8 +8592,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "天神"
@@ -8658,8 +8613,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -8679,8 +8634,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "天神"
@@ -8700,8 +8655,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "天神"
@@ -8722,8 +8677,8 @@
    "noodle_shop",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "大名"
@@ -8741,12 +8696,12 @@
    "longitude": 130.3797346
   },
   "types": [
-   "halal_restaurant",
    "seafood_restaurant",
+   "halal_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "天神"
@@ -8766,8 +8721,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "天神"
@@ -8787,8 +8742,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "天神"
@@ -8807,12 +8762,12 @@
   },
   "types": [
    "seafood_restaurant",
-   "breakfast_restaurant",
    "hot_pot_restaurant",
+   "breakfast_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -8834,8 +8789,8 @@
    "japanese_izakaya_restaurant",
    "seafood_restaurant",
    "japanese_restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -8877,15 +8832,15 @@
    "longitude": 130.4077036
   },
   "types": [
-   "japanese_izakaya_restaurant",
    "banquet_hall",
+   "japanese_izakaya_restaurant",
    "seafood_restaurant",
-   "event_venue",
-   "japanese_restaurant",
    "chinese_restaurant",
+   "japanese_restaurant",
+   "event_venue",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -8906,8 +8861,8 @@
    "japanese_restaurant",
    "japanese_izakaya_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -8926,14 +8881,14 @@
   },
   "types": [
    "restaurant",
-   "bistro",
    "wine_bar",
+   "bistro",
    "cafe",
+   "dessert_restaurant",
    "buffet_restaurant",
    "bar",
-   "dessert_restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -8953,8 +8908,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -8978,8 +8933,8 @@
    "meal_takeaway",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -9000,8 +8955,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -9021,8 +8976,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -9043,8 +8998,8 @@
    "japanese_curry_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -9064,8 +9019,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -9086,8 +9041,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -9127,12 +9082,12 @@
    "longitude": 130.4042744
   },
   "types": [
-   "beer_garden",
    "cafe",
+   "beer_garden",
    "bar",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -9150,14 +9105,14 @@
    "longitude": 130.4036891
   },
   "types": [
+   "japanese_izakaya_restaurant",
    "hot_pot_restaurant",
    "banquet_hall",
-   "japanese_izakaya_restaurant",
-   "japanese_restaurant",
    "event_venue",
+   "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "中洲"
@@ -9178,8 +9133,8 @@
    "ramen_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -9200,8 +9155,8 @@
    "ramen_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -9222,8 +9177,8 @@
    "ramen_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -9242,14 +9197,14 @@
   },
   "types": [
    "ramen_restaurant",
-   "chicken_restaurant",
-   "japanese_izakaya_restaurant",
    "chinese_noodle_restaurant",
+   "japanese_izakaya_restaurant",
+   "chicken_restaurant",
    "chinese_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -9270,8 +9225,8 @@
    "ramen_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -9292,8 +9247,8 @@
    "ramen_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -9338,8 +9293,8 @@
    "ramen_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -9359,15 +9314,15 @@
   "types": [
    "ramen_restaurant",
    "chinese_noodle_restaurant",
-   "noodle_shop",
    "snack_bar",
    "meal_takeaway",
-   "japanese_restaurant",
    "meal_delivery",
+   "noodle_shop",
    "food_delivery",
+   "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -9388,8 +9343,8 @@
    "ramen_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -9410,8 +9365,8 @@
    "ramen_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -9430,8 +9385,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "中洲"
@@ -9452,8 +9407,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -9582,10 +9537,10 @@
   },
   "types": [
    "japanese_izakaya_restaurant",
-   "hot_pot_restaurant",
    "chicken_restaurant",
-   "fast_food_restaurant",
    "seafood_restaurant",
+   "fast_food_restaurant",
+   "hot_pot_restaurant",
    "japanese_restaurant",
    "restaurant",
    "food",
@@ -9610,8 +9565,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -9698,8 +9653,8 @@
   },
   "types": [
    "japanese_izakaya_restaurant",
-   "hot_pot_restaurant",
    "yakitori_restaurant",
+   "hot_pot_restaurant",
    "japanese_restaurant",
    "restaurant",
    "food",
@@ -9747,8 +9702,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -9769,8 +9724,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -9791,8 +9746,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -9813,11 +9768,11 @@
    "yakiniku_restaurant",
    "japanese_izakaya_restaurant",
    "korean_barbecue_restaurant",
-   "korean_restaurant",
    "japanese_restaurant",
+   "korean_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -9838,8 +9793,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -9860,8 +9815,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -9883,8 +9838,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -9906,8 +9861,8 @@
    "barbecue_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -9928,8 +9883,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -9950,8 +9905,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -9972,8 +9927,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -9993,11 +9948,11 @@
   "types": [
    "yakiniku_restaurant",
    "korean_barbecue_restaurant",
-   "korean_restaurant",
    "japanese_restaurant",
+   "korean_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -10018,8 +9973,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -10039,6 +9994,116 @@
   "types": [
    "korean_barbecue_restaurant",
    "korean_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "中洲"
+ },
+ "9398316343304259251": {
+  "place_id": "ChIJ720QX5SRQTURswZmeeuGbYI",
+  "name": "銀寿司",
+  "address": "日本、〒810-0801 福岡県福岡市博多区中洲２丁目５−１０ 銀ビル",
+  "rating": 4.4,
+  "userRatingCount": 194,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=9398316343304259251&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.5919144,
+   "longitude": 130.4072382
+  },
+  "types": [
+   "sushi_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "中洲"
+ },
+ "6602790987567492648": {
+  "place_id": "ChIJiSrdJ8-RQTURKG4cjGvToVs",
+  "name": "中洲 鮨割烹 流",
+  "address": "日本、〒810-0801 福岡県福岡市博多区中洲４丁目１−７ 1F",
+  "rating": 4.8,
+  "userRatingCount": 32,
+  "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=6602790987567492648&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.5917154,
+   "longitude": 130.406925
+  },
+  "types": [
+   "sushi_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "中洲"
+ },
+ "2381559301940852266": {
+  "place_id": "ChIJBVIqb-uRQTURKja2K5H_DCE",
+  "name": "博多 たつみ寿司 総本店",
+  "address": "日本、〒812-0027 福岡県福岡市博多区下川端町８−５",
+  "rating": 4.2,
+  "userRatingCount": 995,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=2381559301940852266&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.596128799999995,
+   "longitude": 130.40658159999998
+  },
+  "types": [
+   "sushi_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "中洲"
+ },
+ "3490036375291977186": {
+  "place_id": "ChIJf9LmU5SRQTUR4l14opcZbzA",
+  "name": "高玉中洲店",
+  "address": "日本、〒810-0801 福岡県福岡市博多区中洲２丁目３−１６",
+  "rating": 4.4,
+  "userRatingCount": 55,
+  "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=3490036375291977186&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.591415999999995,
+   "longitude": 130.407998
+  },
+  "types": [
+   "sushi_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "中洲"
+ },
+ "12683845544734697708": {
+  "place_id": "ChIJQ2iG85SRQTUR7CjVL1ISBrA",
+  "name": "蛇の目寿司",
+  "address": "日本、〒810-0801 福岡県福岡市博多区中洲４丁目２−１８",
+  "rating": 4.4,
+  "userRatingCount": 112,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=12683845544734697708&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.592359099999996,
+   "longitude": 130.4072435
+  },
+  "types": [
+   "sushi_restaurant",
+   "japanese_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -10090,6 +10155,50 @@
   ],
   "area_label": "中洲"
  },
+ "2166152709473296047": {
+  "place_id": "ChIJ3apbVJSRQTURr95nmWm4Dx4",
+  "name": "二葉鮨",
+  "address": "日本、〒810-0801 福岡県福岡市博多区中洲２丁目３−２０",
+  "rating": 4.6,
+  "userRatingCount": 223,
+  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=2166152709473296047&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.5915466,
+   "longitude": 130.40818679999998
+  },
+  "types": [
+   "sushi_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "中洲"
+ },
+ "14522624217630315689": {
+  "place_id": "ChIJLaCs30yRQTURqRRXIsi5isk",
+  "name": "寿司太陽と てとて",
+  "address": "日本、〒810-0801 福岡県福岡市博多区中洲２丁目５−１８ 20ラインビル",
+  "rating": 4.4,
+  "userRatingCount": 35,
+  "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=14522624217630315689&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.5921271,
+   "longitude": 130.4076716
+  },
+  "types": [
+   "sushi_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "中洲"
+ },
  "6744396577355912011": {
   "place_id": "ChIJp60_BpORQTURS9OoKfTomF0",
   "name": "酔虎寿し",
@@ -10112,41 +10221,17 @@
   ],
   "area_label": "中洲"
  },
- "15853043416448119115": {
-  "place_id": "ChIJUUSmBLSRQTURSzE8hv5SAdw",
-  "name": "和食と寿司 匠の道場（日本料理てら岡本社ビル4F）",
-  "address": "日本、〒810-0801 福岡県福岡市博多区中洲５丁目２−６ 4F",
-  "rating": 4.7,
-  "userRatingCount": 412,
+ "17515021300150807118": {
+  "place_id": "ChIJ3Y4Ls2KRQTURTqrj7BLbEfM",
+  "name": "鬼鮨",
+  "address": "レビュー中洲 1F, ２丁目-７-2 中洲 博多区 福岡市 福岡県 810-0801 日本",
+  "rating": 4.4,
+  "userRatingCount": 51,
   "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=15853043416448119115&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=17515021300150807118&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 33.5935695,
-   "longitude": 130.40468479999998
-  },
-  "types": [
-   "sushi_restaurant",
-   "japanese_izakaya_restaurant",
-   "seafood_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "中洲"
- },
- "2381559301940852266": {
-  "place_id": "ChIJBVIqb-uRQTURKja2K5H_DCE",
-  "name": "博多 たつみ寿司 総本店",
-  "address": "日本、〒812-0027 福岡県福岡市博多区下川端町８−５",
-  "rating": 4.2,
-  "userRatingCount": 995,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=2381559301940852266&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.596128799999995,
-   "longitude": 130.40658159999998
+   "latitude": 33.592040499999996,
+   "longitude": 130.40910499999998
   },
   "types": [
    "sushi_restaurant",
@@ -10169,50 +10254,6 @@
   "location": {
    "latitude": 33.5910589,
    "longitude": 130.405508
-  },
-  "types": [
-   "sushi_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "中洲"
- },
- "3490036375291977186": {
-  "place_id": "ChIJf9LmU5SRQTUR4l14opcZbzA",
-  "name": "高玉中洲店",
-  "address": "日本、〒810-0801 福岡県福岡市博多区中洲２丁目３−１６",
-  "rating": 4.4,
-  "userRatingCount": 55,
-  "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=3490036375291977186&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.591415999999995,
-   "longitude": 130.407998
-  },
-  "types": [
-   "sushi_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "中洲"
- },
- "2166152709473296047": {
-  "place_id": "ChIJ3apbVJSRQTURr95nmWm4Dx4",
-  "name": "二葉鮨",
-  "address": "日本、〒810-0801 福岡県福岡市博多区中洲２丁目３−２０",
-  "rating": 4.6,
-  "userRatingCount": 223,
-  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=2166152709473296047&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.5915466,
-   "longitude": 130.40818679999998
   },
   "types": [
    "sushi_restaurant",
@@ -10269,118 +10310,6 @@
   ],
   "area_label": "中洲"
  },
- "7107766241621528558": {
-  "place_id": "ChIJ46Rj7hKRQTUR7k9d-rzbo2I",
-  "name": "博多 鮨 まつもと",
-  "address": "日本、〒810-0002 福岡県福岡市中央区西中洲９−４ Ｓｐａｚｉｏ 2F",
-  "rating": 4.2,
-  "userRatingCount": 238,
-  "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=7107766241621528558&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.59047530000001,
-   "longitude": 130.4043859
-  },
-  "types": [
-   "sushi_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "中洲"
- },
- "9398316343304259251": {
-  "place_id": "ChIJ720QX5SRQTURswZmeeuGbYI",
-  "name": "銀寿司",
-  "address": "日本、〒810-0801 福岡県福岡市博多区中洲２丁目５−１０ 銀ビル",
-  "rating": 4.4,
-  "userRatingCount": 194,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=9398316343304259251&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.5919144,
-   "longitude": 130.4072382
-  },
-  "types": [
-   "sushi_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "中洲"
- },
- "17515021300150807118": {
-  "place_id": "ChIJ3Y4Ls2KRQTURTqrj7BLbEfM",
-  "name": "鬼鮨",
-  "address": "レビュー中洲 1F, ２丁目-７-2 中洲 博多区 福岡市 福岡県 810-0801 日本",
-  "rating": 4.4,
-  "userRatingCount": 51,
-  "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=17515021300150807118&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.592040499999996,
-   "longitude": 130.40910499999998
-  },
-  "types": [
-   "sushi_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "中洲"
- },
- "16983981794510309592": {
-  "place_id": "ChIJ7yclG5SRQTUR2Ah9BXU5s-s",
-  "name": "すし将軍 西中洲店",
-  "address": "日本、〒810-0002 福岡県福岡市中央区西中洲１−４ プロスペリタ西中洲 Ⅱ1階",
-  "rating": 4.2,
-  "userRatingCount": 196,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=16983981794510309592&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.5905675,
-   "longitude": 130.4065846
-  },
-  "types": [
-   "sushi_restaurant",
-   "seafood_restaurant",
-   "japanese_restaurant",
-   "bar",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "中洲"
- },
- "6602790987567492648": {
-  "place_id": "ChIJiSrdJ8-RQTURKG4cjGvToVs",
-  "name": "中洲 鮨割烹 流",
-  "address": "日本、〒810-0801 福岡県福岡市博多区中洲４丁目１−７ 1F",
-  "rating": 4.8,
-  "userRatingCount": 32,
-  "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=6602790987567492648&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.5917154,
-   "longitude": 130.406925
-  },
-  "types": [
-   "sushi_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "中洲"
- },
  "7697354839431420926": {
   "place_id": "ChIJSRIOYZORQTUR_ptxsnF_0mo",
   "name": "カフェテラス 樹樹",
@@ -10395,8 +10324,8 @@
   },
   "types": [
    "cafe",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -10418,8 +10347,8 @@
    "cafe",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -10440,8 +10369,8 @@
    "cafe",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -10462,13 +10391,13 @@
    "hookah_bar",
    "cafe",
    "bar",
-   "wholesaler",
-   "manufacturer",
    "food_store",
+   "manufacturer",
    "store",
-   "food",
-   "point_of_interest",
+   "wholesaler",
    "service",
+   "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -10508,8 +10437,8 @@
   "types": [
    "hookah_bar",
    "cafe",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -10531,8 +10460,8 @@
    "coffee_shop",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -10554,8 +10483,8 @@
    "cafe",
    "bar",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -10574,8 +10503,8 @@
   },
   "types": [
    "cafe",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -10595,8 +10524,8 @@
   "types": [
    "hookah_bar",
    "cafe",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -10617,8 +10546,8 @@
    "cafe",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -10637,8 +10566,8 @@
   },
   "types": [
    "cafe",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -10910,8 +10839,8 @@
   },
   "types": [
    "cafe",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "薬院"
@@ -11033,8 +10962,8 @@
    "yakitori_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -11055,8 +10984,8 @@
    "yakitori_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -11079,8 +11008,8 @@
    "chicken_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -11101,8 +11030,8 @@
    "yakitori_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -11123,8 +11052,8 @@
    "yakitori_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -11145,8 +11074,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -11165,12 +11094,12 @@
   },
   "types": [
    "yakitori_restaurant",
-   "japanese_izakaya_restaurant",
    "hot_pot_restaurant",
+   "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -11191,8 +11120,8 @@
    "yakitori_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -11213,8 +11142,8 @@
    "yakitori_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -11235,8 +11164,8 @@
    "yakitori_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -11259,8 +11188,8 @@
    "seafood_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -11280,8 +11209,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -11301,8 +11230,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -11323,8 +11252,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -11346,8 +11275,8 @@
    "japanese_izakaya_restaurant",
    "breakfast_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -11367,8 +11296,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -11478,8 +11407,8 @@
    "yakitori_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "中洲"
@@ -11519,8 +11448,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "中洲"
@@ -11563,8 +11492,8 @@
    "ramen_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "中洲"
@@ -11585,8 +11514,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -11607,8 +11536,8 @@
    "ramen_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "中洲"
@@ -11627,8 +11556,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -11647,74 +11576,52 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
  },
- "1851315613165480461": {
-  "place_id": "ChIJ6TVBOpORQTURDerc0b0xsRk",
-  "name": "屋台おけい",
-  "address": "日本、〒810-0801 福岡県福岡市博多区中洲５丁目６",
-  "rating": 4.3,
-  "userRatingCount": 76,
+ "17890301917230518173": {
+  "place_id": "ChIJC1LqDpKRQTURnc8Djc4eR_g",
+  "name": "長浜ラーメン 屋台 ともちゃん",
+  "address": "日本、〒810-0001 福岡県福岡市中央区天神１丁目１４",
+  "rating": 4.1,
+  "userRatingCount": 540,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=1851315613165480461&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=17890301917230518173&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 33.5948716,
-   "longitude": 130.4041005
+   "latitude": 33.592901,
+   "longitude": 130.40089039999998
   },
   "types": [
    "ramen_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "中洲"
  },
- "4510489433163825386": {
-  "place_id": "ChIJM7wDJJORQTUR6gDi6j16mD4",
-  "name": "KUROチャン 博多屋台",
-  "address": "日本、〒810-0802 福岡県福岡市博多区中洲中島町１",
+ "17473185112372471616": {
+  "place_id": "ChIJJ1iDGZORQTURQOeaZUg5ffI",
+  "name": "屋台のんきや",
+  "address": "日本、〒810-0801 福岡県福岡市博多区中洲５丁目５−１３",
   "rating": 4.3,
-  "userRatingCount": 189,
+  "userRatingCount": 63,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=4510489433163825386&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=17473185112372471616&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 33.595028,
-   "longitude": 130.40350519999998
+   "latitude": 33.594374099999996,
+   "longitude": 130.4035808
   },
   "types": [
-   "japanese_izakaya_restaurant",
+   "ramen_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
-   "establishment"
-  ],
-  "area_label": "中洲"
- },
- "18005039554600151687": {
-  "place_id": "ChIJI4X6OJORQTURh6rMghTA3vk",
-  "name": "風来けん坊",
-  "address": "日本、〒810-0801 福岡県福岡市博多区中洲５丁目６−６番２０",
-  "rating": 4.2,
-  "userRatingCount": 141,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=18005039554600151687&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.5947968,
-   "longitude": 130.4040157
-  },
-  "types": [
-   "japanese_izakaya_restaurant",
-   "japanese_restaurant",
-   "restaurant",
    "point_of_interest",
-   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -11733,8 +11640,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "中洲"
@@ -11755,8 +11662,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "中洲"
@@ -11775,8 +11682,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "中洲"
@@ -11795,8 +11702,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "中洲"
@@ -11815,13 +11722,13 @@
   },
   "types": [
    "hot_pot_restaurant",
-   "chicken_restaurant",
    "japanese_izakaya_restaurant",
    "seafood_restaurant",
+   "chicken_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -11841,8 +11748,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "中洲"
@@ -11861,8 +11768,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "中洲"
@@ -11880,12 +11787,12 @@
    "longitude": 130.4068797
   },
   "types": [
-   "hot_pot_restaurant",
    "japanese_izakaya_restaurant",
+   "hot_pot_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "中洲"
@@ -11907,8 +11814,8 @@
    "meal_takeaway",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "中洲"
@@ -11929,8 +11836,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "中洲"
@@ -11950,32 +11857,11 @@
   "types": [
    "japanese_izakaya_restaurant",
    "beer_garden",
-   "japanese_restaurant",
    "bar",
+   "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
-   "establishment"
-  ],
-  "area_label": "中洲"
- },
- "7239237451253925271": {
-  "place_id": "ChIJEQXSUpGRQTURl8WxVhvwdmQ",
-  "name": "博多麺もつ屋",
-  "address": "日本、〒810-0003 福岡県福岡市中央区春吉３丁目１１−１１−１７",
-  "rating": 4.4,
-  "userRatingCount": 1055,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=7239237451253925271&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.589805600000005,
-   "longitude": 130.4057268
-  },
-  "types": [
-   "noodle_shop",
-   "restaurant",
    "point_of_interest",
-   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -11994,8 +11880,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "中洲"
@@ -12014,8 +11900,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "中洲"
@@ -12036,12 +11922,12 @@
    "hot_pot_restaurant",
    "chicken_restaurant",
    "meal_takeaway",
-   "japanese_restaurant",
    "shipping_service",
+   "japanese_restaurant",
    "service",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -12063,8 +11949,8 @@
    "chicken_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -12087,8 +11973,8 @@
    "yakitori_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -12106,12 +11992,12 @@
    "longitude": 130.40312129999998
   },
   "types": [
-   "seafood_restaurant",
    "hot_pot_restaurant",
+   "seafood_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -12131,8 +12017,8 @@
   "types": [
    "chicken_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -12154,8 +12040,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -12177,8 +12063,8 @@
    "chicken_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -12198,8 +12084,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -12220,12 +12106,12 @@
    "hot_pot_restaurant",
    "chicken_restaurant",
    "meal_takeaway",
-   "japanese_restaurant",
    "shipping_service",
+   "japanese_restaurant",
    "service",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "中洲"
@@ -12244,19 +12130,19 @@
   },
   "types": [
    "korean_restaurant",
-   "japanese_izakaya_restaurant",
-   "dessert_restaurant",
    "yakiniku_restaurant",
+   "japanese_izakaya_restaurant",
    "korean_barbecue_restaurant",
-   "japanese_restaurant",
    "ice_cream_shop",
    "dessert_shop",
    "confectionery",
    "food_store",
+   "japanese_restaurant",
+   "dessert_restaurant",
    "store",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "大名"
@@ -12277,8 +12163,8 @@
    "western_restaurant",
    "steak_house",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "大名"
@@ -12321,8 +12207,8 @@
    "seafood_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "大名"
@@ -12342,8 +12228,8 @@
   "types": [
    "asian_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "大名"
@@ -12410,8 +12296,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "大名"
@@ -12431,30 +12317,6 @@
   "types": [
    "western_restaurant",
    "japanese_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "大名"
- },
- "4245062791991075319": {
-  "place_id": "ChIJ75v7hYaRQTUR9yHbNR5-6To",
-  "name": "三味(333) 天神大名本店",
-  "address": "日本、〒810-0041 福岡県福岡市中央区大名１丁目１１−２７ イルモンド大名TWO 1F",
-  "rating": 4.5,
-  "userRatingCount": 3756,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=4245062791991075319&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.58724840000001,
-   "longitude": 130.394892
-  },
-  "types": [
-   "ramen_restaurant",
-   "italian_restaurant",
-   "japanese_restaurant",
-   "european_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -12477,11 +12339,11 @@
   "types": [
    "korean_barbecue_restaurant",
    "yakiniku_restaurant",
-   "japanese_restaurant",
    "korean_restaurant",
+   "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "大名"
@@ -12501,8 +12363,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "大名"
@@ -12521,19 +12383,19 @@
   },
   "types": [
    "japanese_izakaya_restaurant",
-   "wine_bar",
    "hot_pot_restaurant",
-   "chicken_restaurant",
-   "snack_bar",
-   "meal_takeaway",
    "yakitori_restaurant",
-   "japanese_restaurant",
+   "chicken_restaurant",
+   "wine_bar",
+   "snack_bar",
    "french_restaurant",
+   "meal_takeaway",
    "bar",
    "european_restaurant",
+   "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "大名"
@@ -12553,8 +12415,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "大名"
@@ -12575,8 +12437,8 @@
    "tonkatsu_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "大名"
@@ -12597,8 +12459,8 @@
    "sushi_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "大名"
@@ -12647,6 +12509,50 @@
   ],
   "area_label": "大名"
  },
+ "13717874568170354853": {
+  "place_id": "ChIJV89SZwCRQTURpbgoRT2uX74",
+  "name": "RAMEN N'n 福岡",
+  "address": "日本、〒810-0041 福岡県福岡市中央区大名２丁目８−１９ フィルパーク福岡大名Ⅱ",
+  "rating": 4.4,
+  "userRatingCount": 49,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=13717874568170354853&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.590809199999995,
+   "longitude": 130.394596
+  },
+  "types": [
+   "ramen_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大名"
+ },
+ "13707376939619138781": {
+  "place_id": "ChIJX8YWEoeRQTUR3TxhqLNiOr4",
+  "name": "博多らーめん・ちゃんぽん ひるとよる 大名本店",
+  "address": "日本、〒810-0041 福岡県福岡市中央区大名２丁目６−２０ 大名第三 団地1F",
+  "rating": 4,
+  "userRatingCount": 788,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=13707376939619138781&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.5889701,
+   "longitude": 130.39408319999998
+  },
+  "types": [
+   "ramen_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大名"
+ },
  "11246665488185521821": {
   "place_id": "ChIJC5HtoXmRQTURnXbxkqwuFJw",
   "name": "ぎょらん亭 大名店",
@@ -12658,6 +12564,28 @@
   "location": {
    "latitude": 33.5883216,
    "longitude": 130.3935747
+  },
+  "types": [
+   "ramen_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大名"
+ },
+ "768492725730724373": {
+  "place_id": "ChIJJSbuYdORQTURFcqm-Q88qgo",
+  "name": "元祖トマトラーメンと辛麺 三味(333) 天神大名中心店",
+  "address": "日本、〒810-0041 福岡県福岡市中央区大名１丁目１２−５８ パサージュビル 2F",
+  "rating": 4.6,
+  "userRatingCount": 2985,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=768492725730724373&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.5884207,
+   "longitude": 130.39626289999998
   },
   "types": [
    "ramen_restaurant",
@@ -12692,21 +12620,24 @@
   ],
   "area_label": "大名"
  },
- "13707376939619138781": {
-  "place_id": "ChIJX8YWEoeRQTUR3TxhqLNiOr4",
-  "name": "博多らーめん・ちゃんぽん ひるとよる 大名本店",
-  "address": "日本、〒810-0041 福岡県福岡市中央区大名２丁目６−２０ 大名第三 団地1F",
-  "rating": 4,
-  "userRatingCount": 788,
+ "17471764519057579158": {
+  "place_id": "ChIJGcL-OFuRQTURllyzvUItePI",
+  "name": "餃子拉麺酒場 暖暮",
+  "address": "日本、〒810-0041 福岡県福岡市中央区大名２丁目１−５ 餃子拉麺酒場 暖暮",
+  "rating": 4.3,
+  "userRatingCount": 1208,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=13707376939619138781&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=17471764519057579158&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 33.5889701,
-   "longitude": 130.39408319999998
+   "latitude": 33.588650099999995,
+   "longitude": 130.3958647
   },
   "types": [
+   "japanese_izakaya_restaurant",
    "ramen_restaurant",
+   "chinese_noodle_restaurant",
    "japanese_restaurant",
+   "chinese_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -12758,17 +12689,17 @@
   ],
   "area_label": "大名"
  },
- "17576534842613592132": {
-  "place_id": "ChIJvXt5RwCRQTURRHBCnFBl7PM",
-  "name": "喜多方ラーメン 坂内 天神大名店",
-  "address": "日本、〒810-0041 福岡県福岡市中央区大名２丁目１０−１ シャンボール大名D棟 A１０３号",
-  "rating": 4.3,
-  "userRatingCount": 404,
+ "4110999640541861827": {
+  "place_id": "ChIJn_b8Nd2RQTURw5dBXmQ0DTk",
+  "name": "メンドロイド",
+  "address": "日本、〒810-0041 福岡県福岡市中央区大名１丁目３−５２ 紺屋町横丁 109号室",
+  "rating": 4,
+  "userRatingCount": 277,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=17576534842613592132&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=4110999640541861827&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 33.5896743,
-   "longitude": 130.39256939999999
+   "latitude": 33.5865565,
+   "longitude": 130.3950184
   },
   "types": [
    "ramen_restaurant",
@@ -12780,89 +12711,40 @@
   ],
   "area_label": "大名"
  },
- "17471764519057579158": {
-  "place_id": "ChIJGcL-OFuRQTURllyzvUItePI",
-  "name": "餃子拉麺酒場 暖暮",
-  "address": "日本、〒810-0041 福岡県福岡市中央区大名２丁目１−５ 餃子拉麺酒場 暖暮",
-  "rating": 4.3,
-  "userRatingCount": 1208,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=17471764519057579158&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.588650099999995,
-   "longitude": 130.3958647
-  },
-  "types": [
-   "japanese_izakaya_restaurant",
-   "chinese_noodle_restaurant",
-   "ramen_restaurant",
-   "chinese_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大名"
- },
- "13717874568170354853": {
-  "place_id": "ChIJV89SZwCRQTURpbgoRT2uX74",
-  "name": "RAMEN N'n 福岡",
-  "address": "日本、〒810-0041 福岡県福岡市中央区大名２丁目８−１９ フィルパーク福岡大名Ⅱ",
+ "3575922528752458589": {
+  "place_id": "ChIJt0w8SYeRQTURXVubBpg6oDE",
+  "name": "味噌ラーメン専門 味噌蔵ふくべえ福岡天神大名本店",
+  "address": "日本、〒810-0041 福岡県福岡市中央区大名１丁目９−２４ マザー ハウス 1-A",
   "rating": 4.4,
-  "userRatingCount": 49,
+  "userRatingCount": 489,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=3575922528752458589&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.5869026,
+   "longitude": 130.3915135
+  },
+  "types": [
+   "ramen_restaurant",
+   "japanese_restaurant",
+   "chinese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大名"
+ },
+ "9115293920609848267": {
+  "place_id": "ChIJjTSMU1ORQTURy0s6oYYHgH4",
+  "name": "博多水炊きらぁめん",
+  "address": "日本、〒810-0041 福岡県福岡市中央区大名１丁目９−３０ 福岡観光ビル 1F",
+  "rating": 4.6,
+  "userRatingCount": 51,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=13717874568170354853&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=9115293920609848267&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 33.590809199999995,
-   "longitude": 130.394596
-  },
-  "types": [
-   "ramen_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大名"
- },
- "6570948651014743187": {
-  "place_id": "ChIJMY-U-oWRQTURk-QQ1fuyMFs",
-  "name": "一蘭 天神西通り店",
-  "address": "日本、〒810-0041 福岡県福岡市中央区大名２丁目１−５７",
-  "rating": 4.1,
-  "userRatingCount": 3763,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=6570948651014743187&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.588915199999995,
-   "longitude": 130.3961798
-  },
-  "types": [
-   "ramen_restaurant",
-   "noodle_shop",
-   "snack_bar",
-   "meal_takeaway",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大名"
- },
- "17646865470388925633": {
-  "place_id": "ChIJJRUGPIeRQTURwXSj8aVC5vQ",
-  "name": "土竜が俺を呼んでいる",
-  "address": "日本、〒810-0041 福岡県福岡市中央区大名１丁目９−１８",
-  "rating": 4.2,
-  "userRatingCount": 233,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=17646865470388925633&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.5871239,
-   "longitude": 130.3921511
+   "latitude": 33.5871747,
+   "longitude": 130.3912946
   },
   "types": [
    "ramen_restaurant",
@@ -13161,8 +13043,8 @@
    "sushi_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "大名"
@@ -13183,8 +13065,8 @@
    "sushi_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "大名"
@@ -13205,11 +13087,11 @@
    "sushi_restaurant",
    "japanese_izakaya_restaurant",
    "seafood_restaurant",
-   "bar",
    "japanese_restaurant",
+   "bar",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "大名"
@@ -13230,8 +13112,8 @@
    "sushi_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "大名"
@@ -13251,8 +13133,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "大名"
@@ -13273,8 +13155,8 @@
    "sushi_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "大名"
@@ -13377,10 +13259,10 @@
   },
   "types": [
    "cafe",
-   "art_gallery",
    "coffee_stand",
-   "food",
+   "art_gallery",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "大名"
@@ -13470,22 +13352,22 @@
   "types": [
    "cafe",
    "coffee_shop",
+   "dessert_restaurant",
+   "cafeteria",
    "cake_shop",
    "bakery",
-   "cafeteria",
+   "bar",
    "ice_cream_shop",
    "dessert_shop",
    "confectionery",
-   "bar",
-   "wholesaler",
-   "manufacturer",
    "food_store",
-   "dessert_restaurant",
+   "manufacturer",
    "store",
-   "restaurant",
-   "food",
-   "point_of_interest",
+   "wholesaler",
    "service",
+   "restaurant",
+   "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "大名"
@@ -13507,8 +13389,8 @@
    "coffee_shop",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "大名"
@@ -13702,16 +13584,16 @@
   },
   "types": [
    "cafe",
-   "coffee_shop",
    "cocktail_bar",
    "coffee_stand",
+   "coffee_shop",
+   "dessert_restaurant",
    "bar",
    "food_store",
-   "dessert_restaurant",
    "store",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "大名"
@@ -13816,26 +13698,6 @@
   ],
   "area_label": "大名"
  },
- "13650666475552434946": {
-  "place_id": "ChIJk8OWY4SRQTURAuuiztXocL0",
-  "name": "ル·ブルトン",
-  "address": "日本、〒810-0021 福岡県福岡市中央区今泉２丁目１−６５ メゾン・ドール・今泉",
-  "rating": 4.2,
-  "userRatingCount": 342,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=13650666475552434946&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.584781400000004,
-   "longitude": 130.397911
-  },
-  "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "薬院"
- },
  "14381877187743514352": {
   "place_id": "ChIJ94WDef-RQTUR8P6-khqxlsc",
   "name": "本格焼鳥 経",
@@ -13895,8 +13757,8 @@
   },
   "types": [
    "yakitori_restaurant",
-   "chicken_restaurant",
    "japanese_izakaya_restaurant",
+   "chicken_restaurant",
    "japanese_restaurant",
    "restaurant",
    "food",
@@ -14190,12 +14052,12 @@
   "types": [
    "breakfast_restaurant",
    "cafe",
-   "bar",
    "tea_house",
    "japanese_restaurant",
+   "bar",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "大名"
@@ -14215,8 +14077,8 @@
   "types": [
    "sandwich_shop",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "大名"
@@ -14235,16 +14097,16 @@
   },
   "types": [
    "snack_bar",
-   "sandwich_shop",
-   "deli",
    "cafe",
    "meal_takeaway",
+   "sandwich_shop",
+   "deli",
    "market",
    "food_store",
    "store",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "大名"
@@ -14262,16 +14124,16 @@
    "longitude": 130.3966412
   },
   "types": [
-   "japanese_izakaya_restaurant",
    "banquet_hall",
-   "event_venue",
+   "japanese_izakaya_restaurant",
    "japanese_restaurant",
+   "event_venue",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
-  "area_label": "薬院"
+  "area_label": "大名"
  },
  "3772089847993307845": {
   "place_id": "ChIJ1Q68SqKRQTURxZJ_OrsnWTQ",
@@ -14290,8 +14152,8 @@
    "bar_and_grill",
    "bar",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "大名"
@@ -14310,11 +14172,11 @@
   },
   "types": [
    "cafe",
-   "breakfast_restaurant",
    "brunch_restaurant",
+   "breakfast_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "大名"
@@ -14336,8 +14198,8 @@
    "cafe",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "大名"
@@ -14357,14 +14219,14 @@
   "types": [
    "cafe",
    "japanese_izakaya_restaurant",
+   "dessert_restaurant",
    "buffet_restaurant",
    "italian_restaurant",
-   "european_restaurant",
    "japanese_restaurant",
-   "dessert_restaurant",
+   "european_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "大名"
@@ -14383,8 +14245,8 @@
   },
   "types": [
    "cafe",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "大名"
@@ -14995,8 +14857,8 @@
    "french_restaurant",
    "european_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "薬院"
@@ -15445,32 +15307,6 @@
   ],
   "area_label": "薬院"
  },
- "15917641000006467444": {
-  "place_id": "ChIJc7p3sLiRQTURdD-UeyfS5tw",
-  "name": "元祖もつ鍋もつ焼き楽天地 薬院 渡辺通り店",
-  "address": "日本、〒810-0004 福岡県福岡市中央区渡辺通２丁目１−８２ 2階",
-  "rating": 4.8,
-  "userRatingCount": 8462,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=15917641000006467444&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.582543099999995,
-   "longitude": 130.40560929999998
-  },
-  "types": [
-   "japanese_izakaya_restaurant",
-   "hot_pot_restaurant",
-   "meal_delivery",
-   "meal_takeaway",
-   "food_delivery",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "薬院"
- },
  "7117771999450506050": {
   "place_id": "ChIJz-LZBIKRQTURQiN4A-xnx2I",
   "name": "創作屋 港町",
@@ -15799,8 +15635,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "薬院"
@@ -15821,8 +15657,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "薬院"
@@ -15842,12 +15678,12 @@
   "types": [
    "yakiniku_restaurant",
    "wine_bar",
+   "japanese_restaurant",
    "korean_restaurant",
    "bar",
-   "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "薬院"
@@ -15868,8 +15704,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "薬院"
@@ -15890,8 +15726,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "薬院"
@@ -15910,11 +15746,11 @@
   },
   "types": [
    "yakiniku_restaurant",
-   "korean_restaurant",
    "japanese_restaurant",
+   "korean_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "薬院"
@@ -15934,11 +15770,11 @@
   "types": [
    "yakiniku_restaurant",
    "pub",
-   "bar",
    "japanese_restaurant",
+   "bar",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "薬院"
@@ -15959,8 +15795,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "薬院"
@@ -15981,8 +15817,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "薬院"
@@ -16003,8 +15839,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "薬院"
@@ -16049,8 +15885,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "薬院"
@@ -16070,12 +15906,12 @@
   "types": [
    "yakiniku_restaurant",
    "pub",
+   "japanese_restaurant",
    "korean_restaurant",
    "bar",
-   "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "薬院"
@@ -16096,8 +15932,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "薬院"
@@ -16118,8 +15954,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "薬院"
@@ -16140,15 +15976,15 @@
    "yakiniku_restaurant",
    "butcher_shop",
    "korean_barbecue_restaurant",
-   "korean_restaurant",
-   "manufacturer",
-   "food_store",
    "japanese_restaurant",
+   "korean_restaurant",
+   "food_store",
+   "manufacturer",
    "store",
-   "restaurant",
-   "food",
-   "point_of_interest",
    "service",
+   "restaurant",
+   "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "薬院"
@@ -16169,8 +16005,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "薬院"
@@ -16191,8 +16027,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "薬院"
@@ -16213,8 +16049,8 @@
    "sushi_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "薬院"
@@ -16235,8 +16071,32 @@
    "sushi_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "薬院"
+ },
+ "6548544132603268002": {
+  "place_id": "ChIJOV-YimSRQTURokvJYzEa4Vo",
+  "name": "金沢まいもん寿司 珠姫 薬院",
+  "address": "日本、〒810-0004 福岡県福岡市中央区渡辺通２丁目６−２０ ラクレイス薬院 １F",
+  "rating": 4.7,
+  "userRatingCount": 194,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=6548544132603268002&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.582914699999996,
+   "longitude": 130.4014329
+  },
+  "types": [
+   "sushi_restaurant",
+   "meal_takeaway",
+   "seafood_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "薬院"
@@ -16257,8 +16117,8 @@
    "sushi_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "薬院"
@@ -16279,32 +16139,8 @@
    "sushi_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
-   "establishment"
-  ],
-  "area_label": "薬院"
- },
- "6548544132603268002": {
-  "place_id": "ChIJOV-YimSRQTURokvJYzEa4Vo",
-  "name": "金沢まいもん寿司 珠姫 薬院",
-  "address": "日本、〒810-0004 福岡県福岡市中央区渡辺通２丁目６−２０ ラクレイス薬院 １F",
-  "rating": 4.7,
-  "userRatingCount": 194,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=6548544132603268002&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.582914699999996,
-   "longitude": 130.4014329
-  },
-  "types": [
-   "sushi_restaurant",
-   "seafood_restaurant",
-   "meal_takeaway",
-   "japanese_restaurant",
-   "restaurant",
    "point_of_interest",
-   "food",
    "establishment"
   ],
   "area_label": "薬院"
@@ -16326,8 +16162,8 @@
    "seafood_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "薬院"
@@ -16348,8 +16184,8 @@
    "sushi_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "薬院"
@@ -16370,8 +16206,8 @@
    "sushi_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "薬院"
@@ -16392,8 +16228,8 @@
    "sushi_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "薬院"
@@ -16414,51 +16250,8 @@
    "sushi_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
-   "establishment"
-  ],
-  "area_label": "薬院"
- },
- "10121108312734192994": {
-  "place_id": "ChIJ-9Or8YqRQTURYlXG8WJmdYw",
-  "name": "米米",
-  "address": "日本、〒810-0022 福岡県福岡市中央区薬院２丁目４−２７",
-  "rating": 5,
-  "userRatingCount": 22,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=10121108312734192994&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.58157200000001,
-   "longitude": 130.395008
-  },
-  "types": [
-   "falafel_restaurant",
-   "restaurant",
    "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "薬院"
- },
- "5785933549267367683": {
-  "place_id": "ChIJl0HQtniRQTURA7cYaujDS1A",
-  "name": "八郎寿司",
-  "address": "日本、〒810-0022 福岡県福岡市中央区薬院４丁目９−１０",
-  "rating": 4.8,
-  "userRatingCount": 40,
-  "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=5785933549267367683&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.579144299999996,
-   "longitude": 130.39602370000003
-  },
-  "types": [
-   "sushi_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
    "establishment"
   ],
   "area_label": "薬院"
@@ -16480,8 +16273,51 @@
    "meal_takeaway",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "薬院"
+ },
+ "5785933549267367683": {
+  "place_id": "ChIJl0HQtniRQTURA7cYaujDS1A",
+  "name": "八郎寿司",
+  "address": "日本、〒810-0022 福岡県福岡市中央区薬院４丁目９−１０",
+  "rating": 4.8,
+  "userRatingCount": 40,
+  "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=5785933549267367683&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.579144299999996,
+   "longitude": 130.39602370000003
+  },
+  "types": [
+   "sushi_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "薬院"
+ },
+ "10121108312734192994": {
+  "place_id": "ChIJ-9Or8YqRQTURYlXG8WJmdYw",
+  "name": "米米",
+  "address": "日本、〒810-0022 福岡県福岡市中央区薬院２丁目４−２７",
+  "rating": 5,
+  "userRatingCount": 22,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=10121108312734192994&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.58157200000001,
+   "longitude": 130.395008
+  },
+  "types": [
+   "falafel_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "薬院"
@@ -16502,96 +16338,8 @@
    "sushi_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
-   "establishment"
-  ],
-  "area_label": "薬院"
- },
- "18066240815659892902": {
-  "place_id": "ChIJ75fkSn-RQTURpkAShE0uuPo",
-  "name": "鮨銀杏Sushiichyou",
-  "address": "日本、〒810-0022 福岡県福岡市中央区薬院４丁目１８−９ 日宝サンセーヌ浄水",
-  "rating": 4.6,
-  "userRatingCount": 33,
-  "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=18066240815659892902&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.579215999999995,
-   "longitude": 130.395494
-  },
-  "types": [
-   "sushi_restaurant",
-   "japanese_restaurant",
-   "restaurant",
    "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "薬院"
- },
- "3759261648226357052": {
-  "place_id": "ChIJq1gCl52RQTURPA9IOI2UKzQ",
-  "name": "すし和泉",
-  "address": "日本、〒810-0014 福岡県福岡市中央区平尾３丁目２０−２",
-  "rating": 4.9,
-  "userRatingCount": 21,
-  "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=3759261648226357052&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.5768443,
-   "longitude": 130.3979156
-  },
-  "types": [
-   "sushi_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "薬院"
- },
- "17588690396584238508": {
-  "place_id": "ChIJ2bpLV4GRQTURrF26ELqUF_Q",
-  "name": "貴味寿し",
-  "address": "日本、〒810-0023 福岡県福岡市中央区警固１丁目６−５",
-  "rating": 4.8,
-  "userRatingCount": 253,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=17588690396584238508&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.5846346,
-   "longitude": 130.3951329
-  },
-  "types": [
-   "sushi_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "薬院"
- },
- "15082058435362299935": {
-  "place_id": "ChIJYTIPm5uRQTURHyB0IT08TtE",
-  "name": "いちい寿し",
-  "address": "日本、〒810-0004 福岡県福岡市中央区渡辺通２丁目３−２７ 待鳥ビル",
-  "rating": 4.6,
-  "userRatingCount": 418,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=15082058435362299935&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.582334599999996,
-   "longitude": 130.4036521
-  },
-  "types": [
-   "sushi_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
    "establishment"
   ],
   "area_label": "薬院"
@@ -16612,8 +16360,98 @@
    "sushi_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "薬院"
+ },
+ "18066240815659892902": {
+  "place_id": "ChIJ75fkSn-RQTURpkAShE0uuPo",
+  "name": "鮨銀杏Sushiichyou",
+  "address": "日本、〒810-0022 福岡県福岡市中央区薬院４丁目１８−９ 日宝サンセーヌ浄水",
+  "rating": 4.6,
+  "userRatingCount": 33,
+  "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=18066240815659892902&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.579215999999995,
+   "longitude": 130.395494
+  },
+  "types": [
+   "sushi_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "薬院"
+ },
+ "3759261648226357052": {
+  "place_id": "ChIJq1gCl52RQTURPA9IOI2UKzQ",
+  "name": "すし和泉",
+  "address": "日本、〒810-0014 福岡県福岡市中央区平尾３丁目２０−２",
+  "rating": 4.9,
+  "userRatingCount": 21,
+  "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=3759261648226357052&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.5768443,
+   "longitude": 130.3979156
+  },
+  "types": [
+   "sushi_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "薬院"
+ },
+ "7840305565647166972": {
+  "place_id": "ChIJKzjxoISRQTUR_N3qSl9czmw",
+  "name": "庵侍燈(あじと)福岡薬院本店",
+  "address": "日本、〒810-0022 福岡県福岡市中央区薬院１丁目１５−１３ アントゥール薬院 2F",
+  "rating": 4.1,
+  "userRatingCount": 142,
+  "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=7840305565647166972&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.583464,
+   "longitude": 130.39961
+  },
+  "types": [
+   "japanese_izakaya_restaurant",
+   "sushi_restaurant",
+   "seafood_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "薬院"
+ },
+ "17588690396584238508": {
+  "place_id": "ChIJ2bpLV4GRQTURrF26ELqUF_Q",
+  "name": "貴味寿し",
+  "address": "日本、〒810-0023 福岡県福岡市中央区警固１丁目６−５",
+  "rating": 4.8,
+  "userRatingCount": 253,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=17588690396584238508&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.5846346,
+   "longitude": 130.3951329
+  },
+  "types": [
+   "sushi_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "薬院"
@@ -16682,13 +16520,13 @@
   },
   "types": [
    "cafe",
+   "coffee_stand",
    "coffee_shop",
    "cafeteria",
-   "coffee_stand",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "薬院"
@@ -16796,16 +16634,16 @@
   },
   "types": [
    "cafe",
-   "coffee_shop",
    "cake_shop",
+   "coffee_shop",
    "bakery",
    "wholesaler",
    "manufacturer",
    "food_store",
    "store",
+   "service",
    "food",
    "point_of_interest",
-   "service",
    "establishment"
   ],
   "area_label": "薬院"
@@ -16847,19 +16685,19 @@
   },
   "types": [
    "cafe",
-   "breakfast_restaurant",
-   "western_restaurant",
    "brunch_restaurant",
+   "western_restaurant",
+   "breakfast_restaurant",
    "coffee_shop",
-   "italian_restaurant",
-   "cafeteria",
-   "european_restaurant",
-   "food_store",
    "dessert_restaurant",
+   "cafeteria",
+   "italian_restaurant",
+   "food_store",
    "store",
+   "european_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "薬院"
@@ -16903,8 +16741,8 @@
    "coffee_shop",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "薬院"
@@ -16923,21 +16761,21 @@
   },
   "types": [
    "cafe",
-   "snack_bar",
    "cake_shop",
-   "bakery",
+   "snack_bar",
    "meal_takeaway",
+   "bakery",
+   "dessert_restaurant",
    "dessert_shop",
    "confectionery",
    "wholesaler",
    "manufacturer",
    "food_store",
-   "dessert_restaurant",
    "store",
+   "service",
    "restaurant",
    "food",
    "point_of_interest",
-   "service",
    "establishment"
   ],
   "area_label": "薬院"
@@ -16958,15 +16796,15 @@
    "cake_shop",
    "cafe",
    "bakery",
+   "dessert_restaurant",
    "wholesaler",
    "manufacturer",
    "food_store",
-   "dessert_restaurant",
    "store",
+   "service",
    "restaurant",
    "food",
    "point_of_interest",
-   "service",
    "establishment"
   ],
   "area_label": "薬院"
@@ -17007,8 +16845,8 @@
    "longitude": 130.3954913
   },
   "types": [
-   "pastry_shop",
    "cake_shop",
+   "pastry_shop",
    "bakery",
    "dessert_shop",
    "confectionery",
@@ -17016,9 +16854,9 @@
    "manufacturer",
    "food_store",
    "store",
+   "service",
    "food",
    "point_of_interest",
-   "service",
    "establishment"
   ],
   "area_label": "薬院"
@@ -17037,13 +16875,13 @@
   },
   "types": [
    "cafe",
+   "coffee_stand",
+   "pastry_shop",
    "coffee_shop",
    "donut_shop",
-   "pastry_shop",
    "bakery",
    "dessert_shop",
    "confectionery",
-   "coffee_stand",
    "food_store",
    "store",
    "food",
@@ -17066,8 +16904,8 @@
   },
   "types": [
    "cafe",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "薬院"
@@ -17091,9 +16929,29 @@
    "manufacturer",
    "food_store",
    "store",
+   "service",
    "food",
    "point_of_interest",
-   "service",
+   "establishment"
+  ],
+  "area_label": "薬院"
+ },
+ "13650666475552434946": {
+  "place_id": "ChIJk8OWY4SRQTURAuuiztXocL0",
+  "name": "ル·ブルトン",
+  "address": "日本、〒810-0021 福岡県福岡市中央区今泉２丁目１−６５ メゾン・ドール・今泉",
+  "rating": 4.2,
+  "userRatingCount": 342,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=13650666475552434946&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.584781400000004,
+   "longitude": 130.397911
+  },
+  "types": [
+   "cafe",
+   "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "薬院"
@@ -17154,8 +17012,8 @@
   },
   "types": [
    "vegan_restaurant",
-   "cafe",
    "vegetarian_restaurant",
+   "cafe",
    "dessert_restaurant",
    "restaurant",
    "food",
@@ -17377,8 +17235,8 @@
   "types": [
    "yakitori_restaurant",
    "japanese_izakaya_restaurant",
-   "bar",
    "japanese_restaurant",
+   "bar",
    "restaurant",
    "food",
    "point_of_interest",
@@ -17400,8 +17258,8 @@
   },
   "types": [
    "yakitori_restaurant",
-   "japanese_izakaya_restaurant",
    "chicken_restaurant",
+   "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
    "food",
@@ -17560,33 +17418,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
-   "establishment"
-  ],
-  "area_label": "薬院"
- },
- "7962921479919058450": {
-  "place_id": "ChIJcV9y08KRQTUREj7niOX6gW4",
-  "name": "博多天ぷら スタンド◎まるに 今泉店",
-  "address": "日本、〒810-0021 福岡県福岡市中央区今泉１丁目１２−１４",
-  "rating": 4.5,
-  "userRatingCount": 545,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=7962921479919058450&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.586937299999995,
-   "longitude": 130.4004827
-  },
-  "types": [
-   "japanese_izakaya_restaurant",
-   "banquet_hall",
-   "japanese_restaurant",
-   "event_venue",
-   "bar",
-   "restaurant",
    "point_of_interest",
-   "food",
    "establishment"
   ],
   "area_label": "薬院"
@@ -17607,8 +17440,8 @@
    "japanese_restaurant",
    "japanese_izakaya_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "薬院"
@@ -17628,8 +17461,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "薬院"
@@ -17649,8 +17482,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "薬院"
@@ -17672,8 +17505,8 @@
    "coffee_shop",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "薬院"
@@ -17692,16 +17525,16 @@
   },
   "types": [
    "coffee_shop",
-   "sandwich_shop",
-   "breakfast_restaurant",
    "coffee_roastery",
+   "breakfast_restaurant",
    "cafe",
-   "food_store",
    "dessert_restaurant",
+   "sandwich_shop",
+   "food_store",
    "store",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "薬院"
@@ -17724,8 +17557,8 @@
    "food_store",
    "store",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "薬院"
@@ -17745,8 +17578,8 @@
   "types": [
    "sandwich_shop",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "薬院"
@@ -17769,8 +17602,8 @@
    "japanese_restaurant",
    "store",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "薬院"
@@ -17789,8 +17622,8 @@
   },
   "types": [
    "cafe",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "薬院"
@@ -17831,17 +17664,17 @@
   },
   "types": [
    "sandwich_shop",
+   "coffee_stand",
    "coffee_shop",
    "cafe",
+   "cafeteria",
    "snack_bar",
    "meal_takeaway",
-   "cafeteria",
-   "coffee_stand",
    "food_store",
    "store",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "薬院"
@@ -17935,6 +17768,29 @@
   ],
   "area_label": "薬院"
  },
+ "13046991685962893441": {
+  "place_id": "ChIJU0GZZ5uRQTURgQhL_c85ELU",
+  "name": "Pizzeria da Gaetano",
+  "address": "日本、〒810-0004 福岡県福岡市中央区渡辺通２丁目７−１４ パグーロ薬院 1階",
+  "rating": 4.3,
+  "userRatingCount": 803,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=13046991685962893441&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.5828456,
+   "longitude": 130.402077
+  },
+  "types": [
+   "italian_restaurant",
+   "pizza_restaurant",
+   "european_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "薬院"
+ },
  "8409692058357830956": {
   "place_id": "ChIJR3D5SXmRQTURLJXX4F46tXQ",
   "name": "パステリアフローリッシュ",
@@ -17995,29 +17851,6 @@
   },
   "types": [
    "italian_restaurant",
-   "european_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "薬院"
- },
- "13046991685962893441": {
-  "place_id": "ChIJU0GZZ5uRQTURgQhL_c85ELU",
-  "name": "Pizzeria da Gaetano",
-  "address": "日本、〒810-0004 福岡県福岡市中央区渡辺通２丁目７−１４ パグーロ薬院 1階",
-  "rating": 4.3,
-  "userRatingCount": 803,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=13046991685962893441&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.5828456,
-   "longitude": 130.402077
-  },
-  "types": [
-   "italian_restaurant",
-   "pizza_restaurant",
    "european_restaurant",
    "restaurant",
    "food",
@@ -18090,17 +17923,17 @@
   ],
   "area_label": "薬院"
  },
- "16750352847236107488": {
-  "place_id": "ChIJYdh3HHiRQTUR4Az22So1deg",
-  "name": "KIMUSHO",
-  "address": "日本、〒810-0022 福岡県福岡市中央区薬院３丁目７−16-1F",
-  "rating": 4.5,
-  "userRatingCount": 60,
+ "9524769049895894922": {
+  "place_id": "ChIJYwgpr3iRQTURiv-tivzGLoQ",
+  "name": "ラ・カーサ・ディ・ナオ",
+  "address": "日本、〒810-0022 福岡県福岡市中央区薬院４丁目８−６",
+  "rating": 4.3,
+  "userRatingCount": 166,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=16750352847236107488&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=9524769049895894922&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 33.577579899999996,
-   "longitude": 130.400365
+   "latitude": 33.579722,
+   "longitude": 130.396074
   },
   "types": [
    "italian_restaurant",
@@ -18146,6 +17979,28 @@
   "location": {
    "latitude": 33.582332,
    "longitude": 130.4035859
+  },
+  "types": [
+   "italian_restaurant",
+   "european_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "薬院"
+ },
+ "16750352847236107488": {
+  "place_id": "ChIJYdh3HHiRQTUR4Az22So1deg",
+  "name": "KIMUSHO",
+  "address": "日本、〒810-0022 福岡県福岡市中央区薬院３丁目７−16-1F",
+  "rating": 4.5,
+  "userRatingCount": 60,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=16750352847236107488&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.577579899999996,
+   "longitude": 130.400365
   },
   "types": [
    "italian_restaurant",
@@ -18282,6 +18137,29 @@
   ],
   "area_label": "百道"
  },
+ "7466496091577618312": {
+  "place_id": "ChIJM4KHhxaTQTURiI9T16JSnmc",
+  "name": "Restaurant GOSHIMA",
+  "address": "日本、〒814-0006 福岡県福岡市早良区百道１丁目５−１ エスペランサ百道",
+  "rating": 4.8,
+  "userRatingCount": 22,
+  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=7466496091577618312&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.5821898,
+   "longitude": 130.34920449999998
+  },
+  "types": [
+   "french_restaurant",
+   "brunch_restaurant",
+   "european_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "百道"
+ },
  "16263280840917701439": {
   "place_id": "ChIJm-9OQHuTQTURP9NQHcLHsuE",
   "name": "SWELL CAFE&BAR",
@@ -18305,29 +18183,6 @@
   ],
   "area_label": "百道"
  },
- "7466496091577618312": {
-  "place_id": "ChIJM4KHhxaTQTURiI9T16JSnmc",
-  "name": "Restaurant GOSHIMA",
-  "address": "日本、〒814-0006 福岡県福岡市早良区百道１丁目５−１ エスペランサ百道",
-  "rating": 4.8,
-  "userRatingCount": 22,
-  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=7466496091577618312&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.5821898,
-   "longitude": 130.34920449999998
-  },
-  "types": [
-   "french_restaurant",
-   "brunch_restaurant",
-   "european_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "百道"
- },
  "16813787666522229989": {
   "place_id": "ChIJpZosHgqTQTUR5czmp8ySVuk",
   "name": "ゼフィール",
@@ -18344,8 +18199,8 @@
    "cafe",
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "百道"
@@ -18367,6 +18222,30 @@
    "korean_restaurant",
    "food_store",
    "store",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "百道"
+ },
+ "1795889275509103204": {
+  "place_id": "ChIJzwYtzkuTQTURZFqn8sdH7Bg",
+  "name": "(アサイーボウル×りんご飴)fruit closet cafe百道店",
+  "address": "日本、〒814-0001 福岡県福岡市早良区百道浜１丁目２−１",
+  "rating": 4.5,
+  "userRatingCount": 95,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=1795889275509103204&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.5886032,
+   "longitude": 130.3556438
+  },
+  "types": [
+   "cafe",
+   "dessert_restaurant",
+   "acai_shop",
+   "brazilian_restaurant",
    "restaurant",
    "point_of_interest",
    "food",
@@ -18430,8 +18309,8 @@
   "types": [
    "barbecue_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -18459,30 +18338,6 @@
   ],
   "area_label": "百道"
  },
- "1795889275509103204": {
-  "place_id": "ChIJzwYtzkuTQTURZFqn8sdH7Bg",
-  "name": "(アサイーボウル×りんご飴)fruit closet cafe百道店",
-  "address": "日本、〒814-0001 福岡県福岡市早良区百道浜１丁目２−１",
-  "rating": 4.5,
-  "userRatingCount": 95,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=1795889275509103204&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.5886032,
-   "longitude": 130.3556438
-  },
-  "types": [
-   "cafe",
-   "acai_shop",
-   "brazilian_restaurant",
-   "dessert_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "百道"
- },
  "812007471063247074": {
   "place_id": "ChIJJcmpQaaTQTUR4iiwI37URAs",
   "name": "博多めんたいやまや食堂 MARK IS 福岡ももち店",
@@ -18498,29 +18353,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "百道"
- },
- "8843067115168905744": {
-  "place_id": "ChIJwfjjfAqTQTURELqUTLDiuHo",
-  "name": "中国大明火鍋城",
-  "address": "日本、〒814-0006 福岡県福岡市早良区百道１丁目５−１",
-  "rating": 4.2,
-  "userRatingCount": 627,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=8843067115168905744&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.5820381,
-   "longitude": 130.3491518
-  },
-  "types": [
-   "chinese_restaurant",
-   "restaurant",
    "food",
-   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -18541,8 +18375,8 @@
    "ramen_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -18605,8 +18439,8 @@
    "ramen_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -18690,8 +18524,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -18712,8 +18546,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -18734,8 +18568,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -18757,8 +18591,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -18777,11 +18611,11 @@
   },
   "types": [
    "japanese_izakaya_restaurant",
-   "japanese_restaurant",
    "bar",
+   "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -18802,8 +18636,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -18822,8 +18656,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -18844,8 +18678,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -18867,8 +18701,8 @@
    "meal_takeaway",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -18889,8 +18723,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -18911,8 +18745,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -18933,8 +18767,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -18955,8 +18789,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -18977,8 +18811,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -18999,8 +18833,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -19022,8 +18856,8 @@
    "barbecue_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -19044,8 +18878,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -19066,8 +18900,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -19088,8 +18922,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -19110,8 +18944,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -19132,8 +18966,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -19154,8 +18988,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -19177,15 +19011,15 @@
    "butcher_shop",
    "meal_takeaway",
    "korean_barbecue_restaurant",
-   "japanese_restaurant",
    "korean_restaurant",
-   "food_store",
    "manufacturer",
+   "food_store",
+   "japanese_restaurant",
    "store",
-   "service",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
+   "service",
    "establishment"
   ],
   "area_label": "百道"
@@ -19206,8 +19040,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -19227,8 +19061,8 @@
   "types": [
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -19249,8 +19083,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -19271,8 +19105,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -19294,8 +19128,8 @@
    "barbecue_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -19360,8 +19194,8 @@
    "sushi_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -19382,8 +19216,8 @@
    "sushi_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -19404,8 +19238,8 @@
    "sushi_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -19425,12 +19259,12 @@
   "types": [
    "sushi_restaurant",
    "japanese_izakaya_restaurant",
-   "seafood_restaurant",
    "meal_takeaway",
+   "seafood_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -19452,8 +19286,8 @@
    "fine_dining_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -19474,8 +19308,8 @@
    "sushi_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -19494,12 +19328,12 @@
   },
   "types": [
    "sushi_restaurant",
-   "seafood_restaurant",
    "meal_takeaway",
+   "seafood_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -19520,8 +19354,8 @@
    "sushi_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -19542,8 +19376,8 @@
    "sushi_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -19562,12 +19396,12 @@
   },
   "types": [
    "meal_takeaway",
-   "japanese_restaurant",
    "food_store",
+   "japanese_restaurant",
    "store",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -19589,8 +19423,8 @@
    "japanese_izakaya_restaurant",
    "seafood_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -19612,8 +19446,8 @@
    "cafe",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "百道"
@@ -19658,8 +19492,8 @@
    "coffee_shop",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "百道"
@@ -19681,8 +19515,8 @@
    "cafe",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "百道"
@@ -19701,8 +19535,52 @@
   },
   "types": [
    "cafe",
-   "food",
    "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "百道"
+ },
+ "1030505031044228546": {
+  "place_id": "ChIJ95YHzpWTQTURwuWkqt0WTQ4",
+  "name": "パンシリオ",
+  "address": "日本、〒810-0055 福岡県福岡市中央区黒門８−１５",
+  "rating": 4.5,
+  "userRatingCount": 625,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=1030505031044228546&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.589026499999996,
+   "longitude": 130.37046429999998
+  },
+  "types": [
+   "cafe",
+   "dessert_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "百道"
+ },
+ "2582350563771495267": {
+  "place_id": "ChIJW3wHbg2TQTURYzMh5yda1iM",
+  "name": "TAMUYA",
+  "address": "日本、〒810-0062 福岡県福岡市中央区荒戸２丁目２−２４",
+  "rating": 4.2,
+  "userRatingCount": 83,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=2582350563771495267&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.5913215,
+   "longitude": 130.3755476
+  },
+  "types": [
+   "confectionery",
+   "food_store",
+   "store",
+   "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "百道"
@@ -19724,52 +19602,8 @@
    "confectionery",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "百道"
- },
- "1030505031044228546": {
-  "place_id": "ChIJ95YHzpWTQTURwuWkqt0WTQ4",
-  "name": "パンシリオ",
-  "address": "日本、〒810-0055 福岡県福岡市中央区黒門８−１５",
-  "rating": 4.5,
-  "userRatingCount": 625,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=1030505031044228546&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.589026499999996,
-   "longitude": 130.37046429999998
-  },
-  "types": [
-   "cafe",
-   "dessert_restaurant",
-   "restaurant",
    "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "百道"
- },
- "2582350563771495267": {
-  "place_id": "ChIJW3wHbg2TQTURYzMh5yda1iM",
-  "name": "TAMUYA",
-  "address": "日本、〒810-0062 福岡県福岡市中央区荒戸２丁目２−２４",
-  "rating": 4.2,
-  "userRatingCount": 83,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=2582350563771495267&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.5913215,
-   "longitude": 130.3755476
-  },
-  "types": [
-   "confectionery",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -19788,66 +19622,14 @@
   },
   "types": [
    "cafe",
+   "japanese_restaurant",
    "dessert_shop",
    "confectionery",
    "food_store",
-   "japanese_restaurant",
    "store",
    "restaurant",
-   "food",
    "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "百道"
- },
- "6370717148471256734": {
-  "place_id": "ChIJQXyuf0STQTURnmYeN35VaVg",
-  "name": "パティスリー プティ ジュール",
-  "address": "日本、〒819-0006 福岡県福岡市西区姪浜駅南１丁目６−１３",
-  "rating": 4.2,
-  "userRatingCount": 132,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=6370717148471256734&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.582562599999996,
-   "longitude": 130.3240411
-  },
-  "types": [
-   "cake_shop",
-   "pastry_shop",
-   "bakery",
-   "dessert_shop",
-   "confectionery",
-   "wholesaler",
-   "manufacturer",
-   "food_store",
-   "store",
    "food",
-   "point_of_interest",
-   "service",
-   "establishment"
-  ],
-  "area_label": "百道"
- },
- "16582476698471292431": {
-  "place_id": "ChIJx1zacprrQTURD96SFLPKIOY",
-  "name": "frutta",
-  "address": "日本、〒819-0375 福岡県福岡市西区北原２丁目１２−８",
-  "rating": 4.2,
-  "userRatingCount": 103,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=16582476698471292431&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.5814792,
-   "longitude": 130.2551972
-  },
-  "types": [
-   "cafe",
-   "coffee_shop",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -19868,31 +19650,8 @@
    "cafe",
    "meal_takeaway",
    "restaurant",
-   "food",
    "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "百道"
- },
- "1172414857933561455": {
-  "place_id": "ChIJiXJ6gTOSQTURbx6FABpBRRA",
-  "name": "La Brioche",
-  "address": "日本、〒810-0062 福岡県福岡市中央区荒戸２丁目１−１９ Ｌａ、Ｂｒｉｏｃｈｅ",
-  "rating": 4.1,
-  "userRatingCount": 450,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=1172414857933561455&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 33.5906472,
-   "longitude": 130.3754549
-  },
-  "types": [
-   "bakery",
-   "cafe",
-   "food_store",
-   "store",
    "food",
-   "point_of_interest",
    "establishment"
   ],
   "area_label": "百道"
@@ -19918,37 +19677,54 @@
    "food_store",
    "store",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "百道"
  },
- "15002132961058903499": {
-  "place_id": "ChIJV-LzIX-RQTURy1UYgXFIMtA",
-  "name": "フランス菓子16区",
-  "address": "日本、〒810-0022 福岡県福岡市中央区薬院４丁目２０−１０",
-  "rating": 4.4,
-  "userRatingCount": 995,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=15002132961058903499&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "16582476698471292431": {
+  "place_id": "ChIJx1zacprrQTURD96SFLPKIOY",
+  "name": "frutta",
+  "address": "日本、〒819-0375 福岡県福岡市西区北原２丁目１２−８",
+  "rating": 4.2,
+  "userRatingCount": 103,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=16582476698471292431&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 33.5786023,
-   "longitude": 130.3944021
+   "latitude": 33.5814792,
+   "longitude": 130.2551972
   },
   "types": [
-   "pastry_shop",
-   "cake_shop",
-   "bakery",
-   "dessert_shop",
-   "confectionery",
-   "wholesaler",
-   "manufacturer",
+   "cafe",
+   "coffee_shop",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
-   "service",
+   "food",
+   "establishment"
+  ],
+  "area_label": "百道"
+ },
+ "1172414857933561455": {
+  "place_id": "ChIJiXJ6gTOSQTURbx6FABpBRRA",
+  "name": "La Brioche",
+  "address": "日本、〒810-0062 福岡県福岡市中央区荒戸２丁目１−１９ Ｌａ、Ｂｒｉｏｃｈｅ",
+  "rating": 4.1,
+  "userRatingCount": 450,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=1172414857933561455&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.5906472,
+   "longitude": 130.3754549
+  },
+  "types": [
+   "bakery",
+   "cafe",
+   "food_store",
+   "store",
+   "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "百道"
@@ -19972,8 +19748,66 @@
    "confectionery",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "百道"
+ },
+ "6370717148471256734": {
+  "place_id": "ChIJQXyuf0STQTURnmYeN35VaVg",
+  "name": "パティスリー プティ ジュール",
+  "address": "日本、〒819-0006 福岡県福岡市西区姪浜駅南１丁目６−１３",
+  "rating": 4.2,
+  "userRatingCount": 132,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=6370717148471256734&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.582562599999996,
+   "longitude": 130.3240411
+  },
+  "types": [
+   "cake_shop",
+   "pastry_shop",
+   "bakery",
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "manufacturer",
+   "store",
+   "wholesaler",
+   "service",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "百道"
+ },
+ "15002132961058903499": {
+  "place_id": "ChIJV-LzIX-RQTURy1UYgXFIMtA",
+  "name": "フランス菓子16区",
+  "address": "日本、〒810-0022 福岡県福岡市中央区薬院４丁目２０−１０",
+  "rating": 4.4,
+  "userRatingCount": 995,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=15002132961058903499&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 33.5786023,
+   "longitude": 130.3944021
+  },
+  "types": [
+   "pastry_shop",
+   "cake_shop",
+   "bakery",
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "manufacturer",
+   "store",
+   "wholesaler",
+   "service",
+   "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "百道"
@@ -20376,8 +20210,8 @@
   },
   "types": [
    "observation_deck",
-   "cultural_landmark",
    "tourist_attraction",
+   "cultural_landmark",
    "event_venue",
    "point_of_interest",
    "establishment"
@@ -20972,11 +20806,11 @@
    "amusement_park",
    "tourist_attraction",
    "museum",
-   "sports_activity_location",
-   "store",
    "church",
    "place_of_worship",
    "association_or_organization",
+   "sports_activity_location",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -20996,16 +20830,16 @@
   },
   "types": [
    "tourist_attraction",
-   "amusement_park",
    "food_court",
-   "amusement_center",
+   "amusement_park",
    "performing_arts_theater",
-   "museum",
+   "amusement_center",
    "event_venue",
-   "sports_activity_location",
+   "museum",
    "church",
    "place_of_worship",
    "association_or_organization",
+   "sports_activity_location",
    "food",
    "point_of_interest",
    "establishment"
