@@ -369,6 +369,20 @@
   }
 
   main{ padding:32px var(--safe-r) 100px var(--safe-l); }
+  .view-toggle-btn{
+    margin-left:auto; height:34px; padding:0 14px; border:1px solid rgba(22,20,15,0.4); border-radius:999px;
+    background:rgba(22,20,15,0.05); color:#201d16; cursor:pointer; font-size:13px; font-weight:600; flex:0 0 auto;
+  }
+  .view-toggle-btn:hover{ background:rgba(184,144,47,0.18); }
+  .view-toggle-btn.active{ background:#16140f; color:#c9a227; border-color:#16140f; }
+  .map-view{ width:100%; height:68vh; min-height:420px; border-radius:16px; overflow:hidden; border:1px solid rgba(22,20,15,0.15); background:#ece8dc; z-index:0; }
+  .map-pop{ font-size:13px; line-height:1.55; min-width:190px; }
+  .map-pop .t{ font-weight:800; font-size:14px; }
+  .map-pop .z{ color:#6b6656; }
+  .map-pop .b{ display:inline-block; font-size:11px; font-weight:700; padding:1px 8px; border-radius:999px; margin:3px 0; }
+  .map-pop .b.open{ background:#e4f4e8; color:#2c6b41; }
+  .map-pop .b.closed{ background:#f6e3e1; color:#a7332a; }
+  .map-pop a, .map-pop button.lnk{ color:#8a6a1f; font-weight:700; margin-right:10px; font-size:12.5px; background:none; border:0; padding:0; cursor:pointer; text-decoration:underline; }
   .grid{ display:grid; grid-template-columns:repeat(auto-fill, minmax(280px,1fr)); gap:20px; }
   .load-more-wrap{ text-align:center; margin-top:28px; }
   .load-more-btn{
@@ -628,6 +642,7 @@
   </div>
   <div class="result-row">
     <div class="result-count" id="resultCount"></div>
+    <button class="view-toggle-btn" id="viewToggleBtn" type="button" aria-pressed="false">🗺 地圖模式</button>
     <div class="cat-select-wrap sort-select-wrap">
       <select class="cat-select" id="sortSelect" aria-label="排序方式">
         <option value="default">預設排序</option>
@@ -680,6 +695,7 @@
 </div>
 
 <main>
+  <div class="map-view" id="mapView" style="display:none;"></div>
   <div class="grid" id="grid"></div>
   <div class="load-more-wrap" id="loadMoreWrap" style="display:none;">
     <button type="button" class="load-more-btn" id="loadMoreBtn"></button>
@@ -2818,6 +2834,91 @@ function parkingBadge(r){
   }
 }
 
+// ── 地圖模式 ────────────────────────────────────────────────────────
+// Leaflet + OpenStreetMap，第一次切到地圖才從 CDN 載入，離線或載入失敗時回到列表。
+let mapMode = false, leafletMap = null, markerLayer = null, userMarker = null, lastMapKey = '', leafletPromise = null;
+const mapView = document.getElementById('mapView');
+const viewToggleBtn = document.getElementById('viewToggleBtn');
+function loadScript(src){ return new Promise((ok,ng)=>{ const el=document.createElement('script'); el.src=src; el.onload=ok; el.onerror=()=>ng(new Error(src)); document.head.appendChild(el); }); }
+function loadCss(href){ const l=document.createElement('link'); l.rel='stylesheet'; l.href=href; document.head.appendChild(l); }
+function ensureLeaflet(){
+  if(window.L && window.L.markerClusterGroup) return Promise.resolve();
+  if(!leafletPromise){
+    const base = 'https://cdnjs.cloudflare.com/ajax/libs/';
+    loadCss(base+'leaflet/1.9.4/leaflet.css');
+    loadCss(base+'leaflet.markercluster/1.5.3/MarkerCluster.css');
+    loadCss(base+'leaflet.markercluster/1.5.3/MarkerCluster.Default.css');
+    leafletPromise = loadScript(base+'leaflet/1.9.4/leaflet.js')
+      .then(()=>loadScript(base+'leaflet.markercluster/1.5.3/leaflet.markercluster.js'))
+      .catch(e=>{ leafletPromise = null; throw e; });
+  }
+  return leafletPromise;
+}
+function setMapMode(on){
+  mapMode = on;
+  viewToggleBtn.classList.toggle('active', on);
+  viewToggleBtn.setAttribute('aria-pressed', on ? 'true' : 'false');
+  viewToggleBtn.textContent = on ? '📋 列表模式' : '🗺 地圖模式';
+  render();
+}
+viewToggleBtn.addEventListener('click', ()=>{
+  if(mapMode){ setMapMode(false); return; }
+  viewToggleBtn.textContent = '地圖載入中…';
+  ensureLeaflet().then(()=>setMapMode(true)).catch(()=>{
+    viewToggleBtn.textContent = '🗺 地圖模式';
+    showToast('地圖載入失敗，請確認網路後再試');
+  });
+});
+function updateMap(list, cp, filterKey){
+  if(!window.L || !window.L.markerClusterGroup) return;
+  if(!leafletMap){
+    leafletMap = L.map(mapView, {zoomControl:true}).setView([24.15, 120.67], 12);
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {maxZoom:19, attribution:'&copy; OpenStreetMap'}).addTo(leafletMap);
+    markerLayer = L.markerClusterGroup({maxClusterRadius:45, showCoverageOnHover:false});
+    leafletMap.addLayer(markerLayer);
+  }
+  markerLayer.clearLayers();
+  const pts = [];
+  list.forEach(r=>{
+    if(typeof r.lat !== 'number' || typeof r.lng !== 'number') return;
+    const isMarket = r.cat.includes('夜市');
+    const open = isOpenAt(r.name, cp.day, cp.minutes);
+    const color = isMarket ? '#b8902f' : (open ? '#2c9a58' : '#9a948a');
+    const m = L.circleMarker([r.lat, r.lng], {radius:9, color:'#fff', weight:2, fillColor:color, fillOpacity:.95});
+    const pop = document.createElement('div');
+    pop.className = 'map-pop';
+    const t = document.createElement('div'); t.className='t'; t.textContent = r.name; pop.appendChild(t);
+    if(r.nameZh){ const z=document.createElement('div'); z.className='z'; z.textContent=r.nameZh; pop.appendChild(z); }
+    const info = document.createElement('div');
+    info.textContent = `★ ${r.rating.toFixed(1)}　${r.price}　${r.cat.join('・')}`;
+    pop.appendChild(info);
+    const b = document.createElement('span');
+    b.className = 'b ' + (open ? 'open' : 'closed');
+    b.textContent = isMarket ? '營業時間僅供參考' : (open ? '營業中' : '目前休息');
+    pop.appendChild(b);
+    const h = document.createElement('div'); h.textContent = hoursSummary(r.name); pop.appendChild(h);
+    if(r.transport){ const tr=document.createElement('div'); tr.textContent = `${r.transport.mode}：${r.transport.note}`; tr.style.cssText='margin-top:4px;color:#2b4f7e;'; pop.appendChild(tr); }
+    const links = document.createElement('div'); links.style.marginTop='6px';
+    if(r.mapsUrl){ const a=document.createElement('a'); a.href=r.mapsUrl; a.target='_blank'; a.rel='noopener'; a.textContent='📍 Google 地圖'; links.appendChild(a); }
+    const lb = document.createElement('button'); lb.type='button'; lb.className='lnk'; lb.textContent='在列表中查看';
+    lb.addEventListener('click', ()=>{ leafletMap.closePopup(); setMapMode(false); searchInput.value = r.name; searchInput.dispatchEvent(new Event('input')); window.scrollTo({top:0, behavior:'smooth'}); });
+    links.appendChild(lb);
+    pop.appendChild(links);
+    m.bindPopup(pop);
+    markerLayer.addLayer(m);
+    pts.push([r.lat, r.lng]);
+  });
+  if(userMarker){ leafletMap.removeLayer(userMarker); userMarker = null; }
+  if(userLocation){
+    userMarker = L.circleMarker([userLocation.lat, userLocation.lng], {radius:8, color:'#fff', weight:3, fillColor:'#2b6fd6', fillOpacity:1}).bindTooltip('你的位置').addTo(leafletMap);
+  }
+  leafletMap.invalidateSize();
+  if(pts.length && filterKey !== lastMapKey){
+    leafletMap.fitBounds(pts, {padding:[30,30], maxZoom:16});
+    lastMapKey = filterKey;
+  }
+}
+
 function render(){
   const cp = currentCheckPoint();
   renderCatFilters(cp);
@@ -2848,6 +2949,15 @@ function render(){
 
   resultCount.textContent = `共找到 ${filtered.length} 間餐廳`;
   grid.innerHTML = '';
+  mapView.style.display = mapMode ? 'block' : 'none';
+  grid.style.display = mapMode ? 'none' : '';
+  if(mapMode){
+    loadMoreWrap.style.display = 'none';
+    emptyState.style.display = filtered.length ? 'none' : 'block';
+    if(!filtered.length) emptyStateText.textContent = '找不到符合條件的餐廳，試試調整篩選條件';
+    updateMap(filtered, cp, filterKey + (siteMode==='trip' ? currentTripCity : ''));
+    return;
+  }
 
   if(filtered.length===0){
     emptyState.style.display = 'block';
