@@ -91,6 +91,13 @@ TC_DISTRICTS = {
 for _label in ("博多", "天神", "中洲", "大名", "薬院", "百道"):
     AREA_KEYWORDS[_label] = ["福岡市"]
 
+# Google returns English addresses/names for Japan even with languageCode=zh-TW
+# (e.g. "Fukuoka, Chuo Ward, Yakuin"), which broke the address check and gave
+# romaji-only names. Ask for Japanese for the 福岡 labels so names/addresses
+# come back in the original script ("福岡県福岡市中央区…"); everything else
+# keeps zh-TW.
+LANG_BY_LABEL = {_l: "ja" for _l in ("博多", "天神", "中洲", "大名", "薬院", "百道")}
+
 
 def area_keywords(label):
     if label in AREA_KEYWORDS:
@@ -109,10 +116,10 @@ if not KEY and SB != "<YOUR_SCRATCHPAD_DIR>":
 if not KEY:
     raise SystemExit("Missing GOOGLE_PLACES_API_KEY or local scratchpad key file")
 
-def search_text(query, lat, lng, radius=8000.0):
+def search_text(query, lat, lng, radius=8000.0, lang="zh-TW"):
     url = "https://places.googleapis.com/v1/places:searchText"
     body = json.dumps({
-        "textQuery": query, "languageCode": "zh-TW",
+        "textQuery": query, "languageCode": lang,
         "locationBias": {"circle": {"center": {"latitude": lat, "longitude": lng}, "radius": radius}}
     }).encode('utf-8')
     field_mask = ("places.id,places.displayName,places.formattedAddress,places.rating,"
@@ -131,7 +138,7 @@ all_results = {}
 for area_label, queries in QUERIES.items():
     lat, lng = AREAS[area_label]
     for q in queries:
-        data = search_text(q, lat, lng)
+        data = search_text(q, lat, lng, lang=LANG_BY_LABEL.get(area_label, "zh-TW"))
         places = data.get('places', [])
         print(f"{q}: {len(places)} results", flush=True)
         for p in places:

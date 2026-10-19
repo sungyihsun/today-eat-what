@@ -63,6 +63,13 @@ TC_DISTRICTS = {
 for _label in ("博多", "天神", "中洲", "大名", "薬院", "百道"):
     AREA_KEYWORDS[_label] = ["福岡市"]
 
+# Google returns English addresses/names for Japan even with languageCode=zh-TW
+# (e.g. "Fukuoka, Chuo Ward, Yakuin"), which broke the address check and gave
+# romaji-only names. Ask for Japanese for the 福岡 labels so names/addresses
+# come back in the original script ("福岡県福岡市中央区…"); everything else
+# keeps zh-TW.
+LANG_BY_LABEL = {_l: "ja" for _l in ("博多", "天神", "中洲", "大名", "薬院", "百道")}
+
 
 def area_keywords(label):
     if label in AREA_KEYWORDS:
@@ -111,7 +118,7 @@ def photo_url(photo_name, w=800, h=800):
     return None
 
 
-def get_details(place_id):
+def get_details(place_id, lang="zh-TW"):
     # languageCode must be passed explicitly here (Place Details defaults to
     # English if omitted, unlike Text Search which had it in the request
     # body) — without it, formattedAddress can come back in English even
@@ -119,7 +126,7 @@ def get_details(place_id):
     # the AREA_KEYWORDS check for 蛋白盒子健康低卡餐盒-竹北嘉豐店 and
     # Benefit 新竹竹北店 (both genuinely in 竹北, just returned English
     # addresses with no explicit language pinned).
-    url = f"https://places.googleapis.com/v1/places/{place_id}?languageCode=zh-TW"
+    url = f"https://places.googleapis.com/v1/places/{place_id}?languageCode={lang}"
     field_mask = ("id,displayName,formattedAddress,rating,userRatingCount,priceLevel,"
                   "nationalPhoneNumber,regularOpeningHours,parkingOptions,photos,"
                   "primaryType,types,googleMapsUri,location")
@@ -166,7 +173,7 @@ for name in wanted:
         missing.append(name)
         continue
     try:
-        d = get_details(rec['place_id'])
+        d = get_details(rec['place_id'], LANG_BY_LABEL.get(rec['area_label'], 'zh-TW'))
     except Exception as e:
         print('ERROR', name, e)
         missing.append(name)
