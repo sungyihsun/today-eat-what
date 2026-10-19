@@ -355,5 +355,104 @@
   "expect": [
    "由布市"
   ]
+ },
+ {
+  "key": "pick-gvJ-fbaQ",
+  "place_id": "ChIJa4vUGxevRjURMgngvJ-fbaQ",
+  "expect": [
+   "由布市",
+   "九重町",
+   "別府市"
+  ]
+ },
+ {
+  "key": "pick-gymBgsQI",
+  "place_id": "ChIJlWONB_2vRjURfSNgymBgsQI",
+  "expect": [
+   "由布市",
+   "九重町",
+   "別府市"
+  ]
+ },
+ {
+  "key": "pick-VAHbj3RA",
+  "place_id": "ChIJnUYI4YSuRjURpILVAHbj3RA",
+  "expect": [
+   "由布市",
+   "九重町",
+   "別府市"
+  ]
+ },
+ {
+  "key": "pick-ELx8Ojsk",
+  "place_id": "ChIJO4dZZX6uRjURkvoELx8Ojsk",
+  "expect": [
+   "由布市",
+   "九重町",
+   "別府市"
+  ]
+ },
+ {
+  "key": "pick-HWcBSxDA",
+  "place_id": "ChIJv3xGJDNKQTURD57HWcBSxDA",
+  "expect": [
+   "由布市",
+   "九重町",
+   "別府市"
+  ]
+ },
+ {
+  "key": "pick-qwC6WI20",
+  "place_id": "ChIJP16mqTVKQTURBeRqwC6WI20",
+  "expect": [
+   "由布市",
+   "九重町",
+   "別府市"
+  ]
+ },
+ {
+  "key": "pick-YJA1tePQ",
+  "place_id": "ChIJAQAlJ56nRjURZgnYJA1tePQ",
+  "expect": [
+   "由布市",
+   "九重町",
+   "別府市"
+  ]
+ },
+ {
+  "key": "pick-PsWixDTo",
+  "place_id": "ChIJ___rBAunRjURV_lPsWixDTo",
+  "expect": [
+   "由布市",
+   "九重町",
+   "別府市"
+  ]
+ },
+ {
+  "key": "pick-Rw4868sg",
+  "place_id": "ChIJyYTktR-nRjURkd4Rw4868sg",
+  "expect": [
+   "由布市",
+   "九重町",
+   "別府市"
+  ]
+ },
+ {
+  "key": "pick-EV-jRWeA",
+  "place_id": "ChIJIyWSfQynRjURAZYEV-jRWeA",
+  "expect": [
+   "由布市",
+   "九重町",
+   "別府市"
+  ]
+ },
+ {
+  "key": "pick-Eg4xQCc8",
+  "place_id": "ChIJAXeAaMWnRjURaSWEg4xQCc8",
+  "expect": [
+   "由布市",
+   "九重町",
+   "別府市"
+  ]
  }
 ]

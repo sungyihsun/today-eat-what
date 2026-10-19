@@ -459,5 +459,140 @@
   "expect": [
    "鹿児島市"
   ]
+ },
+ {
+  "key": "pick-IBFgxF4E",
+  "place_id": "ChIJmQCjPQBfPjURVDaIBFgxF4E",
+  "expect": [
+   "鹿児島市",
+   "指宿市",
+   "南九州市"
+  ]
+ },
+ {
+  "key": "pick-_Elakcuw",
+  "place_id": "ChIJ_XlSQLtfPjURzMw_Elakcuw",
+  "expect": [
+   "鹿児島市",
+   "指宿市",
+   "南九州市"
+  ]
+ },
+ {
+  "key": "pick-Ur7CZoBc",
+  "place_id": "ChIJJ0J35MtfPjURxZNUr7CZoBc",
+  "expect": [
+   "鹿児島市",
+   "指宿市",
+   "南九州市"
+  ]
+ },
+ {
+  "key": "pick-321J4-eg",
+  "place_id": "ChIJ75nh48lfPjURpI8321J4-eg",
+  "expect": [
+   "鹿児島市",
+   "指宿市",
+   "南九州市"
+  ]
+ },
+ {
+  "key": "pick-p3GOeU0U",
+  "place_id": "ChIJYWBPDQBfPjURUTqp3GOeU0U",
+  "expect": [
+   "鹿児島市",
+   "指宿市",
+   "南九州市"
+  ]
+ },
+ {
+  "key": "pick-DvKZm57Q",
+  "place_id": "ChIJ4bLrDgBfPjURhDSDvKZm57Q",
+  "expect": [
+   "鹿児島市",
+   "指宿市",
+   "南九州市"
+  ]
+ },
+ {
+  "key": "pick-ESjZy0XY",
+  "place_id": "ChIJ0dAcLLcqPDURoF0ESjZy0XY",
+  "expect": [
+   "鹿児島市",
+   "指宿市",
+   "南九州市"
+  ]
+ },
+ {
+  "key": "pick-HTjLL6Fw",
+  "place_id": "ChIJtRxOI7oqPDURAAYHTjLL6Fw",
+  "expect": [
+   "鹿児島市",
+   "指宿市",
+   "南九州市"
+  ]
+ },
+ {
+  "key": "pick-KJTZQTKk",
+  "place_id": "ChIJQ2Vt8rYqPDURcFpKJTZQTKk",
+  "expect": [
+   "鹿児島市",
+   "指宿市",
+   "南九州市"
+  ]
+ },
+ {
+  "key": "pick-Yuwfo2p8",
+  "place_id": "ChIJu9jQq7EqPDURYLMYuwfo2p8",
+  "expect": [
+   "鹿児島市",
+   "指宿市",
+   "南九州市"
+  ]
+ },
+ {
+  "key": "pick-_lqTupcg",
+  "place_id": "ChIJ9RXzuwwrPDUR71q_lqTupcg",
+  "expect": [
+   "鹿児島市",
+   "指宿市",
+   "南九州市"
+  ]
+ },
+ {
+  "key": "pick-cLpUi92Q",
+  "place_id": "ChIJM9M9RRR3PjURTXScLpUi92Q",
+  "expect": [
+   "鹿児島市",
+   "指宿市",
+   "南九州市"
+  ]
+ },
+ {
+  "key": "pick-r7CZwQzw",
+  "place_id": "ChIJWdKpR613PjUR8aVr7CZwQzw",
+  "expect": [
+   "鹿児島市",
+   "指宿市",
+   "南九州市"
+  ]
+ },
+ {
+  "key": "pick-kRBr5FXk",
+  "place_id": "ChIJ0QT46gN3PjURBc-kRBr5FXk",
+  "expect": [
+   "鹿児島市",
+   "指宿市",
+   "南九州市"
+  ]
+ },
+ {
+  "key": "pick-nMrDMq5c",
+  "place_id": "ChIJDRQ3m9B3PjURHKfnMrDMq5c",
+  "expect": [
+   "鹿児島市",
+   "指宿市",
+   "南九州市"
+  ]
  }
 ]

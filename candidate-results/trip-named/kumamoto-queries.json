@@ -508,5 +508,113 @@
   "expect": [
    "熊本市"
   ]
+ },
+ {
+  "key": "pick-qF9r5PuE",
+  "place_id": "ChIJ3d50bPInQTURHm_qF9r5PuE",
+  "expect": [
+   "熊本市",
+   "阿蘇市",
+   "南小国町"
+  ]
+ },
+ {
+  "key": "pick-8pxGpxY0",
+  "place_id": "ChIJF0y78y0nQTUR0jj8pxGpxY0",
+  "expect": [
+   "熊本市",
+   "阿蘇市",
+   "南小国町"
+  ]
+ },
+ {
+  "key": "pick-WbqEK_5s",
+  "place_id": "ChIJITtALgMmQTURs1HWbqEK_5s",
+  "expect": [
+   "熊本市",
+   "阿蘇市",
+   "南小国町"
+  ]
+ },
+ {
+  "key": "pick-NHHcTk-4",
+  "place_id": "ChIJ28ztOAMmQTURU3nNHHcTk-4",
+  "expect": [
+   "熊本市",
+   "阿蘇市",
+   "南小国町"
+  ]
+ },
+ {
+  "key": "pick-KUsP-jsQ",
+  "place_id": "ChIJhV2DFQ0mQTURp4RKUsP-jsQ",
+  "expect": [
+   "熊本市",
+   "阿蘇市",
+   "南小国町"
+  ]
+ },
+ {
+  "key": "pick-6F7R3Pm4",
+  "place_id": "ChIJsw0ZwIHZQDUR9Fu6F7R3Pm4",
+  "expect": [
+   "熊本市",
+   "阿蘇市",
+   "南小国町"
+  ]
+ },
+ {
+  "key": "pick-nzgt4rcA",
+  "place_id": "ChIJ3YMHLMHYQDUR0hdnzgt4rcA",
+  "expect": [
+   "熊本市",
+   "阿蘇市",
+   "南小国町"
+  ]
+ },
+ {
+  "key": "pick-sBCdx4fw",
+  "place_id": "ChIJSd8ClEgkQTURK_2sBCdx4fw",
+  "expect": [
+   "熊本市",
+   "阿蘇市",
+   "南小国町"
+  ]
+ },
+ {
+  "key": "pick-6NkH1oPI",
+  "place_id": "ChIJRbXIZoUwQTURW_v6NkH1oPI",
+  "expect": [
+   "熊本市",
+   "阿蘇市",
+   "南小国町"
+  ]
+ },
+ {
+  "key": "pick-TzOSqjS8",
+  "place_id": "ChIJg05g25QwQTUR3RZTzOSqjS8",
+  "expect": [
+   "熊本市",
+   "阿蘇市",
+   "南小国町"
+  ]
+ },
+ {
+  "key": "pick-OEFRi4ns",
+  "place_id": "ChIJyZfr2ZQwQTURvIeOEFRi4ns",
+  "expect": [
+   "熊本市",
+   "阿蘇市",
+   "南小国町"
+  ]
+ },
+ {
+  "key": "pick-fzmIIdsI",
+  "place_id": "ChIJVR7Xn5IxQTUR0sAfzmIIdsI",
+  "expect": [
+   "熊本市",
+   "阿蘇市",
+   "南小国町"
+  ]
  }
 ]
