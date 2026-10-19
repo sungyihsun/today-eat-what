@@ -142,8 +142,8 @@
    "noodle_shop",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "潭子"
@@ -164,8 +164,8 @@
    "western_restaurant",
    "steak_house",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "潭子"
@@ -229,12 +229,12 @@
   "types": [
    "dim_sum_restaurant",
    "cantonese_restaurant",
-   "chinese_restaurant",
    "food_store",
    "store",
+   "chinese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "潭子"
@@ -275,8 +275,8 @@
   "types": [
    "chinese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "潭子"
@@ -370,8 +370,8 @@
    "italian_restaurant",
    "european_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "潭子"
@@ -943,8 +943,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "潭子"
@@ -1047,8 +1047,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "潭子"
@@ -1070,12 +1070,12 @@
    "fast_food_restaurant",
    "meal_delivery",
    "food_delivery",
-   "chinese_restaurant",
-   "japanese_restaurant",
    "food_store",
+   "japanese_restaurant",
    "store",
-   "point_of_interest",
+   "chinese_restaurant",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "潭子"
@@ -1137,8 +1137,8 @@
    "italian_restaurant",
    "european_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "潭子"
@@ -1158,8 +1158,8 @@
   "types": [
    "meal_takeaway",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "潭子"
@@ -1179,12 +1179,12 @@
   "types": [
    "brunch_restaurant",
    "italian_restaurant",
+   "european_restaurant",
    "food_store",
    "store",
-   "european_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "潭子"
@@ -1206,12 +1206,12 @@
    "kebab_shop",
    "yakitori_restaurant",
    "bar_and_grill",
-   "japanese_restaurant",
    "bar",
+   "japanese_restaurant",
    "store",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "潭子"
@@ -1230,8 +1230,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "潭子"
@@ -1250,8 +1250,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "潭子"
@@ -1272,8 +1272,8 @@
    "japanese_izakaya_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "潭子"
@@ -1293,8 +1293,8 @@
   "types": [
    "barbecue_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "潭子"
@@ -1314,8 +1314,8 @@
   "types": [
    "barbecue_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "潭子"
@@ -1335,8 +1335,8 @@
   "types": [
    "kebab_shop",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "潭子"
@@ -1355,8 +1355,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "潭子"
@@ -1418,8 +1418,8 @@
   "types": [
    "taiwanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "潭子"
@@ -1462,8 +1462,8 @@
   "types": [
    "meal_takeaway",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "潭子"
@@ -2706,8 +2706,8 @@
   "types": [
    "asian_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "潭子"
@@ -2748,8 +2748,8 @@
   "types": [
    "seafood_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "潭子"
@@ -2790,8 +2790,8 @@
   "types": [
    "taiwanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "潭子"
@@ -2813,8 +2813,8 @@
    "food_store",
    "store",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "潭子"
@@ -2858,8 +2858,8 @@
    "deli",
    "food_store",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "潭子"
@@ -2879,8 +2879,8 @@
   "types": [
    "chinese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "潭子"
@@ -2899,8 +2899,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "潭子"
