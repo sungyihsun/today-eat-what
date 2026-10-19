@@ -17,6 +17,12 @@ on:
 permissions:
   contents: write
 
+# Two picks pushes close together used to run in parallel and then collide when
+# both tried to publish details.json. Only the newest picks matter.
+concurrency:
+  group: fetch-restaurant-details
+  cancel-in-progress: true
+
 jobs:
   fetch:
     runs-on: ubuntu-latest
@@ -60,4 +66,4 @@ jobs:
           git add candidate-results/final-list.json candidate-results/details.json
           git diff --cached --quiet && exit 0
           git commit -m "Publish restaurant details"
-          for i in 1 2 3 4 5; do git push && break; git pull --rebase origin DEV; done
+          for i in 1 2 3 4 5; do git push && break; git pull --rebase -X theirs origin DEV; done
