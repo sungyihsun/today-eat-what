@@ -34,8 +34,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -56,8 +56,8 @@
    "restaurant",
    "thai_restaurant",
    "dessert_restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -78,8 +78,8 @@
    "restaurant",
    "food_court",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -145,8 +145,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -185,8 +185,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -228,8 +228,8 @@
    "seafood_restaurant",
    "chinese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -292,8 +292,8 @@
   "types": [
    "chinese_noodle_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -313,8 +313,8 @@
   "types": [
    "seafood_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -333,8 +333,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -354,8 +354,8 @@
   "types": [
    "seafood_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -397,8 +397,8 @@
   "types": [
    "brunch_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -418,8 +418,8 @@
   "types": [
    "brunch_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -439,8 +439,8 @@
   "types": [
    "brunch_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -461,8 +461,8 @@
    "brunch_restaurant",
    "breakfast_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -482,8 +482,8 @@
   "types": [
    "breakfast_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -503,8 +503,8 @@
   "types": [
    "brunch_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -525,8 +525,8 @@
    "breakfast_restaurant",
    "chinese_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -546,8 +546,8 @@
   "types": [
    "breakfast_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -594,8 +594,8 @@
   "types": [
    "breakfast_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -615,8 +615,8 @@
   "types": [
    "breakfast_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -637,8 +637,8 @@
    "breakfast_restaurant",
    "brunch_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -658,8 +658,8 @@
   "types": [
    "breakfast_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -679,8 +679,8 @@
   "types": [
    "brunch_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -701,8 +701,8 @@
    "brunch_restaurant",
    "breakfast_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -722,8 +722,8 @@
   "types": [
    "breakfast_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -743,8 +743,8 @@
   "types": [
    "brunch_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -764,8 +764,8 @@
   "types": [
    "breakfast_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -852,8 +852,8 @@
   "types": [
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -934,8 +934,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -956,8 +956,8 @@
    "restaurant",
    "italian_restaurant",
    "european_restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -979,8 +979,8 @@
    "meal_takeaway",
    "european_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -999,8 +999,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -1020,8 +1020,8 @@
   "types": [
    "meal_takeaway",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -1042,8 +1042,8 @@
    "pub",
    "bar",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -1064,8 +1064,8 @@
    "italian_restaurant",
    "european_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -1086,8 +1086,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -1107,8 +1107,8 @@
   "types": [
    "restaurant",
    "store",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -1128,8 +1128,8 @@
   "types": [
    "kebab_shop",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -1150,8 +1150,8 @@
    "yakiniku_restaurant",
    "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -1173,8 +1173,8 @@
    "bar_and_grill",
    "bar",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -1195,8 +1195,8 @@
    "kebab_shop",
    "chinese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -1215,11 +1215,11 @@
   },
   "types": [
    "bistro",
-   "japanese_restaurant",
    "bar",
+   "japanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -1240,12 +1240,12 @@
    "pub",
    "kebab_shop",
    "yakitori_restaurant",
-   "japanese_restaurant",
    "bar",
+   "japanese_restaurant",
    "store",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -1264,8 +1264,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -1284,8 +1284,8 @@
   },
   "types": [
    "food_court",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -1304,8 +1304,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -1325,8 +1325,8 @@
   "types": [
    "barbecue_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -1345,8 +1345,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -1367,8 +1367,8 @@
    "food_court",
    "store",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -1691,21 +1691,20 @@
   ],
   "area_label": "梧棲"
  },
- "5115717806674653462": {
-  "place_id": "ChIJn37b1bcVaTQRFrH7rT2u_kY",
-  "name": "萱仔甜點咖啡廳",
-  "address": "435台灣臺中市梧棲區大村里立德街95巷63號",
-  "rating": 4.7,
-  "userRatingCount": 78,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=5115717806674653462&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "13755539379885673552": {
+  "place_id": "ChIJe3YdYQAVaTQRUIz7ny9-5b4",
+  "name": "18度C巧克力生吐司",
+  "address": "435台灣臺中市梧棲區大庄里文華街291號",
+  "rating": 4.3,
+  "userRatingCount": 73,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=13755539379885673552&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.241640999999998,
-   "longitude": 120.5411168
+   "latitude": 24.246517,
+   "longitude": 120.5407711
   },
   "types": [
-   "dessert_shop",
-   "confectionery",
+   "bakery",
    "food_store",
    "store",
    "food",
@@ -1771,20 +1770,21 @@
   ],
   "area_label": "梧棲"
  },
- "13755539379885673552": {
-  "place_id": "ChIJe3YdYQAVaTQRUIz7ny9-5b4",
-  "name": "18度C巧克力生吐司",
-  "address": "435台灣臺中市梧棲區大庄里文華街291號",
-  "rating": 4.3,
-  "userRatingCount": 73,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=13755539379885673552&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "5115717806674653462": {
+  "place_id": "ChIJn37b1bcVaTQRFrH7rT2u_kY",
+  "name": "萱仔甜點咖啡廳",
+  "address": "435台灣臺中市梧棲區大村里立德街95巷63號",
+  "rating": 4.7,
+  "userRatingCount": 78,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=5115717806674653462&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.246517,
-   "longitude": 120.5407711
+   "latitude": 24.241640999999998,
+   "longitude": 120.5411168
   },
   "types": [
-   "bakery",
+   "dessert_shop",
+   "confectionery",
    "food_store",
    "store",
    "food",
@@ -1864,6 +1864,51 @@
   ],
   "area_label": "梧棲"
  },
+ "4742375251242260804": {
+  "place_id": "ChIJpwhJSO0VaTQRRBnmMSpN0EE",
+  "name": "伍師傅車輪餅·台中梧棲店",
+  "address": "435台灣臺中市梧棲區中和街204號",
+  "rating": 4.9,
+  "userRatingCount": 59,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=4742375251242260804&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.257762399999997,
+   "longitude": 120.53285659999999
+  },
+  "types": [
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "梧棲"
+ },
+ "13480743690656397627": {
+  "place_id": "ChIJf-8U3s4UaTQRO7mpbfY4Fbs",
+  "name": "布雷德麵包坊",
+  "address": "435台灣臺中市梧棲區中正里中興路221巷20號",
+  "rating": 4.4,
+  "userRatingCount": 121,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=13480743690656397627&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.2561138,
+   "longitude": 120.5333761
+  },
+  "types": [
+   "bakery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "梧棲"
+ },
  "12089475580913302228": {
   "place_id": "ChIJpc1BhqVraTQR1LoY8fxxxqc",
   "name": "御前上茶 三井Outlet Park台中港店",
@@ -1902,29 +1947,6 @@
   ],
   "area_label": "梧棲"
  },
- "4742375251242260804": {
-  "place_id": "ChIJpwhJSO0VaTQRRBnmMSpN0EE",
-  "name": "伍師傅車輪餅·台中梧棲店",
-  "address": "435台灣臺中市梧棲區中和街204號",
-  "rating": 4.9,
-  "userRatingCount": 59,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=4742375251242260804&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.257762399999997,
-   "longitude": 120.53285659999999
-  },
-  "types": [
-   "dessert_shop",
-   "confectionery",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "梧棲"
- },
  "16139562377892046357": {
   "place_id": "ChIJ6xkiKioVaTQRFaaDvHg--98",
   "name": "85度c咖啡蛋糕麵包-梧棲中央店",
@@ -1946,68 +1968,30 @@
   ],
   "area_label": "梧棲"
  },
- "6274365264504089874": {
-  "place_id": "ChIJFdws4c8UaTQREu3QDfcFE1c",
-  "name": "旦之鄉鹹蛋糕",
-  "address": "43545台灣臺中市梧棲區大庄里中央路一段925號",
-  "rating": 4.4,
-  "userRatingCount": 100,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=6274365264504089874&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "16931629346055747825": {
+  "place_id": "ChIJGZJSZ8wUaTQR8Xg7wC47-eo",
+  "name": "台中伴手禮 美二佳餅店(梧棲店)",
+  "address": "435台灣臺中市梧棲區文化里中和街16號",
+  "rating": 4.7,
+  "userRatingCount": 256,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=16931629346055747825&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.2485349,
-   "longitude": 120.5383761
+   "latitude": 24.2538464,
+   "longitude": 120.5311216
   },
   "types": [
+   "cake_shop",
+   "gift_shop",
    "bakery",
+   "wholesaler",
+   "manufacturer",
    "food_store",
-   "dessert_restaurant",
-   "store",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "梧棲"
- },
- "3000577091368714204": {
-  "place_id": "ChIJ3VnegctraTQR3P80hPcwpCk",
-  "name": "Rose House Cafe台中三井店",
-  "address": "435台灣臺中市梧棲區文化里臺灣大道十段168號2樓",
-  "rating": 4.4,
-  "userRatingCount": 1018,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=3000577091368714204&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.259449200000002,
-   "longitude": 120.5179761
-  },
-  "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "梧棲"
- },
- "10037163239161121996": {
-  "place_id": "ChIJLfK_vckUaTQRzMzObskqS4s",
-  "name": "梧棲小鎮鹹蛋糕 - 梧棲店",
-  "address": "435台灣臺中市梧棲區文化里中興路148號",
-  "rating": 4.3,
-  "userRatingCount": 456,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=10037163239161121996&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2538064,
-   "longitude": 120.53426239999999
-  },
-  "types": [
-   "bakery",
-   "food_store",
+   "supplier",
    "store",
    "food",
    "point_of_interest",
+   "service",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -2035,17 +2019,17 @@
   ],
   "area_label": "梧棲"
  },
- "13480743690656397627": {
-  "place_id": "ChIJf-8U3s4UaTQRO7mpbfY4Fbs",
-  "name": "布雷德麵包坊",
-  "address": "435台灣臺中市梧棲區中正里中興路221巷20號",
-  "rating": 4.4,
-  "userRatingCount": 121,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=13480743690656397627&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "10037163239161121996": {
+  "place_id": "ChIJLfK_vckUaTQRzMzObskqS4s",
+  "name": "梧棲小鎮鹹蛋糕 - 梧棲店",
+  "address": "435台灣臺中市梧棲區文化里中興路148號",
+  "rating": 4.3,
+  "userRatingCount": 456,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=10037163239161121996&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.2561138,
-   "longitude": 120.5333761
+   "latitude": 24.2538064,
+   "longitude": 120.53426239999999
   },
   "types": [
    "bakery",
@@ -2121,6 +2105,26 @@
    "food_store",
    "store",
    "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "梧棲"
+ },
+ "3000577091368714204": {
+  "place_id": "ChIJ3VnegctraTQR3P80hPcwpCk",
+  "name": "Rose House Cafe台中三井店",
+  "address": "435台灣臺中市梧棲區文化里臺灣大道十段168號2樓",
+  "rating": 4.4,
+  "userRatingCount": 1018,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=3000577091368714204&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.259449200000002,
+   "longitude": 120.5179761
+  },
+  "types": [
+   "cafe",
    "food",
    "point_of_interest",
    "establishment"
@@ -2335,8 +2339,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -2355,8 +2359,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -2376,8 +2380,8 @@
   "types": [
    "seafood_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -2397,8 +2401,8 @@
   "types": [
    "seafood_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -2418,8 +2422,8 @@
   "types": [
    "seafood_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -2479,8 +2483,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -2582,8 +2586,8 @@
    "snack_bar",
    "meal_takeaway",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -2604,8 +2608,8 @@
    "snack_bar",
    "meal_takeaway",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -2624,8 +2628,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -2665,8 +2669,8 @@
   "types": [
    "vietnamese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -2815,8 +2819,8 @@
   "types": [
    "seafood_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -2835,8 +2839,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -2857,8 +2861,8 @@
    "gift_shop",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -2881,8 +2885,8 @@
    "snack_bar",
    "meal_takeaway",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -2902,8 +2906,8 @@
   "types": [
    "chinese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -2922,8 +2926,8 @@
   },
   "types": [
    "food_court",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "梧棲"
@@ -2943,8 +2947,8 @@
   "types": [
    "taiwanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "梧棲"
