@@ -1,9 +1,6 @@
 {
  "_note": "台中全區補完排程的狀態檔。規則見 .claude/skills/add-restaurant/TAICHUNG_SWEEP.md。",
- "in_progress": {
-  "district": "台中東區",
-  "started_at": "2026-10-19T07:17:49Z"
- },
+ "in_progress": null,
  "done": {
   "西區": {
    "count": 20,
@@ -24,6 +21,14 @@
   "南屯": {
    "count": 30,
    "note": "手動完成（同時驗證 build_district.py 流程）"
+  },
+  "台中東區": {
+   "area": "台中東區",
+   "count": 30,
+   "qas_commit": "198f39eece1d437daaa8d0a0f2e756459308de70",
+   "finished_at": "2026-10-19T07:26:15Z",
+   "sync_verified": true,
+   "prd_promoted": true
   }
  },
  "skipped": {
@@ -54,20 +59,6 @@
   }
  },
  "queue": [
-  {
-   "area": "台中東區",
-   "label": "台中東區",
-   "slug": "dongqu",
-   "center": [
-    24.1367,
-    120.7
-   ],
-   "landmarks": [
-    "旱溪夜市 美食",
-    "復興路 美食"
-   ],
-   "population_approx": 74000
-  },
   {
    "area": "台中北區",
    "label": "台中北區",
