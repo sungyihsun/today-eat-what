@@ -1,78 +1,278 @@
 {
- "3594988581215522919": {
-  "place_id": "ChIJ8aRCvdEXaTQRZ9DvShH34zE",
-  "name": "芊橙食堂-潭子台菜餐廳|聚餐餐廳|中式餐廳|養生雞湯|人氣雞湯|家族聚餐推薦|中式美食|在地推薦餐廳",
-  "address": "427台灣臺中市潭子區潭陽里福貴路233號",
-  "rating": 4.2,
-  "userRatingCount": 134,
+ "615495110613092796": {
+  "place_id": "ChIJixOcMwA_aTQRvEkVxYqtigg",
+  "name": "烏山拾味 TEN by Wuri",
+  "address": "414台灣臺中市烏日區榮泉里健行路757號烏日璞旅1樓",
+  "rating": 4.9,
+  "userRatingCount": 254,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=3594988581215522919&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=615495110613092796&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.2068566,
-   "longitude": 120.71114929999997
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "5610534507887209240": {
-  "place_id": "ChIJw5J08hEXaTQRGCuwtmif3E0",
-  "name": "東喜堂花園茶館",
-  "address": "427台灣臺中市潭子區東寶里雅潭路三段東寶巷9號",
-  "rating": 4.2,
-  "userRatingCount": 5710,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=5610534507887209240&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.217431299999998,
-   "longitude": 120.6825536
+   "latitude": 24.111128299999997,
+   "longitude": 120.58998779999999
   },
   "types": [
    "chinese_restaurant",
-   "tea_house",
    "restaurant",
    "point_of_interest",
    "food",
    "establishment"
   ],
-  "area_label": "潭子"
+  "area_label": "烏日"
  },
- "2040641602997466089": {
-  "place_id": "ChIJ9xEwo_UXaTQR6TOM5LnQURw",
-  "name": "萬川鍋物-台中潭子店",
-  "address": "427台灣臺中市潭子區甘蔗里潭興路三段101號",
-  "rating": 5,
-  "userRatingCount": 16,
+ "3266954144896871736": {
+  "place_id": "ChIJW-ESmbU9aTQROG0RWHyNVi0",
+  "name": "美森食研館（週一及彈性店休）",
+  "address": "414台灣臺中市烏日區烏日里公園路71號",
+  "rating": 4.8,
+  "userRatingCount": 240,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=2040641602997466089&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=3266954144896871736&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.2115303,
-   "longitude": 120.70213389999999
+   "latitude": 24.1017531,
+   "longitude": 120.6267654
   },
   "types": [
-   "hot_pot_restaurant",
+   "european_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "4782311649651179804": {
+  "place_id": "ChIJ0bjMcn87aTQRHMGrihsvXkI",
+  "name": "梔子花開．田秧私廚",
+  "address": "414台灣臺中市烏日區螺潭里環中路八段1121巷15弄76號",
+  "rating": 4.4,
+  "userRatingCount": 1168,
+  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=4782311649651179804&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.0664131,
+   "longitude": 120.64735909999999
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "2311805039024911087": {
+  "place_id": "ChIJEefF5Bw8aTQR77IJPW8uFSA",
+  "name": "老派廚房 Two Tables",
+  "address": "414台灣臺中市烏日區三和里三榮路一段366號",
+  "rating": 4.5,
+  "userRatingCount": 600,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=2311805039024911087&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.106322199999997,
+   "longitude": 120.6064657
+  },
+  "types": [
+   "european_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "13305082669236049258": {
+  "place_id": "ChIJl8kXqWY9aTQRalUFvzEmpbg",
+  "name": "春風稻鐵板燒丼飯-烏日新興店",
+  "address": "414台灣臺中市烏日區烏日里新興路356號",
+  "rating": 4.3,
+  "userRatingCount": 1187,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=13305082669236049258&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.105072699999997,
+   "longitude": 120.622198
+  },
+  "types": [
+   "restaurant",
+   "fast_food_restaurant",
+   "meal_delivery",
+   "food_delivery",
+   "food_store",
+   "japanese_restaurant",
+   "store",
+   "chinese_restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "13335045803844663777": {
+  "place_id": "ChIJq7Bp6hw8aTQR4Xm5qYGZD7k",
+  "name": "FiMi後山小廚房",
+  "address": "414台灣臺中市烏日區烏日里光日路11號",
+  "rating": 4.6,
+  "userRatingCount": 566,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=13335045803844663777&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1022975,
+   "longitude": 120.62407150000001
+  },
+  "types": [
+   "dessert_shop",
+   "coffee_shop",
+   "cafe",
+   "confectionery",
+   "food_store",
+   "dessert_restaurant",
+   "store",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "12552761338535628944": {
+  "place_id": "ChIJ_X4qkxw8aTQRkFCsFe5dNK4",
+  "name": "三禾手打麵 烏日店",
+  "address": "414台灣臺中市烏日區烏日里公園路282號",
+  "rating": 4.1,
+  "userRatingCount": 1492,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=12552761338535628944&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1027208,
+   "longitude": 120.62449749999999
+  },
+  "types": [
+   "taiwanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "16138644324032554722": {
+  "place_id": "ChIJd4vCWBk8aTQR4qZVqoH7998",
+  "name": "鴻運客家餐廳",
+  "address": "414台灣臺中市烏日區烏日里中山路二段153號",
+  "rating": 4.3,
+  "userRatingCount": 683,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=16138644324032554722&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1058511,
+   "longitude": 120.6266594
+  },
+  "types": [
+   "chinese_restaurant",
    "restaurant",
    "point_of_interest",
    "food",
    "establishment"
   ],
-  "area_label": "潭子"
+  "area_label": "烏日"
  },
- "5187004663215015034": {
-  "place_id": "ChIJV9PuHWEXaTQResQ5X0Lx-0c",
-  "name": "九本家 日式丼飯 拉麵 咖喱 潭子店",
-  "address": "427台灣臺中市潭子區福仁里中山路二段214號",
-  "rating": 4.5,
-  "userRatingCount": 236,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=5187004663215015034&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "13061025689661699120": {
+  "place_id": "ChIJmRoVHRQ8aTQRMHSJGqoVQrU",
+  "name": "和鳳居庭園簡餐咖啡餐廳",
+  "address": "414台灣臺中市烏日區仁德里信義街247巷9弄2號",
+  "rating": 4.4,
+  "userRatingCount": 301,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=13061025689661699120&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.205570599999998,
-   "longitude": 120.70495309999998
+   "latitude": 24.1037152,
+   "longitude": 120.6373835
+  },
+  "types": [
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "7233551152195628892": {
+  "place_id": "ChIJXStedVQ9aTQRXO88q3K8YmQ",
+  "name": "日園簡餐",
+  "address": "414台灣臺中市烏日區九德里長春街328號",
+  "rating": 4.5,
+  "userRatingCount": 117,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=7233551152195628892&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1088557,
+   "longitude": 120.63696709999999
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "17281582930297786174": {
+  "place_id": "ChIJK8iilBs8aTQRPo_aBB2E1O8",
+  "name": "海產現炒",
+  "address": "414台灣臺中市烏日區烏日里新興路200號",
+  "rating": 4.5,
+  "userRatingCount": 91,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=17281582930297786174&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.104200799999997,
+   "longitude": 120.62686169999999
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "3866440326136489339": {
+  "place_id": "ChIJIf9dNBY8aTQRe2WcyP1aqDU",
+  "name": "NU PASTA 烏日店",
+  "address": "41448台灣臺中市烏日區九德里長春街418號",
+  "rating": 4.5,
+  "userRatingCount": 2075,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=3866440326136489339&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.108181,
+   "longitude": 120.63486479999999
+  },
+  "types": [
+   "italian_restaurant",
+   "european_restaurant",
+   "food_store",
+   "store",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "10588854476050064609": {
+  "place_id": "ChIJBx5nXhU8aTQR4eRENwsr85I",
+  "name": "豪品鐵板燒 烏日店",
+  "address": "414台灣臺中市烏日區仁德里光德路309號",
+  "rating": 4.7,
+  "userRatingCount": 2506,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=10588854476050064609&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.106840899999998,
+   "longitude": 120.64175669999999
   },
   "types": [
    "japanese_restaurant",
@@ -81,106 +281,884 @@
    "food",
    "establishment"
   ],
-  "area_label": "潭子"
+  "area_label": "烏日"
  },
- "17019572371414008113": {
-  "place_id": "ChIJx8qODwAXaTQRMUEv8-WqMew",
-  "name": "泰潮泰式料理 潭子店",
-  "address": "427台灣臺中市潭子區潭秀里興華一路364號",
-  "rating": 4.9,
-  "userRatingCount": 2659,
+ "8544524925248215249": {
+  "place_id": "ChIJDVDOlaE-aTQR0RjkDyZAlHY",
+  "name": "樂雅樂餐廳 台中高鐵店",
+  "address": "414台灣臺中市烏日區湖日里站區二路8號2樓",
+  "rating": 4,
+  "userRatingCount": 4267,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=17019572371414008113&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=8544524925248215249&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.2140295,
-   "longitude": 120.70290260000002
+   "latitude": 24.111075399999997,
+   "longitude": 120.61552289999999
   },
   "types": [
+   "family_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "3247525851096612105": {
+  "place_id": "ChIJcduJTxw8aTQRCf2CMY6HES0",
+  "name": "健好海鮮餐廳",
+  "address": "414台灣臺中市烏日區新興路291號",
+  "rating": 4.2,
+  "userRatingCount": 611,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=3247525851096612105&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.104421,
+   "longitude": 120.6230258
+  },
+  "types": [
+   "seafood_restaurant",
+   "wedding_venue",
+   "event_venue",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "service",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "4214579826490167441": {
+  "place_id": "ChIJtzVtp3w9aTQRkVB5uwUyfTo",
+  "name": "蓉蓉小吃店 越式料理",
+  "address": "414台灣臺中市烏日區烏日里五光路980號",
+  "rating": 4.3,
+  "userRatingCount": 39,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=4214579826490167441&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1021824,
+   "longitude": 120.62870930000001
+  },
+  "types": [
+   "family_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "1218093144338455922": {
+  "place_id": "ChIJt1rU_iU9aTQRct2h00KJ5xA",
+  "name": "蝦廚",
+  "address": "414台灣臺中市烏日區九德里中山路一段392號",
+  "rating": 4.3,
+  "userRatingCount": 312,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=1218093144338455922&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1077659,
+   "longitude": 120.63758999999999
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "5635489353489178874": {
+  "place_id": "ChIJcQDpwKQ-aTQR-uA3erVHNU4",
+  "name": "這隻雞全席美食",
+  "address": "414台灣臺中市烏日區三和里中山路三段164號",
+  "rating": 4.2,
+  "userRatingCount": 1488,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=5635489353489178874&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.108034699999997,
+   "longitude": 120.60961280000001
+  },
+  "types": [
+   "chicken_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "2632287351186130135": {
+  "place_id": "ChIJY8wkGAY9aTQR1wQ0QmbDhyQ",
+  "name": "靚湯美食音樂廣場",
+  "address": "414台灣臺中市烏日區烏日里長春街1000號",
+  "rating": 4.6,
+  "userRatingCount": 19,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=2632287351186130135&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.108210999999997,
+   "longitude": 120.6263925
+  },
+  "types": [
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "6945961783723948901": {
+  "place_id": "ChIJk7D1FwA9aTQRZftN5nADZWA",
+  "name": "六扇門時尚湯鍋-烏日信義店",
+  "address": "414台灣臺中市烏日區仁德里信義街232號",
+  "rating": 4.6,
+  "userRatingCount": 830,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=6945961783723948901&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1044352,
+   "longitude": 120.6373702
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "8685815488386736925": {
+  "place_id": "ChIJt2NxsIk9aTQRHaPg0So3ing",
+  "name": "WAWU 瓦屋早午餐",
+  "address": "414台灣臺中市烏日區烏日里新興路333之1號",
+  "rating": 4,
+  "userRatingCount": 278,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=8685815488386736925&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.104715199999998,
+   "longitude": 120.62202690000001
+  },
+  "types": [
+   "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "9620096872173091832": {
+  "place_id": "ChIJh6PrBJo9aTQR-Du5wiJzgYU",
+  "name": "丸子漢堡-烏日人氣早午餐|熱門早午餐|外帶早午餐|CP漢堡|人氣蛋餅|在地推薦早午餐|好吃早午餐|特色早午餐",
+  "address": "414台灣臺中市烏日區仁德里信義街82號",
+  "rating": 4.8,
+  "userRatingCount": 737,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=9620096872173091832&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1057266,
+   "longitude": 120.6407992
+  },
+  "types": [
+   "breakfast_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "15785790644498650260": {
+  "place_id": "ChIJCaK3MKo9aTQRlNQGWPRkEts",
+  "name": "73 Rocklea 早午餐/手作麵包/咖啡/甜點下午茶（烏日店）平日供餐至下午2點/假日供餐至下午4點",
+  "address": "414台灣臺中市烏日區九德里中華路378號",
+  "rating": 4.6,
+  "userRatingCount": 176,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=15785790644498650260&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.111280200000003,
+   "longitude": 120.63713550000001
+  },
+  "types": [
+   "bakery",
+   "brunch_restaurant",
+   "coffee_shop",
+   "cafe",
+   "food_store",
+   "store",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "15472236326490610365": {
+  "place_id": "ChIJ63XUGNk_aTQRvRpeqfZsuNY",
+  "name": "太丸壹角 Food Cape",
+  "address": "414台灣臺中市烏日區三和里三榮路一段41號",
+  "rating": 4.5,
+  "userRatingCount": 372,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=15472236326490610365&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1054253,
+   "longitude": 120.6110965
+  },
+  "types": [
+   "brunch_restaurant",
+   "asian_restaurant",
    "thai_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "潭子"
+  "area_label": "烏日"
  },
- "17462292922923567260": {
-  "place_id": "ChIJHbaHXd0XaTQRnEit6uSGVvI",
-  "name": "水吧佬香港美食",
-  "address": "427台灣臺中市潭子區甘蔗里興華一路311巷41號",
-  "rating": 4.3,
-  "userRatingCount": 240,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=17462292922923567260&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "10200300581679596214": {
+  "place_id": "ChIJM8zGPj48aTQRtgI55VW_jo0",
+  "name": "Meet Corner 早午餐(烏日店）",
+  "address": "414台灣臺中市烏日區長春街229號",
+  "rating": 4.4,
+  "userRatingCount": 192,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=10200300581679596214&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.2103987,
-   "longitude": 120.70282110000001
+   "latitude": 24.109335599999998,
+   "longitude": 120.6388911
   },
   "types": [
-   "chinese_restaurant",
+   "brunch_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "潭子"
+  "area_label": "烏日"
  },
- "15662517056321108596": {
-  "place_id": "ChIJ18KV26sXaTQRdDqEdkdwXNk",
-  "name": "烏龍麵所 潭子店",
-  "address": "427229台灣臺中市潭子區潭陽里福潭路480號",
-  "rating": 4.7,
-  "userRatingCount": 1609,
+ "11544370746409394236": {
+  "place_id": "ChIJ_S5hp-09aTQRPKAkdwfYNaA",
+  "name": "展群輕鬆早餐坊",
+  "address": "414台灣臺中市烏日區烏日里公園路346號",
+  "rating": 4.6,
+  "userRatingCount": 64,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=15662517056321108596&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=11544370746409394236&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.2105599,
-   "longitude": 120.71047779999998
+   "latitude": 24.1030278,
+   "longitude": 120.6231449
   },
   "types": [
-   "ramen_restaurant",
-   "noodle_shop",
+   "breakfast_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "3134113147073894163": {
+  "place_id": "ChIJ8zD0Rs49aTQRE5c4UU2bfis",
+  "name": "初光6/20～6/23公休（肉蛋吐司，炭烤吐司，烏日早餐）",
+  "address": "414台灣臺中市烏日區湖日里新興路335之28號",
+  "rating": 4.9,
+  "userRatingCount": 63,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=3134113147073894163&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1051596,
+   "longitude": 120.62060950000001
+  },
+  "types": [
+   "breakfast_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "5364820954927302738": {
+  "place_id": "ChIJ7yW7-bA_aTQRUogDBjysc0o",
+  "name": "艾初早餐-烏日店",
+  "address": "414013台灣臺中市烏日區榮泉里健行路402號",
+  "rating": 4.6,
+  "userRatingCount": 867,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=5364820954927302738&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.110730999999998,
+   "longitude": 120.59583200000002
+  },
+  "types": [
+   "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "1148293680501826008": {
+  "place_id": "ChIJdah2uF8_aTQR2CEjvASP7w8",
+  "name": "喂早安 烏日店",
+  "address": "414013台灣臺中市烏日區榮泉里健行路262-1號",
+  "rating": 4.9,
+  "userRatingCount": 1292,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=1148293680501826008&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1100964,
+   "longitude": 120.5983959
+  },
+  "types": [
+   "breakfast_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "15867387688901643432": {
+  "place_id": "ChIJrVg0fQ8_aTQRqIxjtghJNNw",
+  "name": "飽格咖啡Burger Cafe",
+  "address": "414台灣臺中市烏日區榮泉里三榮路二段273號",
+  "rating": 4.4,
+  "userRatingCount": 273,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=15867387688901643432&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.108798399999998,
+   "longitude": 120.5946344
+  },
+  "types": [
+   "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "18076910489568605881": {
+  "place_id": "ChIJnYcZn_U9aTQRufZEj1AW3vo",
+  "name": "饕飽廚房 烏日人氣早午餐 義式咖啡餐廳",
+  "address": "414台灣臺中市烏日區仁德里信義街111號",
+  "rating": 4.3,
+  "userRatingCount": 102,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=18076910489568605881&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.105164199999997,
+   "longitude": 120.64030509999998
+  },
+  "types": [
+   "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "17129039543423560587": {
+  "place_id": "ChIJhctj4Yk_aTQRi2thEbaStu0",
+  "name": "Morni莫尼早餐 烏日三榮店",
+  "address": "414台灣臺中市烏日區三榮路二段178-1號",
+  "rating": 4.7,
+  "userRatingCount": 1182,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=17129039543423560587&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.108134699999997,
+   "longitude": 120.59871050000001
+  },
+  "types": [
+   "breakfast_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "2400583277835187851": {
+  "place_id": "ChIJZ0uyRgA9aTQRi_YbucWVUCE",
+  "name": "早安美芝城烏日光日概念店 (近World gym健身房)",
+  "address": "41458台灣臺中市烏日區烏日里光日路59號",
+  "rating": 4,
+  "userRatingCount": 90,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=2400583277835187851&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.103239499999997,
+   "longitude": 120.62422430000001
+  },
+  "types": [
+   "breakfast_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "5726336531465846738": {
+  "place_id": "ChIJBZfbZeY9aTQR0j9dZrwIeE8",
+  "name": "H-FOODIE 家家楹輕食",
+  "address": "414台灣臺中市烏日區信義街149號",
+  "rating": 4.8,
+  "userRatingCount": 19,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=5726336531465846738&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1047279,
+   "longitude": 120.63937070000001
+  },
+  "types": [
+   "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "9198488932289688659": {
+  "place_id": "ChIJe13rAyI8aTQRUzR9v_KYp38",
+  "name": "早安美芝城烏日活力光日410號（近烏日啤酒廠/寵物友善）",
+  "address": "41449台灣臺中市烏日區烏日里光日路410號",
+  "rating": 4.3,
+  "userRatingCount": 225,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=9198488932289688659&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1115455,
+   "longitude": 120.6260363
+  },
+  "types": [
+   "breakfast_restaurant",
+   "brunch_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "13608638841553879976": {
+  "place_id": "ChIJiWYocz88aTQRqANnu-yY27w",
+  "name": "三多利日式料理",
+  "address": "414台灣臺中市烏日區九德里中華路16號",
+  "rating": 4.3,
+  "userRatingCount": 422,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=13608638841553879976&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1095049,
+   "longitude": 120.64170299999999
+  },
+  "types": [
    "japanese_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "潭子"
+  "area_label": "烏日"
  },
- "17184257898017822434": {
-  "place_id": "ChIJ4e9m7REXaTQR4pYNHIO_eu4",
-  "name": "ChillXChill熊品餐廳/活動場地租借",
-  "address": "427台灣臺中市潭子區東寶里雅潭路三段東寶巷9號",
+ "9067727885614719876": {
+  "place_id": "ChIJbejAens4aTQRhCP4FXgK130",
+  "name": "櫻三日本料理",
+  "address": "41455台灣臺中市烏日區湖日里三榮南路125號",
   "rating": 4.5,
-  "userRatingCount": 852,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=17184257898017822434&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "userRatingCount": 188,
+  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=9067727885614719876&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.2175865,
-   "longitude": 120.6826046
+   "latitude": 24.1044458,
+   "longitude": 120.6083307
   },
   "types": [
-   "western_restaurant",
-   "steak_house",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "6979629720510294633": {
+  "place_id": "ChIJe58kstU9aTQRaWrGSkCg3GA",
+  "name": "暮和 日式豬排專門店（日本職人親授 正宗日本味） 咖喱 丼飯 炸蝦 歐姆蛋",
+  "address": "414台灣臺中市烏日區三民街31巷20號",
+  "rating": 4.6,
+  "userRatingCount": 348,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=6979629720510294633&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1039228,
+   "longitude": 120.62114679999999
+  },
+  "types": [
+   "tonkatsu_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "9478609958728018633": {
+  "place_id": "ChIJBXAilqE-aTQRyap2oonJioM",
+  "name": "大戸屋台中新高鐵站",
+  "address": "414台灣臺中市烏日區湖日里站區二路8號2樓",
+  "rating": 4.2,
+  "userRatingCount": 1787,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=9478609958728018633&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.110471699999998,
+   "longitude": 120.6155651
+  },
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "9700599495823699839": {
+  "place_id": "ChIJsUmg4oY9aTQRf6_ncNhzn4Y",
+  "name": "里好餐桌 Li-Ho Table",
+  "address": "414台灣臺中市烏日區仁德里中山路一段319號",
+  "rating": 4.8,
+  "userRatingCount": 2496,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=9700599495823699839&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1087254,
+   "longitude": 120.6415919
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "6391198647624189421": {
+  "place_id": "ChIJM5Oy1hE9aTQR7cWY2E4Zslg",
+  "name": "烏嗚餐酒館 wuwu Bistro│餐酒館│ 烏日酒吧│親子│蔬食│素食│無酒精│調酒",
+  "address": "414台灣臺中市烏日區楓樹里大同九街73號六樓",
+  "rating": 5,
+  "userRatingCount": 220,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=6391198647624189421&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1126908,
+   "longitude": 120.62738159999999
+  },
+  "types": [
+   "pub",
+   "bar",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "6722842240466588346": {
+  "place_id": "ChIJjcThfAA_aTQRupIACGZVTF0",
+  "name": "1491Bistro餐酒館｜運動酒吧｜高鐵餐廳｜義大利麵｜燉飯｜烏日餐廳（最後點餐20:45）",
+  "address": "414台灣臺中市烏日區三和里高鐵一路370號",
+  "rating": 4.9,
+  "userRatingCount": 178,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=6722842240466588346&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1123746,
+   "longitude": 120.6097693
+  },
+  "types": [
+   "restaurant",
+   "bar",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "6765735251682260338": {
+  "place_id": "ChIJ7fBD0g88aTQRcvXbcF245F0",
+  "name": "單身料亭 義大利麵・咖哩",
+  "address": "414台灣臺中市烏日區九德里中華路626號",
+  "rating": 4.1,
+  "userRatingCount": 148,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=6765735251682260338&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.106939699999998,
+   "longitude": 120.63403590000001
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "5333026849765705455": {
+  "place_id": "ChIJbW1xGBc8aTQR78bnDaq3Ako",
+  "name": "381巷美食廚房",
+  "address": "414台灣臺中市烏日區信義街381巷",
+  "rating": 4.6,
+  "userRatingCount": 131,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=5333026849765705455&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1057483,
+   "longitude": 120.6342816
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "3565940001245782562": {
+  "place_id": "ChIJj-Aplrg-aTQRImKcuInDfDE",
+  "name": "心．舒食",
+  "address": "414台灣臺中市烏日區榮泉里榮和路169號1樓",
+  "rating": 4.6,
+  "userRatingCount": 38,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=3565940001245782562&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.110705199999998,
+   "longitude": 120.5977684
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "17118137431695797177": {
+  "place_id": "ChIJi1wnVxk8aTQRuauLYEzXj-0",
+  "name": "烏日烤肉之家（臉書搜尋：新烏日烤肉之家）專屬",
+  "address": "414台灣臺中市烏日區烏日里中山路二段179號",
+  "rating": 4.1,
+  "userRatingCount": 630,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=17118137431695797177&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1059268,
+   "longitude": 120.62621940000001
+  },
+  "types": [
    "restaurant",
    "point_of_interest",
    "food",
    "establishment"
   ],
-  "area_label": "潭子"
+  "area_label": "烏日"
  },
- "5446702118465005321": {
-  "place_id": "ChIJZXn6SB0XaTQRCWd5CLiSlks",
-  "name": "南洋一哥 潭子店",
-  "address": "427台灣臺中市潭子區潭陽里圓通南路76-1號",
+ "9776263447961898653": {
+  "place_id": "ChIJi2wmFMs9aTQRnY5nHs9DrIc",
+  "name": "夯燒燒烤肉BARBECUE_烏日旗艦總店",
+  "address": "414台灣臺中市烏日區九德里中華路68號",
   "rating": 4.6,
-  "userRatingCount": 73,
+  "userRatingCount": 27,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=5446702118465005321&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=9776263447961898653&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.206840699999997,
-   "longitude": 120.708576
+   "latitude": 24.1105764,
+   "longitude": 120.64168559999999
+  },
+  "types": [
+   "kebab_shop",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "631444368331499923": {
+  "place_id": "ChIJqc1yRXQ-aTQRk-nRtU5Xwwg",
+  "name": "原土地公廟旁烤肉",
+  "address": "41451台灣臺中市烏日區學田里學田路713號",
+  "rating": 4.5,
+  "userRatingCount": 143,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=631444368331499923&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1262629,
+   "longitude": 120.60722820000001
+  },
+  "types": [
+   "kebab_shop",
+   "store",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "6509965826099212560": {
+  "place_id": "ChIJo09ck3E8aTQREHGTdG0LWFo",
+  "name": "烤肉大腸包小腸",
+  "address": "414台灣臺中市烏日區五光里五光路464號",
+  "rating": 4.7,
+  "userRatingCount": 119,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=6509965826099212560&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.0938032,
+   "longitude": 120.6498639
+  },
+  "types": [
+   "kebab_shop",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "18102643779886179414": {
+  "place_id": "ChIJk3AqawA9aTQRVuSMG5uCOfs",
+  "name": "阿和仔的店",
+  "address": "414台灣臺中市烏日區光明里五光路712號",
+  "rating": 4.9,
+  "userRatingCount": 21,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=18102643779886179414&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.096872299999998,
+   "longitude": 120.6375791
+  },
+  "types": [
+   "barbecue_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "9882570217780935621": {
+  "place_id": "ChIJDSc3gEI_aTQRxfuvwkDxJYk",
+  "name": "新台灣烤肉飯",
+  "address": "414台灣臺中市烏日區九德里中山路一段526-1號",
+  "rating": 4,
+  "userRatingCount": 141,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=9882570217780935621&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.107076,
+   "longitude": 120.6354765
+  },
+  "types": [
+   "food_store",
+   "store",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "11772226675970329538": {
+  "place_id": "ChIJU7aD_V8_aTQRwsuWNMpZX6M",
+  "name": "嗑肉石鍋-台中烏日店(二代店)",
+  "address": "414台灣臺中市烏日區榮泉里榮和路93號",
+  "rating": 4.9,
+  "userRatingCount": 6435,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=11772226675970329538&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1088503,
+   "longitude": 120.5972558
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "5624432476861885558": {
+  "place_id": "ChIJxZyIxwo9aTQRduyFxon_DU4",
+  "name": "無名夯夯夯大腸包小腸",
+  "address": "414台灣臺中市烏日區烏日里平等路17號",
+  "rating": 4.5,
+  "userRatingCount": 15,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=5624432476861885558&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.108445099999997,
+   "longitude": 120.62362840000002
+  },
+  "types": [
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "7759451599038294663": {
+  "place_id": "ChIJhTn-_uk_aTQRh6qDNB4cr2s",
+  "name": "一斗鍋物(最後點餐時間22:00)",
+  "address": "414台灣臺中市烏日區榮泉里榮和路9號",
+  "rating": 4.6,
+  "userRatingCount": 260,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=7759451599038294663&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1076212,
+   "longitude": 120.59675100000001
+  },
+  "types": [
+   "japanese_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "14392992898415775231": {
+  "place_id": "ChIJXWF1Y7U9aTQR_83KpMguvsc",
+  "name": "念十六鍋物",
+  "address": "414台灣臺中市烏日區光德路309號",
+  "rating": 4.9,
+  "userRatingCount": 1954,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=14392992898415775231&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.106840899999998,
+   "longitude": 120.64175669999999
   },
   "types": [
    "hot_pot_restaurant",
@@ -189,162 +1167,648 @@
    "food",
    "establishment"
   ],
-  "area_label": "潭子"
+  "area_label": "烏日"
  },
- "4854997641899230213": {
-  "place_id": "ChIJVcDWkYUXaTQRBUTD5qFqYEM",
-  "name": "小孔料理食堂(請先預約並點餐)",
-  "address": "427台灣臺中市潭子區頭家東里中興路45號",
-  "rating": 4.6,
-  "userRatingCount": 323,
+ "4836566302544134399": {
+  "place_id": "ChIJKVuCMgk9aTQR_4DES23vHkM",
+  "name": "億品鍋烏日店 Mini Shabu Shabu 風味小火鍋",
+  "address": "414台灣臺中市烏日區九德里長春街405號",
+  "rating": 4.5,
+  "userRatingCount": 1228,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=4854997641899230213&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=4836566302544134399&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.190744199999997,
-   "longitude": 120.7041959
+   "latitude": 24.1081186,
+   "longitude": 120.6354334
   },
   "types": [
-   "meal_delivery",
-   "food_delivery",
+   "hot_pot_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "16778789965166213501": {
+  "place_id": "ChIJGXT6GQA_aTQRffmeUpM82ug",
+  "name": "龍鳳火鍋餃子",
+  "address": "414台灣臺中市烏日區新興路427號",
+  "rating": 4.1,
+  "userRatingCount": 81,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=16778789965166213501&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1055007,
+   "longitude": 120.61801129999999
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "18203156996935829856": {
+  "place_id": "ChIJWSLvmAM9aTQRYMkGIdianvw",
+  "name": "築間幸福鍋物 烏日長春店",
+  "address": "414台灣臺中市烏日區九德里長春街367號",
+  "rating": 4.9,
+  "userRatingCount": 2093,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=18203156996935829856&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1083742,
+   "longitude": 120.63619039999999
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "14335390828093424862": {
+  "place_id": "ChIJX26cehw8aTQR3sTmiAGK8cY",
+  "name": "大卷鮮鍋",
+  "address": "414台灣臺中市烏日區烏日里新興路257號",
+  "rating": 4.3,
+  "userRatingCount": 383,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=14335390828093424862&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1039463,
+   "longitude": 120.62509220000001
+  },
+  "types": [
    "japanese_restaurant",
    "restaurant",
    "point_of_interest",
    "food",
    "establishment"
   ],
-  "area_label": "潭子"
+  "area_label": "烏日"
  },
- "8268889334066785548": {
-  "place_id": "ChIJVTc8qnsXaTQRDC0R9An_wHI",
-  "name": "LaFaFa樂花花食館",
-  "address": "42750台灣臺中市潭子區福仁里圓通南路91號",
-  "rating": 4.6,
-  "userRatingCount": 134,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=8268889334066785548&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2067023,
-   "longitude": 120.70816210000001
-  },
-  "types": [
-   "dim_sum_restaurant",
-   "cantonese_restaurant",
-   "chinese_restaurant",
-   "food_store",
-   "store",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "6607836784954942464": {
-  "place_id": "ChIJ62AuKScXaTQRAKT_zIvAs1s",
-  "name": "潭子街海鮮麵",
-  "address": "427台灣臺中市潭子區潭陽里潭子街二段28號",
-  "rating": 4.8,
-  "userRatingCount": 45,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=6607836784954942464&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2119382,
-   "longitude": 120.7070315
-  },
-  "types": [
-   "seafood_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "10480586387786668384": {
-  "place_id": "ChIJI4x1NmQXaTQRYJnRicqFcpE",
-  "name": "淺嚐時尚料理廚房",
-  "address": "427台灣臺中市潭子區潭秀里雅潭路一段51號",
+ "7155098412738129505": {
+  "place_id": "ChIJB68GNrQ_aTQRYa432BgETGM",
+  "name": "老先覺麻辣鍋(蔬食吃到飽.原肉現切)-烏日高鐵店",
+  "address": "414台灣臺中市烏日區榮泉里健行路761號",
   "rating": 4.1,
-  "userRatingCount": 1118,
+  "userRatingCount": 132,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=10480586387786668384&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=7155098412738129505&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.2156985,
-   "longitude": 120.70364610000001
+   "latitude": 24.111508099999998,
+   "longitude": 120.5904714
   },
   "types": [
-   "chinese_restaurant",
+   "hot_pot_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
-  "area_label": "潭子"
+  "area_label": "烏日"
  },
- "8414535396258103808": {
-  "place_id": "ChIJcyl4L2IXaTQRAELqW1xvxnQ",
-  "name": "采色麵疙瘩店（總店）",
-  "address": "427台灣臺中市潭子區嘉仁里福潭路575號",
-  "rating": 4.7,
-  "userRatingCount": 665,
+ "4817669125469402755": {
+  "place_id": "ChIJ-dOs2JI_aTQRg3b4ZIvM20I",
+  "name": "金鼎鍋物 烏日店",
+  "address": "414台灣臺中市烏日區榮泉里榮和路107號",
+  "rating": 4.3,
+  "userRatingCount": 621,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=4817669125469402755&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.109132199999998,
+   "longitude": 120.59739490000001
+  },
+  "types": [
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "9079050350456132604": {
+  "place_id": "ChIJ2W6FHsQ_aTQR_NPS3DBE_30",
+  "name": "珍好味職人鍋物-台中烏日店",
+  "address": "414台灣臺中市烏日區三和里中山路三段303號",
+  "rating": 4.3,
+  "userRatingCount": 108,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=8414535396258103808&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=9079050350456132604&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.214859999999998,
-   "longitude": 120.70988099999998
+   "latitude": 24.108264,
+   "longitude": 120.60721819999999
   },
   "types": [
-   "chinese_restaurant",
+   "hot_pot_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
-  "area_label": "潭子"
+  "area_label": "烏日"
  },
- "18326217220103823808": {
-  "place_id": "ChIJlYvPd2MXaTQRwGHvGHfNU_4",
-  "name": "咯馬可",
-  "address": "427台灣臺中市潭子區潭陽里潭子街二段108號",
-  "rating": 4.6,
-  "userRatingCount": 578,
+ "14014721228098255757": {
+  "place_id": "ChIJlR0LlD88aTQRjTvsKrRKfsI",
+  "name": "老牌石頭火鍋&滷味之鄉",
+  "address": "414台灣臺中市烏日區九德里中山路一段214號",
+  "rating": 4,
+  "userRatingCount": 345,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=18326217220103823808&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=14014721228098255757&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.2134619,
-   "longitude": 120.7071404
+   "latitude": 24.109135199999997,
+   "longitude": 120.6419132
   },
   "types": [
-   "italian_restaurant",
-   "cafe",
+   "hot_pot_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "17822299874337699640": {
+  "place_id": "ChIJuZCf7xU8aTQRODdjIk-HVfc",
+  "name": "五路鍋聖-明道店",
+  "address": "41443台灣臺中市烏日區仁德里中山路一段429號",
+  "rating": 4.2,
+  "userRatingCount": 384,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=17822299874337699640&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1074718,
+   "longitude": 120.6377606
+  },
+  "types": [
+   "hot_pot_restaurant",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "8717534636399957684": {
+  "place_id": "ChIJAyGoLQA_aTQRtJbId5Dn-ng",
+  "name": "麵麵聚香｜鍋燒涼麵-台中烏日店",
+  "address": "414台灣臺中市烏日區榮泉里中山路三段707號",
+  "rating": 4.8,
+  "userRatingCount": 107,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=8717534636399957684&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1109962,
+   "longitude": 120.59897339999998
+  },
+  "types": [
+   "noodle_shop",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "12941219068684165267": {
+  "place_id": "ChIJLdzcif89aTQRk2BubS1ymLM",
+  "name": "福慧根湯-台中烏日店",
+  "address": "414009台灣臺中市烏日區烏日里光日路66號",
+  "rating": 4.9,
+  "userRatingCount": 158,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=12941219068684165267&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1037081,
+   "longitude": 120.6246307
+  },
+  "types": [
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "18038382500217457022": {
+  "place_id": "ChIJQYc25hg8aTQRfokVAFA1Vfo",
+  "name": "Chungci Bakery（馬卡龍歡迎現貨自取，其他品項需預約、無實體店面）",
+  "address": "41449台灣臺中市烏日區烏日里建國路403號3樓",
+  "rating": 4.9,
+  "userRatingCount": 361,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=18038382500217457022&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.108982800000003,
+   "longitude": 120.62818549999999
+  },
+  "types": [
+   "dessert_shop",
+   "cake_shop",
+   "bakery",
+   "confectionery",
+   "wholesaler",
+   "manufacturer",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "service",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "18078885686615560237": {
+  "place_id": "ChIJoyhIy4o9aTQRLVCd9b4a5fo",
+  "name": "圓森甜點",
+  "address": "414台灣臺中市烏日區九德里自立街43號",
+  "rating": 4.9,
+  "userRatingCount": 231,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=18078885686615560237&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1090819,
+   "longitude": 120.63313819999999
+  },
+  "types": [
    "dessert_shop",
    "confectionery",
    "food_store",
    "store",
-   "european_restaurant",
-   "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
-  "area_label": "潭子"
+  "area_label": "烏日"
  },
- "17350491333733092833": {
-  "place_id": "ChIJT3vr2W0XaTQR4Y2n8fBTyfA",
-  "name": "弎食（San Shi)咖啡廳｜潭子第一家百貨行｜必點咖啡",
-  "address": "42751台灣臺中市潭子區潭陽里潭子街二段50號",
-  "rating": 4.9,
-  "userRatingCount": 503,
+ "6116788888532757887": {
+  "place_id": "ChIJn5qWmxg8aTQRfy0NAxYz41Q",
+  "name": "幸福甜心蛋糕坊",
+  "address": "414台灣臺中市烏日區烏日里民權街90號",
+  "rating": 4.7,
+  "userRatingCount": 129,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=17350491333733092833&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=6116788888532757887&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.2122708,
-   "longitude": 120.7070468
+   "latitude": 24.1103684,
+   "longitude": 120.6278074
+  },
+  "types": [
+   "cake_shop",
+   "bakery",
+   "wholesaler",
+   "manufacturer",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "service",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "443785868399107553": {
+  "place_id": "ChIJCc5VkXM9aTQR4V1EYuWkKAY",
+  "name": "Rattan cat cafe 藤猫咖啡 自家烘焙 僅採現場候位（恕不接待12歲以下孩童）",
+  "address": "414台灣臺中市烏日區烏日里中山路二段399號",
+  "rating": 4.8,
+  "userRatingCount": 219,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=443785868399107553&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.106389399999998,
+   "longitude": 120.6207829
+  },
+  "types": [
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "6245824930272410433": {
+  "place_id": "ChIJnfG1JKQ-aTQRQXsqqq6grVY",
+  "name": "卷卷烘焙 烏日門市 可愛甜點專賣店",
+  "address": "41456台灣臺中市烏日區三和里學田路8巷40號",
+  "rating": 4.7,
+  "userRatingCount": 861,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=6245824930272410433&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.108826699999998,
+   "longitude": 120.60887980000001
+  },
+  "types": [
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "4784543924797332789": {
+  "place_id": "ChIJr0Nkq0k9aTQRNV3MmVkdZkI",
+  "name": "驀時甜點工藝(一律採官方私訊時間取貨)",
+  "address": "414台灣臺中市烏日區仁德里信義街30號",
+  "rating": 4.9,
+  "userRatingCount": 74,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=4784543924797332789&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.106270799999997,
+   "longitude": 120.64175549999999
+  },
+  "types": [
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "3611620752142288453": {
+  "place_id": "ChIJqa3QYh48aTQRRcbeWvANHzI",
+  "name": "嘟比烘焙工作室、餐盒#中秋月餅",
+  "address": "414台灣臺中市烏日區烏日里中山路二段市場巷5號",
+  "rating": 4.8,
+  "userRatingCount": 86,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=3611620752142288453&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1068124,
+   "longitude": 120.6225041
+  },
+  "types": [
+   "bakery",
+   "confectionery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "15923222824749839046": {
+  "place_id": "ChIJM_fKJEs9aTQRxjKbVMum-tw",
+  "name": "u_me_cake",
+  "address": "414台灣臺中市烏日區前竹里光明路157巷31號",
+  "rating": 5,
+  "userRatingCount": 23,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=15923222824749839046&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.0960392,
+   "longitude": 120.6459446
+  },
+  "types": [
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "17337441405400400225": {
+  "place_id": "ChIJKSyGVJE_aTQRYUEKuxn3mvA",
+  "name": "傳遞幸福台中高鐵專櫃-法式玫瑰塔專賣店",
+  "address": "414台灣臺中市烏日區三和里站區二路8號伴手禮區號2樓",
+  "rating": 4.9,
+  "userRatingCount": 682,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=17337441405400400225&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1121919,
+   "longitude": 120.615455
+  },
+  "types": [
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "1980355608512390279": {
+  "place_id": "ChIJg-0npqc9aTQRh2RV_u6iexs",
+  "name": "法洛坊 Petit Coin de Lorraine",
+  "address": "414台灣臺中市烏日區五光里五光路73-1號",
+  "rating": 5,
+  "userRatingCount": 66,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=1980355608512390279&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.095802199999998,
+   "longitude": 120.65816420000002
+  },
+  "types": [
+   "bakery",
+   "pastry_shop",
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "9907128353608556565": {
+  "place_id": "ChIJ3VakXOg_aTQRFeAJVb8wfYk",
+  "name": "陳允寶泉-台中新烏日店",
+  "address": "414台灣臺中市烏日區三和里高鐵東一路26號台鐵新烏日站商場2樓",
+  "rating": 4.9,
+  "userRatingCount": 269,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=9907128353608556565&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1097079,
+   "longitude": 120.61432829999998
+  },
+  "types": [
+   "pastry_shop",
+   "bakery",
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "13189349653392401268": {
+  "place_id": "ChIJBYCpIBw8aTQRdCPgLKH7Cbc",
+  "name": "德朵葡式蛋撻",
+  "address": "414台灣臺中市烏日區烏日里中山路二段259號",
+  "rating": 4.4,
+  "userRatingCount": 55,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=13189349653392401268&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1061993,
+   "longitude": 120.62408789999999
+  },
+  "types": [
+   "pastry_shop",
+   "bakery",
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "9676160799174284141": {
+  "place_id": "ChIJT4W8eVk9aTQRbdNX-PqgSIY",
+  "name": "羊卷子吉拿棒｜チュロス専売所",
+  "address": "41445台灣臺中市烏日區九德里長春街233號",
+  "rating": 4.7,
+  "userRatingCount": 184,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=9676160799174284141&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.109334999999998,
+   "longitude": 120.63883450000002
+  },
+  "types": [
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "3489443542668882226": {
+  "place_id": "ChIJ68yAvfg_aTQRMjGPCGr-bDA",
+  "name": "願好茶事 Joyful Aspiration Tea",
+  "address": "414台灣臺中市烏日區三和里三榮路一段37號",
+  "rating": 4.8,
+  "userRatingCount": 37,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=3489443542668882226&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.105408999999998,
+   "longitude": 120.61119210000001
+  },
+  "types": [
+   "tea_house",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "8968380862133666387": {
+  "place_id": "ChIJ5VtB_-k_aTQRU4LjqeAWdnw",
+  "name": "鯨牧咖啡（營業時間以Instagram and Facebook 為主）",
+  "address": "41454台灣臺中市烏日區榮泉里三榮十八路11號",
+  "rating": 4.8,
+  "userRatingCount": 171,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=8968380862133666387&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.111305299999998,
+   "longitude": 120.5894093
   },
   "types": [
    "cafe",
-   "dessert_shop",
-   "confectionery",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "4152184418402996664": {
+  "place_id": "ChIJIXhqUqc_aTQRuJHStLqFnzk",
+  "name": "HWC 黑沃咖啡｜烏日榮和店",
+  "address": "414台灣臺中市烏日區榮泉里榮和路99號",
+  "rating": 4.5,
+  "userRatingCount": 137,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=4152184418402996664&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.109004499999998,
+   "longitude": 120.5973172
+  },
+  "types": [
+   "cafe",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "6395490177904199994": {
+  "place_id": "ChIJE4xCpfY9aTQROsl6mm5YwVg",
+  "name": "啡你莫屬咖啡 Only for you coffee",
+  "address": "414台灣臺中市烏日區中山路一段549號",
+  "rating": 4.9,
+  "userRatingCount": 36,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=6395490177904199994&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1058906,
+   "longitude": 120.6335666
+  },
+  "types": [
+   "coffee_shop",
+   "cafe",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "15297886177767931061": {
+  "place_id": "ChIJbxYqu5o9aTQRtTw3UG0CTdQ",
+  "name": "續咖啡 Coffee Refill | 自家烘焙 | 捷運咖啡 | 九德捷運旁",
+  "address": "41448台灣臺中市烏日區九德里中華路477號",
+  "rating": 5,
+  "userRatingCount": 36,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=15297886177767931061&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.109784200000004,
+   "longitude": 120.6354832
+  },
+  "types": [
+   "cafe",
+   "coffee_roastery",
    "coffee_stand",
    "food_store",
    "store",
@@ -352,1966 +1816,65 @@
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "潭子"
+  "area_label": "烏日"
  },
- "5155736493573657770": {
-  "place_id": "ChIJyWsyYkYXaTQRqtT5TgbbjEc",
-  "name": "8ㄚ子總舖師美食",
-  "address": "427台灣臺中市潭子區潭秀里潭子街三段95號",
-  "rating": 4.5,
-  "userRatingCount": 215,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=5155736493573657770&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.215407,
-   "longitude": 120.70562000000001
-  },
-  "types": [
-   "taiwanese_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "3105757050802515253": {
-  "place_id": "ChIJTwsIUWMXaTQRNa2_K5XdGSs",
-  "name": "潭子西海岸",
-  "address": "42758台灣臺中市潭子區潭陽里潭興路二段485號",
-  "rating": 4.1,
-  "userRatingCount": 330,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=3105757050802515253&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2112945,
-   "longitude": 120.7068142
-  },
-  "types": [
-   "seafood_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "319880494733820077": {
-  "place_id": "ChIJua_4rnoXaTQRrYAve51xcAQ",
-  "name": "NU PASTA 台中潭子店",
-  "address": "427台灣臺中市潭子區甘蔗里潭興路三段120號",
-  "rating": 4.3,
-  "userRatingCount": 1503,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=319880494733820077&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2117838,
-   "longitude": 120.7009544
-  },
-  "types": [
-   "italian_restaurant",
-   "european_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "17190167689952390859": {
-  "place_id": "ChIJ6RyQN5gXaTQRy24CxW--j-4",
-  "name": "潭子美食｜來呷鍋燒麵｜大骨蔬果湯頭｜無味精味素",
-  "address": "427台灣臺中市潭子區潭北里人和路38號",
-  "rating": 5,
-  "userRatingCount": 16,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=17190167689952390859&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.216427300000003,
-   "longitude": 120.70751409999998
-  },
-  "types": [
-   "noodle_shop",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "10078690633952051092": {
-  "place_id": "ChIJf9h-zegXaTQRlL_Efbuz3os",
-  "name": "以沐早食早午餐-潭子店",
-  "address": "427台灣臺中市潭子區潭陽里潭子街一段31巷65號",
-  "rating": 4.6,
-  "userRatingCount": 306,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=10078690633952051092&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2117211,
-   "longitude": 120.70620609999997
-  },
-  "types": [
-   "brunch_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "8552475255152920171": {
-  "place_id": "ChIJO5SfGDoXaTQRa0a1fe5-sHY",
-  "name": "TAN早BRUNCH 早午餐",
-  "address": "427台灣臺中市潭子區東寶里大豐路二段26號1樓",
-  "rating": 4.8,
-  "userRatingCount": 122,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=8552475255152920171&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.216630499999997,
-   "longitude": 120.691576
-  },
-  "types": [
-   "breakfast_restaurant",
-   "brunch_restaurant",
-   "meal_takeaway",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "10017508742922554069": {
-  "place_id": "ChIJ6V-MQwgXaTQR1cpEbCBXBYs",
-  "name": "穀沐食坊",
-  "address": "427台灣臺中市潭子區嘉仁里福潭路176號",
+ "14809967360742656483": {
+  "place_id": "ChIJrYXqfM49aTQR4wkyGNmSh80",
+  "name": "彩色曼陀羅咖啡",
+  "address": "41449台灣臺中市烏日區楓樹里大同九街79號1樓",
   "rating": 4.4,
-  "userRatingCount": 88,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=10017508742922554069&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.214091999999997,
-   "longitude": 120.71111599999999
-  },
-  "types": [
-   "brunch_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "508743879018749508": {
-  "place_id": "ChIJ68U8-CsXaTQRRB6RztxrDwc",
-  "name": "樂橙舒食早餐店",
-  "address": "427台灣臺中市潭子區潭陽里潭子街二段34號",
-  "rating": 4.9,
-  "userRatingCount": 39,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=508743879018749508&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2120635,
-   "longitude": 120.70708440000001
-  },
-  "types": [
-   "breakfast_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "11472865818348684263": {
-  "place_id": "ChIJhVbIcTsXaTQR5wNlCq3ON58",
-  "name": "麥味登 潭子興華店｜最後點餐時間13:00｜使用APP快速取餐",
-  "address": "427017台灣臺中市潭子區興華一路187號",
-  "rating": 4.6,
-  "userRatingCount": 189,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=11472865818348684263&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2077781,
-   "longitude": 120.70314150000002
-  },
-  "types": [
-   "brunch_restaurant",
-   "breakfast_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "2309560208505579491": {
-  "place_id": "ChIJ5ymSh9EXaTQR4yda58U0DSA",
-  "name": "晨間小站 ｜手作早午餐｜寵物友善｜親子友善｜複合式餐廳｜沙拉拼盤｜義大利麵｜炒麵｜brunch",
-  "address": "427台灣臺中市潭子區頭家路190號1樓",
-  "rating": 4.6,
-  "userRatingCount": 327,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=2309560208505579491&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1961749,
-   "longitude": 120.69694570000001
-  },
-  "types": [
-   "brunch_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "2761349150160087059": {
-  "place_id": "ChIJ6WKMEqUXaTQRE2ge_GtIUiY",
-  "name": "Q Burger 潭子圓通店(直營)",
-  "address": "427台灣臺中市潭子區潭陽里圓通南路192號一樓",
-  "rating": 4.5,
-  "userRatingCount": 862,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=2761349150160087059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2072322,
-   "longitude": 120.70452789999999
-  },
-  "types": [
-   "brunch_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "15847335636030501743": {
-  "place_id": "ChIJmUq40acXaTQRb7P8VcwL7ds",
-  "name": "MORNI莫尼早餐 潭子勝利店",
-  "address": "427台灣臺中市潭子區甘蔗里勝利路266號",
-  "rating": 4.3,
-  "userRatingCount": 740,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=15847335636030501743&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2124873,
-   "longitude": 120.70068970000001
-  },
-  "types": [
-   "brunch_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "14090025580330515715": {
-  "place_id": "ChIJHSNtRAAXaTQRA33E95zTicM",
-  "name": "Q Burger 潭子興華店",
-  "address": "427台灣臺中市潭子區潭陽里興華一路355號",
-  "rating": 4.1,
-  "userRatingCount": 216,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=14090025580330515715&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.212233299999998,
-   "longitude": 120.70343910000001
-  },
-  "types": [
-   "brunch_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "3142451366040850647": {
-  "place_id": "ChIJbwkAOAAXaTQR11DONN46nCs",
-  "name": "漢堡大師輕食早午餐 潭子興華店",
-  "address": "427台灣臺中市潭子區甘蔗里興華一路363號",
-  "rating": 4.3,
-  "userRatingCount": 36,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=3142451366040850647&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2124271,
-   "longitude": 120.70349100000001
-  },
-  "types": [
-   "brunch_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "8616097790094161767": {
-  "place_id": "ChIJda4V_uQXaTQRZzeXQEqHknc",
-  "name": "七天一個禮拜(素食早餐店）每月禮拜一與二四週禮拜日公休",
-  "address": "427台灣臺中市潭子區福仁里中山路二段170號",
-  "rating": 4.8,
-  "userRatingCount": 105,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=8616097790094161767&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2046347,
-   "longitude": 120.7046876
-  },
-  "types": [
-   "brunch_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "16820508348229363893": {
-  "place_id": "ChIJJz0X0EsXaTQRtSi0TTlzbuk",
-  "name": "50米深嵐潭子店-早午餐",
-  "address": "427台灣臺中市潭子區東寶里雅豐街136號",
-  "rating": 4.3,
-  "userRatingCount": 370,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=16820508348229363893&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.219394200000004,
-   "longitude": 120.6939735
-  },
-  "types": [
-   "brunch_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "17721530683312868999": {
-  "place_id": "ChIJORFuk2IXaTQRh44Mh0OG7_U",
-  "name": "不胖早餐(潭子店)",
-  "address": "42757台灣臺中市潭子區潭陽里圓通南路136號",
-  "rating": 4.2,
-  "userRatingCount": 596,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=17721530683312868999&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2071926,
-   "longitude": 120.70669679999999
-  },
-  "types": [
-   "brunch_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "149887957470356014": {
-  "place_id": "ChIJA6h1OIUXaTQRLiIhnU2CFAI",
-  "name": "享好食ShareHouse 早午餐店",
-  "address": "427台灣臺中市潭子區家福里大通街42號",
-  "rating": 4.6,
-  "userRatingCount": 192,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=149887957470356014&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1921707,
-   "longitude": 120.7012518
-  },
-  "types": [
-   "brunch_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "4344050750190697247": {
-  "place_id": "ChIJ894RP1UXaTQRH7tiOyQrSTw",
-  "name": "瘦不了早午餐-潭子店",
-  "address": "42752台灣臺中市潭子區潭秀里雅潭路一段62號",
-  "rating": 4.1,
-  "userRatingCount": 137,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=4344050750190697247&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2160053,
-   "longitude": 120.70348050000001
-  },
-  "types": [
-   "breakfast_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "15649666933383406406": {
-  "place_id": "ChIJVViMXH4XaTQRRqN-ESnJLtk",
-  "name": "雞母早午餐潭子店",
-  "address": "427台灣臺中市潭子區潭陽里潭陽路28號",
-  "rating": 4.6,
-  "userRatingCount": 52,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=15649666933383406406&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.213247199999998,
-   "longitude": 120.7103968
-  },
-  "types": [
-   "brunch_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "5739957294935887164": {
-  "place_id": "ChIJVfJeZ_gXaTQRPM2Qhr9sqE8",
-  "name": "卯食mouth雅潭店",
-  "address": "427台灣臺中市潭子區潭秀里雅潭路一段242號-1號",
-  "rating": 4.2,
-  "userRatingCount": 196,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=5739957294935887164&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.216642900000004,
-   "longitude": 120.69882849999999
-  },
-  "types": [
-   "brunch_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "6285960781501519675": {
-  "place_id": "ChIJF8zD28YXaTQRO1dvvQY4PFc",
-  "name": "喜得炭火燒三明治潭子圓通南店（點餐時間至13:00）",
-  "address": "427台灣臺中市潭子區潭陽里圓通南路92號",
-  "rating": 4,
-  "userRatingCount": 141,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=6285960781501519675&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2069103,
-   "longitude": 120.70821520000001
-  },
-  "types": [
-   "breakfast_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "29232293378378520": {
-  "place_id": "ChIJW6GQ3DcXaTQRGMvJrp3aZwA",
-  "name": "沐曦·日和ごはん（原沐曦壽司）｜生魚片．壽司．丼飯",
-  "address": "427台灣臺中市潭子區潭陽里復興路二段166號",
-  "rating": 5,
-  "userRatingCount": 67,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=29232293378378520&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2110129,
-   "longitude": 120.7072612
-  },
-  "types": [
-   "japanese_restaurant",
-   "meal_takeaway",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "2460333636283448698": {
-  "place_id": "ChIJTa0s2GQXaTQRer2eI2jcJCI",
-  "name": "目野日本料理",
-  "address": "427台灣臺中市潭子區潭陽里興華一路365號",
-  "rating": 4.3,
-  "userRatingCount": 420,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=2460333636283448698&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.212552799999997,
-   "longitude": 120.70349229999998
-  },
-  "types": [
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "5189008239754718755": {
-  "place_id": "ChIJEwyYurAXaTQRI64nY4APA0g",
-  "name": "一築金野台-潭子店 潭子拉麵 潭子壽司 潭子生魚片",
-  "address": "42753台灣臺中市潭子區福仁里復興路一段13號",
-  "rating": 4.8,
-  "userRatingCount": 809,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=5189008239754718755&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2019833,
-   "longitude": 120.70598309999998
-  },
-  "types": [
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "10491822150436797998": {
-  "place_id": "ChIJf_mmCbIXaTQRLj5cY6hwmpE",
-  "name": "羿町食事處-丼飯（潭子店）",
-  "address": "427台灣臺中市潭子區頭家東里中山路一段2號",
-  "rating": 4.8,
-  "userRatingCount": 576,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=10491822150436797998&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.187187299999998,
-   "longitude": 120.7026131
-  },
-  "types": [
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "12668118245924639140": {
-  "place_id": "ChIJeaCPlWMXaTQRpJH7FG0yzq8",
-  "name": "阿忠師手作館 (潭子店)",
-  "address": "427台灣臺中市潭子區勝利路31號1樓",
-  "rating": 4.3,
-  "userRatingCount": 21,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=12668118245924639140&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2077751,
-   "longitude": 120.70141059999999
-  },
-  "types": [
-   "japanese_restaurant",
-   "taiwanese_restaurant",
-   "seafood_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "16819996314813380994": {
-  "place_id": "ChIJB01X0noXaTQRgrnUO4ihbOk",
-  "name": "壹兩壽司專賣",
-  "address": "427台灣臺中市潭子區甘蔗里興華二路21號號旁",
-  "rating": 4.1,
-  "userRatingCount": 50,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=16819996314813380994&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2109839,
-   "longitude": 120.70417189999998
-  },
-  "types": [
-   "sushi_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "10258002930331537413": {
-  "place_id": "ChIJSUF7QmEXaTQRBdBT31C_W44",
-  "name": "食貳串居酒屋(公休日在臉書跟IG)",
-  "address": "427台灣臺中市潭子區潭陽里圓通南路278之2號",
-  "rating": 4.6,
-  "userRatingCount": 177,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=10258002930331537413&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2073566,
-   "longitude": 120.70251660000001
-  },
-  "types": [
-   "japanese_izakaya_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "4314850112018841942": {
-  "place_id": "ChIJN6KnOrgXaTQRVgHw2VBt4Ts",
-  "name": "穎覓食光（台中店）",
-  "address": "427台灣臺中市潭子區東寶里雅豐街76巷15號",
-  "rating": 4.7,
-  "userRatingCount": 103,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=4314850112018841942&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.218110799999998,
-   "longitude": 120.69409150000001
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "4206293497773424491": {
-  "place_id": "ChIJM1aqvNoXaTQRa__Re6bBXzo",
-  "name": "吉品丼飯/烏龍麵/咖喱",
-  "address": "427013台灣臺中市潭子區福仁里復興路一段54號",
-  "rating": 4.7,
-  "userRatingCount": 116,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=4206293497773424491&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2036083,
-   "longitude": 120.7064099
-  },
-  "types": [
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "15977274524063431404": {
-  "place_id": "ChIJ8S0jxPEXaTQR7PqyRYeuut0",
-  "name": "Hapag Cabalen",
-  "address": "427台灣臺中市潭子區潭秀里中山路二段470號",
-  "rating": 4.9,
-  "userRatingCount": 27,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=15977274524063431404&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2164877,
-   "longitude": 120.7055992
-  },
-  "types": [
-   "japanese_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "14805229989504804371": {
-  "place_id": "ChIJ12pzTB4XaTQRE-Zk5ju-ds0",
-  "name": "汍樂滿盛燒肉丼 潭子店",
-  "address": "427台灣臺中市潭子區甘蔗里勝利路91號",
-  "rating": 4.7,
-  "userRatingCount": 1304,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=14805229989504804371&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2087473,
-   "longitude": 120.7011733
-  },
-  "types": [
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "6779090011742877817": {
-  "place_id": "ChIJeXtwJuMXaTQReThV0nIqFF4",
-  "name": "加班食堂",
-  "address": "427台灣臺中市潭子區潭陽里圓通南路290號1樓",
-  "rating": 4.9,
-  "userRatingCount": 131,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=6779090011742877817&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.207395100000003,
-   "longitude": 120.70229279999998
-  },
-  "types": [
-   "japanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "15508948645684112679": {
-  "place_id": "ChIJG60h3-sXaTQRJ-3GkZ_aOtc",
-  "name": "里賀炒丼",
-  "address": "427台灣臺中市潭子區潭秀里雅潭路一段130號",
-  "rating": 4.9,
-  "userRatingCount": 525,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=15508948645684112679&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.216217099999998,
-   "longitude": 120.70188080000001
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "3588892208967964202": {
-  "place_id": "ChIJuwBFaAcXaTQRKtazBHNOzjE",
-  "name": "春風稻鐵板燒丼飯-潭子雅潭店",
-  "address": "427台灣臺中市潭子區東寶里雅潭路二段200號",
-  "rating": 4.4,
-  "userRatingCount": 471,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=3588892208967964202&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2161513,
-   "longitude": 120.6927621
-  },
-  "types": [
-   "restaurant",
-   "fast_food_restaurant",
-   "meal_delivery",
-   "food_delivery",
-   "chinese_restaurant",
-   "japanese_restaurant",
-   "food_store",
-   "store",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "3182158870332715687": {
-  "place_id": "ChIJ08PoTzwXaTQRpzIK_aFMKSw",
-  "name": "食見生活-潭子店/健康餐/日式炊飯餐盒",
-  "address": "427010台灣臺中市潭子區甘蔗里勝利路162號",
-  "rating": 4.1,
-  "userRatingCount": 135,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=3182158870332715687&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2112385,
-   "longitude": 120.7007781
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "8062751658788074793": {
-  "place_id": "ChIJsY_AK7EXaTQRKTVBVuql5G8",
-  "name": "迪諾蒙奇 Dinomunch pasta",
-  "address": "427台灣臺中市潭子區頭家東里大成街124巷5號",
-  "rating": 4.8,
-  "userRatingCount": 102,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=8062751658788074793&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.192404200000002,
-   "longitude": 120.70423330000001
-  },
-  "types": [
-   "italian_restaurant",
-   "european_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "14860149756260575541": {
-  "place_id": "ChIJTbvNmhoXaTQRNekEi3jbOc4",
-  "name": "Man's 義大利麵食 潭子勝利店 (限外帶)",
-  "address": "427台灣臺中市潭子區勝利路15號",
-  "rating": 4.2,
-  "userRatingCount": 117,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=14860149756260575541&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2074704,
-   "longitude": 120.70144839999999
-  },
-  "types": [
-   "meal_takeaway",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "2662191220421984455": {
-  "place_id": "ChIJC93Aqj0XaTQRx4BqYc8A8iQ",
-  "name": "Elmtree 榆樹廚房-義式早午餐/義式料理/下午茶-------附設停車場",
-  "address": "427台灣臺中市潭子區同榮里昌平路三段352巷8號",
-  "rating": 4.5,
-  "userRatingCount": 67,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=2662191220421984455&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.207314999999998,
-   "longitude": 120.6750009
-  },
-  "types": [
-   "brunch_restaurant",
-   "italian_restaurant",
-   "food_store",
-   "store",
-   "european_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "5895517267049084033": {
-  "place_id": "ChIJNS3pgmIXaTQRgXSk9bcV0VE",
-  "name": "高家特烤",
-  "address": "427台灣臺中市潭子區潭陽里福貴路439號",
-  "rating": 4.1,
-  "userRatingCount": 285,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=5895517267049084033&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2117196,
-   "longitude": 120.71186829999999
-  },
-  "types": [
-   "barbecue_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "7321432851464867288": {
-  "place_id": "ChIJgfAuEQwXaTQR2E1wRmP0mmU",
-  "name": "夜燒碳烤居酒屋(潭子店)--(平價日式 美食宵夜、必吃串燒、人氣小酌聚餐)",
-  "address": "427台灣臺中市潭子區福仁里環中東路一段13號",
-  "rating": 4.5,
-  "userRatingCount": 507,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=7321432851464867288&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.201211699999998,
-   "longitude": 120.7042479
-  },
-  "types": [
-   "japanese_izakaya_restaurant",
-   "yakitori_restaurant",
-   "kebab_shop",
-   "bar_and_grill",
-   "bar",
-   "japanese_restaurant",
-   "store",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "2584118573406426056": {
-  "place_id": "ChIJ4xMxYWoXaTQRyBNhuSai3CM",
-  "name": "夏炙炭烤",
-  "address": "427台灣臺中市潭子區潭陽里雅潭路一段156號",
-  "rating": 4.7,
-  "userRatingCount": 196,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=2584118573406426056&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.216266599999997,
-   "longitude": 120.70130149999999
-  },
-  "types": [
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "9016795349989906009": {
-  "place_id": "ChIJHdeeU4gXaTQRWdaKCJkXIn0",
-  "name": "伙房燒烤-潭興店（02：00最後點餐）",
-  "address": "427台灣臺中市潭子區潭陽里潭興路三段14號",
-  "rating": 4.8,
-  "userRatingCount": 1253,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=9016795349989906009&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2116962,
-   "longitude": 120.70460999999999
-  },
-  "types": [
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "12271514980112560258": {
-  "place_id": "ChIJK-3APxMXaTQRgnB-bdstTao",
-  "name": "酒棧燒 串烤•居酒屋-潭子人氣串燒|居酒屋首選|必吃串燒|CP串燒|熱門居酒屋|深夜串燒|居酒屋推薦|串燒首選",
-  "address": "427台灣臺中市潭子區福仁里大新路86號",
-  "rating": 4.4,
-  "userRatingCount": 51,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=12271514980112560258&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2024486,
-   "longitude": 120.7066446
-  },
-  "types": [
-   "japanese_izakaya_restaurant",
-   "japanese_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "16496057224404469315": {
-  "place_id": "ChIJN2A3dAAXaTQRQwYlT6XE7eQ",
-  "name": "大家碳烤",
-  "address": "42746台灣臺中市潭子區家福里頭張路一段64號",
-  "rating": 4.6,
-  "userRatingCount": 52,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=16496057224404469315&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.194456799999998,
-   "longitude": 120.7009258
-  },
-  "types": [
-   "barbecue_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "11437507560433455440": {
-  "place_id": "ChIJKbXyiJEXaTQRUBF7F4cwup4",
-  "name": "吳 食堂",
-  "address": "427台灣臺中市潭子區潭陽里復興路二段",
-  "rating": 4.9,
-  "userRatingCount": 17,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=11437507560433455440&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.210279,
-   "longitude": 120.70710570000001
-  },
-  "types": [
-   "kebab_shop",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "10738551102988320098": {
-  "place_id": "ChIJKbmDNmQXaTQRYn3_N1X_BpU",
-  "name": "佳興燒臘 (原龍鳳)",
-  "address": "427台灣臺中市潭子區潭秀里雅潭路一段50號",
-  "rating": 4.1,
-  "userRatingCount": 836,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=10738551102988320098&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2159127,
-   "longitude": 120.70387889999999
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "238002301913149459": {
-  "place_id": "ChIJEbopRfEXaTQREzBCJdWNTQM",
-  "name": "金賀夯美食廣場",
-  "address": "427台灣臺中市潭子區東寶里雅潭路二段179號",
-  "rating": 4.3,
-  "userRatingCount": 1160,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=238002301913149459&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.215686299999998,
-   "longitude": 120.6923918
-  },
-  "types": [
-   "seafood_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "2833022410352841812": {
-  "place_id": "ChIJm-_1b2UXaTQRVFTNSd_qUCc",
-  "name": "十曜府韓式火鍋烤肉專賣",
-  "address": "427台灣臺中市潭子區甘蔗里興華一路507號一 樓",
-  "rating": 4.4,
-  "userRatingCount": 388,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=2833022410352841812&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.214038499999997,
-   "longitude": 120.70122349999998
-  },
-  "types": [
-   "korean_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "16990173932090697608": {
-  "place_id": "ChIJlfgFELoZaTQRiCdeZiw5yes",
-  "name": "山田休閒餐飲店",
-  "address": "427台灣臺中市潭子區聚興里潭興路一段湳底巷11號",
-  "rating": 4.5,
-  "userRatingCount": 827,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=16990173932090697608&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.203927999999998,
-   "longitude": 120.74135599999998
-  },
-  "types": [
-   "taiwanese_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "8225073824442345389": {
-  "place_id": "ChIJAS2Ye3kXaTQRrec_pRBVJXI",
-  "name": "大吉籤PLUS+ 麻辣串串鍋 潭子旗艦店",
-  "address": "427台灣臺中市潭子區福仁里環中東路一段11號",
-  "rating": 4.9,
-  "userRatingCount": 1898,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=8225073824442345389&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2011818,
-   "longitude": 120.7041758
-  },
-  "types": [
-   "bistro",
-   "hot_pot_restaurant",
-   "chinese_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "14356768673826870549": {
-  "place_id": "ChIJXcJQ-88XaTQRFRXoHQt9Pcc",
-  "name": "初暖鍋物｜潭子套餐火鍋｜寵物友善",
-  "address": "427台灣臺中市潭子區中山路二段226號",
-  "rating": 4.7,
-  "userRatingCount": 87,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=14356768673826870549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2058023,
-   "longitude": 120.705032
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "2636336224076395961": {
-  "place_id": "ChIJqX-Qf2QXaTQRuXWR8NMlliQ",
-  "name": "七井鍋物",
-  "address": "427台灣臺中市潭子區潭秀里雅潭路一段27號",
-  "rating": 4.6,
-  "userRatingCount": 64,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=2636336224076395961&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2156299,
-   "longitude": 120.70407700000001
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "2834340060585030076": {
-  "place_id": "ChIJEWSD_2YXaTQRvHHUo0SZVSc",
-  "name": "牛鍋私藏鍋物 潭子店",
-  "address": "427台灣臺中市潭子區潭秀里中山路二段386號",
-  "rating": 4.4,
-  "userRatingCount": 1094,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=2834340060585030076&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2146416,
-   "longitude": 120.7054698
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "4387454798713686711": {
-  "place_id": "ChIJiUxQi4gXaTQRt4ppyeRe4zw",
-  "name": "六扇門時尚湯鍋-潭子勝利店",
-  "address": "427台灣臺中市潭子區甘蔗里勝利路68號1樓",
-  "rating": 4.6,
-  "userRatingCount": 1714,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=4387454798713686711&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2082464,
-   "longitude": 120.70148069999998
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "16513013632371397635": {
-  "place_id": "ChIJfZMDyO8XaTQRAxSusGgCKuU",
-  "name": "噌藏-味噌鍋物專門店（潭子店）",
-  "address": "427台灣臺中市潭子區圓通南路159號",
-  "rating": 4.7,
-  "userRatingCount": 907,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=16513013632371397635&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2070328,
-   "longitude": 120.70625919999999
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "12765906066434223725": {
-  "place_id": "ChIJ9xn3v2UXaTQRbe7QRe6bKbE",
-  "name": "鍋醬平價小火鍋 雅潭店",
-  "address": "427台灣臺中市潭子區甘蔗里雅潭路一段125號",
-  "rating": 4.2,
-  "userRatingCount": 267,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=12765906066434223725&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2158877,
-   "longitude": 120.70198339999999
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "7071808048215011951": {
-  "place_id": "ChIJW-t0Y5UXaTQRb7KaqfMbJGI",
-  "name": "大呼過癮臭臭鍋（潭子店）",
-  "address": "42756台灣臺中市潭子區東寶里雅潭路二段253號",
-  "rating": 4.3,
-  "userRatingCount": 218,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=7071808048215011951&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2157952,
-   "longitude": 120.69079959999999
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "3433717001005681180": {
-  "place_id": "ChIJSRPg49cXaTQRHMopeGsDpy8",
-  "name": "陳記小火鍋 潭子總店",
-  "address": "427台灣臺中市潭子區家福里得福街106號",
-  "rating": 4.4,
-  "userRatingCount": 23,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=3433717001005681180&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1941823,
-   "longitude": 120.6966717
-  },
-  "types": [
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "17530554117335995512": {
-  "place_id": "ChIJu6bcklsXaTQReNSSvxYKSfM",
-  "name": "i涮和牛鍋物(附免費停車場)",
-  "address": "427台灣臺中市潭子區福仁里圓通南路263號",
-  "rating": 4.5,
-  "userRatingCount": 411,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=17530554117335995512&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2071349,
-   "longitude": 120.70252239999999
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "cafeteria",
-   "pizza_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "2852721133301014053": {
-  "place_id": "ChIJE7QJ9LEXaTQRJR6oocHmlic",
-  "name": "川三甲外帶火鍋",
-  "address": "427台灣臺中市潭子區潭秀里興華一路360巷13號",
-  "rating": 4.5,
-  "userRatingCount": 236,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=2852721133301014053&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.214702,
-   "longitude": 120.70291950000001
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "10456599315414831520": {
-  "place_id": "ChIJ-WbHtXoXaTQRoNHkCa1NHZE",
-  "name": "晶寶の鍋",
-  "address": "427台灣臺中市潭子區甘蔗里潭興路三段100號",
-  "rating": 4.2,
-  "userRatingCount": 943,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=10456599315414831520&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.211748000000004,
-   "longitude": 120.70182299999998
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "10377943753112961192": {
-  "place_id": "ChIJL5wWQYoXaTQRqEBI19vcBZA",
-  "name": "海總派對",
-  "address": "427台灣臺中市潭子區福仁里復興路一段11號",
-  "rating": 4.8,
-  "userRatingCount": 1292,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=10377943753112961192&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2019494,
-   "longitude": 120.70598429999998
-  },
-  "types": [
-   "seafood_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "13364584715864630914": {
-  "place_id": "ChIJUQAYsXoXaTQRgua5j_2KeLk",
-  "name": "品醇美食館",
-  "address": "427台灣臺中市潭子區甘蔗里潭興路三段109-1號",
-  "rating": 4,
-  "userRatingCount": 154,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=13364584715864630914&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2115162,
-   "longitude": 120.70176740000001
-  },
-  "types": [
-   "hot_pot_restaurant",
-   "noodle_shop",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "1397282183497794114": {
-  "place_id": "ChIJr7LZAQAXaTQRQkJeJr4kZBM",
-  "name": "田佈妮 甜點店",
-  "address": "427005台灣臺中市潭子區頭家東里中山路一段216號",
-  "rating": 4.8,
-  "userRatingCount": 37,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=1397282183497794114&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1917351,
-   "longitude": 120.70263599999998
-  },
-  "types": [
-   "dessert_shop",
-   "confectionery",
-   "food_store",
-   "store",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "12951359713957429512": {
-  "place_id": "ChIJwwizFwEXaTQRCMG8ZAp5vLM",
-  "name": "GOOD good 過的好好",
-  "address": "427台灣臺中市潭子區甘蔗里勝利一街41巷1-1號",
-  "rating": 5,
-  "userRatingCount": 328,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=12951359713957429512&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2069324,
-   "longitude": 120.70059359999999
-  },
-  "types": [
-   "bakery",
-   "candy_store",
-   "gift_shop",
-   "dessert_shop",
-   "confectionery",
-   "food_store",
-   "store",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "8943848731835647021": {
-  "place_id": "ChIJ6aOw3Q4XaTQRLUTk-QjvHnw",
-  "name": "昀熙甜品",
-  "address": "427台灣臺中市潭子區潭子街二段39號",
-  "rating": 5,
-  "userRatingCount": 46,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=8943848731835647021&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.212094500000003,
-   "longitude": 120.7068455
-  },
-  "types": [
-   "dessert_shop",
-   "confectionery",
-   "food_store",
-   "store",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "16772759030176212081": {
-  "place_id": "ChIJiTeBG8sXaTQRceTg2HjPxOg",
-  "name": "常再坊烘焙坊",
-  "address": "427台灣臺中市潭子區福仁里中山路二段88號",
-  "rating": 4.4,
-  "userRatingCount": 235,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=16772759030176212081&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.20325,
-   "longitude": 120.70428700000001
-  },
-  "types": [
-   "bakery",
-   "food_store",
-   "store",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "8174837597787821844": {
-  "place_id": "ChIJWV9CfgAXaTQRFJemqHvbcnE",
-  "name": "Y.J COFFEE 玉津咖啡-台中潭子店",
-  "address": "427台灣臺中市潭子區甘蔗里勝利路157號",
-  "rating": 4.8,
-  "userRatingCount": 417,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=8174837597787821844&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.210462399999997,
-   "longitude": 120.7007486
-  },
-  "types": [
-   "coffee_shop",
-   "cafe",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "9822517529400442324": {
-  "place_id": "ChIJ-V8OAAAXaTQR1P31q6aXUIg",
-  "name": "涵の手作",
-  "address": "427台灣臺中市潭子區潭陽里中山路二段352-1號",
-  "rating": 5,
-  "userRatingCount": 22,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=9822517529400442324&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.211574499999998,
-   "longitude": 120.70565879999998
-  },
-  "types": [
-   "dessert_shop",
-   "confectionery",
-   "food_store",
-   "store",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "10479235402271994902": {
-  "place_id": "ChIJ_VwExf8XaTQRFrQethO5bZE",
-  "name": "盛點甜食光",
-  "address": "427台灣臺中市潭子區東寶里大豐一路347-3 號",
-  "rating": 4.9,
-  "userRatingCount": 17,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=10479235402271994902&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.208679399999998,
-   "longitude": 120.68302549999999
-  },
-  "types": [
-   "dessert_shop",
-   "confectionery",
-   "food_store",
-   "store",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "13183909842734863686": {
-  "place_id": "ChIJXeAJdZgXaTQRRtX8jiao9rY",
-  "name": "太陽雨甜點工作室 S&R cake house",
-  "address": "427台灣臺中市潭子區大新路156號1F",
-  "rating": 4.9,
-  "userRatingCount": 180,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=13183909842734863686&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2026318,
-   "longitude": 120.70427269999998
-  },
-  "types": [
-   "dessert_shop",
-   "confectionery",
-   "food_store",
-   "store",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "224369029001844174": {
-  "place_id": "ChIJyZ3mr2kXaTQRzhVBcHEeHQM",
-  "name": "麥胖屋。手感烘焙",
-  "address": "427台灣臺中市潭子區東寶里大豐路二段65號",
-  "rating": 4.8,
-  "userRatingCount": 137,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=224369029001844174&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2175473,
-   "longitude": 120.69150789999999
-  },
-  "types": [
-   "bakery",
-   "food_store",
-   "store",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "4801278730135989859": {
-  "place_id": "ChIJywtFAsoXaTQRY-5kGZGRoUI",
-  "name": "| 黑皮雞蛋糕 | 潭子下午茶 | 潭子外送 | 點心 | 團體訂購 |",
-  "address": "427台灣臺中市潭子區潭秀里潭子街三段83號",
-  "rating": 4.9,
-  "userRatingCount": 27,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=4801278730135989859&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.215417,
-   "longitude": 120.705832
-  },
-  "types": [
-   "dessert_shop",
-   "confectionery",
-   "food_store",
-   "store",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "11032144398872365443": {
-  "place_id": "ChIJVYl2NPkXaTQRg0maReEMGpk",
-  "name": "紅磚咖啡館",
-  "address": "427台灣臺中市潭子區福仁里福潭路315號",
-  "rating": 4.6,
-  "userRatingCount": 101,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=11032144398872365443&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.209414199999998,
-   "longitude": 120.71019829999999
-  },
-  "types": [
-   "coffee_shop",
-   "cafe",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "2721713363127493583": {
-  "place_id": "ChIJox7rqqYXaTQRz-OlLeJ3xSU",
-  "name": "梅森罐點心吧 Mason Jar Snack Bar",
-  "address": "427台灣臺中市潭子區栗林里潭豐路二段747號栗林火車站正下方一樓",
-  "rating": 4.8,
-  "userRatingCount": 255,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=2721713363127493583&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.234460799999997,
-   "longitude": 120.71059410000001
-  },
-  "types": [
-   "coffee_shop",
-   "cafe",
-   "food_store",
-   "store",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "18186493950404557015": {
-  "place_id": "ChIJaxTM2GQXaTQR13inR-RnY_w",
-  "name": "濡沫麵包",
-  "address": "427台灣臺中市潭子區潭陽里興華一路367號",
-  "rating": 4.8,
   "userRatingCount": 84,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=18186493950404557015&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=14809967360742656483&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.2125888,
-   "longitude": 120.70348740000001
+   "latitude": 24.1127637,
+   "longitude": 120.62694160000001
   },
   "types": [
-   "bakery",
    "food_store",
    "store",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "2579905534039898217": {
-  "place_id": "ChIJjWbMqMsXaTQRaTiDDmqqzSM",
-  "name": "香草騎士Ｘ香草家",
-  "address": "427台灣臺中市潭子區頭家東里大成街124巷10號",
-  "rating": 4.7,
-  "userRatingCount": 225,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=2579905534039898217&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1922923,
-   "longitude": 120.7043432
-  },
-  "types": [
-   "dessert_shop",
-   "chocolate_shop",
-   "candy_store",
-   "ice_cream_shop",
-   "bakery",
-   "confectionery",
-   "food_store",
-   "store",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "6431465062474998067": {
-  "place_id": "ChIJX5ftV2UXaTQRM2EoImYnQVk",
-  "name": "布里斯創意烘焙坊",
-  "address": "427台灣臺中市潭子區勝利路290號",
-  "rating": 4.3,
-  "userRatingCount": 65,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=6431465062474998067&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2132039,
-   "longitude": 120.70068819999999
-  },
-  "types": [
-   "bakery",
-   "food_store",
-   "store",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "9442448480198965471": {
-  "place_id": "ChIJSViJECUXaTQR37gvUN1QCoM",
-  "name": "玥達人手作可麗餅 潭子店",
-  "address": "427台灣臺中市潭子區福潭路577號",
-  "rating": 4.8,
-  "userRatingCount": 121,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=9442448480198965471&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2149994,
-   "longitude": 120.70977169999999
-  },
-  "types": [
-   "french_restaurant",
-   "dessert_shop",
-   "confectionery",
-   "european_restaurant",
-   "food_store",
-   "store",
-   "restaurant",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "潭子"
+  "area_label": "烏日"
  },
- "1425533301172728399": {
-  "place_id": "ChIJE70wreoXaTQRT_LjD_yCyBM",
-  "name": "碧月 DESSERT | 台中甜點",
-  "address": "427台灣臺中市潭子區家興里榮興街83巷16號1樓",
-  "rating": 4.2,
-  "userRatingCount": 58,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=1425533301172728399&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1895708,
-   "longitude": 120.70126729999998
-  },
-  "types": [
-   "dessert_shop",
-   "bakery",
-   "confectionery",
-   "food_store",
-   "store",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "12951135766853828253": {
-  "place_id": "ChIJY1d9yHwXaTQRnb4tpVytu7M",
-  "name": "小圓手作車輪餅.奶酪.冷飲",
-  "address": "427台灣臺中市潭子區甘蔗里勝利路77號",
+ "1480538736109299341": {
+  "place_id": "ChIJT2V6QBY8aTQRjSYA4iLuixQ",
+  "name": "種子手作坊",
+  "address": "414台灣臺中市烏日區九德里長春街373巷52號",
   "rating": 5,
-  "userRatingCount": 25,
+  "userRatingCount": 39,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=12951135766853828253&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=1480538736109299341&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.2085026,
-   "longitude": 120.70116689999999
+   "latitude": 24.107624899999998,
+   "longitude": 120.6356811
   },
   "types": [
-   "health_food_store",
-   "brunch_restaurant",
-   "dessert_shop",
-   "bakery",
-   "dessert_restaurant",
-   "confectionery",
-   "buffet_restaurant",
-   "food_store",
-   "health",
-   "store",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "4585458638353479525": {
-  "place_id": "ChIJ-UmHXJIXaTQRZTdON1bSoj8",
-  "name": "潭子甜甜圈",
-  "address": "427台灣臺中市潭子區潭陽里復興路二段1號",
-  "rating": 4.7,
-  "userRatingCount": 55,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=4585458638353479525&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2073063,
-   "longitude": 120.70695570000001
-  },
-  "types": [
-   "bakery",
-   "food_store",
-   "store",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "1110172242008633328": {
-  "place_id": "ChIJKSKBg2kZaTQR8G9srMUfaA8",
-  "name": "蟄伏咖啡 豐興店",
-  "address": "427台灣臺中市潭子區聚興里豐興路一段501號",
-  "rating": 4.9,
-  "userRatingCount": 130,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=1110172242008633328&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.202219,
-   "longitude": 120.72242729999999
-  },
-  "types": [
-   "food_store",
-   "store",
+   "cafe",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "潭子"
+  "area_label": "烏日"
  },
- "9390560090413374365": {
-  "place_id": "ChIJJystimMXaTQRnZsMH6b4UYI",
-  "name": "357庭園生活館",
-  "address": "427台灣臺中市潭子區潭北里潭子街三段57號",
+ "14278674907671109312": {
+  "place_id": "ChIJMUcbPpI9aTQRwB4FRy0LKMY",
+  "name": "McCafé 咖啡-台中烏日店",
+  "address": "414台灣臺中市烏日區九德里中山路一段346號1樓",
   "rating": 4.4,
-  "userRatingCount": 44,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=9390560090413374365&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "userRatingCount": 35,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=14278674907671109312&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.214624999999998,
-   "longitude": 120.7064573
+   "latitude": 24.108227,
+   "longitude": 120.638867
   },
   "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "10792864891116170109": {
-  "place_id": "ChIJ0YgOtnoXaTQRfavDd2_1x5U",
-  "name": "壹豆醇品咖啡專賣店",
-  "address": "42751台灣臺中市潭子區甘蔗里潭興路三段105號",
-  "rating": 4.6,
-  "userRatingCount": 127,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=10792864891116170109&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.211537,
-   "longitude": 120.70198939999999
-  },
-  "types": [
-   "cafe",
-   "gift_shop",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "800264149481262810": {
-  "place_id": "ChIJd9SgAGIXaTQR2o5PBAEcGws",
-  "name": "果紅森林咖啡專賣(CheerKafe)",
-  "address": "427台灣臺中市潭子區潭豐路二段916號栗林火車站斜對面",
-  "rating": 4.8,
-  "userRatingCount": 58,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=800264149481262810&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2351323,
-   "longitude": 120.7111837
-  },
-  "types": [
-   "cafe",
-   "coffee_roastery",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "8224254967580702527": {
-  "place_id": "ChIJf9k9j6cXaTQRP7fjrFFsInI",
-  "name": "沐萃咖啡 │ 精品咖啡專賣店",
-  "address": "427台灣臺中市潭子區東寶里大富路一段19號",
-  "rating": 5,
-  "userRatingCount": 189,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=8224254967580702527&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2059451,
-   "longitude": 120.67959590000001
-  },
-  "types": [
-   "coffee_roastery",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "2963324125601994081": {
-  "place_id": "ChIJx0XndBIZaTQRYRXahJfXHyk",
-  "name": "TRIZ手作COFFEE 萃思咖啡 潭子潭興店",
-  "address": "427台灣臺中市潭子區聚興里潭興路一段111號",
-  "rating": 4.7,
-  "userRatingCount": 54,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=2963324125601994081&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2040993,
-   "longitude": 120.72049729999999
-  },
-  "types": [
+   "coffee_shop",
    "brunch_restaurant",
-   "bakery",
+   "cafe",
    "dessert_shop",
    "confectionery",
    "food_store",
@@ -2321,19 +1884,41 @@
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "潭子"
+  "area_label": "烏日"
  },
- "7091699121486176349": {
-  "place_id": "ChIJz-gNqHoXaTQRXSAiDsfGamI",
-  "name": "星巴克 潭子門市",
-  "address": "427台灣臺中市潭子區甘蔗里勝利路188號",
-  "rating": 4,
-  "userRatingCount": 1473,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=7091699121486176349&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "16792367806250780383": {
+  "place_id": "ChIJ4_hbvB08aTQR34ZIzYx5Cuk",
+  "name": "Kent精品咖啡",
+  "address": "414台灣臺中市烏日區湖日里新興路335之27號",
+  "rating": 4.8,
+  "userRatingCount": 26,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=16792367806250780383&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.2115597,
-   "longitude": 120.70071919999998
+   "latitude": 24.105307999999997,
+   "longitude": 120.620443
+  },
+  "types": [
+   "coffee_roastery",
+   "wholesaler",
+   "food",
+   "point_of_interest",
+   "service",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "1627775861859472376": {
+  "place_id": "ChIJRXCYQhc8aTQR-NMWpIUFlxY",
+  "name": "STARBUCKS 星巴克 (烏日中山門市)",
+  "address": "414台灣臺中市烏日區九德里中山路一段688號",
+  "rating": 4.2,
+  "userRatingCount": 1414,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=1627775861859472376&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.105590499999998,
+   "longitude": 120.63203360000001
   },
   "types": [
    "coffee_shop",
@@ -2344,248 +1929,83 @@
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "潭子"
+  "area_label": "烏日"
  },
- "14516580484587232762": {
-  "place_id": "ChIJ64ja1WIXaTQR-p0w4QlBdck",
-  "name": "執人經典茶作潭子店",
-  "address": "427台灣臺中市潭子區",
-  "rating": 4.4,
-  "userRatingCount": 36,
+ "2972502357759077078": {
+  "place_id": "ChIJmeDHAwM9aTQR1qo9OCVzQCk",
+  "name": "鍋先生韓國料理",
+  "address": "414台灣臺中市烏日區仁德里興祥街5-5號",
+  "rating": 4.3,
+  "userRatingCount": 57,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=14516580484587232762&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=2972502357759077078&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.210671299999998,
-   "longitude": 120.70917159999999
+   "latitude": 24.1052498,
+   "longitude": 120.63872339999999
   },
   "types": [
-   "coffee_shop",
-   "cafe",
+   "deli",
    "food_store",
    "store",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "潭子"
+  "area_label": "烏日"
  },
- "16182295276169363110": {
-  "place_id": "ChIJc9W4QjwXaTQRpn6O8tAPk-A",
-  "name": "上品香湯包-潭子店",
-  "address": "427台灣臺中市潭子區潭秀里雅潭路一段31號",
-  "rating": 4.8,
-  "userRatingCount": 47,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=16182295276169363110&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.215644299999997,
-   "longitude": 120.7039844
-  },
-  "types": [
-   "dumpling_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "10830459812567594127": {
-  "place_id": "ChIJVyJoi4YXaTQRjzQ8OtGFTZY",
-  "name": "良石丘奶茶專門店-潭子店",
-  "address": "427台灣臺中市潭子區潭秀里雅潭路一段32號",
+ "16195192131851539955": {
+  "place_id": "ChIJo3lK-xo8aTQR81U2KHDhwOA",
+  "name": "阿進海產店",
+  "address": "414台灣臺中市烏日區烏日里五光路978號",
   "rating": 4.3,
-  "userRatingCount": 307,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=10830459812567594127&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2159683,
-   "longitude": 120.70435259999999
-  },
-  "types": [
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "5022805034118436051": {
-  "place_id": "ChIJMXX2EnoXaTQR01SsCpGWtEU",
-  "name": "元太自家烘焙咖啡",
-  "address": "427台灣臺中市潭子區甘蔗里勝利路53號",
-  "rating": 4.4,
-  "userRatingCount": 32,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=5022805034118436051&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2079076,
-   "longitude": 120.70133949999999
-  },
-  "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "4687667684447672260": {
-  "place_id": "ChIJy8KO2HoXaTQRxNeUNOzwDUE",
-  "name": "石全石美石鍋專賣店 | 潭子美食 |",
-  "address": "427台灣臺中市潭子區甘蔗里興華一路303號",
-  "rating": 4.1,
-  "userRatingCount": 1067,
+  "userRatingCount": 497,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=4687667684447672260&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=16195192131851539955&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.2108202,
-   "longitude": 120.70337869999999
-  },
-  "types": [
-   "korean_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "12480417612427103448": {
-  "place_id": "ChIJacnaZD0XaTQR2Aw_xbFZM60",
-  "name": "釜山崔炸雞 요요치킨 - 潭子店",
-  "address": "427台灣臺中市潭子區家福里頭張路二段74號",
-  "rating": 4.2,
-  "userRatingCount": 116,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=12480417612427103448&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1943676,
-   "longitude": 120.6963238
-  },
-  "types": [
-   "korean_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "5635065550004640339": {
-  "place_id": "ChIJYWw5KnAXaTQRU1oRCkPGM04",
-  "name": "韓金量 新韓式炸雞-潭子大豐店",
-  "address": "42749台灣臺中市潭子區大豐里大豐路三段180號",
-  "rating": 4.4,
-  "userRatingCount": 33,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=5635065550004640339&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.223714599999997,
-   "longitude": 120.69233529999998
-  },
-  "types": [
-   "meal_takeaway",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "6587824770289526289": {
-  "place_id": "ChIJp9JJD70ZaTQREWagi7mnbFs",
-  "name": "鮮魚湯現炒",
-  "address": "427台灣臺中市潭子區聚興里潭興路一段165巷13號貨櫃屋",
-  "rating": 4.4,
-  "userRatingCount": 72,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=6587824770289526289&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.191727999999998,
-   "longitude": 120.7177171
-  },
-  "types": [
-   "chinese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "10360019667375083503": {
-  "place_id": "ChIJQZm4yiQXaTQR78_za_8uxo8",
-  "name": "海王蛤蜊",
-  "address": "427台灣臺中市潭子區福仁里環中東路一段13號",
-  "rating": 4.7,
-  "userRatingCount": 564,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=10360019667375083503&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.201211699999998,
-   "longitude": 120.7042479
+   "latitude": 24.102162699999997,
+   "longitude": 120.6287368
   },
   "types": [
    "seafood_restaurant",
-   "chinese_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "潭子"
+  "area_label": "烏日"
  },
- "13248682671382432587": {
-  "place_id": "ChIJ4wEtclgXaTQRS4uf8bHG3Lc",
-  "name": "阿昇平價現炒店",
-  "address": "427台灣臺中市潭子區栗林里祥和路155號",
+ "11346975269761667340": {
+  "place_id": "ChIJBcHQ3BU8aTQRDFFJleONeJ0",
+  "name": "餉當當食舖",
+  "address": "414台灣臺中市烏日區仁德里興祥街69巷1號",
   "rating": 4,
-  "userRatingCount": 299,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=13248682671382432587&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "userRatingCount": 119,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=11346975269761667340&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.2296008,
-   "longitude": 120.71145340000001
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "14202991602879063953": {
-  "place_id": "ChIJlYBc4XsXaTQRkWd2tZwpG8U",
-  "name": "阿鑾鵝肉(海鮮快炒)",
-  "address": "427台灣臺中市潭子區福仁里中山路二段238號",
-  "rating": 4.1,
-  "userRatingCount": 369,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=14202991602879063953&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2063864,
-   "longitude": 120.7051184
+   "latitude": 24.107027,
+   "longitude": 120.63813400000001
   },
   "types": [
    "taiwanese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
-  "area_label": "潭子"
+  "area_label": "烏日"
  },
- "4285642500571314342": {
-  "place_id": "ChIJkwC0m4AXaTQRprje4CWpeTs",
-  "name": "港式彩料理屋-脆皮炸子雞專賣店",
-  "address": "427台灣臺中市潭子區福仁里圓通南路164號",
+ "11111500429151035805": {
+  "place_id": "ChIJC163HCI8aTQRneEl4cT6M5o",
+  "name": "庄腳味熱炒",
+  "address": "414台灣臺中市烏日區烏日里光日路430號",
   "rating": 4.3,
-  "userRatingCount": 313,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=4285642500571314342&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "userRatingCount": 43,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=11111500429151035805&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.207224699999998,
-   "longitude": 120.7057396
+   "latitude": 24.1118357,
+   "longitude": 120.626087
   },
   "types": [
    "restaurant",
@@ -2593,124 +2013,120 @@
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "潭子"
+  "area_label": "烏日"
  },
- "12476173454530991246": {
-  "place_id": "ChIJey0YtX4XaTQRjlR6wadFJK0",
-  "name": "真味現炒小館",
-  "address": "427台灣臺中市潭子區福仁里復興路一段103號",
+ "16317509946039312491": {
+  "place_id": "ChIJMZ0Nfxk8aTQRa6CTkNdwc-I",
+  "name": "健好海產店",
+  "address": "414台灣臺中市烏日區烏日里中山路二段69號",
   "rating": 4.4,
-  "userRatingCount": 59,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=12476173454530991246&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.204385,
-   "longitude": 120.7063403
-  },
-  "types": [
-   "food_store",
-   "food",
-   "store",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "5972572588047976889": {
-  "place_id": "ChIJz7aIGYAXaTQRucnV8R_X4lI",
-  "name": "金味小廚館",
-  "address": "427台灣臺中市潭子區潭陽里潭興路三段66號",
-  "rating": 4.4,
-  "userRatingCount": 94,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=5972572588047976889&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.211729899999998,
-   "longitude": 120.7028809
-  },
-  "types": [
-   "chinese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "9827003616148823784": {
-  "place_id": "ChIJ94sptbUXaTQR6J4HI7mHYIg",
-  "name": "台味食堂",
-  "address": "427台灣臺中市潭子區雅潭路一段I5號",
-  "rating": 4.2,
-  "userRatingCount": 231,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=9827003616148823784&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2156063,
-   "longitude": 120.7046504
-  },
-  "types": [
-   "chinese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "5149228655108182570": {
-  "place_id": "ChIJIfoQCHAXaTQRKlL8Fi68dUc",
-  "name": "豬皮現炒",
-  "address": "427台灣臺中市潭子區潭陽里圓通南路292號",
-  "rating": 4.2,
-  "userRatingCount": 151,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=5149228655108182570&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2073827,
-   "longitude": 120.70222869999999
-  },
-  "types": [
-   "chinese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "15097319069180552219": {
-  "place_id": "ChIJWSF9944tDxQRG-Q8U7RzhNE",
-  "name": "大慶麵食館",
-  "address": "427台灣臺中市潭子區福仁里圓通南路265號",
-  "rating": 4,
-  "userRatingCount": 1186,
+  "userRatingCount": 135,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=15097319069180552219&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=16317509946039312491&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.207134000000003,
-   "longitude": 120.7025043
+   "latitude": 24.105459,
+   "longitude": 120.62851699999999
   },
   "types": [
-   "noodle_shop",
+   "seafood_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
-  "area_label": "潭子"
+  "area_label": "烏日"
  },
- "16008955781006886327": {
-  "place_id": "ChIJTf28utIXaTQRtwXat3Y8K94",
-  "name": "大富豪餐飲（內用、外送服務）",
-  "address": "427台灣臺中市潭子區甘蔗里興華一路293號",
-  "rating": 4.9,
-  "userRatingCount": 49,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=16008955781006886327&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "829368977845698015": {
+  "place_id": "ChIJP3ZH8R09aTQR37048LCCggs",
+  "name": "老饕蝦吃現炒泰國蝦烤魚餐廳",
+  "address": "414台灣臺中市烏日區烏日里新興路358號",
+  "rating": 4.1,
+  "userRatingCount": 130,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=829368977845698015&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.210737599999998,
-   "longitude": 120.70335270000001
+   "latitude": 24.1051446,
+   "longitude": 120.6219998
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "17150800359920964984": {
+  "place_id": "ChIJl49Aclo_aTQReBW7-g7iA-4",
+  "name": "楊熱炒 午餐、晚餐 （可方便素）",
+  "address": "414台灣臺中市烏日區榮泉里健行路260號",
+  "rating": 4.1,
+  "userRatingCount": 83,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=17150800359920964984&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1100839,
+   "longitude": 120.5984456
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "10496355718828058078": {
+  "place_id": "ChIJo6YA3No9aTQR3uXiCOqLqpE",
+  "name": "炒爐三顧",
+  "address": "414台灣臺中市烏日區溪埧里福泰街165號",
+  "rating": 4.5,
+  "userRatingCount": 54,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=10496355718828058078&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.0857287,
+   "longitude": 120.64476870000001
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "17048380461689763887": {
+  "place_id": "ChIJBerGwRU8aTQRL3i6JrQDmOw",
+  "name": "天時鮮魚湯（烏日店）",
+  "address": "414台灣臺中市烏日區九德里中山路一段462號",
+  "rating": 4.5,
+  "userRatingCount": 335,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=17048380461689763887&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.10737,
+   "longitude": 120.6360562
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "11905538938888449802": {
+  "place_id": "ChIJZYJIBvM9aTQRCu8GMJb4OKU",
+  "name": "金恰臭豆腐烏日美食",
+  "address": "414台灣臺中市烏日區烏日里光日路110號",
+  "rating": 4.7,
+  "userRatingCount": 141,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=11905538938888449802&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1046633,
+   "longitude": 120.62480690000001
   },
   "types": [
    "snack_bar",
@@ -2720,286 +2136,578 @@
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "潭子"
+  "area_label": "烏日"
  },
- "6311292093029681842": {
-  "place_id": "ChIJ-RKJn3oXaTQRsgrETrg2llc",
-  "name": "海之鄉餐館",
-  "address": "427台灣臺中市潭子區潭陽里圓通南路296號",
-  "rating": 4.3,
-  "userRatingCount": 86,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=6311292093029681842&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "6951618980354911995": {
+  "place_id": "ChIJVSojPwA_aTQR--7qoaEceWA",
+  "name": "寬門小食館-烏日店",
+  "address": "414台灣臺中市烏日區榮泉里榮和路5號",
+  "rating": 4.2,
+  "userRatingCount": 146,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=6951618980354911995&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.2073553,
-   "longitude": 120.7021917
-  },
-  "types": [
-   "deli",
-   "food_store",
-   "food",
-   "store",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "5772931418289331535": {
-  "place_id": "ChIJ6UgSrW0XaTQRT93T44mSHVA",
-  "name": "台越小吃館",
-  "address": "427台灣臺中市潭子區福仁里復興路一段81-1號",
-  "rating": 4.7,
-  "userRatingCount": 148,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=5772931418289331535&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2036648,
-   "longitude": 120.70626349999999
-  },
-  "types": [
-   "asian_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "5919429370305235287": {
-  "place_id": "ChIJeZRBDMYXaTQRV8kOWqYJJlI",
-  "name": "好食溏",
-  "address": "427台灣臺中市潭子區福仁里圓通南路87號",
-  "rating": 4.5,
-  "userRatingCount": 48,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=5919429370305235287&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2066965,
-   "longitude": 120.70820579999999
-  },
-  "types": [
-   "taiwanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "1441176595209030134": {
-  "place_id": "ChIJnyDtLEgXaTQR9okKSHoWABQ",
-  "name": "興隆小館（潭子店） 牛肉麵 | 炒飯 | 炒麵 | 水餃",
-  "address": "427台灣臺中市潭子區潭陽里潭興路二段410號",
-  "rating": 4.4,
-  "userRatingCount": 77,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=1441176595209030134&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.210812999999998,
-   "longitude": 120.7087853
-  },
-  "types": [
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "16630479769036540400": {
-  "place_id": "ChIJUd-wNXoXaTQR8Em-5TxVy-Y",
-  "name": "松 肉羹飯麵手工水餃",
-  "address": "427台灣臺中市潭子區潭陽里興華一路175號",
-  "rating": 4.8,
-  "userRatingCount": 787,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=16630479769036540400&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.207580099999998,
-   "longitude": 120.70313689999999
-  },
-  "types": [
-   "taiwanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "2950755247255460280": {
-  "place_id": "ChIJ1yItm1kXaTQRuBnIe0Mw8yg",
-  "name": "阿清肉圓(午餐 晚餐 滷味 米粉湯 陽春麵 肉燥飯 潭子美食)",
-  "address": "427台灣臺中市潭子區頭家里和平路1-1號",
-  "rating": 4.4,
-  "userRatingCount": 94,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=2950755247255460280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1949245,
-   "longitude": 120.6978661
-  },
-  "types": [
-   "deli",
-   "food_store",
-   "store",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "11222567917262656573": {
-  "place_id": "ChIJZdTuy3oXaTQRPdQioA-Svps",
-  "name": "御香臭豆腐",
-  "address": "427台灣臺中市潭子區甘蔗里中山路二段241巷62號",
-  "rating": 4.4,
-  "userRatingCount": 389,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=11222567917262656573&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.210027099999998,
-   "longitude": 120.70297140000001
+   "latitude": 24.107339699999997,
+   "longitude": 120.59684769999998
   },
   "types": [
    "chinese_restaurant",
-   "food_store",
-   "store",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
-  "area_label": "潭子"
+  "area_label": "烏日"
  },
- "9973723383833244576": {
-  "place_id": "ChIJV0XcV4gXaTQRoDNjFZPIaYo",
-  "name": "無名蔥抓餅",
-  "address": "427台灣臺中市潭子區潭陽里潭興路二段473號",
+ "11505412318629924018": {
+  "place_id": "ChIJxbDvZR48aTQRsgxXpotvq58",
+  "name": "張記。虱目魚肚美食館",
+  "address": "414台灣臺中市烏日區烏日里三民街161號",
+  "rating": 4.2,
+  "userRatingCount": 106,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=11505412318629924018&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1075827,
+   "longitude": 120.62212009999999
+  },
+  "types": [
+   "deli",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "16289940575682470151": {
+  "place_id": "ChIJ560tGXQ9aTQRB6HGUaV-EeI",
+  "name": "阿順雞排-古早味雞排,炸物,青草茶,燒仙草",
+  "address": "414台灣臺中市烏日區烏日里中山路二段273號",
   "rating": 4.9,
-  "userRatingCount": 17,
+  "userRatingCount": 25,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=9973723383833244576&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=16289940575682470151&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.2111647,
-   "longitude": 120.70716209999999
+   "latitude": 24.1061336,
+   "longitude": 120.62373430000001
   },
   "types": [
-   "deli",
-   "food_store",
-   "store",
+   "restaurant",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "潭子"
+  "area_label": "烏日"
  },
- "7406242461734660865": {
-  "place_id": "ChIJwUH43X4XaTQRAesbbEdCyGY",
-  "name": "潭子傻師傅湯包",
-  "address": "427台灣臺中市潭子區甘蔗里興華一路251號",
-  "rating": 4.6,
-  "userRatingCount": 74,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=7406242461734660865&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.2095201,
-   "longitude": 120.70328099999999
-  },
-  "types": [
-   "deli",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "11934695572967177270": {
-  "place_id": "ChIJ9SS8E2QXaTQRNrwiEWSOoKU",
-  "name": "黃記藥膳豬腳麵線",
-  "address": "427台灣臺中市潭子區潭秀里中山路二段416號",
+ "5496085238910697941": {
+  "place_id": "ChIJ0VBXuhs8aTQR1UGKwGcERkw",
+  "name": "林家 大腸麵線",
+  "address": "414台灣臺中市烏日區烏日里五光路1046號",
   "rating": 4,
-  "userRatingCount": 233,
+  "userRatingCount": 111,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=11934695572967177270&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=5496085238910697941&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.215437899999998,
-   "longitude": 120.7053615
+   "latitude": 24.103271799999998,
+   "longitude": 120.62797049999998
   },
   "types": [
-   "taiwanese_restaurant",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "5925018309252283279": {
-  "place_id": "ChIJ4cmvse0XaTQRj_uqmsLkOVI",
-  "name": "劉妹鍋燒意麵-我是潭子店",
-  "address": "427台灣臺中市潭子區潭興路三段103號",
-  "rating": 4.4,
-  "userRatingCount": 67,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=5925018309252283279&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.211596800000002,
-   "longitude": 120.70211039999998
-  },
-  "types": [
-   "noodle_shop",
-   "restaurant",
+   "deli",
+   "food_store",
+   "store",
    "food",
    "point_of_interest",
    "establishment"
   ],
-  "area_label": "潭子"
+  "area_label": "烏日"
  },
- "18234447287803407209": {
-  "place_id": "ChIJa7E7EIUXaTQRaWsbsTLFDf0",
-  "name": "老地方麵館",
-  "address": "427台灣臺中市潭子區頭家東里中山路一段242號",
-  "rating": 4.4,
-  "userRatingCount": 270,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=18234447287803407209&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.192293799999998,
-   "longitude": 120.70266089999998
-  },
-  "types": [
-   "chinese_noodle_restaurant",
-   "noodle_shop",
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "潭子"
- },
- "11583450836857842343": {
-  "place_id": "ChIJubd-hOEZaTQRp-ocFCqvwKA",
-  "name": "口福水餃",
-  "address": "427台灣臺中市潭子區嘉仁里嘉豐路276號",
+ "14808785232291287990": {
+  "place_id": "ChIJAVwnfwQ9aTQRttPFXbVfg80",
+  "name": "呷潤餅烏日店",
+  "address": "414台灣臺中市烏日區仁德里中山路一段451號",
   "rating": 4.3,
-  "userRatingCount": 1703,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=11583450836857842343&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "userRatingCount": 73,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=14808785232291287990&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.224721799999998,
-   "longitude": 120.71449919999999
+   "latitude": 24.107330899999997,
+   "longitude": 120.6372769
   },
   "types": [
-   "dumpling_restaurant",
    "restaurant",
+   "food",
    "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "5786590212587535456": {
+  "place_id": "ChIJF8YvPhQ8aTQRYDwIwiMZTlA",
+  "name": "擔仔麵",
+  "address": "414台灣臺中市烏日區仁德里信義街197號",
+  "rating": 4.4,
+  "userRatingCount": 148,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=5786590212587535456&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1044274,
+   "longitude": 120.63848869999998
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "4065130764756178568": {
+  "place_id": "ChIJe85n2VE9aTQRiNbNfuQ-ajg",
+  "name": "69牛肉拌麵/水餃",
+  "address": "41448台灣臺中市烏日區仁德里興祥街67號",
+  "rating": 4.4,
+  "userRatingCount": 229,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=4065130764756178568&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1070514,
+   "longitude": 120.638237
+  },
+  "types": [
+   "noodle_shop",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "15157891190649944165": {
+  "place_id": "ChIJH6SOJww9aTQRZXi2WrqlW9I",
+  "name": "字然客棧（黑糖剉冰 & 手工豆花 專賣店）",
+  "address": "414台灣臺中市烏日區湖日里公園路546號",
+  "rating": 4.8,
+  "userRatingCount": 256,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=15157891190649944165&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.103165,
+   "longitude": 120.620409
+  },
+  "types": [
+   "dessert_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "3336713031453729544": {
+  "place_id": "ChIJhwFey2s9aTQRCGM3zdJiTi4",
+  "name": "蓁蓁小籠湯包",
+  "address": "414台灣臺中市烏日區仁德里興祥街74號",
+  "rating": 4.7,
+  "userRatingCount": 26,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=3336713031453729544&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1073067,
+   "longitude": 120.63835569999999
+  },
+  "types": [
+   "chinese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "17494270679902477473": {
+  "place_id": "ChIJw1TMlz88aTQRoVweqH4iyPI",
+  "name": "阿鳳小吃店",
+  "address": "414台灣臺中市烏日區九德里中華路17號號 之 3 號",
+  "rating": 4.2,
+  "userRatingCount": 62,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=17494270679902477473&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1091573,
+   "longitude": 120.64167250000001
+  },
+  "types": [
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "924908901300093471": {
+  "place_id": "ChIJtRgy1yo_aTQRH8KWz77v1Qw",
+  "name": "胡小梅餐飲美食館｜烏日美食｜美食推薦｜越南河粉｜越式春捲｜",
+  "address": "414台灣臺中市烏日區榮泉里榮和路41號",
+  "rating": 4.4,
+  "userRatingCount": 81,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=924908901300093471&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1082076,
+   "longitude": 120.59704169999999
+  },
+  "types": [
+   "vietnamese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "15061723375579977374": {
+  "place_id": "ChIJl0hCZV8_aTQRnlakEpz9BdE",
+  "name": "周氏蝦捲(台鐵烏日站店)",
+  "address": "414台灣臺中市烏日區三和里高鐵東一路26號2F",
+  "rating": 4.2,
+  "userRatingCount": 1018,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=15061723375579977374&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.109880999999998,
+   "longitude": 120.61483860000001
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "5742987341809926089": {
+  "place_id": "ChIJ4xKJU_E_aTQRyT8lSo8ws08",
+  "name": "一風堂 台中高鐵店",
+  "address": "414台灣臺中市烏日區站區二路8號",
+  "rating": 4.4,
+  "userRatingCount": 2436,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=5742987341809926089&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.110244299999998,
+   "longitude": 120.6158186
+  },
+  "types": [
+   "ramen_restaurant",
+   "japanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "16511553452166829746": {
+  "place_id": "ChIJn6Pt6yA_aTQRslZH_mHSJOU",
+  "name": "豬寶妹-千層蝸牛捲新烏日台鐵店",
+  "address": "414台灣臺中市烏日區高鐵東一路26號台鐵新烏日站2樓",
+  "rating": 5,
+  "userRatingCount": 37,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=16511553452166829746&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.109553,
+   "longitude": 120.6146389
+  },
+  "types": [
+   "pastry_shop",
+   "bakery",
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "15932569145165871923": {
+  "place_id": "ChIJ-VReSGk_aTQRM_v1IDnbG90",
+  "name": "青鳥旅行 - 台中高鐵2F店",
+  "address": "414台灣臺中市烏日區湖日里站區二路8號2F",
+  "rating": 4.9,
+  "userRatingCount": 354,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=15932569145165871923&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1113863,
+   "longitude": 120.61593649999998
+  },
+  "types": [
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "15526832007198126501": {
+  "place_id": "ChIJiRFVjOI_aTQRpbE1JHJjetc",
+  "name": "烏日驛火車輪餅",
+  "address": "414台灣臺中市烏日區三和里高鐵東一路26號2樓",
+  "rating": 4.8,
+  "userRatingCount": 182,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=15526832007198126501&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1100067,
+   "longitude": 120.6139267
+  },
+  "types": [
+   "point_of_interest",
+   "dessert_shop",
+   "confectionery",
+   "food_store",
+   "store",
    "food",
    "establishment"
   ],
-  "area_label": "潭子"
+  "area_label": "烏日"
+ },
+ "14462401591262500868": {
+  "place_id": "ChIJs_Ya8uQ_aTQRBNg-Rp_FtMg",
+  "name": "王媽媽香豬捲 台中伴手禮高鐵店",
+  "address": "414台灣臺中市烏日區湖日里站區二路8號2F",
+  "rating": 4.8,
+  "userRatingCount": 28,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=14462401591262500868&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1103886,
+   "longitude": 120.61544610000001
+  },
+  "types": [
+   "butcher_shop",
+   "manufacturer",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "service",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "3434025603816392123": {
+  "place_id": "ChIJt3htLwA_aTQRu4USqRccqC8",
+  "name": "洪瑞珍三明治-台中高鐵門市",
+  "address": "414台灣臺中市烏日區湖日里站區二路8號",
+  "rating": 4.5,
+  "userRatingCount": 78,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=3434025603816392123&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1112453,
+   "longitude": 120.61572310000001
+  },
+  "types": [
+   "sandwich_shop",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "2851897496599934863": {
+  "place_id": "ChIJnwUEETU_aTQRjzeqxKn5kyc",
+  "name": "林家 台南美食",
+  "address": "414台灣臺中市烏日區湖日里公園路740號",
+  "rating": 4.2,
+  "userRatingCount": 111,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=2851897496599934863&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.105301700000002,
+   "longitude": 120.6183061
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "14116680007544967750": {
+  "place_id": "ChIJS3DtXME_aTQRRpKTaayF6MM",
+  "name": "寶餃子",
+  "address": "414台灣臺中市烏日區三和里中山路三段291號",
+  "rating": 5,
+  "userRatingCount": 138,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=14116680007544967750&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.108192799999998,
+   "longitude": 120.6074323
+  },
+  "types": [
+   "chinese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "1364877715569121918": {
+  "place_id": "ChIJ9SJ05R08aTQRfhpYBg0F8RI",
+  "name": "一品香自助餐",
+  "address": "414台灣臺中市烏日區烏日里中山路二段395號",
+  "rating": 4.4,
+  "userRatingCount": 41,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=1364877715569121918&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.106336,
+   "longitude": 120.62087199999999
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "8504357168309912612": {
+  "place_id": "ChIJnRkZzhk9aTQRJMQoXMmLBXY",
+  "name": "巧福粥品",
+  "address": "41441台灣臺中市烏日區烏日里中山路二段373號",
+  "rating": 4.8,
+  "userRatingCount": 132,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=8504357168309912612&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1063822,
+   "longitude": 120.62132810000001
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "2960211375889630099": {
+  "place_id": "ChIJdxWFF8U9aTQRk8P4_4_IFCk",
+  "name": "和宴手作便當",
+  "address": "414台灣臺中市烏日區烏日里中山路二段247號",
+  "rating": 4,
+  "userRatingCount": 49,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=2960211375889630099&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1062005,
+   "longitude": 120.624401
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "670511123746053557": {
+  "place_id": "ChIJYxWS4x08aTQRtd3UhFAiTgk",
+  "name": "祥馨素食館",
+  "address": "414台灣臺中市烏日區烏日里中山路二段270號",
+  "rating": 4.5,
+  "userRatingCount": 453,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=670511123746053557&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1066185,
+   "longitude": 120.62099060000001
+  },
+  "types": [
+   "vegetarian_restaurant",
+   "buffet_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "4871664982024565876": {
+  "place_id": "ChIJVTvl2B08aTQRdLRIbn2hm0M",
+  "name": "眼鏡當歸麵線",
+  "address": "414台灣臺中市烏日區烏日里中山路二段226號",
+  "rating": 4.5,
+  "userRatingCount": 94,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=4871664982024565876&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.106576,
+   "longitude": 120.62191800000001
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "12749089690392330251": {
+  "place_id": "ChIJBXHRaxY8aTQRCwBunYbd7bA",
+  "name": "用盡心雞巨無霸雞排",
+  "address": "414台灣臺中市烏日區九德里中山路一段466號",
+  "rating": 4.5,
+  "userRatingCount": 1090,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=12749089690392330251&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1073041,
+   "longitude": 120.63601489999999
+  },
+  "types": [
+   "meal_takeaway",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
+ },
+ "16410294862957697125": {
+  "place_id": "ChIJzdGUUZA9aTQRZdgCfjsUveM",
+  "name": "維新鹽酥雞—烏日店 wei xin fried chicken",
+  "address": "41441台灣臺中市烏日區中山路二段293號",
+  "rating": 4.6,
+  "userRatingCount": 135,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=16410294862957697125&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1062715,
+   "longitude": 120.62314869999999
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "烏日"
  }
 }
