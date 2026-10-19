@@ -55,8 +55,8 @@
   "types": [
    "brunch_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "大肚"
@@ -185,8 +185,8 @@
    "food_store",
    "store",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "大肚"
@@ -505,8 +505,8 @@
   },
   "types": [
    "breakfast_restaurant",
-   "western_restaurant",
    "brunch_restaurant",
+   "western_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -592,8 +592,8 @@
   "types": [
    "breakfast_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "大肚"
@@ -676,8 +676,8 @@
   "types": [
    "hot_pot_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "大肚"
@@ -698,8 +698,8 @@
    "italian_restaurant",
    "european_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "大肚"
@@ -719,8 +719,8 @@
   "types": [
    "hot_pot_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "大肚"
@@ -739,7 +739,27 @@
   },
   "types": [
    "restaurant",
+   "point_of_interest",
    "food",
+   "establishment"
+  ],
+  "area_label": "大肚"
+ },
+ "11803536499277568568": {
+  "place_id": "ChIJadhjK5s_aTQROBrMhOiVzqM",
+  "name": "日光郡社區",
+  "address": "432台灣臺中市大肚區頂街里大明三街230號",
+  "rating": 4.4,
+  "userRatingCount": 105,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=11803536499277568568&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1523222,
+   "longitude": 120.54083010000001
+  },
+  "types": [
+   "condominium_complex",
+   "service",
    "point_of_interest",
    "establishment"
   ],
@@ -802,10 +822,10 @@
   },
   "types": [
    "kebab_shop",
+   "service",
    "restaurant",
    "point_of_interest",
    "food",
-   "service",
    "establishment"
   ],
   "area_label": "大肚"
@@ -889,9 +909,9 @@
    "meal_takeaway",
    "dessert_shop",
    "confectionery",
+   "japanese_restaurant",
    "food_store",
    "store",
-   "japanese_restaurant",
    "restaurant",
    "point_of_interest",
    "food",
@@ -972,12 +992,12 @@
    "longitude": 120.5541632
   },
   "types": [
-   "supplier",
    "manufacturer",
    "wholesaler",
-   "point_of_interest",
-   "food",
    "service",
+   "point_of_interest",
+   "supplier",
+   "food",
    "establishment"
   ],
   "area_label": "大肚"
@@ -1019,8 +1039,8 @@
   "types": [
    "hot_pot_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "大肚"
@@ -1061,8 +1081,8 @@
   "types": [
    "hot_pot_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "大肚"
@@ -1102,8 +1122,8 @@
   "types": [
    "hot_pot_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "大肚"
@@ -1123,8 +1143,8 @@
   "types": [
    "bakery",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -1145,12 +1165,12 @@
   "types": [
    "cake_shop",
    "bakery",
-   "wholesaler",
    "manufacturer",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
+   "wholesaler",
    "service",
    "establishment"
   ],
@@ -1170,11 +1190,11 @@
   },
   "types": [
    "dessert_shop",
-   "bakery",
    "confectionery",
+   "bakery",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -1194,16 +1214,16 @@
   },
   "types": [
    "bakery",
-   "pastry_shop",
    "cake_shop",
+   "pastry_shop",
    "dessert_shop",
    "confectionery",
-   "wholesaler",
    "manufacturer",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
+   "wholesaler",
    "service",
    "establishment"
   ],
@@ -1224,8 +1244,8 @@
   "types": [
    "bakery",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -1247,8 +1267,8 @@
    "dessert_shop",
    "confectionery",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -1269,8 +1289,8 @@
   "types": [
    "deli",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -1291,8 +1311,8 @@
   "types": [
    "deli",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -1335,8 +1355,8 @@
    "bagel_shop",
    "bakery",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -1355,8 +1375,8 @@
    "longitude": 120.549073
   },
   "types": [
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -1377,8 +1397,8 @@
   "types": [
    "deli",
    "food_store",
-   "store",
    "food",
+   "store",
    "point_of_interest",
    "establishment"
   ],
@@ -1467,6 +1487,24 @@
   ],
   "area_label": "大肚"
  },
+ "862087390680574440": {
+  "place_id": "ChIJPzKsB54_aTQR6OnbDuq_9gs",
+  "name": "韓老師の經典手藝茶",
+  "address": "432台灣臺中市大肚區大肚里文昌路一段48號",
+  "rating": 4.6,
+  "userRatingCount": 71,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=862087390680574440&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.1510905,
+   "longitude": 120.5443623
+  },
+  "types": [
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "大肚"
+ },
  "283989889663708868": {
   "place_id": "ChIJU3QE25M_aTQRxC41zUzv8AM",
   "name": "王田黑白切",
@@ -1482,26 +1520,8 @@
   "types": [
    "noodle_shop",
    "restaurant",
+   "point_of_interest",
    "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "862087390680574440": {
-  "place_id": "ChIJPzKsB54_aTQR6OnbDuq_9gs",
-  "name": "韓老師の經典手藝茶",
-  "address": "432台灣臺中市大肚區大肚里文昌路一段48號",
-  "rating": 4.6,
-  "userRatingCount": 71,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=862087390680574440&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1510905,
-   "longitude": 120.5443623
-  },
-  "types": [
-   "point_of_interest",
    "establishment"
   ],
   "area_label": "大肚"
@@ -1728,28 +1748,6 @@
   },
   "types": [
    "chinese_noodle_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "大肚"
- },
- "11218446552058148759": {
-  "place_id": "ChIJ9TCEGQA_aTQRl7chg7Ptr5s",
-  "name": "傻師傅湯包大肚店｜小籠包｜排骨酥｜米糕｜麵食｜小菜｜湯品｜餛飩｜抄手",
-  "address": "432台灣臺中市大肚區文昌路一段61號",
-  "rating": 4,
-  "userRatingCount": 39,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=11218446552058148759&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.1507586,
-   "longitude": 120.544269
-  },
-  "types": [
-   "snack_bar",
-   "meal_takeaway",
    "restaurant",
    "food",
    "point_of_interest",
