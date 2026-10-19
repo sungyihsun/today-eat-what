@@ -78,12 +78,12 @@
   "types": [
    "brunch_restaurant",
    "taiwanese_restaurant",
-   "chinese_restaurant",
    "food_store",
    "store",
+   "chinese_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "后里"
@@ -248,8 +248,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "后里"
@@ -482,8 +482,8 @@
   "types": [
    "breakfast_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "后里"
@@ -503,8 +503,8 @@
   "types": [
    "brunch_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "后里"
@@ -544,8 +544,8 @@
   "types": [
    "brunch_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "后里"
@@ -564,8 +564,8 @@
   },
   "types": [
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "后里"
@@ -585,8 +585,8 @@
   "types": [
    "brunch_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "后里"
@@ -606,8 +606,8 @@
   "types": [
    "brunch_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "后里"
@@ -630,8 +630,8 @@
    "food_delivery",
    "tea_house",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "后里"
@@ -672,8 +672,8 @@
   "types": [
    "brunch_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "后里"
@@ -693,8 +693,8 @@
   "types": [
    "breakfast_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "后里"
@@ -714,8 +714,8 @@
   "types": [
    "brunch_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "后里"
@@ -736,8 +736,8 @@
    "breakfast_restaurant",
    "brunch_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "后里"
@@ -757,8 +757,8 @@
   "types": [
    "breakfast_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "后里"
@@ -778,8 +778,8 @@
   "types": [
    "breakfast_restaurant",
    "restaurant",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "后里"
@@ -929,8 +929,8 @@
   },
   "types": [
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "后里"
@@ -951,8 +951,8 @@
    "french_restaurant",
    "european_restaurant",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "后里"
@@ -972,8 +972,8 @@
   "types": [
    "meal_takeaway",
    "restaurant",
-   "point_of_interest",
    "food",
+   "point_of_interest",
    "establishment"
   ],
   "area_label": "后里"
@@ -1032,9 +1032,9 @@
   },
   "types": [
    "bar_and_grill",
+   "bar",
    "restaurant",
    "food",
-   "bar",
    "point_of_interest",
    "establishment"
   ],
@@ -1098,10 +1098,10 @@
   "types": [
    "bar_and_grill",
    "yakiniku_restaurant",
+   "bar",
    "japanese_restaurant",
    "restaurant",
    "food",
-   "bar",
    "point_of_interest",
    "establishment"
   ],
@@ -1603,8 +1603,8 @@
   },
   "types": [
    "dessert_shop",
-   "bakery",
    "confectionery",
+   "bakery",
    "food_store",
    "store",
    "food",
@@ -1654,14 +1654,14 @@
   },
   "types": [
    "cake_shop",
-   "bakery",
    "dessert_shop",
    "confectionery",
+   "bakery",
    "wholesaler",
-   "manufacturer",
    "food_store",
    "store",
    "food",
+   "manufacturer",
    "point_of_interest",
    "service",
    "establishment"
@@ -1774,9 +1774,9 @@
    "french_restaurant",
    "dessert_shop",
    "confectionery",
-   "european_restaurant",
    "food_store",
    "store",
+   "european_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -1861,9 +1861,9 @@
   },
   "types": [
    "pastry_shop",
-   "bakery",
    "dessert_shop",
    "confectionery",
+   "bakery",
    "food_store",
    "store",
    "food",
@@ -2168,26 +2168,6 @@
   ],
   "area_label": "后里"
  },
- "8889164476867780348": {
-  "place_id": "ChIJuVwGLaUaaTQR_J65sf6nXHs",
-  "name": "璉興麵食",
-  "address": "421台灣臺中市后里區厚里里柑宅路15-5號",
-  "rating": 4.1,
-  "userRatingCount": 186,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=8889164476867780348&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.307519499999998,
-   "longitude": 120.71878330000001
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "后里"
- },
  "1501334152999860405": {
   "place_id": "ChIJqwu0WnAaaTQRtfi3LnXP1RQ",
   "name": "橋邊蟹腳專賣店",
@@ -2208,58 +2188,17 @@
   ],
   "area_label": "后里"
  },
- "10751968227887072554": {
-  "place_id": "ChIJn0SnQrsaaTQRKsV-CyOqNpU",
-  "name": "兩兄妹炒飯炒麵（水云茶堂-后里店）",
-  "address": "421台灣臺中市后里區義德里甲后路一段418號",
-  "rating": 4,
-  "userRatingCount": 40,
+ "8889164476867780348": {
+  "place_id": "ChIJuVwGLaUaaTQR_J65sf6nXHs",
+  "name": "璉興麵食",
+  "address": "421台灣臺中市后里區厚里里柑宅路15-5號",
+  "rating": 4.1,
+  "userRatingCount": 186,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=10751968227887072554&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=8889164476867780348&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.3091363,
-   "longitude": 120.72530820000001
-  },
-  "types": [
-   "chinese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "后里"
- },
- "4763407018180477779": {
-  "place_id": "ChIJ-e4ba7saaTQRUwNAB3IFG0I",
-  "name": "客庄美食館",
-  "address": "421台灣臺中市后里區義德里甲后路一段456巷20號",
-  "rating": 4.4,
-  "userRatingCount": 246,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=4763407018180477779&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.309799299999998,
-   "longitude": 120.72455529999999
-  },
-  "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "后里"
- },
- "4563489027762025130": {
-  "place_id": "ChIJD4lYp7waaTQRqvIlpBfFVD8",
-  "name": "鄉之味",
-  "address": "421台灣臺中市后里區義德里甲后路355巷16號",
-  "rating": 4.3,
-  "userRatingCount": 139,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=4563489027762025130&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.3085372,
-   "longitude": 120.7244647
+   "latitude": 24.307519499999998,
+   "longitude": 120.71878330000001
   },
   "types": [
    "restaurant",
@@ -2291,6 +2230,28 @@
   ],
   "area_label": "后里"
  },
+ "11709851156409960678": {
+  "place_id": "ChIJ5ZYTXkcbaTQR5kiD1pW_gaI",
+  "name": "后里Hi 后里總店",
+  "address": "421台灣臺中市后里區墩東里文明路31巷1號",
+  "rating": 4.3,
+  "userRatingCount": 90,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=11709851156409960678&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3062455,
+   "longitude": 120.7207055
+  },
+  "types": [
+   "deli",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
  "17881796483034982445": {
   "place_id": "ChIJxaykwkobaTQRLSgh1SjnKPg",
   "name": "火少爺專業炒飯",
@@ -2311,59 +2272,58 @@
   ],
   "area_label": "后里"
  },
- "6194497704221402414": {
-  "place_id": "ChIJW5V3r6MaaTQRLuUWltdG91U",
-  "name": "富樂砂鍋 私廚 預約制",
-  "address": "421台灣臺中市后里區墩東里復興街28號",
-  "rating": 4.1,
-  "userRatingCount": 785,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=6194497704221402414&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.307520099999998,
-   "longitude": 120.7202475
-  },
-  "types": [
-   "seafood_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "后里"
- },
- "1079201498294406201": {
-  "place_id": "ChIJ19z4F6QaaTQROUzoegsY-g4",
-  "name": "阿富美食館",
-  "address": "421台灣臺中市后里區厚里里成功路227號",
-  "rating": 4.1,
-  "userRatingCount": 621,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=1079201498294406201&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.3111633,
-   "longitude": 120.7183757
-  },
-  "types": [
-   "taiwanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "后里"
- },
- "601431495858527532": {
-  "place_id": "ChIJu_fJGwgbaTQRLB1hS8K2WAg",
-  "name": "后里祥好 鍋燒/麵食/飯",
-  "address": "421台灣臺中市后里區甲后路一段355號巷1號",
-  "rating": 4.6,
-  "userRatingCount": 98,
+ "10751968227887072554": {
+  "place_id": "ChIJn0SnQrsaaTQRKsV-CyOqNpU",
+  "name": "兩兄妹炒飯炒麵（水云茶堂-后里店）",
+  "address": "421台灣臺中市后里區義德里甲后路一段418號",
+  "rating": 4,
+  "userRatingCount": 40,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=601431495858527532&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=10751968227887072554&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.3087864,
-   "longitude": 120.7245855
+   "latitude": 24.3091363,
+   "longitude": 120.72530820000001
+  },
+  "types": [
+   "chinese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "4563489027762025130": {
+  "place_id": "ChIJD4lYp7waaTQRqvIlpBfFVD8",
+  "name": "鄉之味",
+  "address": "421台灣臺中市后里區義德里甲后路355巷16號",
+  "rating": 4.3,
+  "userRatingCount": 139,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=4563489027762025130&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3085372,
+   "longitude": 120.7244647
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "4763407018180477779": {
+  "place_id": "ChIJ-e4ba7saaTQRUwNAB3IFG0I",
+  "name": "客庄美食館",
+  "address": "421台灣臺中市后里區義德里甲后路一段456巷20號",
+  "rating": 4.4,
+  "userRatingCount": 246,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=4763407018180477779&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.309799299999998,
+   "longitude": 120.72455529999999
   },
   "types": [
    "restaurant",
@@ -2499,28 +2459,6 @@
   ],
   "area_label": "后里"
  },
- "11709851156409960678": {
-  "place_id": "ChIJ5ZYTXkcbaTQR5kiD1pW_gaI",
-  "name": "后里Hi 后里總店",
-  "address": "421台灣臺中市后里區墩東里文明路31巷1號",
-  "rating": 4.3,
-  "userRatingCount": 90,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=11709851156409960678&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.3062455,
-   "longitude": 120.7207055
-  },
-  "types": [
-   "deli",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "后里"
- },
  "4863695464721922061": {
   "place_id": "ChIJZ635W6MaaTQRDbhtlkFRf0M",
   "name": "珍珍小吃",
@@ -2537,6 +2475,26 @@
    "deli",
    "food_store",
    "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "后里"
+ },
+ "601431495858527532": {
+  "place_id": "ChIJu_fJGwgbaTQRLB1hS8K2WAg",
+  "name": "后里祥好 鍋燒/麵食/飯",
+  "address": "421台灣臺中市后里區甲后路一段355號巷1號",
+  "rating": 4.6,
+  "userRatingCount": 98,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=601431495858527532&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3087864,
+   "longitude": 120.7245855
+  },
+  "types": [
+   "restaurant",
    "food",
    "point_of_interest",
    "establishment"
