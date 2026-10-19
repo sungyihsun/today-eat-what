@@ -2957,10 +2957,9 @@ let pickingLodging = false;
 function lsGet(k){ try{ return JSON.parse(localStorage.getItem(k)); }catch(e){ return null; } }
 function lsSet(k,v){ try{ localStorage.setItem(k, JSON.stringify(v)); }catch(e){} }
 function lodgeKm(r){ return lodging ? haversineKm(lodging.lat, lodging.lng, r.lat, r.lng) : null; }
-// 直線距離 ×1.35（道路繞行）÷ 時速 40 公里；只是估算，出發前請用 Google 地圖確認。
-function driveMin(km){ return Math.max(2, Math.round(km*1.35/40*60)); }
-function lodgeText(km){ return `離住宿 ${fmtDistance(km)}・開車約 ${driveMin(km)} 分（估算）`; }
-function legText(a, b){ const km = haversineKm(a.lat,a.lng,b.lat,b.lng); return `${fmtDistance(km)}・開車約 ${driveMin(km)} 分`; }
+// 旅遊版有設定住宿時，「距離你」就以住宿為基準（直線距離）；否則沿用使用者定位。
+function distRef(){ return (siteMode==='trip' && lodging) ? lodging : userLocation; }
+function legText(a, b){ return fmtDistance(haversineKm(a.lat,a.lng,b.lat,b.lng)); }
 function savePlan(){ if(currentTripCity) lsSet('plan:'+currentTripCity, itinerary); updatePlanUi(); }
 function updatePlanUi(){
   const c = document.getElementById('planCount'); if(c) c.textContent = itinerary.length;
@@ -2969,7 +2968,7 @@ function setupLodgingUi(){
   const on = siteMode==='trip' && !!lodging;
   document.querySelectorAll('.lodge-only').forEach(b=>{ b.style.display = on ? '' : 'none'; });
   const opt = [...sortSelect.options].find(o=>o.value==='lodging');
-  if(on && !opt){ const o=document.createElement('option'); o.value='lodging'; o.textContent='距離住宿：近到遠'; sortSelect.appendChild(o); }
+  if(on && !opt){ const o=document.createElement('option'); o.value='lodging'; o.textContent='距離：近到遠（從住宿）'; sortSelect.appendChild(o); }
   if(!on && opt){ opt.remove(); }
   updatePlanUi(); updateMealButtons();
 }
@@ -3008,7 +3007,7 @@ function planTotals(list){
   let km = 0, prev = lodging;
   list.forEach(r=>{ km += haversineKm(prev.lat,prev.lng,r.lat,r.lng); prev = r; });
   km += haversineKm(prev.lat,prev.lng,lodging.lat,lodging.lng);
-  return {km, min: driveMin(km)};
+  return {km};
 }
 function autoOrderPlan(){
   // 最近鄰：從住宿出發，每次去離目前位置最近的下一站（簡單貪婪法，不是最佳解）。
@@ -3049,14 +3048,14 @@ function renderPlan(){
   });
   const tot = planTotals(list);
   const sum = document.createElement('div'); sum.className='plan-sum';
-  sum.textContent = `全程（住宿 → ${list.length} 站 → 回住宿）約 ${tot.km.toFixed(1)} 公里、開車約 ${tot.min} 分鐘（直線距離估算，不含停留與停車時間；實際路況請以 Google 地圖為準）。`;
+  sum.textContent = `全程（住宿 → ${list.length} 站 → 回住宿）約 ${tot.km.toFixed(1)} 公里（直線距離加總，實際路程請以 Google 地圖為準）。`;
   planBody.appendChild(sum);
   const act = document.createElement('div'); act.className='plan-actions';
   const mk = (txt, cls, fn)=>{ const b=document.createElement('button'); b.type='button'; b.textContent=txt; if(cls) b.className=cls; b.addEventListener('click', fn); act.appendChild(b); };
   mk('🧭 自動排序（最近的先去）','', ()=>{ autoOrderPlan(); renderPlan(); render(); });
   mk('🗺 看行程卡片／地圖','primary', ()=>{
     planModal.style.display='none';
-    startRoute({title:'我的行程', note:`從住宿出發，共 ${list.length} 站；地圖模式會畫出住宿 → 各站 → 回住宿的路線。`, duration:`約 ${tot.km.toFixed(1)} 公里`, mode:`開車約 ${tot.min} 分（估算）`}, list.map(r=>r.name), true);
+    startRoute({title:'我的行程', note:`從住宿出發，共 ${list.length} 站；地圖模式會畫出住宿 → 各站 → 回住宿的路線。`, duration:`約 ${tot.km.toFixed(1)} 公里`, mode:'直線距離加總'}, list.map(r=>r.name), true);
   });
   mk('🗑 清空','', ()=>{ itinerary=[]; savePlan(); renderPlan(); render(); });
   planBody.appendChild(act);
@@ -3092,7 +3091,7 @@ function renderLodgeModal(){
   mk('↩ 還原預設住宿', ()=>{ const d = DEFAULT_LODGING[currentTripCity]; if(d){ setLodging({...d}); renderLodgeModal(); } });
   lodgeBody.appendChild(act);
   const n = document.createElement('div'); n.className='lodge-note'; n.style.marginTop='12px';
-  n.textContent = '開啟「住宿早餐」「住宿晚餐」會只顯示當天該時段有營業的餐廳，並依離住宿距離排序；「距離住宿」是直線距離換算的開車時間估算。住宿位置只存在這個瀏覽器，不會上傳。';
+  n.textContent = '開啟「住宿早餐」「住宿晚餐」會只顯示當天該時段有營業的餐廳，並依離住宿距離排序；「距離你」是從住宿算起的直線距離。住宿位置只存在這個瀏覽器，不會上傳。';
   lodgeBody.appendChild(n);
 }
 document.getElementById('lodgeBtn').addEventListener('click', ()=>{ if(!lodging) return; renderLodgeModal(); lodgeModal.style.display='flex'; });
@@ -3176,7 +3175,7 @@ function updateMap(list, cp, filterKey){
     b.textContent = isMarket ? '營業時間僅供參考' : (open ? '營業中' : '目前休息');
     pop.appendChild(b);
     const h = document.createElement('div'); h.textContent = hoursSummary(r.name); pop.appendChild(h);
-    if(lodging){ const ld=document.createElement('div'); ld.style.cssText='color:#2b4f7e;font-weight:600;'; ld.textContent='🏨 '+lodgeText(lodgeKm(r)); pop.appendChild(ld); }
+    if(distRef()){ const ld=document.createElement('div'); ld.style.cssText='color:#6b6656;'; ld.textContent='距離你 '+fmtDistance(haversineKm(distRef().lat, distRef().lng, r.lat, r.lng)); pop.appendChild(ld); }
     if(r.transport){ const tr=document.createElement('div'); tr.textContent = `${r.transport.mode}：${r.transport.note}`; tr.style.cssText='margin-top:4px;color:#2b4f7e;'; pop.appendChild(tr); }
     const links = document.createElement('div'); links.style.marginTop='6px';
     if(r.mapsUrl){ const a=document.createElement('a'); a.href=r.mapsUrl; a.target='_blank'; a.rel='noopener'; a.textContent='📍 Google 地圖'; links.appendChild(a); }
@@ -3301,8 +3300,7 @@ function render(){
         <div class="card-name">${r.name}</div>
         ${r.nameZh ? `<div class="card-name-zh">${r.nameZh}</div>` : ''}
         <div class="card-area">${r.area}</div>
-        <div class="card-rating"><span class="stars">★ ${r.rating.toFixed(1)}</span>${userLocation ? `<span class="distance">· 距離你 ${fmtDistance(haversineKm(userLocation.lat, userLocation.lng, r.lat, r.lng))}</span>` : ''}</div>
-        ${lodging ? `<div class="card-lodge">🏨 ${lodgeText(lodgeKm(r))}</div>` : ''}
+        <div class="card-rating"><span class="stars">★ ${r.rating.toFixed(1)}</span>${distRef() ? `<span class="distance">· 距離你 ${fmtDistance(haversineKm(distRef().lat, distRef().lng, r.lat, r.lng))}</span>` : ''}</div>
       </div>
       <div class="card-body">
         <div class="card-hours"><b>營業：</b>${hoursSummary(r.name)}${isMarket ? '（夜市攤況隨天氣、攤商調整，資料僅供參考）' : ''}</div>
