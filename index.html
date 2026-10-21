@@ -2142,15 +2142,24 @@ async function loadRestaurantsFromSupabase(){
   if(!config?.url || !config?.anonKey) return;
 
   const endpoint = `${config.url.replace(/\/+$/, '')}/rest/v1/restaurants?select=id,name,area,lat,lng,categories,price,rating,description,tags,phone,parking_tier,parking_sub,photos,maps_url,hours&order=id`;
-  const response = await fetch(endpoint, {
-    headers: {
-      apikey: config.anonKey,
-      Authorization: `Bearer ${config.anonKey}`,
-    },
-  });
-  if(!response.ok) throw new Error(`Supabase restaurants request failed (${response.status})`);
-
-  const rows = await response.json();
+  // Supabase (PostgREST) returns at most 1000 rows per request, so a single fetch silently
+  // dropped everything past row 1000 once the table grew past that. Page with limit/offset
+  // (no extra headers, so no new CORS preflight) until a short page comes back.
+  const PAGE = 1000;
+  const rows = [];
+  for(let from = 0; ; from += PAGE){
+    const response = await fetch(`${endpoint}&limit=${PAGE}&offset=${from}`, {
+      headers: {
+        apikey: config.anonKey,
+        Authorization: `Bearer ${config.anonKey}`,
+      },
+    });
+    if(!response.ok) throw new Error(`Supabase restaurants request failed (${response.status})`);
+    const page = await response.json();
+    if(!Array.isArray(page)) throw new Error('Supabase restaurants response was not a list');
+    rows.push(...page);
+    if(page.length < PAGE || from > 20000) break;
+  }
   if(!Array.isArray(rows) || rows.length === 0) throw new Error('Supabase restaurants table is empty');
 
   restaurants = rows.map(row=>({
