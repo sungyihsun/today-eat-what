@@ -86,3 +86,17 @@ jobs:
           git checkout -B PRD origin/PRD
           git merge origin/QAS --ff-only
           git push origin PRD
+
+      # A push made with GITHUB_TOKEN never triggers the "Sync restaurants to Supabase" workflow,
+      # so the refreshed photo URLs / hours would sit in the CSV while the live site (which reads
+      # Supabase) kept the dead ones. Import right here instead.
+      - uses: actions/setup-node@v4
+        if: steps.commit.outputs.changed == 'true'
+        with:
+          node-version: 20
+      - name: Import refreshed data into Supabase
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: node scripts/import-restaurants.mjs
