@@ -19,48 +19,6 @@
   ],
   "area_label": "外埔"
  },
- "4949575008932336770": {
-  "place_id": "ChIJd2p8GCAOaTQRghSQJD9ssEQ",
-  "name": "酸豆義式小館",
-  "address": "438台灣臺中市外埔區大東里大馬路482巷87號",
-  "rating": 4.2,
-  "userRatingCount": 231,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=4949575008932336770&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.3439013,
-   "longitude": 120.6435652
-  },
-  "types": [
-   "italian_restaurant",
-   "european_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "外埔"
- },
- "18306792656191296561": {
-  "place_id": "ChIJMahxMiwRaTQRMRQDYe3KDv4",
-  "name": "餘心味",
-  "address": "438台灣臺中市外埔區大東里甲后路五段46巷13號",
-  "rating": 4.9,
-  "userRatingCount": 131,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=18306792656191296561&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.3425388,
-   "longitude": 120.6389536
-  },
-  "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "外埔"
- },
  "2917993908935096499": {
   "place_id": "ChIJHd_F6zwPaTQRs3jU_v_Lfig",
   "name": "米占小姐 全預約制鹹食咖啡廳（炒泡麵）",
@@ -104,66 +62,6 @@
   ],
   "area_label": "外埔"
  },
- "711537111515765001": {
-  "place_id": "ChIJVSDM6xIRaTQRCZlnqDvj3wk",
-  "name": "尚汯美食-舌尖上的美味",
-  "address": "438台灣臺中市外埔區大同里中山路109號",
-  "rating": 5,
-  "userRatingCount": 34,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=711537111515765001&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.3284313,
-   "longitude": 120.6542959
-  },
-  "types": [
-   "store",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "外埔"
- },
- "8688662932220507148": {
-  "place_id": "ChIJA5A_p_ERaTQRDHQbAOdUlHg",
-  "name": "水美土雞城",
-  "address": "438台灣臺中市外埔區二崁路658巷88號",
-  "rating": 4.4,
-  "userRatingCount": 362,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=8688662932220507148&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.331643399999997,
-   "longitude": 120.62860130000001
-  },
-  "types": [
-   "taiwanese_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "外埔"
- },
- "13522178630533553025": {
-  "place_id": "ChIJoR1Mfc0RaTQRgZtUJtJtqLs",
-  "name": "ST workshop 手作烘焙坊",
-  "address": "438台灣臺中市外埔區六分路中興巷18號(對面",
-  "rating": 4.8,
-  "userRatingCount": 247,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=13522178630533553025&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.326926800000003,
-   "longitude": 120.66434919999999
-  },
-  "types": [
-   "cafe",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "外埔"
- },
  "10313588582734470035": {
   "place_id": "ChIJkXV3wdcRaTQRk5tpGSw6IY8",
   "name": "米修廚房",
@@ -184,44 +82,42 @@
   ],
   "area_label": "外埔"
  },
- "17889390222148014131": {
-  "place_id": "ChIJkbuzdwARaTQRM5B6_5_hQ_g",
-  "name": "農藝傳坊-尚汯美食",
-  "address": "43856台灣臺中市外埔區六分里水頭一路196號",
-  "rating": 4.7,
-  "userRatingCount": 18,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=17889390222148014131&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "4949575008932336770": {
+  "place_id": "ChIJd2p8GCAOaTQRghSQJD9ssEQ",
+  "name": "酸豆義式小館",
+  "address": "438台灣臺中市外埔區大東里大馬路482巷87號",
+  "rating": 4.2,
+  "userRatingCount": 231,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=4949575008932336770&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.320511999999997,
-   "longitude": 120.6742872
+   "latitude": 24.3439013,
+   "longitude": 120.6435652
   },
   "types": [
+   "italian_restaurant",
+   "european_restaurant",
    "restaurant",
-   "food_court",
-   "farmers_market",
-   "market",
-   "store",
    "food",
    "point_of_interest",
    "establishment"
   ],
   "area_label": "外埔"
  },
- "13375786585072542138": {
-  "place_id": "ChIJ92CEygQRaTQRuiGv-gdXoLk",
-  "name": "?鍋燒麵（甲東店）/restaurants/takeout/台中美食/外埔美食/附近美食/推薦晚餐",
-  "address": "438台灣臺中市外埔區大東里甲后路五段142號",
-  "rating": 4.7,
-  "userRatingCount": 18,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=13375786585072542138&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "18306792656191296561": {
+  "place_id": "ChIJMahxMiwRaTQRMRQDYe3KDv4",
+  "name": "餘心味",
+  "address": "438台灣臺中市外埔區大東里甲后路五段46巷13號",
+  "rating": 4.9,
+  "userRatingCount": 131,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=18306792656191296561&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.342881,
-   "longitude": 120.6371824
+   "latitude": 24.3425388,
+   "longitude": 120.6389536
   },
   "types": [
-   "restaurant",
+   "cafe",
    "food",
    "point_of_interest",
    "establishment"
@@ -243,70 +139,26 @@
   "types": [
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "外埔"
  },
- "15046375913873940883": {
-  "place_id": "ChIJX4Goh9ARaTQRkyFzryx3z9A",
-  "name": "小皇仙牛排館",
-  "address": "438台灣臺中市外埔區大同里六分路269號",
-  "rating": 4,
-  "userRatingCount": 429,
+ "8688662932220507148": {
+  "place_id": "ChIJA5A_p_ERaTQRDHQbAOdUlHg",
+  "name": "水美土雞城",
+  "address": "438台灣臺中市外埔區二崁路658巷88號",
+  "rating": 4.4,
+  "userRatingCount": 362,
   "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=15046375913873940883&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=8688662932220507148&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.3320173,
-   "longitude": 120.6549718
+   "latitude": 24.331643399999997,
+   "longitude": 120.62860130000001
   },
   "types": [
-   "western_restaurant",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "外埔"
- },
- "13637710193717428529": {
-  "place_id": "ChIJc4UnKXgRaTQRMUFAXirhQr0",
-  "name": "巷弄甜點工作室 (外埔取貨點｜少量現貨｜須加Line預約取貨時間)",
-  "address": "438台灣臺中市外埔區二崁路500號巷1號",
-  "rating": 5,
-  "userRatingCount": 114,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=13637710193717428529&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.324137699999998,
-   "longitude": 120.6333163
-  },
-  "types": [
-   "dessert_shop",
-   "confectionery",
-   "food_store",
-   "store",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "外埔"
- },
- "6960918788594486277": {
-  "place_id": "ChIJjezwzM8RaTQRBUyE-MEmmmA",
-  "name": "耀和越南小吃店",
-  "address": "438台灣臺中市外埔區六分里甲后路三段787號",
-  "rating": 4.6,
-  "userRatingCount": 54,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=6960918788594486277&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.3279027,
-   "longitude": 120.65718969999999
-  },
-  "types": [
-   "vietnamese_restaurant",
+   "taiwanese_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -337,17 +189,17 @@
   ],
   "area_label": "外埔"
  },
- "11001892622194157685": {
-  "place_id": "ChIJq6Rb7doRaTQRdajfogyTrpg",
-  "name": "吉羊薯薯",
-  "address": "438台灣臺中市外埔區大同里重光路29巷34號",
-  "rating": 4.9,
-  "userRatingCount": 40,
+ "9355408907973496924": {
+  "place_id": "ChIJrSD7shERaTQRXBBJsNUW1YE",
+  "name": "珍禾美食 Z.H Gourmet",
+  "address": "438台灣臺中市外埔區大同里中山路280號",
+  "rating": 4.4,
+  "userRatingCount": 27,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=11001892622194157685&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=9355408907973496924&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.3321049,
-   "longitude": 120.65115510000001
+   "latitude": 24.3301575,
+   "longitude": 120.6570971
   },
   "types": [
    "restaurant",
@@ -357,20 +209,125 @@
   ],
   "area_label": "外埔"
  },
- "7645707472703900344": {
-  "place_id": "ChIJt1hNJGURaTQRuMoQD3ACG2o",
-  "name": "元氣早午餐輕食 外埔店",
-  "address": "438台灣臺中市外埔區六分里六分路280巷11號",
-  "rating": 4.6,
-  "userRatingCount": 103,
+ "13185672766585742006": {
+  "place_id": "ChIJyZ_x5NARaTQRtqLiQIXr_LY",
+  "name": "台灣牛麵食館",
+  "address": "438台灣臺中市外埔區六分里六分路280巷33號",
+  "rating": 4.4,
+  "userRatingCount": 163,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=7645707472703900344&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=13185672766585742006&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.332554299999998,
-   "longitude": 120.6565181
+   "latitude": 24.3326036,
+   "longitude": 120.65693669999999
   },
   "types": [
-   "breakfast_restaurant",
+   "chinese_noodle_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "外埔"
+ },
+ "711537111515765001": {
+  "place_id": "ChIJVSDM6xIRaTQRCZlnqDvj3wk",
+  "name": "尚汯美食-舌尖上的美味",
+  "address": "438台灣臺中市外埔區大同里中山路109號",
+  "rating": 5,
+  "userRatingCount": 34,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=711537111515765001&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3284313,
+   "longitude": 120.6542959
+  },
+  "types": [
+   "store",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "外埔"
+ },
+ "13929817197957507399": {
+  "place_id": "ChIJ09Q189ARaTQRR2liLvCmUME",
+  "name": "半斤小吃店",
+  "address": "438台灣臺中市外埔區六分里六分路278號",
+  "rating": 4.5,
+  "userRatingCount": 76,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=13929817197957507399&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.332297300000004,
+   "longitude": 120.6559225
+  },
+  "types": [
+   "taiwanese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "外埔"
+ },
+ "13522178630533553025": {
+  "place_id": "ChIJoR1Mfc0RaTQRgZtUJtJtqLs",
+  "name": "ST workshop 手作烘焙坊",
+  "address": "438台灣臺中市外埔區六分路中興巷18號(對面",
+  "rating": 4.8,
+  "userRatingCount": 247,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=13522178630533553025&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.326926800000003,
+   "longitude": 120.66434919999999
+  },
+  "types": [
+   "cafe",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "外埔"
+ },
+ "17889390222148014131": {
+  "place_id": "ChIJkbuzdwARaTQRM5B6_5_hQ_g",
+  "name": "農藝傳坊-尚汯美食",
+  "address": "43856台灣臺中市外埔區六分里水頭一路196號",
+  "rating": 4.7,
+  "userRatingCount": 18,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=17889390222148014131&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.320511999999997,
+   "longitude": 120.6742872
+  },
+  "types": [
+   "restaurant",
+   "food_court",
+   "farmers_market",
+   "market",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "外埔"
+ },
+ "15046375913873940883": {
+  "place_id": "ChIJX4Goh9ARaTQRkyFzryx3z9A",
+  "name": "小皇仙牛排館",
+  "address": "438台灣臺中市外埔區大同里六分路269號",
+  "rating": 4,
+  "userRatingCount": 429,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=15046375913873940883&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3320173,
+   "longitude": 120.6549718
+  },
+  "types": [
+   "western_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -389,6 +346,27 @@
   "location": {
    "latitude": 24.3319393,
    "longitude": 120.65296570000001
+  },
+  "types": [
+   "breakfast_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "外埔"
+ },
+ "7645707472703900344": {
+  "place_id": "ChIJt1hNJGURaTQRuMoQD3ACG2o",
+  "name": "元氣早午餐輕食 外埔店",
+  "address": "438台灣臺中市外埔區六分里六分路280巷11號",
+  "rating": 4.6,
+  "userRatingCount": 103,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=7645707472703900344&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.332554299999998,
+   "longitude": 120.6565181
   },
   "types": [
    "breakfast_restaurant",
@@ -440,6 +418,26 @@
   ],
   "area_label": "外埔"
  },
+ "17520358244521720430": {
+  "place_id": "ChIJ8_wSkdoRaTQRbrpNHv_QJPM",
+  "name": "鄭 腳庫飯便當",
+  "address": "438台灣臺中市外埔區大同里甲后路三段1011號",
+  "rating": 4.5,
+  "userRatingCount": 331,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=17520358244521720430&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3314913,
+   "longitude": 120.6535154
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "外埔"
+ },
  "15868492862351466615": {
   "place_id": "ChIJKR979NoRaTQRd-BH9S42ONw",
   "name": "活力寶早點",
@@ -461,20 +459,20 @@
   ],
   "area_label": "外埔"
  },
- "16162277646338874073": {
-  "place_id": "ChIJ4y1M5YkPaTQR2dpDT-PxS-A",
-  "name": "飽葫蘆中西式早餐",
-  "address": "438台灣臺中市外埔區鐵山里長生路1090號",
-  "rating": 4.4,
-  "userRatingCount": 27,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=16162277646338874073&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "18308369018495044260": {
+  "place_id": "ChIJRYmIW_EPaTQRpAoq1J5kFP4",
+  "name": "田園餐飲",
+  "address": "438台灣臺中市外埔區土城里土城路95-2號",
+  "rating": 4.3,
+  "userRatingCount": 35,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=18308369018495044260&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.3468955,
-   "longitude": 120.64416960000001
+   "latitude": 24.3438181,
+   "longitude": 120.70576409999998
   },
   "types": [
-   "breakfast_restaurant",
+   "chinese_restaurant",
    "restaurant",
    "food",
    "point_of_interest",
@@ -519,67 +517,6 @@
    "store",
    "food",
    "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "外埔"
- },
- "7905939983095516962": {
-  "place_id": "ChIJzyanc-IRaTQRIk_384aKt20",
-  "name": "阿宗鵝肉",
-  "address": "438台灣臺中市外埔區大東里甲后路五段250號",
-  "rating": 4.3,
-  "userRatingCount": 347,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=7905939983095516962&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.3438572,
-   "longitude": 120.63562490000001
-  },
-  "types": [
-   "restaurant",
-   "point_of_interest",
-   "food",
-   "establishment"
-  ],
-  "area_label": "外埔"
- },
- "6135994527216336246": {
-  "place_id": "ChIJ2UXditARaTQRdn14OoNuJ1U",
-  "name": "老李牛肉麵",
-  "address": "438台灣臺中市外埔區大同里中山路301號",
-  "rating": 4.2,
-  "userRatingCount": 439,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=6135994527216336246&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.331919499999998,
-   "longitude": 120.65577640000001
-  },
-  "types": [
-   "noodle_shop",
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "外埔"
- },
- "12899708456766095490": {
-  "place_id": "ChIJMdbKUfQRaTQRgkCl7374BLM",
-  "name": "檸檬森林農場｜無毒玉翡翠檸檬（參觀必須先預約）",
-  "address": "438台灣臺中市外埔區永豐里六分路120之8號",
-  "rating": 4.9,
-  "userRatingCount": 90,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=12899708456766095490&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.331329399999998,
-   "longitude": 120.67446109999997
-  },
-  "types": [
-   "farm",
-   "point_of_interest",
-   "service",
    "establishment"
   ],
   "area_label": "外埔"
@@ -645,44 +582,25 @@
   ],
   "area_label": "外埔"
  },
- "13782196251546971256": {
-  "place_id": "ChIJoTJpCtARaTQReGwtNngyRL8",
-  "name": "外埔-逢甲阿郎",
-  "address": "438台灣臺中市外埔區六分里甲后路三段949號",
-  "rating": 4.3,
-  "userRatingCount": 87,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=13782196251546971256&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "13637710193717428529": {
+  "place_id": "ChIJc4UnKXgRaTQRMUFAXirhQr0",
+  "name": "巷弄甜點工作室 (外埔取貨點｜少量現貨｜須加Line預約取貨時間)",
+  "address": "438台灣臺中市外埔區二崁路500號巷1號",
+  "rating": 5,
+  "userRatingCount": 114,
+  "priceLevel": null,
+  "googleMapsUri": "https://maps.google.com/?cid=13637710193717428529&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.3305248,
-   "longitude": 120.654427
+   "latitude": 24.324137699999998,
+   "longitude": 120.6333163
   },
   "types": [
-   "restaurant",
-   "food",
-   "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "外埔"
- },
- "1094128399909678572": {
-  "place_id": "ChIJ4XUI2toRaTQR7G1Il_sfLw8",
-  "name": "巷仔口香雞排",
-  "address": "438台灣臺中市外埔區大同里中山路23號",
-  "rating": 4.6,
-  "userRatingCount": 45,
-  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=1094128399909678572&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.3306045,
-   "longitude": 120.65208349999999
-  },
-  "types": [
-   "deli",
+   "dessert_shop",
+   "confectionery",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "外埔"
@@ -703,8 +621,8 @@
    "bakery",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "外埔"
@@ -723,8 +641,29 @@
   },
   "types": [
    "coffee_roastery",
-   "food",
    "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "area_label": "外埔"
+ },
+ "8106834382922349169": {
+  "place_id": "ChIJ4X-uFNMRaTQRcXoCX-tCgXA",
+  "name": "呆呆&萌萌(預約制)",
+  "address": "438台灣臺中市外埔區永豐里六分路128-6號",
+  "rating": 4.9,
+  "userRatingCount": 19,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=8106834382922349169&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3329454,
+   "longitude": 120.67176010000001
+  },
+  "types": [
+   "food_store",
+   "store",
+   "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "外埔"
@@ -746,29 +685,8 @@
    "cafe",
    "food_store",
    "store",
-   "food",
    "point_of_interest",
-   "establishment"
-  ],
-  "area_label": "外埔"
- },
- "8106834382922349169": {
-  "place_id": "ChIJ4X-uFNMRaTQRcXoCX-tCgXA",
-  "name": "呆呆&萌萌(預約制)",
-  "address": "438台灣臺中市外埔區永豐里六分路128-6號",
-  "rating": 4.9,
-  "userRatingCount": 19,
-  "priceLevel": "PRICE_LEVEL_MODERATE",
-  "googleMapsUri": "https://maps.google.com/?cid=8106834382922349169&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-  "location": {
-   "latitude": 24.3329454,
-   "longitude": 120.67176010000001
-  },
-  "types": [
-   "food_store",
-   "store",
    "food",
-   "point_of_interest",
    "establishment"
   ],
   "area_label": "外埔"
@@ -814,21 +732,22 @@
   ],
   "area_label": "外埔"
  },
- "1749398147557059498": {
-  "place_id": "ChIJIfex1v8RaTQRqmvds1gcRxg",
-  "name": "忘憂巴士",
-  "address": "438台灣臺中市外埔區三崁里溪底路173號",
-  "rating": 4.4,
-  "userRatingCount": 206,
-  "priceLevel": null,
-  "googleMapsUri": "https://maps.google.com/?cid=1749398147557059498&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+ "7905939983095516962": {
+  "place_id": "ChIJzyanc-IRaTQRIk_384aKt20",
+  "name": "阿宗鵝肉",
+  "address": "438台灣臺中市外埔區大東里甲后路五段250號",
+  "rating": 4.3,
+  "userRatingCount": 347,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "googleMapsUri": "https://maps.google.com/?cid=7905939983095516962&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.309132599999998,
-   "longitude": 120.64669959999999
+   "latitude": 24.3438572,
+   "longitude": 120.63562490000001
   },
   "types": [
-   "tourist_attraction",
+   "restaurant",
    "point_of_interest",
+   "food",
    "establishment"
   ],
   "area_label": "外埔"
@@ -855,20 +774,20 @@
   ],
   "area_label": "外埔"
  },
- "13929817197957507399": {
-  "place_id": "ChIJ09Q189ARaTQRR2liLvCmUME",
-  "name": "半斤小吃店",
-  "address": "438台灣臺中市外埔區六分里六分路278號",
-  "rating": 4.5,
-  "userRatingCount": 76,
+ "6135994527216336246": {
+  "place_id": "ChIJ2UXditARaTQRdn14OoNuJ1U",
+  "name": "老李牛肉麵",
+  "address": "438台灣臺中市外埔區大同里中山路301號",
+  "rating": 4.2,
+  "userRatingCount": 439,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=13929817197957507399&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=6135994527216336246&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.332297300000004,
-   "longitude": 120.6559225
+   "latitude": 24.331919499999998,
+   "longitude": 120.65577640000001
   },
   "types": [
-   "taiwanese_restaurant",
+   "noodle_shop",
    "restaurant",
    "food",
    "point_of_interest",
@@ -876,19 +795,20 @@
   ],
   "area_label": "外埔"
  },
- "8642995793564837753": {
-  "place_id": "ChIJcQKAVQARaTQReaegtuEW8nc",
-  "name": "許 臭豆腐",
-  "address": "438台灣臺中市外埔區中山路",
+ "12114533180418948164": {
+  "place_id": "ChIJj9VUzFARaTQRRPyN9r13H6g",
+  "name": "麵拾光",
+  "address": "438台灣臺中市外埔區大東里甲后路五段256號",
   "rating": 4.8,
-  "userRatingCount": 33,
+  "userRatingCount": 24,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=8642995793564837753&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=12114533180418948164&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.3301704,
-   "longitude": 120.65162609999999
+   "latitude": 24.343908600000002,
+   "longitude": 120.63554409999999
   },
   "types": [
+   "noodle_shop",
    "restaurant",
    "food",
    "point_of_interest",
@@ -916,20 +836,126 @@
   ],
   "area_label": "外埔"
  },
- "12114533180418948164": {
-  "place_id": "ChIJj9VUzFARaTQRRPyN9r13H6g",
-  "name": "麵拾光",
-  "address": "438台灣臺中市外埔區大東里甲后路五段256號",
+ "1608223133595051686": {
+  "place_id": "ChIJz0dGxwUPaTQRpqZ_VWuOURY",
+  "name": "阿嬤的店",
+  "address": "438台灣臺中市外埔區鐵山里長生路582號",
   "rating": 4.8,
-  "userRatingCount": 24,
+  "userRatingCount": 39,
   "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
-  "googleMapsUri": "https://maps.google.com/?cid=12114533180418948164&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "googleMapsUri": "https://maps.google.com/?cid=1608223133595051686&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
   "location": {
-   "latitude": 24.343908600000002,
-   "longitude": 120.63554409999999
+   "latitude": 24.347938900000003,
+   "longitude": 120.6554522
   },
   "types": [
-   "noodle_shop",
+   "deli",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "外埔"
+ },
+ "6960918788594486277": {
+  "place_id": "ChIJjezwzM8RaTQRBUyE-MEmmmA",
+  "name": "耀和越南小吃店",
+  "address": "438台灣臺中市外埔區六分里甲后路三段787號",
+  "rating": 4.6,
+  "userRatingCount": 54,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=6960918788594486277&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3279027,
+   "longitude": 120.65718969999999
+  },
+  "types": [
+   "vietnamese_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "外埔"
+ },
+ "10802366103981994208": {
+  "place_id": "ChIJq4i9wNcRaTQR4DCR-by26ZU",
+  "name": "外埔肉粽(原田媽媽外埔肉粽）",
+  "address": "438台灣臺中市外埔區中山里中山路486號",
+  "rating": 4.2,
+  "userRatingCount": 944,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=10802366103981994208&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.338429,
+   "longitude": 120.65613359999999
+  },
+  "types": [
+   "deli",
+   "food_store",
+   "store",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "外埔"
+ },
+ "11001892622194157685": {
+  "place_id": "ChIJq6Rb7doRaTQRdajfogyTrpg",
+  "name": "吉羊薯薯",
+  "address": "438台灣臺中市外埔區大同里重光路29巷34號",
+  "rating": 4.9,
+  "userRatingCount": 40,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=11001892622194157685&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3321049,
+   "longitude": 120.65115510000001
+  },
+  "types": [
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "外埔"
+ },
+ "9071378452366632249": {
+  "place_id": "ChIJG57KvgcRaTQROSVy5KMC5H0",
+  "name": "石一籠湯包。排骨酥/麵-外埔店",
+  "address": "438台灣臺中市外埔區水美里水美路38號",
+  "rating": 4.8,
+  "userRatingCount": 16,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=9071378452366632249&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.331128699999997,
+   "longitude": 120.63431619999999
+  },
+  "types": [
+   "snack_bar",
+   "meal_takeaway",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "area_label": "外埔"
+ },
+ "9901472495526504531": {
+  "place_id": "ChIJfb6XCzURaTQRU2goQcYYaYk",
+  "name": "好記油飯",
+  "address": "438台灣臺中市外埔區大同里甲后路三段1057號",
+  "rating": 4.8,
+  "userRatingCount": 48,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "googleMapsUri": "https://maps.google.com/?cid=9901472495526504531&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "location": {
+   "latitude": 24.3321306,
+   "longitude": 120.6527436
+  },
+  "types": [
    "restaurant",
    "food",
    "point_of_interest",
