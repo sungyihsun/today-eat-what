@@ -1552,5 +1552,196 @@
   "expect": [
    "福岡市"
   ]
+ },
+ {
+  "key": "pdf-daimaru",
+  "query": "大丸福岡天神店",
+  "lat": 33.591,
+  "lng": 130.399,
+  "expect": [
+   "福岡市"
+  ]
+ },
+ {
+  "key": "pdf-mitsukoshi",
+  "query": "岩田屋三越 福岡三越",
+  "lat": 33.591,
+  "lng": 130.399,
+  "expect": [
+   "福岡市"
+  ]
+ },
+ {
+  "key": "pdf-painstock",
+  "query": "パンストック 天神店",
+  "lat": 33.591,
+  "lng": 130.399,
+  "expect": [
+   "福岡市"
+  ]
+ },
+ {
+  "key": "pdf-tannal",
+  "query": "cafe TANNAL 福岡大名店",
+  "lat": 33.5875,
+  "lng": 130.393,
+  "expect": [
+   "福岡市"
+  ]
+ },
+ {
+  "key": "pdf-tsutaya",
+  "query": "蔦屋書店 六本松",
+  "lat": 33.578,
+  "lng": 130.378,
+  "expect": [
+   "福岡市"
+  ]
+ },
+ {
+  "key": "pdf-fukcoffee",
+  "query": "FUK COFFEE 福岡",
+  "lat": 33.591,
+  "lng": 130.399,
+  "expect": [
+   "福岡市"
+  ]
+ },
+ {
+  "key": "pdf-meisan",
+  "query": "名産 THE 天神",
+  "lat": 33.591,
+  "lng": 130.399,
+  "expect": [
+   "福岡市"
+  ]
+ },
+ {
+  "key": "pdf-kisuimaru",
+  "query": "博多の海鮮料理 喜水丸 博多一番街店",
+  "lat": 33.59,
+  "lng": 130.42,
+  "expect": [
+   "福岡市"
+  ]
+ },
+ {
+  "key": "pdf-umeyama",
+  "query": "梅山鉄平食堂 渡辺通本店",
+  "lat": 33.591,
+  "lng": 130.399,
+  "expect": [
+   "福岡市"
+  ]
+ },
+ {
+  "key": "pdf-kogane",
+  "query": "小金 屋台",
+  "lat": 33.5922,
+  "lng": 130.4075,
+  "expect": [
+   "福岡市"
+  ]
+ },
+ {
+  "key": "pdf-yanagibashi",
+  "query": "柳橋食堂",
+  "lat": 33.59,
+  "lng": 130.42,
+  "expect": [
+   "福岡市"
+  ]
+ },
+ {
+  "key": "pdf-hanamidori",
+  "query": "水炊き 博多華味鳥 博多駅前店",
+  "lat": 33.59,
+  "lng": 130.42,
+  "expect": [
+   "福岡市"
+  ]
+ },
+ {
+  "key": "pdf-artmuseum",
+  "query": "福岡市美術館",
+  "lat": 33.5875,
+  "lng": 130.377,
+  "expect": [
+   "福岡市"
+  ]
+ },
+ {
+  "key": "pdf-kenritsu",
+  "query": "福岡県立美術館",
+  "lat": 33.591,
+  "lng": 130.399,
+  "expect": [
+   "福岡市"
+  ]
+ },
+ {
+  "key": "pdf-museum",
+  "query": "福岡市博物館",
+  "lat": 33.5935,
+  "lng": 130.357,
+  "expect": [
+   "福岡市"
+  ]
+ },
+ {
+  "key": "pdf-umippi",
+  "query": "福岡市海浜公園 海っぴビーチ",
+  "lat": 33.5935,
+  "lng": 130.357,
+  "expect": [
+   "福岡市"
+  ]
+ },
+ {
+  "key": "pdf-seiryu",
+  "query": "清流公園",
+  "lat": 33.5922,
+  "lng": 130.4075,
+  "expect": [
+   "福岡市"
+  ]
+ },
+ {
+  "key": "pdf-nihonteien",
+  "query": "大濠公園 日本庭園",
+  "lat": 33.5875,
+  "lng": 130.377,
+  "expect": [
+   "福岡市"
+  ]
+ },
+ {
+  "key": "pdf-marineworld",
+  "query": "マリンワールド海の中道",
+  "lat": 33.656,
+  "lng": 130.36,
+  "expect": [
+   "福岡市"
+  ]
+ },
+ {
+  "key": "pdf-asocrater",
+  "query": "阿蘇山 火口 噴煙",
+  "lat": 32.88,
+  "lng": 131.085,
+  "expect": [
+   "阿蘇市",
+   "高森町",
+   "南阿蘇村"
+  ]
+ },
+ {
+  "key": "pdf-iris",
+  "query": "Iris pond 福岡",
+  "lat": 33.5875,
+  "lng": 130.377,
+  "expect": [
+   "福岡市"
+  ]
  }
 ]
